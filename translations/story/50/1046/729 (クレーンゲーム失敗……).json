@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "4NLOVJCQOL563QMBDO7IBK6O4XOUGK5D",
+    "version": 6,
+    "bundle": "QRXY2MLYFDETMONIIMW5QKGZRKP45RSP",
     "type": "story",
     "storyId": "501046729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "うぅ～、惜しかったね……。",
-            "enText": "Ugh, that was so close. ……",
+            "enText": "Awww... You were so close...",
             "nextBlock": 2,
             "origClipLength": 61,
+            "voiceIdx": 17,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry ……",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry ……",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 4951596812096416527
+                    "pathId": -6622057769765006287
                 },
                 {
                     "origLen": 72,
-                    "pathId": -6622057769765006287
+                    "pathId": 4951596812096416527
                 }
             ],
             "pathId": -2308841416019529844,
@@ -41,17 +44,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "あ、ううん、気にしないで！　だって\r\nトレーナーさん、すごく頑張ってくれたから！",
-            "enText": "Oh, no, never mind! Because your trainer \nworked really hard!",
+            "enText": "Don't worry, Trainer! I mean, you really<n>tried your\nbest!",
             "nextBlock": 3,
             "origClipLength": 97,
+            "voiceIdx": 2,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -6716427820503434707
-                },
                 {
                     "origLen": 108,
                     "pathId": -3789283702766790037
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6716427820503434707
                 }
             ],
             "pathId": 5584526800181351983,
@@ -61,17 +66,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "そうだ、今日はぱーっと明るい歌\r\n歌って帰ろうよ！　――ね、ねっ！？",
-            "enText": "Yeah, let's sing a quick, cheerful song and \ngo home today! ―Let's sing a song and go home!",
+            "enText": "I know! Let's sing an uplifting song<n>before we\nhead back! How does that<n>sound?!",
             "nextBlock": 4,
             "origClipLength": 89,
+            "voiceIdx": 53,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": 1062250276364237765
-                },
                 {
                     "origLen": 100,
                     "pathId": -9057971019134977059
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1062250276364237765
                 }
             ],
             "pathId": 6562566942018752005,
@@ -81,22 +88,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": -6089801752859718416
+                    "pathId": 4357371981574892298
                 },
                 {
                     "origLen": 72,
-                    "pathId": 4357371981574892298
+                    "pathId": -6089801752859718416
                 }
             ],
             "pathId": 4212481500571560226,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555061
+    ]
 }

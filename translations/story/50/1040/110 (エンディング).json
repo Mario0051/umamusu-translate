@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "36PIV4MFUZJ5FDTBD2R36JCSTYHII5HR",
+    "version": 6,
+    "bundle": "XCWVBHXJI32NB4CCEH3THISSGHZFIMGC",
     "type": "story",
     "storyId": "501040110",
     "title": "エンディング",
+    "enTitle": "Ending (Normal)",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシチーは見事、\nトゥインクル・シリーズで\n結果を残すことができた。",
-            "enText": "Gold City has done well \nin the Twinkle Series.",
+            "enText": "Gold City has managed to leave quite a<n>mark on\nthe Twinkle Series.",
             "nextBlock": 2,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3094515782146598677,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "とても大事な『最初の3年間』を、\n共に乗り切ることができたのだ。",
-            "enText": "We were able to get through the very \nimportant \"first three years\" together.",
+            "enText": "Together, we've successfully navigated<n>the crucial\nfirst three years of her career.",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3278850200885117209,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして――",
-            "enText": "And―",
+            "enText": "And now...",
             "nextBlock": 4,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4655683047913616341,
             "blockIdx": 3
         },
@@ -36,13 +46,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 5,
+            "origClipLength": 72,
+            "voiceIdx": 105,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "おはよう、シチー",
                     "enText": "Good morning, City.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8476824551795759183
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1930280590637208907
                 }
             ],
             "pathId": -4819416505201896518,
@@ -52,18 +75,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "…………はよ。",
-            "enText": "… is a good place to start.",
+            "enText": "...Morning.",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "voiceIdx": 41,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "今日も見事な低血圧だな！",
-                    "enText": "Another stunningly low blood pressure today!",
+                    "enText": "Stunningly low energy as always!",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "今日も見事な低血圧だね！",
-                    "enText": "Another stunningly low blood pressure today!",
+                    "enText": "Stunningly low energy as always!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 2258354429538815806
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6546547166380478992
                 }
             ],
             "pathId": 4580320880790712151,
@@ -73,8 +109,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……アンタも朝から\n見事にうるっさいね。",
-            "enText": "… You are also spectacularly noisy in \nthe morning, aren't you?",
+            "enText": "You're stunningly loud this morning.",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "voiceIdx": 49,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 9064153806808442022
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5475061568998334064
+                }
+            ],
             "pathId": -1327486341125017647,
             "blockIdx": 6
         },
@@ -82,13 +131,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "…………ふぁ。",
-            "enText": "… Huh.",
+            "enText": "<i>Yawn...</i>",
             "nextBlock": 8,
+            "origClipLength": 72,
+            "voiceIdx": 105,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "もう少し開始時間、遅くしようか？",
-                    "enText": "Shall we start a little later?",
+                    "enText": "Do you want to push back our starting time?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -1976522862918077227
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4957140118935118756
                 }
             ],
             "pathId": 1906752569172209907,
@@ -98,8 +160,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……それはダメ。",
-            "enText": "… That's no good.",
+            "enText": "We're not doing that.",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "voiceIdx": 100,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -1270117291737586781
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -9159441146792424976
+                }
+            ],
             "pathId": -8483238262795859329,
             "blockIdx": 8
         },
@@ -107,8 +182,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "だってアタシ、\n少しでも多く走りたいし。",
-            "enText": "Because I want to run as \nmany races as possible.",
+            "enText": "I want to run as much as possible.",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -1254020154714580914
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -1511668076790552425
+                }
+            ],
             "pathId": 6618049127437106228,
             "blockIdx": 9
         },
@@ -116,8 +204,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アンタのことも、もっと高いとこまで\r\n連れてってやんないといけないし？",
-            "enText": "I'm going to have to take you to \nhigher ground, too, aren't I?",
+            "enText": "There are higher heights to reach, and<n>I've got to\nshow you them all.",
             "nextBlock": 11,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4035311951953711744
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5162075752162739642
+                }
+            ],
             "pathId": 779332287538663725,
             "blockIdx": 10
         },
@@ -125,13 +226,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……あ、なんか目ぇ覚めてきたかも。",
-            "enText": "… Oh, I think I'm starting to wake up.",
+            "enText": "Oh, look at that, I'm feeling more awake<n>now.",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": 77,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "走りたいから？",
                     "enText": "Because you want to run?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6756716469067785840
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 6587539062941656157
                 }
             ],
             "pathId": 5791849402127215763,
@@ -141,13 +255,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……ガキかよって思ってない？",
-            "enText": "Do you think… kids?",
+            "enText": "What, you think it's childish?",
             "nextBlock": 13,
+            "origClipLength": 63,
+            "voiceIdx": 3,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "走るのが大好きなんだなって思ってる",
-                    "enText": "I'm thinking she loves to run.",
+                    "enText": "I think it goes to show how much you love\nrunning.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 4968831041779056289
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 3681553216838737301
                 }
             ],
             "pathId": -706249436051439539,
@@ -157,8 +284,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "それは……間違ってないわ。",
-            "enText": "That's not… wrong.",
+            "enText": "That's... not wrong.",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "voiceIdx": 80,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 2396351451203933616
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8371074636219929638
+                }
+            ],
             "pathId": 1163726103558445263,
             "blockIdx": 13
         },
@@ -166,8 +306,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "っし、まずウォーミングアップかな。\nじゃ、行ってくるわ。",
-            "enText": "I guess I'll warm up first. Okay, I'm off.",
+            "enText": "All right, let's start with a warm-up. Here<n>I go.",
             "nextBlock": 15,
+            "origClipLength": 81,
+            "voiceIdx": 10,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4872964689013078077
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4071479850016138370
+                }
+            ],
             "pathId": -4562748654808146642,
             "blockIdx": 14
         },
@@ -175,8 +328,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "走りだしたゴールドシチー。\n太陽の光を受け、嬉しそうに走る彼女は、\n今日も――",
-            "enText": "Gold City is running. She is running happily \nin the sunshine, and today…",
+            "enText": "Gold City takes off running. Bathed in<n>the\nsunlight, she breaks into a smile.<n>Today, like so\nmany days before...",
             "nextBlock": 16,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 6181423225355423924
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4246658686934256667
+                }
+            ],
             "pathId": -343067002940296559,
             "blockIdx": 15
         },
@@ -184,8 +350,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――とてもキレイだ。",
-            "enText": "―very beautiful.",
+            "enText": "It's a beautiful sight to behold.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2035612660345274967,
             "blockIdx": 16
         }

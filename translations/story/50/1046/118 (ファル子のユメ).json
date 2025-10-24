@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "WEY5S6NAIDE5IP5HCPKFOKWGHJTV3D6Q",
+    "version": 6,
+    "bundle": "RGWZLXA7DOT5RA2SSA33LUJSW24WTEWB",
     "type": "story",
     "storyId": "501046118",
     "title": "ファル子のユメ",
+    "enTitle": "Falco's Dream",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "『チャンピオンズC』に向けた\nトレーニング初日……。",
-            "enText": "The first day of training \nfor the \"Champions C.\" ……",
+            "enText": "It's the first day of our training in<n>preparation for\nthe Champions Cup.",
             "nextBlock": 2,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3220538402295555439,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "――スマートファルコンは、\n時間になっても来なかった。",
-            "enText": "―The Smart Falcon didn't show up on time.",
+            "enText": "The scheduled start time comes and<n>goes, but\nSmart Falcon is nowhere to be<n>seen.",
             "nextBlock": 3,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2910900679938731541,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "恐らく単なるサボりではないだろう。\n彼女の向かう場所には、\n心当たりがあった――",
-            "enText": "Perhaps she wasn't just skipping work. I had \nan idea where she was headed.",
+            "enText": "I don't think she's simply playing hooky.<n>In fact, I\nhave an idea of where she<n>might be...",
             "nextBlock": 4,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6873109537172623523,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 5,
             "origClipLength": 48,
+            "voiceIdx": 78,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "ファル子",
-                    "enText": "Falco (missile)",
+                    "enText": "There you are.",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
                     "origLen": 92,
-                    "pathId": -4088265622035198026
+                    "pathId": -508572858678361444
                 },
                 {
                     "origLen": 92,
-                    "pathId": -508572858678361444
+                    "pathId": -4088265622035198026
                 }
             ],
             "pathId": -5653730963918981291,
@@ -66,17 +75,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "っ、トレーナーさん！？\nどうして――",
-            "enText": "What's going on, trainer? How did you―",
+            "enText": "Gyah! Trainer?! What are you doing h—",
             "nextBlock": 6,
             "origClipLength": 68,
+            "voiceIdx": 25,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 6940282591775436406
-                },
                 {
                     "origLen": 79,
                     "pathId": -533942558017762502
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6940282591775436406
                 }
             ],
             "pathId": 2093418876806569536,
@@ -86,17 +97,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……じゃないか☆\n探してくれたんだよね、私のこと。",
-            "enText": "I think it's ……☆ You've been \nlooking for me, haven't you?",
+            "enText": "Ahem! ☆ I mean, you found me!",
             "nextBlock": 7,
             "origClipLength": 77,
+            "voiceIdx": 0,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -8329613579716816332
-                },
                 {
                     "origLen": 88,
                     "pathId": 3691415867595309035
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -8329613579716816332
                 }
             ],
             "pathId": -1362167005954143184,
@@ -106,29 +119,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "トレーニング、サボってごめんなさい。\r\nでも……どうすればいいのかわからなくて。",
-            "enText": "Sorry for skipping your training, I'm sorry. \nBut I didn't know how to ……",
+            "enText": "I'm so sorry I skipped training! But... I<n>just didn't\nknow what to do.",
             "nextBlock": 8,
             "origClipLength": 97,
+            "voiceIdx": 143,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "俺で力になれる？",
-                    "enText": "Can I help you?",
+                    "enText": "Anything I can do?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "私で力になれる？",
-                    "enText": "Can I help you?",
+                    "enText": "Anything I can do?",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 72,
-                    "pathId": 333049462165072381
-                },
-                {
                     "origLen": 108,
                     "pathId": -6986212226440216415
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 333049462165072381
                 }
             ],
             "pathId": -6939267312351718470,
@@ -138,17 +153,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……。どうだろう。\nファル子の問題だから。",
-            "enText": "…… I don't know. It's a Falco issue.",
+            "enText": "...I'm not sure. It's my problem, after all.",
             "nextBlock": 9,
             "origClipLength": 72,
+            "voiceIdx": 35,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 4720570785746987238
-                },
                 {
                     "origLen": 83,
                     "pathId": 5271011607213167615
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4720570785746987238
                 }
             ],
             "pathId": -2505557401489465068,
@@ -158,17 +175,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "でも……トレーナーさんになら、\n弱音、言ってもいいのかな……。",
-            "enText": "But I wonder if it's okay to \ncomplain to…… trainers. ……",
+            "enText": "But... I guess it might be all right to<n>share my\nworries with you...",
             "nextBlock": 10,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -3939187186093145126
-                },
                 {
                     "origLen": 96,
                     "pathId": -5588031343917974834
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -3939187186093145126
                 }
             ],
             "pathId": 4817762946731536147,
@@ -178,17 +197,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……あのね。この前、\nキラキラしてるって言ってもらえたでしょ？",
-            "enText": "…… You know what? The other day, you told me \nI was sparkling.",
+            "enText": "So, um... Do you remember when that<n>girl told me\nI was sparkly a while back?",
             "nextBlock": 11,
             "origClipLength": 85,
+            "voiceIdx": 54,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 74,
-                    "pathId": 9169607480500250109
-                },
                 {
                     "origLen": 96,
                     "pathId": -1101356722049513180
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 9169607480500250109
                 }
             ],
             "pathId": -3926292013064947634,
@@ -196,19 +217,21 @@
         },
         {
             "jpName": "ツインテールの少女",
-            "enName": "",
+            "enName": "Girl with Pigtails",
             "jpText": "お姉ちゃんのおうただいすき！\r\nダンスもね、キラキラですき！",
-            "enText": "I love your songs! And the dance, too, is \nsparklingly beautiful!",
+            "enText": "I love all your songs! And how you<n>sparkle when\nyou dance!",
             "nextBlock": 12,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": 8278935742932951768
+                    "pathId": 8582665378843238825
                 },
                 {
                     "origLen": 20,
-                    "pathId": 8582665378843238825
+                    "pathId": 8278935742932951768
                 }
             ],
             "pathId": -8338088250492662191,
@@ -216,11 +239,13 @@
         },
         {
             "jpName": "ツインテールの少女",
-            "enName": "",
+            "enName": "Girl with Pigtails",
             "jpText": "わたしもお姉ちゃんみたいに、\nキラキラになりたいの！",
-            "enText": "I want to be as sparkly as you!",
+            "enText": "I want to sparkle just like you when I<n>grow up!",
             "nextBlock": 13,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1085140100649283794,
             "blockIdx": 12
         },
@@ -228,17 +253,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "でも最近のファル子が、\nキラキラしてるわけないんだよ。",
-            "enText": "But there's no way Falco \nis sparkling these days.",
+            "enText": "Well, the thing is... lately, I don't feel<n>like I've got\nthat sparkle.",
             "nextBlock": 14,
             "origClipLength": 80,
+            "voiceIdx": 86,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 114,
-                    "pathId": -7987486271385408832
+                    "pathId": -4618018239158746927
                 },
                 {
                     "origLen": 114,
-                    "pathId": -4618018239158746927
+                    "pathId": -7987486271385408832
                 }
             ],
             "pathId": 5028044679645803940,
@@ -248,24 +275,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――だってステージに立ってるの、\n全然楽しくなかったもん。",
-            "enText": "―I didn't enjoy being on stage at all.",
+            "enText": "Even when I'm onstage, it's like I'm not<n>having any\nfun at all.",
             "nextBlock": 15,
             "origClipLength": 82,
+            "voiceIdx": 78,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "……!",
+                    "enText": "...!",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 56,
-                    "pathId": 6266788798231326767
-                },
-                {
                     "origLen": 93,
                     "pathId": 196400793837175469
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 6266788798231326767
                 }
             ],
             "pathId": 2841643555649448508,
@@ -275,17 +304,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……びっくりだよねぇ。だってファル子、\nちゃんとステージ、こなせてたもん。",
-            "enText": "I was surprised…… wasn't I? Falco was \nable to handle the stage well.",
+            "enText": "I bet you're surprised, right? After all,<n>my\nconcerts have been great.",
             "nextBlock": 16,
             "origClipLength": 93,
+            "voiceIdx": 14,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -8059034202440775896
-                },
                 {
                     "origLen": 104,
                     "pathId": -2749547387671276753
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8059034202440775896
                 }
             ],
             "pathId": 5045602854441035578,
@@ -295,17 +326,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……そう、完璧だったの。\n勝って、歌って、踊って、また勝って――",
-            "enText": "……Yes, it was perfect. We won, we sang, we \ndanced, we won again―and then we won again.",
+            "enText": "They've been perfect, even. I win... I<n>sing... I\ndance... I win again...",
             "nextBlock": 17,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 3045070379215147643
-                },
                 {
                     "origLen": 97,
                     "pathId": 7651943035781450550
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3045070379215147643
                 }
             ],
             "pathId": -8855467305921874823,
@@ -315,17 +348,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "どんどん盛り上がって、\nトレンドだって独占できるようになった。",
-            "enText": "The trend has become more and more popular, \nand even trends have been monopolized.",
+            "enText": "I've built up plenty of excitement and<n>dominated\nthe trending topics.",
             "nextBlock": 18,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -6640663125388258708
+                    "pathId": -8112168891696969474
                 },
                 {
                     "origLen": 20,
-                    "pathId": -8112168891696969474
+                    "pathId": -6640663125388258708
                 }
             ],
             "pathId": -1689078131474861398,
@@ -335,9 +370,11 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "人で、歓声で、光でいっぱいのライブ……\n夢見たステージに、もうすぐで届きそうなの。",
-            "enText": "A live show filled with people, cheers, and \nlight…… I'm so close to reaching the stage \nI've always dreamed of.",
+            "enText": "The concerts have been full of cheering<n>people\nand brilliant lights... And the<n>stage of my dreams\nonly feels a little<n>ways off.",
             "nextBlock": 19,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -367561513903826468,
             "blockIdx": 18
         },
@@ -345,17 +382,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "なのに――私の心だけが違う。\n夢見た私じゃないって、感じさせるの。",
-            "enText": "And yet - only my heart is different. It \nmakes me feel like I'm not the person I \ndreamed I was.",
+            "enText": "But... it's like something's changed deep<n>down.\nLike I'm not the same person who<n>had that dream.",
             "nextBlock": 20,
             "origClipLength": 88,
+            "voiceIdx": 17,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 121,
-                    "pathId": 5209975484880781889
-                },
                 {
                     "origLen": 120,
                     "pathId": 7569711581217045676
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 5209975484880781889
                 }
             ],
             "pathId": 2297701384660699881,
@@ -365,17 +404,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ダートでトップウマドルの夢、\n叶いかけてるのにね。変だよね……。",
-            "enText": "I'm on the verge of fulfilling my \ndream of becoming a top horseman \nin the dirt. It's weird. ……",
+            "enText": "Even though my dream to become the<n>top\nUmadol on dirt is just about to come<n>true. It's\nfunny, isn't it...",
             "nextBlock": 21,
             "origClipLength": 86,
+            "voiceIdx": 60,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -3705953103035275972
-                },
                 {
                     "origLen": 97,
                     "pathId": -6003004983989206957
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -3705953103035275972
                 }
             ],
             "pathId": -1890562905563702003,
@@ -385,17 +426,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "ダートレースの盛り上がりは過去最高だ。\nこの間の『JBCクラシック』も、\n大井レース場に収まらないほど人が溢れた。",
-            "enText": "Dirt racing is at an all-time high. The \"JBC \nClassic\" was also held the other day. The JBC \nClassic was so crowded that it could not fit \nin the Oi racecourse.",
+            "enText": "There's never been more hype<n>surrounding dirt\nracing. At the JBC<n>Classic, Oi Racecourse was\npractically<n>bursting at the seams.",
             "nextBlock": 22,
             "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": 8532575201562208967
+                    "pathId": -4249088195509179746
                 },
                 {
                     "origLen": 20,
-                    "pathId": -4249088195509179746
+                    "pathId": 8532575201562208967
                 }
             ],
             "pathId": 1545304990596742782,
@@ -405,9 +448,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "『ダート“で”トップウマドル』\n彼女と掲げた夢は、彼女の活動によって、\n確かに叶いつつある。",
-            "enText": "The dream of becoming a \"top horsewoman in \ndirt dirt\" is certainly coming true through \nher activities.",
+            "enText": "Thanks to Smart Falcon's hard work, her<n>dream of\nbecoming the top Umadol on<n>dirt is steadily\nbecoming reality.",
             "nextBlock": 23,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7976259769672809121,
             "blockIdx": 22
         },
@@ -415,17 +460,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "――彼女の心を置き去りにして。",
-            "enText": "―leaving her heart behind.",
+            "enText": "But it looks like somewhere along the<n>way, her\nheart may have fallen out of it.",
             "nextBlock": 24,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 98,
-                    "pathId": 1575916915094796093
+                    "pathId": 1542008480097899317
                 },
                 {
                     "origLen": 98,
-                    "pathId": 1542008480097899317
+                    "pathId": 1575916915094796093
                 }
             ],
             "pathId": 1629432066029155740,
@@ -435,17 +482,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "これって、マリッジブルー……的なやつかな？\n結婚じゃないけど！",
-            "enText": "Is this a marriage blues…… kind of thing? Not \nmarriage though!",
+            "enText": "Is this what they call \"getting cold feet\"?",
             "nextBlock": 25,
             "origClipLength": 85,
+            "voiceIdx": 88,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -8352090832770284167
-                },
                 {
                     "origLen": 96,
                     "pathId": -1275348838340150598
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -8352090832770284167
                 }
             ],
             "pathId": -885835844043908049,
@@ -455,24 +504,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "幸せすぎると不安になっちゃう、みたいな。\nあはは、贅沢な悩みだよね。",
-            "enText": "Like, too much happiness makes me anxious. \nHaha, it's a luxurious worry, isn't it?",
+            "enText": "Like, if you're too happy, you actually<n>get really\nanxious. Haha... suffering from<n>success, right?",
             "nextBlock": 26,
             "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "無理に笑わなくていい",
-                    "enText": "You don't have to force yourself to laugh.",
+                    "enText": "You don't have to push yourself to smile.",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 54,
-                    "pathId": 5923279956791280429
-                },
-                {
                     "origLen": 100,
                     "pathId": -3122586949163347628
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5923279956791280429
                 }
             ],
             "pathId": -8266557888981367532,
@@ -482,24 +533,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――え……。",
-            "enText": "―e……",
+            "enText": "Huh?",
             "nextBlock": 27,
             "origClipLength": 52,
+            "voiceIdx": 110,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "ちゃんと向き合おう",
-                    "enText": "Let's face it.",
+                    "enText": "You've got to face it head-on.",
                     "nextBlock": 27
                 }
             ],
             "animData": [
                 {
-                    "origLen": 38,
-                    "pathId": -8941209630783111029
-                },
-                {
                     "origLen": 63,
                     "pathId": -5777020169605364645
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8941209630783111029
                 }
             ],
             "pathId": -3519760162270033784,
@@ -509,17 +562,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……っ。向き合うって、なにに？\nわかんないよ……。",
-            "enText": "…… Face what? I don't know. ……",
+            "enText": "Face what? I don't get it...",
             "nextBlock": 28,
             "origClipLength": 77,
+            "voiceIdx": 60,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": 7184404472258450500
-                },
                 {
                     "origLen": 88,
                     "pathId": 1057529779478491354
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 7184404472258450500
                 }
             ],
             "pathId": 3934946546485576018,
@@ -529,29 +584,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ファル子、絶好調なはずなんだもん！\nあんなに遠かった夢に、もう少しで――",
-            "enText": "Falko, you're supposed to be in great shape! \nI was so far away from this dream, and now \nI'm so close to―",
+            "enText": "I should be on top of the world! The<n>dream that\nseemed so far off is now<n>within my reach...",
             "nextBlock": 29,
             "origClipLength": 91,
+            "voiceIdx": 70,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "君の夢はなに？",
-                    "enText": "What is your dream?",
+                    "enText": "What <i>is</i> your dream?",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "貴方の夢はなに？",
-                    "enText": "What is your dream?",
+                    "enText": "What <i>is</i> your dream?",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
-                    "origLen": 85,
-                    "pathId": 4676544415176578513
-                },
-                {
                     "origLen": 102,
                     "pathId": -7554908208547010404
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 4676544415176578513
                 }
             ],
             "pathId": 3243362785715555424,
@@ -561,17 +618,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……知ってるでしょ。\n『ダート“で”トップウマドル』だよ。",
-            "enText": "You know…… It's \"Top Muddle in the Dirt\".",
+            "enText": "You know what it is. To become the top<n>Umadol\non dirt.",
             "nextBlock": 30,
             "origClipLength": 82,
+            "voiceIdx": 99,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7870510662973270600
-                },
                 {
                     "origLen": 93,
                     "pathId": -7125113901153442768
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7870510662973270600
                 }
             ],
             "pathId": 930360547042846460,
@@ -581,17 +640,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "そのために勝ち上がってきた。\nだって勝てば勝つほど、トップに――",
-            "enText": "That's why I've been winning. Because the \nmore you win, the more you win, the top―",
+            "enText": "That's why I've been winning all these<n>races. The\nmore I win, the higher I rise...<n>towards the to—",
             "nextBlock": 31,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": -1024458047951992865
-                },
                 {
                     "origLen": 97,
                     "pathId": -8766479410404769980
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1024458047951992865
                 }
             ],
             "pathId": 7366707019680803115,
@@ -601,17 +662,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――……？　あれ、\nトップって……勝つことだっけ。",
-            "enText": "―……? Oh, I thought the top was…… win.",
+            "enText": "Hm? Hold on... Is that what the top<n>means to me?\nJust winning?",
             "nextBlock": 32,
             "origClipLength": 77,
+            "voiceIdx": 76,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7637592612096506836
-                },
                 {
                     "origLen": 88,
                     "pathId": 9070940751933495655
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7637592612096506836
                 }
             ],
             "pathId": -1014789690281458578,
@@ -621,29 +684,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "え、えへ？　変だな……。\nだって、私の夢見たトップウマドルは――",
-            "enText": "Eh, eh? That's weird.…… Because my dream of a \ntop USDA dollar is―",
+            "enText": "No, that can't be right... My dream is to<n>be a top\nUmadol who... who...",
             "nextBlock": 33,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "お願いがあるんだ",
-                    "enText": "I need a favor.",
+                    "enText": "I have a favor to ask.",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "お願いがあるの",
-                    "enText": "I need a favor.",
+                    "enText": "I have a favor to ask.",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 61,
-                    "pathId": 6881100077583857495
-                },
-                {
                     "origLen": 97,
                     "pathId": 7137130775113252058
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 6881100077583857495
                 }
             ],
             "pathId": -2215127873600845154,
@@ -653,29 +718,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "へ、お願い……？",
-            "enText": "Heh, please ……?",
+            "enText": "A favor?",
             "nextBlock": 34,
             "origClipLength": 55,
+            "voiceIdx": 30,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "俺の前でライブをしてほしい",
-                    "enText": "I want you to perform live in front of me.",
+                    "enText": "Can you perform for me right now?",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "私の前でライブをしてほしい",
-                    "enText": "I want you to perform live in front of me.",
+                    "enText": "Can you perform for me right now?",
                     "nextBlock": 34
                 }
             ],
             "animData": [
                 {
-                    "origLen": 42,
-                    "pathId": 1343423162088107222
-                },
-                {
                     "origLen": 66,
                     "pathId": 5893103580337554275
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 1343423162088107222
                 }
             ],
             "pathId": -5132612879663483052,
@@ -685,17 +752,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……？",
-            "enText": "……?",
+            "enText": "...?",
             "nextBlock": 35,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 20,
-                    "pathId": 1764696593040212346
-                },
                 {
                     "origLen": 59,
                     "pathId": 8078069721772178204
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 1764696593040212346
                 }
             ],
             "pathId": 6057042203484452590,
@@ -705,17 +774,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――コホン。",
-            "enText": "―Kohon.",
+            "enText": "Ahem.",
             "nextBlock": 36,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -2899672572868733881
-                },
                 {
                     "origLen": 92,
                     "pathId": 5032959983313175733
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2899672572868733881
                 }
             ],
             "pathId": 446914955370675990,
@@ -725,17 +796,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "こんにちは～っ♪\n崖っぷちから華麗に飛躍☆\nスマートファルコンです！",
-            "enText": "Hello～♪ I'm Smart Falcon, taking a \nspectacular leap off the cliff!",
+            "enText": "Hiii! ♪ It's me, Smart Falcon! ☆ Taking<n>flight\ngracefully from a cliff's edge!",
             "nextBlock": 37,
             "origClipLength": 89,
+            "voiceIdx": 42,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 74,
-                    "pathId": 3182739582884550873
-                },
                 {
                     "origLen": 100,
                     "pathId": -806836287782608096
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3182739582884550873
                 }
             ],
             "pathId": -6354836256670506363,
@@ -745,17 +818,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……あは。なんか照れるね？\nそれじゃあ……聞いてください。",
-            "enText": "…… I'm kind of embarrassed, aren't I? Well \nthen, listen to ……",
+            "enText": "Aha. This feels... awkward. Anyway, um...<n>hope\nyou enjoy.",
             "nextBlock": 38,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -6463094034982737369
-                },
                 {
                     "origLen": 93,
                     "pathId": 8201497461059699609
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6463094034982737369
                 }
             ],
             "pathId": 7448011642539811662,
@@ -765,17 +840,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "～～～～♪\nせーのっ？",
-            "enText": "～～～～♪ Senno?",
+            "enText": "Hm-hmm. ♪ Here we... go?",
             "nextBlock": 39,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -8245345935347305487
-                },
                 {
                     "origLen": 88,
                     "pathId": 6085398081431861160
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8245345935347305487
                 }
             ],
             "pathId": -951774150024919557,
@@ -785,24 +862,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……あっ、えへ。\nコール待ちしちゃった――",
-            "enText": "…… Oh, eheh. I waited for the call―",
+            "enText": "...Um, ehe. I was waiting for the chant...",
             "nextBlock": 40,
             "origClipLength": 72,
+            "voiceIdx": 14,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "う～っ、ファル子ー！",
-                    "enText": "Woohoo, Falco!",
+                    "enText": "Gooo, Falco!",
                     "nextBlock": 40
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": 4328997363882800310
-                },
-                {
                     "origLen": 83,
                     "pathId": 530343124244284100
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4328997363882800310
                 }
             ],
             "pathId": 2408298002786254483,
@@ -812,17 +891,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……！",
-            "enText": "……!",
+            "enText": "...!",
             "nextBlock": 41,
             "origClipLength": 48,
+            "voiceIdx": 111,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": 3742795326498464814
-                },
                 {
                     "origLen": 59,
                     "pathId": 2716958713118092463
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 3742795326498464814
                 }
             ],
             "pathId": -1745796950344038466,
@@ -832,24 +913,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "バッチリ☆\n次はエイトビートに合わせて……！",
-            "enText": "Perfect☆ Next time, go to…… to the eight beat!",
+            "enText": "Perfect! ☆ Next, let's do it to an eight<n>beat!",
             "nextBlock": 42,
             "origClipLength": 73,
+            "voiceIdx": 3,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "LOVEラブリーファル子～っ！",
-                    "enText": "LOVE Lovely Falco～!",
+                    "enText": "Who do we love? Lovely Falco!",
                     "nextBlock": 42
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": -6275924190233804625
-                },
-                {
                     "origLen": 84,
                     "pathId": -7243167247773802564
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -6275924190233804625
                 }
             ],
             "pathId": 5779431421407331092,
@@ -859,17 +942,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……っ。最高～っ！\nファル子もギア、上げてくよ～～っ！",
-            "enText": "You can find it…… Great～! \nFalko is going up a gear～!",
+            "enText": "Beautiful! I'm gonna shift it up a gear<n>too!",
             "nextBlock": 43,
             "origClipLength": 80,
+            "voiceIdx": 7,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -878513087083247501
-                },
                 {
                     "origLen": 91,
                     "pathId": -1468322380875818012
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -878513087083247501
                 }
             ],
             "pathId": 8436539252106195800,
@@ -879,24 +964,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "はあっ……はあっ……。",
-            "enText": "You can find more information on…… at ……",
+            "enText": "<i>Pant... Pant...</i>",
             "nextBlock": 44,
             "origClipLength": 88,
+            "voiceIdx": 58,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "お疲れ様！",
-                    "enText": "Good job!",
+                    "enText": "Great job!",
                     "nextBlock": 44
                 }
             ],
             "animData": [
                 {
-                    "origLen": 124,
-                    "pathId": 1673727159111641306
-                },
-                {
                     "origLen": 140,
                     "pathId": -6358016164249087576
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 1673727159111641306
                 }
             ],
             "pathId": 383488372166269449,
@@ -906,17 +993,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "はぁっ……トレーナーさんも、\n全力コールありがとう☆",
-            "enText": "Haha, thanks for the all-out \ncall…… trainer, too!",
+            "enText": "<i>Huff...</i> You too, Trainer. Thanks for<n>going all out\nwith the cheering! ☆",
             "nextBlock": 45,
             "origClipLength": 78,
+            "voiceIdx": 142,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -4540249165024740469
-                },
                 {
                     "origLen": 89,
                     "pathId": -2784708646047078280
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -4540249165024740469
                 }
             ],
             "pathId": -4355467937901205325,
@@ -926,17 +1015,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ふふっ、す～っごくいい笑顔だった！\nファル子を本気にさせるくらいに☆",
-            "enText": "Phew, that was a very nice smile! So much so \nthat it made Falco take it seriously☆.",
+            "enText": "Hehe, your smile was suuuper awesome!<n>Enough\nto make me get serious! ☆",
             "nextBlock": 46,
             "origClipLength": 89,
+            "voiceIdx": 2,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 5275744678173776961
-                },
                 {
                     "origLen": 100,
                     "pathId": 6007591711065222016
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5275744678173776961
                 }
             ],
             "pathId": 4982999310261102437,
@@ -946,17 +1037,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……なんか懐かしいね。\r\n初めて会った時のこと、思い出したよ。",
-            "enText": "…… something I missed. I remember \nwhen we first met.",
+            "enText": "That took me back to the day we first<n>met.",
             "nextBlock": 47,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -290999283212608324
-                },
                 {
                     "origLen": 96,
                     "pathId": -3373191123193102216
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -290999283212608324
                 }
             ],
             "pathId": 6174804741139281334,
@@ -966,17 +1059,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "観客なんて1人もいない。それでも毎日、\r\n雨の日も風の日も歌って踊ってたなぁ。",
-            "enText": "There was not a single audience. But we sang \nand danced every day, rain or shine.",
+            "enText": "There wasn't a single person in the<n>audience back\nthen. Even so, I would<n>sing and dance every day,\nrain or shine.",
             "nextBlock": 48,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 84,
-                    "pathId": 4460267358562691233
-                },
                 {
                     "origLen": 106,
                     "pathId": 8541316192159189935
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4460267358562691233
                 }
             ],
             "pathId": 2316197748510538860,
@@ -986,24 +1081,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――やめたいなんて、1度も思わなかった。\r\nだって私、どうしても……。",
-            "enText": "-I never once wanted to quit. Because I \nreally wanted to ……",
+            "enText": "I never once thought about giving up.<n>Because\nwhatever happened, I...",
             "nextBlock": 49,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "輝きたかったから",
-                    "enText": "I wanted to shine.",
+                    "enText": "You wanted to shine.",
                     "nextBlock": 49
                 }
             ],
             "animData": [
                 {
-                    "origLen": 63,
-                    "pathId": 6264242300428887166
-                },
-                {
                     "origLen": 101,
                     "pathId": 2854877759713893455
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6264242300428887166
                 }
             ],
             "pathId": -2189956461647871128,
@@ -1013,17 +1110,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……っ！",
-            "enText": "……!",
+            "enText": "...!",
             "nextBlock": 50,
             "origClipLength": 50,
+            "voiceIdx": 110,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": 1291882821414839098
-                },
                 {
                     "origLen": 61,
                     "pathId": -418783507200768791
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 1291882821414839098
                 }
             ],
             "pathId": 5766589386591800293,
@@ -1033,17 +1132,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "そうなの。私……\nずっと輝きたかったんだ！",
-            "enText": "Yes, I know, I've been wanting to shine all \nmy life! I…… always wanted to shine!",
+            "enText": "That's right. I... wanted to shine like a<n>star!",
             "nextBlock": 51,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -1718760810833672860
-                },
                 {
                     "origLen": 83,
                     "pathId": -8766164326412897257
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1718760810833672860
                 }
             ],
             "pathId": 4670565937953355739,
@@ -1053,17 +1154,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ステージに立つあの子たちみたいに、\nスポットライトに負けないくらい輝いて――",
-            "enText": "Like those girls on stage, shining as bright \nas the spotlight…",
+            "enText": "To shine just like the girls I'd seen on<n>stage...\nbrighter than even the spotlights<n>above me...",
             "nextBlock": 52,
             "origClipLength": 94,
+            "voiceIdx": 84,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -8428709183515129394
+                    "pathId": -6475497068216324318
                 },
                 {
                     "origLen": 20,
-                    "pathId": -6475497068216324318
+                    "pathId": -8428709183515129394
                 }
             ],
             "pathId": 8243589982323873993,
@@ -1073,17 +1176,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "――『私はここにいるんだよ！』\n全力で、全身で！　叫びたかったの！",
-            "enText": "― 'I'm here! With all my might, with my whole \nbody! I wanted to scream!",
+            "enText": "And to yell \"Here I am!\" at the top of my<n>lungs!",
             "nextBlock": 53,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 120,
-                    "pathId": 4118311549553580807
+                    "pathId": -4281070034432203229
                 },
                 {
                     "origLen": 120,
-                    "pathId": -4281070034432203229
+                    "pathId": 4118311549553580807
                 }
             ],
             "pathId": -3576997416191026146,
@@ -1093,17 +1198,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……ファル子ったらおバカさん。\n1番大事な気持ち、忘れちゃってたんだ。",
-            "enText": "……Falko is a fool. I forgot the most \nimportant feeling.",
+            "enText": "...How could I be so stupid? I forgot<n>what's most\nimportant to me.",
             "nextBlock": 54,
             "origClipLength": 90,
+            "voiceIdx": 14,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": 3118555626838373728
-                },
                 {
                     "origLen": 101,
                     "pathId": -100481461097996365
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 3118555626838373728
                 }
             ],
             "pathId": -5051936580440461140,
@@ -1113,17 +1220,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ダートをトップにしなくちゃ、\n私がやらなくちゃ……とか、\nらしくない責任感背負っちゃってさ。",
-            "enText": "I had to take the lead in the dirt, I had to \ndo it…… and I felt so responsible that I \ndidn't deserve it.",
+            "enText": "I got so caught up in making dirt races<n>more\npopular, it was all I could think<n>about. I told\nmyself it was all up to me,<n>when it was never my\nresponsibility in<n>the first place.",
             "nextBlock": 55,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": 5198034040540937200
-                },
                 {
                     "origLen": 116,
                     "pathId": -5287147860494335585
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5198034040540937200
                 }
             ],
             "pathId": -1451978857707711120,
@@ -1133,9 +1242,11 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……最低なウマドルだね、私。",
-            "enText": "…… You are a lousy umador, me.",
+            "enText": "...I've been the worst Umadol.",
             "nextBlock": 56,
             "origClipLength": 63,
+            "voiceIdx": 78,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "それは違う",
@@ -1145,12 +1256,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 37,
-                    "pathId": -4195588473397468370
-                },
-                {
                     "origLen": 74,
                     "pathId": 8570387625209728625
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -4195588473397468370
                 }
             ],
             "pathId": 4048713999960256198,
@@ -1160,17 +1271,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "違わないよ！　だって私、\nただステージに立ってただけだったんだよ。",
-            "enText": "No, it's not! I was just standing on stage.",
+            "enText": "It is! All I've been doing is just standing<n>onstage.",
             "nextBlock": 57,
             "origClipLength": 88,
+            "voiceIdx": 152,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": -8371427301138380598
-                },
                 {
                     "origLen": 99,
                     "pathId": -797635153163899881
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8371427301138380598
                 }
             ],
             "pathId": 5049178767069558457,
@@ -1180,29 +1293,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "届けたいって気持ち、\nなくしちゃってたんだよ……？",
-            "enText": "I lost the feeling of wanting \nto deliver it. ……?",
+            "enText": "I lost sight of the feelings I wanted to<n>share with\nmy fans...",
             "nextBlock": 58,
             "origClipLength": 77,
+            "voiceIdx": 17,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "でもファンには、君の輝きが届いてた",
-                    "enText": "But your brilliance reached the fans.",
+                    "enText": "But your light still reached them.",
                     "nextBlock": 58
                 },
                 {
                     "jpText": "でもファンには、貴方の輝きが届いてた",
-                    "enText": "But your fans saw your brilliance.",
+                    "enText": "But your light still reached them.",
                     "nextBlock": 58
                 }
             ],
             "animData": [
                 {
-                    "origLen": 52,
-                    "pathId": -6331323188609518657
-                },
-                {
                     "origLen": 88,
                     "pathId": 2862915993662167652
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -6331323188609518657
                 }
             ],
             "pathId": -788263104468861914,
@@ -1212,17 +1327,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……！",
-            "enText": "……!",
+            "enText": "...!",
             "nextBlock": 59,
             "origClipLength": 48,
+            "voiceIdx": 110,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 8459532721301241161
-                },
                 {
                     "origLen": 59,
                     "pathId": 1355407668294277946
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 8459532721301241161
                 }
             ],
             "pathId": 286280973388076781,
@@ -1230,19 +1347,21 @@
         },
         {
             "jpName": "ファル子のファンA",
-            "enName": "",
+            "enName": "Falco Fan A",
             "jpText": "いっけぇ～～～～っ！\nウ～～～ッ、ファル子ォォォォ！！",
-            "enText": "I got it! ～～～～! Wooooooooooooooooooooooooooooooooooooooooooooooo, \nFalco!",
+            "enText": "Gooo! Yeaaah, Falcooo!",
             "nextBlock": 60,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -2533886631628710813
+                    "pathId": -2218049740752623707
                 },
                 {
                     "origLen": 20,
-                    "pathId": -2218049740752623707
+                    "pathId": -2533886631628710813
                 }
             ],
             "pathId": -3848388396755361342,
@@ -1250,11 +1369,13 @@
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "ファル子～～～～っ！！\nおめでとうー！",
-            "enText": "Falco～～～～! Congrats!!!",
+            "enText": "Falcooo!\nWay to gooo!",
             "nextBlock": 61,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5114470694127170398,
             "blockIdx": 60
         },
@@ -1262,9 +1383,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女のライブを見て、ファンはいつでも\nライトを振った。本当に彼女が\n輝いていなかったのなら、光は灯されない。",
-            "enText": "fans waved their lights whenever they saw her \nlive. If she really wasn't shining, the light \nwouldn't be lit.",
+            "enText": "When Smart Falcon performs, it inspires<n>her fans\nto wave their lights with all their<n>hearts. If she\nwasn't shining, the<n>audience would be a sea of\nblack.",
             "nextBlock": 62,
             "origClipLength": 115,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4254056317325929420,
             "blockIdx": 61
         },
@@ -1272,9 +1395,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "どんどん強くなっていった光の全てが――\n彼女が輝いていた証だ。",
-            "enText": "All of the light that was getting stronger \nand stronger - proof that she was shining.",
+            "enText": "The fact that those lights have gotten<n>brighter\nand brighter is proof that she's<n>shining.",
             "nextBlock": 63,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -329061625480812789,
             "blockIdx": 62
         },
@@ -1282,29 +1407,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "みんなの……光……。",
-            "enText": "Everyone's…… light ……",
+            "enText": "All their lights...",
             "nextBlock": 64,
             "origClipLength": 58,
+            "voiceIdx": 76,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "君はずっと、輝いてたんだ",
-                    "enText": "You've been glowing all along.",
+                    "enText": "You've always been shining.",
                     "nextBlock": 64
                 },
                 {
                     "jpText": "貴方はずっと、輝いてたんだよ",
-                    "enText": "You've been shining all along.",
+                    "enText": "You've always been shining.",
                     "nextBlock": 64
                 }
             ],
             "animData": [
                 {
-                    "origLen": 92,
-                    "pathId": -3687101682833474581
-                },
-                {
                     "origLen": 93,
                     "pathId": 1515803723364157283
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3687101682833474581
                 }
             ],
             "pathId": -3564636807258522926,
@@ -1314,17 +1441,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……っ！",
-            "enText": "……!",
+            "enText": "...",
             "nextBlock": 65,
             "origClipLength": 50,
+            "voiceIdx": 111,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 1909782291705978876
-                },
                 {
                     "origLen": 61,
                     "pathId": 5698614146250850587
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1909782291705978876
                 }
             ],
             "pathId": 5694326524545672865,
@@ -1334,29 +1463,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……そんなの、ファンのみんなに\n聞かないと――",
-            "enText": "…… I'd have to ask all of my fans about that―",
+            "enText": "...Only my fans could tell me if that's<n>really—",
             "nextBlock": 66,
             "origClipLength": 75,
+            "voiceIdx": 78,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "『ファン第1号』が言ってるんだ",
-                    "enText": "Says \"Fan #1.\"",
+                    "enText": "Your first fan is telling you so.",
                     "nextBlock": 66
                 },
                 {
                     "jpText": "『ファン第1号』が言ってるんだよ",
-                    "enText": "'Fan #1' says.",
+                    "enText": "Your first fan is telling you so.",
                     "nextBlock": 66
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": 5604411564452730467
-                },
-                {
                     "origLen": 86,
                     "pathId": 3708748712435537129
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 5604411564452730467
                 }
             ],
             "pathId": -1756249257439249327,
@@ -1366,17 +1497,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……！",
-            "enText": "……!",
+            "enText": "...!",
             "nextBlock": 67,
             "origClipLength": 48,
+            "voiceIdx": 110,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 2855825600291081581
-                },
                 {
                     "origLen": 59,
                     "pathId": 1783571510657333273
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 2855825600291081581
                 }
             ],
             "pathId": -308906444376707191,
@@ -1386,17 +1519,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……あはっ。そうだったね。\nうん……そうだ。",
-            "enText": "…… ahaha. That's right. Yeah…… that's right.",
+            "enText": "Aha... That's right. You're right.",
             "nextBlock": 68,
             "origClipLength": 73,
+            "voiceIdx": 0,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 8567196708831314118
-                },
                 {
                     "origLen": 84,
                     "pathId": 6214563119682493996
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 8567196708831314118
                 }
             ],
             "pathId": -6589230569109579938,
@@ -1406,24 +1541,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ありがとう。ちょっとだけ……\n信じてみよう、かな。",
-            "enText": "Thanks. Let's believe…… for a moment, I guess.",
+            "enText": "Thank you. I'll try and believe in myself...<n>at least\na little.",
             "nextBlock": 69,
             "origClipLength": 77,
+            "voiceIdx": 142,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "頑張れ、ファルコン！",
-                    "enText": "Way to go, Falcon!",
+                    "enText": "You can do it, Falcon!",
                     "nextBlock": 69
                 }
             ],
             "animData": [
                 {
-                    "origLen": 57,
-                    "pathId": -5557750106384076310
-                },
-                {
                     "origLen": 88,
                     "pathId": -2611399619629262114
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5557750106384076310
                 }
             ],
             "pathId": 6825235031152757779,
@@ -1433,17 +1570,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "んもう、ファル子だってば☆\n……ふふっ。",
-            "enText": "Oh my God, it's Falco☆ ……",
+            "enText": "Hey! You know to call me Falco! ☆<n>...Hehe.",
             "nextBlock": 70,
             "origClipLength": 71,
+            "voiceIdx": 2,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 5285562174386699859
-                },
                 {
                     "origLen": 82,
                     "pathId": -3202863944124137051
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 5285562174386699859
                 }
             ],
             "pathId": -4449887330731975678,
@@ -1453,22 +1592,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "夕日に照らされ、彼女の瞳が一瞬きらめく。\n零れたものはそっと、見ないふりをした。",
-            "enText": "Her eyes sparkled for a moment in \nthe setting sun. Gently, I pretended \nnot to see what spilled out.",
+            "enText": "Illuminated by the evening light,<n>something\nglistens momentarily in Smart<n>Falcon's eyes. I\npretend not to notice<n>the sparkling droplet as it\nfalls to the<n>ground.",
             "nextBlock": -1,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": 6925098539675110306
+                    "pathId": -2776254092570291148
                 },
                 {
                     "origLen": 20,
-                    "pathId": -2776254092570291148
+                    "pathId": 6925098539675110306
                 }
             ],
             "pathId": -7373481981412733353,
             "blockIdx": 70
         }
-    ],
-    "modified": 1662157628
+    ]
 }

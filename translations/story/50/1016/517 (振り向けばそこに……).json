@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "JPTJTEXFDQOX2JEI4ZZ74AAPJLANQEFW",
+    "version": 6,
+    "bundle": "ZXE27K3TYXE2I3IN4QLMTVHAEGSJUGK5",
     "type": "story",
     "storyId": "501016517",
     "title": "振り向けばそこに……",
+    "enTitle": "Looking Over My Shoulder",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、ナリタブライアンと\r\n中央広場を歩いていると……。",
-            "enText": "One day, I was walking through the central \nsquare with Narita Bryan. ……",
+            "enText": "One day, I'm walking through the central<n>plaza\nwith Narita Brian, when...",
             "nextBlock": 2,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": 4407146883004912615
+                    "pathId": 1244238918120889270
                 },
                 {
                     "origLen": 93,
-                    "pathId": 1244238918120889270
+                    "pathId": 4407146883004912615
                 }
             ],
             "pathId": 8040313402438151349,
@@ -29,29 +32,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "うおっ！？",
-            "enText": "Whoa!",
+            "enText": "Huh?!",
             "nextBlock": 3,
             "origClipLength": 51,
+            "voiceIdx": 25,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "大丈夫か？",
-                    "enText": "Are you okay?",
+                    "enText": "Everything okay?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "Everything okay?",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 57,
-                    "pathId": 5976829542935082723
-                },
-                {
                     "origLen": 62,
                     "pathId": -9172465782785371406
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 5976829542935082723
                 }
             ],
             "pathId": 4981234192285261358,
@@ -61,17 +66,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……影か。\r\n紛らわしい……。",
-            "enText": "…… shadows. Confusing ……",
+            "enText": "Guess it was just my shadow... Weird...",
             "nextBlock": 4,
             "origClipLength": 64,
+            "voiceIdx": 28,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -8320001635446439460
-                },
                 {
                     "origLen": 75,
                     "pathId": 6727361236652081213
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8320001635446439460
                 }
             ],
             "pathId": -7977787307918875565,
@@ -81,21 +88,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 5,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
                     "pathId": 6216634489568173001
                 },
                 {
-                    "origLen": 73,
-                    "pathId": -1946588117749882207
-                },
-                {
                     "origLen": 62,
                     "pathId": 1377959900854723332
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1946588117749882207
                 }
             ],
             "pathId": 3734174657152055078,
@@ -105,13 +114,15 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "今の、見たな？",
-            "enText": "Now, you see that, right?",
+            "enText": "Did you see that just now?",
             "nextBlock": 6,
             "origClipLength": 54,
+            "voiceIdx": 99,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "まあ、少し……",
-                    "enText": "Well, a little ……",
+                    "enText": "I'll pretend I didn't.",
                     "nextBlock": 6
                 }
             ],
@@ -121,12 +132,12 @@
                     "pathId": -88290209566387769
                 },
                 {
-                    "origLen": 41,
-                    "pathId": -2655590943689788447
-                },
-                {
                     "origLen": 65,
                     "pathId": -3590639009483921746
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -2655590943689788447
                 }
             ],
             "pathId": -8005556941211010058,
@@ -136,22 +147,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "チッ、最悪だ……。",
-            "enText": "Tsk, that sucks. ……",
+            "enText": "Tch. This is the worst...",
             "nextBlock": -1,
             "origClipLength": 56,
+            "voiceIdx": 60,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 6536973888723789305
-                },
                 {
                     "origLen": 67,
                     "pathId": 1457639936123216134
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 6536973888723789305
                 }
             ],
             "pathId": 3889293260617482215,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555056
+    ]
 }

@@ -1,35 +1,60 @@
 {
-    "version": 4,
-    "bundle": "MXCI4CUHSNZ6THCLSPNA5EGPAJ66B4BT",
+    "version": 6,
+    "bundle": "WRV7AENE52NBOHEO6LVMYXICEOBHJCRU",
     "type": "story",
     "storyId": "400000005",
     "title": "トレーニングLvアップ",
+    "enTitle": "Training Level Up",
     "text": [
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "見事ッ！\r\n君の熱意、ウマ娘への姿勢、見せてもらった！",
-            "enText": "Brilliant!  You've shown me your enthusiasm,\nyour attitude towards horse girls!",
+            "enText": "Marvelous! You've truly shown your<n>passionate\nenthusiasm for training<n>Umamusume!",
             "nextBlock": 2,
+            "origClipLength": 62,
+            "voiceIdx": 5,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": -1444920840804547231
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1746714662512082183
+                }
+            ],
             "pathId": -7172955833493344003,
             "blockIdx": 1
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "トレーニング施設を強化しよう！！\r\nさらなる活躍に――期待ッ！",
-            "enText": "I've enhanced the training facilities!\nExpecting further success!",
+            "enText": "We shall therefore improve the training<n>facilities!\nI look forward to your future<n>successes!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": 74,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "トレーニング施設を強化",
-                    "enText": "enhanced the training facilities"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 5789843664357733599
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6148025933481213708
                 }
             ],
             "pathId": -7124856159655016350,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

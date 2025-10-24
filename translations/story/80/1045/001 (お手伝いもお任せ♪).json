@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "72LMOGWA6DXRVYZ2LBLHJVOR44FUSXWU",
+    "version": 6,
+    "bundle": "JAHJFZDAWR7QWU4YFOZPITKO4DFVSY3E",
     "type": "story",
     "storyId": "801045001",
     "title": "お手伝いもお任せ♪",
+    "enTitle": "Leave it to Me to Help Out! ♪",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニング中。<chrname>に\r\n休憩を指示した後のこと……。",
-            "enText": "In training. After instructing \n<chrname> to take a break…",
+            "enText": "Just as I finish telling<n><chrname> to\ntake a break<n>during training...",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 937855445015711032,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "お疲れさまです～。",
-            "enText": "Thank you for your hard work!",
+            "enText": "Hello there!",
             "nextBlock": 3,
+            "origClipLength": 50,
+            "voiceIdx": 127,
+            "voiceSheetId": "051045001",
             "pathId": 8219620360018832336,
             "blockIdx": 2
         },
@@ -27,13 +34,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "おふたりとも、とっても頑張ってましたね。",
-            "enText": "You both worked very hard.",
+            "enText": "You two are doing such a great job.",
             "nextBlock": 4,
+            "origClipLength": 83,
+            "voiceIdx": 0,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "あ、ありがとう……？",
-                    "enText": "Oh, thank you…?",
+                    "enText": "Th-thanks?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 477087367684543492
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1841809316667604292
                 }
             ],
             "pathId": -5282432939542792266,
@@ -43,8 +63,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ふふっ、突然驚かせてしまって\r\nすみません～。",
-            "enText": "I'm sorry to have startled you so suddenly.",
+            "enText": "Hehe. Oops. I didn't mean to startle you.",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "voiceIdx": 4,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4030125392219813943
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3403703999382394221
+                }
+            ],
             "pathId": -4599182218473396679,
             "blockIdx": 4
         },
@@ -52,8 +85,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "でも、誰かが頑張ってる姿を見ると、\r\nなんだか応援したくなっちゃって。",
-            "enText": "But when I see someone working hard, I feel \nlike cheering them on.",
+            "enText": "I always get this urge to encourage<n>others when I\nsee them working hard.",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 38,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7644374866361695614
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -6825239629654826346
+                }
+            ],
             "pathId": -2468602629714080223,
             "blockIdx": 5
         },
@@ -61,13 +107,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "そうだ！　私にお手伝いできることがあれば、\r\nなんでも言ってくださいね～。",
-            "enText": "Yes! If there's anything I can do \nto help, please let me know!",
+            "enText": "Ah, right! Let me know if I can help with<n>anything,\nokay?",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "voiceIdx": 53,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "いや、悪いよ",
-                    "enText": "No, I'm sorry.",
+                    "enText": "We wouldn't want to bother you.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 217728206969462397
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -7459933840402789085
                 }
             ],
             "pathId": 4891864821329371335,
@@ -77,8 +136,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "そう仰らずに♪\r\nさあ、さあ、さあ～♪",
-            "enText": "Don't say that. ♪ Come on, \ncome on, come on ♪",
+            "enText": "Don't be shy! ♪ Come on now, you can<n>ask me for\nanything! ♪",
             "nextBlock": 8,
+            "origClipLength": 57,
+            "voiceIdx": 91,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 609416255940494105
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -4919623148684401734
+                }
+            ],
             "pathId": -8465859284875824820,
             "blockIdx": 7
         },
@@ -86,8 +158,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "……えらく期待を込めた目を向けられて、\r\n無下に断るのも忍びなくなってきた。",
-            "enText": "… I'm getting to the point where I can't \nbear to turn her down out of hand when she \nlooks at me with such anticipation.",
+            "enText": "The overwhelming eagerness in Super<n>Creek's\neyes leaves me with no choice<n>but to oblige.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 7612235823609865738
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2306037773413053014
+                }
+            ],
             "pathId": 4179103985779000729,
             "blockIdx": 8
         },
@@ -95,18 +180,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "頼みたいことといえば、なんだろうか……？",
-            "enText": "What would you like to ask me to do?…?",
+            "enText": "I'll have to think of what I want to ask<n>her for first\nthough...",
             "nextBlock": 10,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "トレーニングのコツを教えて",
-                    "enText": "What are your training tips?",
+                    "enText": "Could you give me some pointers on training?",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "一緒にトレーニングしない？",
-                    "enText": "Do you want to train with us?",
+                    "enText": "Would you like to train with us?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 402673428949114192
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6548781978167118271
                 }
             ],
             "pathId": 9160412525565275039,
@@ -116,8 +214,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "コツ、ですか？\r\nそうですね～……。",
-            "enText": "The trick, is it? That's right -…",
+            "enText": "Pointers? Hmm...",
             "nextBlock": 11,
+            "origClipLength": 56,
+            "voiceIdx": 34,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4122963796058421623
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -8421531534523110350
+                }
+            ],
             "pathId": 2008001877503062471,
             "blockIdx": 10
         },
@@ -125,8 +236,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "適度に甘やかしてあげること、でしょうか？",
-            "enText": "A little indulgence, perhaps?",
+            "enText": "I suppose I would suggest you go easy<n>on your\nracer every once in a while.",
             "nextBlock": 12,
+            "origClipLength": 58,
+            "voiceIdx": 5,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6685416268757366381
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6899971333107638945
+                }
+            ],
             "pathId": -7544767196859336078,
             "blockIdx": 11
         },
@@ -134,8 +258,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "頑張るのは大切ですけど、\r\n厳しすぎると最後まで頑張れませんから♪",
-            "enText": "It's important to work hard, but if you're \ntoo strict, you won't make it to the end.",
+            "enText": "It's important to work hard, but she<n>won't be able\nto keep it up if you're too<n>strict on her.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "voiceIdx": 0,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -8038940567488084090
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -422563863207852470
+                }
+            ],
             "pathId": 9086962712591670743,
             "blockIdx": 12
         },
@@ -143,8 +280,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "はいっ、喜んで♪　よかったら、\r\n私と一緒のメニューをしましょう。",
-            "enText": "I'd be happy to do the menu with you.",
+            "enText": "Oh, I'd love to! ♪ If you don't mind, let's<n>follow\nmy training program.",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "voiceIdx": 47,
+            "voiceSheetId": "051045001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 521292204702575139
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -192587963711224497
+                }
+            ],
             "pathId": -8992444475386567524,
             "blockIdx": 13
         },
@@ -152,8 +302,21 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ダンベルの準備をしておきますね～。",
-            "enText": "I'll get the dumbbells ready for you!",
+            "enText": "I'll go get the dumbbells!",
             "nextBlock": 15,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2890499701255375044
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -816542218290982504
+                }
+            ],
             "pathId": 1139592753341268992,
             "blockIdx": 14
         },
@@ -161,8 +324,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "スーパークリークと一緒にかなりの重量で\r\nトレーニングを行うことになった。",
-            "enText": "I had to train with Supercreeks \nwith a lot of weight.",
+            "enText": "We end up doing some super heavy<n>weight\ntraining with Super Creek.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5450379537146349341,
             "blockIdx": 15
         }

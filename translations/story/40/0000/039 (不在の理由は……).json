@@ -1,16 +1,26 @@
 {
-    "version": 4,
-    "bundle": "JHVPBJK7KHGFLIIP2Y2JYUHTOFYGENBJ",
+    "version": 6,
+    "bundle": "6VJB7L5PW3VB25A2KOKUWFW4AL5UKZH3",
     "type": "story",
     "storyId": "400000039",
     "title": "不在の理由は……",
+    "enTitle": "Slacking Off",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニングに来なかった\r\n<chrname>。",
-            "enText": "<chrname> didn't show up for training.",
+            "enText": "<chrname> doesn't show up<n>for\ntraining.",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -1365434775048624644
+                }
+            ],
             "pathId": -1280321236585592005,
             "blockIdx": 1
         },
@@ -18,12 +28,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "事情を聞き出しつつも\r\n次はこんなことのないよう言い聞かせると、\nきちんと謝ってくれたのだった。",
-            "enText": "I asked her about the situation and told her\nnot to let it happen again, and she\napologized to me.",
+            "enText": "When I ask her not to let it happen<n>again, she\napologizes profusely.",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 6806627371967990186
+                }
+            ],
             "pathId": -6824715891484827101,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "PEJFT47D46B4NV72TWCIKWSZJXXYTQPR",
+    "version": 6,
+    "bundle": "J2WUVXDSYWHU3EDOH4GJXGGMKYOEU5NL",
     "type": "story",
     "storyId": "501052522",
     "title": "お肌の調子が……",
+    "enTitle": "Skin Troubles",
     "text": [
         {
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "トレーナー！　おはよー……えっくし！",
-            "enText": "Trainer! Good morning…… eek!",
+            "enText": "Trainer! Good morn—<i>ACHOOO!</i>",
             "nextBlock": 2,
             "origClipLength": 56,
+            "voiceIdx": 55,
+            "voiceSheetId": "051052001",
             "pathId": -2544076431961931810,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "んぅ～、お鼻ムズムズぅ……。",
-            "enText": "",
+            "enText": "Ngh. My nose is so itchy.",
             "nextBlock": 3,
             "origClipLength": 59,
+            "voiceIdx": 18,
+            "voiceSheetId": "051052001",
             "choices": [
                 {
                     "jpText": "風邪？",
-                    "enText": "A cold?",
+                    "enText": "Think it's a cold?",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 8,
-                    "pathId": 4448319023917874454
-                },
-                {
                     "origLen": 27,
                     "pathId": -2201064376486472073
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 4448319023917874454
                 }
             ],
             "pathId": 172030399097679637,
@@ -46,17 +51,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "んん……キングちゃんがね、\nニキビになんか塗ってくれたの。",
-            "enText": "Nn…… King-chan put something on my pimples.",
+            "enText": "Mm... Well, King put some cream on my<n>pimple.",
             "nextBlock": 4,
             "origClipLength": 63,
+            "voiceIdx": 50,
+            "voiceSheetId": "051052001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": -5080824725858553911
-                },
                 {
                     "origLen": 74,
                     "pathId": -7158732378334977240
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -5080824725858553911
                 }
             ],
             "pathId": -1215185873494927343,
@@ -66,17 +73,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "でもベトベトしてるし、\nにおいも……なんかムズムズして……うう。",
-            "enText": "But it's sticky, and the smell is…… kind of \nmushy and…… ugh.",
+            "enText": "But it feels sticky and its smell is making<n>my nose\nall itchy... Eugh.",
             "nextBlock": 5,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 269552127243535455
-                },
                 {
                     "origLen": 76,
                     "pathId": -1870095788692071403
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 269552127243535455
                 }
             ],
             "pathId": 2963572719480005241,
@@ -86,17 +95,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "ニキビ、早く治るといいなぁ～。",
-            "enText": "Acne, I hope it goes away soon!",
+            "enText": "I just want that pimple to go awaaay.",
             "nextBlock": 6,
             "origClipLength": 54,
+            "voiceIdx": 60,
+            "voiceSheetId": "051052001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 5312661975638061035
-                },
                 {
                     "origLen": 65,
                     "pathId": 3782599427973197876
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 5312661975638061035
                 }
             ],
             "pathId": -9141444115941869022,
@@ -106,22 +117,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "ハルウララは、\n肌のトラブルに悩んでいるみたいだった……。",
-            "enText": "Halulaura seemed to be suffering \nfrom skin problems. ……",
+            "enText": "Haru Urara seems very worried about her<n>skin\nproblems.",
             "nextBlock": -1,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -6739143813846073309
+                    "pathId": -7639489744800869321
                 },
                 {
                     "origLen": 74,
-                    "pathId": -7639489744800869321
+                    "pathId": -6739143813846073309
                 }
             ],
             "pathId": -1127720714978920382,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555061
+    ]
 }

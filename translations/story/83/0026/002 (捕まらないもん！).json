@@ -1,34 +1,74 @@
 {
-    "version": 4,
-    "bundle": "4U56T24XERD5UIYV6NEASQQC5LLJENBS",
+    "version": 6,
+    "bundle": "YB76GZ46YF2OEXKS6YYL4NFS52NSY4XC",
     "type": "story",
     "storyId": "830026002",
     "title": "捕まらないもん！",
+    "enTitle": "Can't Catch Me!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『地域交流・けいどろ大会』当日。\r\nトレセン学園の生徒たちと、入学を夢見る\n小学生ウマ娘のふれあいイベントだ。",
-            "enText": "The day of the \"Community Exchange and \nKedoro Tournament\". It's an event where the \nstudents of Tracen Academy and their \nprospective elementary school daughter Uma \nget to know each other.",
+            "enText": "Today Tracen is holding a cops and<n>robbers\ntournament. This event allows<n>elementary school\nstudents aiming for<n>Tracen to interact with\ncurrent students<n>at the academy.",
             "nextBlock": 2,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -4140096206025893672
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -299897799285558710
+                }
+            ],
             "pathId": 3181626403314307534,
             "blockIdx": 1
         },
         {
             "jpName": "大会委員長",
-            "enName": "",
+            "enName": "Tournament Chairperson",
             "jpText": "警察チームは、制限時間までに\r\n泥棒チームを全員捕まえたら勝ち！",
-            "enText": "The police team wins if they catch all the \nthief teams before the time limit!",
+            "enText": "The cops win if they capture all of the<n>robbers\nbefore the time runs out!",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1040738155350380218
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4135963104681453753
+                }
+            ],
             "pathId": -1417280844363185729,
             "blockIdx": 2
         },
         {
             "jpName": "大会委員長",
-            "enName": "",
+            "enName": "Tournament Chairperson",
             "jpText": "泥棒チームは、1人でも制限時間まで\r\n逃げ切れたら勝ちです！",
-            "enText": "The team of thieves wins if even one of them \ncan escape until the time limit!",
+            "enText": "But if even one robber remains, the<n>robbers win!",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 5713660170256010786
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -2337556781977941806
+                }
+            ],
             "pathId": -1952148989477094257,
             "blockIdx": 3
         },
@@ -36,17 +76,43 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ターボは泥棒チームだから、時間まで\r\n逃げ切ればいいんでしょ？　かんたん！",
-            "enText": "Turbo is a team of thieves. We just \nhave to outrun them until it's time, \nright? That's easy!",
+            "enText": "I'm a robber, so I just need to make sure<n>I don't\nget caught while the clock is<n>ticking, right? Piece\nof pie!",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "voiceIdx": 3,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4179612172949013611
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7868495942921356086
+                }
+            ],
             "pathId": -3997686411422665465,
             "blockIdx": 4
         },
         {
             "jpName": "大会委員長",
-            "enName": "",
+            "enName": "Tournament Chairperson",
             "jpText": "トレーナーさんや商店街のみなさんは、\r\n割り振られたチームに付き、\n安全の確保をお願いします！",
-            "enText": "Trainers and members of the shopping \ndistrict, please stay with your assigned \nteam and ensure their safety!",
+            "enText": "Trainers and volunteers from the<n>shopping district\nare here to ensure that<n>the team they've been\nassigned to plays<n>safely!",
             "nextBlock": 6,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 62093562573338843
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 209694760727947755
+                }
+            ],
             "pathId": 2885390667336327984,
             "blockIdx": 5
         },
@@ -54,18 +120,31 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "うん？　こっちにいるってことは……\r\nオマエも泥棒チームか！？",
-            "enText": "What? If you're over here, that means you're \non the… team of thieves!",
+            "enText": "Hm? If you're here, that means... you're a<n>robber\ntoo?!",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "voiceIdx": 26,
+            "voiceSheetId": "051066001",
             "choices": [
                 {
                     "jpText": "見回りだけどな",
-                    "enText": "I'm just making the rounds.",
+                    "enText": "I'm just here to keep an eye on things.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "見回りだけどね",
-                    "enText": "I'm just making the rounds.",
+                    "enText": "I'm just here to keep an eye on things.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 3194559190113365761
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -7940625765481837024
                 }
             ],
             "pathId": 4266558037146320754,
@@ -75,17 +154,59 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "細かいこと気にすんな！　オマエも仲間！\r\nターボがぶっちぎるから安心しろー！",
-            "enText": "Don't sweat the small stuff! You're one of \nus! Don't worry, Turbo's gonna smash it!",
+            "enText": "Don't sweat the details! You're one of<n>us! I'll\nsmash right through everyone, so<n>you'll have\nnothing to worry about!",
             "nextBlock": 8,
+            "origClipLength": 94,
+            "voiceIdx": 74,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -9204624147589071608
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 152144218222941413
+                }
+            ],
             "pathId": -4930881119239706689,
             "blockIdx": 7
         },
         {
             "jpName": "小学生ウマ娘A",
-            "enName": "",
+            "enName": "Elementary School Umamusume A",
             "jpText": "トレセン学園のお姉さんたちがいっぱい……！\r\nよーし、警察チーム！　がんばるぞー！",
-            "enText": "A whole bunch of sisters from the \nTracen Academy…! Alright, police \nteam! Let's go for it!",
+            "enText": "There are so many Tracen Academy<n>students\nhere! C'mon, cops! We've gotta<n>win this!",
             "nextBlock": 9,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -6528443519498557025
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 582310845369651027
+                },
+                {
+                    "origLen": 174,
+                    "pathId": -2229316474971367031
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 8786116533459970379
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -9171790981713711918
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 998439825251693000
+                }
+            ],
             "pathId": 4810849939506240956,
             "blockIdx": 8
         },
@@ -93,8 +214,29 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ライスのせいで負けないように、\r\nがんばらなくっちゃ……！",
-            "enText": "I'll have to work hard not to let \nRice get the better of me…!",
+            "enText": "I have to do my best! I can't be the<n>reason my\nteam loses!",
             "nextBlock": 10,
+            "origClipLength": 82,
+            "voiceIdx": 63,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -2165127324988871348
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 139356077091928765
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 2552483191477589912
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6103279855684489184
+                }
+            ],
             "pathId": -5103302929023288267,
             "blockIdx": 9
         },
@@ -102,8 +244,33 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "警察チームの皆さんが勝利を掴めるよう、\r\n僭越ながらお手伝いをさせていただきます。",
-            "enText": "I would like to help the police \nteam to win the game.",
+            "enText": "Forgive my intrusion, but I'll be offering<n>my\nassistance to ensure that the cops<n>team emerges\ntriumphant.",
             "nextBlock": 11,
+            "origClipLength": 98,
+            "voiceIdx": 42,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": 2063177897936530983
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6463881363153542514
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 573970209294440627
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 9167280095679474534
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3609877566780406343
+                }
+            ],
             "pathId": 7370803383302095191,
             "blockIdx": 10
         },
@@ -111,8 +278,37 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "効果的なチームプレーから\r\n体力管理まで、お任せください。",
-            "enText": "From effective team play to physical \nfitness, we've got you covered.",
+            "enText": "Leave everything to me. I shall create an<n>effective\nteam strategy that will keep<n>your stamina levels in\nmind.",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "voiceIdx": 62,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": -5226437554680553664
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -881663081944672377
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3382566731754785915
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1529902501642160627
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3864949517994783182
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6487304445719303830
+                }
+            ],
             "pathId": -4575307981366634428,
             "blockIdx": 11
         },
@@ -120,8 +316,45 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "うおぉー、あっちのチームも\r\nやる気バクハツしてるな！",
-            "enText": "Wow, that team's got a lot of energy!",
+            "enText": "Whoooa! Their team's totally pumped!",
             "nextBlock": 13,
+            "origClipLength": 80,
+            "voiceIdx": 7,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 7284434287884335147
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -6402540111257167156
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 4184647732889591158
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 1391166911095881237
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -4919902611854608199
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 3388223516591271819
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 7375627052409238757
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5771075460684321696
+                }
+            ],
             "pathId": -7500252299623098006,
             "blockIdx": 12
         },
@@ -129,17 +362,43 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "よーし、受けてたーつ！\r\n泥棒チーム、いっくぞー！！",
-            "enText": "All right, I'll take that! \nLet's go, thief team!",
+            "enText": "Awww yeah! We'll just have to step up<n>our game!\nLet's go, robbers!",
             "nextBlock": 14,
+            "origClipLength": 78,
+            "voiceIdx": 98,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7158521810209404454
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -4543695335873098945
+                }
+            ],
             "pathId": -4825507267816075098,
             "blockIdx": 13
         },
         {
             "jpName": "大会委員長",
-            "enName": "",
+            "enName": "Tournament Chairperson",
             "jpText": "それではみなさん、\r\n位置について――",
-            "enText": "All right, everyone, on your marks—",
+            "enText": "Right, everyone! On your marks, get<n>set...",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5296973273466702476
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -2856643638367144730
+                }
+            ],
             "pathId": 4079250692237940315,
             "blockIdx": 14
         },
@@ -147,8 +406,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（パァン！）",
-            "enText": "(poof! )",
+            "enText": "<i>BANG!</i>",
             "nextBlock": 16,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -8189506638012194409
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2677550675590026464
+                }
+            ],
             "pathId": -4002316556685131209,
             "blockIdx": 15
         },
@@ -156,8 +428,11 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "よーし、ぜんそくぜんしん！\r\n逃げろぉー！！",
-            "enText": "All right, asthma, asthma! Run!",
+            "enText": "ALL RIGHT! Run away as fast as you can!",
             "nextBlock": 17,
+            "origClipLength": 73,
+            "voiceIdx": 125,
+            "voiceSheetId": "051066001",
             "pathId": -4455792635420671017,
             "blockIdx": 16
         },
@@ -165,8 +440,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "最初は両チーム入り乱れての\r\n混戦となったが、時間が経つにつれ、\n警察チームの動きがなくなってきた。",
-            "enText": "At first, the two teams got into a \nscramble, but as time went on, the \npolice team lost their edge.",
+            "enText": "The game starts with a chaotic game of<n>\ncat-and-mouse, but as time passes, the<n>cop team\nbegins to slow down.",
             "nextBlock": 18,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": 835002606493552966
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 7875986924268801954
+                }
+            ],
             "pathId": 7868325719391596722,
             "blockIdx": 17
         },
@@ -174,8 +462,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "さっきより警察追っかけてこない！\r\nなんでー？　ターボ、待ってるのにー！",
-            "enText": "They're not chasing us any more! Why? \nTurbo, I'm waiting for you!",
+            "enText": "Hey! How come the cops aren't chasing<n>us like\nthey were before?! What's goin'<n>on?! Don't keep\nme waitin' here!",
             "nextBlock": 19,
+            "origClipLength": 91,
+            "voiceIdx": 64,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 157,
+                    "pathId": 6725069833778476601
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 199260335742627094
+                }
+            ],
             "pathId": 3864391859904010376,
             "blockIdx": 18
         },
@@ -183,8 +484,33 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "闇雲に動き回っても体力を消耗するだけです。",
-            "enText": "If you move around in the dark, you will \nonly exhaust your energy.",
+            "enText": "Running around haphazardly only serves<n>to\ndeplete our energy.",
             "nextBlock": 20,
+            "origClipLength": 72,
+            "voiceIdx": 3,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": -3195881241806094179
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 692990898150319426
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8847052607068410536
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -1880817780672795278
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -81713563323331884
+                }
+            ],
             "pathId": 2926606448579995186,
             "blockIdx": 19
         },
@@ -192,8 +518,25 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "ここは冷静に、相手の出方を窺いましょう。",
-            "enText": "Keep your cool and wait to see \nhow your opponent will react.",
+            "enText": "Let us calmly lie in wait and observe the<n>enemy's\nmovements.",
             "nextBlock": 21,
+            "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 7979410278269545871
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6826203619739227728
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2511365121823889133
+                }
+            ],
             "pathId": 4926558264200839126,
             "blockIdx": 20
         },
@@ -201,8 +544,33 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "体力の消耗を抑えつつ、効率的に捕まえる\r\nイクノディクタスたちの作戦だろう……と、\nツインターボに伝えた。",
-            "enText": "It's probably the strategy of Ichnodictus \nand her team to catch you efficiently \nwhile reducing your physical exhaustion… \nshe told Twin Turbo.",
+            "enText": "I tell Twin Turbo that the cops are going<n>with\nIkuno Dictus's strategy of minimal<n>energy\nconsumption and efficient<n>arrests.",
             "nextBlock": 22,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -660081122570631759
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -4507639056865328373
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -12547550588395583
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -5467731507529938317
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -3188879362809250824
+                }
+            ],
             "pathId": -5949369913782982534,
             "blockIdx": 21
         },
@@ -210,8 +578,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "えぇー！！　なにそれー！！\r\nつーまーんーなーいぃぃー！！",
-            "enText": "Oh, my God! What is that? It's boring!",
+            "enText": "Whaaaaat?! The heck's with that?!<n>Boooooriiiiing!",
             "nextBlock": 23,
+            "origClipLength": 82,
+            "voiceIdx": 18,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 7604745039252066091
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2334102156973501779
+                }
+            ],
             "pathId": 1006276333511071854,
             "blockIdx": 22
         },
@@ -219,18 +600,31 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ターボ走りたい！\r\nみんなと追いかけっこしたい！！",
-            "enText": "I want to run turbo! I want \nto chase everyone!",
+            "enText": "I wanna run around! I wanna play tag<n>with\neveryone!",
             "nextBlock": 24,
+            "origClipLength": 77,
+            "voiceIdx": 101,
+            "voiceSheetId": "051066001",
             "choices": [
                 {
                     "jpText": "飛び出せば相手の思うつぼだ",
-                    "enText": "If you jump out, you're playing \nright into their hands.",
+                    "enText": "You'll fall right into their trap if you rush out\nnow.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "飛び出せば相手の思うつぼだよ",
-                    "enText": "If you jump out, you're playing \nright into their hands.",
+                    "enText": "You'll fall right into their trap if you rush out\nnow.",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4175349811734434022
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4411422430305121169
                 }
             ],
             "pathId": 1575644397861738884,
@@ -240,18 +634,31 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ターボ、速いから大丈夫だもん。",
-            "enText": "Turbo, it's fast, so it's okay.",
+            "enText": "I'm super fast. I'll be totally fine.",
             "nextBlock": 25,
+            "origClipLength": 64,
+            "voiceIdx": 19,
+            "voiceSheetId": "051066001",
             "choices": [
                 {
                     "jpText": "何か作戦があるのか？",
-                    "enText": "What's the plan?",
+                    "enText": "Do you have a strategy in mind?",
                     "nextBlock": 25
                 },
                 {
                     "jpText": "何か作戦があるの？",
-                    "enText": "What's the plan?",
+                    "enText": "Do you have a strategy in mind?",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8399920205334830683
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 6118706088325059694
                 }
             ],
             "pathId": 1758475173911156620,
@@ -261,8 +668,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ふっふーん！\r\nターボ強いよ！　だいじょーぶ！",
-            "enText": "Mmm-hmm! I'm turbo strong! You're safe!",
+            "enText": "Hehe! Nope, but I'm <i>tough,</i> so I'll be<n>fine!",
             "nextBlock": 26,
+            "origClipLength": 75,
+            "voiceIdx": 3,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 3485324979687514996
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2320779018738600245
+                }
+            ],
             "pathId": 2058930670540382921,
             "blockIdx": 25
         },
@@ -270,28 +690,41 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……もしかしたら、ツインターボは1人で\r\n相手チームの注意を引くつもりかもしれない。",
-            "enText": "… Maybe Twin Turbo is trying to get the \nother team's attention all by herself.",
+            "enText": "...Maybe Twin Turbo's planning to draw<n>the\nattention of the whole cop team<n>herself.",
             "nextBlock": 27,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "よし、行ってこい！",
-                    "enText": "All right, go!",
+                    "enText": "Okay, go for it!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "じゃあ、行っておいで！",
-                    "enText": "Then go ahead!",
+                    "enText": "Okay, go for it!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "ここは我慢だ",
-                    "enText": "We have to be patient here.",
+                    "enText": "Hold back for now.",
                     "nextBlock": 51
                 },
                 {
                     "jpText": "ここは我慢だよ",
-                    "enText": "We have to be patient here.",
+                    "enText": "Hold back for now.",
                     "nextBlock": 51
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -506125329773593758
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -400635867998500634
                 }
             ],
             "pathId": 4739399334824971010,
@@ -301,28 +734,41 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……もしかしたら、ツインターボは1人で\r\n相手チームの注意を引くつもりかもしれない。",
-            "enText": "… Maybe Twin Turbo is trying to get the \nother team's attention all by herself.",
+            "enText": "...Maybe Twin Turbo's planning to draw<n>the\nattention of the whole cop team<n>herself.",
             "nextBlock": 28,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "よし、行ってこい！",
-                    "enText": "All right, go!",
+                    "enText": "Okay, go for it!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "じゃあ、行っておいで！",
-                    "enText": "Then go ahead!",
+                    "enText": "Okay, go for it!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "ここは我慢だ",
-                    "enText": "We have to be patient here.",
+                    "enText": "Hold back for now.",
                     "nextBlock": 51
                 },
                 {
                     "jpText": "ここは我慢だよ",
-                    "enText": "We have to be patient here.",
+                    "enText": "Hold back for now.",
                     "nextBlock": 51
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 2389451473296899706
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7603623979903021522
                 }
             ],
             "pathId": 4155824343767623532,
@@ -332,8 +778,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "まっかせといてー！\r\nターボ、いっくぞーー！！",
-            "enText": "Wait for me! Turbo, let's go!",
+            "enText": "Leave it to me! Turbooo... GOOOOO!",
             "nextBlock": 29,
+            "origClipLength": 75,
+            "voiceIdx": 10,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 4943064996255180627
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1357245091212458228
+                }
+            ],
             "pathId": -2548124868390697397,
             "blockIdx": 28
         },
@@ -341,8 +800,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "いたー！\r\nライスみっけー！",
-            "enText": "There they are! I found Rice!",
+            "enText": "Found ya, Rice!",
             "nextBlock": 30,
+            "origClipLength": 63,
+            "voiceIdx": 31,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 6183107451958716697
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8864383792826437898
+                }
+            ],
             "pathId": 3132501014026327207,
             "blockIdx": 29
         },
@@ -350,8 +822,29 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "えっ、ターボさん……！？",
-            "enText": "What? Ms. Turbo…!",
+            "enText": "Huh? Turbo?!",
             "nextBlock": 31,
+            "origClipLength": 60,
+            "voiceIdx": 25,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 1480126358698841734
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -8828445547093362444
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -6247880920323644616
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 2042611078074093783
+                }
+            ],
             "pathId": 280492689394900231,
             "blockIdx": 30
         },
@@ -359,8 +852,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "待てぇぇぇぇ！　逃がさないぞ警察！\r\nじんじょーに、ターボとしょーーぶ！！",
-            "enText": "Wait, wait, wait, wait! You can't escape, \npolice! I'm gonna get you out of here!",
+            "enText": "Waaait! I'm not letting you get away,<n>coppers!\nTake me on, fair and square!",
             "nextBlock": 32,
+            "origClipLength": 93,
+            "voiceIdx": 126,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -3562324639736005612
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -3754619687452400505
+                }
+            ],
             "pathId": -8735384712186519586,
             "blockIdx": 31
         },
@@ -368,8 +874,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ふええ！？\r\n待って、待って、突っ込んでこないでぇ！",
-            "enText": "Huh? Wait, wait, don't shove me!",
+            "enText": "Huh?! Wait! Wait! Stay awaaay!",
             "nextBlock": 33,
+            "origClipLength": 78,
+            "voiceIdx": 28,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -8356267298320914617
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5391180306505361099
+                }
+            ],
             "pathId": 3087681003410375931,
             "blockIdx": 32
         },
@@ -377,26 +896,81 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "な、なんで追いかけてくるの～……！？",
-            "enText": "Hey, why are you chasing me~…!",
+            "enText": "Wh-why are <i>you</i> chasing after <i>meee?!</i>",
             "nextBlock": 34,
+            "origClipLength": 68,
+            "voiceIdx": 17,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7033755500308766387
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -9050021436656868202
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2206194491060711561
+                }
+            ],
             "pathId": -8797378853537126433,
             "blockIdx": 33
         },
         {
             "jpName": "小学生ウマ娘A",
-            "enName": "",
+            "enName": "Elementary School Umamusume A",
             "jpText": "あれ？\r\nどうなってるの？",
-            "enText": "Huh? What's going on?",
+            "enText": "Huh? What's happening?",
             "nextBlock": 35,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 4670921629138725
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 5503561679923898483
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2557220255482877451
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1553850328142129162
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 4627588042700056901
+                }
+            ],
             "pathId": 6039858963183928144,
             "blockIdx": 34
         },
         {
             "jpName": "小学生ウマ娘B",
-            "enName": "",
+            "enName": "Elementary School Umamusume B",
             "jpText": "特別ルールかなぁ……？\r\n私たちも逃げたほうがいい？",
-            "enText": "I wonder if it's a special rule…? \nShould we run away too?",
+            "enText": "Is this a special rule or something?<n>Should we run\naway too?",
             "nextBlock": 36,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 6152628261899912819
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7595111525927923061
+                }
+            ],
             "pathId": -6145059640003139090,
             "blockIdx": 35
         },
@@ -404,8 +978,21 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "いえ、どうかそのままで。\r\n皆さんは、このまま待機をお願いします。",
-            "enText": "No, please, stay where you are. \nI'd like you all to stay put.",
+            "enText": "No. Please stay as you are. I'd like you<n>all to\nremain on standby.",
             "nextBlock": 37,
+            "origClipLength": 88,
+            "voiceIdx": 151,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 6690930961333413073
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6775288639945242358
+                }
+            ],
             "pathId": -441674476074119507,
             "blockIdx": 36
         },
@@ -413,8 +1000,21 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "……早く止めるべきですが、\r\nあれは骨が折れそうですね。",
-            "enText": "We should stop… soon, but that \nthing is bone-chilling.",
+            "enText": "...It would be best to stop her as soon as<n>possible,\nbut that would be a tough<n>task.",
             "nextBlock": 38,
+            "origClipLength": 81,
+            "voiceIdx": 21,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 9066654785394924821
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8174869679670634603
+                }
+            ],
             "pathId": 4012334131137115029,
             "blockIdx": 37
         },
@@ -422,8 +1022,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "やっふーー！　待て待てぇーい！！\r\nあははっ！　追いかけっこはこーでなくちゃ！",
-            "enText": "Yoo-hoo! Wait, wait, wait! Hahaha! This is \nwhat chasing is all about!",
+            "enText": "Yahooooo! Wait up, punks! Ahahaha!<n>Now we're\n<i>really</i> playing cops and<n>robbers!",
             "nextBlock": 39,
+            "origClipLength": 95,
+            "voiceIdx": 0,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -6842993835182053036
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 4473650867391459656
+                }
+            ],
             "pathId": -2737230296412038331,
             "blockIdx": 38
         },
@@ -431,8 +1044,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なぜかツインターボが警察チームを追い回し、\r\n混乱が巻き起こったけいどろ大会は、\n一時中断されたのであった……。",
-            "enText": "For some reason, Twin Turbo chased the \npolice team around, and the Kedoro \ntournament was temporarily suspended due to \nthe chaos that ensued…",
+            "enText": "With Twin Turbo somehow chasing the<n>cops, the\ncops and robbers tournament<n>descends into\nmayhem and is eventually<n>called to a temporary\nhalt.",
             "nextBlock": -1,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 7808809068846333651
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -2466821636329624704
+                }
+            ],
             "pathId": 6432937848609534106,
             "blockIdx": 39
         },
@@ -440,8 +1066,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "あははははは！　逃がさないぞ警察！\r\nじんじょーに、ターボとしょー……。",
-            "enText": "Ha-ha-ha-ha! You won't get away with this, \npolice! Jinjo ni, turbo tosho…",
+            "enText": "Ahahahahaha! You're not goin'<n>anywhere,\ncoppers! Take me on, fair<n>and—",
             "nextBlock": 41,
+            "origClipLength": 91,
+            "voiceIdx": 1,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 8898568371170456185
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3193773885926945353
+                }
+            ],
             "pathId": 2999995519449933906,
             "blockIdx": 40
         },
@@ -449,8 +1088,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ぶべっ！！！！！",
-            "enText": "Bube ！！！！！",
+            "enText": "Wah!",
             "nextBlock": 42,
+            "origClipLength": 55,
+            "voiceIdx": 25,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -8893002887468931244
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 4822562978342300881
+                }
+            ],
             "pathId": 5883523348141470554,
             "blockIdx": 41
         },
@@ -458,17 +1110,51 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ひゃあ！\r\nた、ターボさん！？",
-            "enText": "Hiya! Ms. Turbo!",
+            "enText": "Eek! T-Turbo?!",
             "nextBlock": 43,
+            "origClipLength": 64,
+            "voiceIdx": 25,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 175,
+                    "pathId": 962124334897378746
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4226409936418954704
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4506126215716404868
+                }
+            ],
             "pathId": -128132629740449077,
             "blockIdx": 42
         },
         {
             "jpName": "見回りのおじさん",
-            "enName": "",
+            "enName": "Older Patrolman",
             "jpText": "お、おい君、大丈夫か！？\r\n顔面から地面に突っ込んでたけど……。",
-            "enText": "Oh, hey you, are you okay! I was plunged \nface-first into the ground…",
+            "enText": "H-hey! Are you okay?! That was quite<n>the\nface-plant...",
             "nextBlock": 44,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 9224579402830984
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5573451137170724379
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8635117489924480564
+                }
+            ],
             "pathId": 8502813173040790178,
             "blockIdx": 43
         },
@@ -476,8 +1162,25 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "しょーぶ……ターボと、走る……。\r\nえへへ…………。",
-            "enText": "Shobu… turbo and run… Ehehe…",
+            "enText": "Run with... me... fair and... square...<n>Ehehe...",
             "nextBlock": 45,
+            "origClipLength": 78,
+            "voiceIdx": 14,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 6749443803623735264
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7501224682612268499
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 3833984782762578484
+                }
+            ],
             "pathId": 8125940440340155466,
             "blockIdx": 44
         },
@@ -485,17 +1188,43 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ガクッ。",
-            "enText": "Gulp.",
+            "enText": "Bleh...",
             "nextBlock": 46,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -5214878113290249826
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8628853197011952899
+                }
+            ],
             "pathId": 7296785031459991155,
             "blockIdx": 45
         },
         {
             "jpName": "見回りのトレーナー",
-            "enName": "",
+            "enName": "Patrolling Trainer",
             "jpText": "えっ、笑ったまま気絶してる……？",
-            "enText": "What, you're fainting with laughter…?",
+            "enText": "Uh, did she just pass out with a smile on<n>her face?",
             "nextBlock": 47,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 3077362741963516050
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2539607599851517354
+                }
+            ],
             "pathId": -8881159633335595213,
             "blockIdx": 46
         },
@@ -503,18 +1232,39 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "……はっ！\r\nしょーぶは！？",
-            "enText": "What about…! Shobu is!",
+            "enText": "Huh?! What happened to the<n>tournament?!",
             "nextBlock": 48,
+            "origClipLength": 63,
+            "voiceIdx": 111,
+            "voiceSheetId": "051066001",
             "choices": [
                 {
                     "jpText": "終わって、警察チームが勝ったぞ",
-                    "enText": "It's over. The police team won.",
+                    "enText": "It's over. The cops won.",
                     "nextBlock": 48
                 },
                 {
                     "jpText": "終わって、警察チームが勝ったよ",
-                    "enText": "It's over. The police team won.",
+                    "enText": "It's over. The cops won.",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3874920690732069387
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6264514324966813729
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 6029858081527239019
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -5564503870609017701
                 }
             ],
             "pathId": -5805373074501241206,
@@ -524,8 +1274,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "びゃー！？　お、おわ、終わってるぅ！？\r\nターボ走ってないのに！？",
-            "enText": "Whoa! Oh, wow, it's over! I'm \nnot running the turbo!",
+            "enText": "What?! I-it's o-over?! But I didn't even<n>get to run!",
             "nextBlock": 49,
+            "origClipLength": 88,
+            "voiceIdx": 27,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2234058372333169278
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7550999147128983554
+                }
+            ],
             "pathId": 4024076671442342635,
             "blockIdx": 48
         },
@@ -533,8 +1296,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ふぐぅ、うう～……ぐーやーじーいぃ！\r\n次はターボが勝つんだぁぁぁぁ！！",
-            "enText": "Fugu, ugh~… Gu-ya-zi-ii! Turbo's \ngonna win next time!!!!",
+            "enText": "<i>Sob...</i> Awww, this suuuucks! But I'll<n>totally win\nnext tiiiiime!",
             "nextBlock": 50,
+            "origClipLength": 91,
+            "voiceIdx": 17,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 7632632255243592965
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -7643621841063971728
+                }
+            ],
             "pathId": 4748567789016230738,
             "blockIdx": 49
         },
@@ -542,8 +1318,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "わんわんと泣きながら、夕陽に固く誓う\r\nツインターボであった……。",
-            "enText": "It was a twin-turbo that cried and cried and \nswore firmly to the setting sun…",
+            "enText": "Twin Turbo bawls her eyes out as she<n>swears an\noath to the setting sun...",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -893190318033878418
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 1438618983034787865
+                }
+            ],
             "pathId": -6744157992386054558,
             "blockIdx": 50
         },
@@ -551,8 +1340,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ええー！？　なんでなんで？\r\nやだやだやだやだー！！",
-            "enText": "Eeee! Why? Why? No, no, no, no, no, no, no!",
+            "enText": "What?! Why?! No, no, no! Nuh-uh!",
             "nextBlock": 52,
+            "origClipLength": 81,
+            "voiceIdx": 18,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 3658934433954455632
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1865201531438801164
+                }
+            ],
             "pathId": 7425747110600514969,
             "blockIdx": 51
         },
@@ -560,8 +1362,21 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "走るぅー！\r\nターボは走んなきゃやーだー！",
-            "enText": "Run! Turbo has to run!",
+            "enText": "I'm gonna run! I <i>gotta</i> run!",
             "nextBlock": 53,
+            "origClipLength": 100,
+            "voiceIdx": 23,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 8389542886556820502
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7870884973692915873
+                }
+            ],
             "pathId": -1248083409816355097,
             "blockIdx": 52
         },
@@ -569,8 +1384,21 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "警察チームの皆さん、今です！",
-            "enText": "Police team, now!",
+            "enText": "Cops! Now!",
             "nextBlock": 54,
+            "origClipLength": 63,
+            "voiceIdx": 91,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -8974787032202049135
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8071534092260862635
+                }
+            ],
             "pathId": 5990347094795024939,
             "blockIdx": 53
         },
@@ -578,8 +1406,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ふおっ、イクノ！？",
-            "enText": "Whoa, Ikuno!",
+            "enText": "Whoa! Ikuno?!",
             "nextBlock": 55,
+            "origClipLength": 56,
+            "voiceIdx": 27,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -3587060934515613630
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -796941359791923820
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3091831155651445054
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3938616810416253319
+                }
+            ],
             "pathId": 7856424400847719816,
             "blockIdx": 54
         },
@@ -587,17 +1436,63 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "包囲成功。貴方の大きな声のおかげで、\r\n気づかれずに皆さんを誘導できました。",
-            "enText": "The siege was successful. Thanks \nto your loud voice, we were able \nto lead everyone unnoticed.",
+            "enText": "Siege successful. Your loud voice served<n>as a\nbeacon, allowing me to lead<n>everyone here\nundetected.",
             "nextBlock": 56,
+            "origClipLength": 94,
+            "voiceIdx": 74,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 5417883262462534006
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -7503136149794256202
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1018453226528083454
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -7406352212621830385
+                }
+            ],
             "pathId": -6822841265489192156,
             "blockIdx": 55
         },
         {
             "jpName": "小学生ウマ娘A",
-            "enName": "",
+            "enName": "Elementary School Umamusume A",
             "jpText": "もう逃げられないですよ、ツインターボさん！",
-            "enText": "You can't run away now, Twin Turbo!",
+            "enText": "You can't get away now, Twin Turbo!",
             "nextBlock": 57,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -3638142860755661919
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -7573458901730493228
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -137280980477597655
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 4408398371295050400
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3555839097073806365
+                }
+            ],
             "pathId": 2103167164669991416,
             "blockIdx": 56
         },
@@ -605,8 +1500,33 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "…………い。",
-            "enText": "…",
+            "enText": "N...",
             "nextBlock": 58,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 6004265477491020360
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -7553472656445727182
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8589485053802115989
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7132907447597430475
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5652572763646155543
+                }
+            ],
             "pathId": -4450122495755425068,
             "blockIdx": 57
         },
@@ -614,8 +1534,33 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "いやったぁぁぁぁ！！！",
-            "enText": "YEAH!!!",
+            "enText": "Now <i>that's</i> what I'm talkin' about!",
             "nextBlock": 59,
+            "origClipLength": 94,
+            "voiceIdx": 6,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -8810629033255532068
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 3015817058127612011
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5101987427239383137
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -7588057354199967569
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 6453760319943804352
+                }
+            ],
             "pathId": -5053486241470758694,
             "blockIdx": 58
         },
@@ -623,8 +1568,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "みんなターボと追いかけっこしてくれるの？\r\nいーよぉ、やろーやろー！",
-            "enText": "Will you guys play chase with Turbo? Yeah, \nlet's do it! Let's do it!",
+            "enText": "All you guys are gonna chase after me?!<n>I'm all in!\nC'mon, let's <i>do</i> this!",
             "nextBlock": 60,
+            "origClipLength": 89,
+            "voiceIdx": 7,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -5957526383459605205
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -8344419390821179940
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3753923335039744331
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5545758930369206933
+                }
+            ],
             "pathId": 6787409638418427140,
             "blockIdx": 59
         },
@@ -632,8 +1598,37 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "いち、にー、さん、しー……6人ね！　6対1！\r\nターボについてこられるかなー！？",
-            "enText": "One, two, three, four…6 people! Six against \none! Let's see if I can keep up with Turbo!",
+            "enText": "One, two, three, four... Six of you! Six<n>against\none! Can you keep up with me?!",
             "nextBlock": 61,
+            "origClipLength": 97,
+            "voiceIdx": 74,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 7938970454308176065
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -642146699272586854
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8161521598726398581
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5420089162681986314
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 9168128352960242150
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6457111743346271986
+                }
+            ],
             "pathId": -7769287187227565604,
             "blockIdx": 60
         },
@@ -641,8 +1636,37 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "そーれ！\r\nターボ全開だぁぁぁ！！",
-            "enText": "That's it! Turbo's on!",
+            "enText": "Here I go! Turbo BOOOOOST!",
             "nextBlock": 62,
+            "origClipLength": 67,
+            "voiceIdx": 125,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -3728405595058167992
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2045781573031946417
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 5662559450920891260
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6572778844748128536
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 8177630634150579005
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -4913933901044922417
+                }
+            ],
             "pathId": 8097269529898613363,
             "blockIdx": 61
         },
@@ -650,17 +1674,43 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "いけない！　皆さん待ってください！\r\nターボさんのペースについていくと――",
-            "enText": "I can't! Everyone wait! If we keep \nup with Ms. Turbo's pace—",
+            "enText": "No! Wait, everyone! If you try to keep<n>up with\nTurbo, you'll—",
             "nextBlock": 63,
+            "origClipLength": 93,
+            "voiceIdx": 26,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -2529089411961821225
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 6020232036109122349
+                }
+            ],
             "pathId": -144387763899455751,
             "blockIdx": 62
         },
         {
             "jpName": "小学生ウマ娘たち",
-            "enName": "",
+            "enName": "Elementary School Umamusume",
             "jpText": "む、無理～……！",
-            "enText": "No, I can't…!",
+            "enText": "I-It's no good...",
             "nextBlock": 64,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -4044972089777540815
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2518794646382314316
+                }
+            ],
             "pathId": 3514661234943859630,
             "blockIdx": 63
         },
@@ -668,8 +1718,21 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "……脱落してしまいます、と。\r\nもっと早くにお伝えすべきでした。",
-            "enText": "She said, \"I'm going to drop out of… I \nshould have told you earlier.",
+            "enText": "—only fall behind. I should have warned<n>you\nearlier.",
             "nextBlock": 65,
+            "origClipLength": 86,
+            "voiceIdx": 60,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -706132814074729251
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -7057480078805041486
+                }
+            ],
             "pathId": -4644551029978164547,
             "blockIdx": 64
         },
@@ -677,8 +1740,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "やがてツインターボと警察チームがともに\r\n体力切れを起こし、大会は引き分けで\n終了したのであった……。",
-            "enText": "Eventually, Twin Turbo and the police team \nboth ran out of energy, and the tournament \nended in a draw…",
+            "enText": "Eventually, both Twin Turbo and the<n>cops run out\nof steam and the<n>tournament ends in a draw...",
             "nextBlock": 66,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -2215156154586524886
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -7944679298873267350
+                }
+            ],
             "pathId": -6784430107166166961,
             "blockIdx": 65
         }

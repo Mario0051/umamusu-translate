@@ -1,16 +1,34 @@
 {
-    "version": 4,
-    "bundle": "I5WTCCMRFZ33HZLK3OBHQTPPQGKF2S3K",
+    "version": 6,
+    "bundle": "QOTQPCGDRTPJ2LSHI5ET6RSW6VQRYFFI",
     "type": "story",
     "storyId": "501006710",
     "title": "レース敗北",
+    "enTitle": "Defeat",
     "text": [
         {
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "トレーナー……\r\nすまない、今回は負けてしまった。",
-            "enText": "Trainer… Sorry, I lost this time.",
+            "enText": "Hey... Sorry for losing like that.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "voiceIdx": 24,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -4159872738968886394
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4196137112704114864
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3407698023905036913
+                }
+            ],
             "pathId": -6020651883849337405,
             "blockIdx": 1
         },
@@ -18,8 +36,25 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "だが、落ち込んでいる暇はない。",
-            "enText": "But there was no time to be depressed.",
+            "enText": "But now isn't the time to mope.",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "voiceIdx": 86,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -686590320899620683
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -1021929292310201614
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 1310995409170265896
+                }
+            ],
             "pathId": -4341348348391788211,
             "blockIdx": 2
         },
@@ -27,28 +62,41 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "挫けていてばかりでは、ご飯が\r\n美味しくなくなるだけだしな。",
-            "enText": "If you keep on being frustrated, \nyour food won't taste as good.",
+            "enText": "After all, I can't enjoy my post-race meal<n>if I'm\ndown in the dumps.",
             "nextBlock": 4,
+            "origClipLength": 64,
+            "voiceIdx": 80,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "次は期待しているぞ！",
-                    "enText": "I'll be expecting you next time!",
+                    "enText": "I'm sure you'll do better next time!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "次は期待しているよ！",
-                    "enText": "I'm hoping for the next one!",
+                    "enText": "I'm sure you'll do better next time!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "早速トレーニングだ！",
-                    "enText": "Let's get to work!",
+                    "enText": "Let's get back to training right away!",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "早速トレーニングだね！",
-                    "enText": "You're training fast!",
+                    "enText": "Let's get back to training right away!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7586136138897519201
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3909827293602341113
                 }
             ],
             "pathId": 2305677669742749148,
@@ -58,28 +106,41 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "挫けていてばかりでは、ご飯が\r\n美味しくなくなるだけだしな。",
-            "enText": "If you keep on being frustrated, \nyour food won't taste as good.",
+            "enText": "After all, I can't enjoy my post-race meal<n>if I'm\ndown in the dumps.",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "voiceIdx": 80,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "次は期待しているぞ！",
-                    "enText": "I'll be expecting you next time!",
+                    "enText": "I'm sure you'll do better next time!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "次は期待しているよ！",
-                    "enText": "I'm hoping for the next one!",
+                    "enText": "I'm sure you'll do better next time!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "早速トレーニングだ！",
-                    "enText": "Let's get to work!",
+                    "enText": "Let's get back to training right away!",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "早速トレーニングだね！",
-                    "enText": "You're training fast!",
+                    "enText": "Let's get back to training right away!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -1777674089967362150
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -8325158974321866369
                 }
             ],
             "pathId": -7553894840024368395,
@@ -89,18 +150,31 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ありがとう。次は勝ってみせる。\r\n……ん？",
-            "enText": "Thank you. I'll win next time… Hmm?",
+            "enText": "Thank you. I won't let you down again...<n>Hm?",
             "nextBlock": 6,
+            "origClipLength": 58,
+            "voiceIdx": 13,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "What is it?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What is it?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 5650862383990378135
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -8778837039511088204
                 }
             ],
             "pathId": -7498182942388430532,
@@ -110,8 +184,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "携帯にメッセージが届いた。\r\n故郷のみんなからだ。",
-            "enText": "I received a message on my cell phone. It \nwas from everyone back home.",
+            "enText": "I just got a message from the folks back<n>home.",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "voiceIdx": 34,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 630915676677454939
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -6163891121175301832
+                }
+            ],
             "pathId": -1395732266488473382,
             "blockIdx": 6
         },
@@ -119,8 +206,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "『いい走りだった、次も頑張れ』と……。",
-            "enText": "She said, \"It was a good run, \ngood luck next time.\"…",
+            "enText": "\"What a great race. You'll get 'em next<n>time!\"",
             "nextBlock": 8,
+            "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 8762887724421644362
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 8684095439885221902
+                }
+            ],
             "pathId": 3542893141057543281,
             "blockIdx": 7
         },
@@ -128,8 +228,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……今度こそ、1着になった姿を\r\nみんなに見せたいな、トレーナー。",
-            "enText": "… This time, I'd like to show everyone that \nI'm wearing one, trainer.",
+            "enText": "...Next time, I wanna get first place and<n>do them\nall proud!",
             "nextBlock": 9,
+            "origClipLength": 66,
+            "voiceIdx": 55,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -5029242945449307007
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -583520925425355793
+                }
+            ],
             "pathId": 3346028791047000103,
             "blockIdx": 8
         },
@@ -137,8 +250,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "メッセージを受け取ったオグリキャップは\r\n勝利への決意を新たにしたようだった。",
-            "enText": "When Oguri Cap received the message, she \nseemed to renew her determination to win.",
+            "enText": "The message from home seems to have<n>given\nOguri Cap a renewed<n>determination to win.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 335475402338678118
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -329864836180412526
+                }
+            ],
             "pathId": -6355896609069377102,
             "blockIdx": 9
         },
@@ -146,18 +272,31 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ああ……！\r\nビシバシ鍛えてくれ、トレーナー。",
-            "enText": "Oh…! Train me hard, trainer.",
+            "enText": "Sounds good! Don't hold back on me!",
             "nextBlock": 11,
+            "origClipLength": 60,
+            "voiceIdx": 37,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "まかせてくれ！",
-                    "enText": "I got it!",
+                    "enText": "Leave it to me!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "まかせて！",
-                    "enText": "I got it!",
+                    "enText": "Leave it to me!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5063231268780359238
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 3318498608024860496
                 }
             ],
             "pathId": -84698762977258426,
@@ -167,8 +306,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "やる気満々のオグリキャップと共に、\r\nひたすらトレーニングに打ち込んだ。",
-            "enText": "With a motivated Oguri-cap, she \ndevoted herself to training.",
+            "enText": "With Oguri Cap full of determination,<n>we throw\nourselves into an impromptu<n>training session.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -2029992715996772561
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 8568531943612473161
+                }
+            ],
             "pathId": -2118226796050095464,
             "blockIdx": 11
         }

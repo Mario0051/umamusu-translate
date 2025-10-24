@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "DFOGJT7A2JXANBGCO4MRNJFGYXGXUZWT",
+    "version": 6,
+    "bundle": "LBCXPP7L7VNAAPL6NCDB4D5EKAW6FTI2",
     "type": "story",
     "storyId": "501024802",
     "title": "With My Whole Heart！",
+    "enTitle": "With My Whole Heart!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――？",
-            "enText": "―?",
+            "enText": "Huh?",
             "nextBlock": 2,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3391670167955518487,
             "blockIdx": 1
         },
@@ -19,13 +22,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "違和感を覚えて目を覚ますと、\r\nそこは知らない病室のベッドの上だった。\n何事かと思っていると――",
-            "enText": "When I woke up with a strange feeling, I \nfound myself on a bed in an unknown hospital \nroom. I wondered what was going on.",
+            "enText": "Sensing something strange, I open my<n>eyes to find\nmyself in bed of an<n>unfamiliar hospital room. Did\nsomething<n>hap—",
             "nextBlock": 3,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "腰が、痛い……！",
-                    "enText": "My back, it hurts. ……!",
+                    "enText": "Ow! My back!",
                     "nextBlock": 3
                 }
             ],
@@ -36,9 +41,11 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あっ、トレーナーちゃん！\n急に起き上がっちゃダメだよ！",
-            "enText": "Oh, trainer! Don't get up so suddenly!",
+            "enText": "Oh, Trainer! Don't get up too fast!",
             "nextBlock": 4,
             "origClipLength": 80,
+            "voiceIdx": 99,
+            "voiceSheetId": "051024001",
             "pathId": -4269009536986268857,
             "blockIdx": 3
         },
@@ -46,17 +53,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "腰、大変なんだから！\n覚えてる？　ほら、空港に向かう途中で――",
-            "enText": "My back, it's hard work! Remember? See, on \nthe way to the airport―",
+            "enText": "You really messed up your back. Do you<n>\nremember? We were on our way to the<n>airport,\nwhen...",
             "nextBlock": 5,
             "origClipLength": 85,
+            "voiceIdx": 90,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": 4227053493505779313
-                },
                 {
                     "origLen": 96,
                     "pathId": 161059597527908728
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4227053493505779313
                 }
             ],
             "pathId": -3187611652878365583,
@@ -66,17 +75,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "トレーナーちゃん、付いてきてくれて\r\nありがとっ！　あとはこの電車で\n空港まで1本だねっ。",
-            "enText": "Thanks for following me, trainer! Now all I \nhave to do is take this train to the airport.",
+            "enText": "Thanks for coming with me, Trainer! This<n>is a\ndirect train, so we'll be there in no<n>time!",
             "nextBlock": 6,
             "origClipLength": 103,
+            "voiceIdx": 55,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 133,
-                    "pathId": 8299045168186569738
-                },
                 {
                     "origLen": 145,
                     "pathId": 7139556257332375195
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 8299045168186569738
                 }
             ],
             "pathId": -2620457441228865608,
@@ -86,17 +97,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "パパ、夕方にはもう次のフライトがあるから\nちょっとだけしかお話できないけど――",
-            "enText": "Dad, I've got another flight in the \nevening, so I'll only be able to \ntalk to you for a little bit―",
+            "enText": "My dad's next flight is this evening, so<n>we won't\nhave much time, but...",
             "nextBlock": 7,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 8677696420688193312
-                },
                 {
                     "origLen": 106,
                     "pathId": 2968429237700091009
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 8677696420688193312
                 }
             ],
             "pathId": -8890445371922673162,
@@ -106,24 +119,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "パパに会える機会、年に何回かしかないし\nいっぱい話そうね！",
-            "enText": "I only get to see my dad a few times a year, \nso let's talk a lot!",
+            "enText": "We can only see each other a few times<n>a year, so\nwe've got tons to talk about!",
             "nextBlock": 8,
             "origClipLength": 82,
+            "voiceIdx": 74,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "なら家族水入らずの方が……",
-                    "enText": "Then it's better to have \nthe family together. ……",
+                    "enText": "Then maybe it would be best for me to leave\nyou two alo—",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 61,
-                    "pathId": -5842668145309895231
-                },
-                {
                     "origLen": 93,
                     "pathId": 7458060839351377313
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5842668145309895231
                 }
             ],
             "pathId": 5727221846608600002,
@@ -133,21 +148,23 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "ううん！　トレーナーちゃんの紹介したいし！\nパパも、ひとりで来るのは危ないからって――",
-            "enText": "No, I'm not! I want to introduce you to my \ntrainer! My dad said it's not safe for me to \ncome here by myself.",
+            "enText": "Don't be silly! I wanna introduce you to<n>him! Plus,\nhe said it would be dangerous<n>for me to go alo—",
             "nextBlock": 9,
             "origClipLength": 101,
+            "voiceIdx": 50,
+            "voiceSheetId": "051024001",
             "animData": [
                 {
                     "origLen": 50,
                     "pathId": -2291343149311700776
                 },
                 {
-                    "origLen": 84,
-                    "pathId": 7288639242414779099
-                },
-                {
                     "origLen": 112,
                     "pathId": -7891672619394711397
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7288639242414779099
                 }
             ],
             "pathId": -8160202458100330858,
@@ -157,17 +174,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あ！　トレーナーちゃん、こっち寄って！\nお婆さんが後ろ通れないみたい。",
-            "enText": "Ah! Come closer, trainer! It looks like the \nold lady can't get through back there.",
+            "enText": "Oh! Could you move closer a little?<n>There's an old\nlady trying to get past.",
             "nextBlock": 10,
             "origClipLength": 90,
+            "voiceIdx": 52,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 2824269149529006945
-                },
                 {
                     "origLen": 101,
                     "pathId": -4530279086827863433
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2824269149529006945
                 }
             ],
             "pathId": 3953474474266716062,
@@ -177,17 +196,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "後ろには、キャリーケースを持ったお婆さん\r\nが立っていた。慌てて道を開ける。",
-            "enText": "Behind her stood an old lady with a carry \ncase. I hurried to get out of the way.",
+            "enText": "There's an older woman with a suitcase<n>standing\nbehind me. I hurriedly move out<n>of the way so she\ncan get through.",
             "nextBlock": 11,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 105,
-                    "pathId": 2571179398410657275
+                    "pathId": -7749171731979000508
                 },
                 {
                     "origLen": 105,
-                    "pathId": -7749171731979000508
+                    "pathId": 2571179398410657275
                 }
             ],
             "pathId": 6007989147362110057,
@@ -195,15 +216,17 @@
         },
         {
             "jpName": "大荷物のお婆さん",
-            "enName": "",
+            "enName": "Older Woman",
             "jpText": "ごめんなさいねぇ、助かるわ。\r\nこれを持ったままだと、つり革を掴めなくて。",
-            "enText": "I'm sorry, but thank you. I can't grab the \nstrap with this in my hand.",
+            "enText": "Thank you. I was having trouble holding<n>onto the\nhand strap with this big<n>suitcase...",
             "nextBlock": 12,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "網棚に上げましょうか？",
-                    "enText": "Shall I put it on the shelf?",
+                    "enText": "I can put it on the luggage rack for you.",
                     "nextBlock": 12
                 }
             ],
@@ -213,12 +236,12 @@
                     "pathId": -5455618165880534522
                 },
                 {
-                    "origLen": 67,
-                    "pathId": 4422467563600307093
-                },
-                {
                     "origLen": 104,
                     "pathId": 1598302221830316297
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4422467563600307093
                 }
             ],
             "pathId": -3526494838109933590,
@@ -226,15 +249,17 @@
         },
         {
             "jpName": "大荷物のお婆さん",
-            "enName": "",
+            "enName": "Older Woman",
             "jpText": "まぁまぁ……ご親切に。\r\nでも、これとても重たいのよ。だから……。",
-            "enText": "Well, well…… kindly. But it's \nvery heavy. That's why ……",
+            "enText": "Oh my, you're so kind. But it's far too<n>heavy, so\ndon't—",
             "nextBlock": 13,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "任せてください！",
-                    "enText": "I'm on it!",
+                    "enText": "Don't worry! I've got it!",
                     "nextBlock": 13
                 }
             ],
@@ -245,11 +270,11 @@
                 },
                 {
                     "origLen": 99,
-                    "pathId": -3805610683571808225
+                    "pathId": -1878556914193672180
                 },
                 {
                     "origLen": 99,
-                    "pathId": -1878556914193672180
+                    "pathId": -3805610683571808225
                 }
             ],
             "pathId": -6220014945421417520,
@@ -259,9 +284,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（グキッ……！！）",
-            "enText": "(Gkkk ……!!!)",
+            "enText": "<i>Crack!</i>",
             "nextBlock": 14,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
@@ -269,11 +296,11 @@
                 },
                 {
                     "origLen": 67,
-                    "pathId": -3402880100050233968
+                    "pathId": 3912895733255596756
                 },
                 {
                     "origLen": 67,
-                    "pathId": 3912895733255596756
+                    "pathId": -3402880100050233968
                 }
             ],
             "pathId": -1534746678087493736,
@@ -283,17 +310,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……あれ？　トレーナーちゃん、どうしたの？",
-            "enText": "…… Huh? What's wrong with you, trainer?",
+            "enText": "...Huh? Trainer? Was that you?",
             "nextBlock": 15,
             "origClipLength": 72,
+            "voiceIdx": 30,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": 1257262372359445426
-                },
                 {
                     "origLen": 83,
                     "pathId": 1242476368028141800
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 1257262372359445426
                 }
             ],
             "pathId": -370187721724465594,
@@ -303,17 +332,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "ト、トレーナーちゃんーー！？",
-            "enText": "Tomi, trainer-chan!",
+            "enText": "T-Trainer?!",
             "nextBlock": 16,
             "origClipLength": 63,
+            "voiceIdx": 27,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 3157849455255411425
-                },
                 {
                     "origLen": 76,
                     "pathId": -6589977862441943343
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 3157849455255411425
                 }
             ],
             "pathId": 8813038183522023519,
@@ -323,24 +354,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "で、痛みで気を失ったトレーナーちゃんを\n救急車で運び込んだの。",
-            "enText": "So they brought in the trainer, who passed \nout from the pain, in an ambulance.",
+            "enText": "You lost consciousness from the pain, so<n>we\ncalled an ambulance.",
             "nextBlock": 17,
             "origClipLength": 85,
+            "voiceIdx": 85,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "じゃあ、お父さんには……",
-                    "enText": "Then you can tell your dad: ……",
+                    "enText": "But your dad...",
                     "nextBlock": 17
                 }
             ],
             "animData": [
                 {
-                    "origLen": 97,
-                    "pathId": 4781646345650538864
-                },
-                {
                     "origLen": 127,
                     "pathId": 3617927186890990241
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4781646345650538864
                 }
             ],
             "pathId": 2114127885766670043,
@@ -350,29 +383,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "会いに行ってないよ！\nトレーナーちゃんを放っておけないもん。",
-            "enText": "I didn't go to see her! I can't leave my \ntrainer alone.",
+            "enText": "I didn't go to see him! I couldn't just<n>leave you on\nyour own...",
             "nextBlock": 18,
             "origClipLength": 84,
+            "voiceIdx": 50,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "俺のことはいいから、空港に！",
-                    "enText": "Forget about me, get to the airport!",
+                    "enText": "I'm fine! You get to the airport!",
                     "nextBlock": 18
                 },
                 {
                     "jpText": "私のことはいいから、空港に！",
-                    "enText": "Forget about me, get to the airport!",
+                    "enText": "I'm fine! You get to the airport!",
                     "nextBlock": 18
                 }
             ],
             "animData": [
                 {
-                    "origLen": 68,
-                    "pathId": -6265141774101350111
-                },
-                {
                     "origLen": 95,
                     "pathId": 5259143433088849523
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -6265141774101350111
                 }
             ],
             "pathId": -5404691573457257726,
@@ -382,17 +417,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "大丈夫！　パパにも『ごめんね』って\nちゃんと連絡したもん。",
-            "enText": "It's okay! I told my dad I was sorry.",
+            "enText": "It's okay! I already apologized to him.",
             "nextBlock": 19,
             "origClipLength": 82,
+            "voiceIdx": 74,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -9202068123931501543
-                },
                 {
                     "origLen": 93,
                     "pathId": -3251235719979424719
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -9202068123931501543
                 }
             ],
             "pathId": 8445185264074724417,
@@ -402,29 +439,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "だからマヤ、今日はここにいる。\nトレーナーちゃんを看病するの！",
-            "enText": "So Maya, I'm here today. We're going to take \ncare of you, trainer!",
+            "enText": "I'm gonna stay here today and nurse you<n>back to\nhealth!",
             "nextBlock": 20,
             "origClipLength": 85,
+            "voiceIdx": 84,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "ごめんな……",
-                    "enText": "Sorry ……",
+                    "enText": "I'm sorry...",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry ……",
+                    "enText": "I'm sorry...",
                     "nextBlock": 20
                 }
             ],
             "animData": [
                 {
-                    "origLen": 56,
-                    "pathId": -6539004860920361384
-                },
-                {
                     "origLen": 96,
                     "pathId": 3742334585324444342
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -6539004860920361384
                 }
             ],
             "pathId": -8173372373992591764,
@@ -434,17 +473,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "もー！　いいのいいのっ！　それよりほら、\n横になってマヤの看病を受けなさーい！",
-            "enText": "Oh, no! It's okay, it's okay! Just lie down \nand let Maya take care of you!",
+            "enText": "Hey! I said it's fine! Now you just lie<n>down and let\nme do my thing!",
             "nextBlock": 21,
             "origClipLength": 95,
+            "voiceIdx": 21,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": 3398254305780122087
-                },
                 {
                     "origLen": 106,
                     "pathId": -3215077219522908346
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3398254305780122087
                 }
             ],
             "pathId": 49079003980482151,
@@ -454,17 +495,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤ、大人のオンナの勉強してるから\n看病だって完璧なんだよ！　例えば～。",
-            "enText": "Maya, I've been studying adult women \nso I know how to take care of them \nperfectly! For example.",
+            "enText": "I've been studying how to be a real<n>grown-up\nwoman, so I'll be the perfect<n>nurse! Check this\nout...",
             "nextBlock": 22,
             "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": -748429610477463609
-                },
                 {
                     "origLen": 102,
                     "pathId": -7017289304398521858
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -748429610477463609
                 }
             ],
             "pathId": -8895839272238451571,
@@ -474,17 +517,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "痛いの痛いの、飛んでいけ～！\nイーグル並みの速さで、ビューン☆",
-            "enText": "Ouch, ouch, fly away～! As \nfast as an eagle, BOOM!",
+            "enText": "Pain's gotta flyyy like an eagle... Go<n>away! ☆\nPain's gotta flyyy like an<n>eagle... Let Maya have\nher way! ☆",
             "nextBlock": 23,
             "origClipLength": 85,
+            "voiceIdx": 11,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 4489754844758638683
-                },
                 {
                     "origLen": 96,
                     "pathId": 5115490614804880005
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4489754844758638683
                 }
             ],
             "pathId": 2207195862398315680,
@@ -494,17 +539,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "どう？　痛くなくなったでしょ！\nママにやってもらってたもん！　次は――",
-            "enText": "How's that? It doesn't hurt anymore! My mom \nused to do that for me! Next time…",
+            "enText": "Well? It doesn't hurt anymore, right?<n>You're\nwelcome! Now...",
             "nextBlock": 24,
             "origClipLength": 90,
+            "voiceIdx": 52,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 7941637933294009233
-                },
                 {
                     "origLen": 101,
                     "pathId": -1726609204382462896
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7941637933294009233
                 }
             ],
             "pathId": 8486462809884842522,
@@ -514,17 +561,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "お昼ごはんだよ～！\r\nでも、トレーナーちゃんは動けないから……。",
-            "enText": "It's lunch～! But you can't move, trainer. ……",
+            "enText": "It's time for lunch! Since you can't<n>move...",
             "nextBlock": 25,
             "origClipLength": 86,
+            "voiceIdx": 55,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 114,
-                    "pathId": -7258360287967577146
-                },
                 {
                     "origLen": 126,
                     "pathId": -6514535485092223924
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -7258360287967577146
                 }
             ],
             "pathId": 6347832654271624518,
@@ -534,17 +583,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤが『あーんっ』てしてあげるね♪\nはい、お口開けてー？",
-            "enText": "Maya will give you an \"ah-ha\"… \nYes, open your mouth, okay?",
+            "enText": "I'll feed you myself! ♪ Say \"ah\"!",
             "nextBlock": 26,
             "origClipLength": 81,
+            "voiceIdx": 92,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 7848345671501762221
-                },
                 {
                     "origLen": 92,
                     "pathId": -2881961854800367985
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7848345671501762221
                 }
             ],
             "pathId": 688538500793900840,
@@ -554,17 +605,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "はーい！　お次は、お昼寝でーす。\nマヤが寝かしつけてあげるね。",
-            "enText": "Yes! Next, it's time for a nap. \nMaya will put you to sleep.",
+            "enText": "Okay! Now it's time to rest. I'll count<n>planes with\nyou.",
             "nextBlock": 27,
             "origClipLength": 85,
+            "voiceIdx": 74,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 113,
-                    "pathId": 6966371248374264763
-                },
                 {
                     "origLen": 125,
                     "pathId": -6292885011262524495
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6966371248374264763
                 }
             ],
             "pathId": 1532141546153845633,
@@ -574,17 +627,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "F-1が1機～……F-2が2機～……。\nあ、ちなみにパパが乗ってる機体は――",
-            "enText": "One F-1 -…… and two F-2s -…… Oh, and by the \nway, the aircraft my dad is flying―",
+            "enText": "One F-1... two F-2s... Oh, have I told<n>you that the\nplane my dad pilots is a—",
             "nextBlock": 28,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -4973454065779266940
-                },
                 {
                     "origLen": 105,
                     "pathId": -2462143827391047340
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4973454065779266940
                 }
             ],
             "pathId": -315775138996249220,
@@ -594,24 +649,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "って、ダメダメ！　寝かしつけないと！\n……よーし、もう1回！",
-            "enText": "No, no, no, no! I have to put her to bed!…… \nOkay, one more time!",
+            "enText": "Oops, I got distracted! I have to lull you<n>to sleep!\nOkay, once more!",
             "nextBlock": 29,
             "origClipLength": 84,
+            "voiceIdx": 76,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "やっぱり会いに行った方が……",
-                    "enText": "I still think you should go see her: ……",
+                    "enText": "I really think you should go see your dad...",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
-                    "origLen": 84,
-                    "pathId": -8394450692336159635
-                },
-                {
                     "origLen": 95,
                     "pathId": -4481742826125799348
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -8394450692336159635
                 }
             ],
             "pathId": 4645701615039707141,
@@ -621,17 +678,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……トレーナーちゃんっ。\nあのね、パパはマヤの憧れで……大好きだよ？",
-            "enText": "Hey…… trainer! You know, my dad is Maya's \nidol and loves…… right?",
+            "enText": "You know... I really look up to him and<n>love him a\nlot, right?",
             "nextBlock": 30,
             "origClipLength": 89,
+            "voiceIdx": 84,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -2034952233985424094
-                },
                 {
                     "origLen": 100,
                     "pathId": 3652058381217638211
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -2034952233985424094
                 }
             ],
             "pathId": -4596177321022633325,
@@ -641,17 +700,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "でも――トレーナーちゃんは、\nマヤの大切な、大事なパートナーなの。",
-            "enText": "But - the trainer is Maya's precious, \nprecious partner.",
+            "enText": "But... I want you to know that you're<n>precious to\nme too.",
             "nextBlock": 31,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": -305158189914483974
-                },
                 {
                     "origLen": 99,
                     "pathId": 4563472375854709518
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -305158189914483974
                 }
             ],
             "pathId": -6260029234125010587,
@@ -661,17 +722,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "ずっと元気でいてほしい。\nマヤの隣で一緒にキラキラしててほしいんだ。",
-            "enText": "I want you to be fine all the time. I want \nyou to be sparkling next to Maya.",
+            "enText": "I need you to be healthy so you can<n>stand by my\nside and twinkle on with<n>me.",
             "nextBlock": 32,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 555999164955236836
-                },
                 {
                     "origLen": 100,
                     "pathId": 4506926027897449853
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 555999164955236836
                 }
             ],
             "pathId": 3354648237567261165,
@@ -681,17 +744,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "だから、マヤに支えさせて！　いつも、\nトレーナーちゃんがしてくれてるみたいに。",
-            "enText": "So let Maya support you! Like \nyour trainer always does.",
+            "enText": "Lemme help you! You always support<n>me, so I\nwanna do the same for you.",
             "nextBlock": 33,
             "origClipLength": 95,
+            "voiceIdx": 68,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 8355173019063902272
-                },
                 {
                     "origLen": 106,
                     "pathId": -2267080890072163623
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8355173019063902272
                 }
             ],
             "pathId": -4699195477433903036,
@@ -701,13 +766,15 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤをここにいさせて。\nそれで、安心して休んで……お願いっ。",
-            "enText": "Let Maya stay here. So you \ncan rest easy and…… please.",
+            "enText": "I'll stay right by you. Just relax and<n>rest... That's\nall I'm asking for.",
             "nextBlock": 34,
             "origClipLength": 84,
+            "voiceIdx": 103,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "安心して、すぐ元気になるから",
-                    "enText": "Don't worry, you'll be fine in no time.",
+                    "enText": "Okay then. I'll be back on my feet before you\nknow it.",
                     "nextBlock": 35
                 },
                 {
@@ -723,12 +790,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 70,
-                    "pathId": -729298550103600709
-                },
-                {
                     "origLen": 95,
                     "pathId": -5267724829237314790
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -729298550103600709
                 }
             ],
             "pathId": 1295627371875322678,
@@ -738,13 +805,15 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤをここにいさせて。\nそれで、安心して休んで……お願いっ。",
-            "enText": "Let Maya stay here. So you \ncan rest easy and…… please.",
+            "enText": "I'll stay right by you. Just relax and<n>rest... That's\nall I'm asking for.",
             "nextBlock": 35,
             "origClipLength": 84,
+            "voiceIdx": 103,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "安心して、すぐ元気になるから",
-                    "enText": "Don't worry, you'll be fine in no time.",
+                    "enText": "Okay then. I'll be back on my feet before you\nknow it.",
                     "nextBlock": 35
                 },
                 {
@@ -760,12 +829,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 70,
-                    "pathId": 1256323845903509470
-                },
-                {
                     "origLen": 95,
                     "pathId": -2204483876846876388
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1256323845903509470
                 }
             ],
             "pathId": -2277473278976576282,
@@ -775,17 +844,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……！　……うんっ、絶対だよ！",
-            "enText": "……!…… Yeah, absolutely!",
+            "enText": "Yeah! You'd better be!",
             "nextBlock": 36,
             "origClipLength": 64,
+            "voiceIdx": 112,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -3783124653563736576
-                },
                 {
                     "origLen": 75,
                     "pathId": 8071793299381170630
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -3783124653563736576
                 }
             ],
             "pathId": -1837332793663380472,
@@ -795,24 +866,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤ、ほんとに心配したんだからっ。\n急に倒れて、痛そうで……心配で、怖くて。",
-            "enText": "Maya, I was really worried about you. She \nsuddenly collapsed and looked like she was in \npain, and I was…… worried and scared.",
+            "enText": "I was really worried about you. You<n>suddenly fell\nover and looked like you<n>were in so much pain... I\nwas so scared.",
             "nextBlock": 37,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "マヤノ……",
-                    "enText": "Mayano……",
+                    "enText": "Mayano...",
                     "nextBlock": 37
                 }
             ],
             "animData": [
                 {
-                    "origLen": 78,
-                    "pathId": 8782054548809077177
-                },
-                {
                     "origLen": 105,
                     "pathId": -2795701725233404330
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8782054548809077177
                 }
             ],
             "pathId": 880043919991947512,
@@ -822,17 +895,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "っぐす……もう急に倒れちゃダメだよ？\n次に倒れる時は……。",
-            "enText": "Kugusu…… don't fall down suddenly \nanymore, okay? The next time you \nfall down, you can go to ……",
+            "enText": "<i>Sniffle...</i> You're not allowed to collapse<n>all of a\nsudden like that again. If that<n>ever happens...",
             "nextBlock": 38,
             "origClipLength": 82,
+            "voiceIdx": 22,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -5295355582163488178
-                },
                 {
                     "origLen": 93,
                     "pathId": -5734406037350185051
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5295355582163488178
                 }
             ],
             "pathId": -1151775902756208526,
@@ -842,17 +917,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤにドキドキしすぎて、もーだめ！\n……って時だけだからね！",
-            "enText": "I'm too nervous about Maya, \noh no! Only when it's ……!",
+            "enText": "It'd better be because I've made your<n>heart beat\nso hard you're having a heart<n>attack!",
             "nextBlock": 39,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 5550674103392286747
-                },
                 {
                     "origLen": 95,
                     "pathId": 8840927322607780937
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 5550674103392286747
                 }
             ],
             "pathId": -823894746564030980,
@@ -862,17 +939,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "なーんて……えへへ……。",
-            "enText": "Nah…… ehehe ……",
+            "enText": "Just kidding! Ehehe...",
             "nextBlock": 40,
             "origClipLength": 60,
+            "voiceIdx": 4,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": 3377896027526824576
-                },
                 {
                     "origLen": 71,
                     "pathId": 1322069674412898512
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 3377896027526824576
                 }
             ],
             "pathId": 5126516234702757028,
@@ -882,17 +961,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "献身的な看病のおかげで\n腰痛もすっかりよくなり、\n無事に退院するのだった。",
-            "enText": "Thanks to her devoted nursing care, her back \npain was completely resolved, and she was \ndischarged from the hospital without incident.",
+            "enText": "Thanks to Mayano's devoted nursing,<n>the pain in\nmy back goes away, and I'm<n>discharged from the\nhospital.",
             "nextBlock": -1,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 104,
-                    "pathId": -8343556105649531145
+                    "pathId": 1165494951814956780
                 },
                 {
                     "origLen": 104,
-                    "pathId": 1165494951814956780
+                    "pathId": -8343556105649531145
                 }
             ],
             "pathId": 7576959920008280194,
@@ -902,17 +983,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "えっへん！　まっかせて～！\n元気いっぱいにしてあげるから☆",
-            "enText": "Oh, no! Hold me back～! I'll \nmake you full of energy!",
+            "enText": "Hehe! Leave the rest of your healing to<n>me! I'll get\nyou back in perfect shape!",
             "nextBlock": 42,
             "origClipLength": 82,
+            "voiceIdx": 5,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 9186300631887195589
-                },
                 {
                     "origLen": 93,
                     "pathId": -2511697206499126985
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 9186300631887195589
                 }
             ],
             "pathId": -8767974693348941385,
@@ -922,17 +1005,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あ、そうだ！　パパも電話で言ってたよ。\n『次の機会があれば、あいさつしたい』って！",
-            "enText": "Oh, yeah! My dad called me too. 'I'd like to \nsay hello next time I get a chance!",
+            "enText": "Oh, I totally forgot! I spoke to my dad<n>on the\nphone earlier. He said he wants<n>to meet you the\nnext time we have a<n>chance.",
             "nextBlock": 43,
             "origClipLength": 98,
+            "voiceIdx": 87,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": 3121110971550938144
-                },
                 {
                     "origLen": 109,
                     "pathId": -4808620023593463153
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3121110971550938144
                 }
             ],
             "pathId": -7642523892748790339,
@@ -942,24 +1027,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "すっごく真剣な声で、びっくりしちゃった！\nいつも優しい声しか聞いたことないから。",
-            "enText": "You sounded so serious, I was so surprised! \nI've always heard only gentle voices.",
+            "enText": "He sounded super serious! I was<n>shocked! He only\never speaks to me<n>really gently.",
             "nextBlock": 44,
             "origClipLength": 97,
+            "voiceIdx": 53,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "そ、そっか！",
-                    "enText": "I see!",
+                    "enText": "I-I see.",
                     "nextBlock": 44
                 }
             ],
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": -8300552970527264752
-                },
-                {
                     "origLen": 108,
                     "pathId": 8458342517176794921
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8300552970527264752
                 }
             ],
             "pathId": 829043208968938677,
@@ -969,17 +1056,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "早く元気にならないとね、トレーナーちゃん！",
-            "enText": "You need to get well soon, trainer!",
+            "enText": "So you have to heal right up, okay?",
             "nextBlock": 45,
             "origClipLength": 72,
+            "voiceIdx": 2,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -6824484086324508240
-                },
                 {
                     "origLen": 83,
                     "pathId": -8121458193726659893
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -6824484086324508240
                 }
             ],
             "pathId": -4824175240760257428,
@@ -989,22 +1078,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どんな挨拶を求められるのかと、\r\n既に緊張しつつ……療養に努め、\n無事に退院するのだった。",
-            "enText": "Already nervous about what kind of greeting \nshe would be asked to give, she made an \neffort to recuperate…… and was discharged \nfrom the hospital without incident.",
+            "enText": "I'm already feeling nervous wondering<n>how I'm\nsupposed to act in front of him...<n>Still, I take the\ntime to heal and am<n>discharged without incident.",
             "nextBlock": -1,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 114,
-                    "pathId": -8451319028780851199
+                    "pathId": -1665341179555361119
                 },
                 {
                     "origLen": 114,
-                    "pathId": -1665341179555361119
+                    "pathId": -8451319028780851199
                 }
             ],
             "pathId": -5043043071889957870,
             "blockIdx": 45
         }
-    ],
-    "modified": 1657555254
+    ]
 }

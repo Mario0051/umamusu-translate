@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "KX7U7GZU6RVSHUB7RQKSGOIZGIVEKMOY",
+    "version": 6,
+    "bundle": "J7LWQLAO2YNKSEEUE4BIE5CEK636PK7G",
     "type": "story",
     "storyId": "801005001",
     "title": "スライハンド",
+    "enTitle": "Sleight of Hand",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、公園の中で――",
-            "enText": "One day, in the park—",
+            "enText": "One day, at the park...",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2737653819773804628,
             "blockIdx": 1
         },
@@ -18,13 +22,26 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "――あっ、そこの君。\r\n少しだけアシスタントを頼めないかな？",
-            "enText": "—Oh, there you are. Could you be my \nassistant for a moment?",
+            "enText": "Oh, hey, you there. Can you be my<n>assistant for a\nmoment?",
             "nextBlock": 3,
+            "origClipLength": 64,
+            "voiceIdx": 53,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "アシスタント？",
-                    "enText": "Assistant?",
+                    "enText": "Your assistant? What for?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 3028783368997665779
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7422050197386752555
                 }
             ],
             "pathId": -7843276694698644744,
@@ -34,8 +51,21 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "そう身構えなくても大丈夫。\r\nさっ、ついてきて！",
-            "enText": "There's no need to be so defensive. \nCome on, follow me!",
+            "enText": "No need to be so on guard! I won't bite.<n>Now,\ncome with me!",
             "nextBlock": 4,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6044854315330457826
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -1984579376240377135
+                }
+            ],
             "pathId": -3189493971174716022,
             "blockIdx": 3
         },
@@ -43,8 +73,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "フジキセキに連れられ向かった先には、\r\n膝をすりむいて泣きじゃくる女の子がいた。",
-            "enText": "Fuji Kiseki took me to a place where I saw a \ngirl crying, her knees scraped.",
+            "enText": "Fuji Kiseki brings me to a girl who is<n>crying. I\nunderstand the reason for her<n>tears immediately\nwhen I see her freshly<n>scraped knees.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -2957124870447402966
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4461633459595681970
+                }
+            ],
             "pathId": -8983204890900726101,
             "blockIdx": 4
         },
@@ -52,8 +95,21 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "――お待たせ、泣き虫なポニーちゃん。\r\nまばたきは禁止、どうぞご覧あれ！",
-            "enText": "—Here she comes, the crying pony. Don't \nblink, just look at her!",
+            "enText": "Apologies for the wait, my tearful pony.<n>Now the\nshow can begin. Don't blink, or<n>you might miss it!",
             "nextBlock": 6,
+            "origClipLength": 68,
+            "voiceIdx": 63,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4946401436917457929
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 357867903228650718
+                }
+            ],
             "pathId": 7546858111636271229,
             "blockIdx": 5
         },
@@ -61,8 +117,25 @@
             "jpName": "女の子",
             "enName": "Girl",
             "jpText": "ぐすっ、ぐすっ……えっ……？",
-            "enText": "Gosh, gosh… eh…?",
+            "enText": "<i>Sniffle, sob...</i> Huh?",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -6350494439382006504
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 5447922971127783640
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3371847369239729379
+                }
+            ],
             "pathId": -778692204707494875,
             "blockIdx": 6
         },
@@ -70,8 +143,25 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "今からこのコインに、魔法をかけるよ。\r\nいち、にの、さん――",
-            "enText": "Now I'm going to cast a spell on \nthis coin. One, two, three—",
+            "enText": "Behold as I cast a spell on this coin.<n>One, two,\nthree—",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "voiceIdx": 10,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 1382481291253756105
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 2396077260236113885
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -2935856899569943154
+                }
+            ],
             "pathId": 6572515276021207692,
             "blockIdx": 7
         },
@@ -79,8 +169,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その瞬間――\r\nフジキセキの手から、ぱっとコインが消えた。",
-            "enText": "At that moment - the coin disappeared \nfrom Fuji Kiseki's hand.",
+            "enText": "At that moment, the coin disappears<n>from Fuji\nKiseki's hand.",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 7797642639609242021
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1954692754613264232
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8781796624607408313
+                }
+            ],
             "pathId": 2787005708919913311,
             "blockIdx": 8
         },
@@ -88,18 +195,35 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "さあ、アシスタントの出番だよ！\r\nポケットの中を探してみて。",
-            "enText": "Now it's time for your assistant! \nLook in your pockets.",
+            "enText": "Your time has come, my lovely assistant!<n>Look\ninto your pocket and tell me what<n>you find!",
             "nextBlock": 10,
+            "origClipLength": 64,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "さっきこっそり入れ――",
-                    "enText": "I just sneaked in—",
+                    "enText": "You mean the pocket you slipped a coi—",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "すごいマジックパワーだ……！",
-                    "enText": "Amazing magic power…!",
+                    "enText": "Wow! A coin! What impressive magical powers!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": -708031495681300353
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -197958402061192883
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -413382162934498094
                 }
             ],
             "pathId": 4972426297267065248,
@@ -109,8 +233,25 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "しーっ。気づいたのはすごいけれど、\r\n口にするのは厳禁だよ。",
-            "enText": "Shh. It's great that you've noticed, but you \nmustn't say anything about it.",
+            "enText": "Shhh! I'm impressed that you noticed,<n>but you\ncan't reveal my secrets!",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4711103409445152159
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3292618002080237815
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 5567876080758943727
+                }
+            ],
             "pathId": 8210845432929422046,
             "blockIdx": 10
         },
@@ -118,8 +259,21 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "それに……そんな野暮な話より、\r\nこの子が泣き止んだことの方が大事だろ？",
-            "enText": "Besides… what's more important than the fact \nthat she's stopped crying?",
+            "enText": "Besides, allaying the sweet girl's tears is<n>more\nimportant than something as<n>frivolous as that,\nright?",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -8852789731027441083
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -3733698020479304854
+                }
+            ],
             "pathId": 5091238343487706614,
             "blockIdx": 11
         },
@@ -127,8 +281,25 @@
             "jpName": "女の子",
             "enName": "Girl",
             "jpText": "わぁっ、どうしてこっちに……！？\r\nもっと見せて～！",
-            "enText": "Wow, how did you get over \nhere to…! Show me more!",
+            "enText": "Wow! How'd it end up there?! More,<n>more!",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 1432081901828390738
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8067388601758884407
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -6157750041758556523
+                }
+            ],
             "pathId": -6910229016658414081,
             "blockIdx": 12
         },
@@ -136,8 +307,25 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふ。かわいらしいアンコールにお応えして、\r\nもう1回。アシスタント、またよろしくね！",
-            "enText": "Phew. One more time for your adorable \nencore. See you soon, assistant!",
+            "enText": "Hehe! How could I possibly ignore such<n>adorable\ncries for an encore? Very well! I<n>will need you\nonce more, my trusty<n>assistant!",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": 4,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4371122168702676898
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2338155164409765663
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -7321515100822008989
+                }
+            ],
             "pathId": 8539669162010653897,
             "blockIdx": 13
         },
@@ -145,8 +333,25 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "あははっ。\r\nマジックパワー！　いいね、それ！",
-            "enText": "Hahaha. Magic power! Nice one, that!",
+            "enText": "Ahaha! \"Magical powers,\" you say! I<n>quite like the\nsound of that!",
             "nextBlock": 15,
+            "origClipLength": 60,
+            "voiceIdx": 1,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7878718412155563029
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 2105900036279106345
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3411192277626176093
+                }
+            ],
             "pathId": -8481528558729061371,
             "blockIdx": 14
         },
@@ -154,8 +359,25 @@
             "jpName": "女の子",
             "enName": "Girl",
             "jpText": "すごいすごい！\r\nお姉ちゃん、魔法使い！？",
-            "enText": "Great, great, great! Sis, you're a wizard!",
+            "enText": "Ooh, wow! Are you a magician, miss?",
             "nextBlock": 16,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": -6604537801348862769
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3028966815777691075
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -3792798404750477579
+                }
+            ],
             "pathId": 2000128186082441671,
             "blockIdx": 15
         },
@@ -163,8 +385,25 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふっ、そうだよ。証拠もある。\r\nほら、君。反対のポケットも見てごらん？",
-            "enText": "Hmmm, yes. I have proof. Here, boy. \nLook in the other pocket.",
+            "enText": "Hehe, indeed! And I can prove it!<n>Assistant! Go\nahead and see what's in<n>your other pocket.",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -150413490385540333
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4490544349529696166
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -5335103753432912215
+                }
+            ],
             "pathId": -4847319397907822496,
             "blockIdx": 16
         },
@@ -172,8 +411,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――反対のポケットからは、\r\n更にもう1枚コインが出てきたのだった。",
-            "enText": "—In the opposite pocket, \nanother coin was found.",
+            "enText": "And what is it I find in my other pocket?<n>Another\ncoin, of course.",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -639416170818048297
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1358953723724423173
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -134989902656526764
+                }
+            ],
             "pathId": -1476047887999335096,
             "blockIdx": 17
         }

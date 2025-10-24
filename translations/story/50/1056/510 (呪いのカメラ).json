@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "YUYZLKXMRR4RFYCWU5A6M6A4432Y32YX",
+    "version": 6,
+    "bundle": "Z4RT3FYPWU6O7S5ZZLJAQZBT2JJYD5U6",
     "type": "story",
     "storyId": "501056510",
     "title": "呪いのカメラ",
+    "enTitle": "Cursed Camera",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "とある昼下がり、部屋でくつろいでいると――",
-            "enText": "One afternoon, I was relaxing in my room―",
+            "enText": "One afternoon, while I'm relaxing in my<n>office...",
             "nextBlock": 2,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6620130607738446435,
             "blockIdx": 1
         },
@@ -19,17 +22,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あの、トレーナーさん。\r\n折り入って相談が……。",
-            "enText": "Hey, Ms. Trainer. I'd like to discuss the \nfold with you at ……",
+            "enText": "Excuse me, Trainer. We'd really like to<n>get your\nadvice on something...",
             "nextBlock": 3,
             "origClipLength": 60,
+            "voiceIdx": 54,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": -618959585201263291
+                    "pathId": -4847976700689707197
                 },
                 {
                     "origLen": 71,
-                    "pathId": -4847976700689707197
+                    "pathId": -618959585201263291
                 }
             ],
             "pathId": -1546237278698911055,
@@ -39,32 +44,34 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "いいですか！？　いいですよね！？\r\nいいって言ってください。せーのっ！",
-            "enText": "OK! It's okay! Please say yes. Se-no!",
+            "enText": "Oh do say yes! Pretty please! Come on,<n>\"yes\" on\nthree! One, two—",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": 44,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "いいけど、相談って？",
-                    "enText": "Okay, but what's the consultation?",
+                    "enText": "Sure. What do you want advice on?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 3798959908074469430
+                },
                 {
                     "origLen": 40,
                     "pathId": 9086244373400633100
                 },
                 {
                     "origLen": 78,
-                    "pathId": 3798959908074469430
+                    "pathId": 3126647250543406217
                 },
                 {
                     "origLen": 71,
                     "pathId": 2354387152599004814
-                },
-                {
-                    "origLen": 78,
-                    "pathId": 3126647250543406217
                 }
             ],
             "pathId": -1445607939110955925,
@@ -74,25 +81,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "実は明日、私たちの取材があるんです。",
-            "enText": "Actually, we have our interview tomorrow.",
+            "enText": "You see, we're going to be interviewed<n>tomorrow.",
             "nextBlock": 5,
             "origClipLength": 57,
+            "voiceIdx": 34,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 6179061071798523866
+                },
                 {
                     "origLen": 22,
                     "pathId": -5537436511168179782
                 },
                 {
                     "origLen": 68,
-                    "pathId": 6179061071798523866
+                    "pathId": -5140747008720990622
                 },
                 {
                     "origLen": 68,
                     "pathId": -8122158623887915114
-                },
-                {
-                    "origLen": 68,
-                    "pathId": -5140747008720990622
                 }
             ],
             "pathId": 837367935700834245,
@@ -102,25 +111,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "で、その時に写真撮影もあるんですけど……。",
-            "enText": "And there will be a photo \nshoot at that time. ……",
+            "enText": "They plan to have a photo shoot, but...",
             "nextBlock": 6,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 2168229561757235727
+                },
                 {
                     "origLen": 31,
                     "pathId": -8799173342856501264
                 },
                 {
                     "origLen": 69,
-                    "pathId": 2168229561757235727
+                    "pathId": 6648963766192343859
                 },
                 {
                     "origLen": 27,
                     "pathId": -7285380540465352068
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 6648963766192343859
                 }
             ],
             "pathId": -2338445297054715020,
@@ -130,25 +141,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "フクキタルが『写真を撮られると、魂を\r\n吸われる。写るわけにはいかない！』って。",
-            "enText": "Fukkitar says, \"If you are photographed, your \nsoul is sucked out of you. I can't be in the \npicture!\" She said.",
+            "enText": "Fukukitaru told me that if I have my<n>picture\ntaken, my soul will be sucked<n>out of my body.\nApparently, I need to<n>\"avoid it at all costs.\"",
             "nextBlock": 7,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 1386644714478605849
+                },
                 {
                     "origLen": 49,
                     "pathId": -4217128560093901388
                 },
                 {
                     "origLen": 82,
-                    "pathId": 1386644714478605849
+                    "pathId": 3471326823567065092
                 },
                 {
                     "origLen": 51,
                     "pathId": -2013827399706476254
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 3471326823567065092
                 }
             ],
             "pathId": 4495073894165715260,
@@ -158,25 +171,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "そうともです！　カシャッてやられると、\r\nヒョロロロ～って魂吸われて、ポケ～です！",
-            "enText": "That's right! When you get a crack, your soul \nis sucked out of your body and you are poked!",
+            "enText": "And that's the truth! They get you with<n>that\nshutter, and <i>click!</i> Your soul's<n>jumping straight\nout of ya! All that's left<n>is a shell!",
             "nextBlock": 8,
             "origClipLength": 71,
+            "voiceIdx": 31,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -3018136385223252023
+                },
                 {
                     "origLen": 54,
                     "pathId": 5550135102512603631
                 },
                 {
                     "origLen": 82,
-                    "pathId": -3018136385223252023
+                    "pathId": 1381667176779544826
                 },
                 {
                     "origLen": 32,
                     "pathId": -8935053635813295432
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 1381667176779544826
                 }
             ],
             "pathId": 6952690535720709131,
@@ -186,25 +201,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "スズカさんは逃げ足が速いからいいですけど\r\n私なんか、たちまち捕まっちゃいますよ～。",
-            "enText": "It's OK for Suzuka-san to run away so fast, \nbut for me, I would be caught in a heartbeat!",
+            "enText": "Though I do think Suzuka'll end up fine,<n>seeing\nhow fast she is. But I'm afraid<n>they'll catch me\nstraight away!",
             "nextBlock": 9,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7022280230321666981
+                },
                 {
                     "origLen": 108,
                     "pathId": 9045974528017956491
                 },
                 {
                     "origLen": 83,
-                    "pathId": 7022280230321666981
+                    "pathId": -2784173883544913591
                 },
                 {
                     "origLen": 60,
                     "pathId": 5035796368480174031
-                },
-                {
-                    "origLen": 83,
-                    "pathId": -2784173883544913591
                 }
             ],
             "pathId": -1876246767959649344,
@@ -214,25 +231,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "迷信じゃ……。",
-            "enText": "Superstition. ……",
+            "enText": "I think... that's just a superstition.",
             "nextBlock": 10,
             "origClipLength": 49,
+            "voiceIdx": 27,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -3373388216271121327
+                },
                 {
                     "origLen": 33,
                     "pathId": 7745831808238034968
                 },
                 {
                     "origLen": 60,
-                    "pathId": -3373388216271121327
+                    "pathId": 6138529470713450748
                 },
                 {
                     "origLen": 15,
                     "pathId": -6134162825473744236
-                },
-                {
-                    "origLen": 60,
-                    "pathId": 6138529470713450748
                 }
             ],
             "pathId": 1461173722949984712,
@@ -242,25 +261,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "しゃらっぷ！\r\n油断は禁物、もつ煮込みですっ。",
-            "enText": "Sharapu! Don't let your guard down, it is \nstewed with tsukkotsu.",
+            "enText": "Watch it! This is just like baking<n>bread—let your\nguard down for one<n>minute and you're toast!",
             "nextBlock": 11,
             "origClipLength": 60,
+            "voiceIdx": 19,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 6477954132879152263
+                },
                 {
                     "origLen": 40,
                     "pathId": 8807200887255789985
                 },
                 {
                     "origLen": 71,
-                    "pathId": 6477954132879152263
+                    "pathId": -9176009599876961052
                 },
                 {
                     "origLen": 42,
                     "pathId": -8519022722592005144
-                },
-                {
-                    "origLen": 71,
-                    "pathId": -9176009599876961052
                 }
             ],
             "pathId": -9046536998862219529,
@@ -270,13 +291,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "甘く見て、本当に魂吸われちゃったら、\r\nどうするんですか～。よよよよ……。",
-            "enText": "What will you do if you underestimate \nthem and they really suck your \nsoul～! Yo yo yo yo… ……",
+            "enText": "What are you gonna do if we drop our<n>guards and\nget our souls vacuumed right<n>out? Just thinking\nabout it is giving me<n>the heebie-jeebies...",
             "nextBlock": 12,
             "origClipLength": 69,
+            "voiceIdx": 18,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 114,
                     "pathId": 3536520459812678055
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8490595301750099569
                 },
                 {
                     "origLen": 99,
@@ -284,15 +311,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": 8490595301750099569
+                    "pathId": -7559876790935291545
                 },
                 {
                     "origLen": 52,
                     "pathId": 8810129224420026278
-                },
-                {
-                    "origLen": 80,
-                    "pathId": -7559876790935291545
                 }
             ],
             "pathId": 4264865745270905679,
@@ -302,18 +325,20 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさん、なにか手はないですか？\r\n記者さんのドでかいカメラに立ち向かう\n方法は！？",
-            "enText": "Trainer, is there anything you can \ndo to help us? How do you stand up \nto the reporter's big camera?",
+            "enText": "Any ideas, Trainer? How do we deal with<n>those\nhuge cameras reporters are always<n>lugging\naround?!",
             "nextBlock": 13,
             "origClipLength": 74,
+            "voiceIdx": 55,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "現代のカメラは大丈夫",
-                    "enText": "Modern cameras are fine.",
+                    "enText": "Modern cameras don't take your soul, so you'll\nbe fine.",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "魂を取り返せばいい",
-                    "enText": "You'll get your soul back.",
+                    "enText": "Just snatch your soul back.",
                     "nextBlock": 21
                 }
             ],
@@ -323,20 +348,20 @@
                     "pathId": -2277791137451572355
                 },
                 {
+                    "origLen": 85,
+                    "pathId": -559961255785119757
+                },
+                {
                     "origLen": 132,
                     "pathId": -3515812084893578806
                 },
                 {
                     "origLen": 85,
-                    "pathId": -559961255785119757
+                    "pathId": -8640321768559687959
                 },
                 {
                     "origLen": 91,
                     "pathId": 3909596118931756157
-                },
-                {
-                    "origLen": 85,
-                    "pathId": -8640321768559687959
                 }
             ],
             "pathId": 7469275056550210842,
@@ -346,25 +371,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "現代の……？\r\n昔と違って安全ってことですか？",
-            "enText": "The modern ……? Does that mean it's not as \nsafe as it used to be?",
+            "enText": "...Modern cameras? You mean they're<n>safer than\nthe older ones?",
             "nextBlock": 14,
             "origClipLength": 60,
+            "voiceIdx": 20,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -1070983137471400292
+                },
                 {
                     "origLen": 71,
                     "pathId": -2857291607370049048
                 },
                 {
                     "origLen": 71,
-                    "pathId": -1070983137471400292
+                    "pathId": 6879080610080151053
                 },
                 {
                     "origLen": 29,
                     "pathId": 1295663575161104778
-                },
-                {
-                    "origLen": 71,
-                    "pathId": 6879080610080151053
                 }
             ],
             "pathId": 7845937945447852352,
@@ -374,25 +401,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "カメラの進化について\r\nマチカネフクキタルに軽く説明した。",
-            "enText": "I gave Machikanefukkitar a light-hearted \nexplanation of the evolution of the camera.",
+            "enText": "I give Matikanefukukitaru a brief<n>explanation on\nhow cameras have<n>evolved.",
             "nextBlock": 15,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -922140861409366946
+                },
                 {
                     "origLen": 74,
                     "pathId": -4311224485356330261
                 },
                 {
                     "origLen": 74,
-                    "pathId": -922140861409366946
+                    "pathId": 8235074689088170088
                 },
                 {
                     "origLen": 47,
                     "pathId": -6133915525605083747
-                },
-                {
-                    "origLen": 74,
-                    "pathId": 8235074689088170088
                 }
             ],
             "pathId": -2759239463859936220,
@@ -402,25 +431,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ふむふむ、なるほど……。昔、恐れられた\r\n呪いの銀板写真とは仕組みが違うと……。",
-            "enText": "Hmmm… I see……… I guess it works \ndifferently than the old, feared, \ncursed silver-plate photos. ……",
+            "enText": "Hm, I see what you're saying... So these<n>cameras\ndon't work like those evil<n>daguerreotype ones\nmade with silver<n>and mercury...",
             "nextBlock": 16,
             "origClipLength": 71,
+            "voiceIdx": 9,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 8940107248885213124
+                },
                 {
                     "origLen": 38,
                     "pathId": 688700249254258015
                 },
                 {
                     "origLen": 82,
-                    "pathId": 8940107248885213124
+                    "pathId": 6696307931082603588
                 },
                 {
                     "origLen": 29,
                     "pathId": 512947611098102484
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 6696307931082603588
                 }
             ],
             "pathId": -8692687322103002047,
@@ -430,25 +461,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "いや～、はじめて知りました！\r\nさすがトレーナーさん。",
-            "enText": "Oh no, I'm learning about it for the first \ntime! You are indeed a trainer.",
+            "enText": "You learn something new every day!<n>You're so\nsmart, Trainer.",
             "nextBlock": 17,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -2836155322472361273
+                },
                 {
                     "origLen": 73,
                     "pathId": -3299990880265113848
                 },
                 {
                     "origLen": 73,
-                    "pathId": -2836155322472361273
+                    "pathId": 3138022282575131837
                 },
                 {
                     "origLen": 37,
                     "pathId": 6099833806432082335
-                },
-                {
-                    "origLen": 73,
-                    "pathId": 3138022282575131837
                 }
             ],
             "pathId": 3467999924824184277,
@@ -458,25 +491,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ならば恐れるまでもありませんねっ。",
-            "enText": "Then there is no need to be afraid.",
+            "enText": "Guess there's nothing for me to be<n>scared of.",
             "nextBlock": 18,
             "origClipLength": 56,
+            "voiceIdx": 3,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4869195035397684718
+                },
                 {
                     "origLen": 31,
                     "pathId": -7874289772508328435
                 },
                 {
                     "origLen": 67,
-                    "pathId": -4869195035397684718
+                    "pathId": 7120174492010379741
                 },
                 {
                     "origLen": 39,
                     "pathId": 1404939917028763438
-                },
-                {
-                    "origLen": 67,
-                    "pathId": 7120174492010379741
                 }
             ],
             "pathId": -7952906942354373150,
@@ -486,25 +521,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "コホン、スズカさん、いいですか？\r\n心配しなくて平気です。現代のカメラはー。",
-            "enText": "Kohon, Suzuka-san, may I? Don't worry about \nit. Modern cameras…",
+            "enText": "Ahem. So Suzuka, allow me to explain.<n>There is\nnothing to fear. You see, the<n>thing about modern\ncameras—",
             "nextBlock": 19,
             "origClipLength": 69,
+            "voiceIdx": 2,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -597800153467119442
+                },
                 {
                     "origLen": 80,
                     "pathId": 2217601723473010954
                 },
                 {
                     "origLen": 80,
-                    "pathId": -597800153467119442
+                    "pathId": -8863961610305710060
                 },
                 {
                     "origLen": 52,
                     "pathId": 5625925394542009493
-                },
-                {
-                    "origLen": 80,
-                    "pathId": -8863961610305710060
                 }
             ],
             "pathId": -3647601681576007394,
@@ -514,25 +551,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あの……聞いてたから、隣で。",
-            "enText": "I was listening to that…… so I was next door.",
+            "enText": "Erm... I've been right next to you<n>listening this\nwhole time...",
             "nextBlock": 20,
             "origClipLength": 54,
+            "voiceIdx": 34,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -8588716824069548722
+                },
                 {
                     "origLen": 35,
                     "pathId": -7771643992435093050
                 },
                 {
                     "origLen": 65,
-                    "pathId": -8588716824069548722
+                    "pathId": 143318483256754961
                 },
                 {
                     "origLen": 65,
                     "pathId": -6633034044637244556
-                },
-                {
-                    "origLen": 65,
-                    "pathId": 143318483256754961
                 }
             ],
             "pathId": 564369390251576107,
@@ -542,25 +581,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "マチカネフクキタルは得意げに語っている。\r\nひとつ賢くなったようだ。",
-            "enText": "Machikanefukkitaru is good at what she does. \nShe seems to have become one wiser.",
+            "enText": "Matikanefukukitaru sounds like an<n>expert now. It\nlooks like she came out of<n>this exchange a little\nwiser.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 3072548855182753365
+                },
                 {
                     "origLen": 78,
                     "pathId": -6305037598583065454
                 },
                 {
                     "origLen": 78,
-                    "pathId": 3072548855182753365
+                    "pathId": -5420139972023441103
                 },
                 {
                     "origLen": 101,
                     "pathId": 888722269806137049
-                },
-                {
-                    "origLen": 78,
-                    "pathId": -5420139972023441103
                 }
             ],
             "pathId": 5437554532008409870,
@@ -570,25 +611,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "なんと！　取られたものは取り戻せ！\r\nゲットバック作戦ですか！？",
-            "enText": "Oh my God! What was taken, you get back! Is \nthis a get-back operation!",
+            "enText": "What a suggestion! You want us to plot<n>a\nsoul-salvaging tactic to take back<n>what's\nrightfully ours?",
             "nextBlock": 22,
             "origClipLength": 65,
+            "voiceIdx": 27,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2522601619025607647
+                },
                 {
                     "origLen": 33,
                     "pathId": -4773674790238218941
                 },
                 {
                     "origLen": 76,
-                    "pathId": -2522601619025607647
+                    "pathId": 4961009507526887857
                 },
                 {
                     "origLen": 26,
                     "pathId": -5667040473922309324
-                },
-                {
-                    "origLen": 76,
-                    "pathId": 4961009507526887857
                 }
             ],
             "pathId": 5225009629312757991,
@@ -598,25 +641,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "むむむ、少しリスキーですけど、いいかも！\r\n魂吸って油断してるところを、ガバチョと！",
-            "enText": "Mmmm, a little risky, but good! Soul-sucking, \ncareless, gabacho!",
+            "enText": "Nnngh! It's a little risky, but it might just<n>work! I'll\nsnatch back my soul before<n>that camera even\nknows it!",
             "nextBlock": 23,
             "origClipLength": 72,
+            "voiceIdx": 31,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -6904380340984050514
+                },
                 {
                     "origLen": 45,
                     "pathId": 2471105991343544690
                 },
                 {
                     "origLen": 83,
-                    "pathId": -6904380340984050514
+                    "pathId": 3530515406893616275
                 },
                 {
                     "origLen": 54,
                     "pathId": 7844884224280074364
-                },
-                {
-                    "origLen": 83,
-                    "pathId": 3530515406893616275
                 }
             ],
             "pathId": 1939679065030814511,
@@ -626,25 +671,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "私が放っておいたら、国中の人が魂吸われて、\r\nもぬけの殻にされちゃいますもんね。",
-            "enText": "If I left them alone, they would suck the \nsouls of people all over the country and \nleave them as nothing.",
+            "enText": "If I don't do anything, everyone will end<n>up\nsoul-sucked, all across the<n>country—sad shells of\nthemselves.",
             "nextBlock": 24,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 720150077711878912
+                },
                 {
                     "origLen": 44,
                     "pathId": 4443489588684075448
                 },
                 {
                     "origLen": 82,
-                    "pathId": 720150077711878912
+                    "pathId": -3138613009862441040
                 },
                 {
                     "origLen": 29,
                     "pathId": 5797446469297306994
-                },
-                {
-                    "origLen": 82,
-                    "pathId": -3138613009862441040
                 }
             ],
             "pathId": -1716582669809532676,
@@ -657,22 +704,24 @@
             "enText": "All right!",
             "nextBlock": 25,
             "origClipLength": 47,
+            "voiceIdx": 5,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 4589841794639523775
+                },
                 {
                     "origLen": 31,
                     "pathId": -9049960340703767369
                 },
                 {
                     "origLen": 58,
-                    "pathId": 4589841794639523775
+                    "pathId": 7619819351881177670
                 },
                 {
                     "origLen": 25,
                     "pathId": -4332023536000895254
-                },
-                {
-                    "origLen": 58,
-                    "pathId": 7619819351881177670
                 }
             ],
             "pathId": -942368130349132603,
@@ -680,27 +729,29 @@
         },
         {
             "jpName": "カメラマンA",
-            "enName": "Cameraman A",
+            "enName": "Photographer A",
             "jpText": "それじゃフクキタルちゃん。いくよー！\r\nはい、チーズ！",
-            "enText": "Well then, Fukkitar-chan. \nHere we go! Yes, cheese!",
+            "enText": "You're up next, Fukukitaru. Look at the<n>camera\nand say cheese!",
             "nextBlock": 26,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": 2101022841249686179
-                },
                 {
                     "origLen": 22,
                     "pathId": -7600443969877182249
                 },
                 {
-                    "origLen": 103,
-                    "pathId": 976941846982402861
+                    "origLen": 22,
+                    "pathId": 2101022841249686179
                 },
                 {
                     "origLen": 114,
                     "pathId": 1485672199798285094
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 976941846982402861
                 }
             ],
             "pathId": 723871450361399628,
@@ -710,17 +761,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ぐええっ、撮～ら～れ～た～！",
-            "enText": "Geez, I've been filmed!",
+            "enText": "Nooo, I got snapped!",
             "nextBlock": 27,
             "origClipLength": 54,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": 2068921280930874301
-                },
                 {
                     "origLen": 65,
                     "pathId": 4991478166486052738
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 2068921280930874301
                 }
             ],
             "pathId": 3191735446468406459,
@@ -730,17 +783,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "でも、ここからです！\nこのまま奪われてなるものか～！",
-            "enText": "But here's the thing! I won't let them take \nit away from me like this～!",
+            "enText": "Time to strike back before they steal my<n>soul!",
             "nextBlock": 28,
             "origClipLength": 63,
+            "voiceIdx": 71,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 5016904038768156932
-                },
                 {
                     "origLen": 74,
                     "pathId": -8413213032286781689
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 5016904038768156932
                 }
             ],
             "pathId": -1217258020613838869,
@@ -750,17 +805,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "きええええっ、ゲットバーック！\r\n魂返りの術～！！",
-            "enText": "Kieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! \nSoul return technique～!",
+            "enText": "Hum-dilly-dee, come back to me! Soul<n>retrieval\nmagic!",
             "nextBlock": 29,
             "origClipLength": 103,
+            "voiceIdx": 62,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": -8386265570282769420
-                },
                 {
                     "origLen": 114,
                     "pathId": -6718849954935155349
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8386265570282769420
                 }
             ],
             "pathId": -25430366259307264,
@@ -768,19 +825,21 @@
         },
         {
             "jpName": "カメラマンA",
-            "enName": "Cameraman A",
+            "enName": "Photographer A",
             "jpText": "うわ、な、なにそのお芝居！？\r\n面白いから、もう1枚撮っとく？",
-            "enText": "Wow, what a play! It's so funny, do you want \nme to take another picture?",
+            "enText": "Whoa, wh-what was that? Is that some<n>sort of\nperformance?! It was pretty neat,<n>so shall we get\nanother shot of it?",
             "nextBlock": 30,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
-                    "pathId": -3529305745110703796
+                    "pathId": -1411134590021593000
                 },
                 {
                     "origLen": 76,
-                    "pathId": -1411134590021593000
+                    "pathId": -3529305745110703796
                 }
             ],
             "pathId": -5033325020555876676,
@@ -790,22 +849,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "カメラに向かって、必死に念を送っている。\r\nこの元気は、なにか別のことに使わせよう。",
-            "enText": "I am sending a frantic reminder \nto the camera. Let's use this \nenergy for something else.",
+            "enText": "She's desperately rattling off<n>incantations at the\ncamera. We should<n>probably channel all that\nenergy she has<n>somewhere else.",
             "nextBlock": -1,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 83,
-                    "pathId": 8769004413238863710
+                    "pathId": -5723089471933020873
                 },
                 {
                     "origLen": 83,
-                    "pathId": -5723089471933020873
+                    "pathId": 8769004413238863710
                 }
             ],
             "pathId": -638701292116117699,
             "blockIdx": 30
         }
-    ],
-    "modified": 1657555266
+    ]
 }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "KPDG3X35YRMPMTIEBDMBT35ZJ53DKIPS",
+    "version": 6,
+    "bundle": "34PCX6UCINFVIQ47XNSLFAJJH4VR6FLK",
     "type": "story",
     "storyId": "041007005",
     "title": "振り回され二人三脚！",
+    "enTitle": "Like It or Not, We're in This Together",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\r\n時に支えあい、励ましあって勝利を目指す。",
-            "enText": "—It is said that \"Uma Musume and her trainer have\na tripod relationship. Sometimes they support and\nencourage each other to achieve victory.",
+            "enText": "An Umamusume and her trainer are two<n>parts of a whole. They\nencourage and<n>support each other to achieve victory.",
             "nextBlock": 2,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6818957062030091213,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トレーナーの役割は、日々のトレーニングを通して\r\nウマ娘のポテンシャルを十分に引き出すことだ。",
-            "enText": "The role of the trainer is to bring out the full potential of\nUma's daughter through daily training.",
+            "enText": "The trainer's role is to draw out the full<n>potential of an Umamusume\nthrough<n>rigorous daily practice.",
             "nextBlock": 3,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8302627592484183919,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "最高のトレーニングで、ゴールドシップに\r\n勝利を掴ませてあげられるよう頑張ろう……！",
-            "enText": "Let's get the best training we can so we\ncan give Goldship the victory…!",
+            "enText": "So I need to pull out all the stops for Gold<n>Ship's training in order for\nher to seize the<n>win!",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7596228640309042663,
             "blockIdx": 3
         },
@@ -36,18 +46,27 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おいトレーナー！\r\n今からいっちょ海底神殿の探索に行こうぜ！",
-            "enText": "Hey, trainer! Let's go explore the underwater temple now!",
+            "enText": "Heya, Trainer! Hope you're ready to<n>plunder an underwater temple!",
             "nextBlock": 5,
+            "origClipLength": 138,
+            "voiceIdx": 0,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "いや、今日こそトレーニングに……！",
-                    "enText": "No, today is the day to train…!",
+                    "enText": "Whoa, hold on! We're training today.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "いえ、今日こそトレーニングに……！",
-                    "enText": "No, today is the day to train…!",
+                    "enText": "Whoa, hold on! We're training today.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -108218035342992442
                 }
             ],
             "pathId": -1303495125251330661,
@@ -57,8 +76,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "は？　オマエは海底神殿の探索が、\r\nトレーニングじゃないって言いたいのか？",
-            "enText": "What? Are you saying that exploring an\nunderwater temple is not training?",
+            "enText": "Huh? You implying that exploring some<n>sunken ruins isn't training?",
             "nextBlock": 6,
+            "origClipLength": 178,
+            "voiceIdx": 1,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 7350644990340239711
+                },
+                {
+                    "origLen": 208,
+                    "pathId": -5693933129538904006
+                }
+            ],
             "pathId": 1232531763779789120,
             "blockIdx": 5
         },
@@ -66,8 +98,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "海に沈む、かつての栄華の象徴！\r\nその謎に迫るっつう崇高な行為が、トレーニングじゃないと！？",
-            "enText": "A symbol of former glory sinking into the sea! And the noble act\nof getting to the bottom of its mystery is not training!",
+            "enText": "There's ancient splendor in the deep! And<n>you're saying the noble\npursuit of the<n>unknown is <I>not</I> training?!",
             "nextBlock": 7,
+            "origClipLength": 243,
+            "voiceIdx": 2,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -8949830452414735356
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -7615055336195305329
+                }
+            ],
             "pathId": 4101300090174841364,
             "blockIdx": 6
         },
@@ -75,8 +120,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "まあ、その通りだけどな。",
-            "enText": "Well, you're right, though.",
+            "enText": "Well, you'd be absolutely right.",
             "nextBlock": 8,
+            "origClipLength": 51,
+            "voiceIdx": 3,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4440468225177750819
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 21864028336074094
+                }
+            ],
             "pathId": -126886768773572226,
             "blockIdx": 7
         },
@@ -84,18 +142,27 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "んで、オマエは今日こそトレーニングがしたいと。\r\n心配すんなって、その気持ち伝わってるからよ。",
-            "enText": "And you want to train today. Don't worry, I know how you feel.",
+            "enText": "Anywho, it seems like you really wanna<n>practice today. Fret not, good\ntrainer, I<n>totally get where you're coming from.",
             "nextBlock": 9,
+            "origClipLength": 260,
+            "voiceIdx": 4,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "ほんとか！？",
-                    "enText": "Are you sure?",
+                    "enText": "You do?!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "ほんとに！？",
-                    "enText": "Are you sure?",
+                    "enText": "You do?!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": -315717396581726058
                 }
             ],
             "pathId": -4280286175212643089,
@@ -105,8 +172,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "アタシが“つう”と言えば、オマエが“かあ”。\r\nアタシが“風神”なら、オマエも“風神”。",
-            "enText": "If I say \"I\", you say \"I\". If I'm \"Fujin\", you're \"Fujin\".",
+            "enText": "When I say hey, you say ho. I'm the<n>Sherlock to your Holmes.",
             "nextBlock": 10,
+            "origClipLength": 141,
+            "voiceIdx": 5,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": -458778168271049385
+                }
+            ],
             "pathId": -8407059187235301040,
             "blockIdx": 9
         },
@@ -114,13 +190,26 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "今更アタシたちの間に余計な言葉なんていらねえじゃねえか！\r\nさあ、いくぞーっ！　ついてきやがれ！",
-            "enText": "We don't need any extra words between us\nnow! Come on, let's go! Follow me!",
+            "enText": "We're so close, we don't need silly ol'<n>words to get in the way! So let's\nhit the<n>road! Follow meee!",
             "nextBlock": 11,
+            "origClipLength": 285,
+            "voiceIdx": 6,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "ゴールドシップ……！",
-                    "enText": "Goldship…!",
+                    "enText": "Gold Ship!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4001406695830278665
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -2193328738153530077
                 }
             ],
             "pathId": 2128092382852028093,
@@ -130,8 +219,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "まさかゴールドシップと通じ合える日がくるなんて……！\r\nさあ、トレーニングコースに向かおう！",
-            "enText": "I never thought I'd see the day when I could communicate with\nGoldship…! Let's head to the training course!",
+            "enText": "I never thought we'd be on the same page!<n>I'd better hurry after her\nto the track!",
             "nextBlock": 12,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8462163447617626857,
             "blockIdx": 11
         },
@@ -139,8 +231,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "さあ、トレーニングコース……に……？\r\n………………あれ？",
-            "enText": "Come on, training course… to\n…?… Huh?",
+            "enText": "Now that we're finally at the training<n>course... Wait, this isn't the\ntrack.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -5493856205098414424
+                }
+            ],
             "pathId": -7676323437051975213,
             "blockIdx": 12
         },
@@ -148,8 +249,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "うおおおーーーーー！！　釣って釣って釣りまくれ！\r\n今日の目標は大漁、大漁、もいっちょついでに大漁だぁ！！",
-            "enText": "Whoo-hoo! Catch, catch, catch! Today's goal is to catch a lot of\nfish, a lot of fish, and a lot of fish at the same time!",
+            "enText": "Uwaaagh! Fish! Fish! Fishin' for fish! What's<n>our catch gonna be?\nWe're going after the<n>largest—the hugest! It's big catch or<n>nothing!",
             "nextBlock": 14,
+            "origClipLength": 337,
+            "voiceIdx": 7,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4003225285886460495
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2696709554081225037
+                }
+            ],
             "pathId": -9171645606801867986,
             "blockIdx": 13
         },
@@ -157,18 +271,31 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おい、なにボサっと見てんだ！\r\nオマエも手伝うんだぞ！？",
-            "enText": "Hey, what are you staring at? You're going to help me!",
+            "enText": "Geez, don't just stand there! We're in this<n>together!",
             "nextBlock": 15,
+            "origClipLength": 108,
+            "voiceIdx": 8,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "えっと……何をするんだ？",
-                    "enText": "Um… what do you do?",
+                    "enText": "Um... In what together?",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "えっと……何をするの？",
-                    "enText": "Um… what do you do?",
+                    "enText": "Um... In what together?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -2835944442727511983
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4741499934963610541
                 }
             ],
             "pathId": 1242832816205087662,
@@ -178,8 +305,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おいおい、わざわざ水辺にきて、\r\n釣り以外にすることなんかあんのかよ？",
-            "enText": "Come on, what else is there to do on the waterfront but fish?",
+            "enText": "Seriously? We came all the way to the<n>waterfront. Obviously, the only\nthing we<n>can do is go fishing!",
             "nextBlock": 16,
+            "origClipLength": 159,
+            "voiceIdx": 9,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 7048075629805368214
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 6752322254253612636
+                }
+            ],
             "pathId": 8796916057735882220,
             "blockIdx": 15
         },
@@ -187,8 +327,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "村1番の漁師だったアタシの父親でも、\r\nこの川のヌシは捕らえられずに現役を退いちまった……。",
-            "enText": "Even my father, who was the best fisherman in the\nvillage, could not catch any of the fish in this\nriver and retired from active service…",
+            "enText": "My poor old pops, the best fisher in the<n>village, retired from duty\nbefore he could<n>ever catch the big granddaddy of this<n>river...",
             "nextBlock": 17,
+            "origClipLength": 249,
+            "voiceIdx": 10,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1044603742505069711
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -8861893291330011705
+                }
+            ],
             "pathId": -1987789434306444864,
             "blockIdx": 16
         },
@@ -196,8 +349,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "だからよぉ！　娘のアタシが！　今日こそヌシを捕まえるっ！\r\nうおおお、燃え尽きろ！　アタシの釣り人魂――ッ！",
-            "enText": "That's why! I'm your daughter! I'll get her\ntoday! Ooh, burn it up! I'm a fisherman!",
+            "enText": "That's why! As his proud daughter, I'm<n>gonna catch that legend!\nArrrgh! Get<n>ready, you jerk fish! I'll get you if it's the<n>last thing I do!",
             "nextBlock": 18,
+            "origClipLength": 368,
+            "voiceIdx": 11,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 3004182647262880297
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1083283283424670070
+                }
+            ],
             "pathId": -601707594145484427,
             "blockIdx": 17
         },
@@ -205,8 +371,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "頭の整理がつかないまま、釣り糸を川に垂らして数十分――",
-            "enText": "I let my fishing line drop into the river for a few minutes,\nunable to get my head around it.",
+            "enText": "My head's still reeling from all this, but we<n>cast our lines into the river.\nSeveral<n>minutes later...",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -4986257414924559682
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -8810762798136917350
+                }
+            ],
             "pathId": 6635388121725130382,
             "blockIdx": 18
         },
@@ -214,8 +393,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "……釣れねえなー。\r\nかかったのはお約束の水草だけだぜ。",
-            "enText": "… I can't catch anything. I'm not sure what to do with it.",
+            "enText": "It's no good. The only thing we've caught<n>are stupid water weeds.",
             "nextBlock": 20,
+            "origClipLength": 165,
+            "voiceIdx": 12,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1500941183201327270
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 5280068396950004995
+                }
+            ],
             "pathId": -2138818981347336519,
             "blockIdx": 19
         },
@@ -223,8 +415,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "……うおおおおお！！　うわあああああ！！\r\nだめだ、退屈でぶっ倒れちまう！！",
-            "enText": "… Whoa! Ohhhh! No, I'm going to collapse from boredom!",
+            "enText": "Urrrgh! Aaaagh! I can't take it—I'm about<n>to collapse from boredom!",
             "nextBlock": 21,
+            "origClipLength": 167,
+            "voiceIdx": 13,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -2516569700525658275
+                }
+            ],
             "pathId": 3600898106412590075,
             "blockIdx": 20
         },
@@ -232,8 +433,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おい、行くぞトレーナーっ！\r\n火星の方に向かって走れ！",
-            "enText": "Hey, let's go, trainer! Run towards Mars!",
+            "enText": "Follow me, Trainer! I'm setting our sails for<n>Mars!",
             "nextBlock": 22,
+            "origClipLength": 117,
+            "voiceIdx": 14,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4501504059134721272
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7788717330799474223
+                }
+            ],
             "pathId": -2764255460313625009,
             "blockIdx": 21
         },
@@ -241,8 +455,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "もしや、退屈にしびれを切らして\r\nついにトレーニングを始めてくれるのでは……！",
-            "enText": "Maybe you'll finally get tired of being\nbored and start training…!",
+            "enText": "This could be good! Maybe she got so<n>bored she finally wants to start\ntraining!",
             "nextBlock": 23,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4878178163836203118,
             "blockIdx": 22
         },
@@ -250,8 +467,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おばちゃーん！\r\n焼き魚定食1つ、ご飯大盛りな！",
-            "enText": "Obaachan! One grilled fish set meal with extra rice!",
+            "enText": "Hey, waitress! One grilled fish platter, and<n>pile that rice high!",
             "nextBlock": 24,
+            "origClipLength": 142,
+            "voiceIdx": 15,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 5083302529735893868
+                }
+            ],
             "pathId": 8120361737440344139,
             "blockIdx": 23
         },
@@ -259,8 +485,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "ふう～、危なかったぜ～。\r\n釣りでは後れを取ったけど、こうして食えばイーブンだよな！",
-            "enText": "Wow, that was a close one! I may have fallen behind in fishing,\nbut when you eat like this, it's even!",
+            "enText": "Pheeew, that was a close call. We got zilch<n>from fishing, but eating a\nbig one here<n>should make up for it!",
             "nextBlock": 25,
+            "origClipLength": 187,
+            "voiceIdx": 16,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -2393635710817911575
+                }
+            ],
             "pathId": 2094188315821114986,
             "blockIdx": 24
         },
@@ -268,8 +503,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "そんじゃ、いっただっきまーす！",
-            "enText": "Well then, I'm off!",
+            "enText": "Enough talk—time to dig in!",
             "nextBlock": 26,
+            "origClipLength": 101,
+            "voiceIdx": 17,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -7609081938405829330
+                }
+            ],
             "pathId": -7603329886702147313,
             "blockIdx": 25
         },
@@ -277,8 +521,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシップは焼き魚定食を受け取ると、\r\n一瞬でぺろりとたいらげた……。",
-            "enText": "Goldship received the grilled fish set meal\nand gobbled it up in an instant…",
+            "enText": "Mere seconds after her fish platter arrives,<n>she downs the whole meal\nin a few gulps...",
             "nextBlock": 27,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 43,
+                    "pathId": 7429850190577152620
+                }
+            ],
             "pathId": 5478676802341831178,
             "blockIdx": 26
         },
@@ -286,13 +539,22 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "あー食った食った。\r\nすべての食べ物に感謝だぜ。",
-            "enText": "I ate and ate. I'm thankful for all the food.",
+            "enText": "Ahh, just what I needed. I'm eternally<n>grateful for the existence of\nsustenance.",
             "nextBlock": 28,
+            "origClipLength": 201,
+            "voiceIdx": 18,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "あの、トレーニングは……？",
-                    "enText": "Um, is your training at…?",
+                    "enText": "So... can we finally start training?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": -2224015846696717138
                 }
             ],
             "pathId": -6853441335201480724,
@@ -302,8 +564,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "は？　オマエは魚を釣ったり食ったりすることが、\r\nトレーニングじゃねえって言いたいのか？",
-            "enText": "What? Are you saying that catching\nand eating fish is not training?",
+            "enText": "What? You mean to tell me fishing for fish<n>and then eating fish isn't\ntraining?",
             "nextBlock": 29,
+            "origClipLength": 177,
+            "voiceIdx": 19,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 900714087435616181
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -5515773905378996819
+                }
+            ],
             "pathId": -4977017955900113988,
             "blockIdx": 28
         },
@@ -311,8 +586,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "自給自足のサバイバル生活は、\r\n常に危険と隣り合わせの極限バトル……。",
-            "enText": "The self-sufficient survival life is an extreme\nbattle with constant danger…",
+            "enText": "We're living off the land here. It's a<n>struggle for survival, fraught with\ndanger...",
             "nextBlock": 30,
+            "origClipLength": 177,
+            "voiceIdx": 20,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4070456134472972468
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6354687450489256054
+                }
+            ],
             "pathId": 4215473424815981415,
             "blockIdx": 29
         },
@@ -320,18 +608,31 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "自然の中に身を置いて、野生の感覚を研ぎ澄ますことが\r\nどれだけレースに活かされるか、なんでわからないんだっ！！",
-            "enText": "How can you not know how much being in nature and sharpening\nyour wild senses will help you in the race!",
+            "enText": "Living in harmony with nature and honing<n>our senses in the wild—open\nyour eyes. It's<n>all connected to racing!",
             "nextBlock": 31,
+            "origClipLength": 223,
+            "voiceIdx": 21,
+            "voiceSheetId": "061007001",
             "choices": [
                 {
                     "jpText": "野生の勘で走るってことか！",
-                    "enText": "You mean running on wild instincts!",
+                    "enText": "Ah, so this is all to train your racing instincts!",
                     "nextBlock": 31
                 },
                 {
                     "jpText": "野生の勘で走るってことだね！",
-                    "enText": "You mean running on wild instincts!",
+                    "enText": "Ah, so this is all to train your racing instincts!",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 8888111451477935944
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1962325079352360265
                 }
             ],
             "pathId": -7733911213329027639,
@@ -341,8 +642,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "いや、特に関係ないけどな！",
-            "enText": "No, not that it matters, anyway!",
+            "enText": "Nah, it's probably no help at all!",
             "nextBlock": 32,
+            "origClipLength": 73,
+            "voiceIdx": 22,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1436720213749110596
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -201590903650556081
+                }
+            ],
             "pathId": 9090733328020373417,
             "blockIdx": 31
         },
@@ -350,8 +664,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "んじゃ、腹ごしらえも終わったし、\r\nゴルシ農園でにんじんの成長を見守りに行くか。",
-            "enText": "Now that I've eaten, I'll go to the Gorsi\nfarm to watch the carrots grow.",
+            "enText": "In that case, now that I've had a meal,<n>might as well head over to\nGolshi Farms<n>and tend the carrots.",
             "nextBlock": 33,
+            "origClipLength": 193,
+            "voiceIdx": 23,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 188,
+                    "pathId": -445979403230038203
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -8068599035778341825
+                }
+            ],
             "pathId": -7531563823096035822,
             "blockIdx": 32
         },
@@ -359,8 +686,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "今度は太陽系のどこかで会おうぜ！\r\nあばよっ！",
-            "enText": "I'll see you somewhere in the solar system! Goodbye!",
+            "enText": "Catch you on the other side of the solar<n>system! Farewell!",
             "nextBlock": 34,
+            "origClipLength": 116,
+            "voiceIdx": 24,
+            "voiceSheetId": "061007001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2714773189736325659
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 8934355546678428687
+                }
+            ],
             "pathId": -5785469135585555558,
             "blockIdx": 33
         },
@@ -368,8 +708,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "振り回されっぱなしで結局トレーニングはできないまま、\r\nゴールドシップは走り去ってしまった……。",
-            "enText": "She was left swinging around, and in the end,\nwithout training, Goldship ran off…",
+            "enText": "She's out the door by the time I realize we<n>went the entire day\nwithout doing a<n>minute of training...",
             "nextBlock": 35,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7483756882962163712,
             "blockIdx": 34
         },
@@ -377,8 +720,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――『ウマ娘とトレーナーは二人三脚の関係』、と言われている。\r\n2人で力を合わせ、共に勝利を目指す……はずだ、きっと！",
-            "enText": "— \"Uma Musume and her trainer have a tripod relationship,\" as\nthey say. The two of them work together to achieve victory\ntogether… I'm sure!",
+            "enText": "An Umamusume and trainer are two parts<n>of a whole... We're\nsupposed to work<n><I>together</I> to achieve victory!",
             "nextBlock": -1,
+            "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3687499510593772966,
             "blockIdx": 35
         }

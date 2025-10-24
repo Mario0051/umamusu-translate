@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "T47DD6ELIACRC3EVSXZYGJ27PXBRQ3Y5",
+    "version": 6,
+    "bundle": "IPNHZ72FLVPX42DX3BBQSM4QXWN3G5MM",
     "type": "story",
     "storyId": "501010302",
     "title": "福引チャンス！",
+    "enTitle": "Raffle Time!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "タイキシャトルと出かけた帰りに、\r\n商店街へと立ち寄った。すると――",
-            "enText": "On my way home from an outing with \nmy tiki shuttle, I stopped by the \nshopping district. Then―",
+            "enText": "Taiki Shuttle and I are on the way home<n>from an\nouting when we decide to stop<n>by the shopping\ndistrict.",
             "nextBlock": 2,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 79,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 78,
-                    "pathId": -2775479186831655365
+                    "pathId": 8379124894274572532
                 },
                 {
                     "origLen": 78,
-                    "pathId": 8379124894274572532
+                    "pathId": -2775479186831655365
                 }
             ],
             "pathId": -185782103105104543,
@@ -33,21 +36,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンン？　あれ、なんでショウ？\r\nふ……ふ……ふくひく？",
-            "enText": "Hmm? Oh, why Shaw? Fu…… Fu…… Fukuhiki?",
+            "enText": "What's that sign say, Trainer? \"Rif\"...<n>\"Ruffle\"?",
             "nextBlock": 3,
             "origClipLength": 62,
+            "voiceIdx": 20,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 79,
                     "pathId": -2872731431805898375
                 },
                 {
-                    "origLen": 49,
-                    "pathId": -3562507497336817115
-                },
-                {
                     "origLen": 73,
                     "pathId": -407666754232148670
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3562507497336817115
                 }
             ],
             "pathId": 1467033351027732244,
@@ -57,13 +62,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "見ると、商店街の福引大会が開催されていた。",
-            "enText": "When I looked, I saw that the shopping \ndistrict was holding a fukubiki \n(lucky draw) contest.",
+            "enText": "It looks like there's a raffle going on.",
             "nextBlock": 4,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "“ふくびき”、かな",
-                    "enText": "\"Bounty hunters\", maybe.",
+                    "enText": "Actually, it says \"raffle.\"",
                     "nextBlock": 4
                 }
             ],
@@ -74,11 +81,11 @@
                 },
                 {
                     "origLen": 69,
-                    "pathId": -7702728437605389938
+                    "pathId": -1416248195354716132
                 },
                 {
                     "origLen": 69,
-                    "pathId": -1416248195354716132
+                    "pathId": -7702728437605389938
                 }
             ],
             "pathId": -781732008924007712,
@@ -86,15 +93,17 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "さあさ、新春・大福引祭り開催中だよ～！\r\n特賞はなんと『温泉旅行券』！",
-            "enText": "The New Year's Big Lucky Draw Festival \nis underway! The special prize is \na trip to a hot spring!",
+            "enText": "Step right up and try your luck with our<n>New\nYear's raffle! This year's grand-prize<n>is a hot\nspring vacation for two!",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "温泉旅行券",
-                    "enText": "Onsen Travel Coupons"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -104,11 +113,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": 4577772759793326729
+                    "pathId": 2444988403956286583
                 },
                 {
                     "origLen": 80,
-                    "pathId": 2444988403956286583
+                    "pathId": 4577772759793326729
                 }
             ],
             "pathId": 450464928261646668,
@@ -116,23 +125,25 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "1等は『特上にんじんハンバーグ』\r\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
-            "enText": "First prize is a \"Special carrot hamburger \nsteak,\" second prize is a \"pile of carrots,\" \nand third prize is \"a carrot!\"",
+            "enText": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize winners<n>get a bushel of\ncarrots! And third-prize<n>winners can take home a\nsingle carrot!",
             "nextBlock": 6,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
                     "pathId": 2631038838243234717
                 },
                 {
-                    "origLen": 26,
-                    "pathId": -5165116563066526566
-                },
-                {
                     "origLen": 89,
                     "pathId": -3072100518592178484
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -5165116563066526566
                 }
             ],
             "pathId": -2257468159939121266,
@@ -140,23 +151,25 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "そこの仲良しそうなお2人！\r\nよければやっていかないかい～！",
-            "enText": "You two look like good friends there! If you \ndon't mind, why don't we do it～!",
+            "enText": "You two over there! Care to try your<n>luck?",
             "nextBlock": 7,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
                     "pathId": -1280991752965845131
                 },
                 {
-                    "origLen": 83,
-                    "pathId": -5995450257765265770
-                },
-                {
                     "origLen": 89,
                     "pathId": -2959325417760907503
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -5995450257765265770
                 }
             ],
             "pathId": -2114357284586260399,
@@ -166,21 +179,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワオ！　あれが福引なんですネ～！！\r\nワタシ、福引やってみたかったのデス！！",
-            "enText": "Wow! That's the lottery! I've always wanted \nto try a lottery!",
+            "enText": "Wow! So this is what a Japanese raffle<n>looks like!\nI've been itchin' to try one!",
             "nextBlock": 8,
             "origClipLength": 69,
+            "voiceIdx": 7,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 7382112423599910532
                 },
                 {
-                    "origLen": 54,
-                    "pathId": -8282691119256345709
-                },
-                {
                     "origLen": 80,
                     "pathId": 157349132979294535
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -8282691119256345709
                 }
             ],
             "pathId": 6917584102007907234,
@@ -190,24 +205,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "いきましょう、トレーナーさん！\r\nビッグなお宝ゲットしまショ～！",
-            "enText": "Let's go, trainers! Let's get a big treasure!",
+            "enText": "Let's check it out, Trainer! We could win<n>ourselves\nsomethin' big!",
             "nextBlock": 9,
             "origClipLength": 65,
+            "voiceIdx": 96,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "まずは買い物して福引券をもらわないと",
-                    "enText": "I need to shop and get a \ngoody bag ticket first.",
+                    "enText": "We have to buy something to get a raffle ticket.",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": 2258533881507573966
-                },
-                {
                     "origLen": 76,
                     "pathId": 3633127858609717731
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 2258533881507573966
                 }
             ],
             "pathId": -6073423024963052979,
@@ -217,17 +234,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ、そーでシタネ！\r\n今欲しいモノと言えば……！",
-            "enText": "Oh, that's right! Speaking \nof things I want now, ……!",
+            "enText": "Oops, I clean forgot about that part!<n>Let's see...\nWhat should I buy?",
             "nextBlock": 10,
             "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 6150849368794562118
-                },
                 {
                     "origLen": 72,
                     "pathId": 3743125196941455732
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 6150849368794562118
                 }
             ],
             "pathId": 5676570222013739841,
@@ -237,17 +256,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イェア！　ひらめカモンしマシタ！\r\nミルクいーっぱい買ってきマ～～ス！",
-            "enText": "Yeah! I've got a flame! I'm \ngoing to get lots of milk!",
+            "enText": "All right, I've got just the thing! I'm<n>gonna buy me\na jug o' milk!",
             "nextBlock": 11,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 7131164157328742642
-                },
                 {
                     "origLen": 78,
                     "pathId": -1313063867179414374
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 7131164157328742642
                 }
             ],
             "pathId": 8975078690998713596,
@@ -257,17 +278,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――ということで、福引券1枚をゲットした。",
-            "enText": "-, so I got one lucky draw ticket.",
+            "enText": "...And so, we receive one raffle ticket.",
             "nextBlock": 12,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": 4930781675315815996
-                },
                 {
                     "origLen": 111,
                     "pathId": -5822639178027227127
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 4930781675315815996
                 }
             ],
             "pathId": -9182311232826013979,
@@ -277,17 +300,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "チャンスはワンタイム……！\r\nううん、なかなかシビアですネェ……！",
-            "enText": "Chances are one-time ……! No, \nit's pretty serious. ……!",
+            "enText": "We've only got one chance! Sure seems<n>like a\nlong shot...",
             "nextBlock": 13,
             "origClipLength": 67,
+            "voiceIdx": 35,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": 365879850274435864
-                },
                 {
                     "origLen": 86,
                     "pathId": 5899871169290888240
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 365879850274435864
                 }
             ],
             "pathId": 2664806397701787716,
@@ -297,17 +322,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "しかし、目指すはやはりトクショーでショウ！",
-            "enText": "However, the goal is still Tokusho!",
+            "enText": "But I'm still gunnin' for the top prize!",
             "nextBlock": 14,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 6,
-                    "pathId": -6717977537042202077
-                },
                 {
                     "origLen": 69,
                     "pathId": 5734322172029929796
+                },
+                {
+                    "origLen": 6,
+                    "pathId": -6717977537042202077
                 }
             ],
             "pathId": -5696931705991911759,
@@ -317,17 +344,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フゥゥゥゥウウウ！！\r\nカムヒアカムヒア、トクショーーーッ！！",
-            "enText": "Fuuuuuuuuuuuu!!! Kamuhia kamuhia, \ntokushooooo!!!!!!!!!!!!!!!!!!!!!!",
+            "enText": "Woohoo! C'mooon, grand-prize!",
             "nextBlock": 15,
             "origClipLength": 65,
+            "voiceIdx": 10,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -2954940358064245743
-                },
                 {
                     "origLen": 76,
                     "pathId": -4296237347270879173
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2954940358064245743
                 }
             ],
             "pathId": 7087445531740809451,
@@ -337,17 +366,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "かけ声とともに、勢いよく抽選器が回る。",
-            "enText": "With a shout, the lottery \nmachine spins vigorously.",
+            "enText": "Taiki pumps herself up and gives the<n>raffle\nspinner an enthusiastic whirl.",
             "nextBlock": 16,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 22,
-                    "pathId": -1172571668355190087
+                    "pathId": -8547699384383455001
                 },
                 {
                     "origLen": 22,
-                    "pathId": -8547699384383455001
+                    "pathId": -1172571668355190087
                 }
             ],
             "pathId": 2736935112891542121,
@@ -357,27 +388,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その結果は――",
-            "enText": "The result is―",
+            "enText": "A small plastic ball drops from the<n>spinner's\nopening...",
             "nextBlock": 17,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8452801588987648094,
             "blockIdx": 16
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "なんとっ！　おめでとうございまぁぁぁす！！\r\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
-            "enText": "What a surprise! Congratulations! The special \nprize, \"Hot Spring Trip Voucher\", is now \navailable at ～～～～!",
+            "enText": "Holy mackerel! We've got ourselves a<n>grand-prize\nwinner! Come and get the<n>coupon for your hot\nspring vacation!<n>Congratulations!",
             "nextBlock": 18,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 123,
-                    "pathId": -7885083709195791609
-                },
                 {
                     "origLen": 127,
                     "pathId": 3129538054242332529
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -7885083709195791609
                 }
             ],
             "pathId": -3980754477722168521,
@@ -387,23 +422,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 19,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 123,
-                    "pathId": 5956716318618965655
-                },
-                {
                     "origLen": 127,
                     "pathId": 5891727980284772922
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 5956716318618965655
                 }
             ],
             "pathId": -1549422668124987665,
@@ -413,17 +450,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イヤッホーーーーーッ！！\r\nアイム・ソー・ハッピ～～～～！！！",
-            "enText": "YEAHHHHHHHHHHHHHHHHHHHHHHH!!!! \nI'm So Happy ～～～～!!!!",
+            "enText": "Yeehaaaw! Now this has made my day!",
             "nextBlock": 20,
             "origClipLength": 65,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 4549064682416126805
-                },
                 {
                     "origLen": 159,
                     "pathId": -1029286531360368042
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4549064682416126805
                 }
             ],
             "pathId": 5688886094885663331,
@@ -433,29 +472,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "やりマシタ～～～！\r\nさっそくプラン立てましょ、トレーナーさん！",
-            "enText": "I did it! Let's make a plan now, trainer!",
+            "enText": "I did it, Trainer! So when are we goin'?",
             "nextBlock": 21,
             "origClipLength": 65,
+            "voiceIdx": 74,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "お、俺と行くのか？",
-                    "enText": "Oh, you're going with me?",
+                    "enText": "Y-you want to go with me?",
                     "nextBlock": 21
                 },
                 {
                     "jpText": "わ、私と行くの？",
-                    "enText": "Wow, you're going with me?",
+                    "enText": "Y-you want to go with me?",
                     "nextBlock": 21
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": -7869870352126989975
-                },
-                {
                     "origLen": 76,
                     "pathId": 6500681059031188568
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -7869870352126989975
                 }
             ],
             "pathId": 281907839908767585,
@@ -465,17 +506,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あたり前じゃないデスカー！　ワタシと\r\nトレーナーさんはイチレンタクショー！",
-            "enText": "It's not a surprise! I and my trainer are in \nthe same boat!",
+            "enText": "Well, of course! We're in this together!",
             "nextBlock": 22,
             "origClipLength": 69,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": 9068610663530632415
-                },
                 {
                     "origLen": 80,
                     "pathId": -3210965273673239683
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 9068610663530632415
                 }
             ],
             "pathId": -6979502125037162105,
@@ -485,29 +528,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "いつ行きマスカ！？　明日！？　明後日！？\r\n今すぐ！？　オーケー行きマショウ！！",
-            "enText": "When are you going? Tomorrow? The day after \ntomorrow! Right now! Okay, let's go!",
+            "enText": "When do ya wanna head out? Maybe<n>\ntomorrow—or the day after that? Or how<n>'bout\nright now?! 'Kay, let's pack our<n>things and go!",
             "nextBlock": 23,
             "origClipLength": 71,
+            "voiceIdx": 52,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "ま、待て！後日改めて行こう！",
-                    "enText": "Well, wait! Let's go again later!",
+                    "enText": "H-hold on! Let's save it for later!",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "ま、待って！後日改めて行こう！",
-                    "enText": "Well, wait! Let's go again later!",
+                    "enText": "H-hold on! Let's save it for later!",
                     "nextBlock": 23
                 }
             ],
             "animData": [
                 {
-                    "origLen": 42,
-                    "pathId": -4973206272433887324
-                },
-                {
                     "origLen": 82,
                     "pathId": -6258675133864163061
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -4973206272433887324
                 }
             ],
             "pathId": 5587153873449205566,
@@ -517,17 +562,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "へ？　ゴジツ改めて……？",
-            "enText": "Heh? Gozitu again ……?",
+            "enText": "Later, huh?",
             "nextBlock": 24,
             "origClipLength": 52,
+            "voiceIdx": 34,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": -8400510271294304198
-                },
                 {
                     "origLen": 63,
                     "pathId": -2511740637332573086
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -8400510271294304198
                 }
             ],
             "pathId": -322237660795401314,
@@ -537,17 +584,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンフーン？　さてはとっても元気で、\r\n取りたい疲れがまだないんデスネ～？",
-            "enText": "Hmmm? So you are very energetic, and you are \nnot tired yet, are you?",
+            "enText": "Hmm. Are you sayin' I haven't worked<n>hard\nenough to go to a hot spring yet?",
             "nextBlock": 25,
             "origClipLength": 68,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -558741415896141624
-                },
                 {
                     "origLen": 79,
                     "pathId": 5044939449639884753
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -558741415896141624
                 }
             ],
             "pathId": -905511253436491065,
@@ -557,17 +606,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "疲れがないのに温泉はMOTTAINAI、\r\nニホン人ソウルですネ！",
-            "enText": "Onsen is MOTTAINAI when you are not tired, \nit's Japanese soul!",
+            "enText": "And it's a waste to go when you're not<n>tuckered\nout? That's some true Japanese<n>spirit right there!",
             "nextBlock": 26,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": 534059808208005300
-                },
                 {
                     "origLen": 77,
                     "pathId": -3272594054670926342
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 534059808208005300
                 }
             ],
             "pathId": 6381956641137529446,
@@ -577,17 +628,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オーケーわかりマシタ！！\r\nよきときにいきまショウ！　約束デスヨ～！",
-            "enText": "Okay, I understand! I'll be there at a good \ntime! I promise!",
+            "enText": "Okay, I got ya! Let's go when the time is<n>right! It's\na promise!",
             "nextBlock": 27,
             "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": -8896396327631980004
-                },
                 {
                     "origLen": 78,
                     "pathId": 3715649717105989648
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -8896396327631980004
                 }
             ],
             "pathId": -7196781638661438205,
@@ -597,17 +650,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "何かを乗り越えた後のご褒美にした方が\r\nより楽しみになれる――",
-            "enText": "It's more fun to reward yourself after you've \novercome something―",
+            "enText": "It would be nice to use the trip as a<n>reward once\nshe reaches a milestone...",
             "nextBlock": 28,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": -5380657546652403259
-                },
                 {
                     "origLen": 76,
                     "pathId": 3803885924376239645
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -5380657546652403259
                 }
             ],
             "pathId": 2227935747621236541,
@@ -617,17 +672,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "と、思ってのことだったが……。ともあれ、\r\n彼女の温泉旅行券を預かることになった。",
-            "enText": "I thought it was a good idea, but…… \nAnyway, I was to take care of her \nhot spring trip ticket.",
+            "enText": "With that in mind, I decide to hold on to<n>her\nticket for the time being.",
             "nextBlock": -1,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 82,
-                    "pathId": -5899338648175039884
+                    "pathId": -2154956116851528908
                 },
                 {
                     "origLen": 82,
-                    "pathId": -2154956116851528908
+                    "pathId": -5899338648175039884
                 }
             ],
             "pathId": -5451765049310968805,
@@ -635,19 +692,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "おめでとうございます、1等賞～！\r\n賞品は『特上にんじんハンバーグ』です！",
-            "enText": "Congratulations, first prize～! The prize is a \n\"Special Carrot Hamburger\"!",
+            "enText": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!",
             "nextBlock": 30,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 136,
-                    "pathId": 6680791889746370295
-                },
                 {
                     "origLen": 112,
                     "pathId": 2794370646903290556
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 6680791889746370295
                 }
             ],
             "pathId": -884984895511276080,
@@ -657,23 +716,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 31,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 136,
-                    "pathId": 2109440567441817105
-                },
-                {
                     "origLen": 112,
                     "pathId": -6980086859536083569
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 2109440567441817105
                 }
             ],
             "pathId": 7440113737011548125,
@@ -683,17 +744,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ノォォオ！\r\nあともうワンブレスでシタ～～～ッ！",
-            "enText": "Noooo! One more breath and I'm shita～!",
+            "enText": "Nooo! I was so close!",
             "nextBlock": 32,
             "origClipLength": 60,
+            "voiceIdx": 33,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -6637080574774933960
-                },
                 {
                     "origLen": 155,
                     "pathId": -6148179372496548504
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -6637080574774933960
                 }
             ],
             "pathId": 4093794772611547361,
@@ -703,17 +766,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "でもでも、大きくて元気が出そうな\r\nハンバーグですネェ～！",
-            "enText": "But it's a big, cheery hamburger, isn't it!",
+            "enText": "But this big ol' hamburger steak does<n>look packed\nfull of energy!",
             "nextBlock": 33,
             "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -3327048813601523125
-                },
                 {
                     "origLen": 74,
                     "pathId": -1614468021359446529
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3327048813601523125
                 }
             ],
             "pathId": 3750558329058331320,
@@ -723,17 +788,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフ、大きなお肉料理は、\r\nファミリーを思い出しマス～！",
-            "enText": "The big meat dish reminds me of my family!",
+            "enText": "Hehe. Plus, huge slabs of meat remind<n>me of my\nfamily back home!",
             "nextBlock": 34,
             "origClipLength": 63,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": 5193648773996323760
-                },
                 {
                     "origLen": 74,
                     "pathId": 4669515083346143316
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5193648773996323760
                 }
             ],
             "pathId": -3927615417734146267,
@@ -743,17 +810,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あっ、せっかくだから、ファミリーに\r\n福引を引いたこと伝えマショウ！",
-            "enText": "Oh, and since we're here, let's tell the \nfamily that we drew the lottery!",
+            "enText": "Oh, we oughta take a picture so I can<n>show my\nfolks what I won!",
             "nextBlock": 35,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 8068307495210230287
-                },
                 {
                     "origLen": 78,
                     "pathId": -7226227652732518526
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8068307495210230287
                 }
             ],
             "pathId": 6325099326365546328,
@@ -763,21 +832,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ほら、トレーナーさんも一緒に！",
-            "enText": "Look, the trainer's with me!",
+            "enText": "Get over here, Trainer!",
             "nextBlock": 36,
             "origClipLength": 54,
+            "voiceIdx": 53,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 78,
                     "pathId": -1616147045191823703
                 },
                 {
-                    "origLen": 80,
-                    "pathId": 8961494250906536559
-                },
-                {
                     "origLen": 65,
                     "pathId": -4684967498755479769
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8961494250906536559
                 }
             ],
             "pathId": 7706758455503118239,
@@ -787,21 +858,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "セイ、チーズ！",
-            "enText": "Say, cheese!",
+            "enText": "Say cheese!",
             "nextBlock": 37,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -853633316191417689
                 },
                 {
-                    "origLen": 30,
-                    "pathId": -8314374992460743004
-                },
-                {
                     "origLen": 62,
                     "pathId": -550926213021853811
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8314374992460743004
                 }
             ],
             "pathId": -3484212927744977576,
@@ -811,17 +884,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、彼女は特上ハンバーグをほおばり、\r\n明日への活力を得たのだった。",
-            "enText": "Afterwards, she enjoyed a special hamburger \nsteak, which gave her energy for the next day.",
+            "enText": "After that, Taiki Shuttle wolfs down the<n>deluxe\nhamburger steak and fills up with<n>enough energy\nto last into the next day.",
             "nextBlock": -1,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": -6799855048740230279
-                },
                 {
                     "origLen": 79,
                     "pathId": 5368091574098860017
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6799855048740230279
                 }
             ],
             "pathId": 9114546384041701590,
@@ -829,19 +904,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "2等賞～！！\r\n賞品は『にんじん山盛り』です！",
-            "enText": "Second prize～! The prize is a pile of carrots!",
+            "enText": "We got a second-prize winner! It's your<n>lucky day!\nYou're going home with a<n>bushel of carrots!",
             "nextBlock": 39,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 120,
-                    "pathId": -597390026696110500
-                },
                 {
                     "origLen": 106,
                     "pathId": -8729246758734063570
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -597390026696110500
                 }
             ],
             "pathId": -1237479985497988144,
@@ -851,23 +928,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 40,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 120,
-                    "pathId": -8322156423353282913
-                },
-                {
                     "origLen": 106,
                     "pathId": 3464718370603821871
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -8322156423353282913
                 }
             ],
             "pathId": 7037329857523143508,
@@ -877,17 +956,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンン～～ッ、惜しいデスネ～！\r\nザンネーン！",
-            "enText": "Nn～～～, that was close! Zanneen!",
+            "enText": "Ooh, we almost had it! Drat!",
             "nextBlock": 41,
             "origClipLength": 60,
+            "voiceIdx": 49,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 5298047996855868251
-                },
                 {
                     "origLen": 144,
                     "pathId": -1194798436868047955
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 5298047996855868251
                 }
             ],
             "pathId": -607689115902724619,
@@ -897,17 +978,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "でも、つやつやで\r\nとっても美味しそうなにんじんデス！",
-            "enText": "But they are so glossy and look so delicious!",
+            "enText": "But, these carrots are so shiny—they<n>look\ndelicious!",
             "nextBlock": 42,
             "origClipLength": 62,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 904770879644901506
-                },
                 {
                     "origLen": 73,
                     "pathId": -7994218890201001949
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 904770879644901506
                 }
             ],
             "pathId": 8052798646278186884,
@@ -917,17 +1000,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "せっかくだから、寮のみなさんも呼んで\r\nBBQパーティーしまショウ！！",
-            "enText": "Since we're going to go all out, let's invite \nthe dorm residents and have a BBQ party!",
+            "enText": "Since we got so many, what say we invite<n>\neverybody in the dorm over for a big ol'<n>\nbarbecue?!",
             "nextBlock": 43,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 377488856637983879
-                },
                 {
                     "origLen": 78,
                     "pathId": 3883868446647803105
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 377488856637983879
                 }
             ],
             "pathId": 7067905181184489225,
@@ -937,17 +1022,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "きっと、とーっても楽しいデスヨ～～！！\r\nフゥゥ！　急いでレッツゴー！",
-            "enText": "I'm sure it will be a lot of fun～! Whoo! \nLet's hurry up and go!",
+            "enText": "I'm sure it'll be a hoot! Let's go right now<n>and get\nstarted!",
             "nextBlock": 44,
             "origClipLength": 67,
+            "voiceIdx": 10,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 1401140701107469167
-                },
                 {
                     "origLen": 78,
                     "pathId": 5105520357999121049
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 1401140701107469167
                 }
             ],
             "pathId": 8260010309954522075,
@@ -957,17 +1044,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その夜のBBQパーティーは、\r\n山盛りのにんじんを中心に、\nとても盛り上がったのだった。",
-            "enText": "The BBQ party that night was a great success, \ncentered around a pile of carrots.",
+            "enText": "That night, everyone thoroughly enjoys<n>\nthemselves at the carrot-centric<n>barbecue.",
             "nextBlock": -1,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 3889180444911010790
-                },
                 {
                     "origLen": 84,
                     "pathId": 4584510475619496602
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3889180444911010790
                 }
             ],
             "pathId": -6655733834381420199,
@@ -975,19 +1064,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "3等賞～！\r\n賞品は『にんじん1本』です！",
-            "enText": "Third prize～! The prize is a carrot!",
+            "enText": "Would you lookie here! You've won the<n>\nthird-prize! Here's your carrot!",
             "nextBlock": 46,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 103,
-                    "pathId": -6870503706354483423
+                    "pathId": 3958771471664641718
                 },
                 {
                     "origLen": 103,
-                    "pathId": 3958771471664641718
+                    "pathId": -6870503706354483423
                 }
             ],
             "pathId": -309727612406094322,
@@ -997,23 +1088,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 47,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
                     "origLen": 103,
-                    "pathId": 7679489756415102509
+                    "pathId": -7961398588135601721
                 },
                 {
                     "origLen": 103,
-                    "pathId": -7961398588135601721
+                    "pathId": 7679489756415102509
                 }
             ],
             "pathId": 5769428176149831190,
@@ -1023,24 +1116,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンンン！？　3等賞！？",
-            "enText": "Nnnn! Third prize!",
+            "enText": "Aww! Third-prize?!",
             "nextBlock": 48,
             "origClipLength": 52,
+            "voiceIdx": 27,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "そんなこともあるよ",
-                    "enText": "It happens.",
+                    "enText": "These things happen.",
                     "nextBlock": 48
                 }
             ],
             "animData": [
                 {
-                    "origLen": 23,
-                    "pathId": -2834273562228973108
-                },
-                {
                     "origLen": 143,
                     "pathId": 1193348089370566992
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -2834273562228973108
                 }
             ],
             "pathId": -4257792692993079363,
@@ -1050,17 +1145,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "うぅぅうぅ～……！\r\nちょーっと悔しすぎマスネ～……！",
-            "enText": "Uhhhhhhhh～……! A little too frustrating～……!",
+            "enText": "Urgh... That don't mean I gotta like it!",
             "nextBlock": 49,
             "origClipLength": 62,
+            "voiceIdx": 18,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -3678283363040008319
-                },
                 {
                     "origLen": 73,
                     "pathId": -7570798236798844480
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -3678283363040008319
                 }
             ],
             "pathId": -2916192545419444057,
@@ -1070,17 +1167,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オーケー！！\r\nワタシもう1回お買い物してきマス！！",
-            "enText": "Okay! I'm going shopping one more time!",
+            "enText": "Okay, here's what we're gonna do! We're<n>gonna\nkeep on shoppin' till we get<n>another ticket!",
             "nextBlock": 50,
             "origClipLength": 61,
+            "voiceIdx": 16,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 29,
-                    "pathId": 7356833438271738025
-                },
                 {
                     "origLen": 72,
                     "pathId": 1528087959163413868
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 7356833438271738025
                 }
             ],
             "pathId": 5536066515631154224,
@@ -1090,17 +1189,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "マネー的には厳しいですが、1等賞……、\r\nいえ、せめて2等賞を……！！",
-            "enText": "Money-wise, it's tough, but first prize…… \nno, at least second prize ……!",
+            "enText": "It won't be cheap, but I need that<n>grand-prize...\nHeck, I'll even make do<n>with first or second!",
             "nextBlock": 51,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -3493813757582109884
-                },
                 {
                     "origLen": 78,
                     "pathId": -834151681525460851
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -3493813757582109884
                 }
             ],
             "pathId": -6632968992783138816,
@@ -1110,17 +1211,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "福引に燃える彼女をなんとか説得し、\r\n半ば引きずるように帰路についたのだった。",
-            "enText": "I managed to persuade her, who was \nburning for a good luck draw, and \nwe half-dragged her home.",
+            "enText": "I talk Taiki Shuttle out of her raffle<n>fervor and\nhalf drag her back to the<n>academy.",
             "nextBlock": -1,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 81,
-                    "pathId": -7757668230437772120
+                    "pathId": 7304761476338017441
                 },
                 {
                     "origLen": 81,
-                    "pathId": 7304761476338017441
+                    "pathId": -7757668230437772120
                 }
             ],
             "pathId": 4927817729510104743,
@@ -1128,19 +1231,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "残念、はずれ！\r\n参加賞は『ティッシュ』だよ～。",
-            "enText": "Too bad! The participation prize is \"tissues\"!",
+            "enText": "Ohhh, tough luck! Looks like you pulled<n>a blank\none! Take this pack of tissues as<n>a consolation\nprize.",
             "nextBlock": 53,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 104,
-                    "pathId": -7104309534232568753
-                },
                 {
                     "origLen": 105,
                     "pathId": 6475478959114959135
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7104309534232568753
                 }
             ],
             "pathId": -2790389012734259584,
@@ -1150,23 +1255,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 54,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 104,
-                    "pathId": 654427858717852351
-                },
-                {
                     "origLen": 105,
                     "pathId": 2614715418505219041
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 654427858717852351
                 }
             ],
             "pathId": 5970963772784160431,
@@ -1176,17 +1283,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オウ……シビア……。\r\n現実はスイートじゃないデスネ……。",
-            "enText": "Oh…… severe…… Reality is not sweet desne ……",
+            "enText": "Oof... This raffle's pretty rough. I guess<n>life ain't\nall sunshine and rainbows, huh?",
             "nextBlock": 55,
             "origClipLength": 63,
+            "voiceIdx": 17,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -6758191159872165264
-                },
                 {
                     "origLen": 74,
                     "pathId": -1367882468943713085
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -6758191159872165264
                 }
             ],
             "pathId": -2056537614831916872,
@@ -1196,17 +1305,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "これが……福引のセンレイ……。",
-            "enText": "This is the…… good luck senrei ……",
+            "enText": "So this is how my first raffle ends...",
             "nextBlock": 56,
             "origClipLength": 54,
+            "voiceIdx": 60,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -3079902977235028557
-                },
                 {
                     "origLen": 65,
                     "pathId": 7129803720470324268
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3079902977235028557
                 }
             ],
             "pathId": -1500070987275643315,
@@ -1216,9 +1327,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "タイキシャトルと一緒になって、\r\nがっくり落ち込んだ……。",
-            "enText": "I got together with the Taikishattle and was \nvery depressed. ……",
+            "enText": "I join Taiki Shuttle in her<n>disappointment...",
             "nextBlock": -1,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 87,
@@ -1226,16 +1339,15 @@
                 },
                 {
                     "origLen": 74,
-                    "pathId": 1957158983995465835
+                    "pathId": -7463577484937282932
                 },
                 {
                     "origLen": 74,
-                    "pathId": -7463577484937282932
+                    "pathId": 1957158983995465835
                 }
             ],
             "pathId": -6767844435486253370,
             "blockIdx": 56
         }
-    ],
-    "modified": 1657555248
+    ]
 }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "IRAZP6B5NDWQ4AKK5YJI4K74L2C7KUKT",
+    "version": 6,
+    "bundle": "4GPINBIMU7AOOLVAEFJX7RDWMHK2LAYA",
     "type": "story",
     "storyId": "501010712",
     "title": "不在の理由は……",
+    "enTitle": "Slacking Off",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニングに来なかった\r\nタイキシャトルを探していると――",
-            "enText": "They're looking for a taikishattle that \ndidn't show up for training―",
+            "enText": "I go looking for Taiki Shuttle, who has<n>yet to turn\nup for training...",
             "nextBlock": 2,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5226626210591807977,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさん～！　見つけマシタ～！\r\nさあ、ダッシュで行きますヨ～！",
-            "enText": "Trainer! I found it! Let's dash for it!",
+            "enText": "There ya are, Trainer! Finally! C'mon,<n>let's go!",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "こっちも探してたよ！",
-                    "enText": "I've been looking for you too!",
+                    "enText": "I've been looking all over for you!",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
                     "origLen": 78,
-                    "pathId": 4897302786777710428
+                    "pathId": 5447892723889706908
                 },
                 {
                     "origLen": 78,
-                    "pathId": 5447892723889706908
+                    "pathId": 4897302786777710428
                 }
             ],
             "pathId": 8661024666710858092,
@@ -46,17 +51,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オォ～！！　イッツ・テレパシー！？\r\nアハ～ンの呼吸ってヤツですネ！",
-            "enText": "OH!!! It's telepathy! It's \ncalled \"aha～n\" breathing!",
+            "enText": "Whoa! Is this that telepathy thing? Our<n>hearts\nmust be beatin' to the same drum<n>or something!",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 2902147281857303650
-                },
                 {
                     "origLen": 78,
                     "pathId": 1967011531614447557
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2902147281857303650
                 }
             ],
             "pathId": -3096817000639723953,
@@ -66,17 +73,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "では一緒にゴールへと向かいまショウ！",
-            "enText": "Now let's head for the goal together!",
+            "enText": "Anyhoo, let's get to the finish line!",
             "nextBlock": 5,
             "origClipLength": 56,
+            "voiceIdx": 10,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -3690203324034064836
-                },
                 {
                     "origLen": 67,
                     "pathId": -6936876434346815617
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3690203324034064836
                 }
             ],
             "pathId": -7863186384304335144,
@@ -86,24 +95,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ヒァウィー……ゴォーーっ！！",
-            "enText": "Hiawwy…… goooooo!!!!",
+            "enText": "C'mon, slowpoke!",
             "nextBlock": 6,
             "origClipLength": 84,
+            "voiceIdx": 97,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "……えー！？",
-                    "enText": "…… Eh!",
+                    "enText": "Huh?!",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 6049221386226779952
+                    "pathId": 3417800705170169702
                 },
                 {
                     "origLen": 58,
-                    "pathId": 3417800705170169702
+                    "pathId": 6049221386226779952
                 }
             ],
             "pathId": 5476556194267944708,
@@ -113,27 +124,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして駆け出してしまった\r\n彼女の後を追いかけ……。",
-            "enText": "Then she ran off, and I followed her to ……",
+            "enText": "Taiki goes speeding off, leaving me no<n>choice but\nto chase after her...",
             "nextBlock": 7,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3904503401971521629,
             "blockIdx": 6
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "わーっ！　タイちゃんすごーいっ！\r\nまた1位だーっ！",
-            "enText": "Wow! Ty, that's great! Another first place!",
+            "enText": "Whoa, Taiki's amazing! She's first again!",
             "nextBlock": 8,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 168,
-                    "pathId": -2339534874849633030
-                },
                 {
                     "origLen": 172,
                     "pathId": -8968716847733923458
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -2339534874849633030
                 }
             ],
             "pathId": 5025213484124949707,
@@ -143,29 +158,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フッフ～ン、任せてクダサイ！\r\n借り物競走でもワタシ、負けマセーン！",
-            "enText": "I'll take care of it! I won't lose in a \nscavenger hunt!",
+            "enText": "Heh-heh. You can bet your bottom<n>dollar on that!\nScavenger hunt or what—I<n>ain't fixin' to lose!",
             "nextBlock": 9,
             "origClipLength": 67,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "練習をサボって遊んでたわけか……！",
-                    "enText": "So you skipped practice to play. ……!",
+                    "enText": "Playing hooky for a game, are we?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "練習をサボって遊んでたわけね……！",
-                    "enText": "So you skipped practice to play. ……!",
+                    "enText": "Playing hooky for a game, are we?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 38,
-                    "pathId": -8795908047459671595
-                },
-                {
                     "origLen": 78,
                     "pathId": 8300865516811382197
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8795908047459671595
                 }
             ],
             "pathId": -7699288924538556575,
@@ -175,17 +192,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハワッ！？　トレーナーさん！？\r\n顔怖いデス！",
-            "enText": "Howah! Trainer! Your face is scary!",
+            "enText": "Yikes! You look madder than a wet hen!",
             "nextBlock": 10,
             "origClipLength": 60,
+            "voiceIdx": 28,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -589929205299887159
-                },
                 {
                     "origLen": 71,
                     "pathId": -6430627245791070050
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -589929205299887159
                 }
             ],
             "pathId": -6460456544614994272,
@@ -195,17 +214,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あ、遊びでも勝負ですヨ？\r\nだから勝ちたいって気持ちが……ネ？",
-            "enText": "Oh, even if it's for fun, it's still a game, \nright? That's why I want to win.…… ne?",
+            "enText": "But game or not, it's a competition, and I<n>play to\nwin!",
             "nextBlock": 11,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": 2626054522836979194
-                },
                 {
                     "origLen": 76,
                     "pathId": -3525969887868673140
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 2626054522836979194
                 }
             ],
             "pathId": 500792065764158379,
@@ -215,17 +236,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "――なお、タイキシャトルの借り物競走の\r\nお題は『お世話になってる人』だったらしい。",
-            "enText": "―The theme of the scavenger hunt \nfor the TAIKISHUTTLE was \"People \nwho are indebted to you.",
+            "enText": "Apparently, Taiki was tasked with<n>finding\nsomeone really reliable for her<n>scavenger hunt.",
             "nextBlock": 12,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -7590720414497032143
-                },
                 {
                     "origLen": 83,
                     "pathId": 4538346923850329412
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -7590720414497032143
                 }
             ],
             "pathId": 1644418625335061576,
@@ -235,22 +258,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "……ほんの少しだけ、\r\nお説教時間は短くすることにした。",
-            "enText": "I decided to shorten the sermon \ntime…… just a little bit.",
+            "enText": "...I suppose I don't need to scold her for<n><i>that</i>\nlong.",
             "nextBlock": -1,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -1871275536072232727
+                    "pathId": -3836200004059185463
                 },
                 {
                     "origLen": 74,
-                    "pathId": -3836200004059185463
+                    "pathId": -1871275536072232727
                 }
             ],
             "pathId": 6120188296704627465,
             "blockIdx": 12
         }
-    ],
-    "modified": 1657555055
+    ]
 }

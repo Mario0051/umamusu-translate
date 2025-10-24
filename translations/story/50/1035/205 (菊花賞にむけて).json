@@ -1,27 +1,32 @@
 {
-    "version": 5,
-    "bundle": "UACHWGIYFQEFWONZYTY7BFLDAO6DLQAH",
+    "version": 6,
+    "bundle": "BARSYLVPQQ7H6R75AFHPXFTMRP526STE",
     "type": "story",
     "storyId": "501035205",
     "title": "菊花賞にむけて",
+    "enTitle": "Before the Kikuka Sho",
     "text": [
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "ダービーはすごかったよな～！！\r\nBNWのガチ対決！！",
-            "enText": "That derby was awesome!!!! BNW stiffs!!!",
+            "enText": "Man, remember the Derby? That<n>showdown\nbetween BNW was amazing!",
             "nextBlock": 2,
             "origClipLength": 125,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4900464869052041871,
             "blockIdx": 1
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "『菊花賞』は3人とも、もっとパワーアップ\r\nしてそう！　楽しみだなぁ～！",
-            "enText": "I'm sure all three of them will \nbe more powerful in \"Kikka-sho\"! \nI'm looking forward to it!",
+            "enText": "I bet all three of them have gotten even<n>stronger\nfor the Kikuka Sho! It's gonna<n>be so incredible!",
             "nextBlock": 3,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1980722248342693794,
             "blockIdx": 2
         },
@@ -29,17 +34,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "みんなのワクワクが控室まで\r\n伝わってくるなぁ～～～ッ！",
-            "enText": "I can feel everyone's excitement in the \nwaiting room～～～!",
+            "enText": "Wow, I can sense everyone's excitement<n>even\nfrom the waiting room!",
             "nextBlock": 4,
             "origClipLength": 81,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 153,
-                    "pathId": 1815985598171777181
-                },
                 {
                     "origLen": 168,
                     "pathId": 3180716846570097829
+                },
+                {
+                    "origLen": 153,
+                    "pathId": 1815985598171777181
                 }
             ],
             "pathId": 8082590573366595824,
@@ -49,17 +56,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "タイシンとハヤヒデもいるし、\r\nダービーみたいに盛り上がること間違いなし！",
-            "enText": "With Taishin and Hayahide in the mix, it's \nsure to be as exciting as the Derby!",
+            "enText": "Taishin and Hayahide will be here too,<n>so it's\ngonna be just as great as the<n>Derby!",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": 5733012606358338295
-                },
                 {
                     "origLen": 104,
                     "pathId": -4089099673578597369
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 5733012606358338295
                 }
             ],
             "pathId": 1352790172191504168,
@@ -69,9 +78,11 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "熱いレースになるように、\r\nがんばって走らなくっちゃ！",
-            "enText": "We must do our best to make this a hot race!",
+            "enText": "I have to run a race that fires everyone<n>up!",
             "nextBlock": 6,
             "origClipLength": 80,
+            "voiceIdx": 5,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "全力で行ってこい！",
@@ -80,18 +91,18 @@
                 },
                 {
                     "jpText": "全力で行っておいで！",
-                    "enText": "Go ahead and go all out!",
+                    "enText": "Go all out!",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 44,
-                    "pathId": -4570375876885326931
-                },
-                {
                     "origLen": 91,
                     "pathId": -4640435977615078267
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -4570375876885326931
                 }
             ],
             "pathId": 6802200941956817239,
@@ -101,17 +112,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うんっ、任せといて！",
-            "enText": "Yeah, leave it to me!",
+            "enText": "Yeah, just leave it to me!",
             "nextBlock": 7,
             "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -3102311999519301251
-                },
                 {
                     "origLen": 69,
                     "pathId": 5027498981866944504
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3102311999519301251
                 }
             ],
             "pathId": -6205263014069094357,
@@ -121,22 +134,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "ダービーに次いで、観客の心を震わせる\r\nレースとなるか――『菊花賞』が始まる！",
-            "enText": "Will this be the second race after \nthe Derby that will make the hearts \nof the spectators tremble?",
+            "enText": "Will this race set the fans' hearts alight<n>like the\nDerby before it? We'll know<n>soon enough,\nbecause the Kikuka Sho is<n>about to begin!",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
-                    "pathId": 3701343852193844067
+                    "pathId": 8366714901114162995
                 },
                 {
                     "origLen": 106,
-                    "pathId": 8366714901114162995
+                    "pathId": 3701343852193844067
                 }
             ],
             "pathId": 8391886436755568746,
             "blockIdx": 7
         }
-    ],
-    "modified": 1657555059
+    ]
 }

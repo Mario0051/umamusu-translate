@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "RCMVCOVF5UJAF3XKB6F6ZFI7VQHCRC7L",
+    "version": 6,
+    "bundle": "QNO7UNLTS6X3J7HVADE32Z7W2V2KLI5H",
     "type": "story",
     "storyId": "400000101",
     "title": "URAファイナルズ予選にむけて",
+    "enTitle": "Before the URA Finale Qualifier",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『URAファイナルズ』。各ウマ娘たちが\n最適の条件で、頂点を競うレース。",
-            "enText": "URA Finals. The race in which each\nhorse girl is in peak condition,\ncompeting for the top.",
+            "enText": "The URA Finale is a stage upon which all<n>\nUmamusume can shine.",
             "nextBlock": 2,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -9119911071934121128
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3690075015228457050
+                }
+            ],
             "pathId": -6769692671537544133,
             "blockIdx": 1
         },
@@ -18,31 +32,70 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "いよいよ、その予選が始まる。",
-            "enText": "Its qualifying round\nwas about to begin.",
+            "enText": "At long last, the day of the preliminaries<n>has\narrived.",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 1806947810239464354
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5624666195808000576
+                }
+            ],
             "pathId": 7265057657789796643,
             "blockIdx": 2
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "トレーナーさん、<chrname>さんの\nお見送りお疲れ様です。",
-            "enText": "Thank you, trainer, for\nseeing <chrname> here.",
+            "enText": "Trainer, thank you for seeing<n>\n<chrname> off.",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "voiceIdx": 62,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -655284574494693449
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -4859082224453123689
+                }
+            ],
             "pathId": 6361413474297559790,
             "blockIdx": 3
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "ついに、ここまで来ましたね。\n私もお2人のいちファンとして、嬉しいです。",
-            "enText": "At last, you have come this far. As a fan of\nboth of you, I'm happy.",
+            "enText": "You've finally made it this far. As a fan,<n>I'm\nelated.",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "voiceIdx": 5,
+            "voiceSheetId": "059001001",
             "choices": [
                 {
                     "jpText": "最高のレースにしてみせます！",
-                    "enText": "I'm going to make this the best race ever!",
+                    "enText": "We'll make it one for the history books!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 2480283431350294530
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4634527943852247248
                 }
             ],
             "pathId": -2091853976295456733,
@@ -50,10 +103,23 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "ふふふっ、ええ。\n楽しみにしていますね！",
-            "enText": "Hehehe, yes. I'm looking forward to it!",
+            "enText": "Heheheh, I've no doubt. I'm looking<n>forward to\nthe race!",
             "nextBlock": 6,
+            "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7133539071915762418
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -4964911603075069361
+                }
+            ],
             "pathId": 4485161507708800764,
             "blockIdx": 5
         },
@@ -61,12 +127,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『URAファイナルズ』――\n予選のゲートが、ついに開く！",
-            "enText": "The gates of the URA Finals\nare finally open!",
+            "enText": "The gates will fly open any minute now...<n>URA\nFinale, here we come!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -7012586331622812505
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -2656197876092447499
+                }
+            ],
             "pathId": -973675195474153587,
             "blockIdx": 6
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

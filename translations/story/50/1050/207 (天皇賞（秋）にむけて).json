@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "L3O7D7UUGMKQ4EWPWPRBNYCS3OTRZQRB",
+    "version": 6,
+    "bundle": "GVQQMBVDK7HQ6KSS52F5L6ISUSL4ZHHU",
     "type": "story",
     "storyId": "501050207",
     "title": "天皇賞（秋）にむけて",
+    "enTitle": "Before the Tenno Sho (Autumn)",
     "text": [
         {
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……さて、行くかな。",
-            "enText": "… Well, let's go.",
+            "enText": "Okay, I think I'll get going.",
             "nextBlock": 2,
+            "origClipLength": 58,
+            "voiceIdx": 5,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "2人と何か話したか？",
-                    "enText": "Did you talk to the two of \nthem about anything?",
+                    "enText": "What did you three talk about?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "2人と何か話した？",
-                    "enText": "Did you talk to the two of \nthem about anything?",
+                    "enText": "What did you three talk about?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 3311655636431767247
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2663705168905862899
                 }
             ],
             "pathId": -3197143226437289052,
@@ -30,8 +44,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "別に？　何も。一昨日あたり、\nごはん食べたのが最後じゃない？",
-            "enText": "Nothing? Nothing. You had lunch the day \nbefore yesterday, right?",
+            "enText": "Nothing important. I think the last time<n>we met\nwas when we ate together a<n>couple of days ago.",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2013192269899894404
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4060730675456325215
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8294069376674471538
+                }
+            ],
             "pathId": -8760784399602071314,
             "blockIdx": 2
         },
@@ -39,8 +70,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "そのときも、特別な事は何も話さなかったよ。",
-            "enText": "Even then, we didn't talk \nabout anything special.",
+            "enText": "We didn't talk about anything special<n>then either.",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 1168098499509320682
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8899414581878557835
+                }
+            ],
             "pathId": -6934213492174551722,
             "blockIdx": 3
         },
@@ -48,8 +92,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "チケットのテストがやばいとか、\nハヤヒデがまたブライアンにうざがられてる\nとか、そんなん。",
-            "enText": "The ticket test is in trouble, Hayahide \nis being bugged by Bryan again, \nthat sort of thing.",
+            "enText": "Just how awful Ticket's test scores were<n>and how\nannoyed Hayahide was with<n>Brian. Y'know, that\nkinda stuff.",
             "nextBlock": 5,
+            "origClipLength": 103,
+            "voiceIdx": 79,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 3237397683049020851
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7127564367216915459
+                }
+            ],
             "pathId": -3190540993905391381,
             "blockIdx": 4
         },
@@ -57,8 +114,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……でもいいよ、それで。\nアタシ、そもそも話すのって苦手だし。",
-            "enText": "You can go to… that's fine. I'm not \ngood at talking in the first place.",
+            "enText": "But I'm fine with that. I've never been<n>good at\nmaking conversation anyway.",
             "nextBlock": 6,
+            "origClipLength": 85,
+            "voiceIdx": 86,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 2516389302482699686
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5753562892077761264
+                }
+            ],
             "pathId": 2131662549639797424,
             "blockIdx": 5
         },
@@ -66,18 +136,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "レースの方が、いい。",
-            "enText": "Race is better.",
+            "enText": "I prefer to race.",
             "nextBlock": 7,
+            "origClipLength": 58,
+            "voiceIdx": 2,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "そうか……！",
-                    "enText": "Well…!",
+                    "enText": "Interesting!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "そっか……！",
-                    "enText": "I see…!",
+                    "enText": "Interesting!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6504731457606093869
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 3882394181181581939
                 }
             ],
             "pathId": -8869238783752770023,
@@ -87,8 +170,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ん。じゃあ……行ってくる。",
-            "enText": "Hmm. I'm going to go to… then.",
+            "enText": "Anyway, later.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": 137,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8231672343334728556
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4955405067941319350
+                }
+            ],
             "pathId": 4646620558298023458,
             "blockIdx": 7
         }

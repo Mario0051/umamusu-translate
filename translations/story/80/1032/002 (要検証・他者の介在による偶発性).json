@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "CCQ372OZVSQHKZ4UVADWVLINHPDBMUJE",
+    "version": 6,
+    "bundle": "QCNOOOQB7AEBM6CP3GRQH7TJ6TZ5HT65",
     "type": "story",
     "storyId": "801032002",
     "title": "要検証・他者の介在による偶発性",
+    "enTitle": "Happenstance Introduced Through\\nIntervention",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、トレーニングコースで――",
-            "enText": "One day, on a training course—",
+            "enText": "One day at the training track...",
             "nextBlock": 2,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4176166690993384175,
             "blockIdx": 1
         },
@@ -18,8 +22,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "今日のトレーニングプランは……。\nふむ、天候は曇り、か。",
-            "enText": "Today's training plan is available \nat … Hmm, cloudy weather.",
+            "enText": "What should I do for training today?<n>Hm,\nconsidering the skies are cloudy...",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1231174957682114764
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 3493195623552450419
+                }
+            ],
             "pathId": 7900406538299169247,
             "blockIdx": 2
         },
@@ -27,8 +44,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "……頃合いだな。\r\nよし、そこの君に意見を求めよう！",
-            "enText": "It's about time… OK, I'll ask \nyou there for your opinion!",
+            "enText": "What good timing. You there! I'd like<n>your input\non something!",
             "nextBlock": 4,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -5263115343198802471
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -6958075347643688907
+                }
+            ],
             "pathId": -426477779300927786,
             "blockIdx": 3
         },
@@ -36,18 +66,31 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "新たな走法の研究と、瞬時の判断。\n今日の君はどちらを重視する？",
-            "enText": "Researching a new running technique or \nmaking a quick decision. Which is more \nimportant to you today?",
+            "enText": "What will you be focusing on today?<n>Researching\na new running style, or<n>quick decision-making?",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "voiceIdx": 52,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "走法",
-                    "enText": "running style",
+                    "enText": "A running style.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "判断力",
-                    "enText": "Judgement",
+                    "enText": "Decision-making.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 552080960699959606
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 8652285367464028996
                 }
             ],
             "pathId": 8937782755144913879,
@@ -57,8 +100,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "うんうん、いい答えだ！\r\nウマ娘の走行技術は、常に進歩している。",
-            "enText": "Yeah, yeah, that's a good answer! \nUma Musume's driving technology \nis constantly improving.",
+            "enText": "Yes, an excellent choice! The running<n>techniques\nof Umamusume are always<n>improving.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 5,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2489025556177381477
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8407814253814162321
+                }
+            ],
             "pathId": -6720467793764585600,
             "blockIdx": 5
         },
@@ -66,8 +122,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "なるほど、レースは一瞬の判断が命取り。\r\n思考の速さは確かに重要だ。",
-            "enText": "Well, racing is all about split-second \ndecisions. Speed of thought is \ncertainly important.",
+            "enText": "I see. The success or failure of a race<n>hinges on\nsplit-second decisions, which<n>makes the speed of\none's thinking<n>important indeed.",
             "nextBlock": 7,
+            "origClipLength": 67,
+            "voiceIdx": 9,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3598433023064247349
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 8131245310056150940
+                }
+            ],
             "pathId": 9048691980039083231,
             "blockIdx": 6
         },
@@ -75,8 +144,11 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "よし、参考にしよう。この偶然、\nいかなる結果をもたらすかな？",
-            "enText": "Okay, let's see. What will be the \nresult of this coincidence?",
+            "enText": "I shall take that into consideration. I<n>wonder what\nresults will come of this<n>chance meeting.",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "voiceIdx": 11,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "なぜ俺に聞いたんだ？",
@@ -89,6 +161,20 @@
                     "nextBlock": 8
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 2047895028883536004
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1651567559596659810
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 8419656949807359927
+                }
+            ],
             "pathId": 4104537761915045307,
             "blockIdx": 7
         },
@@ -96,8 +182,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ハハハッ、いい質問だ！",
-            "enText": "Hahaha, good question!",
+            "enText": "Hahaha! A magnificent question!",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "voiceIdx": 61,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 8068873064313388176
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -1745111306624260791
+                }
+            ],
             "pathId": 5015692200446532166,
             "blockIdx": 8
         },
@@ -105,8 +204,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "偶発性、セレンディピティは\r\n研究において無視できない要素だろう？",
-            "enText": "Contingency and serendipity are not \nnegligible factors in research, are they?",
+            "enText": "Happenstance and serendipity are<n>factors that\ncannot be ignored in<n>research.",
             "nextBlock": 10,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -308504588263309875
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -4185613410714356129
+                }
+            ],
             "pathId": -2399104997829390463,
             "blockIdx": 9
         },
@@ -114,8 +226,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "だから、曇りと君、2つの偶発的な\r\n『まぎれ』を利用させてもらったのさ。",
-            "enText": "That's why I took advantage of two \naccidental 'blips': cloudiness and you.",
+            "enText": "That is why I took advantage of two<n>chance\noccurrences—you and the cloudy<n>skies.",
             "nextBlock": 11,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 3873877874389711305
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 7774370339388528475
+                }
+            ],
             "pathId": -8323012694727485867,
             "blockIdx": 10
         },
@@ -123,8 +248,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "君も、偶発性を大事にしてマンネリズムを\n防ぐといい！　それは真理への道だ！",
-            "enText": "You, too, should value contingency and avoid \nmannerism! It's the way to the truth!",
+            "enText": "You too should embrace happenstance<n>to avoid\nfalling into a rut! Doing so is the<n>path to truth!",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": 1,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1311558377712757832
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4100457639507011633
+                }
+            ],
             "pathId": 1274496925478158887,
             "blockIdx": 11
         }

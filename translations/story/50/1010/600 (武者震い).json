@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "KILZ5KZA65PW3KXSVXB5VOBOF7ZM25K4",
+    "version": 6,
+    "bundle": "EOOADIHPRMQI4QXMAADHRD2OLH7CDZTB",
     "type": "story",
     "storyId": "501010600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "レース前、タイキシャトルの\r\n様子を見に来たところ……。",
-            "enText": "Before the race, I just came to check on the \nTaiki Shuttle at ……",
+            "enText": "I go looking for Taiki Shuttle to see how<n>she's\ndoing before the race...",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 134,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 74,
-                    "pathId": -8722332102747127208
+                    "pathId": 8117982045114483436
                 },
                 {
                     "origLen": 74,
-                    "pathId": 8117982045114483436
+                    "pathId": -8722332102747127208
                 }
             ],
             "pathId": 2874144413251334217,
@@ -33,9 +36,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "OK. On the 4th corner,\r\nI'll gear up...and――",
-            "enText": "OK。第4コーナーでギアを上げて…そして…",
+            "enText": "Okay. On the fourth corner, I'll kick it<n>into high\ngear, and...",
             "nextBlock": 3,
             "origClipLength": 73,
+            "voiceIdx": 15,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 134,
@@ -43,11 +48,11 @@
                 },
                 {
                     "origLen": 84,
-                    "pathId": -7128444076311518584
+                    "pathId": 8866649503453216632
                 },
                 {
                     "origLen": 84,
-                    "pathId": 8866649503453216632
+                    "pathId": -7128444076311518584
                 }
             ],
             "pathId": -4399338064983922734,
@@ -57,13 +62,15 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "――オウ、トレーナーさん！\r\nもうっ、お部屋に入ったらゴアイサツですヨ！",
-            "enText": "―Ow, trainer! Oh, my God, if you go in the \nroom, you're a goaissatu!",
+            "enText": "Oh, hey there, Trainer! You gotta say<n>somethin'\nwhen you come in!",
             "nextBlock": 4,
             "origClipLength": 68,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "ごめん、集中してたみたいだったから",
-                    "enText": "I'm sorry. You seemed so focused.",
+                    "enText": "Sorry, it looked like you were focusing.",
                     "nextBlock": 4
                 }
             ],
@@ -73,12 +80,12 @@
                     "pathId": -3791822235603656697
                 },
                 {
-                    "origLen": 32,
-                    "pathId": 6460509222945944974
-                },
-                {
                     "origLen": 79,
                     "pathId": -925588743319846522
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 6460509222945944974
                 }
             ],
             "pathId": -6369318286954049482,
@@ -88,17 +95,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、オフコース！\r\nカウガールは、決闘の前に集中するものデス！",
-            "enText": "Pfft, off course! Cowgirls are supposed to be \nfocused before a duel!",
+            "enText": "Hehe, 'course I was! A real cowgirl knows<n>ya gotta\nget in the zone before a<n>showdown!",
             "nextBlock": 5,
             "origClipLength": 66,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 4720044228251220548
-                },
                 {
                     "origLen": 77,
                     "pathId": 5430504869602103939
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 4720044228251220548
                 }
             ],
             "pathId": 9166146760379924832,
@@ -108,22 +117,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "テキサス仕込みのクイックドロウ、\r\nターフの上でもお見せしマスネ！！",
-            "enText": "I'll show you my Texas quick-draw \non the turf, too!",
+            "enText": "I'm gonna show ya a true Texan quick<n>draw out\nthere on the turf!",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -1312534869887667543
-                },
                 {
                     "origLen": 78,
                     "pathId": 5569839192875271365
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -1312534869887667543
                 }
             ],
             "pathId": 5252570432222448071,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555055
+    ]
 }

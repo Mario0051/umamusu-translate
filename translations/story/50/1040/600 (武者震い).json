@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "PJPI7M5H52YSTXWVGOW3QO6AJNIRUTNA",
+    "version": 6,
+    "bundle": "RMXMO7K4JSPI6THDQVAAHINI4QWCBCAR",
     "type": "story",
     "storyId": "501040600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "すっごい熱気……\r\nファッションショーの時以上じゃん。",
-            "enText": "That's a lot of heat… It's \nmore than at a fashion show.",
+            "enText": "Wow. It's more packed here than at my<n>fashion\nshows.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "みんな君の走りを観に来ている",
-                    "enText": "Everyone is here to watch you run.",
+                    "enText": "Everyone is here to see you run.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "みんな貴方の走りを観に来ている",
-                    "enText": "Everyone is here to watch you run.",
+                    "enText": "Everyone is here to see you run.",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -7304509424992159170
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3866749530033527173
                 }
             ],
             "pathId": 6698598363124056693,
@@ -30,8 +44,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アタシの走り、か……。",
-            "enText": "Atashi's Run, or…",
+            "enText": "You think so?",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "voiceIdx": 9,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -7776379790120572802
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -2012669691346289932
+                }
+            ],
             "pathId": -486014784186623641,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……ダサい走り、できないし。\r\nこっからは上げてかないと。",
-            "enText": "… lame run, and I can't do it. \nI have to raise it from here.",
+            "enText": "Then I can't be looking tacky out there.<n>I'll have\nto spruce up my form.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "voiceIdx": 10,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -7092978809544772398
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -4112000194349918116
+                }
+            ],
             "pathId": -6885308128076163826,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "このランウェイ、\r\n全力で駆け抜ける……！",
-            "enText": "I'm going to run as fast as I \ncan on this runway…!",
+            "enText": "I'm going to give it my all on this runway!",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "voiceIdx": 62,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 5364441450566302578
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -779190981938759515
+                }
+            ],
             "pathId": 1124793369815692056,
             "blockIdx": 4
         }

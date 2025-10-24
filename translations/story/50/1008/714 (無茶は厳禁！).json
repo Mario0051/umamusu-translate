@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "CW7MTEH26DHKJCR5K655X2UZMZWEQ2WJ",
+    "version": 6,
+    "bundle": "ZAEQY4MH7CUEEEPAPK5MIN3HV4G7WDHC",
     "type": "story",
     "storyId": "501008714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ちっ、こんなケガ大したことねぇのに\r\nしばらく安静してろとかよぉ。",
-            "enText": "Damn, I'm supposed to rest for a while when \nmy injury is not that serious.",
+            "enText": "Tch. I keep sayin' this injury's no big<n>deal, but\nthey won't stop tellin' me to<n>rest.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "voiceIdx": 60,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7113632670482445972
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8563748230145374686
+                }
+            ],
             "pathId": -1921682155453785314,
             "blockIdx": 1
         },
@@ -18,28 +32,41 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "体がなまって、\r\nエンジンも錆びついちまうじゃねぇか……。",
-            "enText": "Your body will get rusty and your \nengine will get rusty…",
+            "enText": "Is my engine goin' rusty? Am I gettin'<n>weaker?",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "voiceIdx": 21,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "無理しないでくれ",
-                    "enText": "Take it easy, okay?",
+                    "enText": "You shouldn't push yourself too hard.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "無理しないで",
-                    "enText": "Take it easy.",
+                    "enText": "You shouldn't push yourself too hard.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "なら、エンジンふかそうか？",
-                    "enText": "So you want me to rev the engine?",
+                    "enText": "Let's just get that engine running clean again!",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "なら、エンジンふかす？",
-                    "enText": "So do you want to rev the engine?",
+                    "enText": "Let's just get that engine running clean again!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3757349119846129802
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 3111490761222251103
                 }
             ],
             "pathId": -2225027161493281792,
@@ -49,28 +76,41 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "体がなまって、\r\nエンジンも錆びついちまうじゃねぇか……。",
-            "enText": "Your body will get rusty and your \nengine will get rusty…",
+            "enText": "Is my engine goin' rusty? Am I gettin'<n>weaker?",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "voiceIdx": 21,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "無理しないでくれ",
-                    "enText": "Take it easy, okay?",
+                    "enText": "You shouldn't push yourself too hard.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "無理しないで",
-                    "enText": "Take it easy.",
+                    "enText": "You shouldn't push yourself too hard.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "なら、エンジンふかそうか？",
-                    "enText": "So you want me to rev the engine?",
+                    "enText": "Let's just get that engine running clean again!",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "なら、エンジンふかす？",
-                    "enText": "So do you want to rev the engine?",
+                    "enText": "Let's just get that engine running clean again!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 1707753677428868853
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 3334025615474496502
                 }
             ],
             "pathId": 3447298936296468838,
@@ -80,8 +120,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "すまねぇ、ライバルぶっ倒して、\r\nてっぺん取らねぇといけねーからよ。",
-            "enText": "I'm sorry, but I have to beat my \nrival and take the top spot.",
+            "enText": "Sorry, but I've got a rival to beat.<n>There's no rest\nwhen I'm tryin' to get to<n>the top.",
             "nextBlock": 5,
+            "origClipLength": 89,
+            "voiceIdx": 24,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 6662069596129590685
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5059187519641378314
+                }
+            ],
             "pathId": -3188481822370217522,
             "blockIdx": 4
         },
@@ -89,13 +142,30 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "こんなケガくらいじゃ立ち止まれねぇんだ。",
-            "enText": "I can't stop for an injury like this.",
+            "enText": "No little injury like this is gonna stop me.",
             "nextBlock": 6,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "壊れたバイクじゃ走れない",
-                    "enText": "You can't ride a broken bike.",
+                    "enText": "Broken motorcycles can't go anywhere, you\nknow?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6817264798030730991
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -7718893831996929927
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5290766508631019384
                 }
             ],
             "pathId": -3484603800867104462,
@@ -105,8 +175,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "う……。",
-            "enText": "U…",
+            "enText": "Urgh...",
             "nextBlock": 7,
+            "origClipLength": 50,
+            "voiceIdx": 108,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2104554616654530444
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 132195226998629645
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7193401347836585308
+                }
+            ],
             "pathId": 7667143179293782044,
             "blockIdx": 6
         },
@@ -114,8 +201,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……道の途中でエンストしちまったら、\r\n今以上にダセェよな。",
-            "enText": "If it stalled in the middle of \nthe… road, it would be even \nmore lame than it is now.",
+            "enText": "...I guess it'd be even lamer if I stalled<n>out in the\nmiddle of the road.",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "voiceIdx": 63,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -5758335541712252286
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 8900366945744743132
+                }
+            ],
             "pathId": 6837078005836745943,
             "blockIdx": 7
         },
@@ -123,8 +223,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "きちんと修理してから、出直すか……。",
-            "enText": "Fix it properly and then come back or…",
+            "enText": "I'll get back out there after some<n>maintenance.",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "voiceIdx": 60,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 8458438938324369297
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1931237218933280100
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -2263401378574032058
+                }
+            ],
             "pathId": -1360738091887529066,
             "blockIdx": 8
         },
@@ -132,8 +249,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "反省したウオッカは、\r\n早く復調できるよう休養に努めるのだった。",
-            "enText": "Vodka felt sorry for herself and tried to get \nsome rest so that she could recover quickly.",
+            "enText": "After reflecting on her condition, Vodka<n>agrees\nto focus on resting in order to<n>speed up her\nrecovery.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -6006538479465276680
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 2615789528460015977
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6203217067255761866
+                }
+            ],
             "pathId": 5171193928441946428,
             "blockIdx": 9
         },
@@ -141,8 +275,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おう、ブンブン回すぜー！",
-            "enText": "Oh, I'm buzzing!",
+            "enText": "All right! Time to go vroom 'round the<n>track!",
             "nextBlock": 11,
+            "origClipLength": 60,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 1762384798036054655
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 564898755455137593
+                }
+            ],
             "pathId": 341485935907646016,
             "blockIdx": 10
         },
@@ -150,8 +297,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "こんな情けねぇ姿、スカーレットにも\r\n見せらんねぇしよ。",
-            "enText": "I can't even show Scarlett \nthis pathetic figure.",
+            "enText": "I can't let Scarlet see me lookin' this<n>pathetic.",
             "nextBlock": 12,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -1700076300984498149
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1070579199146484011
+                }
+            ],
             "pathId": -5237285997277209670,
             "blockIdx": 11
         },
@@ -159,8 +319,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "無茶は承知でツッパらねぇとな！",
-            "enText": "I know I'm being reckless, \nbut I've got to push!",
+            "enText": "Might be askin' the impossible, but when<n>push\ncomes to shove, I gotta do what I<n>gotta do!",
             "nextBlock": 13,
+            "origClipLength": 64,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 5744087992976001380
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 4156157055810019539
+                }
+            ],
             "pathId": 7867736535326694451,
             "blockIdx": 12
         },
@@ -168,8 +341,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "そう言って、トレーニングを再開した\r\nウオッカだったが……。",
-            "enText": "After saying that, Vodka resumed \nher training…",
+            "enText": "Vodka says this and resumes her<n>training, but...",
             "nextBlock": 14,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -6014621765700358475
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -291570997228916021
+                }
+            ],
             "pathId": 1061078431922038718,
             "blockIdx": 13
         },
@@ -177,8 +363,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ッ……！　いててっ！",
-            "enText": "…! Ouch!",
+            "enText": "Ngh! Owww!",
             "nextBlock": 15,
+            "origClipLength": 58,
+            "voiceIdx": 109,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 6028728497891522158
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7469804899769499693
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -7521890261653195396
+                }
+            ],
             "pathId": 7780159472501944708,
             "blockIdx": 14
         },
@@ -186,8 +389,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "はぁ……いけると思ったんだけどな。\r\n正直、軽く流すだけでもきちぃ……。",
-            "enText": "I thought I could… do that. To be \nhonest, even a light flush is kii…",
+            "enText": "<i>Sigh...</i> I thought I could handle it, but<n>even just a\nlight jog is rough.",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "voiceIdx": 60,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3164830498672639228
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6963871905988045835
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -1452143880460094104
+                }
+            ],
             "pathId": 7196690965121548291,
             "blockIdx": 15
         },
@@ -195,8 +415,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "イキっておきながら、ほんと情けねぇぜ。\r\n笑えよ……。",
-            "enText": "It's really pathetic. Laugh it up…",
+            "enText": "Go ahead and laugh. I was all confident<n>earlier,\nbut now look.",
             "nextBlock": 17,
+            "origClipLength": 80,
+            "voiceIdx": 63,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -2668794677158615756
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2992860742702702163
+                }
+            ],
             "pathId": -5360809730275399470,
             "blockIdx": 16
         },
@@ -204,8 +437,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "無理をした挙句、気落ちもしたせいか、\r\nウオッカのケガの治癒は長引いて\nしまうのだった……。",
-            "enText": "Perhaps because I pushed myself too hard and \ngot discouraged, my vodka injury took a long \ntime to heal…",
+            "enText": "Having pushed herself past her limits,<n>and\nperhaps also due to the mental<n>slump\naccompanying it, Vodka has<n>wound up\nprolonging her recovery time.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -3865918899780299724
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 1301927843907787874
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5411083779434378105
+                }
+            ],
             "pathId": -659810078190301212,
             "blockIdx": 17
         },
@@ -213,8 +463,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "マジ！？　いいのか！？",
-            "enText": "Seriously! Are you sure?",
+            "enText": "Really?! Are you sure?!",
             "nextBlock": 19,
+            "origClipLength": 59,
+            "voiceIdx": 27,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -2722643698931022823
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2449044331637942227
+                }
+            ],
             "pathId": 7495835992939496255,
             "blockIdx": 18
         },
@@ -222,8 +485,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "じゃあ、そうさせてくれ……！",
-            "enText": "Then let me do that…!",
+            "enText": "All right, then! Say no more!",
             "nextBlock": 20,
+            "origClipLength": 63,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8327907700850047236
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -6150068908268913988
+                }
+            ],
             "pathId": -154795121016250022,
             "blockIdx": 19
         },
@@ -231,8 +507,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……っし。\r\nダッシュもう1本と行こうぜ、相棒！",
-            "enText": "… Let's go for another dash, buddy!",
+            "enText": "Time for one more sprint, partner!",
             "nextBlock": 21,
+            "origClipLength": 76,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 2876978109602929640
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2215891587744160990
+                }
+            ],
             "pathId": -9116338598081532334,
             "blockIdx": 20
         },
@@ -240,8 +529,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "俺のエンジンは特別なんだ。\r\nまだまだアツく疼いてやがる！",
-            "enText": "My engine is special. It's \nstill aching for more!",
+            "enText": "These engines are one of a kind! Rev 'em<n>up and\nthey spit fire!",
             "nextBlock": 22,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3756202469536012112
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1392961160155178415
+                }
+            ],
             "pathId": -7841343188772195746,
             "blockIdx": 21
         },
@@ -249,8 +551,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "見てろよ。他のヤツらがためらっちまって、\r\n足踏みするようなトコでも――",
-            "enText": "Watch me. Where others would \nhesitate and pause…",
+            "enText": "Just you watch. Everyone else'll be<n>cowed by my\nmight and I won't give 'em<n>a single inch!",
             "nextBlock": 23,
+            "origClipLength": 91,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6313538915969746475
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 3630005745216802621
+                }
+            ],
             "pathId": 5872759932340645739,
             "blockIdx": 22
         },
@@ -258,8 +573,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "この俺だけは！\r\nアクセル全開でブチ抜いてやるぜっ！！",
-            "enText": "It's just me! I'm gonna hit the \ngas pedal to the metal!",
+            "enText": "It'll be me and me only! Pedal to the<n>metal and\nleadin' the pack!",
             "nextBlock": 24,
+            "origClipLength": 80,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 56464205303923920
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -2390075234071770654
+                }
+            ],
             "pathId": 5705271170542942305,
             "blockIdx": 23
         },
@@ -267,8 +595,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "……ウオッカは、\r\n見事にトレーニングをやり切った！",
-            "enText": "… Vodka has done an excellent \njob of training!",
+            "enText": "Admirably, Vodka gets through her<n>training!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7381104052020237130
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -8824475961638958245
+                }
+            ],
             "pathId": 3096979331003609853,
             "blockIdx": 24
         }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "F27NL7BLR3TV7JOCNGQFWJBLZM63FF3E",
+    "version": 6,
+    "bundle": "OSX3QF6UU5JFQP6NA2UL6TDXDFWCJPLV",
     "type": "story",
     "storyId": "501020516",
     "title": "外でもくつろぎ上手？",
+    "enTitle": "I Can Unwind Outdoors Too",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、息抜きがてら公園にやって来ると――",
-            "enText": "One day, when I came to the park to relax…",
+            "enText": "One day, while relaxing at the park...",
             "nextBlock": 2,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4914633068637217933,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ふぁぁ～。\nのんびりしてて癒されるなぁ～……。",
-            "enText": "Whew! It's so relaxing and soothing. ……",
+            "enText": "<i>Yaaawn...</i> Nothing like some good R and<n>R to\nheal the soul.",
             "nextBlock": 3,
             "origClipLength": 87,
+            "voiceIdx": 62,
+            "voiceSheetId": "051020001",
             "pathId": -3350226916136618402,
             "blockIdx": 2
         },
@@ -29,18 +34,20 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ふふ、セイちゃんったら、\nお茶碗持ったまま寝ちゃいそう。",
-            "enText": "I think I'm going to fall asleep with a bowl \nin my hand, Sei-chan.",
+            "enText": "Hehe, you look like you're going to slip<n>off into\ndreamland with that teacup still<n>in hand, Sei.",
             "nextBlock": 4,
             "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "何をしてるんだ？",
-                    "enText": "What are you doing?",
+                    "enText": "What are you both up to?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "何をしてるの？",
-                    "enText": "What are you doing?",
+                    "enText": "What are you both up to?",
                     "nextBlock": 4
                 }
             ],
@@ -51,25 +58,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あ、トレーナーさん。これは野点って\n言ってね。野外でするお茶会なんだ。",
-            "enText": "Oh, trainer. This is called nodate. It's a \ntea ceremony held outdoors.",
+            "enText": "Oh hey, Trainer. We're just having an<n>outdoor tea\nceremony.",
             "nextBlock": 5,
             "origClipLength": 90,
+            "voiceIdx": 42,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 146,
-                    "pathId": -3305912390432435665
-                },
                 {
                     "origLen": 154,
                     "pathId": 1705865120268440274
                 },
                 {
-                    "origLen": 151,
-                    "pathId": 4600491162221701299
+                    "origLen": 146,
+                    "pathId": -3305912390432435665
                 },
                 {
                     "origLen": 143,
                     "pathId": 6744432401393752414
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 4600491162221701299
                 }
             ],
             "pathId": -4710912907497945387,
@@ -79,25 +88,27 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "よろしければ、一緒にいかがです？\r\n作法通りでなく楽にしていただいて\n構いませんから。",
-            "enText": "If you would like, you can join us. You are \nwelcome to do so without any formalities.",
+            "enText": "Would you like to join us? You needn't<n>worry\nabout following etiquette—just<n>enjoy yourself.",
             "nextBlock": 6,
             "origClipLength": 101,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -2993583597748952017
+                },
                 {
                     "origLen": 88,
                     "pathId": -6454591959313262239
                 },
                 {
                     "origLen": 112,
-                    "pathId": -2993583597748952017
+                    "pathId": 7888398269254795033
                 },
                 {
                     "origLen": 85,
                     "pathId": 6415769578650160598
-                },
-                {
-                    "origLen": 112,
-                    "pathId": 7888398269254795033
                 }
             ],
             "pathId": -7748631528932474621,
@@ -107,32 +118,34 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "それに、お茶菓子だってほら、\n多めに用意してあるんですよ～、うふふ♪",
-            "enText": "And I've even prepared more tea cakes for you.",
+            "enText": "We've prepared more than enough<n>treats as well,\nhehe. ♪",
             "nextBlock": 7,
             "origClipLength": 89,
+            "voiceIdx": 2,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "それならぜひ！",
-                    "enText": "Then by all means!",
+                    "enText": "I'd love to!",
                     "nextBlock": 7
                 }
             ],
             "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -1381344686778343966
+                },
                 {
                     "origLen": 128,
                     "pathId": -8661117674125333039
                 },
                 {
                     "origLen": 100,
-                    "pathId": -1381344686778343966
+                    "pathId": -4447680952905780129
                 },
                 {
                     "origLen": 62,
                     "pathId": 2284971827823252654
-                },
-                {
-                    "origLen": 100,
-                    "pathId": -4447680952905780129
                 }
             ],
             "pathId": 1205684296341453996,
@@ -142,25 +155,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "外でもまったりでくつろげるから、\n野点って最高だよね～。",
-            "enText": "Nodate is great because you \ncan be outside and relax!",
+            "enText": "There's nothing like kicking back in<n>nature.\nOutdoor tea parties are the best.",
             "nextBlock": 8,
             "origClipLength": 81,
+            "voiceIdx": 74,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -3846327698570062271
+                },
                 {
                     "origLen": 62,
                     "pathId": 5346110603798838520
                 },
                 {
                     "origLen": 92,
-                    "pathId": -3846327698570062271
+                    "pathId": -8834090525175483966
                 },
                 {
                     "origLen": 92,
                     "pathId": 3329028223501600215
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -8834090525175483966
                 }
             ],
             "pathId": -1337215431080283877,
@@ -170,9 +185,11 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "まあ♪\r\nでしたら、本格的に茶道を始めてみます？",
-            "enText": "Well,Â then, why don't you \nstart a real tea ceremony?",
+            "enText": "Indeed. ♪ Now then, shall we begin the<n>\nceremony?",
             "nextBlock": 9,
             "origClipLength": 76,
+            "voiceIdx": 5,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 81,
@@ -180,19 +197,19 @@
                 },
                 {
                     "origLen": 87,
+                    "pathId": 2329068954348461567
+                },
+                {
+                    "origLen": 87,
                     "pathId": -4780434695758359764
                 },
                 {
                     "origLen": 87,
-                    "pathId": 2329068954348461567
+                    "pathId": 1897001250753025401
                 },
                 {
                     "origLen": 55,
                     "pathId": 9011240439931238658
-                },
-                {
-                    "origLen": 87,
-                    "pathId": 1897001250753025401
                 }
             ],
             "pathId": 1264057972437700065,
@@ -202,29 +219,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "うーん、ずっと正座でじっとしてるのは\nちょっと……。",
-            "enText": "Hmmm, I'm a bit…… to sit still \non my haunches all the time.",
+            "enText": "Hmm, I'm not really into sitting on my<n>knees for\nthe whole time...",
             "nextBlock": 10,
             "origClipLength": 78,
+            "voiceIdx": 34,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -7159618534711863468
                 },
                 {
-                    "origLen": 39,
-                    "pathId": -5984960924982144699
-                },
-                {
                     "origLen": 94,
                     "pathId": 2561186559650511275
                 },
                 {
-                    "origLen": 106,
-                    "pathId": -1227186558569489781
+                    "origLen": 39,
+                    "pathId": -5984960924982144699
                 },
                 {
                     "origLen": 89,
                     "pathId": -6351751373873181552
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1227186558569489781
                 }
             ],
             "pathId": -255849957628936818,
@@ -234,25 +253,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "セイちゃんは、こうやってお日様の下、\nぽかぽかしたいだけだから。",
-            "enText": "Sei-chan just wants to bask \nin the sun like this.",
+            "enText": "All I fancy's a nice nap in the warm<n>sunlight.",
             "nextBlock": 11,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 94,
-                    "pathId": 3815876148781770200
-                },
                 {
                     "origLen": 122,
                     "pathId": 153236038426821703
                 },
                 {
-                    "origLen": 79,
-                    "pathId": -5053584147690944324
+                    "origLen": 94,
+                    "pathId": 3815876148781770200
                 },
                 {
                     "origLen": 113,
                     "pathId": -4430348141119438580
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5053584147690944324
                 }
             ],
             "pathId": 6870581789199945833,
@@ -262,37 +283,39 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あ、でも、和菓子食べられるのはいいな。\n優しい甘さで、いくらでもいけちゃいそう♪",
-            "enText": "Oh, but it's nice to be able to eat Japanese \nsweets. It's so soft and sweet, I could eat \nas many as I want… ♪",
+            "enText": "Oh, hang on now. I do want some of<n>those sweets,\nthough... They have just<n>the right balance of\nsweetness—I could<n>eat the whole plate. ♪",
             "nextBlock": 12,
             "origClipLength": 97,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "食べ過ぎに注意！",
-                    "enText": "Don't overeat!",
+                    "enText": "Don't eat too many!",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "止まらなくなるよね",
-                    "enText": "It's not going to stop, is it?",
+                    "enText": "It's hard to stop once you start, right?",
                     "nextBlock": 19
                 }
             ],
             "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 3257748534127425760
+                },
                 {
                     "origLen": 63,
                     "pathId": -7009787045912025554
                 },
                 {
                     "origLen": 108,
-                    "pathId": 3257748534127425760
+                    "pathId": 2056678053004560256
                 },
                 {
                     "origLen": 104,
                     "pathId": 7847272746634341065
-                },
-                {
-                    "origLen": 108,
-                    "pathId": 2056678053004560256
                 }
             ],
             "pathId": -7074269657772871090,
@@ -302,32 +325,34 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "はいはい、わかってますって。\nそれに食べた分、動けば問題ないでしょ。",
-            "enText": "Yes, yes, I know. Besides, if you move as \nmuch as you eat, there will be no problem.",
+            "enText": "All right, all right. Sheesh. Hey, as long<n>as I burn\nthe calories later, there's no<n>harm.",
             "nextBlock": 13,
             "origClipLength": 89,
+            "voiceIdx": 49,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "じゃあ、サボりは控えないと",
-                    "enText": "Then I'll have to cut back on the skipping.",
+                    "enText": "That means you can't skip practice.",
                     "nextBlock": 13
                 }
             ],
             "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -6393624250706134662
+                },
                 {
                     "origLen": 47,
                     "pathId": 8340929869436933150
                 },
                 {
                     "origLen": 100,
-                    "pathId": -6393624250706134662
+                    "pathId": 581492401193856412
                 },
                 {
                     "origLen": 89,
                     "pathId": -1486309005689842959
-                },
-                {
-                    "origLen": 100,
-                    "pathId": 581492401193856412
                 }
             ],
             "pathId": -8794396890093351332,
@@ -337,25 +362,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "うぐぅ……。",
-            "enText": "Ugh. ……",
+            "enText": "Urgh...",
             "nextBlock": 14,
             "origClipLength": 52,
+            "voiceIdx": 88,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 1604059843508879688
-                },
                 {
                     "origLen": 100,
                     "pathId": 4488771773228144852
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -6307755114549688487
+                    "origLen": 30,
+                    "pathId": 1604059843508879688
                 },
                 {
                     "origLen": 63,
                     "pathId": 874903263105743860
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6307755114549688487
                 }
             ],
             "pathId": -817903794489579689,
@@ -365,29 +392,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "そうですよ。\n食べた分はしっかり消費しませんとね。",
-            "enText": "That's right. We must consume what we eat.",
+            "enText": "You're quite right. It's crucial to strike a<n>balance\nbetween how much we eat and<n>how we exercise.",
             "nextBlock": 15,
             "origClipLength": 77,
+            "voiceIdx": 37,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 94,
                     "pathId": 8715476729856649756
                 },
                 {
-                    "origLen": 111,
-                    "pathId": -3656853103459375508
-                },
-                {
                     "origLen": 100,
                     "pathId": -1360653003025751369
                 },
                 {
-                    "origLen": 73,
-                    "pathId": 4137883594076676944
+                    "origLen": 111,
+                    "pathId": -3656853103459375508
                 },
                 {
                     "origLen": 88,
                     "pathId": -3290437362339005994
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4137883594076676944
                 }
             ],
             "pathId": -2921081109178793154,
@@ -397,13 +426,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "このあと併走もご一緒しましょうね、\nセイちゃん♪",
-            "enText": "Let's run together after this, Sei-chan.",
+            "enText": "So, let's do some running together after<n>this,\nSei. ♪",
             "nextBlock": 16,
             "origClipLength": 76,
+            "voiceIdx": 74,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 613269481841718815
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7943740828931659494
                 },
                 {
                     "origLen": 89,
@@ -411,15 +446,11 @@
                 },
                 {
                     "origLen": 87,
-                    "pathId": 7943740828931659494
+                    "pathId": 1233497645152153660
                 },
                 {
                     "origLen": 50,
                     "pathId": 8198710387369156970
-                },
-                {
-                    "origLen": 87,
-                    "pathId": 1233497645152153660
                 }
             ],
             "pathId": -3253423745644608069,
@@ -429,25 +460,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "もしかして、トレーナーさんを\n誘ったのはこのため！？",
-            "enText": "Perhaps this is why you invited your trainer!",
+            "enText": "Wait a second now, is that why you<n>invited my\ntrainer to join us?!",
             "nextBlock": 17,
             "origClipLength": 78,
+            "voiceIdx": 27,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 5123750341415225369
+                },
                 {
                     "origLen": 59,
                     "pathId": 2296486956049245029
                 },
                 {
                     "origLen": 89,
-                    "pathId": 5123750341415225369
+                    "pathId": 789884816480146748
                 },
                 {
                     "origLen": 89,
                     "pathId": -1334333623618839021
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 789884816480146748
                 }
             ],
             "pathId": 5018136843064414718,
@@ -457,25 +490,27 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "うふふ……。\nさあ、どうでしょうか？",
-            "enText": "Ummm……… Now, what do you think?",
+            "enText": "Hehe... What makes you ask that?",
             "nextBlock": 18,
             "origClipLength": 68,
+            "voiceIdx": 2,
+            "voiceSheetId": "051011001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1984009334021469110
+                },
                 {
                     "origLen": 79,
                     "pathId": 6853719396943724295
                 },
                 {
                     "origLen": 79,
-                    "pathId": 1984009334021469110
+                    "pathId": 7387334953028641124
                 },
                 {
                     "origLen": 37,
                     "pathId": -1833874716495130640
-                },
-                {
-                    "origLen": 79,
-                    "pathId": 7387334953028641124
                 }
             ],
             "pathId": 1695029011847833171,
@@ -485,25 +520,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "グラスワンダーの巧みな気遣いによって、\nセイウンスカイは食べた分を走ったのだった。",
-            "enText": "Thanks to Grass Wonder's skillful care, \nSeiunsky ran what she ate.",
+            "enText": "Grass Wonder's underhanded show of<n>concern\npays off, and Seiun Sky ends up<n>exercising to\naccount for the extra<n>calories.",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -2718612186743991755
+                },
                 {
                     "origLen": 76,
                     "pathId": 7179187000765124803
                 },
                 {
                     "origLen": 109,
-                    "pathId": -2718612186743991755
+                    "pathId": 7811624383512168380
                 },
                 {
                     "origLen": 132,
                     "pathId": 9131163279842971194
-                },
-                {
-                    "origLen": 109,
-                    "pathId": 7811624383512168380
                 }
             ],
             "pathId": -2883710122230034734,
@@ -513,25 +550,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "だよね、だよねー！",
-            "enText": "I know, right!",
+            "enText": "Yeah! You get it!",
             "nextBlock": 20,
             "origClipLength": 56,
+            "voiceIdx": 48,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4891765008830940030
+                },
                 {
                     "origLen": 55,
                     "pathId": -7285711609731314468
                 },
                 {
                     "origLen": 67,
-                    "pathId": -4891765008830940030
+                    "pathId": 232086990659521890
                 },
                 {
                     "origLen": 120,
                     "pathId": 8692185280306641289
-                },
-                {
-                    "origLen": 67,
-                    "pathId": 232086990659521890
                 }
             ],
             "pathId": 1933555154690793266,
@@ -541,25 +580,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "和菓子の甘さとお茶の渋みが\n相性抜群なんだよもう！",
-            "enText": "The sweetness of the wagashi and \nthe astringency of the tea go \nso well together, already!",
+            "enText": "Scrumptious sweets with the simple yet<n>refined\ntaste of tea make for an<n>unbeatable pair.",
             "nextBlock": 21,
             "origClipLength": 77,
+            "voiceIdx": 38,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -3582077691607177487
+                },
                 {
                     "origLen": 90,
                     "pathId": -4131392600723757749
                 },
                 {
                     "origLen": 88,
-                    "pathId": -3582077691607177487
+                    "pathId": 8660540571166909584
                 },
                 {
                     "origLen": 64,
                     "pathId": -4872922195187292413
-                },
-                {
-                    "origLen": 88,
-                    "pathId": 8660540571166909584
                 }
             ],
             "pathId": -5194263733119841347,
@@ -569,25 +610,27 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "まだまだ用意してありますので、\r\n遠慮なく召し上がってくださいね～。",
-            "enText": "We still have some more available, so don't \nhesitate to try them!",
+            "enText": "We have more than enough to go<n>around, so eat\nand drink to your heart's<n>content.",
             "nextBlock": 22,
             "origClipLength": 89,
+            "voiceIdx": 92,
+            "voiceSheetId": "051011001",
             "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -4603712737032176620
+                },
                 {
                     "origLen": 76,
                     "pathId": -5938186835929995012
                 },
                 {
                     "origLen": 100,
-                    "pathId": -4603712737032176620
+                    "pathId": 4509200356297254189
                 },
                 {
                     "origLen": 58,
                     "pathId": 4315718842041815721
-                },
-                {
-                    "origLen": 100,
-                    "pathId": 4509200356297254189
                 }
             ],
             "pathId": -4916824378864821505,
@@ -597,25 +640,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "にゃはは～、し・あ・わ・せ～～。\r\nせっかくだから全種類、試そうっと♪",
-            "enText": "I'm so happy～! I'm going to try all kinds…",
+            "enText": "Nya-ha-ha! I'm in heaven here! I'm gonna<n>try a\nlittle of everything. ♪",
             "nextBlock": 23,
             "origClipLength": 90,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -2037267424020471240
+                },
                 {
                     "origLen": 81,
                     "pathId": 2658230518357435349
                 },
                 {
                     "origLen": 101,
-                    "pathId": -2037267424020471240
+                    "pathId": -3575635671628387901
                 },
                 {
                     "origLen": 55,
                     "pathId": 4852788760329462072
-                },
-                {
-                    "origLen": 101,
-                    "pathId": -3575635671628387901
                 }
             ],
             "pathId": 5518843425000895488,
@@ -625,30 +670,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、セイウンスカイと一緒に\r\n和菓子を食べ過ぎてしまったのだった。",
-            "enText": "After that, I ate too many Japanese sweets \nwith Seiunsky.",
+            "enText": "Seiun Sky and I stuff ourselves with<n>delicious\nsnacks.",
             "nextBlock": -1,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -4166368144877460089
+                },
                 {
                     "origLen": 107,
                     "pathId": -8668218707064434320
                 },
                 {
                     "origLen": 101,
-                    "pathId": -4166368144877460089
+                    "pathId": -2338789801230887548
                 },
                 {
                     "origLen": 110,
                     "pathId": -4099412418097426951
-                },
-                {
-                    "origLen": 101,
-                    "pathId": -2338789801230887548
                 }
             ],
             "pathId": -7189398057990935933,
             "blockIdx": 23
         }
-    ],
-    "modified": 1657555057
+    ]
 }

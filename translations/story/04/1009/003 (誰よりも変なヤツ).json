@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "M4YW5CRIG4Q4PT554K3KXNAW3OE6YMRH",
+    "version": 6,
+    "bundle": "FZY7MRDIE37KOCDTFLJVXE2KBIAFOJMW",
     "type": "story",
     "storyId": "041009003",
     "title": "誰よりも変なヤツ",
+    "enTitle": "What a Weirdo",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "選抜レースからしばらくの間は、\r\nスカウトのトレーナーに囲まれていたダイワスカーレット。",
-            "enText": "For some time <i>after</i> the Selection Race, \nDaiwa Scarlet was surrounded by trainers looking to scout her.",
+            "enText": "For a while after the tryouts, Daiwa Scarlet<n>was constantly\napproached by trainers<n>attempting to scout her.",
             "nextBlock": 2,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2894580619176119097,
             "blockIdx": 1
         },
@@ -18,35 +22,57 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "だが、今となっては――",
-            "enText": "But now…",
+            "enText": "But now...",
             "nextBlock": 3,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3936673099866877074,
             "blockIdx": 2
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "あれ？　なんだ、誰もスカーレットに\r\n声をかけにいかないのか？",
-            "enText": "Wait, is no one really going to approach Scarlet with an offer?",
+            "enText": "Hm? What, is nobody going to talk to<n>Scarlet?",
             "nextBlock": 4,
+            "origClipLength": 143,
+            "voiceIdx": 0,
+            "voiceSheetId": "041009003",
             "pathId": 8582205692973524992,
             "blockIdx": 3
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "うちはウオッカ1人に絞りましたよ。いくら地力があるといっても、\r\nあの気性では上に行くのは難しいかと……。",
-            "enText": "I've decided to just focus my efforts on Vodka. No matter how \ngreat Daiwa Scarlet is on the field, it'd be hard for anyone to \ntake her to the next level with that temper of hers…",
+            "enText": "I've set my sights on Vodka. No matter<n>how much potential Scarlet\nhas, her<n>personality is going to make things<n>difficult...",
             "nextBlock": 5,
+            "origClipLength": 225,
+            "voiceIdx": 1,
+            "voiceSheetId": "041009003",
             "pathId": -4476644795744452032,
             "blockIdx": 4
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "……ま、それもそうだな。\n俺もウオッカの所へ行くとするか。",
-            "enText": "Well, you're not exactly wrong. \nI guess I'll give scouting Vodka a shot too.",
+            "enText": "Well, you have a point there. Guess I'll try<n>speaking to Vodka too.",
             "nextBlock": 6,
+            "origClipLength": 138,
+            "voiceIdx": 2,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 6117769244995428018
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1958442164677744852
+                }
+            ],
             "pathId": -1975465091333750159,
             "blockIdx": 5
         },
@@ -54,8 +80,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……ふん、せいせいしたわ！　余計なギャラリーも\r\nいなくなったし、これでトレーニングに集中できるもの――",
-            "enText": "Hmph, good riddance! Now that the crowd that's been following me \nis gone, I can finally focus on training-",
+            "enText": "Hmph, now that's more like it! The<n>annoying crowd's gone, so I can\nfinally<n>focus on my training.",
             "nextBlock": 7,
+            "origClipLength": 216,
+            "voiceIdx": 3,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -4856379616273836493
+                },
+                {
+                    "origLen": 201,
+                    "pathId": -5340995025773652439
+                }
+            ],
             "pathId": 256731250203132615,
             "blockIdx": 6
         },
@@ -63,18 +102,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "って、言いたかったのに。\nちょっと！　なんで1人残ってるわけ！？",
-            "enText": "…is what I've been wanting to say, but… \nYou! Why are you still here!?",
+            "enText": "At least, that's what I'd like to say. Hey!<n>What are you still doing\nhere?!",
             "nextBlock": 8,
+            "origClipLength": 153,
+            "voiceIdx": 4,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "君と話がしたくて",
-                    "enText": "I wanted to talk to you.",
+                    "enText": "I want to talk with you.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "貴方と話がしたくて",
-                    "enText": "I wanted to talk to you.",
+                    "enText": "I want to talk with you.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -2444705970125096003
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1209318791462187416
                 }
             ],
             "pathId": 6566390320224899081,
@@ -84,8 +136,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "はぁ？　……ああ、もしかしてアンタ、まだアタシのこと、\r\n素直に言うこと聞く優等生だとでも思ってるのかしら？",
-            "enText": "Huh?…Oh, could it be that you still think \nI'm some sort of obedient honor student?",
+            "enText": "Huh? Oh, could it be that you still think<n>I'm a perfect honor student\nwho'll listen to<n>whatever you say?",
             "nextBlock": 9,
+            "origClipLength": 287,
+            "voiceIdx": 5,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 6522688340174971533
+                }
+            ],
             "pathId": -1634651247223477980,
             "blockIdx": 8
         },
@@ -93,8 +154,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "もうこの際だから教えてあげるけど、\nあれ、そういう『フリ』だから。",
-            "enText": "Well, I might as well say it at this point. \nThat's just me pretending.",
+            "enText": "Since you're still here, I'll let you in on a<n>secret. It was <i>all</i> an act.",
             "nextBlock": 10,
+            "origClipLength": 168,
+            "voiceIdx": 6,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -4774481167629775237
+                }
+            ],
             "pathId": 480456965583606921,
             "blockIdx": 9
         },
@@ -102,8 +172,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ほんとのアタシはこっち！\r\n……さっきの連中が言ってた通りの、頑固でワガママな気性難よ。",
-            "enText": "This is the real me. \n…Like those guys said, I'm a selfish, stubborn pain in the ass.",
+            "enText": "This is the real me! And like those guys<n>from earlier said—I'm\nstubborn, selfish,<n>and short-tempered.",
             "nextBlock": 11,
+            "origClipLength": 261,
+            "voiceIdx": 7,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1984110871053457345
+                },
+                {
+                    "origLen": 234,
+                    "pathId": 8870270487552648167
+                }
+            ],
             "pathId": 3277212025920085094,
             "blockIdx": 10
         },
@@ -111,13 +194,22 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "どう？　幻滅したかしら？\nじゃ、とっととここから居なくなって。",
-            "enText": "Let me guess, not what you expected? \nIt's fine, you can go away now.",
+            "enText": "Well? Your dreams crushed yet? Good,<n>then scurry along, shoo.",
             "nextBlock": 12,
+            "origClipLength": 178,
+            "voiceIdx": 8,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "どこにも行かない",
                     "enText": "I'm not going anywhere.",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -8374107741674682156
                 }
             ],
             "pathId": -8829440630686413312,
@@ -127,8 +219,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……ちょっと。\nアンタ、アタシの話聞いてた？",
-            "enText": "…Wait. Didn't you hear what I just said?",
+            "enText": "...What? Were you even listening to me?",
             "nextBlock": 13,
+            "origClipLength": 106,
+            "voiceIdx": 9,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -419310564353671910
+                }
+            ],
             "pathId": 5445893731904386928,
             "blockIdx": 12
         },
@@ -136,8 +237,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "アタシはアンタが思ってるような子じゃ\nないんだってば！　いい加減理解しなさいよ！",
-            "enText": "I'm not who you think I am! \nWhy don't you get it already!?",
+            "enText": "I'm saying I'm not the good girl you think I<n>am! Get it into that thick\nhead of yours<n>already!",
             "nextBlock": 14,
+            "origClipLength": 186,
+            "voiceIdx": 10,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 736862804940276192
+                }
+            ],
             "pathId": 2664925366943853904,
             "blockIdx": 13
         },
@@ -145,13 +255,26 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "トレセン学園は速い子ばっかり！　そんな中で虚勢張って、\r\nでかい態度取って、みっともなく負けたのが今のアタシなの！",
-            "enText": "There's so many other fast horse girls in Tracen Academy! \nI'm just some poser who acts big and got humiliated!",
+            "enText": "Tracen Academy's packed with fast<n>runners! And me, I'm the one who\ndecided<n>to put on airs, get cocky, and then lose<n>pathetically!",
             "nextBlock": 15,
+            "origClipLength": 267,
+            "voiceIdx": 11,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "みっともなくなんかなかった！",
-                    "enText": "It wasn't humiliating at all!",
+                    "enText": "You're not pathetic at all!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6197167293856088203
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -202741828971925562
                 }
             ],
             "pathId": 7873654103147682405,
@@ -161,8 +284,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "うるっさいわね！！\n慰めはいらないのよ！",
-            "enText": "You're so persistent. \nI never asked for you to console me!",
+            "enText": "What do you know?! I don't need your<n>pity!",
             "nextBlock": 16,
+            "origClipLength": 100,
+            "voiceIdx": 12,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 3105601866585557459
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 1207952182064420673
+                }
+            ],
             "pathId": 3024913488208829468,
             "blockIdx": 15
         },
@@ -170,8 +306,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "アタシだって……わかってる。\r\n“1番”“1番”って虚しく繰り返して、空回ってばっかだって！",
-            "enText": "Even I'm not that clueless… I get it. I know that me saying \n\"I'm number one\" over and over was just a bunch of empty words!",
+            "enText": "Because... I get it. All I do is mouth off<n>about being the \"number one\nthis\", the<n>\"number one that\"—but it's all talk—it's<n>not real!",
             "nextBlock": 17,
+            "origClipLength": 247,
+            "voiceIdx": 13,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": 2274578056754559878
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 7586939300756785659
+                }
+            ],
             "pathId": -5611597260712413655,
             "blockIdx": 16
         },
@@ -179,8 +328,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "1度ウオッカに負けたぐらいで、拗ねてヤケになって、\r\n無茶な走り込みして……自分でもバカなことしてるって思うわよ！",
-            "enText": "Just because I lost to Vodka once, I got depressed \nand started doing long training runs out of desperation… \nEven I know I was being stupid!",
+            "enText": "I lost to Vodka once, and here I am<n>wallowing in self-pity and going\non<n>reckless training runs... Even I know that<n>I'm being unreasonable!",
             "nextBlock": 18,
+            "origClipLength": 254,
+            "voiceIdx": 14,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 2627459718714580356
+                },
+                {
+                    "origLen": 230,
+                    "pathId": 9104713695389643589
+                }
+            ],
             "pathId": 5788785162281211200,
             "blockIdx": 17
         },
@@ -188,8 +350,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "でもっ……しょうがないじゃない！！\n“1番”じゃなきゃ、許せないんだから！！",
-            "enText": "But what else could I have done!? \nI couldn't forgive myself unless I was number one!",
+            "enText": "But... what else can I do?! If I'm not<n>number one, then how can I even\nface<n>myself?!",
             "nextBlock": 19,
+            "origClipLength": 159,
+            "voiceIdx": 15,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -873580172204276749
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 5064469881541243379
+                }
+            ],
             "pathId": -5530088335990909698,
             "blockIdx": 18
         },
@@ -197,8 +372,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "1番速くて、1番強い！　1番みんなに認められる、\r\n1番注目されるアタシじゃなきゃ嫌なの！！",
-            "enText": "The fastest, strongest, most popular horse girl around… \nI hate being anything other than that kind of number one.",
+            "enText": "I have to be number one in speed, in<n>strength! Number one in\npopularity, in<n>fans—and I won't settle for anything else!",
             "nextBlock": 20,
+            "origClipLength": 231,
+            "voiceIdx": 16,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": 2976967635319644616
+                },
+                {
+                    "origLen": 204,
+                    "pathId": 4642078521598184366
+                }
+            ],
             "pathId": 8655517736962698022,
             "blockIdx": 19
         },
@@ -206,8 +394,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "そうじゃなきゃ絶対満足できないんだから……\r\nそういうふうになっちゃったんだから、しょうがないじゃない……！",
-            "enText": "I couldn't be satisfied with myself unless I was exactly that… \nThat's just how I am, so that was the only way I could react…!",
+            "enText": "I won't be satisfied unless I'm all of those<n>things. That's the kind of\nperson I am, take<n>it or leave it!",
             "nextBlock": 21,
+            "origClipLength": 183,
+            "voiceIdx": 17,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6184443147834253395
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -826012600353639309
+                }
+            ],
             "pathId": -7746854575308733385,
             "blockIdx": 20
         },
@@ -215,18 +416,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "アタシはっ、アタシのために、\n“1番”だけを取り続けなきゃいけないのよ！",
-            "enText": "For my own sake, I can't stop trying to be number one!",
+            "enText": "To stay true to myself—I have to keep on<n>being number one!",
             "nextBlock": 22,
+            "origClipLength": 170,
+            "voiceIdx": 18,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "そんな君を支えたくて、ここに来たんだ",
-                    "enText": "I came here because of that, to support you.",
+                    "enText": "That's why I'm here—to support you.",
                     "nextBlock": 22
                 },
                 {
                     "jpText": "そんな貴方を支えたくて、ここに来たんだよ",
-                    "enText": "I came here because of that, to support you.",
+                    "enText": "That's why I'm here—to support you.",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 7152547602045258534
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -1624249337248775263
                 }
             ],
             "pathId": 7485813934362309023,
@@ -236,8 +450,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "………………は、はぁ？",
-            "enText": "…Huh?",
+            "enText": "...H-huh?",
             "nextBlock": 23,
+            "origClipLength": 66,
+            "voiceIdx": 19,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1640640155261097673
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 6384223458867734921
+                }
+            ],
             "pathId": 524000419295569237,
             "blockIdx": 22
         },
@@ -245,8 +472,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "いや、ちょっと。ここまで聞いといてソレって……\r\nアンタ、もしかして本気でバカなの？",
-            "enText": "Wait. Even after hearing all that… \nAre you genuinely stupid?",
+            "enText": "Wait, hold up. You're saying that <i>after</i><n>listening to my rant... Are you\nreally that<n>clueless?",
             "nextBlock": 24,
+            "origClipLength": 198,
+            "voiceIdx": 20,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": -8874326919676299560
+                },
+                {
+                    "origLen": 173,
+                    "pathId": 3698262640120797912
+                }
+            ],
             "pathId": 5761296668176288754,
             "blockIdx": 23
         },
@@ -254,13 +494,26 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "察しなさいよ、そろそろ！　アタシは“1番”にこだわる事しか\r\nできない、ただの頑固なヤツなんだってば！！",
-            "enText": "Take the hint already! I'm just a stubborn kid who \nonly ever obsesses over being number one!!",
+            "enText": "Take a hint, pal! I told you, I'm a stubborn<n>girl who's obsessed with\nbeing number<n>one!",
             "nextBlock": 25,
+            "origClipLength": 218,
+            "voiceIdx": 21,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "それなら一緒に“1番”を目指そう",
-                    "enText": "Then let's aim for that number one together.",
+                    "enText": "Then let's become number one together.",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 720622565984955466
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 4756756426140432221
                 }
             ],
             "pathId": 674253541190138336,
@@ -270,8 +523,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "っ、だからぁ！！\nなんでスカウトみたいな流れになるのよ！",
-            "enText": "I told you no already!! \nWhy are you still talking like you're going to scout me!?",
+            "enText": "Tch, what's your problem! Why're you still<n>trying to scout me?!",
             "nextBlock": 26,
+            "origClipLength": 137,
+            "voiceIdx": 22,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -5848372734710164018
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4287326536040151595
+                }
+            ],
             "pathId": 5128348878616944528,
             "blockIdx": 25
         },
@@ -279,8 +545,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "あのねぇ、アタシはそうやすやすと\nアンタの言うことなんか聞かないわよ！？",
-            "enText": "Just so you know, \nI'm not going to be some obedient girl who just listens to you!",
+            "enText": "I'll say this now, but I'm not going to just<n>nod my head and listen to\neverything you<n>say, you know?",
             "nextBlock": 27,
+            "origClipLength": 134,
+            "voiceIdx": 23,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -359697837936245661
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -8786291864274173234
+                }
+            ],
             "pathId": 4572320804502052344,
             "blockIdx": 26
         },
@@ -288,18 +567,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "納得いかなきゃ、トレーニングメニューにも\r\nめちゃくちゃ口出しするんだから！！　その覚悟、できてるわけ！？",
-            "enText": "Also, I'm going to complain a lot if I don't like \nyour training plan! Can you handle that!?",
+            "enText": "And if I don't like your training menu, I<n>won't stop bugging you about\nit! Are you<n>willing to deal with all of that?!",
             "nextBlock": 28,
+            "origClipLength": 205,
+            "voiceIdx": 24,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "君が納得いくまでとことん話し合おう！",
-                    "enText": "Then we'll discuss and adjust it until you like it!",
+                    "enText": "We can discuss all that until we agree!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "貴方が納得いくまでとことん話し合おう！",
-                    "enText": "Then we'll discuss and adjust it until you like it!",
+                    "enText": "We can discuss all that until we agree!",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 7763359062405614422
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6549948910510156619
                 }
             ],
             "pathId": -1672816302188801045,
@@ -309,8 +601,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "…………な、なんなのよ、アンタ。",
-            "enText": "…W-What's your problem?",
+            "enText": "...Wh-what the heck is with you?",
             "nextBlock": 29,
+            "origClipLength": 91,
+            "voiceIdx": 25,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -6846750034180530589
+                }
+            ],
             "pathId": 996286427157300408,
             "blockIdx": 28
         },
@@ -318,18 +619,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "支える、って……一緒にって……\nアンタ、本気で言ってるわけ……？",
-            "enText": "You want to support me? You want to \ndo this together? Are you serious?",
+            "enText": "Saying you want to support me... that we'll<n>do this together... Hey,\nwere you serious<n>about all that?",
             "nextBlock": 30,
+            "origClipLength": 202,
+            "voiceIdx": 26,
+            "voiceSheetId": "041009003",
             "choices": [
                 {
                     "jpText": "君にとって“1番”のトレーナーになるよ",
-                    "enText": "I'm the \"number one\" trainer for you.",
+                    "enText": "I'll be your number one trainer.",
                     "nextBlock": 30
                 },
                 {
                     "jpText": "貴方にとって“1番”のトレーナーになるよ",
-                    "enText": "I'm the \"number one\" trainer for you.",
+                    "enText": "I'll be your number one trainer.",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8865989933690999373
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -6389306365402472806
                 }
             ],
             "pathId": -6676308634285791175,
@@ -339,8 +653,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "…………ッ！！",
-            "enText": "…!!",
+            "enText": "...!",
             "nextBlock": 31,
+            "origClipLength": 33,
+            "voiceIdx": 27,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 7116595924823019736
+                }
+            ],
             "pathId": 923553496654789790,
             "blockIdx": 30
         },
@@ -348,8 +671,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……ふん。\nヒトの口癖、取らないでくれるかしら？",
-            "enText": "…Hmph. \n\"Number one\" is my thing, don't copy me.",
+            "enText": "...Hmph. Could you not steal my<n>catchphrase like that?",
             "nextBlock": 32,
+            "origClipLength": 118,
+            "voiceIdx": 28,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 195645333557498257
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2940273420972427095
+                }
+            ],
             "pathId": -4435384033873483378,
             "blockIdx": 31
         },
@@ -357,8 +693,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ほんと……っ、変なヤツに、捕まっちゃった……っ。",
-            "enText": "Seriously… Why am I stuck with such a weird guy like you…",
+            "enText": "Geez... Looks like I've been scouted... by a<n>real weirdo. <i>Sniffle...</i>",
             "nextBlock": 33,
+            "origClipLength": 217,
+            "voiceIdx": 29,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 9174119393422433899
+                },
+                {
+                    "origLen": 149,
+                    "pathId": -3447315996659530042
+                }
+            ],
             "pathId": 2213378105538454020,
             "blockIdx": 32
         },
@@ -366,8 +715,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今まで抑え込んできたものが\r\n決壊したかのように、ダイワスカーレットは泣いた。",
-            "enText": "As if all that she's been bottling up inside in started \noverflowing, Daiwa Scarlet started crying.",
+            "enText": "Daiwa Scarlet bursts into tears, as if she's<n>been freed from the heavy\nburdens<n>weighing her down.",
             "nextBlock": 34,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -746838388970035670
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5047536702628725003
+                }
+            ],
             "pathId": -8610565673498848841,
             "blockIdx": 33
         },
@@ -375,8 +737,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうして、しばらくの後――",
-            "enText": "And after some time has passed…",
+            "enText": "A little while later...",
             "nextBlock": 35,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3219971315186691451,
             "blockIdx": 34
         },
@@ -384,8 +749,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……人前で泣くとか、いつぶりかしら。",
-            "enText": "…How long has it been since I cried in front of anybody?",
+            "enText": "I wonder how long it's been since I cried in<n>front of someone else.",
             "nextBlock": 36,
+            "origClipLength": 109,
+            "voiceIdx": 30,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -1220307064598397282
+                }
+            ],
             "pathId": 4272574087032473064,
             "blockIdx": 35
         },
@@ -393,8 +767,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "はぁ……なんか、気が抜けちゃった。\n……アタシ、そろそろ帰るわ。",
-            "enText": "<i>Sigh…</i> I lost my motivation to train. \n…I'll just go home.",
+            "enText": "<i>Sigh...</i> Not really in the mood to run<n>anymore. I guess I should head\nback.",
             "nextBlock": 37,
+            "origClipLength": 222,
+            "voiceIdx": 31,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 601481017257353016
+                }
+            ],
             "pathId": 6489552342462076593,
             "blockIdx": 36
         },
@@ -402,8 +785,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "正直、最近ずっと体が重かったのよね。\n今日は……久々に、早めに寝るわ。",
-            "enText": "To be honest, my body's been feeling pretty heavy lately. \nI think… I'll go to bed early for once.",
+            "enText": "Honestly, I've been feeling sluggish<n>recently. So I think... I'll tuck in\nearly for<n>once.",
             "nextBlock": 38,
+            "origClipLength": 251,
+            "voiceIdx": 32,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 427953267533377043
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 21103164882197197
+                }
+            ],
             "pathId": -7800147867086774683,
             "blockIdx": 37
         },
@@ -411,8 +807,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "立ち去るダイワスカーレットの背中には、まだ以前のような覇気が\r\n感じられなかった。選抜レースでの2着が相当響いているようだ。",
-            "enText": "I could no longer feel the same drive for victory from Daiwa \nScarlet as she was leaving. It seems like her placement in the \nSelection Race was still weighing on her mind.",
+            "enText": "As Daiwa Scarlet walks away, I notice that<n>she's lost the spirit she\nonce had. Looks<n>like the second place finish at the tryouts<n>really did\na number on her.",
             "nextBlock": 39,
+            "origClipLength": 125,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -3540137517487206987
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -6728979627864307469
+                }
+            ],
             "pathId": 8018467014534927499,
             "blockIdx": 38
         },
@@ -420,8 +829,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なんとか自信を取り戻させて\r\nあげられないものか、と考えつつカフェテリアを訪れると――",
-            "enText": "As I was wondering if I could do anything to help regain her \nconfidence, I happened to overhear something in the cafe…",
+            "enText": "Still brainstorming ways to get her<n>confidence back, I decide to pay\nthe<n>cafeteria a visit.",
             "nextBlock": 40,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": 5112971608395780444
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 8691951611845934684
+                }
+            ],
             "pathId": 7022285351275572150,
             "blockIdx": 39
         },
@@ -429,8 +851,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "やっほ～、ウオッカ！",
-            "enText": "Heya, Vodka!",
+            "enText": "Yoohoo, Vodka!",
             "nextBlock": 41,
+            "origClipLength": 51,
+            "voiceIdx": 33,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4945174168692565402
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1181572876261787575
+                }
+            ],
             "pathId": -3540047050585703805,
             "blockIdx": 40
         },
@@ -438,8 +873,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ああ？　……なんだ、テイオーか。",
-            "enText": "Huh?…Oh, it's just you, Teio.",
+            "enText": "Huh? Oh, it's just Teio.",
             "nextBlock": 42,
+            "origClipLength": 111,
+            "voiceIdx": 34,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -2744582021025811562
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -3528201766467694086
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5876784801429730490
+                }
+            ],
             "pathId": 7790996310374099390,
             "blockIdx": 41
         },
@@ -447,8 +899,25 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "なんだとはなんだよー！！\n……なんかウオッカ、最近つまんなそーだね。",
-            "enText": "What do you mean \"just you\"!? \n…Vodka, you're no fun these days.",
+            "enText": "Whaddaya mean, <i>JUST?!</i> ...You okay<n>Vodka? You've got this bored\nlook on<n>your face lately.",
             "nextBlock": 43,
+            "origClipLength": 204,
+            "voiceIdx": 35,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -6040345439656533392
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -1222606318410948927
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2558843034714966031
+                }
+            ],
             "pathId": -4764066565999490732,
             "blockIdx": 42
         },
@@ -456,8 +925,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "別に……んなことねーよ。",
-            "enText": "It's nothing… Really.",
+            "enText": "Not really... You're just imaginin' things.",
             "nextBlock": 44,
+            "origClipLength": 90,
+            "voiceIdx": 36,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5401397548840197582
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -423686398698311602
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4736317439135664092
+                }
+            ],
             "pathId": -2687384500191138994,
             "blockIdx": 43
         },
@@ -465,8 +951,29 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ただ……アイツが、ここんとこずっと\nつまんねー顔ばっかしてっから……。",
-            "enText": "It's just… she keeps having that \ndisappointed look on her face…",
+            "enText": "It's just... Recently, she's always walkin'<n>around with that dumb look\non her face...",
             "nextBlock": 45,
+            "origClipLength": 193,
+            "voiceIdx": 37,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": -3430034428307181180
+                },
+                {
+                    "origLen": 214,
+                    "pathId": -4603117718655532577
+                },
+                {
+                    "origLen": 227,
+                    "pathId": 5517881894365128215
+                },
+                {
+                    "origLen": 223,
+                    "pathId": 2661897136349441248
+                }
+            ],
             "pathId": -6944890698456452501,
             "blockIdx": 44
         },
@@ -474,8 +981,29 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "アイツ？　って……もしかしてスカーレット？\r\n寮じゃ同じ部屋の上にライバルだもんね、心配だよね～。",
-            "enText": "\"She?\" Oh, you mean Scarlet? She's not just your roommate but \nyour rival as well, of course you'd be worried about her!",
+            "enText": "She? Oh, you mean Scarlet? She's your<n>roommate <i>and</i> rival, after all.\n'Course<n>you'd worry!",
             "nextBlock": 46,
+            "origClipLength": 307,
+            "voiceIdx": 38,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -212996998346373225
+                },
+                {
+                    "origLen": 249,
+                    "pathId": 5190809462435286452
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6415933979786715646
+                },
+                {
+                    "origLen": 320,
+                    "pathId": 2021104993451030002
+                }
+            ],
             "pathId": -3135823457218957200,
             "blockIdx": 45
         },
@@ -483,8 +1011,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "べ、別に、そんなんじゃねーよ……。",
-            "enText": "N-no, man… It's not that…",
+            "enText": "Th-that's not—We're not like that...",
             "nextBlock": 47,
+            "origClipLength": 94,
+            "voiceIdx": 39,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -8073468056421230209
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -4751146820671896538
+                }
+            ],
             "pathId": -6624846088574328282,
             "blockIdx": 46
         },
@@ -492,8 +1033,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "けど確かに、だいぶ落ち込んでるよね～。選抜レースで\r\nウオッカに負けちゃったのがよっぽどショックだったのかなぁ？",
-            "enText": "But yeah, she does look pretty down. Did losing to you in the \nSelection Race really bum her out that bad?",
+            "enText": "But you're right, she's been pretty down in<n>the dumps. I wonder if\nlosing to you at the<n>tryouts was a big shock for her?",
             "nextBlock": 48,
+            "origClipLength": 252,
+            "voiceIdx": 40,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 221,
+                    "pathId": 1639228545575621293
+                },
+                {
+                    "origLen": 265,
+                    "pathId": 3953589747510068707
+                }
+            ],
             "pathId": 7592834260488927435,
             "blockIdx": 47
         },
@@ -501,8 +1055,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……それで沈んだままになっちまうような\nヤツじゃ、ないと思ってたんだけどな。",
-            "enText": "…I never thought she was the kind to \nlet that sort of thing get her down.",
+            "enText": "...Y'know, I just didn't think she was the<n>type to give up this easily.",
             "nextBlock": 49,
+            "origClipLength": 164,
+            "voiceIdx": 41,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 200,
+                    "pathId": 813784858756213350
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -3433310327119799096
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 408073662457973202
+                }
+            ],
             "pathId": 6065913958497750669,
             "blockIdx": 48
         },
@@ -510,8 +1081,29 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ウオッカ……？",
-            "enText": "Vodka…?",
+            "enText": "Vodka?",
             "nextBlock": 50,
+            "origClipLength": 36,
+            "voiceIdx": 42,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 1115127109530706082
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1725771978405975338
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -8671416160623339090
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 1554853129754416568
+                }
+            ],
             "pathId": 7536289741190824741,
             "blockIdx": 49
         },
@@ -519,8 +1111,29 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "チッ……なんでもねぇ。ただ、今のアイツには、\r\n負ける気がしねーよ。……それだけだ。",
-            "enText": "Tch, whatever man. I just can't imagine myself losing to her if \nshe's being like that. That's all.",
+            "enText": "Tch... Forget it. Whatever, one less rival<n>for me to worry about. Catch\nya later.",
             "nextBlock": 51,
+            "origClipLength": 249,
+            "voiceIdx": 43,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 269,
+                    "pathId": 6889292698506700449
+                },
+                {
+                    "origLen": 267,
+                    "pathId": 1976481648839150662
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4964920437457734752
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5374532484446144565
+                }
+            ],
             "pathId": 1922788829780106194,
             "blockIdx": 50
         },
@@ -528,8 +1141,29 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あっ、ちょっとウオッカ！\n待ってよ～！！",
-            "enText": "Ahh, hey! Vodka, wait up!!",
+            "enText": "Hey Vodka, wait up! I said waaait!",
             "nextBlock": 52,
+            "origClipLength": 102,
+            "voiceIdx": 44,
+            "voiceSheetId": "041009003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3839179146442082337
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2978578648379708146
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6009670513563487486
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8718057167969401060
+                }
+            ],
             "pathId": -6839326754433475225,
             "blockIdx": 51
         },
@@ -537,12 +1171,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――いいことを思いついたかもしれない。",
-            "enText": "―I think I just came up with a good idea.",
+            "enText": "I think I might have the perfect solution to<n>all this.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3804679098917390467,
             "blockIdx": 52
         }
-    ],
-    "humanTl": true,
-    "modified": 1712266081
+    ]
 }

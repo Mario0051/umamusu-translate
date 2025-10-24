@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "66524Z27VVEOPRPE4SWNPSURC2MKJQDZ",
+    "version": 6,
+    "bundle": "LEACNJ2M7PWKJJOHOL3Y44YPBPX5NATY",
     "type": "story",
     "storyId": "801043002",
     "title": "ガブッと、突撃！",
+    "enTitle": "Chomp Attack!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、並木道を歩いていると……。",
-            "enText": "One day, while walking along a tree-lined \nstreet, I came across…",
+            "enText": "One day, as I'm walking down a<n>tree-lined\nstreet...",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3710035008191102978,
             "blockIdx": 1
         },
@@ -18,12 +22,15 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "ガオーーッ！！",
-            "enText": "Gawd!",
+            "enText": "GRAWR!",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "voiceIdx": 62,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "わっ！？",
-                    "enText": "WOW!",
+                    "enText": "What the?!",
                     "nextBlock": 3
                 }
             ],
@@ -34,18 +41,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ぬわ！？　ウインディちゃんの噛みつきが、\r\n避けられたのだぁぁ～～！？",
-            "enText": "Nooo! Windy's bite was avoided!",
+            "enText": "Wha?! You dodged my bite attack?!",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "voiceIdx": 25,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "ウインディ、危ないだろ！？",
-                    "enText": "Windy, it's not safe!",
+                    "enText": "That's dangerous, Windy!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "ウインディ、危ないでしょ！？",
-                    "enText": "Windy, it's not safe!",
+                    "enText": "That's dangerous, Windy!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -2788223597227891032
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 8618662346597203866
                 }
             ],
             "pathId": -8410736291372810879,
@@ -55,13 +75,30 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ふんっ！　ウインディちゃんはワルだから\r\n誰になにを言われても、\n聞かないし負けないのだ～～！",
-            "enText": "Hmph! Windigo is so badass, she won't listen \nor lose no matter what anyone says to her~!",
+            "enText": "Bleh! You're not the boss of me! I'm not<n>gonna\nlisten to anything anyone says,<n>and I won't lose to\nanyone either!",
             "nextBlock": 5,
+            "origClipLength": 106,
+            "voiceIdx": 19,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "でも、相手次第で大変なことに――",
-                    "enText": "But it depends on who you're talking to.",
+                    "enText": "But if you do that to the wrong person,\nsomething bad might ha―",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 8410108643348110549
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 3147389195008290945
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2188675851557181795
                 }
             ],
             "pathId": 4237319081272862793,
@@ -71,8 +108,25 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "！！　この足音、次の獲物だな！\r\nよぉ～し、次こそ大成功してやるのだー！",
-            "enText": "Oh, my God! Those footsteps, that's \nthe next one! All right, next time, \nwe're going to make it big!",
+            "enText": "Aha! I hear the approaching footsteps of<n>my next\nprey! Hehe! This one will be my<n>best catch yet!",
             "nextBlock": 6,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5412907027683691025
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -5997798655821043554
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2096190218120540989
+                }
+            ],
             "pathId": -4021320359939767060,
             "blockIdx": 5
         },
@@ -80,8 +134,11 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "――今だ！　ガブーッ！！",
-            "enText": "—now! GABOOM!!!",
+            "enText": "Now! GRAWR!",
             "nextBlock": 7,
+            "origClipLength": 60,
+            "voiceIdx": 33,
+            "voiceSheetId": "051043001",
             "pathId": -7700493552611390217,
             "blockIdx": 6
         },
@@ -89,8 +146,29 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "……！！　……ひえっ！！？！？！？",
-            "enText": "…!!! … Heee!",
+            "enText": "EEEEEEK?!",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "voiceIdx": 25,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 5301666242021302227
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -5390907243739062614
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 616822125080950244
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -6979806884243253325
+                }
+            ],
             "pathId": -1903402867775341014,
             "blockIdx": 7
         },
@@ -98,8 +176,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "にししっ！　ガブッと大成功なのだ！\r\nさあ、怖がれ！　もっと噛みついちゃうぞー！",
-            "enText": "Hee-hee! It's a gobsmacking success! Come \non, be scared! I'll bite you harder!",
+            "enText": "Hehehe! I WIN! YOU LOSE! Fear me,<n>weakling!\nI'mma bite'cha real good!",
             "nextBlock": 9,
+            "origClipLength": 97,
+            "voiceIdx": 61,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -9148140451943687664
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3963152065370742659
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5294186543172059224
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5114760600518928034
+                }
+            ],
             "pathId": -6843286270665310690,
             "blockIdx": 8
         },
@@ -107,8 +206,29 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "キェ～ッ！　さらなるご褒美をくださると！？\r\nなんというファンサ！　ありがたき幸せぇ！",
-            "enText": "Keee! She's going to give us more rewards! \nWhat a fanfare! Thank you so much!",
+            "enText": "Oooh! You're gonna give me even more<n>of the\ngood stuff?! You don't skimp on<n>the fan service at\nall! Bite me more! Bite<n>me moooore!",
             "nextBlock": 10,
+            "origClipLength": 101,
+            "voiceIdx": 31,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 492909570984186014
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 3677088038869774837
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -7547592468802096642
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4581341378166471010
+                }
+            ],
             "pathId": -2088808306734752317,
             "blockIdx": 9
         },
@@ -116,23 +236,44 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "…………な……なんで喜んでるのだ。\r\nコイツ……噛みつきが効かないのか……！？",
-            "enText": "… na… why are you happy? This \nguy… can't take a bite…!",
+            "enText": "...What? Why is she happy? Is she<n>immune to my\nbites or something?",
             "nextBlock": 11,
+            "origClipLength": 95,
+            "voiceIdx": 27,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "言った通りになったな",
-                    "enText": "You've done exactly what I told you.",
+                    "enText": "What did I tell you?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "言った通りになったね",
-                    "enText": "You've done exactly what I said.",
+                    "enText": "What did I tell you?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "負けを認める？",
-                    "enText": "Admitting defeat?",
+                    "enText": "Guess this means you lost, huh?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -4682660151152817994
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1227140990764143958
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 995319567643844099
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6501800158186592430
                 }
             ],
             "pathId": 828964675260534121,
@@ -142,23 +283,44 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "…………な……なんで喜んでるのだ。\r\nコイツ……噛みつきが効かないのか……！？",
-            "enText": "… na… why are you happy? This \nguy… can't take a bite…!",
+            "enText": "...What? Why is she happy? Is she<n>immune to my\nbites or something?",
             "nextBlock": 12,
+            "origClipLength": 95,
+            "voiceIdx": 27,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "言った通りになったな",
-                    "enText": "You've done exactly what I told you.",
+                    "enText": "What did I tell you?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "言った通りになったね",
-                    "enText": "You've done exactly what I said.",
+                    "enText": "What did I tell you?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "負けを認める？",
-                    "enText": "Admitting defeat?",
+                    "enText": "Guess this means you lost, huh?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -311817266158593408
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3679516189425235642
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5422455086709643706
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 3626194150889208786
                 }
             ],
             "pathId": 5871426170212913877,
@@ -168,8 +330,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ぐぬぬ……わかったのだ。\r\n相手によっては大変なことになるから……。",
-            "enText": "Genuinely… understood. It's a \nbig deal for some people…",
+            "enText": "Grrr... So this is what you mean by<n>something bad\nmight happen.",
             "nextBlock": 13,
+            "origClipLength": 89,
+            "voiceIdx": 18,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -9051177508683847934
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 9179561507732213993
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3092908326746247453
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2196407738217499582
+                }
+            ],
             "pathId": 788782951859367146,
             "blockIdx": 12
         },
@@ -177,13 +360,34 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "相手を選んで、噛みついてやるのだ！！",
-            "enText": "Choose your opponents and bite them!",
+            "enText": "Then I'll just choose who I bite next!",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "voiceIdx": 11,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "そういうことじゃない……！",
-                    "enText": "That's not what I meant…!",
+                    "enText": "That's not my point at all!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1705872603864655300
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 2930625234036994090
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8444995812317550370
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -5505692608913395231
                 }
             ],
             "pathId": 8885061787949304011,
@@ -193,8 +397,29 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ふおぁぁ～～……ヤンチャかわゆし～～……。",
-            "enText": "Hooooooo~… yancha kawaii~…",
+            "enText": "Ooooh... The bad girl Umas are on<n>another level...",
             "nextBlock": 15,
+            "origClipLength": 72,
+            "voiceIdx": 7,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7615368358546627320
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -1186329432357167649
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 1281037527962071760
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -5433666594593264282
+                }
+            ],
             "pathId": 209820671309818189,
             "blockIdx": 14
         },
@@ -202,8 +427,29 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "反省の方向が違う、\r\nシンコウウインディなのであった。",
-            "enText": "It was a Shinko Windy with a different \ndirection of reflection.",
+            "enText": "Shinko Windy learns absolutely nothing<n>from\ntoday's events.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -2664312538153952285
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5763635342864999441
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 2867386537613073178
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -3285325099893334531
+                }
+            ],
             "pathId": 1212522792231326587,
             "blockIdx": 15
         },
@@ -211,8 +457,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "み、認めるわけ……ないのだーーッ！\r\n反省も後悔もしない！　絶対に負けないのだ！",
-            "enText": "I'm not going to admit it…! No remorse, no \nregret! I will not be defeated!",
+            "enText": "I'll never admit defeat! NEVER! I feel<n><i>zero</i> regret\nabout this, you hear? I'm not<n>gonna lose to\nanyone! Never! Never!",
             "nextBlock": 17,
+            "origClipLength": 97,
+            "voiceIdx": 16,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 3125129641034700698
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -3630235355363165190
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 114914791336136942
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3736329735726478980
+                }
+            ],
             "pathId": 5515262233348426361,
             "blockIdx": 16
         },
@@ -220,8 +487,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ガオーー！！　ガオガオ！　ガオオーーッ！！",
-            "enText": "Gao gao! Gao-gao! Gao-ohh!",
+            "enText": "Grawr! Graaawr! GRAAAAAAWR!",
             "nextBlock": 18,
+            "origClipLength": 72,
+            "voiceIdx": 62,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 3499374781889185306
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6338926576331659523
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6682220738599034471
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5927793446148838141
+                }
+            ],
             "pathId": -557860774570545030,
             "blockIdx": 17
         },
@@ -229,8 +517,29 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "……い　と　、か　わ　い　き　な　り　――",
-            "enText": "… and cute…",
+            "enText": "Oh. My. Gosh. She's! SO! CUUUUUTE!",
             "nextBlock": 19,
+            "origClipLength": 87,
+            "voiceIdx": 2,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -171474567871822892
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -4458498468452647321
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 802559602087801236
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5268114745665597686
+                }
+            ],
             "pathId": 1750289414541286178,
             "blockIdx": 18
         },
@@ -238,8 +547,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "倒れた！？　やったー！　勝ったのだ～～！！",
-            "enText": "I'm down! We did it! We've won~!",
+            "enText": "She fainted! Yes! I did it! I won!",
             "nextBlock": 20,
+            "origClipLength": 72,
+            "voiceIdx": 6,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -2986223621701014757
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 2398421005442948650
+                }
+            ],
             "pathId": -5186273247884808135,
             "blockIdx": 19
         },
@@ -247,8 +569,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後も反省せずに噛みつきを繰り返し……\r\n寮長のヒシアマゾンから大目玉を食らった。\nとの噂を、後日聞くのだった。",
-            "enText": "After that, she continued to bite… without \nremorse and received a big scolding from the \nhead of the dormitory, Hishi Amazon. I heard \na rumor later.",
+            "enText": "I hear later that Shinko Windy went on a<n>biting\nspree after that... and got an<n>earful from her dorm\nleader, Hishi<n>Amazon.",
             "nextBlock": -1,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6496001034104943394,
             "blockIdx": 20
         }

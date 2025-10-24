@@ -1,34 +1,44 @@
 {
-    "version": 4,
-    "bundle": "QUJN7ALRGQ65ZYBNKH7TCW24KKX25RFQ",
+    "version": 6,
+    "bundle": "EVM3ZBA4ZNERQDJEGIRUK3EO6GSFPBDB",
     "type": "story",
     "storyId": "809001008",
     "title": "ため息と絆創膏",
+    "enTitle": "A Sigh and a Bandage",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "お出かけに誘おうと思い、\r\nたづなさんを探していると――",
-            "enText": "I was looking for Tazuna to \ntake her on an outing.",
+            "enText": "I'm searching the school for Tazuna,<n>thinking it\nmight be nice to invite her<n>out, when suddenly...",
             "nextBlock": 2,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 964618813837325913,
             "blockIdx": 1
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "――ですからっ、早急に対応すべきです！",
-            "enText": "—We need to do something about \nthis as soon as possible!",
+            "enText": "Are you listening?! We must handle this<n>\n<i>posthaste!</i>",
             "nextBlock": 3,
+            "origClipLength": 57,
+            "voiceIdx": 19,
+            "voiceSheetId": "059001001",
             "pathId": -9055537761690193841,
             "blockIdx": 2
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "せ、接近ッ！？\r\nたづな近い近いっ、顔が近いぞ……！！",
-            "enText": "I'm so close! Tazuna close, close, \nclose to your face…!",
+            "enText": "Personal space! Our faces are almost<n>touching,\nTazuna!",
             "nextBlock": 4,
+            "origClipLength": 62,
+            "voiceIdx": 25,
+            "voiceSheetId": "059002001",
             "pathId": -3947380102302493251,
             "blockIdx": 3
         },
@@ -36,12 +46,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "いつになく荒い語調が、\r\n角の向こうから聞こえてきた。",
-            "enText": "From around the corner, I heard \nan unusually rough tone.",
+            "enText": "I hear an uncharacteristically angry—yet<n>\nfamiliar—voice from around the corner.",
             "nextBlock": 5,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（たづなさん……？）",
-                    "enText": "(Tazuna…?)",
+                    "enText": "(Tazuna?)",
                     "nextBlock": 5
                 }
             ],
@@ -52,107 +65,345 @@
             "jpName": "",
             "enName": "",
             "jpText": "様子を見に行ってみると……。",
-            "enText": "I went to see what was going on and found…",
+            "enText": "I hurry over to see what's going on.",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3989208462847602911,
             "blockIdx": 5
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……失礼しました。\r\nしかし秋川理事長、由々しき事態です！",
-            "enText": "My apologies to… But Chancellor Akikawa, \nthis is a serious matter!",
+            "enText": "Pardon my manners, but this is a serious<n>situation,\nDirector Akikawa!",
             "nextBlock": 7,
+            "origClipLength": 63,
+            "voiceIdx": 35,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 6881923409155398258
+                },
+                {
+                    "origLen": 116,
+                    "pathId": -4708406324717102146
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 6498316742991258539
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 5186969506443203609
+                }
+            ],
             "pathId": -4273674635525093853,
             "blockIdx": 6
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "トレセン学園の保健室は、\r\nウマ娘たちにとっての命綱――",
-            "enText": "The school infirmary is a lifeline \nfor all the girls.",
+            "enText": "The Tracen Academy infirmary is an<n>important\nlifeline for our Umamusume...",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2719979002130294098
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -999261050800175351
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -2548754476284377500
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 2413648650635154044
+                }
+            ],
             "pathId": 4301239147768273460,
             "blockIdx": 7
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "常に万全の設備が揃っていなければ。\r\n医療器具の欠品など、以ての外です！",
-            "enText": "You need to be fully equipped at \nall times. We can't afford to run \nout of medical equipment!",
+            "enText": "But it can't fulfill that role if it isn't fully<n>\nequipped. Running out of essential<n>equipment is\nunacceptable!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "voiceIdx": 28,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1793641505938231848
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -6539155104028333983
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 7944617446780625589
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -4263479953129993079
+                }
+            ],
             "pathId": -3698192089515923181,
             "blockIdx": 8
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "当然ッ！　わたしもそれは理解している。",
-            "enText": "Of course! I understand that, too.",
+            "enText": "Indeed! I wholeheartedly agree with you.",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "voiceIdx": 73,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 273584892268781447
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5842282796686852421
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4700329321004534531
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 4733851622802594487
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4025609387506548148
+                }
+            ],
             "pathId": 804228048526116612,
             "blockIdx": 9
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "がしかし、運送中の事故では仕方がない！\r\nもちろん急ぎ先方には連絡を入れ、\n新たに発送準備を――",
-            "enText": "However, if it was an accident in transit, \nthere was nothing we could do! Of course, we \nwill contact the recipient as soon as \npossible and prepare a new shipment.",
+            "enText": "However, the fact that there was an<n>accident\nduring shipping is out of our<n>control! I've already\narranged for a new<n>delive—",
             "nextBlock": 11,
+            "origClipLength": 76,
+            "voiceIdx": 34,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 3204321626856107045
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5070984797781154577
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 5413849503866515343
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6705229011720777842
+                }
+            ],
             "pathId": 6562434321368183566,
             "blockIdx": 10
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "でもそれだと、\r\n今日には間に合わないじゃないですか！",
-            "enText": "But then we'd never make it today!",
+            "enText": "But a delivery later is no use to students<n>who\nneed the facilities today! Surely—",
             "nextBlock": 12,
+            "origClipLength": 62,
+            "voiceIdx": 19,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -3199555630905940762
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3457939950032113612
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -2553161786220996424
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -5086638946793450241
+                }
+            ],
             "pathId": -1313506269828312480,
             "blockIdx": 11
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "平静ッ！！！！！！",
-            "enText": "Peaceful ！！！！！！",
+            "enText": "<i>Silence!</i>",
             "nextBlock": 13,
+            "origClipLength": 50,
+            "voiceIdx": 33,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 7912549195472782733
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8576463798884584263
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 6155378498364430773
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1668102557789146406
+                }
+            ],
             "pathId": 3068276630174600499,
             "blockIdx": 12
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "っ！？",
-            "enText": "What?",
+            "enText": "...!",
             "nextBlock": 14,
+            "origClipLength": 46,
+            "voiceIdx": 26,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": -1928976060086360343
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2218334725232407562
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -2302514903470429317
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8622297874263326516
+                }
+            ],
             "pathId": 4299654795340099396,
             "blockIdx": 13
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "……落ち着け、たづな。\r\n配送が少々滞ったとて、備蓄はある。",
-            "enText": "… Calm down, Tazuna. We have a stockpile, \neven if deliveries are a bit slow.",
+            "enText": "Calm down, Tazuna. Yes, the shipment<n>has been\ndelayed, but we still have<n>ample supplies in\nreserve.",
             "nextBlock": 15,
+            "origClipLength": 64,
+            "voiceIdx": 37,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 5227680904509891369
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7427076163699587414
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -8276356058423225962
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8893048913955252378
+                }
+            ],
             "pathId": -7050707897646939393,
             "blockIdx": 14
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "君がそう急いていては、生徒たちにも\r\n不安が広がる。少し頭を冷やして来い。",
-            "enText": "If you're in such a hurry, the students will \nbe worried. Go and cool down a bit.",
+            "enText": "The students will get nervous if they see<n>you\nacting like this. For their sakes, I<n>suggest you take\na walk to cool down.",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "voiceIdx": 21,
+            "voiceSheetId": "059002001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 861673524338345126
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -9076705267592034521
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -6421704133701418473
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5466546350375038100
+                }
+            ],
             "pathId": -8123779585059257364,
             "blockIdx": 15
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "す……すみません。\r\nそうします……。",
-            "enText": "I'm so sorry… I will do so…",
+            "enText": "M-my apologies... Yes, that... sounds like<n>a good\nidea.",
             "nextBlock": 17,
+            "origClipLength": 57,
+            "voiceIdx": 24,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 5540537878971317386
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -2165202379667326737
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -6704930250689096906
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7099161897119713423
+                }
+            ],
             "pathId": -2909859831209209426,
             "blockIdx": 16
         },
@@ -160,22 +411,68 @@
             "jpName": "",
             "enName": "",
             "jpText": "とぼとぼ歩いて行ったたづなさんを、\r\n慌てて追いかけた。",
-            "enText": "I hurriedly chased after \nher as she trudged off.",
+            "enText": "Tazuna trudges away, and I rush after<n>her.",
             "nextBlock": 18,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 4187732901572088597
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -912258224524658736
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -411388865157804160
+                },
+                {
+                    "origLen": 185,
+                    "pathId": 911436430513835895
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -8259771262809772306
+                }
+            ],
             "pathId": -9055737940514000140,
             "blockIdx": 17
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "あ……トレーナーさん……？",
-            "enText": "Oh… trainer…?",
+            "enText": "Oh... Trainer?",
             "nextBlock": 19,
+            "origClipLength": 53,
+            "voiceIdx": 57,
+            "voiceSheetId": "059001001",
             "choices": [
                 {
                     "jpText": "……大丈夫ですか？",
-                    "enText": "Is… ok?",
+                    "enText": "Are you all right?",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 635060269661812496
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5740291928902729100
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 8615673154749905354
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 5618805083519157957
                 }
             ],
             "pathId": 4082742364754223725,
@@ -183,60 +480,142 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……もしかして、先ほどの一件、\r\n見ておられたのでしょうか？",
-            "enText": "… Perhaps you've seen the earlier one?",
+            "enText": "Did you happen to... witness that just<n>now?",
             "nextBlock": 20,
+            "origClipLength": 64,
+            "voiceIdx": 54,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 1240835818338065566
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1347913909054767747
+                }
+            ],
             "pathId": -1563001485406981191,
             "blockIdx": 19
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "あはは……お恥ずかしいです。\r\nつい、かっとなってしまって。",
-            "enText": "Hahaha… I'm so embarrassed. I'm sorry, \nI just got carried away.",
+            "enText": "Ahaha... How embarrassing. I lost my<n>composure\nback there.",
             "nextBlock": 21,
+            "origClipLength": 64,
+            "voiceIdx": 14,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -979587136891778072
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -7023978049762400118
+                }
+            ],
             "pathId": 1590418181364651203,
             "blockIdx": 20
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……私、このトレセン学園で、\r\nいろんな子たちを見てきました。",
-            "enText": "… I've seen a lot of kids \nhere at the school.",
+            "enText": "I've seen all kinds of racers here at<n>Tracen\nAcademy.",
             "nextBlock": 22,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 8764191288221544726
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -1828493856859714681
+                }
+            ],
             "pathId": -5367206306082240020,
             "blockIdx": 21
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "もちろん、見事にトゥインクルで活躍して、\r\nその先のドリームトロフィーへ\n進んでいく子たちもいましたが――",
-            "enText": "Of course, there were some children who did \nso well at Twinkle that they went on to win \nthe Dream Trophy.",
+            "enText": "Of course, some do amazing in the<n>Twinkle Series\nand then go on to the<n>Dream Trophy League,\nbut...",
             "nextBlock": 23,
+            "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 488106499594777970
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8822518356372932674
+                }
+            ],
             "pathId": -2248853374260955732,
             "blockIdx": 22
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "そういう子たちは、ほんのひと握り。\r\n……たいていは、そうもいきません。",
-            "enText": "There are only a handful of these \nchildren. Most… are not.",
+            "enText": "There are only a few racers like that.<n>Most aren't\nso lucky.",
             "nextBlock": 24,
+            "origClipLength": 68,
+            "voiceIdx": 34,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2188044690110548421
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3989935440702083369
+                }
+            ],
             "pathId": -6412928596087480032,
             "blockIdx": 23
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "ケガや事故によって、満足に走ることさえ\r\nできなくなる子も……多くいました。",
-            "enText": "Injuries and accidents often prevented some \nchildren from even running satisfactorily…",
+            "enText": "Many lose the ability to perform at their<n>best,\neither due to injury or accident.",
             "nextBlock": 25,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "それで、あんな必死に……",
-                    "enText": "And that's why they're so desperate…",
+                    "enText": "So that's why you were so frantic.",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7921685980524100989
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5943043616048565160
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 8686728906371110417
                 }
             ],
             "pathId": 1178820840674161766,
@@ -244,28 +623,75 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "人生を懸けてここへ来るくらいですから、\r\nだいたいの子たちは、走ることが大好きです。",
-            "enText": "Most of them love to run because they have \nspent their whole lives coming here.",
+            "enText": "Most of our students love running so<n>much that\nthey've dedicated their lives<n>to it by coming here.",
             "nextBlock": 26,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -213954308954660874
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7955209887652362024
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -6864913340132489360
+                }
+            ],
             "pathId": -477768394839089614,
             "blockIdx": 25
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "それなのに、2度と風を感じられなくなる。\r\nその瞬間の絶望といったら――",
-            "enText": "And yet, you will never feel the wind again. \nThat moment of despair…",
+            "enText": "So the despair they feel when they find<n>out they'll\nnever feel the wind in their<n>faces again...",
             "nextBlock": 27,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -7268617940504595638
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6085605379460904040
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 5718530731570626456
+                }
+            ],
             "pathId": 880783328229713581,
             "blockIdx": 26
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……凄まじい、ですから。",
-            "enText": "Because… is tremendous.",
+            "enText": "It's absolutely dreadful...",
             "nextBlock": 28,
+            "origClipLength": 52,
+            "voiceIdx": 18,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -2862838947763214639
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -3326940605159840343
+                }
+            ],
             "pathId": -1463380561728253702,
             "blockIdx": 27
         },
@@ -273,8 +699,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "それきり、たづなさんはしばらく黙っていた。",
-            "enText": "After that, Tazuna-san was \nsilent for a while.",
+            "enText": "With that, Tazuna falls silent.",
             "nextBlock": 29,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 1072760097697451799
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 6205887521603449375
+                }
+            ],
             "pathId": 35660608612956088,
             "blockIdx": 28
         },
@@ -282,40 +721,92 @@
             "jpName": "",
             "enName": "",
             "jpText": "遠くグラウンドの方から、\r\nトレーニング中らしき声が響いてくる……。",
-            "enText": "In the distance, from the ground, you can \nhear what sounds like a training session…",
+            "enText": "As we stand there, we can hear students<n>training\nin the distance.",
             "nextBlock": 30,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 4635907254148261196
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -252285731860710527
+                }
+            ],
             "pathId": 8175890203877356146,
             "blockIdx": 29
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……うんっ、頭が冷えました！！",
-            "enText": "… Yeah, that gave me a head cold!",
+            "enText": "...Okay, I'm cooled off now!",
             "nextBlock": 31,
+            "origClipLength": 54,
+            "voiceIdx": 59,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 5015986820403852555
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6574664621268284954
+                }
+            ],
             "pathId": 4622549481149326947,
             "blockIdx": 30
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "さて、私はそろそろ仕事に戻ります。\r\nご心配おかけしてすみませんでした！\nそれでは――",
-            "enText": "Well, I'd better get back to work. I'm sorry \nfor worrying you! So long—",
+            "enText": "Well then, I'd better get back to work.<n>Sorry for\nworrying you! I'll—",
             "nextBlock": 32,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 3319437379858861755
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 7565242943836710405
+                }
+            ],
             "pathId": -349743047709197230,
             "blockIdx": 31
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "きゃっ！？",
-            "enText": "Yikes!",
+            "enText": "Gyah!",
             "nextBlock": 33,
+            "origClipLength": 48,
+            "voiceIdx": 25,
+            "voiceSheetId": "059001001",
             "choices": [
                 {
                     "jpText": "たづなさん！？",
-                    "enText": "Tazuna!",
+                    "enText": "Tazuna?!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -3529817788668648345
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6079163871317115983
                 }
             ],
             "pathId": 8186512784333613519,
@@ -323,10 +814,23 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "す、すみません、ちょっと足がもつれて。\r\nあはは……。",
-            "enText": "I'm sorry, my feet are a \nbit tangled. Hahaha…",
+            "enText": "S-sorry... I just tripped, that's all. How<n>clumsy of\nme...",
             "nextBlock": 34,
+            "origClipLength": 65,
+            "voiceIdx": 14,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -5136536068196540165
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -160522652551317503
+                }
+            ],
             "pathId": 5756315230091100117,
             "blockIdx": 33
         },
@@ -334,13 +838,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "たづなさんは笑ってみせたが、よく見ると\r\n足首のあたりに傷がついていた。",
-            "enText": "Tazuna smiled, but on closer inspection she \ncould see a scar around her ankle.",
+            "enText": "Though she puts on a smile, it's clear her<n>ankle is\nhurt.",
             "nextBlock": 35,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "手当します！",
-                    "enText": "We'll give you an allowance!",
+                    "enText": "Let me take care of that!",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 758595676983478585
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3711652010027364173
                 }
             ],
             "pathId": -2204840401768583072,
@@ -348,10 +865,23 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "えっ！？　いえいえ、このくらいは……！",
-            "enText": "What? No, no, this much is…!",
+            "enText": "Huh?! No, that's not necessary! Really!",
             "nextBlock": 36,
+            "origClipLength": 57,
+            "voiceIdx": 50,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 308172650691067553
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -4461989967130907628
+                }
+            ],
             "pathId": 8424702496506272030,
             "blockIdx": 35
         },
@@ -359,22 +889,48 @@
             "jpName": "",
             "enName": "",
             "jpText": "たづなさんの遠慮を押し切って、\r\n持ち歩いていた道具での手当てを済ませた。",
-            "enText": "Despite Tazuna's reservations, she was able \nto use the tools she had with her.",
+            "enText": "Despite her protests, I treat Tazuna's<n>ankle with\nthe medical equipment I<n>always have on me.",
             "nextBlock": 37,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 542480435315790673
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4063337542346348039
+                }
+            ],
             "pathId": -5648018682785235483,
             "blockIdx": 36
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "あ……ありがとうございました。\r\nさすが、応急手当はお手の物ですね……。",
-            "enText": "Oh… thank you very much. You're right, \nyou're very good at first aid…",
+            "enText": "Th-thank you... As expected, your first<n>aid skills\nare exemplary...",
             "nextBlock": 38,
+            "origClipLength": 68,
+            "voiceIdx": 12,
+            "voiceSheetId": "059001001",
             "choices": [
                 {
                     "jpText": "トレーナーですから",
-                    "enText": "I'm a trainer.",
+                    "enText": "I am a trainer, after all!",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -8617202473363395060
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7421088856295020341
                 }
             ],
             "pathId": -6755709476502778020,
@@ -382,42 +938,94 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "そう、ですね……。",
-            "enText": "Yes, that's right…",
+            "enText": "Yes, that's true...",
             "nextBlock": 39,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -881225974761253398
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 26610096104185078
+                }
+            ],
             "pathId": 537342232640170117,
             "blockIdx": 38
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "…………ふふっ。",
-            "enText": "… Phew.",
+            "enText": "...Hehe.",
             "nextBlock": 40,
+            "origClipLength": 50,
+            "voiceIdx": 0,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -2995412697047151043
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -2496548902814221975
+                }
+            ],
             "pathId": 2311492155327013170,
             "blockIdx": 39
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "トレーナーさんのことは……\r\n安心して、見ていられますね。",
-            "enText": "I feel at ease with my trainer \nat … and I can watch her.",
+            "enText": "It feels very... reassuring having you<n>around,\nTrainer.",
             "nextBlock": 41,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 6033924559681416704
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4663447786879379330
+                }
+            ],
             "pathId": 6604164092562218186,
             "blockIdx": 40
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "担当さんのことが、\r\nちょっぴり羨ましいかも？",
-            "enText": "You might be a little bit jealous \nof the person in charge?",
+            "enText": "I might even be a little jealous of your<n>trainee...",
             "nextBlock": 42,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "えっ？",
-                    "enText": "What?",
+                    "enText": "Huh?",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 5077731896115212022
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3338779969695049656
                 }
             ],
             "pathId": -8810756273923583445,
@@ -425,28 +1033,67 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "なんて。冗談です♪",
-            "enText": "Oh my god. I'm just kidding.",
+            "enText": "Don't worry, that was a joke! ♪",
             "nextBlock": 43,
+            "origClipLength": 50,
+            "voiceIdx": 2,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -514967224434158784
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -774575369127897858
+                }
+            ],
             "pathId": -4961633377066538828,
             "blockIdx": 42
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……すっかりお世話になってしまいましたね。\r\nよければ、お礼させてもらえませんか？",
-            "enText": "… Thank you so much for all your help. If \nyou don't mind, I'd like to thank you.",
+            "enText": "Thank you for taking care of me! If it's<n>all right,\nI'd like to repay the favor.",
             "nextBlock": 44,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -5352400462463256153
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -8092927332529006942
+                }
+            ],
             "pathId": 7302018265755344607,
             "blockIdx": 43
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "またお食事でも行きましょう！\r\n今日は奢っちゃいますよ～。",
-            "enText": "Let's go out for dinner again! \nI'll buy you a drink today!",
+            "enText": "So let's go out for a meal again. On me!",
             "nextBlock": 45,
+            "origClipLength": 63,
+            "voiceIdx": 11,
+            "voiceSheetId": "059001001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 5233449186703484742
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 6710968330514950347
+                }
+            ],
             "pathId": 4103797132395464988,
             "blockIdx": 44
         },
@@ -454,8 +1101,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "――そして、たづなさんと一緒に、\r\nいつものラーメン屋へ行ったのだった。",
-            "enText": "—Then we went to the usual \nnoodle shop with Tazuna.",
+            "enText": "And so, Tazuna and I decide to go to<n>our usual\nramen spot.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -2649092151487687851
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 595627052292968765
+                }
+            ],
             "pathId": -6418271324886982998,
             "blockIdx": 45
         }

@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "K4ZLFFGROTGFGPWO42OJTYT4OUVM4NPO",
+    "version": 6,
+    "bundle": "SDHTXX4EH5DDUR44AQFNASBK3HLVKC6F",
     "type": "story",
     "storyId": "501011302",
     "title": "福引チャンス！",
+    "enTitle": "Raffle Time!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日の夕方、グラスワンダーと\r\n商店街を歩いていると――",
-            "enText": "One evening, as I was walking down a shopping \nstreet with Grass Wonder.",
+            "enText": "One evening, while I'm walking through<n>the\nshopping district with Grass<n>Wonder...",
             "nextBlock": 2,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 101,
-                    "pathId": -8299018722719121360
-                },
                 {
                     "origLen": 102,
                     "pathId": -2304298692874776772
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8299018722719121360
                 }
             ],
             "pathId": -2891799475304533891,
@@ -29,21 +32,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "向こうが賑やかですね、\r\n何かあったんでしょうか？",
-            "enText": "There's a lot of activity over \nthere. What's going on?",
+            "enText": "Look at that lively crowd. Is there an<n>event taking\nplace?",
             "nextBlock": 3,
             "origClipLength": 77,
+            "voiceIdx": 20,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 91,
                     "pathId": -3736913183050929450
                 },
                 {
-                    "origLen": 68,
-                    "pathId": -2631426262699068004
-                },
-                {
                     "origLen": 88,
                     "pathId": 1460148871269559758
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -2631426262699068004
                 }
             ],
             "pathId": 2111281541661392300,
@@ -51,15 +56,17 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "さあさ、新春・大福引祭り開催中だよ～！\r\n特賞はなんと『温泉旅行券』！",
-            "enText": "The New Year's Big Lucky Draw Festival \nis underway! The special prize is \na trip to a hot spring!",
+            "enText": "Step right up and try your luck with our<n>New\nYear's raffle! This year's grand-prize<n>is a hot\nspring vacation for two!",
             "nextBlock": 4,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "温泉旅行券",
-                    "enText": "Onsen Travel Coupons"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -68,12 +75,12 @@
                     "pathId": 1786922665396112072
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 9038726799707180360
-                },
-                {
                     "origLen": 101,
                     "pathId": -2271331730459698354
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 9038726799707180360
                 }
             ],
             "pathId": 1420594468034467813,
@@ -81,11 +88,13 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "1等は『特上にんじんハンバーグ』\r\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
-            "enText": "First prize is a \"Special carrot hamburger \nsteak,\" second prize is a \"pile of carrots,\" \nand third prize is \"a carrot!\"",
+            "enText": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize winners<n>get a bushel of\ncarrots! And third-prize<n>winners can take home a\nsingle carrot!",
             "nextBlock": 5,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 123,
@@ -93,11 +102,11 @@
                 },
                 {
                     "origLen": 112,
-                    "pathId": -56585971892689402
+                    "pathId": 2438892501146919350
                 },
                 {
                     "origLen": 112,
-                    "pathId": 2438892501146919350
+                    "pathId": -56585971892689402
                 }
             ],
             "pathId": -6971773756653666299,
@@ -107,21 +116,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "なるほど、福引ですか～。",
-            "enText": "I see… a good luck draw!",
+            "enText": "I see... It's a raffle.",
             "nextBlock": 6,
             "origClipLength": 60,
+            "voiceIdx": 9,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 8122636452760120819
                 },
                 {
-                    "origLen": 36,
-                    "pathId": 8708347808161697463
-                },
-                {
                     "origLen": 71,
                     "pathId": 3148311402628364951
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8708347808161697463
                 }
             ],
             "pathId": 7111396830315069203,
@@ -131,17 +142,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "そういえば……\r\nご存じですか、トレーナーさん？",
-            "enText": "Speaking of which, do you know…… trainer?",
+            "enText": "Which reminds me... Were you aware,<n>Trainer?",
             "nextBlock": 7,
             "origClipLength": 76,
+            "voiceIdx": 55,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": -7277520370225792323
-                },
                 {
                     "origLen": 87,
                     "pathId": 6291577589111766636
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -7277520370225792323
                 }
             ],
             "pathId": 1354701513618545188,
@@ -151,17 +164,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "福引はその昔、当時の高貴な方々が\r\n考えた余興が始まりだそうですよ。",
-            "enText": "The Fukubiki was originally a sideshow \nthought up by the nobles of that time.",
+            "enText": "It's said that raffles were originally<n>conceived by\nthe nobility long ago as a<n>way to entertain\nthemselves.",
             "nextBlock": 8,
             "origClipLength": 89,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 95,
-                    "pathId": 175337405866733895
-                },
                 {
                     "origLen": 100,
                     "pathId": -3222812925982075455
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 175337405866733895
                 }
             ],
             "pathId": 7925443410587123114,
@@ -171,17 +186,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "なんでも、文字が書かれた短冊を引かせ、\r\n布や糸などの景品を与えたのだとか。",
-            "enText": "The festival was held at the same time as the \nfestival itself, and the participants were \nasked to draw strips of paper with words \nwritten on them, and were given prizes such \nas cloth and thread.",
+            "enText": "They would have people draw strips of<n>paper with\nletters on them and give out<n>prizes like cloth and\nstring.",
             "nextBlock": 9,
             "origClipLength": 94,
+            "voiceIdx": 85,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 4957812515013988041
-                },
                 {
                     "origLen": 105,
                     "pathId": 847016959123743149
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 4957812515013988041
                 }
             ],
             "pathId": 9025478414903106603,
@@ -189,19 +206,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "おっ、嬢ちゃん物知りだね！\r\nよかったらやっていかないかい？",
-            "enText": "Oh, girl, you know your stuff! \nWould you like to try it?",
+            "enText": "Aren't you well-informed! How about<n>giving it a\ngo?",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": 4316504157036055558
-                },
                 {
                     "origLen": 95,
                     "pathId": -3544810198973548078
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4316504157036055558
                 }
             ],
             "pathId": 9155711207292644171,
@@ -211,17 +230,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "そうですね。\r\nちょうど福引券もあることですし……♪",
-            "enText": "Yes, I know. We'll just have to have a goody \nbag ticket. ……♪",
+            "enText": "Well, why not? I just happen to have a<n>raffle\nticket right here. ♪",
             "nextBlock": 11,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 8493683280744578089
-                },
                 {
                     "origLen": 89,
                     "pathId": 931119294662231818
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 8493683280744578089
                 }
             ],
             "pathId": -7000700014380360199,
@@ -231,29 +252,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "トレーナーさん、\r\n1度だけ回しても構わないでしょうか？",
-            "enText": "Trainer, would you mind if \nI turn it around just once?",
+            "enText": "Trainer, you wouldn't mind if I try just<n>once,\nwould you?",
             "nextBlock": 12,
             "origClipLength": 81,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "目指すは特賞だな！",
-                    "enText": "That's a special prize to aim for!",
+                    "enText": "Go get the grand-prize!",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "目指すは特賞だね！",
-                    "enText": "I'm aiming for a special prize!",
+                    "enText": "Go get the grand-prize!",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 68,
-                    "pathId": 2069453362167562745
-                },
-                {
                     "origLen": 92,
                     "pathId": -645558978859423727
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2069453362167562745
                 }
             ],
             "pathId": 1221241799400153227,
@@ -263,17 +286,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ふふっ、\r\nご期待に応えられるよう頑張りますね。",
-            "enText": "I will do my best to meet your expectations.",
+            "enText": "Hehe. I'll do my best to not let you<n>down.",
             "nextBlock": 13,
             "origClipLength": 76,
+            "voiceIdx": 10,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -8513420563492459883
-                },
                 {
                     "origLen": 87,
                     "pathId": -1394420269422394951
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -8513420563492459883
                 }
             ],
             "pathId": 5601559717593575580,
@@ -283,17 +308,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "両手でしっかりとレバーを持ち、\r\n抽選器を回すグラスワンダー。",
-            "enText": "Holding the lever firmly with both hands, \nGrass Wonder turns the lottery wheel.",
+            "enText": "Grass Wonder firmly grasps the lever<n>with both\nhands and gives the raffle<n>machine a spin.",
             "nextBlock": 14,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 16,
-                    "pathId": -6015424523730617727
+                    "pathId": -1909103741812516935
                 },
                 {
                     "origLen": 16,
-                    "pathId": -1909103741812516935
+                    "pathId": -6015424523730617727
                 }
             ],
             "pathId": 8075655239516378932,
@@ -303,27 +330,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "その結果は――",
-            "enText": "The result is―",
+            "enText": "A small plastic ball drops from the<n>tumbler's\nopening...",
             "nextBlock": 15,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 18354172051947855,
             "blockIdx": 14
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "なんとっ！　おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
-            "enText": "What a surprise! Congratulations! The special \nprize, \"Hot Spring Trip Voucher\", is now \navailable at ～～～～!",
+            "enText": "Holy mackerel! We've got ourselves a<n>grand-prize\nwinner! Come and get the<n>coupon for your hot\nspring vacation!<n>Congratulations!",
             "nextBlock": 16,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 162,
-                    "pathId": 8164199753997844947
-                },
                 {
                     "origLen": 156,
                     "pathId": 8319256227998834904
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 8164199753997844947
                 }
             ],
             "pathId": -2231874859166286466,
@@ -333,23 +364,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 17,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 162,
-                    "pathId": -292420062516514600
-                },
-                {
                     "origLen": 156,
                     "pathId": 6432067363113281979
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -292420062516514600
                 }
             ],
             "pathId": -9088422230532714924,
@@ -359,17 +392,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "えっ？\r\nほ、本当ですか？",
-            "enText": "What? Really?",
+            "enText": "What? R-really?",
             "nextBlock": 18,
             "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 6773185004212916682
-                },
                 {
                     "origLen": 173,
                     "pathId": -3814879973727860058
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6773185004212916682
                 }
             ],
             "pathId": -4871834510686279665,
@@ -379,29 +414,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "でも困りました。旅行は嬉しいですが、\r\nすぐというわけには――",
-            "enText": "But I was in trouble. I'm happy to travel, \nbut not right away.",
+            "enText": "I'm overjoyed, truly, but I'm afraid I<n>don't have\nthe time for a vacation at the<n>moment.",
             "nextBlock": 19,
             "origClipLength": 85,
+            "voiceIdx": 35,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "時間を作るのは厳しいか？",
-                    "enText": "Tough to make time?",
+                    "enText": "Are you sure you couldn't find the time\nsomehow?",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "時間を作るのは厳しい？",
-                    "enText": "Tough to make time?",
+                    "enText": "Are you sure you couldn't find the time\nsomehow?",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 150,
-                    "pathId": 6077813718081394528
-                },
-                {
                     "origLen": 184,
                     "pathId": -4818275547084304074
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 6077813718081394528
                 }
             ],
             "pathId": -8415391056592926651,
@@ -411,17 +448,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……そうですね。",
-            "enText": "…… Yes, that's right.",
+            "enText": "Not right now, I'm afraid.",
             "nextBlock": 20,
             "origClipLength": 55,
+            "voiceIdx": 79,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 6769164671477999009
-                },
                 {
                     "origLen": 66,
                     "pathId": -6239789591637962233
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6769164671477999009
                 }
             ],
             "pathId": -8393758036706555832,
@@ -431,24 +470,26 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "けれど、全てが落ち着いた後であれば、\r\n歩んだ道を振り返るのも悪くはないでしょう。",
-            "enText": "But after everything has settled down, \nit is not a bad idea to look back \non the path you have taken.",
+            "enText": "But I suppose once things settle down, I<n>could use\nthis as an opportunity to<n>reflect on the path I'll\nhave traveled thus<n>far.",
             "nextBlock": 21,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "トゥインクル・シリーズの後ってこと？",
-                    "enText": "You mean after the Twinkle series?",
+                    "enText": "So in other words, after the Twinkle Series?",
                     "nextBlock": 21
                 }
             ],
             "animData": [
                 {
-                    "origLen": 87,
-                    "pathId": 2579007720367394390
-                },
-                {
                     "origLen": 109,
                     "pathId": 5183010827603993154
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 2579007720367394390
                 }
             ],
             "pathId": 5216145062967083609,
@@ -458,17 +499,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい。『不退転』の精神で走り続けた道が、\r\n果たして満足に足るものであったのか――",
-            "enText": "Yes. I wonder if the path I have been on with \nthe spirit of \"never give up\" is really \nsatisfying enough.",
+            "enText": "Yes. That way, I'll be able to ascertain<n>my level of\nsatisfaction with the path I've<n>taken.",
             "nextBlock": 22,
             "origClipLength": 98,
+            "voiceIdx": 80,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 8480311801032058909
-                },
                 {
                     "origLen": 109,
                     "pathId": -7284793779216963349
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 8480311801032058909
                 }
             ],
             "pathId": -6632082108392299109,
@@ -478,17 +521,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "これまでの軌跡を振り返る\r\nいい機会になると思うんです。",
-            "enText": "I think this will be a good opportunity \nto look back on the trajectory \nwe have taken so far.",
+            "enText": "It would be the perfect time to take a<n>step back\nand reflect on my progress.",
             "nextBlock": 23,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 100,
-                    "pathId": 1186151796761286206
-                },
                 {
                     "origLen": 92,
                     "pathId": 7101544091933594500
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1186151796761286206
                 }
             ],
             "pathId": -9204092375753668335,
@@ -498,29 +543,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "だから……トレーナーさん、\r\nその時にはご一緒願えませんか？",
-            "enText": "So…… trainer, will you join us then?",
+            "enText": "Would you come along with me too,<n>Trainer?",
             "nextBlock": 24,
             "origClipLength": 84,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "俺も旅行について行っていいのか？",
-                    "enText": "Can I go on the trip with you?",
+                    "enText": "Are you sure you want me along?",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "私も旅行について行っていいの？",
-                    "enText": "Can I go on the trip with you?",
+                    "enText": "Are you sure you want me along?",
                     "nextBlock": 24
                 }
             ],
             "animData": [
                 {
-                    "origLen": 55,
-                    "pathId": 5591806134935028213
-                },
-                {
                     "origLen": 95,
                     "pathId": -9128880295131538615
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 5591806134935028213
                 }
             ],
             "pathId": 4123800550430494782,
@@ -530,17 +577,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい♪",
-            "enText": "♪ Yes ♪",
+            "enText": "Yes. ♪",
             "nextBlock": 25,
             "origClipLength": 48,
+            "voiceIdx": 47,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -8379652858131073861
-                },
                 {
                     "origLen": 59,
                     "pathId": 2593322177519134807
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -8379652858131073861
                 }
             ],
             "pathId": -7187561732833342943,
@@ -550,17 +599,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "他の誰でもない、\r\n共に歩んできたトレーナーさんがいいんです。",
-            "enText": "I want a trainer I've worked \nwith, not someone else.",
+            "enText": "You're the one who has been with me<n>every step\nof the way.",
             "nextBlock": 26,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": -5442225383107858008
-                },
                 {
                     "origLen": 96,
                     "pathId": 5465060746938444763
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5442225383107858008
                 }
             ],
             "pathId": 4498284515108207334,
@@ -570,29 +621,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "約束をください、トレーナーさん。\r\nそうすれば私、もっと頑張れますから。",
-            "enText": "Give me your word, trainer. If \nyou do, I will work harder.",
+            "enText": "Make it a promise, Trainer. It would<n>strengthen\nmy motivation.",
             "nextBlock": 27,
             "origClipLength": 91,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "わかった、楽しみにしてる",
-                    "enText": "Okay, I'll look forward to it.",
+                    "enText": "Okay. I'm looking forward to it.",
                     "nextBlock": 27
                 },
                 {
                     "jpText": "わかった、楽しみにしてるよ",
-                    "enText": "Okay, I'll look forward to it.",
+                    "enText": "Okay. I'm looking forward to it.",
                     "nextBlock": 27
                 }
             ],
             "animData": [
                 {
-                    "origLen": 99,
-                    "pathId": 4212916081169859444
-                },
-                {
                     "origLen": 102,
                     "pathId": 1953020248581482209
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4212916081169859444
                 }
             ],
             "pathId": 128467598001578451,
@@ -602,17 +655,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……ありがとうございます。\r\n来たる時に向け、今後も邁進していきますね。",
-            "enText": "Thank you for…… We will continue to push \nforward for the coming time.",
+            "enText": "Thank you. I'll commit myself to training<n>in\npreparation for that day.",
             "nextBlock": 28,
             "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 6284028227920998019
-                },
                 {
                     "origLen": 102,
                     "pathId": 7321477269162697707
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6284028227920998019
                 }
             ],
             "pathId": 94571858462227990,
@@ -622,17 +677,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "決意を固めた彼女に頷き、\r\n温泉旅行券を預かることになったのだった。",
-            "enText": "She nodded her head in determination and \nagreed to accept the spa trip voucher.",
+            "enText": "I take the hot spring ticket from her with<n>an\naffirmative nod.",
             "nextBlock": -1,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": -3690240074401339361
-                },
                 {
                     "origLen": 100,
                     "pathId": -5736131260705265876
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3690240074401339361
                 }
             ],
             "pathId": -5110641764188072159,
@@ -640,19 +697,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
-            "enText": "Congratulations, first prize～! The prize is a \n\"Special Carrot Hamburger\"!",
+            "enText": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!",
             "nextBlock": 30,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 143,
-                    "pathId": -1262299547217540809
-                },
                 {
                     "origLen": 146,
                     "pathId": -1795501869471114010
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -1262299547217540809
                 }
             ],
             "pathId": -1312436774974933,
@@ -662,23 +721,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 31,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 143,
-                    "pathId": 8044921935669883632
-                },
-                {
                     "origLen": 146,
                     "pathId": -8852085962773979596
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 8044921935669883632
                 }
             ],
             "pathId": 8350886115777418983,
@@ -688,17 +749,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "まあ、美味しそう～♪",
-            "enText": "Well, it looks delicious～♪",
+            "enText": "My, that looks delicious. ♪",
             "nextBlock": 32,
             "origClipLength": 58,
+            "voiceIdx": 5,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 165,
-                    "pathId": 9053305527246093211
-                },
                 {
                     "origLen": 159,
                     "pathId": 6816521658385300457
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 9053305527246093211
                 }
             ],
             "pathId": 2871603274637937138,
@@ -708,29 +771,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "和風おろしのソースをかけたら、\r\nきっと極上の味わいになるでしょうね。",
-            "enText": "I am sure it would taste superb with a \nJapanese grated sauce.",
+            "enText": "Add some grated Japanese radish sauce<n>and I'm\nsure it'll taste absolutely<n>spectacular.",
             "nextBlock": 33,
             "origClipLength": 90,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "じゃあソースを買って帰るか？",
-                    "enText": "So you want to buy some sauce and go home?",
+                    "enText": "Should we buy the sauce on the way home?",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "じゃあソースを買って帰る？",
-                    "enText": "So you want to buy some sauce and go home?",
+                    "enText": "Should we buy the sauce on the way home?",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 58,
-                    "pathId": 3939736411501218389
-                },
-                {
                     "origLen": 101,
                     "pathId": -744933476505042837
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3939736411501218389
                 }
             ],
             "pathId": -4755804702866751642,
@@ -740,17 +805,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "うーん……どうせだから、\r\n大根を買ってソースも自作したいです。",
-            "enText": "Hmmm……… I'd like to buy some radishes and \nmake my own sauce anyway.",
+            "enText": "Hmm... I think I would rather buy the<n>radishes and\nmake the sauce myself.",
             "nextBlock": 34,
             "origClipLength": 86,
+            "voiceIdx": 34,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 8102327377690328057
-                },
                 {
                     "origLen": 97,
                     "pathId": 3113151156383673321
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 8102327377690328057
                 }
             ],
             "pathId": 8189142265974778021,
@@ -760,29 +827,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "すみません、八百屋さんに寄らせて頂いても\r\nよろしいでしょうか？",
-            "enText": "Excuse me, may I stop by the grocery store?",
+            "enText": "So, could we visit the greengrocer<n>instead?",
             "nextBlock": 35,
             "origClipLength": 86,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "ああ、いいぞ",
-                    "enText": "Yeah, that's good.",
+                    "enText": "Sure.",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "うん、いいよ",
-                    "enText": "Yeah, okay.",
+                    "enText": "Sure.",
                     "nextBlock": 35
                 }
             ],
             "animData": [
                 {
-                    "origLen": 65,
-                    "pathId": 3547802967208138129
-                },
-                {
                     "origLen": 97,
                     "pathId": -570370938310286366
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3547802967208138129
                 }
             ],
             "pathId": -4939305982097702601,
@@ -792,17 +861,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "お手製ソース。さぞ美味しいに違いない……\r\nと考えていたら、腹の虫が鳴ってしまった。",
-            "enText": "Homemade sauce. It must be delicious.…… I \nthought about it and my stomach rumbled.",
+            "enText": "The idea of making homemade sauce<n>sounds so\ngood that my stomach starts<n>grumbling.",
             "nextBlock": 36,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 3447260771769009947
-                },
                 {
                     "origLen": 110,
                     "pathId": 8817735249143209210
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 3447260771769009947
                 }
             ],
             "pathId": -6070682153056310344,
@@ -812,17 +883,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ふふっ。\r\nもう少しで夕食どきですからね～。",
-            "enText": "Phew. It's almost dinner time!",
+            "enText": "Hehe. It's almost dinnertime, after all.",
             "nextBlock": 37,
             "origClipLength": 73,
+            "voiceIdx": 74,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 2364662500814895528
-                },
                 {
                     "origLen": 84,
                     "pathId": 4098196088741835371
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 2364662500814895528
                 }
             ],
             "pathId": 2405450020865109687,
@@ -832,29 +905,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "トレーナーさん、よろしければ後ほど\r\nお裾分けにうかがっても？",
-            "enText": "Ms. Trainer, if you don't mind, may I come by \nlater to share with you?",
+            "enText": "Trainer, would you like to share it with<n>me?",
             "nextBlock": 38,
             "origClipLength": 85,
+            "voiceIdx": 56,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "……いいのか？",
-                    "enText": "Are you sure about ……?",
+                    "enText": "Is that okay with you?",
                     "nextBlock": 38
                 },
                 {
                     "jpText": "……いいの？",
-                    "enText": "Are you sure about ……?",
+                    "enText": "Is that okay with you?",
                     "nextBlock": 38
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": 3558338947306115328
-                },
-                {
                     "origLen": 96,
                     "pathId": 583412857846221542
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 3558338947306115328
                 }
             ],
             "pathId": -1294766662951750827,
@@ -864,17 +939,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい♪　1人より2人で分かち合った方が\r\nより美味しく感じると言いますから～。",
-            "enText": "Yes, because they say it tastes better when \nshared by two people than by one.",
+            "enText": "Yes. ♪ Food is always more enjoyable<n>with\ncompany.",
             "nextBlock": 39,
             "origClipLength": 95,
+            "voiceIdx": 47,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": 440007662113078420
-                },
                 {
                     "origLen": 106,
                     "pathId": -4940102043699096126
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 440007662113078420
                 }
             ],
             "pathId": -1795097941296181544,
@@ -884,17 +961,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "グラスワンダーの厚意に甘え、\r\n特上にんじんハンバーグをお裾分けして\nもらったのだった。",
-            "enText": "We were very kindly invited by Grass \nWonder to share their special carrot \nhamburger steak with us.",
+            "enText": "I take Grass Wonder up on her offer and<n>eat some\nof the deluxe carrot hamburger<n>steak with her.",
             "nextBlock": -1,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 16,
-                    "pathId": 5985862365038818511
+                    "pathId": -7224014490354323189
                 },
                 {
                     "origLen": 16,
-                    "pathId": -7224014490354323189
+                    "pathId": 5985862365038818511
                 }
             ],
             "pathId": 7343886366558663734,
@@ -902,19 +981,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "2等賞～！！\r\n賞品は『にんじん山盛り』です！",
-            "enText": "Second prize～! The prize is a pile of carrots!",
+            "enText": "We got a second-prize winner! It's your<n>lucky day!\nYou're going home with a<n>bushel of carrots!",
             "nextBlock": 41,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 154,
-                    "pathId": -3725946188008965818
-                },
                 {
                     "origLen": 156,
                     "pathId": -3869096803917003836
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -3725946188008965818
                 }
             ],
             "pathId": 6510069602630827171,
@@ -924,23 +1005,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 42,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 154,
-                    "pathId": -6588148512101050657
-                },
-                {
                     "origLen": 156,
                     "pathId": -3815586051169556462
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -6588148512101050657
                 }
             ],
             "pathId": -5136860590336600363,
@@ -950,17 +1033,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "これは……\r\n山盛りの名に恥じぬ量ですね～。",
-            "enText": "This is a lot of…… piles of food that lives \nup to its name!",
+            "enText": "Lucky indeed... This certainly is a lot of<n>carrots.",
             "nextBlock": 43,
             "origClipLength": 73,
+            "voiceIdx": 27,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 98,
-                    "pathId": 7356449345791546339
-                },
                 {
                     "origLen": 172,
                     "pathId": 1362508879288588741
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 7356449345791546339
                 }
             ],
             "pathId": 3612475943884627558,
@@ -970,9 +1055,11 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "トレーナーさんも\r\nよかったら何本かいかがですか♪",
-            "enText": "How about a few bottles for the trainer, too?",
+            "enText": "Trainer, would you like a few of them? ♪",
             "nextBlock": 44,
             "origClipLength": 77,
+            "voiceIdx": 84,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "いいのか？",
@@ -987,12 +1074,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 109,
-                    "pathId": 8445599919136670582
-                },
-                {
                     "origLen": 88,
                     "pathId": 3014397148182959460
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8445599919136670582
                 }
             ],
             "pathId": 203295251704631867,
@@ -1002,17 +1089,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "もちろんです。あとはスペちゃんに\r\nエルにセイちゃんに――",
-            "enText": "Of course. And then there's Spee, \nand Elle, and Sey, and―",
+            "enText": "Of course. I'll also give some to Spe and<n>El.",
             "nextBlock": 45,
             "origClipLength": 82,
+            "voiceIdx": 47,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 4936232589370656890
-                },
                 {
                     "origLen": 93,
                     "pathId": -1288187019631141593
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 4936232589370656890
                 }
             ],
             "pathId": 355009180876379685,
@@ -1022,29 +1111,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "日頃のお礼に、\r\nたづなさんにも渡しましょうかね～？",
-            "enText": "I'll give it to Ms. Tazuna as a thank-you for \nall she does for us.",
+            "enText": "And, since she does so much for me,<n>perhaps\nTazuna, too.",
             "nextBlock": 46,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "そんなに配って大丈夫か？",
-                    "enText": "Are you sure you want to give out that many?",
+                    "enText": "You'll be giving away a lot.",
                     "nextBlock": 46
                 },
                 {
                     "jpText": "そんなに配って大丈夫？",
-                    "enText": "Are you sure you want to give out that many?",
+                    "enText": "You'll be giving away a lot.",
                     "nextBlock": 46
                 }
             ],
             "animData": [
                 {
-                    "origLen": 47,
-                    "pathId": -3928364908439411434
-                },
-                {
                     "origLen": 89,
                     "pathId": 2396283816181998894
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -3928364908439411434
                 }
             ],
             "pathId": -3549851879716216444,
@@ -1054,17 +1145,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい。これだけの量を独り占めとなると、\r\nつい食べ過ぎてしまいそうなので――",
-            "enText": "Yes, I'm sure I'll eat too much if I have \nthis much all to myself. I'm afraid I'd eat \ntoo much if I had this much all to myself.",
+            "enText": "Well, yes. But hoarding them all to<n>myself would\npresent a risk of<n>overeating.",
             "nextBlock": 47,
             "origClipLength": 94,
+            "voiceIdx": 80,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -5733366755637122574
-                },
                 {
                     "origLen": 105,
                     "pathId": -2272817963964856414
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5733366755637122574
                 }
             ],
             "pathId": -1809172549186924688,
@@ -1074,29 +1167,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "自戒の意味も兼ねて、\r\nみんなにもお裾分けしようかと思って♪",
-            "enText": "As a reminder, I thought \nI'd share with you all.",
+            "enText": "Sharing them is my best method of<n>self-control. ♪",
             "nextBlock": 48,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "さすがだな",
-                    "enText": "That's what I'm talking about.",
+                    "enText": "Brilliant, as always.",
                     "nextBlock": 48
                 },
                 {
                     "jpText": "さすがだね",
-                    "enText": "That's what I'm talking about.",
+                    "enText": "Brilliant, as always.",
                     "nextBlock": 48
                 }
             ],
             "animData": [
                 {
-                    "origLen": 52,
-                    "pathId": -2514382640163537799
-                },
-                {
                     "origLen": 95,
                     "pathId": 3804407607382923543
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -2514382640163537799
                 }
             ],
             "pathId": -5767388903139926372,
@@ -1106,17 +1201,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "これからも激戦が続くでしょうし、\r\nコンディションは完璧にしておかないと。",
-            "enText": "The competition will continue to be fierce, \nand I need to be in perfect condition.",
+            "enText": "Competition will be fierce for the<n>foreseeable\nfuture, so maintaining a<n>perfect condition is key.",
             "nextBlock": 49,
             "origClipLength": 93,
+            "voiceIdx": 37,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 3466682817188627363
-                },
                 {
                     "origLen": 104,
                     "pathId": -6996137076749089478
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 3466682817188627363
                 }
             ],
             "pathId": 7901460925593381777,
@@ -1126,17 +1223,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……ああ、ご心配なく。\r\n自分の分はしっかり確保しておきますから♪",
-            "enText": "…… Oh, don't worry. I'll make \nsure I get my share… ♪",
+            "enText": "Oh, but don't worry. I won't neglect to<n>keep a\nportion for myself, either! ♪",
             "nextBlock": 50,
             "origClipLength": 88,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 3498198064293006948
-                },
                 {
                     "origLen": 99,
                     "pathId": 4996435982895828526
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 3498198064293006948
                 }
             ],
             "pathId": -3665069284644381245,
@@ -1146,17 +1245,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "グラスワンダーの心構えに感心しながら、\r\n2人で帰路についたのだった。",
-            "enText": "We both headed home, impressed by Grass \nWonder's preparedness.",
+            "enText": "Impressed by her self-discipline, I return<n>to the\nacademy with Grass Wonder.",
             "nextBlock": -1,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
-                    "pathId": 8130318798446092224
+                    "pathId": -350338480895784674
                 },
                 {
                     "origLen": 18,
-                    "pathId": -350338480895784674
+                    "pathId": 8130318798446092224
                 }
             ],
             "pathId": -3912398253826628246,
@@ -1164,19 +1265,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "3等賞～！\r\n賞品は『にんじん1本』です！",
-            "enText": "Third prize～! The prize is a carrot!",
+            "enText": "Would you lookie here! You've won the<n>\nthird-prize! Here's your carrot!",
             "nextBlock": 52,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 111,
-                    "pathId": -627959260655567202
-                },
                 {
                     "origLen": 140,
                     "pathId": -8624226955570235712
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -627959260655567202
                 }
             ],
             "pathId": -8275215871383720357,
@@ -1186,23 +1289,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 53,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 111,
-                    "pathId": 5610246651924727122
-                },
-                {
                     "origLen": 140,
                     "pathId": 7159421442037850804
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 5610246651924727122
                 }
             ],
             "pathId": -8159557457183647991,
@@ -1212,17 +1317,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "うーん、\r\nできればもう少し上を狙いたかったですね。",
-            "enText": "Hmmm, I would have liked to go a little \nhigher if I could have.",
+            "enText": "Hmm... I set my hopes too high, it seems.",
             "nextBlock": 54,
             "origClipLength": 78,
+            "voiceIdx": 88,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 162,
-                    "pathId": -8315978721730817203
-                },
                 {
                     "origLen": 201,
                     "pathId": 836834661146639406
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -8315978721730817203
                 }
             ],
             "pathId": -4458435125349828477,
@@ -1232,17 +1339,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "でも、ちょうどよかったです♪",
-            "enText": "But it was just right.â",
+            "enText": "Then again, this might be just what I<n>needed.",
             "nextBlock": 55,
             "origClipLength": 63,
+            "voiceIdx": 86,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 181,
-                    "pathId": -3070887910630372585
-                },
                 {
                     "origLen": 168,
                     "pathId": 3972240556454707924
+                },
+                {
+                    "origLen": 181,
+                    "pathId": -3070887910630372585
                 }
             ],
             "pathId": 4810876396107854074,
@@ -1252,17 +1361,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "サラダに入れるにんじんを\r\n買い忘れていたので、渡りに船でした～。",
-            "enText": "I had forgotten to buy carrots to put in my \nsalad, so I was in luck!",
+            "enText": "I forgot to purchase carrots for tonight's<n>salad at\nthe supermarket earlier today,<n>so the timing\ncouldn't be better.",
             "nextBlock": 56,
             "origClipLength": 88,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 4490319182372298011
-                },
                 {
                     "origLen": 99,
                     "pathId": 328947118456297949
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4490319182372298011
                 }
             ],
             "pathId": -4345660474692064291,
@@ -1270,19 +1381,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "そうかそうか。もしかしたら、\r\nお嬢ちゃんがにんじんを呼んだのかもな！",
-            "enText": "Oh yeah, right. Maybe the little \ngirl called for a carrot!",
+            "enText": "True, true. You might've been wishing<n>for a carrot\nthe whole time, and you just<n>didn't know it!",
             "nextBlock": 57,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -1863927105561283949
-                },
                 {
                     "origLen": 101,
                     "pathId": 5123462485981854478
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1863927105561283949
                 }
             ],
             "pathId": 8117739879172994550,
@@ -1292,17 +1405,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "なるほど、\r\nこれも1つの縁ということですか。",
-            "enText": "I see. So this is another kind of fate.",
+            "enText": "So, you mean... fate may have had a<n>hand in this,\ntoo?",
             "nextBlock": 58,
             "origClipLength": 75,
+            "voiceIdx": 9,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 1157767497853751019
-                },
                 {
                     "origLen": 86,
                     "pathId": 3373545148688101842
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1157767497853751019
                 }
             ],
             "pathId": -3710763420405387198,
@@ -1312,29 +1427,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "この結果も、私にとっては\r\n当たりだったのかもしれませんね～。",
-            "enText": "Maybe this result was also a winner for me!",
+            "enText": "In that case, this could very well be <i>my</i><n>\ngrand-prize.",
             "nextBlock": 59,
             "origClipLength": 85,
+            "voiceIdx": 74,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "得したな、グラス",
-                    "enText": "You got it, Glass.",
+                    "enText": "That worked out nicely, Grass.",
                     "nextBlock": 59
                 },
                 {
                     "jpText": "得したね、グラス",
-                    "enText": "You got it, Glass.",
+                    "enText": "That worked out nicely, Grass.",
                     "nextBlock": 59
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": 348844540251253806
-                },
-                {
                     "origLen": 96,
                     "pathId": -1331442855781957113
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 348844540251253806
                 }
             ],
             "pathId": -3452651175151701785,
@@ -1344,17 +1461,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい♪　今日のサラダは\r\nいつもより美味しく感じられそうです～。",
-            "enText": "Yes… today's salad is going \nto taste better than usual!",
+            "enText": "It really did. ♪ Tonight's salad is going<n>to taste\nthat much better.",
             "nextBlock": 60,
             "origClipLength": 86,
+            "voiceIdx": 80,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 111,
-                    "pathId": 7666088362897506054
-                },
                 {
                     "origLen": 97,
                     "pathId": -37492186255345426
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 7666088362897506054
                 }
             ],
             "pathId": -5330130421817062412,
@@ -1364,17 +1483,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "嬉しそうなグラスワンダーと共に\r\n帰路についたのだった。",
-            "enText": "We headed home with a happy-looking \nGrass Wonder.",
+            "enText": "Grass Wonder gains some hop in her<n>step as we\nhead back to the academy.",
             "nextBlock": -1,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 17,
-                    "pathId": 3601865335989094679
+                    "pathId": 5339908321251889435
                 },
                 {
                     "origLen": 17,
-                    "pathId": 5339908321251889435
+                    "pathId": 3601865335989094679
                 }
             ],
             "pathId": -7251563889737211775,
@@ -1382,19 +1503,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
-            "enText": "Too bad! The participation prize is \"tissues\"!",
+            "enText": "Ohhh, tough luck! Looks like you pulled<n>a blank\none! Take this pack of tissues as<n>a consolation\nprize.",
             "nextBlock": 62,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 111,
-                    "pathId": 7903956560752561953
-                },
                 {
                     "origLen": 138,
                     "pathId": 6257393064716135512
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 7903956560752561953
                 }
             ],
             "pathId": -4536728361683319360,
@@ -1404,23 +1527,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 63,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<itemname>"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 111,
-                    "pathId": -5339224517998817203
-                },
-                {
                     "origLen": 138,
                     "pathId": -5541108623115846096
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -5339224517998817203
                 }
             ],
             "pathId": -4173449731033907968,
@@ -1430,17 +1555,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "残念です。\r\n何か賞が取れればと思ったのですが。",
-            "enText": "It's a shame. I was hoping \nto win some kind of award.",
+            "enText": "Well, this is disappointing. I had hoped<n>for an\nactual prize of some sort.",
             "nextBlock": 64,
             "origClipLength": 76,
+            "voiceIdx": 17,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": -1136573920591504665
-                },
                 {
                     "origLen": 87,
                     "pathId": -4183872179624480973
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1136573920591504665
                 }
             ],
             "pathId": -8225243227875810719,
@@ -1450,24 +1577,26 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "福引って、\r\nなかなか当たらないものなんですね……。",
-            "enText": "Fukubiki is a very hard thing to win. ……",
+            "enText": "Winning raffles must be quite the rare<n>occurrence.",
             "nextBlock": 65,
             "origClipLength": 78,
+            "voiceIdx": 88,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "もしかしてあまり引いたことない？",
-                    "enText": "Maybe you haven't pulled much?",
+                    "enText": "Have you not played much before?",
                     "nextBlock": 65
                 }
             ],
             "animData": [
                 {
-                    "origLen": 61,
-                    "pathId": 3365140168812195108
-                },
-                {
                     "origLen": 89,
                     "pathId": -6015645563367977301
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3365140168812195108
                 }
             ],
             "pathId": 8288740625833212645,
@@ -1477,17 +1606,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい。\r\n日本に来る前は福引をしたことがなくて。",
-            "enText": "Yes, I have. Before coming to Japan, I had \nnever done a fukubiki.",
+            "enText": "I haven't. I never had the opportunity<n>before\ncoming to Japan, you see.",
             "nextBlock": 66,
             "origClipLength": 76,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": -2772615330617201954
-                },
                 {
                     "origLen": 87,
                     "pathId": 6463444489999654980
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2772615330617201954
                 }
             ],
             "pathId": 5418382966404907466,
@@ -1497,17 +1628,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "引く前は、回せるだけでも\r\n楽しいと思っていたのですが――　",
-            "enText": "Before I pulled it, I thought it would be fun \njust to be able to turn―",
+            "enText": "Before I tried, I thought it would be<n>enough fun\njust to spin the tumbler,<n>but...",
             "nextBlock": 67,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -5907524734514245976
-                },
                 {
                     "origLen": 95,
                     "pathId": -5099881148118445730
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5907524734514245976
                 }
             ],
             "pathId": -3828310523038217635,
@@ -1517,17 +1650,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "実際に外れると、\r\nなかなか悔しいですね……。",
-            "enText": "It's quite frustrating when \nit actually comes off. ……",
+            "enText": "Losing stings a lot more than I<n>expected...",
             "nextBlock": 68,
             "origClipLength": 75,
+            "voiceIdx": 60,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -2858679485685938296
-                },
                 {
                     "origLen": 86,
                     "pathId": -2474497567399065210
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2858679485685938296
                 }
             ],
             "pathId": 2764628595422063380,
@@ -1535,19 +1670,21 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "ま、これに懲りずに\r\n機会があったら挑戦してみてくれよ。",
-            "enText": "Well, don't let this stop you from trying \nwhen you get the chance.",
+            "enText": "Hey, don't get so down on yourself.<n>Better luck\nnext time.",
             "nextBlock": 69,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -4722929966304983536
-                },
                 {
                     "origLen": 92,
                     "pathId": -1080648760732817617
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -4722929966304983536
                 }
             ],
             "pathId": 1571215060797259169,
@@ -1557,17 +1694,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "はい……。",
-            "enText": "Yes. ……",
+            "enText": "If you say so...",
             "nextBlock": 70,
             "origClipLength": 51,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": 2902250341041747279
-                },
                 {
                     "origLen": 62,
                     "pathId": -3651634100780030940
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 2902250341041747279
                 }
             ],
             "pathId": -8701993180684676077,
@@ -1577,22 +1716,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "しょんぼりと肩を落とす\r\nグラスワンダーと共に帰路についたのだった。",
-            "enText": "We headed home with Grass Wonder, whose \nshoulders slumped with disappointment.",
+            "enText": "Grass Wonder's shoulders sink as we<n>head back.",
             "nextBlock": -1,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 48,
-                    "pathId": -5142955600231312234
+                    "pathId": 8485648988674754435
                 },
                 {
                     "origLen": 48,
-                    "pathId": 8485648988674754435
+                    "pathId": -5142955600231312234
                 }
             ],
             "pathId": 8252517995681624629,
             "blockIdx": 70
         }
-    ],
-    "modified": 1657555248
+    ]
 }

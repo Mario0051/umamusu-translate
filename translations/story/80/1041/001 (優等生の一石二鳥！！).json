@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "M42F6WPL7FTOQSSD55MJP2XL3HPC7MSB",
+    "version": 6,
+    "bundle": "U4Z2JKXDPQC45TDVEMZ6UY7RCC4EFLH3",
     "type": "story",
     "storyId": "801041001",
     "title": "優等生の一石二鳥！！",
+    "enTitle": "Genius Efficiency!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、廊下で……。",
-            "enText": "One day, in the hallway…",
+            "enText": "One day, in the hallway...",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8923052391551583044,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ああ！　こんな名案をひらめくとは！\r\n優等生の自分が恐ろしい！！",
-            "enText": "Oh! I never thought I'd come up \nwith such a good idea! I'm afraid \nI'm an honours student!",
+            "enText": "WOW! What an epiphany! Sometimes I<n>scare\nmyself with how smart I am!",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "voiceIdx": 1,
+            "voiceSheetId": "051041001",
             "pathId": -5644529031856898415,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "日課の清掃活動とトレーニングを\r\n組み合わせる……これぞまさに、一石二鳥！",
-            "enText": "Combine your training with your \ndaily clean-up… and you've killed \ntwo birds with one stone!",
+            "enText": "Combining daily cleaning with training...<n>This is\nkilling two birds with one stone<n>AT ITS FINEST!",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -3199948102459433354
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2084734789606047477
+                }
+            ],
             "pathId": -872138668621656391,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "あとはどうやるかを考えるだけです！\r\nうーん、バクシンが磨けそうな清掃活動……。",
-            "enText": "Now we just need to figure out how to do it! \nHmmm, a clean-up activity that could polish \nup your Bakushin…",
+            "enText": "Now I just need to think about how to<n>do it!\nHmmm, how can I clean in a way<n>that'll boost my\nBakushin?",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "voiceIdx": 34,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -5321116496462454514
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 9077556446278641574
+                }
+            ],
             "pathId": 6172357934518709709,
             "blockIdx": 4
         },
@@ -45,8 +78,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "さっぱり思い浮かびませんね！！",
-            "enText": "I can't think of any!",
+            "enText": "I don't have ANY ideas!",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "voiceIdx": 36,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 5886525886386926939
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -443972069576109501
+                }
+            ],
             "pathId": -8406516692205923184,
             "blockIdx": 5
         },
@@ -54,18 +100,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "むむ！　通りすがりの貴方！\r\nいかがですか！？　何か妙案は！？",
-            "enText": "Mmm! You're just passing through! What do \nyou think? What do you have in mind?",
+            "enText": "Hm? Hey, you! Do you have any<n>suggestions?",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "voiceIdx": 31,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "雑巾がけで、スピード強化！",
-                    "enText": "Rags and dust, speed enhancement!",
+                    "enText": "Boost your speed by wiping the floor!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "資料室の整理で、パワーも強化！",
-                    "enText": "Organise your archives, \nstrengthen your power!",
+                    "enText": "Boost your power by tidying the reference\nroom!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 5802497457224038203
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2414866891033032368
                 }
             ],
             "pathId": -8590200964138965888,
@@ -75,8 +134,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "スピード……！？　つまり雑巾がけで、\r\n更なるスピードのバクシンを手にできると！",
-            "enText": "Speed…! That means you can get even more \nBakushin speed by dusting!",
+            "enText": "Speed?! You mean wiping the floor will<n>lead me\nto even greater Bakushin<n>speed?!",
             "nextBlock": 8,
+            "origClipLength": 84,
+            "voiceIdx": 8,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 8944603905569198928
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6806813051294066106
+                }
+            ],
             "pathId": 6856555034923353844,
             "blockIdx": 7
         },
@@ -84,8 +156,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なんと素晴らしい妙案！\r\nすぐにでも取り掛かりましょう！",
-            "enText": "What a great idea! Let's get right on it!",
+            "enText": "What a fantastic idea! I'll get on that<n>right away!",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "voiceIdx": 71,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 279830567089476452
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -7123365834220047609
+                }
+            ],
             "pathId": 2917844408920504636,
             "blockIdx": 8
         },
@@ -93,8 +178,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "バクシンバクシーーーン！！",
-            "enText": "Bakushin O baxiene!",
+            "enText": "Bakushin, Bakushiiin!",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": 63,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -7415425733132096161
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -4127401226265323490
+                }
+            ],
             "pathId": 6353258168212172981,
             "blockIdx": 9
         },
@@ -102,8 +200,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "おお！　整理整頓をバクシンしながらやれば\r\n……パワフルなバクシンが手にできると！？",
-            "enText": "Oh! You're telling me that if I do my \ntidying while I'm Bakushin, I'll get… \npowerful Bakushin!",
+            "enText": "Ohh! So if I Bakushin while I tidy stuff,<n>it'll lead\nme to having an even more<n>powerful Bakushin?!",
             "nextBlock": 11,
+            "origClipLength": 91,
+            "voiceIdx": 9,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -2198141697549235797
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 3148297457125133006
+                }
+            ],
             "pathId": -6491254278186998420,
             "blockIdx": 10
         },
@@ -111,8 +222,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "うおぉぉー！　任せてください！\r\n整理整頓は優等生のたしなみですからーッ！",
-            "enText": "Ooooh! Leave it to me! Tidying up is an \nhonours student's duty!",
+            "enText": "Raaaah! Leave it to me! Making things<n>nice and\ntidy is a piece of cake for a<n>genius like me!",
             "nextBlock": 12,
+            "origClipLength": 93,
+            "voiceIdx": 1,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": 5267380288189312760
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -4134641492382320292
+                }
+            ],
             "pathId": -8568878623612162750,
             "blockIdx": 11
         },
@@ -120,8 +244,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドッターン！　バタバタバターッ！）",
-            "enText": "(BANG! (Flap, flap, flap, flap!)",
+            "enText": "<i>Crash! Bang! Clang!</i>",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8117987710396872970,
             "blockIdx": 12
         },
@@ -129,8 +256,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……すさまじい物音が聞こえてきたが、\r\nとにかく悩みは解決できたようだ。",
-            "enText": "… I heard a tremendous noise, but I think \nI've solved my problem anyway.",
+            "enText": "A series of truly frightening noises<n>follows in\nSakura Bakushin O's wake, but<n>at least it looks\nlike her problem's solved<n>now.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5031553001532843492,
             "blockIdx": 13
         }

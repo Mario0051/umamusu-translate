@@ -1,16 +1,26 @@
 {
-    "version": 4,
-    "bundle": "5KOPHSVAXABXIBSCZ4UMSSCINQ6HK7AX",
+    "version": 6,
+    "bundle": "5X7TKF5TVI4I6SUROHDT5CMSDT5XN6QW",
     "type": "story",
     "storyId": "400000037",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>の様子がおかしい……。",
-            "enText": "There is something wrong with <chrname>…",
+            "enText": "Something's a little off with<n>\n<chrname>...",
             "nextBlock": 2,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5361283977529540032
+                }
+            ],
             "pathId": 6786070342309306599,
             "blockIdx": 1
         },
@@ -18,12 +28,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "話を聞いてみると、\r\n最近少し夜ふかし気味のようだった。",
-            "enText": "When I asked him about it, she seemed to be\na bit of a night owl lately.",
+            "enText": "When I ask her about it, I find out she<n>hasn't been\ngetting proper sleep<n>recently.",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1881241611485802321
+                }
+            ],
             "pathId": 6076088781550715748,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

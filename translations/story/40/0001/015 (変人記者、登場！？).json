@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "QI3KQW7NVCZZDDN37D6ICJLWV4XN3LUW",
+    "version": 6,
+    "bundle": "IQDUJ252RZPET667YZBCZEUJ6GAXIRZW",
     "type": "story",
     "storyId": "400001015",
     "title": "変人記者、登場！？",
+    "enTitle": "A Quirky Correspondent?",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日の午後――\r\n<chrname>のトレーニングのため\n準備をしていると……。",
-            "enText": "One afternoon―as I was getting ready for \n<chrname>'s training, I went to……",
+            "enText": "One afternoon, while getting ready for<n>training\nwith <chrname>...",
             "nextBlock": 2,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2997174799532842571,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（コンコンコンッ）",
-            "enText": "(Knock knock-knock)",
+            "enText": "<i>Knock, knock!</i>",
             "nextBlock": 3,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 9120799011490912987,
             "blockIdx": 2
         },
@@ -29,20 +34,22 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "失礼いたします。\n<username>トレーナーさんで\nいらっしゃいますか？",
-            "enText": "Excuse me, I'm sorry. \nAre you Trainer <username>?",
+            "enText": "Excuse me? Are you\nTrainer<n><username>?",
             "nextBlock": 4,
             "origClipLength": 69,
+            "voiceIdx": 44,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "……どちらさまですか？",
-                    "enText": "…… Who are you?",
+                    "enText": "Um... May I ask your name?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -3213529474396608934
+                    "origLen": 60,
+                    "pathId": -3168123829047479372
                 },
                 {
                     "origLen": 106,
@@ -53,8 +60,8 @@
                     "pathId": 6751935704853598352
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -3168123829047479372
+                    "origLen": 89,
+                    "pathId": -3213529474396608934
                 }
             ],
             "pathId": -1519808871442442907,
@@ -64,19 +71,21 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "申し遅れました。私、『月刊トゥインクル』\r\nで記者をしております――",
-            "enText": "Sorry for the delay. I am a reporter for \nTwinkle Monthly.",
+            "enText": "I'm terribly sorry. I should have<n>introduced myself.\nI'm a reporter for<n>Twinkle Monthly.",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": 30,
+            "voiceSheetId": "059003001",
             "coloredText": [
                 {
                     "jpText": "『月刊トゥインクル』 ",
-                    "enText": "Twinkle Monthly."
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 4929737640021483261
+                    "origLen": 100,
+                    "pathId": 4083067419309637299
                 },
                 {
                     "origLen": 106,
@@ -87,8 +96,8 @@
                     "pathId": -4831732998850905099
                 },
                 {
-                    "origLen": 100,
-                    "pathId": 4083067419309637299
+                    "origLen": 89,
+                    "pathId": 4929737640021483261
                 }
             ],
             "pathId": -149164746299326983,
@@ -96,15 +105,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "『乙名史　悦子』と申します。",
             "enText": "My name is Etsuko Otonashi.",
             "nextBlock": 6,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "乙名史　悦子",
-                    "enText": "Etsuko Otonashi"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -113,8 +124,8 @@
                     "pathId": -3582099832438527836
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 7632114507996728185
+                    "origLen": 100,
+                    "pathId": -4029558834285769471
                 },
                 {
                     "origLen": 106,
@@ -125,8 +136,8 @@
                     "pathId": 7389537824535239816
                 },
                 {
-                    "origLen": 100,
-                    "pathId": -4029558834285769471
+                    "origLen": 89,
+                    "pathId": 7632114507996728185
                 }
             ],
             "pathId": 2134100053060833359,
@@ -134,15 +145,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "このたびは、秋川理事長からのご紹介で\r\n取材をさせていただきたく参りました。",
-            "enText": "I am here to report on the company through \nan introduction from President Akikawa.",
+            "enText": "I was looking for trainers to write about,<n>and\nDirector Akikawa mentioned your<n>name\nspecifically.",
             "nextBlock": 7,
             "origClipLength": 69,
+            "voiceIdx": 52,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -3303125013177521633
+                    "origLen": 12,
+                    "pathId": -315624825179318682
                 },
                 {
                     "origLen": 106,
@@ -153,8 +166,8 @@
                     "pathId": 8568942030334205811
                 },
                 {
-                    "origLen": 12,
-                    "pathId": -315624825179318682
+                    "origLen": 89,
+                    "pathId": -3303125013177521633
                 }
             ],
             "pathId": 6985324205866315263,
@@ -162,15 +175,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "トレーニングのお邪魔にはならぬように\n致しますので、どうぞよろしくお願いします。",
-            "enText": "We will try not to interfere with \nyour training, so please do not \nhesitate to contact us.",
+            "enText": "I'll do my best not to interfere with your<n>training. I\nlook forward to working with<n>you.",
             "nextBlock": 8,
             "origClipLength": 71,
+            "voiceIdx": 39,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": 2343378981812170233
+                    "origLen": 78,
+                    "pathId": 5720869950211478487
                 },
                 {
                     "origLen": 106,
@@ -181,8 +196,8 @@
                     "pathId": -991525705475479812
                 },
                 {
-                    "origLen": 78,
-                    "pathId": 5720869950211478487
+                    "origLen": 50,
+                    "pathId": 2343378981812170233
                 }
             ],
             "pathId": -5822619087297699708,
@@ -192,20 +207,22 @@
             "jpName": "",
             "enName": "",
             "jpText": "取材の話など初耳だったが、礼儀正しく\r\n誠実な態度は、安心を感じさせた。",
-            "enText": "Although I had never heard of the \ninterview, her polite and sincere \nattitude made me feel at ease.",
+            "enText": "This is the first I'm hearing of any<n>interview, but\nOtonashi's polite and<n>sincere attitude puts me at\nease.",
             "nextBlock": 9,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "こちらこそ、よろしくお願いします",
-                    "enText": "It's nice to meet you too.",
+                    "enText": "It's a pleasure.",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 3823705811573196360
+                    "origLen": 95,
+                    "pathId": 1860973670413041138
                 },
                 {
                     "origLen": 106,
@@ -216,8 +233,8 @@
                     "pathId": -1252656970715185518
                 },
                 {
-                    "origLen": 95,
-                    "pathId": 1860973670413041138
+                    "origLen": 89,
+                    "pathId": 3823705811573196360
                 }
             ],
             "pathId": -8841286831283036746,
@@ -225,15 +242,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "はい。ぜひ、取材にご協力くださいませ。",
-            "enText": "Yes, we would be happy to do the interview. \nPlease cooperate with us for the interview.",
+            "enText": "Thank you for agreeing to take part.",
             "nextBlock": 10,
             "origClipLength": 57,
+            "voiceIdx": 37,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 8553817488145148478
+                    "origLen": 15,
+                    "pathId": -5743281230386394366
                 },
                 {
                     "origLen": 106,
@@ -244,8 +263,8 @@
                     "pathId": -8277779371679000943
                 },
                 {
-                    "origLen": 15,
-                    "pathId": -5743281230386394366
+                    "origLen": 89,
+                    "pathId": 8553817488145148478
                 }
             ],
             "pathId": -5100034744406943644,
@@ -253,19 +272,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "では早速……『URAファイナルズ』の発足\r\n等、大きな盛り上がりを見せている\nレース界ですが――",
-            "enText": "Let's start with the inauguration of ……'s \n\"URA Finals\" and other major developments in \nthe world of racing. The racing world…",
+            "enText": "Let's get into it, shall we? As I'm sure<n>you're\naware, the launch of the URA<n>Finale has taken\nthe racing world by<n>storm.",
             "nextBlock": 11,
             "origClipLength": 76,
+            "voiceIdx": 52,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 92,
-                    "pathId": 4391394453210107225
-                },
                 {
                     "origLen": 106,
                     "pathId": 2412499629054400948
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4391394453210107225
                 }
             ],
             "pathId": -3369282410750750282,
@@ -273,23 +294,25 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "貴方と担当ウマ娘の、今後の展望について\r\nお聞かせ願えますか？",
-            "enText": "Can you tell us about the future prospects \nfor you and your horse girl?",
+            "enText": "Could you tell us how that's affected<n>you and\nyour trainee's outlook?",
             "nextBlock": 12,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 130,
                     "pathId": -8145384474795780687
                 },
                 {
-                    "origLen": 124,
-                    "pathId": 3350682491271763514
-                },
-                {
                     "origLen": 106,
                     "pathId": 2070383832102030649
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 3350682491271763514
                 }
             ],
             "pathId": 1176045030731341126,
@@ -299,13 +322,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かに大きな動きはあったが――\r\n自分の信念は、<chrname>と共に\n歩むと決めた日から変わっていない。",
-            "enText": "There have certainly been major moves― \nmy beliefs have not changed from the \nday I decided to walk with <chrname>.",
+            "enText": "It's true that there have been big<n>changes, but\never since the day I<n>decided to walk with<n>\n<chrname>, my convictions<n>have\nalways stayed the same.",
             "nextBlock": 13,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "彼女が夢を掴めるように支え続けます",
-                    "enText": "We will continue to support her so that \nshe can grasp her dream.",
+                    "enText": "I will keep supporting her so she can achieve\nher dreams.",
                     "nextBlock": 13
                 }
             ],
@@ -315,12 +340,12 @@
                     "pathId": 1937381010202143599
                 },
                 {
-                    "origLen": 124,
-                    "pathId": -8836140334461568076
-                },
-                {
                     "origLen": 106,
                     "pathId": -8672197339251570485
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -8836140334461568076
                 }
             ],
             "pathId": -4908302584980509259,
@@ -328,15 +353,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "……なるほど。\r\nつまり、貴方のトレーナーとしての役割は――",
-            "enText": "…… I see. So, your role as a trainer is―",
+            "enText": "I see. In other words, you consider your<n>role as a\ntrainer to be...",
             "nextBlock": 14,
             "origClipLength": 64,
+            "voiceIdx": 9,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "ウマ娘が夢を掴む手伝いをすることです！",
-                    "enText": "Is to help my horsegirl grab her dream!",
+                    "enText": "To help my Umamusume achieve her dreams!",
                     "nextBlock": 14
                 }
             ],
@@ -346,12 +373,12 @@
                     "pathId": 7525309382012077795
                 },
                 {
-                    "origLen": 133,
-                    "pathId": 8394653259642814524
-                },
-                {
                     "origLen": 106,
                     "pathId": 2465536477846509966
+                },
+                {
+                    "origLen": 133,
+                    "pathId": 8394653259642814524
                 }
             ],
             "pathId": -4983054796595954392,
@@ -359,19 +386,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "………………。",
-            "enText": "……………",
+            "enText": "...",
             "nextBlock": 15,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 252593989377756878
-                },
                 {
                     "origLen": 106,
                     "pathId": -1174264309685108637
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 252593989377756878
                 }
             ],
             "pathId": 1789498186117564306,
@@ -379,26 +408,28 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "…………す。",
-            "enText": "…………fa.",
+            "enText": "Th-that's...",
             "nextBlock": 16,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "す……？",
-                    "enText": "Fa……?",
+                    "enText": "Yes?",
                     "nextBlock": 16
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -5579111771024958843
-                },
-                {
                     "origLen": 106,
                     "pathId": -3750183235319401228
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5579111771024958843
                 }
             ],
             "pathId": -428862034701457047,
@@ -406,19 +437,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "す……す、す……！！",
-            "enText": "Fa……fa,fa……!!",
+            "enText": "That's simply... simply...",
             "nextBlock": 17,
             "origClipLength": 51,
+            "voiceIdx": 64,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 69,
                     "pathId": -1529301752348558966
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 343233172056954237
+                    "origLen": 70,
+                    "pathId": -448326521304621227
                 },
                 {
                     "origLen": 106,
@@ -429,8 +462,8 @@
                     "pathId": -2194714652165387531
                 },
                 {
-                    "origLen": 70,
-                    "pathId": -448326521304621227
+                    "origLen": 89,
+                    "pathId": 343233172056954237
                 }
             ],
             "pathId": 5535566991771934880,
@@ -438,19 +471,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "素晴らしいですっ！！",
-            "enText": "That's fantastic!",
+            "enText": "SIMPLY AMAZING!",
             "nextBlock": 18,
             "origClipLength": 56,
+            "voiceIdx": 61,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 7621857848729593731
                 },
                 {
-                    "origLen": 38,
-                    "pathId": 3817403327629335599
+                    "origLen": 12,
+                    "pathId": 1968587767470893420
                 },
                 {
                     "origLen": 106,
@@ -461,8 +496,8 @@
                     "pathId": 2296285691222518640
                 },
                 {
-                    "origLen": 12,
-                    "pathId": 1968587767470893420
+                    "origLen": 38,
+                    "pathId": 3817403327629335599
                 }
             ],
             "pathId": -59787192876572345,
@@ -470,19 +505,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ご担当のウマ娘に夢を掴ませる！\r\nその手伝いをする！　そう仰いましたね！？",
-            "enText": "Let the horsegirls in your charge \nseize their dreams! I'll help her \ndo it! That's what you said!",
+            "enText": "To help your trainee Umamusume<n>achieve her\ndreams! That's what you<n>said, no?!",
             "nextBlock": 19,
             "origClipLength": 69,
+            "voiceIdx": 53,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 3954120646398972636
-                },
                 {
                     "origLen": 106,
                     "pathId": -2258064460318234065
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3954120646398972636
                 }
             ],
             "pathId": 1465863864266763570,
@@ -490,15 +527,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "つまりそれは、夢を掴ませるためならば\r\nすべてを受け入れるということっ！！",
-            "enText": "That means that you're willing \nto do whatever it takes to make \ntheir dreams come true!",
+            "enText": "Then I'm sure you must be willing to take<n>on any\nburden with a smile!",
             "nextBlock": 20,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……えっ",
-                    "enText": "…… eh",
+                    "enText": "Um...",
                     "nextBlock": 20
                 }
             ],
@@ -508,12 +547,12 @@
                     "pathId": -6121115280095838602
                 },
                 {
-                    "origLen": 61,
-                    "pathId": -1731579806952238669
-                },
-                {
                     "origLen": 106,
                     "pathId": -6732034899491708675
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1731579806952238669
                 }
             ],
             "pathId": -3456112190241561255,
@@ -521,11 +560,13 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "トレーニングを頼まれたらいつでも付き合い、\nレースの後の疲労回復は名湯巡り、\n水が飲みたいと言えば、山まで汲みに行く！",
-            "enText": "If you ask me to train, I'm always there for \nyou. If you want to recover from a race, I'll \nvisit a famous hot spring. If you ask me for \na drink of water, I will go to the mountains \nto fetch it for you!",
+            "enText": "Training wherever and whenever she<n>asks! Taking\nher on hot spring tours to<n>recover from races!\nVenturing to remote<n>mountain streams just to\nfetch her a cup<n>of water!",
             "nextBlock": 21,
             "origClipLength": 83,
+            "voiceIdx": 1,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 20,
@@ -533,11 +574,11 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": 1706117805956557435
+                    "pathId": 7682389422145624931
                 },
                 {
                     "origLen": 106,
-                    "pathId": 7682389422145624931
+                    "pathId": 1706117805956557435
                 }
             ],
             "pathId": -2356693293278733139,
@@ -545,22 +586,24 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ああ……トレーナーさんのお覚悟、\r\nとても……とても感服いたしましたぁ……！",
-            "enText": "Oh…… I am so…… impressed with \nyour trainer's resolve!",
+            "enText": "Ah... What devotion... I'm so moved!",
             "nextBlock": 22,
             "origClipLength": 70,
+            "voiceIdx": 62,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "（そんな話したっけ……！？）",
-                    "enText": "(Did I tell you that? ……!??)",
+                    "enText": "(I never said that!)",
                     "nextBlock": 22
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": -7845842012153239553
+                    "origLen": 94,
+                    "pathId": -9180245133453018638
                 },
                 {
                     "origLen": 106,
@@ -571,8 +614,8 @@
                     "pathId": 7548568686575376809
                 },
                 {
-                    "origLen": 94,
-                    "pathId": -9180245133453018638
+                    "origLen": 60,
+                    "pathId": -7845842012153239553
                 }
             ],
             "pathId": 2264888305916561572,
@@ -580,15 +623,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "上々ッ！\nさっそく取材が始まっているようだな！",
-            "enText": "Great! Looks like the coverage \nis starting right away!",
+            "enText": "Splendid! I see the interview has started!",
             "nextBlock": 23,
             "origClipLength": 60,
+            "voiceIdx": 61,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
-                    "origLen": 124,
-                    "pathId": 3474879794117883468
+                    "origLen": 94,
+                    "pathId": -5584930691179871683
                 },
                 {
                     "origLen": 106,
@@ -599,8 +644,8 @@
                     "pathId": 8861660383007793878
                 },
                 {
-                    "origLen": 94,
-                    "pathId": -5584930691179871683
+                    "origLen": 124,
+                    "pathId": 3474879794117883468
                 }
             ],
             "pathId": 7512808973818901886,
@@ -608,15 +653,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "どうだ！　このトレーナーは\r\nなかなかの逸材だろう？",
-            "enText": "What do you think? This trainer is quite a \ntalent, isn't she?",
+            "enText": "What do you think? Quite the talented<n>trainer,\nno?",
             "nextBlock": 24,
             "origClipLength": 61,
+            "voiceIdx": 53,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
-                    "origLen": 124,
-                    "pathId": 710977607794473405
+                    "origLen": 167,
+                    "pathId": -6828498769355026121
                 },
                 {
                     "origLen": 127,
@@ -627,12 +674,8 @@
                     "pathId": 8289004497880462145
                 },
                 {
-                    "origLen": 167,
-                    "pathId": -6828498769355026121
-                },
-                {
-                    "origLen": 60,
-                    "pathId": 2285711737711733129
+                    "origLen": 124,
+                    "pathId": 710977607794473405
                 },
                 {
                     "origLen": 89,
@@ -641,6 +684,10 @@
                 {
                     "origLen": 59,
                     "pathId": -8195400566276274027
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2285711737711733129
                 }
             ],
             "pathId": -3120834882738562390,
@@ -648,19 +695,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ええ、ええ！　私、初対面ながら\r\n取り乱すほどに感動いたしました……！",
-            "enText": "Yes, yes! I was so distraught and moved by \nour first meeting. ……!",
+            "enText": "Absolutely! This is only our first meeting,<n>but I've\nbeen practically moved to tears!",
             "nextBlock": 25,
             "origClipLength": 67,
+            "voiceIdx": 38,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 7884871754349218230
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -6218011251268786492
+                    "origLen": 15,
+                    "pathId": -4761582421024185809
                 },
                 {
                     "origLen": 106,
@@ -671,20 +720,20 @@
                     "pathId": -3485947339647964846
                 },
                 {
-                    "origLen": 15,
-                    "pathId": -4761582421024185809
+                    "origLen": 89,
+                    "pathId": -6218011251268786492
                 },
                 {
                     "origLen": 80,
                     "pathId": -482194378359825445
                 },
                 {
-                    "origLen": 136,
-                    "pathId": -9146983051888442375
-                },
-                {
                     "origLen": 150,
                     "pathId": -2045247625337932321
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -9146983051888442375
                 }
             ],
             "pathId": 2103407504041324081,
@@ -692,38 +741,40 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ウマ娘のためであれば、たとえ嵐の中にさえ\r\n飛び込んでいく覚悟がおありになるとか……！",
-            "enText": "I hear that you are ready to jump \ninto the storm even if it is for \nthe sake of your Uma Musume. ……!",
+            "enText": "It takes a special trainer to be willing to<n>plunge\ninto a hurricane for their trainee!",
             "nextBlock": 26,
             "origClipLength": 73,
+            "voiceIdx": 1,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "（そんな話したっけ……！？）",
-                    "enText": "(Did I tell you that? ……!??)",
+                    "enText": "(Okay, I <i>really</i> don't remember saying that!)",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 70,
-                    "pathId": -6300625504266729035
-                },
-                {
                     "origLen": 106,
                     "pathId": -4198364774182440859
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6300625504266729035
                 },
                 {
                     "origLen": 93,
                     "pathId": 5232933112114168266
                 },
                 {
-                    "origLen": 136,
-                    "pathId": 7819859293432748181
-                },
-                {
                     "origLen": 150,
                     "pathId": 2206345131727000660
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 7819859293432748181
                 }
             ],
             "pathId": -8451918391607201567,
@@ -731,31 +782,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "重畳ッ！！　さすがだな！\r\nそれでこそ、スターウマ娘候補のトレーナー！",
-            "enText": "Superimposed! That's what I'm talking about! \nThat's what I'm talking about, a trainer of \npotential star horsegirls!",
+            "enText": "Wonderful! That's a prospective star<n>\nUmamusume's trainer for you!",
             "nextBlock": 27,
             "origClipLength": 67,
+            "voiceIdx": 113,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -4603386513370950380
-                },
                 {
                     "origLen": 106,
                     "pathId": 6226093676321827414
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4603386513370950380
                 },
                 {
                     "origLen": 20,
                     "pathId": -2953293205662088261
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -5985277583996072542
-                },
-                {
                     "origLen": 150,
                     "pathId": 3941800436274327540
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5985277583996072542
                 }
             ],
             "pathId": -7452859371420204729,
@@ -763,27 +816,29 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "ここ最近の活躍、\nわたしもしっかりと見ているぞ！",
-            "enText": "I've been following your recent \nactivities very closely!",
+            "enText": "I've been keeping a close eye on your<n>recent\nactivities!",
             "nextBlock": 28,
             "origClipLength": 60,
+            "voiceIdx": 8,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -1461163393423346903
-                },
                 {
                     "origLen": 106,
                     "pathId": 212105837275244527
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -6769960726416162410
+                    "origLen": 89,
+                    "pathId": -1461163393423346903
                 },
                 {
                     "origLen": 150,
                     "pathId": 1787839342940553758
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6769960726416162410
                 }
             ],
             "pathId": 5387905529385849045,
@@ -791,31 +846,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "だが……うむむっ！\r\nファンの獲得、難航しているようだな。",
-            "enText": "But…… mmmm! Looks like you're having a \ndifficult time getting fans.",
+            "enText": "But hmmm... How strange! It seems like<n>you're\nhaving trouble gaining fans.",
             "nextBlock": 29,
             "origClipLength": 63,
+            "voiceIdx": 17,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -2814446025009604721
-                },
                 {
                     "origLen": 106,
                     "pathId": 649555911440902527
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2814446025009604721
                 },
                 {
                     "origLen": 87,
                     "pathId": -8435268622976427448
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -944711232622180365
-                },
-                {
                     "origLen": 150,
                     "pathId": -7386083237952224673
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -944711232622180365
                 }
             ],
             "pathId": -8798939080010420411,
@@ -823,31 +880,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "激励ッ！　まだURAファイナルズ開催まで\r\n時間はある！　これから巻き返してくれ！",
-            "enText": "Pep talk! There's still time for the URA \nFinals! You've got to get back on track!",
+            "enText": "Worry not! There's still time before the<n>URA\nFinale! I'm sure you can turn things<n>around!",
             "nextBlock": 34,
             "origClipLength": 71,
+            "voiceIdx": 74,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -3288609682459018668
-                },
                 {
                     "origLen": 106,
                     "pathId": 8880841653089354311
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3288609682459018668
                 },
                 {
                     "origLen": 21,
                     "pathId": -1543609933464071412
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 1175835224880358567
-                },
-                {
                     "origLen": 150,
                     "pathId": -3689264813858639913
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1175835224880358567
                 }
             ],
             "pathId": -7646830926398736948,
@@ -855,27 +914,29 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "声援もずいぶんと受けていたではないか！\r\nやはり活躍することが人々の心を掴むのだな。",
-            "enText": "You were cheered a lot! I guess being active \nis what wins people's hearts.",
+            "enText": "You're receiving a fair bit of support as<n>well! With\na performance as compelling<n>as yours, I knew\nyou'd win hearts!",
             "nextBlock": 31,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 1776815795310672480
-                },
                 {
                     "origLen": 106,
                     "pathId": 3624635660500489461
                 },
                 {
-                    "origLen": 70,
-                    "pathId": -6290291182466177370
+                    "origLen": 89,
+                    "pathId": 1776815795310672480
                 },
                 {
                     "origLen": 150,
                     "pathId": 1847673781170447945
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6290291182466177370
                 }
             ],
             "pathId": 2382878169463755158,
@@ -883,27 +944,29 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "期待ッ！　今後もひとつひとつのレースを\r\n大切に走り、大きな結果に繋げてほしい！",
-            "enText": "I have high expectations for you! I hope you \nwill continue to run each and every race with \ngreat care, and make it to a big result!",
+            "enText": "Anticipation! Make the best of every<n>race that\ncomes your way and show us<n>some great results!",
             "nextBlock": 34,
             "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -5919825252154381374
-                },
                 {
                     "origLen": 106,
                     "pathId": 8303908317583581310
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 4351162378534827389
+                    "origLen": 89,
+                    "pathId": -5919825252154381374
                 },
                 {
                     "origLen": 150,
                     "pathId": 1689178930062559824
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4351162378534827389
                 }
             ],
             "pathId": -1205076250958619823,
@@ -911,31 +974,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "驚嘆ッ！！　想像を超える、\r\nたくさんの声援を受けていたな！",
-            "enText": "Marvelous! You got more cheers \nthan you could ever imagine!",
+            "enText": "Astonishing! You're also receiving more<n>support\nthan I could ever have imagined!",
             "nextBlock": 33,
             "origClipLength": 64,
+            "voiceIdx": 10,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -5236997890156422858
-                },
                 {
                     "origLen": 106,
                     "pathId": -5946840724349796614
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5236997890156422858
                 },
                 {
                     "origLen": 116,
                     "pathId": 1475076587606396520
                 },
                 {
-                    "origLen": 109,
-                    "pathId": -9074896892955225093
-                },
-                {
                     "origLen": 150,
                     "pathId": -9072221359645512110
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -9074896892955225093
                 }
             ],
             "pathId": 4097078509340836637,
@@ -943,31 +1008,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "これだけ人の心を掴むウマ娘だ。\n『URAファイナルズ』の出走も幻ではない！",
-            "enText": "This is the Uma Musume that captures people's \nhearts so much. And her run in the \"URA \nFinals\" is no illusion!",
+            "enText": "With a trainee as captivating as yours, a<n>spot in\nthe URA Finale is no mere<n>fantasy!",
             "nextBlock": 34,
             "origClipLength": 69,
+            "voiceIdx": 80,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 3990512763275021513
-                },
                 {
                     "origLen": 106,
                     "pathId": -1594614256627911614
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3990512763275021513
                 },
                 {
                     "origLen": 30,
                     "pathId": -8885047919473594155
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 6767993482878539633
-                },
-                {
                     "origLen": 150,
                     "pathId": 6337069851471721977
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6767993482878539633
                 }
             ],
             "pathId": -5520826189978249495,
@@ -975,15 +1042,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "声援の数は、スターウマ娘のバロメーター。\nそれだけ愛されている証拠です。",
-            "enText": "The number of cheers is the barometer \nof a star horse girl. That's how \nmuch they are loved.",
+            "enText": "A star Umamusume is measured by the<n>amount of\nsupport she has. That's how<n>you can tell she is\nloved.",
             "nextBlock": 35,
             "origClipLength": 68,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 73,
-                    "pathId": -6527532329181950413
+                    "pathId": 8596107638606376000
                 },
                 {
                     "origLen": 106,
@@ -995,15 +1064,15 @@
                 },
                 {
                     "origLen": 73,
-                    "pathId": 8596107638606376000
-                },
-                {
-                    "origLen": 159,
-                    "pathId": 4169258665950128311
+                    "pathId": -6527532329181950413
                 },
                 {
                     "origLen": 150,
                     "pathId": -1892647105418408217
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 4169258665950128311
                 }
             ],
             "pathId": 178141984356678548,
@@ -1011,15 +1080,17 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "私も、より多くの支持が集まるよう\r\nお力添えができればと思います。",
-            "enText": "I, too, hope I can be of assistance in \ngarnering more support.",
+            "enText": "I would also like to help you gather<n>more support.",
             "nextBlock": 36,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": -230746994635184742
+                    "origLen": 98,
+                    "pathId": -1726717951642279337
                 },
                 {
                     "origLen": 106,
@@ -1030,20 +1101,20 @@
                     "pathId": 3072325377236824987
                 },
                 {
-                    "origLen": 98,
-                    "pathId": -1726717951642279337
+                    "origLen": 60,
+                    "pathId": -230746994635184742
                 },
                 {
                     "origLen": 115,
                     "pathId": -1782269764086524840
                 },
                 {
-                    "origLen": 159,
-                    "pathId": -713982900214516507
-                },
-                {
                     "origLen": 150,
                     "pathId": 4492071297339091961
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -713982900214516507
                 }
             ],
             "pathId": -325699732437685132,
@@ -1051,15 +1122,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "感謝ッ！　メディアの協力は、\r\nウマ娘の人気上昇のためにも、\n大会成功のためにも必要不可欠！",
-            "enText": "Thank you! The cooperation of the media is \nessential for the success of the tournament \nas well as for Umamusume's growing popularity!",
+            "enText": "Gratitude! The media's assistance will be<n>\nessential, both for boosting the<n>popularity of our\nUmamusume and for<n>ensuring the event succeeds!",
             "nextBlock": 37,
             "origClipLength": 75,
+            "voiceIdx": 12,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 7866491190153477526
+                    "origLen": 12,
+                    "pathId": 3627712038445253639
                 },
                 {
                     "origLen": 106,
@@ -1070,20 +1143,20 @@
                     "pathId": -7175653293461383303
                 },
                 {
-                    "origLen": 12,
-                    "pathId": 3627712038445253639
+                    "origLen": 89,
+                    "pathId": 7866491190153477526
                 },
                 {
                     "origLen": 30,
                     "pathId": 6709800338159531564
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -6948515583228481558
-                },
-                {
                     "origLen": 150,
                     "pathId": -5311614741406751425
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6948515583228481558
                 }
             ],
             "pathId": 8181757582604736589,
@@ -1091,31 +1164,33 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "頼むぞ、乙名史君！！\r\n『URAファイナルズ』成功のため！",
-            "enText": "Please, Fumi Okina! For the \nsuccess of the URA Finals!",
+            "enText": "I'm counting on you, Miss Otonashi!<n>Help us make\nthe URA Finale a success!",
             "nextBlock": 38,
             "origClipLength": 63,
+            "voiceIdx": 1,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 4528490996864470484
-                },
                 {
                     "origLen": 106,
                     "pathId": 2885338401287862255
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4528490996864470484
                 },
                 {
                     "origLen": 123,
                     "pathId": 6398280889867949049
                 },
                 {
-                    "origLen": 68,
-                    "pathId": -4173384201688459606
-                },
-                {
                     "origLen": 150,
                     "pathId": -4467554406643082204
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -4173384201688459606
                 }
             ],
             "pathId": 738603959898450130,
@@ -1123,19 +1198,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "かしこまりました。\nトレーナーさんも、よろしくお願いします。",
-            "enText": "Yes, sir. Please take care \nof the trainer as well.",
+            "enText": "Of course. Thank you very much for your<n>time,\nTrainer.",
             "nextBlock": 39,
             "origClipLength": 64,
+            "voiceIdx": 39,
+            "voiceSheetId": "059003001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": -2340231387361321265
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -47358254411850583
+                    "origLen": 114,
+                    "pathId": 846717365251874925
                 },
                 {
                     "origLen": 106,
@@ -1146,20 +1223,20 @@
                     "pathId": -1597188618416541993
                 },
                 {
-                    "origLen": 114,
-                    "pathId": 846717365251874925
+                    "origLen": 50,
+                    "pathId": -47358254411850583
                 },
                 {
                     "origLen": 123,
                     "pathId": -2376209000351015467
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -8805462322148150801
-                },
-                {
                     "origLen": 150,
                     "pathId": -7205708113127833185
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8805462322148150801
                 }
             ],
             "pathId": 8301581008979419826,
@@ -1169,13 +1246,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>の支持を増やすべく、\r\n色んな意味で強力な助っ人と知り合えた……。",
-            "enText": "In an effort to increase support for \n<chrname>, I got acquainted with a \npowerful helper in many ways……",
+            "enText": "I sense that I've met a powerful ally in<n>the fight to\nincrease<n><chrname>'s support...",
             "nextBlock": -1,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
-                    "origLen": 132,
-                    "pathId": 1567628904038060359
+                    "origLen": 87,
+                    "pathId": -3341293267852298343
                 },
                 {
                     "origLen": 106,
@@ -1186,25 +1265,24 @@
                     "pathId": 5588001622826728570
                 },
                 {
-                    "origLen": 87,
-                    "pathId": -3341293267852298343
+                    "origLen": 132,
+                    "pathId": 1567628904038060359
                 },
                 {
                     "origLen": 20,
                     "pathId": -3617993486818708033
                 },
                 {
-                    "origLen": 148,
-                    "pathId": 6802065639185560307
-                },
-                {
                     "origLen": 150,
                     "pathId": -3131108875152194672
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 6802065639185560307
                 }
             ],
             "pathId": 1632045712122380304,
             "blockIdx": 39
         }
-    ],
-    "modified": 1661722222
+    ]
 }

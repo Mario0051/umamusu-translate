@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "QVOI3VTS2RQEVSDPYIG6BNTLKJOMDDUI",
+    "version": 6,
+    "bundle": "QAQUFNUXSBJXQWJAXLPXCE55OHXUZURT",
     "type": "story",
     "storyId": "501012509",
     "title": "連続出走で……",
+    "enTitle": "After Repeated Races...",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "（――ドォンッ！）",
-            "enText": "(―DOOM!)",
+            "enText": "<i>Thud!</i>",
             "nextBlock": 2,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1169991691325690244,
             "blockIdx": 1
         },
@@ -19,18 +22,20 @@
             "jpName": "",
             "enName": "",
             "jpText": "ものすごい音に驚いて駆けつけると、\r\n広場の樹に頭突きをするヒシアマゾンがいた。",
-            "enText": "Startled by a tremendous noise, I ran to see \na hsiamazon head-butting a tree in the plaza.",
+            "enText": "I get quite a jolt at the sound of an<n>extremely\nloud thump. I run to the<n>source, only to see Hishi\nAmazon in the<n>central plaza, headbutting a tree.",
             "nextBlock": 3,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "何があった！？",
-                    "enText": "What happened!",
+                    "enText": "What are you doing?!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "何があったの！？",
-                    "enText": "What happened!",
+                    "enText": "What are you doing?!",
                     "nextBlock": 3
                 }
             ],
@@ -41,17 +46,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……あぁ、トレ公かい。\r\nちぃとばかり気合いを入れ直してたのさ。",
-            "enText": "…… Oh, Trekkie. I was just getting back into \nthe swing of things.",
+            "enText": "...Hey, Teach. Just pumpin' myself up.",
             "nextBlock": 4,
             "origClipLength": 86,
+            "voiceIdx": 76,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 121,
-                    "pathId": 3074716758940180394
-                },
                 {
                     "origLen": 120,
                     "pathId": 737480101458946017
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 3074716758940180394
                 }
             ],
             "pathId": 6576203185423457911,
@@ -61,17 +68,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "今朝がた『姐御……最近お疲れですか？』\r\nなーんて言われちまってね……。",
-            "enText": "This morning I was asked, \"Miss…… have you \nbeen tired lately?\" I was told, \"Miss ……",
+            "enText": "Someone stopped me this morning and<n>asked me\nif I was feeling all right, you<n>see...",
             "nextBlock": 5,
             "origClipLength": 91,
+            "voiceIdx": 60,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 1474306313211561208
-                },
                 {
                     "origLen": 102,
                     "pathId": 2394121292900715636
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 1474306313211561208
                 }
             ],
             "pathId": 8254590988857126604,
@@ -81,21 +90,23 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ったく、後輩たちに心配かけるたぁ\r\nアタシとしたことが情けねぇ！",
-            "enText": "What a shameful thing for me \nto worry about my juniors!",
+            "enText": "But man, I can't have the younger<n>students gettin'\nworried over me. It's<n>pathetic!",
             "nextBlock": 6,
             "origClipLength": 86,
+            "voiceIdx": 21,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": 2086598247502751009
                 },
                 {
-                    "origLen": 71,
-                    "pathId": 6703024484378200421
-                },
-                {
                     "origLen": 97,
                     "pathId": 8663894934585388949
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6703024484378200421
                 }
             ],
             "pathId": -371348522954096974,
@@ -105,9 +116,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かにヒシアマゾンは疲れて見える。\r\n今後の出走予定を見直すべきかもしれない。",
-            "enText": "Hsiamazon certainly looks tired. Perhaps we \nshould reevaluate the schedule of future runs.",
+            "enText": "Her fatigue is quite evident, though... I<n>should\nprobably adjust her race<n>schedule.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
@@ -115,16 +128,15 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": -7299501696810717820
+                    "pathId": 6521270626146554630
                 },
                 {
                     "origLen": 106,
-                    "pathId": 6521270626146554630
+                    "pathId": -7299501696810717820
                 }
             ],
             "pathId": -8962098959786139366,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555055
+    ]
 }

@@ -1,33 +1,36 @@
 {
-    "version": 5,
-    "bundle": "QUQKSPHU6KDIEPB2XGDEYSGQTQF75D4B",
+    "version": 6,
+    "bundle": "ME3FSQ6TMVP4NRAWNEBJFIQUDGKCH36G",
     "type": "story",
     "storyId": "501014514",
     "title": "サボテン料理をご馳走デース！",
+    "enTitle": "Cactus Feast",
     "text": [
         {
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "はい、栄養満点なんデェェェス！\r\nスペちゃんにもご馳走しますね！",
-            "enText": "Yes, it's nutritious, Daez! \nI'll treat you too, Spee!",
+            "enText": "It's hella nutritious! I'll hook you up with<n>some\ntoo, Spe!",
             "nextBlock": 2,
             "origClipLength": 86,
+            "voiceIdx": 47,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": -1112069647473500415
-                },
                 {
                     "origLen": 97,
                     "pathId": -738290627383796912
                 },
                 {
                     "origLen": 97,
-                    "pathId": -1153273265715079601
+                    "pathId": -1112069647473500415
                 },
                 {
                     "origLen": 97,
                     "pathId": 5975879865494966038
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1153273265715079601
                 }
             ],
             "pathId": -4912321687024265693,
@@ -37,9 +40,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ありがとう、エルちゃん！\r\nサボテンなんて初めてだよ～！",
-            "enText": "Thanks, Elle! I've never had a cactus before!",
+            "enText": "Thanks, El! I've never had cactus before!",
             "nextBlock": 3,
             "origClipLength": 81,
+            "voiceIdx": 141,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "サボテン？",
@@ -50,19 +55,19 @@
             "animData": [
                 {
                     "origLen": 92,
+                    "pathId": 959331915437071201
+                },
+                {
+                    "origLen": 92,
                     "pathId": -1936067453577886912
                 },
                 {
                     "origLen": 92,
-                    "pathId": 959331915437071201
+                    "pathId": -1193117930599090357
                 },
                 {
                     "origLen": 57,
                     "pathId": 3870356328918453175
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -1193117930599090357
                 }
             ],
             "pathId": 6432651377141188304,
@@ -72,25 +77,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "あっ、トレーナーさん！\r\nトレーナーさんもどうデスか、サボテン！",
-            "enText": "Oh, trainer! How about you \ntoo, trainer, cactus!",
+            "enText": "Oh, hey Trainer! Do you want some<n>cactus too?",
             "nextBlock": 4,
             "origClipLength": 86,
+            "voiceIdx": 55,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 5911892986310731928
+                },
                 {
                     "origLen": 64,
                     "pathId": 3578497368447281889
                 },
                 {
                     "origLen": 97,
-                    "pathId": 5911892986310731928
+                    "pathId": 2185936336734944550
                 },
                 {
                     "origLen": 54,
                     "pathId": -209825973779315214
-                },
-                {
-                    "origLen": 97,
-                    "pathId": 2185936336734944550
                 }
             ],
             "pathId": -3074617932613464652,
@@ -100,25 +107,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "元気になれるよって、\r\nパパとママが送ってくれたんデェェェス！",
-            "enText": "Mom and Dad sent it to me to cheer me up!",
+            "enText": "My mama and papa sent me some to<n>keep me\nhealthy!",
             "nextBlock": 5,
             "origClipLength": 85,
+            "voiceIdx": 1,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -3343757001002730911
+                },
                 {
                     "origLen": 44,
                     "pathId": -6762433395176694227
                 },
                 {
                     "origLen": 96,
-                    "pathId": -3343757001002730911
+                    "pathId": 2604901393578308004
                 },
                 {
                     "origLen": 96,
                     "pathId": 2826688555652205932
-                },
-                {
-                    "origLen": 96,
-                    "pathId": 2604901393578308004
                 }
             ],
             "pathId": 9043543363973895880,
@@ -128,9 +137,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "サボテンって食べられるんですね。\r\nエルちゃんに聞いて、ビックリしました！",
-            "enText": "So you can eat cactus? I was so surprised \nwhen Elle told me!",
+            "enText": "I couldn't believe it when El told me you<n>can eat\ncactus!",
             "nextBlock": 6,
             "origClipLength": 93,
+            "voiceIdx": 154,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "どう料理するんだ？",
@@ -139,26 +150,26 @@
                 },
                 {
                     "jpText": "どう料理するの？",
-                    "enText": "How do you cook?",
+                    "enText": "How do you cook it?",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
                     "origLen": 104,
+                    "pathId": 1962738029335319913
+                },
+                {
+                    "origLen": 104,
                     "pathId": 8038099247521182185
                 },
                 {
                     "origLen": 104,
-                    "pathId": 1962738029335319913
+                    "pathId": 516266471189186420
                 },
                 {
                     "origLen": 85,
                     "pathId": -1443370805154223360
-                },
-                {
-                    "origLen": 104,
-                    "pathId": 516266471189186420
                 }
             ],
             "pathId": -3430560858144439407,
@@ -168,25 +179,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ステーキにしたりハンバーガーの具にしたり、\r\nスムージーにしたり、色々デス！",
-            "enText": "It can be used for steaks, hamburgers, \nsmoothies, you name it!",
+            "enText": "All kinds of ways! You can make it into<n>steak, or\nhamburgers, even smoothies!",
             "nextBlock": 7,
             "origClipLength": 94,
+            "voiceIdx": 38,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7645868755261395703
+                },
                 {
                     "origLen": 82,
                     "pathId": 7485000634732873651
                 },
                 {
                     "origLen": 105,
-                    "pathId": 7645868755261395703
+                    "pathId": -7121589809605739340
                 },
                 {
                     "origLen": 105,
                     "pathId": 4245732695570885104
-                },
-                {
-                    "origLen": 105,
-                    "pathId": -7121589809605739340
                 }
             ],
             "pathId": 173826332546420386,
@@ -196,25 +209,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "へぇえ！　そんなにレシピがあるんだ！",
-            "enText": "Wow! That's a lot of recipes!",
+            "enText": "Wow! There's that many ways?!",
             "nextBlock": 8,
             "origClipLength": 68,
+            "voiceIdx": 8,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -7523000219237883720
+                },
                 {
                     "origLen": 79,
                     "pathId": -5831241067376277289
                 },
                 {
                     "origLen": 79,
-                    "pathId": -7523000219237883720
+                    "pathId": -6565908244988345078
                 },
                 {
                     "origLen": 45,
                     "pathId": 7706342494374228817
-                },
-                {
-                    "origLen": 79,
-                    "pathId": -6565908244988345078
                 }
             ],
             "pathId": 5957751846709968189,
@@ -224,25 +239,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルはパパから教わりました！\r\n得意料理の1つなんデェェェス！",
-            "enText": "Elle learned it from her dad! It's one of my \nfavorite dishes!",
+            "enText": "My papa taught me! Cactus is one of his<n>\nspecialties!",
             "nextBlock": 9,
             "origClipLength": 85,
+            "voiceIdx": 74,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 8865753249578533049
+                },
                 {
                     "origLen": 75,
                     "pathId": -2835733106150424340
                 },
                 {
                     "origLen": 96,
-                    "pathId": 8865753249578533049
+                    "pathId": -7238532330664120639
                 },
                 {
                     "origLen": 96,
                     "pathId": -7046788063757905605
-                },
-                {
-                    "origLen": 96,
-                    "pathId": -7238532330664120639
                 }
             ],
             "pathId": -5986326308380443461,
@@ -252,37 +269,39 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "トレーナーさんにもご馳走します！\r\n何かリクエストはありますか！？",
-            "enText": "Treat your trainer! Do you have any requests!",
+            "enText": "I'm givin' you some too, Trainer! How do<n>you want\nit?",
             "nextBlock": 10,
             "origClipLength": 88,
+            "voiceIdx": 37,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "ステーキかな！",
-                    "enText": "Steak, maybe!",
+                    "enText": "A steak would be great!",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "スムージーがいいな！",
-                    "enText": "I'd love a smoothie!",
+                    "enText": "I'd love to try a smoothie!",
                     "nextBlock": 20
                 }
             ],
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4158166987881213718
+                },
                 {
                     "origLen": 75,
                     "pathId": 8668511230467115766
                 },
                 {
                     "origLen": 99,
-                    "pathId": -4158166987881213718
+                    "pathId": 2957687205260389048
                 },
                 {
                     "origLen": 80,
                     "pathId": -9133340528628089431
-                },
-                {
-                    "origLen": 99,
-                    "pathId": 2957687205260389048
                 }
             ],
             "pathId": 2438078072068298732,
@@ -292,25 +311,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ステーキはうちの定番でした！",
-            "enText": "Steak was our staple!",
+            "enText": "Steak is my go-to!",
             "nextBlock": 11,
             "origClipLength": 63,
+            "voiceIdx": 31,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -5355336045961241995
+                },
                 {
                     "origLen": 34,
                     "pathId": 8433277669327351336
                 },
                 {
                     "origLen": 74,
-                    "pathId": -5355336045961241995
+                    "pathId": 6324940329748921295
                 },
                 {
                     "origLen": 74,
                     "pathId": -1820828817010206823
-                },
-                {
-                    "origLen": 74,
-                    "pathId": 6324940329748921295
                 }
             ],
             "pathId": 6575493160157371593,
@@ -320,25 +341,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "満腹感もあって、ダイエットにも\r\n向いているんデスよ！",
-            "enText": "It also makes you feel full \nand is good for weight loss!",
+            "enText": "It's hella filling, and it's great for diets<n>too!",
             "nextBlock": 12,
             "origClipLength": 80,
+            "voiceIdx": 154,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 8272011481689109602
+                },
                 {
                     "origLen": 58,
                     "pathId": 7524536195036354325
                 },
                 {
                     "origLen": 91,
-                    "pathId": 8272011481689109602
+                    "pathId": 6321750170317569584
                 },
                 {
                     "origLen": 91,
                     "pathId": -5979475853821113210
-                },
-                {
-                    "origLen": 91,
-                    "pathId": 6321750170317569584
                 }
             ],
             "pathId": 1185931801705265934,
@@ -348,25 +371,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "満腹感……！　ダイエット！！\r\nすごいっ、魔法の食べ物だね！",
-            "enText": "Full stomach……! Diet!!! \nWow, that's magic food!",
+            "enText": "It's filling <i>and</i> good for diets?!<n>Incredible! It\nsounds magical!",
             "nextBlock": 13,
             "origClipLength": 84,
+            "voiceIdx": 7,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -7368014471719380176
+                },
                 {
                     "origLen": 95,
                     "pathId": 2446191701941678423
                 },
                 {
                     "origLen": 95,
-                    "pathId": -7368014471719380176
+                    "pathId": -1505652063036021238
                 },
                 {
                     "origLen": 70,
                     "pathId": 686082118670130840
-                },
-                {
-                    "origLen": 95,
-                    "pathId": -1505652063036021238
                 }
             ],
             "pathId": -6600915171807653340,
@@ -376,25 +401,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "フッフッフッ！\r\n食いつきがいいデスね、スペちゃん！",
-            "enText": "Hoo-hoo-hoo! You're a biting little thing, \naren't you, Spee!",
+            "enText": "Hehehe! You sure are curious about this,<n>aren't\nya, Spe?",
             "nextBlock": 14,
             "origClipLength": 78,
+            "voiceIdx": 3,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3590800874258514212
+                },
                 {
                     "origLen": 37,
                     "pathId": 5223137805415178082
                 },
                 {
                     "origLen": 89,
-                    "pathId": -3590800874258514212
+                    "pathId": 7894132495093691628
                 },
                 {
                     "origLen": 89,
                     "pathId": 9155698251715590082
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 7894132495093691628
                 }
             ],
             "pathId": -1009112582746583178,
@@ -404,25 +431,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "サボテンステーキで最強の体を作りつつ、\r\n楽しくダイエットも可能！",
-            "enText": "Cactus Steak will help you build \nyour strongest body while having \nfun and losing weight!",
+            "enText": "You can get hella strong and actually<n>enjoy\ndieting if you're eatin' cactus<n>steak!",
             "nextBlock": 15,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4418458943872025285
+                },
                 {
                     "origLen": 51,
                     "pathId": -1955350260408032673
                 },
                 {
                     "origLen": 99,
-                    "pathId": -4418458943872025285
+                    "pathId": 7665240306663752190
                 },
                 {
                     "origLen": 66,
                     "pathId": -9112253355505133352
-                },
-                {
-                    "origLen": 99,
-                    "pathId": 7665240306663752190
                 }
             ],
             "pathId": -4174589407405632067,
@@ -432,25 +461,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "寮のキッチンを借ります！\r\nさっそく作りに行きましょう！！",
-            "enText": "We're borrowing the dorm kitchen! \nLet's get cooking!",
+            "enText": "Let's go to the dorm kitchen and get<n>cooking!",
             "nextBlock": 16,
             "origClipLength": 82,
+            "voiceIdx": 97,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8140960096200734091
+                },
                 {
                     "origLen": 53,
                     "pathId": 1518438634733790067
                 },
                 {
                     "origLen": 93,
-                    "pathId": -8140960096200734091
+                    "pathId": -3442912200847731356
                 },
                 {
                     "origLen": 93,
                     "pathId": 7243822286640130605
-                },
-                {
-                    "origLen": 93,
-                    "pathId": -3442912200847731356
                 }
             ],
             "pathId": 6980727131389594721,
@@ -460,25 +491,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "エルコンドルパサーに調理してもらい、\r\nサボテンステーキを楽しんだ……の、だが。",
-            "enText": "I enjoyed the cactus steak, cooked by Elcon \nDolpasser,…… but.",
+            "enText": "I enjoy the cactus steak that El Condor<n>Pasa\nprepared. However...",
             "nextBlock": 17,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 132,
-                    "pathId": -1433341589682256
-                },
                 {
                     "origLen": 149,
                     "pathId": -8076306432415945766
                 },
                 {
                     "origLen": 132,
-                    "pathId": -5570722831441337875
+                    "pathId": -1433341589682256
                 },
                 {
                     "origLen": 149,
                     "pathId": -1478474384958410057
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -5570722831441337875
                 }
             ],
             "pathId": 5944058399403008632,
@@ -488,25 +521,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "うぐ……た、食べ過ぎました。\r\nもう動けません……。",
-            "enText": "Ugh…… I ate too much. I can't move anymore. ……",
+            "enText": "Urgh... I ate too much... I can't move...",
             "nextBlock": 18,
             "origClipLength": 78,
+            "voiceIdx": 28,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3279788291933225315
+                },
                 {
                     "origLen": 59,
                     "pathId": -2983728117430752350
                 },
                 {
                     "origLen": 89,
-                    "pathId": 3279788291933225315
+                    "pathId": 3859280258421523093
                 },
                 {
                     "origLen": 89,
                     "pathId": -1114451697697301181
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 3859280258421523093
                 }
             ],
             "pathId": -1923126468612839289,
@@ -516,25 +551,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "はぁ～……。\r\nお腹いっぱい……でも、幸せ……！",
-            "enText": "Huh…… I'm full…… but happy……!",
+            "enText": "Phew... I'm so full... but I'm also so<n>happy!",
             "nextBlock": 19,
             "origClipLength": 76,
+            "voiceIdx": 62,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -6907451104306311455
+                },
                 {
                     "origLen": 87,
                     "pathId": -698679442647631122
                 },
                 {
                     "origLen": 87,
-                    "pathId": -6907451104306311455
+                    "pathId": 2452765931352352957
                 },
                 {
                     "origLen": 62,
                     "pathId": 5185026884975877917
-                },
-                {
-                    "origLen": 87,
-                    "pathId": 2452765931352352957
                 }
             ],
             "pathId": -8387301402163840344,
@@ -544,25 +581,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "どんなにダイエットに良くとも、\r\n食べ過ぎては意味がないと\n学んだ1日だった。",
-            "enText": "It was a day of learning that no \nmatter how good your diet is, it's \nno good if you overeat.",
+            "enText": "We learn that no matter how good<n>something\nmay be for a diet, it's<n>pointless if you eat too\nmuch.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 106,
-                    "pathId": -6796218952781994112
-                },
                 {
                     "origLen": 106,
                     "pathId": 2848175571944676671
                 },
                 {
                     "origLen": 106,
-                    "pathId": 472438611457592613
+                    "pathId": -6796218952781994112
                 },
                 {
                     "origLen": 106,
                     "pathId": 5754989297256152293
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 472438611457592613
                 }
             ],
             "pathId": -1626436414874383461,
@@ -572,25 +611,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "いいデスね！　サボテンには心を\r\n落ち着ける効果もあるそうデス！",
-            "enText": "That's nice! They say cacti have a calming \neffect on the mind!",
+            "enText": "Great idea! Cactus is also great for<n>calming you\ndown!",
             "nextBlock": 21,
             "origClipLength": 86,
+            "voiceIdx": 26,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -3097540461942049631
+                },
                 {
                     "origLen": 49,
                     "pathId": 3894867717465381282
                 },
                 {
                     "origLen": 97,
-                    "pathId": -3097540461942049631
+                    "pathId": 2192745747039679150
                 },
                 {
                     "origLen": 97,
                     "pathId": -6723848542904715320
-                },
-                {
-                    "origLen": 97,
-                    "pathId": 2192745747039679150
                 }
             ],
             "pathId": 6555697102032685267,
@@ -600,25 +641,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "そうなんだ！\r\nだったら、もしかして――",
-            "enText": "Oh, yes! Then maybe―",
+            "enText": "I see! If that's true, then...",
             "nextBlock": 22,
             "origClipLength": 71,
+            "voiceIdx": 154,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -464115561223111777
+                },
                 {
                     "origLen": 82,
                     "pathId": -7732704647306550692
                 },
                 {
                     "origLen": 82,
-                    "pathId": -464115561223111777
+                    "pathId": 8474390014006127118
                 },
                 {
                     "origLen": 47,
                     "pathId": 4892168691510796590
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 8474390014006127118
                 }
             ],
             "pathId": 6547822039957945045,
@@ -628,25 +671,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "私もスズカさんみたいに落ち着いた\r\nウマ娘になれちゃったり！？",
-            "enText": "I could be a calm and relaxed \nhorsegirl like Suzuka-san!",
+            "enText": "Can I become as calm as Suzuka?!",
             "nextBlock": 23,
             "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 2852437626572579977
+                },
                 {
                     "origLen": 75,
                     "pathId": -9092665601723033171
                 },
                 {
                     "origLen": 96,
-                    "pathId": 2852437626572579977
+                    "pathId": -5401578628272293991
                 },
                 {
                     "origLen": 71,
                     "pathId": 8298735378906620495
-                },
-                {
-                    "origLen": 96,
-                    "pathId": -5401578628272293991
                 }
             ],
             "pathId": 6951329212235939951,
@@ -659,22 +704,24 @@
             "enText": "Maybe!",
             "nextBlock": 24,
             "origClipLength": 55,
+            "voiceIdx": 37,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1260675354176707305
+                },
                 {
                     "origLen": 42,
                     "pathId": 6058173116638403048
                 },
                 {
                     "origLen": 66,
-                    "pathId": 1260675354176707305
+                    "pathId": -8011755976520983499
                 },
                 {
                     "origLen": 66,
                     "pathId": 8932719782042517005
-                },
-                {
-                    "origLen": 66,
-                    "pathId": -8011755976520983499
                 }
             ],
             "pathId": 7230347507746249975,
@@ -684,25 +731,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルがいつも冷静で落ち着いていられるのは、\r\nサボテンのおかげかもなので！",
-            "enText": "Elle is always calm and collected, maybe \nbecause of the cactus!",
+            "enText": "Maybe the reason I'm so calm and<n>collected is\nbecause I drink so much<n>cactus!",
             "nextBlock": 25,
             "origClipLength": 93,
+            "voiceIdx": 3,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 7505628841878011564
+                },
                 {
                     "origLen": 52,
                     "pathId": -4236547919958977890
                 },
                 {
                     "origLen": 104,
-                    "pathId": 7505628841878011564
+                    "pathId": -8222283346090455032
                 },
                 {
                     "origLen": 71,
                     "pathId": -2820467793301121056
-                },
-                {
-                    "origLen": 104,
-                    "pathId": -8222283346090455032
                 }
             ],
             "pathId": -5349938498247931318,
@@ -712,25 +761,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "落ち着きに関しては突っ込まず、\r\nさっそくサボテンのスムージーを\nご馳走になることにした。",
-            "enText": "Without going into the restlessness, I \nimmediately decided to treat myself to a \ncactus smoothie.",
+            "enText": "I let the comment about her being \"calm<n>and\ncollected\" slide so I can get a<n>smoothie as soon as\npossible.",
             "nextBlock": 26,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 114,
-                    "pathId": 1540355802094375811
-                },
                 {
                     "origLen": 114,
                     "pathId": -7187476717232553859
                 },
                 {
                     "origLen": 114,
-                    "pathId": -6982593434149472773
+                    "pathId": 1540355802094375811
                 },
                 {
                     "origLen": 114,
                     "pathId": 2342177627078512872
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -6982593434149472773
                 }
             ],
             "pathId": -5217998285325128608,
@@ -740,25 +791,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "エルコンドルパサーに\r\nサボテンスムージーを作ってもらい\nカフェテリアで頂こうとすると――",
-            "enText": "I had El Condor Purser make me a \nsaboten smoothie and I was going \nto have it in the cafeteria.",
+            "enText": "El Condor Pasa makes the cactus<n>smoothies and\nwe take them to the<n>cafeteria, but...",
             "nextBlock": 27,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 138,
-                    "pathId": -5847665032115765236
-                },
                 {
                     "origLen": 155,
                     "pathId": 4946171814972682691
                 },
                 {
                     "origLen": 138,
-                    "pathId": 3907188182522495034
+                    "pathId": -5847665032115765236
                 },
                 {
                     "origLen": 155,
                     "pathId": 5339284145005867613
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 3907188182522495034
                 }
             ],
             "pathId": 5818416130568419929,
@@ -768,25 +821,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "いったー！？　トゲッ、トゲが残ってました！\r\nうう、頬の裏にチクりと……！",
-            "enText": "It's gone! Spikes, the spikes \nwere still there! Ugh, a prick \non the back of my cheek ……!",
+            "enText": "Ouch! I forgot to take out the spikes!<n>Ugh, my\ncheek hella hurts!",
             "nextBlock": 28,
             "origClipLength": 93,
+            "voiceIdx": 18,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 2479917981835697887
+                },
                 {
                     "origLen": 79,
                     "pathId": 2790434782611417318
                 },
                 {
                     "origLen": 104,
-                    "pathId": 2479917981835697887
+                    "pathId": 1972975256804278188
                 },
                 {
                     "origLen": 104,
                     "pathId": 6305065508193068767
-                },
-                {
-                    "origLen": 104,
-                    "pathId": 1972975256804278188
                 }
             ],
             "pathId": -5544680404361462409,
@@ -796,25 +851,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "エルちゃん、大丈夫！？\r\nそっか、さっきのはトゲだったんだ！？",
-            "enText": "Elle, you're okay! I see, \nthat was a spike earlier!",
+            "enText": "Ah! So that's what that was! Are you<n>okay, El?!",
             "nextBlock": 29,
             "origClipLength": 85,
+            "voiceIdx": 4,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -3042705063131530501
+                },
                 {
                     "origLen": 96,
                     "pathId": -6395581997688514676
                 },
                 {
                     "origLen": 96,
-                    "pathId": -3042705063131530501
+                    "pathId": -3154354176751809227
                 },
                 {
                     "origLen": 69,
                     "pathId": -2630188568263106694
-                },
-                {
-                    "origLen": 96,
-                    "pathId": -3154354176751809227
                 }
             ],
             "pathId": 25135802617059244,
@@ -824,25 +881,27 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "！？　スペちゃん、食べたんデスか！？\r\nアナタ、ラクダですか！？",
-            "enText": "! Did you eat it, Spee-chan? Are you a camel?",
+            "enText": "What?! Did you eat them, Spe?! Are you<n>a\ncamel?!",
             "nextBlock": 30,
             "origClipLength": 86,
+            "voiceIdx": 61,
+            "voiceSheetId": "051014001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -1756718947476498465
+                },
                 {
                     "origLen": 47,
                     "pathId": -7918171541069191329
                 },
                 {
                     "origLen": 97,
-                    "pathId": -1756718947476498465
+                    "pathId": -5454251870348285605
                 },
                 {
                     "origLen": 97,
                     "pathId": -812138391614895748
-                },
-                {
-                    "origLen": 97,
-                    "pathId": -5454251870348285605
                 }
             ],
             "pathId": 4769025400047951116,
@@ -852,30 +911,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "トゲに十分、注意しつつ……\r\nサボテンスムージーを\n楽しんだのだった。",
-            "enText": "I enjoyed a…… saboten smoothie, being careful \nof the spikes.",
+            "enText": "I take care to avoid the cactus spikes<n>and end up\nenjoying the smoothie quite<n>a bit.",
             "nextBlock": -1,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -5541067266153811044
+                },
                 {
                     "origLen": 101,
                     "pathId": -2663395194396142751
                 },
                 {
                     "origLen": 101,
-                    "pathId": -5541067266153811044
+                    "pathId": 3777160900696010069
                 },
                 {
                     "origLen": 68,
                     "pathId": -8706780652081419756
-                },
-                {
-                    "origLen": 101,
-                    "pathId": 3777160900696010069
                 }
             ],
             "pathId": 5530012634787449400,
             "blockIdx": 30
         }
-    ],
-    "modified": 1657555250
+    ]
 }

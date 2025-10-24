@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "5Y4ANDLMI74OEIEAKTWLURLMBCUB27JY",
+    "version": 6,
+    "bundle": "LQZVOD4Z4U3COUWLHJPLL5D3ER3TZ75U",
     "type": "story",
     "storyId": "801050001",
     "title": "別に、ほっといて",
+    "enTitle": "Just Leave Me Alone",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、学園内を歩いていると……。",
-            "enText": "One day, while walking around \nthe school, I came across…",
+            "enText": "One day, while I'm walking around the<n>campus...",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2565381396293139743,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "くそっ……届か、ないっ！",
-            "enText": "Damn it, I can't reach…!",
+            "enText": "Dang it! I can't... reach!",
             "nextBlock": 3,
+            "origClipLength": 52,
+            "voiceIdx": 18,
+            "voiceSheetId": "051050001",
             "pathId": 8009669338616506223,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやらナリタタイシンは、\r\n樹の上にひっかかったプリントを取ろうと\nジャンプしているようだが……。",
-            "enText": "Apparently, Narytaishin is jumping to get a \nprint stuck on a tree…",
+            "enText": "Narita Taishin is repeatedly jumping and<n>grabbing\nat a flyer that's caught on a<n>tree branch.",
             "nextBlock": 4,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -5364446575150279415
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 3681940772552646356
+                }
+            ],
             "pathId": -5362856130407067591,
             "blockIdx": 3
         },
@@ -36,13 +56,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……何ジロジロ見てんの。\r\nうっとうしいんだけど。",
-            "enText": "… Why are you looking at me like \nthat? It's so annoying.",
+            "enText": "What are you looking at? Don't you<n>have better\nthings to do than stare at<n>people like a weirdo?",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": 16,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "手伝おうかなと",
-                    "enText": "I thought I'd help.",
+                    "enText": "Need a hand?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8941257184233023051
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -2599465210007892216
                 }
             ],
             "pathId": -4251511885234928082,
@@ -52,23 +85,36 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "は？　……バカにしないでよ。\r\n別に、取れるし。ほっといて。",
-            "enText": "Huh? Don't make fun of… I can take \nit. Just leave me alone.",
+            "enText": "Huh? Are you mocking me or<n>something? I got\nthis, so just leave me<n>alone.",
             "nextBlock": 6,
+            "origClipLength": 64,
+            "voiceIdx": 20,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "せめて応援させて！",
-                    "enText": "At least let me support you!",
+                    "enText": "At least let me cheer you on!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "でも、力になりたいんだ",
-                    "enText": "But I want to help you.",
+                    "enText": "I just want to help.",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "でも、力になりたいの",
-                    "enText": "But I want to help you.",
+                    "enText": "I just want to help.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7078591392801436031
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 4460004561507907720
                 }
             ],
             "pathId": 9122348811902319828,
@@ -78,23 +124,36 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "は？　……バカにしないでよ。\r\n別に、取れるし。ほっといて。",
-            "enText": "Huh? Don't make fun of… I can take \nit. Just leave me alone.",
+            "enText": "Huh? Are you mocking me or<n>something? I got\nthis, so just leave me<n>alone.",
             "nextBlock": 7,
+            "origClipLength": 64,
+            "voiceIdx": 20,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "せめて応援させて！",
-                    "enText": "At least let me support you!",
+                    "enText": "At least let me cheer you on!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "でも、力になりたいんだ",
-                    "enText": "But I want to help you.",
+                    "enText": "I just want to help.",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "でも、力になりたいの",
-                    "enText": "But I want to help you.",
+                    "enText": "I just want to help.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 4213558771331531364
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 8830168458514307956
                 }
             ],
             "pathId": 7421823906323280129,
@@ -104,8 +163,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "っるさいな、余計なお世話だってば！",
-            "enText": "Don't bother, it's none of your business!",
+            "enText": "Shut up! I don't need any of that!",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "voiceIdx": 17,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -5700292346498784376
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -8986074160798842100
+                }
+            ],
             "pathId": 5644896206858505724,
             "blockIdx": 7
         },
@@ -113,8 +185,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "……結局、拒絶され続けてしまったので、\r\nこっそりケガがないよう見守ることにした。",
-            "enText": "… Eventually, they kept rejecting me, so I \ndecided to watch over them secretly to make \nsure they didn't get hurt.",
+            "enText": "She shuts down every offer I make, so I<n>resort to\nsecretly watching over her to<n>make sure she\ndoesn't injure herself.",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6382136879140339051
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3668874990699531930
+                }
+            ],
             "pathId": 3660224249099708440,
             "blockIdx": 8
         },
@@ -122,8 +207,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "意地でも取ってやる……！",
-            "enText": "I'm going to get it…!",
+            "enText": "I'm going to get this thing no matter<n>what!",
             "nextBlock": 10,
+            "origClipLength": 52,
+            "voiceIdx": 18,
+            "voiceSheetId": "051050001",
             "pathId": -7552098051664941432,
             "blockIdx": 9
         },
@@ -131,8 +219,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "ナリタタイシンはその後も、\r\n凄まじいスタミナでジャンプを続け……\nそして、ついに――！",
-            "enText": "Narita Taishin continued to jump with \ntremendous stamina… and finally…!",
+            "enText": "Thanks to her unparalleled stamina,<n>Narita\nTaishin continues to jump at the<n>flyer for what\nseems like forever until at<n>last...",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7842588642271426440,
             "blockIdx": 10
         },
@@ -140,8 +231,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "――――っしゃ、取れた！",
-            "enText": "— Well, there you have it!",
+            "enText": "HAH! Gotcha!",
             "nextBlock": 12,
+            "origClipLength": 52,
+            "voiceIdx": 6,
+            "voiceSheetId": "051050001",
             "pathId": -2898094150861061678,
             "blockIdx": 11
         },
@@ -149,8 +243,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ふふ、粘り勝ち。\r\nやれるじゃん、アタシ。",
-            "enText": "A tenacious winner. I can do it, can't I?",
+            "enText": "Hehe, victory at last. Am I good, or<n>what?",
             "nextBlock": 13,
+            "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 2418774299575754399
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 3903199583376733090
+                }
+            ],
             "pathId": 2164678753191998804,
             "blockIdx": 12
         },
@@ -158,8 +265,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "諦めずに粘れば、高い目標にも手が届く。",
-            "enText": "If you persist and don't give up, you can \nreach the highest goals.",
+            "enText": "This just goes to show that you can reach<n>any\ngoal as long as you never give up.",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 7977770646330522465
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4928072835439046821
+                }
+            ],
             "pathId": 6134531323144576338,
             "blockIdx": 13
         },
@@ -167,13 +287,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "しつこい！\r\nありがた迷惑だって⾔ってんの！",
-            "enText": "You persist! You're annoying, \nyou profane language!",
+            "enText": "You're so annoying! I never asked you<n>for help,\ndid I?",
             "nextBlock": 15,
+            "origClipLength": 59,
+            "voiceIdx": 16,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "でも……",
-                    "enText": "But…",
+                    "enText": "But...",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -3137614939537590719
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 6566729454385374532
                 }
             ],
             "pathId": -7153331154873051439,
@@ -183,8 +316,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……～～っ！\r\nああもう！　わかったから！！",
-            "enText": "…~! Oh my god! All right, all right!",
+            "enText": "Ugh! Whatever! Fine!",
             "nextBlock": 16,
+            "origClipLength": 59,
+            "voiceIdx": 4,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1297716241718415033
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -2040541190337879883
+                }
+            ],
             "pathId": -3941456639000303161,
             "blockIdx": 15
         },
@@ -192,8 +338,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "さっさと終わらす。\r\nで、もうアタシには構わないで！",
-            "enText": "I'll get it over with. And leave \nme the hell out of it!",
+            "enText": "I don't have the energy to deal with you.<n>If you\nwant to help, then hurry up and<n>do something!",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8773292742037401757
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6492291025538530538
+                }
+            ],
             "pathId": -5318985179393045860,
             "blockIdx": 16
         },
@@ -201,8 +360,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "ナリタタイシンとともに台座を探したり、\r\n枝を引き寄せたりとチャレンジを続け……。",
-            "enText": "Together with Narita Taishin, we have tried \nto find the base and pull in the branches…",
+            "enText": "Together, we look for things to stand on<n>so we\ncan pull down the branches and<n>reach the flyer.",
             "nextBlock": 18,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4911230184040415550,
             "blockIdx": 17
         },
@@ -210,8 +372,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "っし、これなら……ふんっ！！",
-            "enText": "And this is what… is all about!",
+            "enText": "All right, I should be able to get it now...<n>Hup!",
             "nextBlock": 19,
+            "origClipLength": 54,
+            "voiceIdx": 124,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 3463932905162648585
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 3693933935225262444
+                }
+            ],
             "pathId": 5086017524099733653,
             "blockIdx": 18
         },
@@ -219,8 +394,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ついにその脚力で、プリントを取り戻した！",
-            "enText": "At last, with those legs, \nshe got her print back!",
+            "enText": "Thanks to her powerful legs, we're<n>finally able to\nget the flyer down!",
             "nextBlock": 20,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 294260294409284139
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -7080155543518982295
+                }
+            ],
             "pathId": -6880650581128817996,
             "blockIdx": 19
         },
@@ -228,8 +416,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "はぁ、なんか無駄に疲れた。\r\n……けど――",
-            "enText": "Huh, I'm kind of wasted and tired… but—",
+            "enText": "Ugh. That was too much work for what<n>it's worth...\nBut...",
             "nextBlock": 21,
+            "origClipLength": 58,
+            "voiceIdx": 21,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 2487960622899550528
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 6524005123593800432
+                }
+            ],
             "pathId": 2795071224389815277,
             "blockIdx": 20
         },
@@ -237,8 +438,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "…………意外と、助かった。意外とね。",
-            "enText": "… Surprisingly, it helped. Surprisingly so.",
+            "enText": "You were more helpful than I thought<n>you'd be. I\nwas sure you'd be useless.",
             "nextBlock": 22,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 8216483848427767718
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 4072356494532944769
+                }
+            ],
             "pathId": 3681533525267999719,
             "blockIdx": 21
         },
@@ -246,8 +460,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ナリタタイシンの体の使い方、\r\n特にその脚力には見習うべきところが\n多くあった。",
-            "enText": "Narita Tysyn's use of her body, \nespecially her leg strength, was \nsomething to learn from.",
+            "enText": "There are so many things I can learn<n>from the way\nNarita Taishin utilizes her<n>body, especially her leg\nstrength.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -2727747626517945636
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4218811615961526739
+                }
+            ],
             "pathId": 6083691643156975936,
             "blockIdx": 22
         }

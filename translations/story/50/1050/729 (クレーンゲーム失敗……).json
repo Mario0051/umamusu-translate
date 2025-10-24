@@ -1,26 +1,44 @@
 {
-    "version": 4,
-    "bundle": "OLSJ6LVSMMVHPKZERZ35UEI5QKOKVJ4P",
+    "version": 6,
+    "bundle": "SAN667HX45LO5LDE5IWJMZT63EQOJO4B",
     "type": "story",
     "storyId": "501050729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "はい、おしまい。\r\n残念だけど、諦めたら。",
-            "enText": "Yes, the end. I'm sorry, but if you give up.",
+            "enText": "Okay, that's enough. Sucks for you, but<n>it's\nquitting time.",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": 49,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry…",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry…",
+                    "enText": "Sorry...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 3230235389259352508
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 9114238765532619373
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -179649875640565103
                 }
             ],
             "pathId": -3493237143623748453,
@@ -30,8 +48,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "謝る理由がわかんないし。",
-            "enText": "And I don't know why I'm apologizing.",
+            "enText": "I don't get why you're apologizing to me.",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": 20,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3141874831333679607
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 489134632078663483
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 3686169826502720481
+                }
+            ],
             "pathId": 6698708685606715676,
             "blockIdx": 2
         },
@@ -39,8 +74,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "アタシは初めから興味ないって\r\n言ってんじゃん。",
-            "enText": "I told you I wasn't interested \nfrom the beginning.",
+            "enText": "I told you I'm not interested in them.",
             "nextBlock": 4,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 8144173143180418788
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -7478095051173783426
+                }
+            ],
             "pathId": 5613779206001376810,
             "blockIdx": 3
         },
@@ -48,8 +96,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……はぁっ、そんな落ち込むなっての。\r\nほら、帰るよ。",
-            "enText": "… huh, don't be so depressed. \nCome on, I'm going home.",
+            "enText": "Ughhh, stop feeling so sorry for yourself.<n>C'mon,\nlet's go.",
             "nextBlock": 5,
+            "origClipLength": 80,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3666634443843142934
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -8216405455725696677
+                }
+            ],
             "pathId": -7754682334720036843,
             "blockIdx": 4
         },
@@ -57,8 +118,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results \ncan be found…",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8456151411112177754
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8007135309561413161
+                }
+            ],
             "pathId": 308664307845772347,
             "blockIdx": 5
         }

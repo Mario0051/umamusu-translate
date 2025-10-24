@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "255TUZCWKZ3XZRYGEYVZBNEG3BDKHFWM",
+    "version": 6,
+    "bundle": "EWFDA3KIE7XUK2VSV2JTKME5ZK6NMRMW",
     "type": "story",
     "storyId": "501010524",
     "title": "特急リドル便？",
+    "enTitle": "Serial Riddler",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "廊下を歩いていたところ、\r\nどうにも騒がしい声が聞こえる……。",
-            "enText": "I was walking down the hallway when I heard \nan inexplicably noisy voice: ……",
+            "enText": "I hear a particularly loud voice while I'm<n>walking\ndown the hallway...",
             "nextBlock": 2,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -240320273206575253,
             "blockIdx": 1
         },
@@ -19,17 +22,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ヘイヘーイ！　とっておきの\r\nリドルにチャレンジしまセンカ？",
-            "enText": "Hey, hey, hey! Are you ready to try your hand \nat some of our favorite riddles?",
+            "enText": "Hey, you! Wanna give this riddle a go?",
             "nextBlock": 3,
             "origClipLength": 64,
+            "voiceIdx": 53,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 107,
-                    "pathId": 6067836465499996799
+                    "pathId": 2029392015490711547
                 },
                 {
                     "origLen": 107,
-                    "pathId": 2029392015490711547
+                    "pathId": 6067836465499996799
                 }
             ],
             "pathId": -1189808391308319186,
@@ -37,19 +42,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ご、ごめんなさい。\r\nこのあと、トレーニングで……。",
-            "enText": "Sorry, I'm sorry. I'll be…… \nfor training after this.",
+            "enText": "S-sorry, I can't! I have training to get<n>to...",
             "nextBlock": 4,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 8216362979828862994
+                    "pathId": -4936856343488362666
                 },
                 {
                     "origLen": 72,
-                    "pathId": -4936856343488362666
+                    "pathId": 8216362979828862994
                 }
             ],
             "pathId": 318050427985101479,
@@ -59,21 +66,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハウディ！　ビッグサプライズ待ったなしの\r\nスペシャルリドルやらないデスカ？",
-            "enText": "Howdy! Howdy! How about a special riddle?",
+            "enText": "Howdy! Fancy a special riddle? It comes<n>with a\nbig surprise and everything!",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": 42,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 96,
                     "pathId": 311268100045619625
                 },
                 {
-                    "origLen": 113,
-                    "pathId": -5972342713737231012
-                },
-                {
                     "origLen": 80,
                     "pathId": 7317378973573279930
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -5972342713737231012
                 }
             ],
             "pathId": 7273429529685567623,
@@ -81,11 +90,13 @@
         },
         {
             "jpName": "ウマ娘B",
-            "enName": "Horsegirl B",
+            "enName": "Umamusume B",
             "jpText": "ごめんね、先生に呼ばれててー。",
-            "enText": "I'm sorry, the doctor called me.",
+            "enText": "Sorry, but the teacher wants to speak<n>with me...",
             "nextBlock": 6,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
@@ -93,11 +104,11 @@
                 },
                 {
                     "origLen": 65,
-                    "pathId": -7907181806008017685
+                    "pathId": 4516701251043770828
                 },
                 {
                     "origLen": 65,
-                    "pathId": 4516701251043770828
+                    "pathId": -7907181806008017685
                 }
             ],
             "pathId": 77093664845423571,
@@ -107,21 +118,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ウムム……オウッ！",
-            "enText": "Ummm…… ow!",
+            "enText": "Hmm... Oh!",
             "nextBlock": 7,
             "origClipLength": 50,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -7195504795106563999
                 },
                 {
-                    "origLen": 28,
-                    "pathId": 1711111710201112406
-                },
-                {
                     "origLen": 61,
                     "pathId": 4652684145053224054
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 1711111710201112406
                 }
             ],
             "pathId": -5758360450871017985,
@@ -131,17 +144,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "目が合っている気がする……。",
-            "enText": "I think we are seeing eye to eye. ……",
+            "enText": "Did we just make eye contact?",
             "nextBlock": 8,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 65,
-                    "pathId": 6505745387180613189
+                    "pathId": -2845261702594721937
                 },
                 {
                     "origLen": 65,
-                    "pathId": -2845261702594721937
+                    "pathId": 6505745387180613189
                 }
             ],
             "pathId": -4271315526131964103,
@@ -151,29 +166,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ナイスタイミング！\r\nトレーナーさんッ！！",
-            "enText": "Nice timing! Trainers!",
+            "enText": "Good timing, Trainer!",
             "nextBlock": 9,
             "origClipLength": 58,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "どうした……？",
-                    "enText": "What's up ……?",
+                    "enText": "What's going on?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "どうしたの……？",
-                    "enText": "What's up ……?",
+                    "enText": "What's going on?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 42,
-                    "pathId": -2333312420725157676
-                },
-                {
                     "origLen": 69,
                     "pathId": 481554862290117943
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -2333312420725157676
                 }
             ],
             "pathId": -771763105980994974,
@@ -183,17 +200,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "実は、さっき面白いリドルを\r\nフレンズに教えてもらいマシタ！",
-            "enText": "Actually, I just learned an interesting \nriddle from the Friends!",
+            "enText": "Truth is, one of my pals told me an awful<n>\ninteresting riddle!",
             "nextBlock": 10,
             "origClipLength": 64,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 3093901063726694483
-                },
                 {
                     "origLen": 75,
                     "pathId": 244179095700336508
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3093901063726694483
                 }
             ],
             "pathId": -1902918004709943979,
@@ -203,17 +222,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フッフーン、トレーナーさんにこのリドルが、\r\n解けマスカ～？　では、レッツ・リドルッ！！",
-            "enText": "I wonder if my trainer can solve \nthis riddle? Let's Riddle!",
+            "enText": "Heh-heh. Think ya got what it takes to<n>solve it?\nLet's get to riddlin'!",
             "nextBlock": 11,
             "origClipLength": 73,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 282696563165597951
-                },
                 {
                     "origLen": 84,
                     "pathId": -8604132333196673861
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 282696563165597951
                 }
             ],
             "pathId": -6383559207524734556,
@@ -223,29 +244,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ブレッドはブレッドでも、食べられない\r\nブレッドはワーッツ・イズ・ディース？",
-            "enText": "Bread is Bread, but it's inedible \nBread is Worz is Dees?",
+            "enText": "What's orange and sounds like a pigeon?",
             "nextBlock": 12,
             "origClipLength": 69,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "もしかしてフライパン？",
-                    "enText": "Maybe a frying pan?",
+                    "enText": "...A carrot?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "ブレッドじゃないんじゃない？",
-                    "enText": "I thought you said it wasn't Bled.",
+                    "enText": "Are you sure it's \"pigeon\"?",
                     "nextBlock": 20
                 }
             ],
             "animData": [
                 {
-                    "origLen": 47,
-                    "pathId": -2953478753646350654
-                },
-                {
                     "origLen": 80,
                     "pathId": -7007836026317588778
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -2953478753646350654
                 }
             ],
             "pathId": -6145856774853081569,
@@ -255,17 +278,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエス！　その通りデス！",
-            "enText": "Yes! That's right!",
+            "enText": "Bingo! Got it in one!",
             "nextBlock": 13,
             "origClipLength": 52,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": -8968387844740318600
-                },
                 {
                     "origLen": 63,
                     "pathId": 6946016245434685558
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -8968387844740318600
                 }
             ],
             "pathId": 2071340041964630709,
@@ -275,17 +300,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさんすごいデスネ！\r\nワタシは全然わかりませんデシタヨ！",
-            "enText": "Your trainer is amazing! I have no idea!",
+            "enText": "You sure are somethin', Trainer! I still<n>can't make\nheads or tails of it!",
             "nextBlock": 14,
             "origClipLength": 66,
+            "voiceIdx": 7,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": -3726986599813148721
-                },
                 {
                     "origLen": 77,
                     "pathId": 4617692028063981564
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -3726986599813148721
                 }
             ],
             "pathId": 856713763703496250,
@@ -295,17 +322,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンー……でもなんでフライパンなんでショ？",
-            "enText": "Nn…… but why the frying pan?",
+            "enText": "I mean... I ain't never heard a carrot<n>sound like\nanything...",
             "nextBlock": 15,
             "origClipLength": 58,
+            "voiceIdx": 15,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 2363683275541702425
-                },
                 {
                     "origLen": 69,
                     "pathId": 4693866881284182535
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 2363683275541702425
                 }
             ],
             "pathId": -7671862084669916859,
@@ -315,24 +344,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ま、いいデスネ！　ワタシがこれを聞くと、\r\nみんなスマイルになってくれマスシ！",
-            "enText": "Well, that's good! When I hear \nthis, everyone smiles!",
+            "enText": "Well, whatever! As long as everybody's<n>having\nfun, that's good enough!",
             "nextBlock": 16,
             "origClipLength": 70,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "それでいいと思う",
-                    "enText": "I think that's fine.",
+                    "enText": "I agree.",
                     "nextBlock": 16
                 }
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": -6875633551235347837
-                },
-                {
                     "origLen": 81,
                     "pathId": 1921757999449544447
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -6875633551235347837
                 }
             ],
             "pathId": 8891743630119582747,
@@ -342,17 +373,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエイッ！　ですよねー。よーし、\r\nもっとみんなに聞いて来マス！　シーユー！",
-            "enText": "Yay! That's right! Okay, I'll go ask more \npeople! Shhhhhh!",
+            "enText": "Yay! I'm gonna go ask more people this<n>riddle,\nthen! See ya later!",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -7474554647184191406
-                },
                 {
                     "origLen": 80,
                     "pathId": 4704512884540754839
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -7474554647184191406
                 }
             ],
             "pathId": 1544845863084123181,
@@ -362,17 +395,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（グゥゥーー）",
-            "enText": "(Gooooooooo)",
+            "enText": "<i>Grumble...</i>",
             "nextBlock": 18,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -5060665489094505567
-                },
                 {
                     "origLen": 60,
                     "pathId": 1226393252090438172
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5060665489094505567
                 }
             ],
             "pathId": -3337134419661734179,
@@ -382,17 +417,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ、ブレッドの話をしてたら\r\nお腹が空いちゃいマシタ。",
-            "enText": "Oh, all this talk of Bread \nis making me hungry.",
+            "enText": "Actually, all this carrot talk's got my<n>tummy\nrumbling.",
             "nextBlock": 19,
             "origClipLength": 63,
+            "voiceIdx": 21,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 4606275420934332496
-                },
                 {
                     "origLen": 79,
                     "pathId": 8623212599986699988
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4606275420934332496
                 }
             ],
             "pathId": -3363606886925063819,
@@ -402,17 +439,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "続きはまた今度、シーユー！",
-            "enText": "To be continued, shhhh you!",
+            "enText": "Maybe I'll save the riddlin' for another<n>time. See\nya!",
             "nextBlock": -1,
             "origClipLength": 53,
+            "voiceIdx": 44,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": 3149079421890875698
-                },
                 {
                     "origLen": 64,
                     "pathId": 6631443151758707688
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 3149079421890875698
                 }
             ],
             "pathId": -1239774209218905798,
@@ -422,17 +461,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフーン、引っかかりマシタネ！\r\n正解はフライパンですよ！",
-            "enText": "You're stuck! The correct \nanswer is the frying pan!",
+            "enText": "Heh-heh, guess you're stuck! The<n>answer's \"a\ncarrot\"!",
             "nextBlock": 21,
             "origClipLength": 63,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 2641197267037134093
-                },
                 {
                     "origLen": 74,
                     "pathId": -4507813071470627991
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 2641197267037134093
                 }
             ],
             "pathId": -576780507686818862,
@@ -442,17 +483,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "安心してくだサイ。ワタシも初めは、\r\n間違えちゃいましたから……アハハッ。",
-            "enText": "Don't worry. I made a mistake at first too. ……",
+            "enText": "Don't worry. I had some trouble at first<n>too.\nAhaha...",
             "nextBlock": 22,
             "origClipLength": 69,
+            "voiceIdx": 14,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -4563436675599507405
-                },
                 {
                     "origLen": 80,
                     "pathId": -3453047981347042188
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4563436675599507405
                 }
             ],
             "pathId": 2661488928455982828,
@@ -462,24 +505,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ま、なんでフライパンがアンサーなのかは、\r\nわかんないデスケド。",
-            "enText": "Well, I don't know why the \nfrying pan is the answer.",
+            "enText": "Actually, why <i>is</i> \"carrot\" the answer?<n>Carrots\ndon't sound like pigeons.",
             "nextBlock": 23,
             "origClipLength": 65,
+            "voiceIdx": 21,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "ブレッドじゃなくてパンじゃない？",
-                    "enText": "Not bread, not bread?",
+                    "enText": "I think it's \"parrot,\" not \"pigeon.\" It rhymes.",
                     "nextBlock": 23
                 }
             ],
             "animData": [
                 {
-                    "origLen": 17,
-                    "pathId": 4422277189035890454
-                },
-                {
                     "origLen": 76,
                     "pathId": 5692879181338523353
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 4422277189035890454
                 }
             ],
             "pathId": 7718406904958896029,
@@ -489,17 +534,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アー……イエス！\r\n確か……『パン』でした！",
-            "enText": "Ah…… yes! I believe it was…… 'bread'!",
+            "enText": "Oh... Ya know what? You're right! It <i>is</i><n>supposed\nto be \"parrot\"!",
             "nextBlock": 24,
             "origClipLength": 59,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": -7697056162413830469
-                },
                 {
                     "origLen": 70,
                     "pathId": -7583675198415406517
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -7697056162413830469
                 }
             ],
             "pathId": 7910099275618946359,
@@ -509,17 +556,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "『パン』……ああ！！\r\nなるほど、それでフライパン！",
-            "enText": "The \"Pan\"…… Ah! I see, so frying pan!",
+            "enText": "Carrot... sounds like \"parrot.\" That makes<n>total\nsense!",
             "nextBlock": 25,
             "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -2950321527439115709
-                },
                 {
                     "origLen": 72,
                     "pathId": -8232560933537619645
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -2950321527439115709
                 }
             ],
             "pathId": -2882138462272157695,
@@ -529,17 +578,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "とってもすっきりしマシタ！\r\n流石はトレーナーさん！　ベリースマート！",
-            "enText": "I feel so much better! Great \njob, trainer! Very smart!",
+            "enText": "Thanks a million, Trainer! You big<n>smarty-pants,\nyou!",
             "nextBlock": 26,
             "origClipLength": 67,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -3001624549047107320
-                },
                 {
                     "origLen": 78,
                     "pathId": -2822522083823451986
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3001624549047107320
                 }
             ],
             "pathId": -6044381797960991266,
@@ -549,22 +600,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "さっそくみんなにこの事を知らせないと！\r\nそれでは、シーユー！",
-            "enText": "We need to get this out to everyone ASAP! So \nlong, see you!",
+            "enText": "Now I gotta go let everybody know! See<n>ya!",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": 44,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -541997301154058288
-                },
                 {
                     "origLen": 76,
                     "pathId": 536658991215264393
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -541997301154058288
                 }
             ],
             "pathId": -3277375802398530663,
             "blockIdx": 26
         }
-    ],
-    "modified": 1657555055
+    ]
 }

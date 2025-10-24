@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "AUC6LXJP6RJ3HP2VMG3M2G3MYSGHD5TG",
+    "version": 6,
+    "bundle": "QVJFMAZQXLEUC2RU6GBQNQHG7ZWFRGSW",
     "type": "story",
     "storyId": "501040740",
     "title": "レース敗北",
+    "enTitle": "Defeat",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "あ～っ、悔しい……！\r\n負けた！",
-            "enText": "Ahhh, so frustrating…! We lost!",
+            "enText": "Aaaagh! I can't believe I lost!",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": 64,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -8146326586883800915
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7158987565851945786
+                }
+            ],
             "pathId": 8431137829136584164,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "抜かされた、抜かせなかった、\r\n引き離された……っ。",
-            "enText": "They passed us, they didn't let us \npass them, they pulled away…",
+            "enText": "I let them catch me and couldn't fight<n>back. The\ngap just got wider and wider...",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "voiceIdx": 35,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "今はたくさん悔しがろう！",
-                    "enText": "Now let's have lots of regrets!",
+                    "enText": "That's right, let it all out!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "次はシチーが引き離す番",
-                    "enText": "Now it's Citie's turn to pull away.",
+                    "enText": "Next time, you'll leave them behind.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3383672420810071866
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -952833885422592695
                 }
             ],
             "pathId": 7515299036881358157,
@@ -39,8 +66,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 4,
+            "origClipLength": 50,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 2686339308819025523
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -7066604270261105906
+                }
+            ],
             "pathId": 7031151622305229157,
             "blockIdx": 3
         },
@@ -48,18 +88,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "悔しい、マジありえない！\r\n最後の展開、頭の中ぐるぐるしてる……！",
-            "enText": "Bummer, that can't be real! The last \ndevelopment, it's going round and \nround in my head…!",
+            "enText": "This is seriously the worst! That last part<n>keeps\nplaying back in my head!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "voiceIdx": 66,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "でもいい顔してるぞ、シチー",
-                    "enText": "But you look good, City.",
+                    "enText": "You look good right now, though.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "でもいい顔してるよ、シチー",
-                    "enText": "But you look good, City.",
+                    "enText": "You look good right now, though.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7135532709790864795
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 4833130306015087461
                 }
             ],
             "pathId": 2343863993894200728,
@@ -69,18 +122,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "は！？\r\nなに、バカにしてんの――",
-            "enText": "Ha! What, are you making fun of me―",
+            "enText": "Huh? Are you making fun of me?",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 16,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "勝利に燃えてる子の顔だ",
-                    "enText": "The face of a triumphant child.",
+                    "enText": "You look like someone eager for victory.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "勝利に燃えてる子の顔だよ",
-                    "enText": "It's the face of a triumphant child.",
+                    "enText": "You look like someone eager for victory.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -839088719657891037
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -4720744877026109808
                 }
             ],
             "pathId": -7690788059842260833,
@@ -90,8 +156,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 7,
+            "origClipLength": 51,
+            "voiceIdx": 111,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -3161544012373803244
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 3270318123240483975
+                }
+            ],
             "pathId": 8842006177946363044,
             "blockIdx": 6
         },
@@ -99,8 +178,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "当たり前じゃん！\r\nもう絶対、負けないから……！",
-            "enText": "Of course you do! I'll never, \never lose again…!",
+            "enText": "Obviously! I'm not losing ever again!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "voiceIdx": 69,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 5699170502356357859
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5265231535420486204
+                }
+            ],
             "pathId": -3777397653804353501,
             "blockIdx": 7
         },
@@ -108,8 +200,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！　アタシだって、\r\n誰にも追いつかせたくない！",
-            "enText": "…! I don't want anyone \nto catch up with me!",
+            "enText": "I don't want anyone passing me again!",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 515262978687144328
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 1634191902291719625
+                }
+            ],
             "pathId": 8005125312091141488,
             "blockIdx": 8
         },
@@ -117,13 +222,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "誰よりもぶっちぎって勝ちたい。\r\n走りたい気持ち、邪魔させたくない……！",
-            "enText": "I want to win by beating everyone else. I \nwant to run, and I don't want to let you get \nin my way…!",
+            "enText": "I'll leave them all in the dust. No one<n>gets in the\nway of my running!",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "voiceIdx": 51,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "なら勝てる自分になろう",
-                    "enText": "Then be the one who can win.",
+                    "enText": "Then you have to become a winner.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1903779894255504513
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 6431305687283537933
                 }
             ],
             "pathId": -2274471776753233562,
@@ -133,8 +251,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 11,
+            "origClipLength": 50,
+            "voiceIdx": 77,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 2833206144737663931
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -2788956096821064031
+                }
+            ],
             "pathId": 3744670966072940040,
             "blockIdx": 10
         },
@@ -142,8 +273,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "言うじゃん。\r\nそんだけ自信があるってこと？",
-            "enText": "You say. You're that confident?",
+            "enText": "Someone's talking big. Are you really<n>that\nconfident?",
             "nextBlock": 12,
+            "origClipLength": 73,
+            "voiceIdx": 9,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 5188035628753257826
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 9084785218497102881
+                }
+            ],
             "pathId": 8508285412953411728,
             "blockIdx": 11
         },
@@ -151,8 +295,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ならアンタに、半分預けるから。\r\n――勝てるアタシにして！",
-            "enText": "I'll leave you half of the money. ―I'll give \nyou half… and you can win!",
+            "enText": "Then you'd better take on half the<n>responsibility\ntoo. Go ahead and <i>make</i><n>me a winner!",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "voiceIdx": 72,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -7494450265003106489
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6667335081676400206
+                }
+            ],
             "pathId": -3258550934473093376,
             "blockIdx": 12
         }

@@ -1,30 +1,55 @@
 {
-    "version": 4,
-    "bundle": "2RKP22O4RRVUWCTTKRBISYQUFB4NML3S",
+    "version": 6,
+    "bundle": "2NXYPEKVYEU5HNA7VR7TTAQFN5VVWXFF",
     "type": "story",
     "storyId": "400000091",
     "title": "『月刊トゥインクル増刊号』",
+    "enTitle": "Twinkle Monthly Special Issue",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "（コンコンコンッ）",
-            "enText": "(clank clank)",
+            "enText": "<i>Knock, knock...</i>",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4297926544864764405,
             "blockIdx": 1
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "失礼いたします。\r\n<username>トレーナーさんは、\nいらっしゃいますか？",
-            "enText": "Excuse me. Is trainer <username> in?",
+            "enText": "Excuse me?<n>\nTrainer<n><username>?<n>\nAre you there?",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "voiceIdx": 44,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "はい！",
-                    "enText": "Yes!",
+                    "enText": "I'm here!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -3759787653179955761
+                },
+                {
+                    "origLen": 220,
+                    "pathId": -3582858842458007818
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 1795461016456492800
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2791825887809106943
                 }
             ],
             "pathId": 6693946263110925720,
@@ -32,32 +57,95 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ああ、よかった。ぜひこれを、\r\n直接お渡ししたかったので。",
-            "enText": "Oh, thank God. I really wanted to\ngive this to you in person.",
+            "enText": "Oh, good. I was hoping to give this to<n>you in\nperson.",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "voiceIdx": 52,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -4465304753530915430
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -6040001063681224866
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 5272483793132196301
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2647303077069505170
+                }
+            ],
             "pathId": 2575871474588768830,
             "blockIdx": 3
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "本日、ついに発売されました。",
-            "enText": "It was finally released today.",
+            "enText": "It was just released today.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 6618074334862705394
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3964536330717729521
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 8021726015274767022
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -5359896303009406495
+                }
+            ],
             "pathId": -4323196902551207700,
             "blockIdx": 4
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "――『月刊トゥインクル増刊号』です。",
-            "enText": "— \"Monthly Twinkle Special Issue\".",
+            "enText": "The <i>Twinkle Monthly Special Issue.</i>",
             "nextBlock": 6,
+            "origClipLength": 68,
+            "voiceIdx": 0,
+            "voiceSheetId": "059003001",
             "coloredText": [
                 {
                     "jpText": "月刊トゥインクル増刊号",
-                    "enText": "Monthly Twinkle Special Issue"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5418639856494406722
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -2699988781170125196
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5626530065198701254
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 2920400532543573877
                 }
             ],
             "pathId": -5683509481589870648,
@@ -65,33 +153,84 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "最近、読者からの要望が多かったんです。\r\nここ3年間のウマ娘界の話題を\nまとめた特別版が欲しいと。",
-            "enText": "There were a lot of requests from readers\nlately. For a special edition regarding the\npast three years.",
+            "enText": "Recently, many readers have been<n>requesting a\ncompilation of events in the<n>racing world over the\npast three years.",
             "nextBlock": 7,
+            "origClipLength": 108,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -4838558192663561400
+                },
+                {
+                    "origLen": 298,
+                    "pathId": 9006645984546263444
+                }
+            ],
             "pathId": 3637503859850937123,
             "blockIdx": 6
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "きっと読者も、ウマ娘界において、\r\n特にこの3年間は重要な節目になったと\n考えているのでしょう。",
-            "enText": "I'm sure readers agree that these\nyears have been a momentous period\nin the world of Uma Musume.",
+            "enText": "So they surely also realize how impactful<n>these\npast three years have been.",
             "nextBlock": 8,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -8069883722049910310
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -422013595376894959
+                },
+                {
+                    "origLen": 298,
+                    "pathId": 5084058294225278993
+                }
+            ],
             "pathId": 8847276149801376471,
             "blockIdx": 7
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "……いろいろありましたものね。",
-            "enText": "… A whole lot happened after all.",
+            "enText": "So many things have happened.",
             "nextBlock": 9,
+            "origClipLength": 64,
+            "voiceIdx": 3,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "……そうですね",
-                    "enText": "… I guess so, yeah",
+                    "enText": "You're right about that.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -4415328804159837010
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 886553321780795343
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 6711932442367668709
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6802574215072503195
                 }
             ],
             "pathId": -7741516631458809797,
@@ -99,37 +238,103 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "いち記者として、この3年間を追えたことは\r\n非常に幸運だったと思います。",
-            "enText": "As a reporter, I feel very fortunate to have\nbeen able to follow these three years.",
+            "enText": "As a reporter, I feel very fortunate to<n>have been\nable to cover these three<n>years.",
             "nextBlock": 10,
+            "origClipLength": 91,
+            "voiceIdx": 55,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -5621721773405674097
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 4402218180919250754
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5444428668103798204
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1637116565291978583
+                }
+            ],
             "pathId": -1545888004212412119,
             "blockIdx": 9
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "そして貴方がたと出会えたことも。",
-            "enText": "And that I could meet you.",
+            "enText": "And also that I was able to meet you.",
             "nextBlock": 11,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 6479842667680694421
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7746273171365335735
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1174058207283337442
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6684381332222066665
+                }
+            ],
             "pathId": -7952045138267543322,
             "blockIdx": 10
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ちなみにですが――",
-            "enText": "By the way—",
+            "enText": "Oh, and one other thing...",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "voiceIdx": 52,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 7945856393648860761
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3949348321984160208
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 2387637116822973525
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8264945472833614808
+                }
+            ],
             "pathId": 8237272628548855747,
             "blockIdx": 11
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "表紙、ちゃんとご覧になりましたか？",
-            "enText": "Did you get a good look at the cover?",
+            "enText": "Have you seen the cover?",
             "nextBlock": 13,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "表紙ですか？",
@@ -137,15 +342,54 @@
                     "nextBlock": 13
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8641784991223027489
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2660359742282846410
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 2701005461832755024
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7913459565744126570
+                }
+            ],
             "pathId": 6232123069623739893,
             "blockIdx": 12
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ええ。",
-            "enText": "Yeah.",
+            "enText": "Yes, take a look.",
             "nextBlock": 14,
+            "origClipLength": 48,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6079998693857193607
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 89154861275133057
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -6168250289946880326
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2679108958613363756
+                }
+            ],
             "pathId": -9001228494312553168,
             "blockIdx": 13
         },
@@ -153,8 +397,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者に促されて、表紙を見る。\r\nそこには――",
-            "enText": "At her urging, I looked at\nthe cover. There was—",
+            "enText": "At Otonashi's insistence, I look at the<n>cover and\nsee...",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -3164183203507725156
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -7100622808785740273
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 8272448747309845033
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7803459757584856525
+                }
+            ],
             "pathId": -4636707054932068331,
             "blockIdx": 14
         },
@@ -162,40 +427,116 @@
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>の写真が、\r\n大きく飾られていた。",
-            "enText": "A large photo of <chrname>\nstaring back at me.",
+            "enText": "A large photo of <chrname><n>adorns\nthe front page.",
             "nextBlock": 16,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 2700043144605773747
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6110773166457583936
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 1714650499687441000
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3095796814068100905
+                }
+            ],
             "pathId": 4596243842588430745,
             "blockIdx": 15
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "この増刊号を組むにあたり、\r\n表紙は……雑誌の顔は誰にすべきか考えた時。",
-            "enText": "When I was thinking about who should be the\ncover— the face of the magazine…",
+            "enText": "When I was trying to decide who should<n>be the\nface of this special edition...",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "voiceIdx": 3,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -9092301855893206
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -5236076368063711000
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 2045794458486313542
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -4675585499744233920
+                }
+            ],
             "pathId": -927183942547150778,
             "blockIdx": 16
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "私の頭には1人しか、\r\n候補が浮かびませんでした。",
-            "enText": "There was only one candidate\nthat came to my mind.",
+            "enText": "Only one possible candidate came to<n>mind.",
             "nextBlock": 18,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": 2409264207164865860
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1411394565017782669
+                }
+            ],
             "pathId": -2066295465137283541,
             "blockIdx": 17
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "そしてそれは、編集部の意見も同じでした。",
-            "enText": "And that was the opinion of the\neditorial team as well.",
+            "enText": "And that was the opinion of the editorial<n>\ndepartment as well.",
             "nextBlock": 19,
+            "origClipLength": 71,
+            "voiceIdx": 48,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
-                    "enText": "Ms. Otonashi…!",
+                    "enText": "I don't know what to say.",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 3031818954449310644
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4779782096469275923
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -1328465356262136414
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2963660713876050072
                 }
             ],
             "pathId": -189302355196706556,
@@ -203,38 +544,101 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "私共、月刊トゥインクルは\r\nこれからも<chrname>さんを、\nそして――",
-            "enText": "We, at Twinkle Monthly, will continue to\nsupport you and your work.",
+            "enText": "We at Twinkle Monthly will continue<n>covering\n<chrname>'s<n>exploits. And of course...",
             "nextBlock": 20,
+            "origClipLength": 94,
+            "voiceIdx": 11,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": -4925772559648014954
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7775234837608989382
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -7732048658533179665
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6725222464210535890
+                }
+            ],
             "pathId": -5786330368319337196,
             "blockIdx": 19
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "<username>トレーナーを\r\n追っていきます。",
-            "enText": "We will follow you, trainer <username>.",
+            "enText": "We'll be following you with great<n>interest as well.",
             "nextBlock": 21,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -5696439358984337779
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 1601383771747089923
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 6604166396798891590
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6615430674605255937
+                }
+            ],
             "pathId": -4143576686684717182,
             "blockIdx": 20
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "今までの取材を経て、貴方がたこそ\r\nこのウマ娘界をけん引する光だと、\n確信しましたから。",
-            "enText": "Through all my interviews I've become\nconvinced that you are the ray of sunshine\nilluminating the horse girl world.",
+            "enText": "After all the interviews I've done to<n>date, I'm\nconvinced you two are the light<n>that will guide\nthe racing world forward.",
             "nextBlock": 22,
+            "origClipLength": 102,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "はい！俺も彼女を輝かせます！",
-                    "enText": "Thanks! I'll make her shine too!",
+                    "enText": "Then I'll make sure she shines even brighter!",
                     "nextBlock": 22
                 },
                 {
                     "jpText": "はい！私も彼女を輝かせます！",
-                    "enText": "Thanks! I'll make her shine too! ",
+                    "enText": "Then I'll make sure she shines even brighter!",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -5210873056194252074
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6934697775720870329
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -8426947569347356887
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -3036740721594780654
                 }
             ],
             "pathId": 6427125978275943262,
@@ -242,24 +646,70 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "……！",
             "enText": "…!",
             "nextBlock": 23,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": -3488113257258895364
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8107057648321180978
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 2042406656771011928
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5856853668734526949
+                }
+            ],
             "pathId": 8946177233170790369,
             "blockIdx": 22
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "……す、す……すす、\r\n……すすすっ！！",
-            "enText": "… Su, su… susu, …sususuh!!!!",
+            "enText": "That... Th-that's s-s-s...",
             "nextBlock": 24,
+            "origClipLength": 71,
+            "voiceIdx": 7,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "……乙名史さん？",
-                    "enText": "… Ms. Otonashi?",
+                    "enText": "Are... you okay?",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 4904003080617418922
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -777572789241442428
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 5131395693520877048
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 1295700429926056509
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7909610737560446009
                 }
             ],
             "pathId": -103834076005497512,
@@ -267,37 +717,109 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "素晴らしいですっ！",
-            "enText": "Splendid!",
+            "enText": "Simply amazing!",
             "nextBlock": 25,
+            "origClipLength": 56,
+            "voiceIdx": 61,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5612785122720690635
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -8181888470025024449
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -157688469018384101
+                }
+            ],
             "pathId": 7323521529240185164,
             "blockIdx": 24
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ご担当のウマ娘を輝かせる！　それは\r\nつまり自らが影となってもよいという覚悟！",
-            "enText": "Make your horse girl shine! In other words,\nbe prepared to become a shadow yourself!",
+            "enText": "You want to make your trainee shine<n>even\nbrighter! Even if it means you'll<n>only be the\nshadow behind her!",
             "nextBlock": 26,
+            "origClipLength": 95,
+            "voiceIdx": 62,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -323088027277977283
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3401968039965371035
+                }
+            ],
             "pathId": -6247054438161902067,
             "blockIdx": 25
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "今後も私生活の全てを彼女のために捧げ、\r\n時として全財産をはたいてでも、\n東西南北どこのレースや遠征にも連れていく！",
-            "enText": "You will continue to devote your whole life\nto her, spend everything you have, take her\nto races and trips anywhere in the world!",
+            "enText": "Dedicating all your time to her, all your<n>money\neven, and bringing her to races<n>all around to\npursue her dreams!",
             "nextBlock": 27,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 4389634558993598576
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 733704564574589996
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 6798869514154034385
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2177928840027114656
+                }
+            ],
             "pathId": 6099369024495967979,
             "blockIdx": 26
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "あぁ……やはり貴方は\r\n私が見込んだお方ぁ……！",
-            "enText": "Ah…, you're the one I've been looking for…!",
+            "enText": "Aah... You're just as amazing as I<n>imagined you to\nbe!",
             "nextBlock": 28,
+            "origClipLength": 76,
+            "voiceIdx": 1,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -3198909504675048999
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -7875238471468149303
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -3800016046964771895
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2481164908600105427
+                }
+            ],
             "pathId": 5619571196793091902,
             "blockIdx": 27
         },
@@ -305,8 +827,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "……なんだかいつもの乙名史記者の\r\n大暴走が始まってしまったが。",
-            "enText": "… Otonashi's usual outbursts have begun.",
+            "enText": "For whatever reason, Reporter Otonashi<n>loses\ncontrol of her excitement, like<n>always.",
             "nextBlock": 29,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 6585623929056459764
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 6969564683156636210
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 4854164932385736793
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4633995795855212214
+                }
+            ],
             "pathId": -7580970310148156744,
             "blockIdx": 28
         },
@@ -314,22 +857,56 @@
             "jpName": "",
             "enName": "",
             "jpText": "雑誌からは彼女の想いが伝わってくる。\r\n後で<chrname>にも、\n見せるとしよう……！",
-            "enText": "I can feel her thoughts from the magazine.\nI'll show <chrname> later…!",
+            "enText": "But this magazine conveys her true<n>feelings. I'll be\nsure to show it to<n><chrname> later!",
             "nextBlock": -1,
+            "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -573250788104784896
+                },
+                {
+                    "origLen": 194,
+                    "pathId": -4188993703395676746
+                }
+            ],
             "pathId": 2040172277527072837,
             "blockIdx": 29
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "今回の増刊号、いつもとは違う\r\n企画も行わせていただきまして。",
-            "enText": "This special issue includes\na little special feature.",
+            "enText": "For this special edition, we tried<n>something a\nlittle different.",
             "nextBlock": 31,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "どんな企画ですか？",
-                    "enText": "What kind of feature?",
+                    "enText": "And what's that?",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 2106017172003643945
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -2889759844791231748
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -8211588975924555758
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4531042923267163379
                 }
             ],
             "pathId": -4809185486416321931,
@@ -337,10 +914,31 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ふふっ、もっと先のページを見てください。",
-            "enText": "Hehe, look further down the pages.",
+            "enText": "Hehe, please flip towards the back.",
             "nextBlock": 32,
+            "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 8362734532201554461
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 252883376930517038
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8913085593350000574
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1246792968829314844
+                }
+            ],
             "pathId": -7433769648123572625,
             "blockIdx": 31
         },
@@ -348,8 +946,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者に促されて、\r\n雑誌の後半部分のページを開く。",
-            "enText": "At her prompt I opened the second\nhalf of the magazine.",
+            "enText": "At Otonashi's insistence, I flip to the<n>back half of\nthe magazine.",
             "nextBlock": 33,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4418064366850767548
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3560031063395984786
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -1333085191371692866
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -1189360719591876632
+                }
+            ],
             "pathId": -8081871192600405585,
             "blockIdx": 32
         },
@@ -357,49 +976,150 @@
             "jpName": "",
             "enName": "",
             "jpText": "そこには――",
-            "enText": "There's—",
+            "enText": "And there I see...",
             "nextBlock": 34,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 446113522040386833
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3586385546932809170
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -4315257450642358972
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3630358789066466746
+                }
+            ],
             "pathId": -439564297601396652,
             "blockIdx": 33
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "『<chrname>さんと、\r\n<username>トレーナーへ贈る言葉』",
-            "enText": "\"A word to <chrname> and\nher trainer <username>\"",
+            "enText": "\"Dear <chrname> and<n>\nTrainer<n><username>.\"",
             "nextBlock": 35,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -1551229546524095535
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -8522638901015000260
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 8577292585730132427
+                }
+            ],
             "pathId": -1021794657149171673,
             "blockIdx": 34
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "実は編集部宛てに、\r\n読者から貴方がたへのファンレターが\n多数届いておりまして。",
-            "enText": "In fact, the editorial department\nhas received many fan letters\nfrom readers to you.",
+            "enText": "You see, the editorial department has<n>received\nno small number of fan letters<n>from readers\naddressed to the two of<n>you.",
             "nextBlock": 36,
+            "origClipLength": 97,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -3679331850038139573
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4142478119315355038
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -434173963194016319
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 3353271363340981305
+                }
+            ],
             "pathId": 8242059741149949698,
             "blockIdx": 35
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "その反響ぶりから、お2人への\r\n応援の言葉をまとめたページを\n作る企画が立ち上がったんです。",
-            "enText": "The response was so great that\nwe compiled pages with support\nmessages to the two of you.",
+            "enText": "Seeing that enthusiasm, we decided to<n>create a\nspecial section displaying all<n>those words of\nsupport.",
             "nextBlock": 37,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -3262404477531205525
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 825608069436052146
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4178093962054387940
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1931926595292691270
+                }
+            ],
             "pathId": -652447570876132684,
             "blockIdx": 36
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "このような読者主体で数ページにわたる\r\n特集など、ほぼ初めての試みだったんですよ？",
-            "enText": "This is pretty much the first time we\nattempted such a reader-driven, multi-page\nfeature, you know?",
+            "enText": "This is pretty much the first time we've<n>devoted\nmultiple pages solely to letters<n>from our readers.",
             "nextBlock": 38,
+            "origClipLength": 98,
+            "voiceIdx": 3,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "ありがとうございます……！",
-                    "enText": "Thank you very much…!",
+                    "enText": "Wow, thank you!",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 8131201588109724844
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -5245358377559813685
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1468612516714719865
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 4029191563347824631
                 }
             ],
             "pathId": -4271106830459189985,
@@ -407,19 +1127,65 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ふふっ、その感謝はレースやライブで、\r\nファンの皆さんに届けてあげてください。",
-            "enText": "Hehe, please deliver that gratitude to your\nfans at races and live performances.",
+            "enText": "Hehe! Please be sure to convey that<n>gratitude to\nall the fans you see at races<n>and concerts.",
             "nextBlock": 39,
+            "origClipLength": 95,
+            "voiceIdx": 39,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -168500264255183296
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -1399645933734283625
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -6282901207718655116
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7079949400378792569
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7441559845241570230
+                }
+            ],
             "pathId": -2065270097585867273,
             "blockIdx": 38
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "私共編集部はファンと貴方がたを結ぶ\r\nお手伝いをすることが仕事ですから。",
-            "enText": "We, the editors, are here to help you\nconnect with your fans.",
+            "enText": "If I'm able to help connect you two with<n>your fans,\nit means I'm doing my job as a<n>reporter.",
             "nextBlock": 40,
+            "origClipLength": 91,
+            "voiceIdx": 48,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -4051208382784759215
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8199239432889010302
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 6566846163207420013
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6277637952874331800
+                }
+            ],
             "pathId": 4223202031972304410,
             "blockIdx": 39
         },
@@ -427,22 +1193,64 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
-            "enText": "I can feel Otonashi's sentiments. I'll show\nthis article to <chrname> later…!",
+            "enText": "This article conveys Reporter Otonashi's<n>true\nfeelings. I'll be sure to show it to<n>\n<chrname> later!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -2452785591437018574
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4866525906346174430
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -1456473849189907453
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 2959116190762931223
+                }
+            ],
             "pathId": -2926684468390887656,
             "blockIdx": 40
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "もう少しだけ、\r\n先のページをご覧いただけますか？",
-            "enText": "Could you take a look at the pages\njust a little further ahead?",
+            "enText": "Could you please skip a few pages<n>ahead?",
             "nextBlock": 42,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "先のページ？",
-                    "enText": "The pages ahead?",
+                    "enText": "A few pages?",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -1123767500363427470
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3363046773519378098
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 6197919475408929696
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8572688660921406849
                 }
             ],
             "pathId": 1715663459055618020,
@@ -450,10 +1258,31 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ええ。",
-            "enText": "Yeah.",
+            "enText": "Yes, take a look.",
             "nextBlock": 43,
+            "origClipLength": 48,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 5235047897790503541
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -497113468978940291
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3794386733374923534
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1104874660810297275
+                }
+            ],
             "pathId": 6838545835331774928,
             "blockIdx": 42
         },
@@ -461,8 +1290,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者に促されて、数ページめくる。\r\nそこには――",
-            "enText": "At Otonashi's urging, I turned\na few pages. There was—",
+            "enText": "At Otonashi's insistence, I flip back a<n>few pages\nand see...",
             "nextBlock": 44,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -2029792992794824586
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 9128010749758801833
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -5072162399991581754
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -51023269841898092
+                }
+            ],
             "pathId": 8178297969018260867,
             "blockIdx": 43
         },
@@ -470,40 +1320,116 @@
             "jpName": "",
             "enName": "",
             "jpText": "『栄光を辿る<chrname>と、\r\nそのトレーナーへ』\nという特集が組まれていた。",
-            "enText": "There was a special feature called\n\"In the footsteps of glory with\n<chrname> and trainer\".",
+            "enText": "A special feature titled \"Pursuing Glory<n>with\n<chrname> and Her<n>Trainer.\"",
             "nextBlock": 45,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -6098945143204031361
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8116119189301003931
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -2973310378453196262
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1381729939318130657
+                }
+            ],
             "pathId": 3113633926181677721,
             "blockIdx": 44
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ここ3年間のウマ娘界を語る上で、\r\n貴方がたの存在は大きく、\n外せないものでした。",
-            "enText": "You have been an integral part of the\nUmamusume world for the past three years.",
+            "enText": "It's impossible to talk about the last<n>three years\nof Umamusume racing<n>without bringing up you\ntwo.",
             "nextBlock": 46,
+            "origClipLength": 98,
+            "voiceIdx": 0,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": -3784558459833856588
+                },
+                {
+                    "origLen": 143,
+                    "pathId": 506506649001093743
+                }
+            ],
             "pathId": -1882063313679215691,
             "blockIdx": 45
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "だからこそ、小さい記事にはまとめきれず、\r\n編集長に掛け合わせてもらったんです。",
-            "enText": "I couldn't just fit it into a small article,\nso I talked it over with my editor.",
+            "enText": "Your story deserved much more than a<n>small\narticle. So, I did a little negotiating<n>with the\neditor-in-chief.",
             "nextBlock": 47,
+            "origClipLength": 97,
+            "voiceIdx": 37,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 5129854459062037919
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 4345348098459519505
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 8469951103260465522
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2532723613282209314
+                }
+            ],
             "pathId": 7563397449243076769,
             "blockIdx": 46
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "――皆、この人たちの特集を見たいはずだと。",
-            "enText": "— I told him everyone would look forward to\na feature with these people.",
+            "enText": "I knew all our readers would be excited<n>to see a\nspecial feature on you two.",
             "nextBlock": 48,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
-                    "enText": "Ms. Otonashi…!",
+                    "enText": "I don't know what to say.",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -2192276917058277128
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3728328157093590953
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4058330343667916391
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7814201566982762846
                 }
             ],
             "pathId": -1098879295059163222,
@@ -511,10 +1437,31 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ふふっ、もちろん私もその1人です。\r\nこれからのご活躍も楽しみにしていますよ？",
-            "enText": "Hehe, of course I am one of them.\nI'm looking forward to your future\nactivities, okay?",
+            "enText": "Hehe. Of course, I'm no exception. I’m<n>more\nexcited than anyone to see your<n>future exploits.",
             "nextBlock": 49,
+            "origClipLength": 95,
+            "voiceIdx": 39,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 6060862032814575846
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 7866019791256053415
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 8839115001565277298
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1575190364467546378
+                }
+            ],
             "pathId": -7460753921261660080,
             "blockIdx": 48
         },
@@ -522,17 +1469,33 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
-            "enText": "I can feel Otonashi's excitement. I'll show\n<chrname> this article later…!",
+            "enText": "This article conveys Reporter Otonashi's<n>true\nfeelings. I'll be sure to show it to<n>\n<chrname> later!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": 4878333401511471283
+                },
+                {
+                    "origLen": 200,
+                    "pathId": 6213930450935489888
+                }
+            ],
             "pathId": 296249345934530266,
             "blockIdx": 49
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "そちらのページの右端、ご覧になりましたか？",
-            "enText": "Did you see the right side of that page?",
+            "enText": "Have you looked at the right side of that<n>page\nyet?",
             "nextBlock": 51,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "右端ですか？",
@@ -540,15 +1503,54 @@
                     "nextBlock": 51
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -6852239392381771311
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3568987669334299916
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -4166030439743666245
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6667699558496199017
+                }
+            ],
             "pathId": -1341416266619919838,
             "blockIdx": 50
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ええ。",
-            "enText": "Yeah.",
+            "enText": "Yes, take a look.",
             "nextBlock": 52,
+            "origClipLength": 48,
+            "voiceIdx": 47,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 5071713671532666297
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 8825054849547255503
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -7966790261534289938
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7651501897686889859
+                }
+            ],
             "pathId": -5407995214390558809,
             "blockIdx": 51
         },
@@ -556,8 +1558,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "そこには『期待のトレーナーとウマ娘』\r\nという小さい特集があり――",
-            "enText": "There's a small feature there called\n\"Promising Trainers and Uma Musume\".",
+            "enText": "There's a small special feature titled \"A<n>Promising\nTrainer and Trainee.\"",
             "nextBlock": 53,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": -5908611423297603688
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 9049892442582267727
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 9119642472895691425
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 4067417686082970128
+                }
+            ],
             "pathId": 1050747976639807162,
             "blockIdx": 52
         },
@@ -565,22 +1588,64 @@
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>とのトレーニング風景と、\r\n熱い期待のコメントが記載されていた。",
-            "enText": "It described a training session\nwith <chrname> and commented on\nthe high expectations.",
+            "enText": "It includes scenes of my training sessions<n>with\n<chrname> along with<n>Otonashi's\nenthusiastic comments.",
             "nextBlock": 54,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 5095327805629235269
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 5277039989682090752
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 7204478611520035782
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6742874598773705022
+                }
+            ],
             "pathId": 2200215867244649418,
             "blockIdx": 53
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "『この2人の活躍がこれからも楽しみだ』\r\n……その言葉に偽りはありません。",
-            "enText": "\"I can't wait to see what they do in the\nfuture.\" … There are no lies there.",
+            "enText": "\"I can't wait to see how far these two can<n>go!\"\n...And I meant every word.",
             "nextBlock": 55,
+            "origClipLength": 93,
+            "voiceIdx": 37,
+            "voiceSheetId": "059003001",
             "choices": [
                 {
                     "jpText": "乙名史さん……！",
-                    "enText": "Ms. Otonashi…!",
+                    "enText": "I don't know what to say.",
                     "nextBlock": 55
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 151,
+                    "pathId": 2929453807692112546
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 1463466903197121983
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 590390451973374745
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6701587760386096734
                 }
             ],
             "pathId": -5497854543174293290,
@@ -588,10 +1653,31 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ふふっ、今後のお2人の軌跡も、\r\n取材させていただきますからね。",
-            "enText": "Hehe, I'll be covering you two's trajectory.",
+            "enText": "Hehe, I intend to continue covering the<n>path you\nboth take from here on.",
             "nextBlock": 56,
+            "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "059003001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 7023692927234869096
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -3249144413603474969
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 7592030377542997123
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6279986983456142455
+                }
+            ],
             "pathId": 3051264097445192258,
             "blockIdx": 55
         },
@@ -599,12 +1685,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "乙名史記者からの想いが伝わってくる。\r\nこの記事は後で<chrname>にも、\n見せるとしよう……！",
-            "enText": "Otonashi's feelings reached me. I'll show\nthis article to <chrname> later…!",
+            "enText": "This article conveys Reporter Otonashi's<n>true\nfeelings. I'll be sure to show it to<n>\n<chrname> later!",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 215,
+                    "pathId": 6726693366785242828
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -4618343220817179930
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 5362579798234155401
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -6692049684162617408
+                }
+            ],
             "pathId": -4512096398935234347,
             "blockIdx": 56
         }
-    ],
-    "modified": 1673057060,
-    "humanTl": true
+    ]
 }

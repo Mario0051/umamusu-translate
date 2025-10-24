@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "T4LPC637AHQDGE2M767AZUP4YKXU4UHA",
+    "version": 6,
+    "bundle": "A75MJUUX4VMHCSEISKEOHSIKVK3SI7T5",
     "type": "story",
     "storyId": "501045109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "クリスマスの夜……。\r\n色々な食べ物が頭をよぎる。",
-            "enText": "Christmas night…… Various foods come to mind.",
+            "enText": "It's the evening before the holiest night<n>of the\nyear... Visions of food are flashing<n>through my\nmind.",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 150525903269760091,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "フライドチキン、七面鳥、ミートローフ、\r\nそしてクリスマスケーキ。",
-            "enText": "Fried chicken, turkey, meatloaf, and \nChristmas cake.",
+            "enText": "Fried chicken, turkey, meatloaf, and the<n>most\ndelectable cake...",
             "nextBlock": 3,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7056179018775639725,
             "blockIdx": 2
         },
@@ -29,17 +34,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "トレーナーさん、お夕飯の時間です～。\r\n今日はおでんですよ♪",
-            "enText": "Trainer, it's time for dinner! \nIt's oden today!",
+            "enText": "Trainer, it's dinner time! We're having<n>oden\ntonight! ♪",
             "nextBlock": 4,
             "origClipLength": 84,
+            "voiceIdx": 1,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 174,
-                    "pathId": 5835945158950025859
-                },
                 {
                     "origLen": 159,
                     "pathId": 7783194470371897037
+                },
+                {
+                    "origLen": 174,
+                    "pathId": 5835945158950025859
                 }
             ],
             "pathId": 7330619791445886777,
@@ -49,17 +56,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（どんがらがっしゃーん！）",
-            "enText": "(Dongarashan!)",
+            "enText": "(<i>Crash!</i> That's the sound of Super Creek<n>\ndestroying my holiday dreams.)",
             "nextBlock": 5,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 7810699991248148070
+                    "pathId": 3341429045775404886
                 },
                 {
                     "origLen": 72,
-                    "pathId": 3341429045775404886
+                    "pathId": 7810699991248148070
                 }
             ],
             "pathId": 3820335044877933223,
@@ -69,24 +78,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "……？\r\nどうかしましたか？",
-            "enText": "……? Can I help you?",
+            "enText": "...Is something wrong?",
             "nextBlock": 6,
             "origClipLength": 63,
+            "voiceIdx": 32,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "ミスマッチだったから……",
-                    "enText": "Because it was a mismatch. ……",
+                    "enText": "I had something else in mind...",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 56,
-                    "pathId": -5851527453194549418
-                },
-                {
                     "origLen": 74,
                     "pathId": 34885893416822589
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -5851527453194549418
                 }
             ],
             "pathId": -3475524059311605734,
@@ -96,17 +107,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "あ、すみません。\r\nあまりに寒かったので。",
-            "enText": "Oh, sorry. It was too cold.",
+            "enText": "Oh, I'm sorry. It's just that it's so cold<n>now.",
             "nextBlock": 7,
             "origClipLength": 72,
+            "voiceIdx": 0,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -7828500344785524062
-                },
                 {
                     "origLen": 83,
                     "pathId": -3546475041523430384
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -7828500344785524062
                 }
             ],
             "pathId": -1922368163461840123,
@@ -116,17 +129,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "外、いまにも凍ってしまいそうなほど\r\nでしたから……。",
-            "enText": "It was almost freezing outside. ……",
+            "enText": "It's almost freezing outside, so I thought<n>oden\nwould warm us up...",
             "nextBlock": 8,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 4654859171372314213
-                },
                 {
                     "origLen": 91,
                     "pathId": 538142281790138322
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4654859171372314213
                 }
             ],
             "pathId": 832415181223772822,
@@ -136,17 +151,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かに今日は寒い。スーパークリークなりに\r\n考えてのことのようだ。",
-            "enText": "It sure is cold today. Super Creek seems to \nhave thought this through.",
+            "enText": "Today <i>is</i> particularly cold. Super Creek<n>is simply\nbeing as considerate as always.",
             "nextBlock": 9,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 5968799270284262983
+                    "pathId": 5685017066990989280
                 },
                 {
                     "origLen": 99,
-                    "pathId": 5685017066990989280
+                    "pathId": 5968799270284262983
                 }
             ],
             "pathId": -428066704380307552,
@@ -156,17 +173,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ん～、やっぱりクリスマスって、\r\nケーキが食べたいものなんでしょうか？",
-            "enText": "I wonder if people still want \nto eat cake at Christmas?",
+            "enText": "Hmm, I guess everyone really does want<n>to eat\ncake around this time of year.",
             "nextBlock": 10,
             "origClipLength": 90,
+            "voiceIdx": 34,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 7943107337716716774
-                },
                 {
                     "origLen": 101,
                     "pathId": 4919439456572125208
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 7943107337716716774
                 }
             ],
             "pathId": -5619775825776052021,
@@ -176,24 +195,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "絶対に欠かせないのかな？　って\r\n思ったことがあったんです、昔。",
-            "enText": "Is it absolutely essential? \nI used to think that it was.",
+            "enText": "I was wondering a while back if it was<n>really\nnecessary.",
             "nextBlock": 11,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "どんなことが？",
-                    "enText": "What kind of things?",
+                    "enText": "What do you mean?",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 56,
-                    "pathId": -6805926320577899248
-                },
-                {
                     "origLen": 97,
                     "pathId": -1395816286274820914
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -6805926320577899248
                 }
             ],
             "pathId": 6553930239931034894,
@@ -203,17 +224,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "え～と……私が、実家の託児所を手伝って\r\n子どもを公園に連れていった時なんですけど。",
-            "enText": "Let's see……… I was helping my parents \nwith their daycare and taking their \nkids to the park.",
+            "enText": "Well... One time, I was helping out at my<n>family's\ndaycare center. I took one of the<n>kids to the\npark...",
             "nextBlock": 12,
             "origClipLength": 99,
+            "voiceIdx": 37,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": -5302825631437487661
-                },
                 {
                     "origLen": 110,
                     "pathId": 7044349885726044997
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -5302825631437487661
                 }
             ],
             "pathId": 4641371562147578847,
@@ -223,17 +246,19 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "ふーん！　お母さんが迎えにきてくれなく\r\nたって、別にいいんだい！",
-            "enText": "Hmmm! It doesn't matter if your \nmother didn't pick you up!",
+            "enText": "Hmph! I don't care if Mom comes to get<n>me or\nnot!",
             "nextBlock": 13,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": -2232995908087073005
+                    "pathId": -6557267001140880911
                 },
                 {
                     "origLen": 99,
-                    "pathId": -6557267001140880911
+                    "pathId": -2232995908087073005
                 }
             ],
             "pathId": 8971050961801854447,
@@ -243,9 +268,11 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "ただねー！　クリスマスケーキが\r\n食べたかった！　それだけだいっ！",
-            "enText": "It's just that… I just wanted some Christmas \ncake! That's all!",
+            "enText": "I just want my cake! That's all!",
             "nextBlock": 14,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7359557656143277945,
             "blockIdx": 13
         },
@@ -253,17 +280,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "あの子、きっとケーキはいらなかったんじゃ\r\nないかなって思うんです。",
-            "enText": "I think she probably didn't want the cake.",
+            "enText": "I don't think that boy actually wanted<n>cake.",
             "nextBlock": 15,
             "origClipLength": 89,
+            "voiceIdx": 150,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 175,
-                    "pathId": -8203613987720654983
-                },
                 {
                     "origLen": 173,
                     "pathId": -8779926880245901248
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -8203613987720654983
                 }
             ],
             "pathId": 628804723440821927,
@@ -273,17 +302,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ただクリスマスに、家族で仲良くご飯が\r\n食べられれば、それで。",
-            "enText": "I just want to have a nice meal with my \nfamily at Christmas.",
+            "enText": "He simply wanted to have a joyful<n>holiday dinner\nwith his family.",
             "nextBlock": 16,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": -4340234450515104073
-                },
                 {
                     "origLen": 96,
                     "pathId": -1739045562980363700
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -4340234450515104073
                 }
             ],
             "pathId": 6681621851441051318,
@@ -293,17 +324,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "というわけで～、おでんにしてみたん\r\nですけど、ダメでしょうか？",
-            "enText": "So - I tried to make oden, but is it bad?",
+            "enText": "Which is why I picked oden tonight. I<n>thought you\nmight find it more<n>comforting.",
             "nextBlock": 17,
             "origClipLength": 86,
+            "voiceIdx": 85,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": -4137009931509502
-                },
                 {
                     "origLen": 97,
                     "pathId": 3748377548140962281
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -4137009931509502
                 }
             ],
             "pathId": 6712752180155614800,
@@ -313,29 +346,31 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "トレーナーさんが、もしかしたらこの方が\r\nホクホクできるかなって。",
-            "enText": "The trainer thought that maybe I would be \nmore satisfied this way.",
+            "enText": "Should I have chosen something else<n>instead?",
             "nextBlock": 18,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ありがたく、いただくよ",
-                    "enText": "I'll take it gratefully.",
+                    "enText": "I'm more than happy with oden.",
                     "nextBlock": 18
                 },
                 {
                     "jpText": "ありがたく、いただこっかな",
-                    "enText": "I'll take it gratefully.",
+                    "enText": "I'm more than happy with oden.",
                     "nextBlock": 18
                 }
             ],
             "animData": [
                 {
-                    "origLen": 61,
-                    "pathId": -3385104102597781758
-                },
-                {
                     "origLen": 99,
                     "pathId": -3558723037725754761
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -3385104102597781758
                 }
             ],
             "pathId": -2552670099725742621,
@@ -345,17 +380,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ふふっ、ありがとうございます～。\r\nではコタツに入って食べましょうか。",
-            "enText": "Phew, thank you～. Shall we \neat in the kotatsu then?",
+            "enText": "Hehe, thank you! Let's warm up under<n>the kotatsu\nand eat.",
             "nextBlock": 19,
             "origClipLength": 90,
+            "voiceIdx": 1,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 3999131263534983193
-                },
                 {
                     "origLen": 101,
                     "pathId": -2788683837263032440
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3999131263534983193
                 }
             ],
             "pathId": -7602323154804917535,
@@ -365,17 +402,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "誰もがケーキをつつく夜。\r\nなぜか2人で、おでんをつついている。",
-            "enText": "It's the night when everyone is piecing \ntogether a cake. For some reason, the two of \nus are enjoying a bowl of oden.",
+            "enText": "On a night when everyone else is eating<n>cake, for\nsome reason we're pecking at<n>oden.",
             "nextBlock": 20,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": 304911439309352458
+                    "pathId": 5602049770097088632
                 },
                 {
                     "origLen": 97,
-                    "pathId": 5602049770097088632
+                    "pathId": 304911439309352458
                 }
             ],
             "pathId": 1986507217531160859,
@@ -385,9 +424,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "でも、これが『心が通じ合っている』という\r\nことなのかもしれない。",
-            "enText": "But perhaps this is what it means to be \"in \ntouch with one's heart.",
+            "enText": "But I guess this is what it means to truly<n>have a\nconnection with someone.",
             "nextBlock": 21,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6289294622712295733,
             "blockIdx": 20
         },
@@ -395,29 +436,31 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ごちそうさまでした～。お腹いっぱいに\r\nなりましたか、トレーナーさん？",
-            "enText": "Thank you for the food! Are you full, trainer?",
+            "enText": "What a great meal! Did you eat your fill,<n>Trainer?",
             "nextBlock": 22,
             "origClipLength": 90,
+            "voiceIdx": 46,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "ああ！",
-                    "enText": "Aah!",
+                    "enText": "Yep!",
                     "nextBlock": 22
                 },
                 {
                     "jpText": "うん！",
-                    "enText": "Yeah!",
+                    "enText": "Yep!",
                     "nextBlock": 22
                 }
             ],
             "animData": [
                 {
-                    "origLen": 207,
-                    "pathId": -4583564586205428555
-                },
-                {
                     "origLen": 153,
                     "pathId": -7959247871805696006
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -4583564586205428555
                 }
             ],
             "pathId": -6066253648567962234,
@@ -427,17 +470,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "よかった～。\r\nでは食後のスイーツに……。",
-            "enText": "Thank goodness～. Now let's go to…… for after \ndinner sweets.",
+            "enText": "Glad to hear it! Now for dessert...",
             "nextBlock": 23,
             "origClipLength": 72,
+            "voiceIdx": 7,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -2074081606143189248
-                },
                 {
                     "origLen": 83,
                     "pathId": 4730421485448429029
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2074081606143189248
                 }
             ],
             "pathId": 5428904050718675152,
@@ -447,17 +492,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "クリスマスケーキ、持ってきますね～。",
-            "enText": "Christmas cake, I'll bring it!",
+            "enText": "I'll bring out the cake!",
             "nextBlock": 24,
             "origClipLength": 68,
+            "voiceIdx": 1,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 2647029032000217340
-                },
                 {
                     "origLen": 79,
                     "pathId": -5857747291975810604
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 2647029032000217340
                 }
             ],
             "pathId": 3295643123768448510,
@@ -467,17 +514,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（どんがらがっしゃーん！）",
-            "enText": "(Dongarashan!)",
+            "enText": "(<i>Crash!</i> That's the sound of Super Creek<n>\ndestroying my holiday woes.)",
             "nextBlock": 25,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 5527695848367978977
+                    "pathId": 782956086482797925
                 },
                 {
                     "origLen": 72,
-                    "pathId": 782956086482797925
+                    "pathId": 5527695848367978977
                 }
             ],
             "pathId": -6621054895653326982,
@@ -487,17 +536,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "……？\r\nどうかしましたか？",
-            "enText": "……? Can I help you?",
+            "enText": "...Is something wrong?",
             "nextBlock": 26,
             "origClipLength": 63,
+            "voiceIdx": 30,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -5715001976177854647
-                },
                 {
                     "origLen": 74,
                     "pathId": -4265332649482846542
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -5715001976177854647
                 }
             ],
             "pathId": -2221074649712706732,
@@ -507,17 +558,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "ここで出てくるとは思わなかった。",
-            "enText": "I didn't think it would come up here.",
+            "enText": "Talk about a plot twist.",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
-                    "pathId": 5316995093499208535
+                    "pathId": -7226439526722934623
                 },
                 {
                     "origLen": 76,
-                    "pathId": -7226439526722934623
+                    "pathId": 5316995093499208535
                 }
             ],
             "pathId": 546243462521470401,
@@ -527,17 +580,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ごちそうさまでした～。",
-            "enText": "Thank you for the food!",
+            "enText": "Mmm, that was delicious!",
             "nextBlock": 28,
             "origClipLength": 69,
+            "voiceIdx": 46,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 126,
-                    "pathId": -4773540526128351357
-                },
                 {
                     "origLen": 137,
                     "pathId": 8052927901050712445
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -4773540526128351357
                 }
             ],
             "pathId": 2432430157235946194,
@@ -547,17 +602,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "あの～、トレーナーさん。\r\nもう1つ聞いてもいいですか？",
-            "enText": "Um, Ms. Trainer. Can I ask \nyou one more question?",
+            "enText": "Um, Trainer? Could I ask you one more<n>question?",
             "nextBlock": 29,
             "origClipLength": 81,
+            "voiceIdx": 52,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 110,
-                    "pathId": 2091327487680495165
-                },
                 {
                     "origLen": 92,
                     "pathId": 6062552555772856738
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2091327487680495165
                 }
             ],
             "pathId": -4884259491217152918,
@@ -567,17 +624,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "さっきクリスマスを一緒に過ごせれば\r\n食べ物は関係ないって言いましたけど……。",
-            "enText": "I said earlier that food doesn't matter as \nlong as we can spend Christmas together. ……",
+            "enText": "I said before that it didn't matter what<n>you eat as\nlong as you spend the day<n>with the people you\ncare about, but...",
             "nextBlock": 30,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 85,
-                    "pathId": -186364472573060726
-                },
                 {
                     "origLen": 106,
                     "pathId": -8047313654151406036
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -186364472573060726
                 }
             ],
             "pathId": -5654143846029728119,
@@ -587,24 +646,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "それって立場も、でしょうか？",
-            "enText": "Is that a position, too?",
+            "enText": "Does that apply to all relationships?",
             "nextBlock": 31,
             "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "立場？",
-                    "enText": "Position?",
+                    "enText": "I'm not sure if I follow...",
                     "nextBlock": 31
                 }
             ],
             "animData": [
                 {
-                    "origLen": 32,
-                    "pathId": -5871462068988734744
-                },
-                {
                     "origLen": 74,
                     "pathId": 3888681691731562238
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -5871462068988734744
                 }
             ],
             "pathId": -2608805280343911691,
@@ -614,17 +675,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "はい、もしトレーナーとウマ娘じゃ\r\nなかったとしたら……。",
-            "enText": "Yes, if it wasn't the trainer \nand the horsegirl. ……",
+            "enText": "Well, if we weren't trainer and<n>Umamusume...",
             "nextBlock": 32,
             "origClipLength": 82,
+            "voiceIdx": 82,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": 3324393918429485637
-                },
                 {
                     "origLen": 93,
                     "pathId": -2948199681446966303
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3324393918429485637
                 }
             ],
             "pathId": 6286711545636802100,
@@ -634,17 +697,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "それでもクリスマス、\r\n過ごしたかったですか？",
-            "enText": "Still wanted to spend Christmas?",
+            "enText": "Would you have wanted to spend this<n>occasion\nwith me?",
             "nextBlock": 33,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 2904569782595094721
-                },
                 {
                     "origLen": 86,
                     "pathId": 5095496704975783891
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2904569782595094721
                 }
             ],
             "pathId": 3135533698625894835,
@@ -654,17 +719,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "しばらく考える。\r\nけれど答えは出なかった。",
-            "enText": "I thought for a while. But no answer came.",
+            "enText": "I think for a while but am unable to find<n>an\nanswer.",
             "nextBlock": 34,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 96,
-                    "pathId": 94316453617095280
-                },
                 {
                     "origLen": 84,
                     "pathId": 8588479295206615146
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 94316453617095280
                 }
             ],
             "pathId": -6194563761753846747,
@@ -674,24 +741,26 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "あの、トレーナーさん？",
-            "enText": "Um, trainer?",
+            "enText": "Trainer?",
             "nextBlock": 35,
             "origClipLength": 59,
+            "voiceIdx": 54,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "スーパークリークはどう思う？",
-                    "enText": "What do you think of Super Creek?",
+                    "enText": "What do you think, Super Creek?",
                     "nextBlock": 35
                 }
             ],
             "animData": [
                 {
-                    "origLen": 14,
-                    "pathId": -8786947034299076131
-                },
-                {
                     "origLen": 70,
                     "pathId": 3951829169850741278
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -8786947034299076131
                 }
             ],
             "pathId": 5376520227971380704,
@@ -701,17 +770,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "私……？\r\n私は……ん～。",
-            "enText": "I ……? I'm…… hmm～.",
+            "enText": "Me? Well... Hmm...",
             "nextBlock": 36,
             "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -1107842792576200818
-                },
                 {
                     "origLen": 72,
                     "pathId": -1864235149015867354
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -1107842792576200818
                 }
             ],
             "pathId": -1124085064204065367,
@@ -721,17 +792,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "どうなんでしょうね。\r\n考えなくても……いい気がしてきました♪",
-            "enText": "What do you think? I'm starting to feel \nlike…… is a good place to start without \nthinking about it.â",
+            "enText": "Who knows! I'm starting to feel like it<n>doesn't\nmatter. ♪",
             "nextBlock": 37,
             "origClipLength": 85,
+            "voiceIdx": 2,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -8382008045125925323
-                },
                 {
                     "origLen": 96,
                     "pathId": -8437862979999087276
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -8382008045125925323
                 }
             ],
             "pathId": -376717728511674500,
@@ -741,22 +814,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "部屋は暖かさに満ちている。\r\n話はここまでにしておこう。",
-            "enText": "The room is full of warmth. \nLet's end the story here.",
+            "enText": "The room is filled with a comfortable<n>warmth. I\ndecide to leave the<n>conversation at that.",
             "nextBlock": -1,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 92,
-                    "pathId": -7539608572795895727
+                    "pathId": 8642344646350035144
                 },
                 {
                     "origLen": 92,
-                    "pathId": 8642344646350035144
+                    "pathId": -7539608572795895727
                 }
             ],
             "pathId": 8983751947133819890,
             "blockIdx": 37
         }
-    ],
-    "modified": 1657555060
+    ]
 }

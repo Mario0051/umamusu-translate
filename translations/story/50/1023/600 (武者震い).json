@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "O3I57QDTOI7ML24FHYYRJ3UEKMA4RMWH",
+    "version": 6,
+    "bundle": "N3KNS5SAFNWPDXHQCUBKLT2ZAPEPEEAO",
     "type": "story",
     "storyId": "501023600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "この天候、風速に湿度に\nコースの状態も完璧ときている……。",
-            "enText": "The weather, wind speeds, humidity, and \ncourse conditions have been perfect. ……",
+            "enText": "The weather, wind speed, humidity, and<n>track\nconditions are all perfect.",
             "nextBlock": 2,
             "origClipLength": 82,
+            "voiceIdx": 63,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": 4908909665989606355
+                    "pathId": 2708855937410534609
                 },
                 {
                     "origLen": 93,
-                    "pathId": 2708855937410534609
+                    "pathId": 4908909665989606355
                 }
             ],
             "pathId": -8122757803660487581,
@@ -29,17 +32,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "過去学内で行われた同条件の模擬レース、\r\n及び現在の私の身体能力から推測するに……。",
-            "enText": "Based on past on-campus simulated races under \nsimilar conditions and my current physical \ncapabilities, I would guess that I would be \nable to do the same at ……",
+            "enText": "Based on past scrimmages I partook in<n>under\nidentical conditions and my<n>current physical\nabilities...",
             "nextBlock": 3,
             "origClipLength": 99,
+            "voiceIdx": 62,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 74,
-                    "pathId": -8595609565831038211
-                },
                 {
                     "origLen": 110,
                     "pathId": -3600733754251878161
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8595609565831038211
                 }
             ],
             "pathId": 7310381134004813194,
@@ -49,18 +54,20 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "これはいける……！　いけるぞトレーナー君！\nこのレース、いい結果が望めそうだ！",
-            "enText": "This is going to work. ……! You can do it, \ntrainer! This race is going to be great!",
+            "enText": "I'm good to go! I can do this, Trainer! I'm<n>\nconfident I can do well in this race!",
             "nextBlock": 4,
             "origClipLength": 95,
+            "voiceIdx": 6,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "頑張ってこい！",
-                    "enText": "Go for it!",
+                    "enText": "Do your best!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "頑張って！",
-                    "enText": "Good luck!",
+                    "enText": "Do your best!",
                     "nextBlock": 4
                 }
             ],
@@ -70,12 +77,12 @@
                     "pathId": 6464001343745899756
                 },
                 {
-                    "origLen": 67,
-                    "pathId": 3385452870003086257
-                },
-                {
                     "origLen": 106,
                     "pathId": -7881590019938750077
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3385452870003086257
                 }
             ],
             "pathId": -1911124482308517972,
@@ -85,21 +92,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ああ。もちろんだとも！\r\n早く私の走りを見て欲しいくらいだ！",
-            "enText": "Oh. Of course I do! I can't \nwait for you to see me run!",
+            "enText": "I certainly will! I can't wait for you to see<n>it!",
             "nextBlock": 5,
             "origClipLength": 76,
+            "voiceIdx": 73,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": -7385582426564416857
                 },
                 {
-                    "origLen": 58,
-                    "pathId": -5663228270407228198
-                },
-                {
                     "origLen": 112,
                     "pathId": -5745712641542638739
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -5663228270407228198
                 }
             ],
             "pathId": 2350948277030224491,
@@ -109,22 +118,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "――ビワハヤヒデはやる気充分なようだ！",
-            "enText": "―Biwa Hayahide seems to have \nplenty of motivation!",
+            "enText": "Biwa Hayahide is fired up!",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": -5212211196833252924
-                },
                 {
                     "origLen": 80,
                     "pathId": -7244446475573201373
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5212211196833252924
                 }
             ],
             "pathId": 2842410429803346449,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555058
+    ]
 }

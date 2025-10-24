@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "SKEHQ725DJTNXALIUQ53IBBZUL5ZG7UC",
+    "version": 6,
+    "bundle": "HXQZFC3LK6RULYZOWHDEJJSHUPHTAVB5",
     "type": "story",
     "storyId": "501040714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "『数日休養が必要』か……。\r\nアタシなにやってんだろ、ケガなんてして。",
-            "enText": "'Need a few days rest' or… What am I \ndoing, getting injured?",
+            "enText": "A whole week of rest, huh... What was I<n>thinking,\nletting myself get hurt like<n>this?",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "voiceIdx": 36,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -3727624504739054222
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2627419263594926795
+                }
+            ],
             "pathId": 7575239852416943792,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "疲れてる自覚はあったのに、練習してないと\r\n前に進めてない気がして、不安でさ……。",
-            "enText": "I was aware that I was tired, but I felt like \nI wasn't moving forward if I wasn't \npracticing, and I was anxious…",
+            "enText": "I knew I was exhausted, but I was<n>worried I'd fall\nbehind if I didn't train<n>more, and I just...",
             "nextBlock": 3,
+            "origClipLength": 98,
+            "voiceIdx": 35,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -8782934751544011788
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 4997602391893498634
+                }
+            ],
             "pathId": 4079222133656456761,
             "blockIdx": 2
         },
@@ -27,18 +54,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "あ、でも大丈夫、練習は続けられるから！\r\n医者が大げさに言っただけだと思うし。",
-            "enText": "Oh, but don't worry, I can keep practicing! \nAnd I think the doctor was just exaggerating.",
+            "enText": "Oh, but don't worry—I can still do some<n>training!\nI'm pretty sure the doctor was<n>blowing this whole\nthing out of<n>proportion.",
             "nextBlock": 4,
+            "origClipLength": 95,
+            "voiceIdx": 86,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "今は安静にしてほしい",
-                    "enText": "I want you to rest now.",
+                    "enText": "I'd rather you rest for now.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "気合いでケガを乗り切ろう！",
-                    "enText": "We'll get through the injury with spirit!",
+                    "enText": "A sturdy mindset can overcome any injury!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -1854553567235327168
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 771969565838313457
                 }
             ],
             "pathId": -2148740252719825330,
@@ -48,8 +88,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "けど、ただでさえアタシ、モデルの仕事で\r\n他の子より練習時間短いのにっ……。",
-            "enText": "But even though I have less practice \ntime than the other girls because \nof my modeling job…",
+            "enText": "But I already train less than everyone<n>else\nbecause of my modeling job...",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "voiceIdx": 54,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -2611290092059773863
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 3433324096040542745
+                }
+            ],
             "pathId": 2420885146006647587,
             "blockIdx": 4
         },
@@ -57,13 +110,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "なにもせず休むだけなんて、\r\n焦りでおかしくなりそうだよ！",
-            "enText": "I'm going to go crazy with impatience \nif I do nothing but rest!",
+            "enText": "If I have to sit around and rest, I'm<n>literally going\nto go insane!",
             "nextBlock": 6,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "復帰後のメニューは練っておくから",
-                    "enText": "I'll work out a menu for when I get back.",
+                    "enText": "I'll work out a special training regimen for after\nyou've recovered.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 6543793614765370524
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 8557616169291506032
                 }
             ],
             "pathId": 951957998422450320,
@@ -73,8 +139,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ、悔しいけど、わかった。\r\nマネジにもスケジュール相談しとくよ。",
-            "enText": "… I'm sorry to hear that, but I get it. \nI'll talk to Manezi about the schedule.",
+            "enText": "Ugh... It's frustrating, but I understand.<n>I'll talk to\nmy manager about my<n>schedule too.",
             "nextBlock": 7,
+            "origClipLength": 90,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -4357630668999587676
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -8023019195537085205
+                }
+            ],
             "pathId": -3562348067264404962,
             "blockIdx": 6
         },
@@ -82,8 +161,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、しばらくの休養を余儀なくされる\r\nゴールドシチーなのだった……。",
-            "enText": "Thus, Gold City was forced to \nrest for a while…",
+            "enText": "And so, Gold City is forced to take some<n>time off.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 337367753302196439
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 93807636363880420
+                }
+            ],
             "pathId": 7349091291072350717,
             "blockIdx": 7
         },
@@ -91,8 +183,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うわ、なにいきなり熱くなってんの？\r\n……まぁ、気持ちはわかるけど。",
-            "enText": "Wow, what are you getting all hot all of a \nsudden?… Well, I know how you feel.",
+            "enText": "Whoa. Why are you so fired up all of a<n>sudden? I\nmean... it's not that I don't<n>understand.",
             "nextBlock": 9,
+            "origClipLength": 89,
+            "voiceIdx": 111,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -8283940379369609496
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3415993077473464790
+                }
+            ],
             "pathId": 4126520082561731247,
             "blockIdx": 8
         },
@@ -100,13 +205,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ケガで後れ取ってる場合じゃないもんね。\r\n今すぐコースに戻って――",
-            "enText": "We can't afford to be behind because of \ninjuries. Get back on the course now and―",
+            "enText": "Can't let an injury slow us down. We've<n>got to get\nback to the track and—",
             "nextBlock": 10,
+            "origClipLength": 88,
+            "voiceIdx": 3,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "急に動くと危ない！",
-                    "enText": "Don't make any sudden moves, it's dangerous!",
+                    "enText": "Take it slow though! Or else you'll—",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 1913540827727685857
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2667439469069140263
                 }
             ],
             "pathId": -4568683537727863051,
@@ -116,8 +234,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……う、ぁっ！",
-            "enText": "… Ugh, ah!",
+            "enText": "...Argh!",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "voiceIdx": 109,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -4166551835077056270
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -3194772100675777220
+                }
+            ],
             "pathId": -257134317156572874,
             "blockIdx": 10
         },
@@ -125,8 +256,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ウソでしょ……歩くだけで痛むとか、\r\nこれじゃろくに練習なんてできないよ……。",
-            "enText": "No way… I can't practice well if it \nhurts just by walking…",
+            "enText": "No way... It hurts just to walk. I can't<n>train\nproperly like this...",
             "nextBlock": 12,
+            "origClipLength": 95,
+            "voiceIdx": 64,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -2914152463608952280
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5109559136552210760
+                }
+            ],
             "pathId": -3766523835890344780,
             "blockIdx": 11
         },
@@ -134,8 +278,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "このままなにもできず、\r\nじっとしてるしかないの……？",
-            "enText": "Can't we just sit tight \nand do nothing?…",
+            "enText": "Am I supposed to just sit here and do<n>nothing?",
             "nextBlock": 13,
+            "origClipLength": 80,
+            "voiceIdx": 66,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -535381708588005276
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -4193576648344185303
+                }
+            ],
             "pathId": -8967544311797377392,
             "blockIdx": 12
         },
@@ -143,8 +300,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "まずはケガを治すことが先決だ。落ち込む\r\nゴールドシチーにそう伝えるのだった。",
-            "enText": "The first priority is to recover \nfrom the injury. She told Goldschy, \nwho was feeling down.",
+            "enText": "Although the reality disheartens her, I<n>tell Gold\nCity her priority is to recover<n>from her injury.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 3898504865418544569
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4755376036966350386
+                }
+            ],
             "pathId": 8697157360485979462,
             "blockIdx": 13
         },
@@ -152,18 +322,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ケガで後れ取ってる場合じゃないもんね。\r\n今すぐコースに戻って――",
-            "enText": "We can't afford to be behind because of \ninjuries. Get back on the course now and―",
+            "enText": "Can't let an injury slow us down. We've<n>got to\nget—",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "voiceIdx": 69,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "今日は保健室で作戦会議だ",
-                    "enText": "We'll have a strategy meeting \nin the infirmary today.",
+                    "enText": "—back to the infirmary and have a strategy\nmeeting.",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "今日は保健室で作戦会議だよ",
-                    "enText": "We're having a strategy meeting \nin the infirmary today.",
+                    "enText": "—back to the infirmary and have a strategy\nmeeting.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4760978161161175232
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -7342153633826318575
                 }
             ],
             "pathId": -6262590590259603255,
@@ -173,8 +356,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でも、今、気合いで乗り切ろうって！",
-            "enText": "But now I'm just trying to get \nthrough it with spirit!",
+            "enText": "What happened to overcoming my injury<n>with a\nsturdy mindset?!",
             "nextBlock": 16,
+            "origClipLength": 67,
+            "voiceIdx": 30,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 4320860095467325200
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3062274916663300134
+                }
+            ],
             "pathId": 5159299525899073532,
             "blockIdx": 15
         },
@@ -182,8 +378,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……や、ごめん。さすがに焦りすぎだわ。\r\nどう乗り切っていくのかが、大事だもんね。",
-            "enText": "… and sorry. You're right, I'm in too \nmuch of a hurry. It's all about how you get \nthrough it, isn't it?",
+            "enText": "No, wait... I'm sorry. I'm being careless.<n>It's\nimportant to consider <i>how</i> I go about<n>recovering,\nright?",
             "nextBlock": 17,
+            "origClipLength": 98,
+            "voiceIdx": 48,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2057370263614222311
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5439088182832543191
+                }
+            ],
             "pathId": -5777964632764021940,
             "blockIdx": 16
         },
@@ -191,8 +400,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後、ケガに配慮した練習を2人で考え、\r\nゆっくりだが前に進むことができたのだった。",
-            "enText": "After that, the two of us worked out a \npractice plan that took into account \ninjuries, and we were able to move forward, \nalbeit slowly.",
+            "enText": "After that, the two of us work out a<n>training\nregimen she can perform while<n>injured. It might be\na light load, but it'll<n>still contribute toward her\nprogress.",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -2554998687416851601
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5080635230937608226
+                }
+            ],
             "pathId": -3604916382302186087,
             "blockIdx": 17
         }

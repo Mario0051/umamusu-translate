@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "BFUUI3MN4J6YMLTFOXW3Z7SEHZ2REJVY",
+    "version": 6,
+    "bundle": "CCPOPJVQFRAZTN2MMQZN6WQNGEOXC3L3",
     "type": "story",
     "storyId": "501001729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ああっ、惜しいぃ～……！",
-            "enText": "Oh, that's too bad… ……!",
+            "enText": "Awww, you were so close!",
             "nextBlock": 2,
             "origClipLength": 60,
+            "voiceIdx": 4,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry ……",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry ……",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
-                    "origLen": 96,
-                    "pathId": -646444731182451551
-                },
-                {
                     "origLen": 89,
                     "pathId": 4186849494652420309
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -646444731182451551
                 }
             ],
             "pathId": 9187188133703681535,
@@ -41,21 +44,23 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "いえいえっ、トレーナーさんが\r\n気にすることじゃないですから！",
-            "enText": "No, no, no, it's not your trainer's concern!",
+            "enText": "No need to apologize, Trainer!",
             "nextBlock": 3,
             "origClipLength": 85,
+            "voiceIdx": 50,
+            "voiceSheetId": "051001001",
             "animData": [
                 {
                     "origLen": 92,
                     "pathId": -6763558139756438645
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -3775700752332504648
-                },
-                {
                     "origLen": 107,
                     "pathId": 1694325824955724555
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3775700752332504648
                 }
             ],
             "pathId": 4907700550173462931,
@@ -65,21 +70,23 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "一所懸命がんばってくださって\r\n嬉しかったですよっ。",
-            "enText": "We are very happy that you worked \nso hard on this project.",
+            "enText": "I'm happy you tried so hard for me.",
             "nextBlock": 4,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051001001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": 2579882160687568614
                 },
                 {
-                    "origLen": 79,
-                    "pathId": 4691162877338022015
-                },
-                {
                     "origLen": 89,
                     "pathId": -2701938889035715623
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4691162877338022015
                 }
             ],
             "pathId": 1320075615710526510,
@@ -89,17 +96,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "えっと……もういい時間ですし、\r\n学園に戻りましょうか！",
-            "enText": "Let's see…… it's time to \ngo back to the academy!",
+            "enText": "Anyway, it's getting late, so let's head<n>back to the\nacademy!",
             "nextBlock": 5,
             "origClipLength": 81,
+            "voiceIdx": 14,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 3665859371670860924
-                },
                 {
                     "origLen": 101,
                     "pathId": 8921906679961334217
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3665859371670860924
                 }
             ],
             "pathId": 1886395330934686322,
@@ -109,22 +118,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": 3779904108988445378
-                },
                 {
                     "origLen": 89,
                     "pathId": -2414161926252639315
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 3779904108988445378
                 }
             ],
             "pathId": -7921691558787544086,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555054
+    ]
 }

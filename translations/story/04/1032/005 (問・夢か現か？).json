@@ -1,16 +1,26 @@
 {
-    "version": 4,
-    "bundle": "KNPXEFQPF4VPCAHTMUHUAUNWYXNF6XLQ",
+    "version": 6,
+    "bundle": "FP7S5ZZHIEPAE5FKSGIY7NMJBVT26C6Z",
     "type": "story",
     "storyId": "041032005",
     "title": "問・夢か現か？",
+    "enTitle": "Dream or Reality?",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……――？\r\n水から上がったような気怠さが、全身を包み込んでいる。",
-            "enText": "My body felt leaden… like I'd been dragged out \nof a swimming pool with my clothes on…",
+            "enText": "Huh? My body feels sluggish—like a fish<n>out of water.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -312392425873387425
+                }
+            ],
             "pathId": -972769010257139779,
             "blockIdx": 1
         },
@@ -18,8 +28,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゆっくりと瞼を開けると、静まり返った夜の教室と一緒に\r\nアグネスタキオンの姿が映り込んできた。",
-            "enText": "Slowly I opened my eyes. I could make out the familiar \nshapes of a classroom in the darkness… and the figure \nof Agnes Tachyon standing before me…",
+            "enText": "I open my eyes and find myself in an<n>empty classroom with Agnes\nTachyon<n>beside me. It's already evening.",
             "nextBlock": 3,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -3759548185524024911
+                }
+            ],
             "pathId": 1208151703115481143,
             "blockIdx": 2
         },
@@ -27,13 +46,26 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "発汗しているね。\r\n体温も……ふむ、見た感じ上昇しているようだ。",
-            "enText": "Subject is sweating profusely. Body \ntemperature… appears to be rising.",
+            "enText": "You're perspiring profusely. Your body<n>temperature... Yes, you're\nburning up<n>quite a bit.",
             "nextBlock": 4,
+            "origClipLength": 264,
+            "voiceIdx": 0,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "え……え！？",
-                    "enText": "Eh… eh…!?",
+                    "enText": "H-huh?!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6991875376552858856
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -2613704769218351523
                 }
             ],
             "pathId": 8796941963322613832,
@@ -43,8 +75,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "モルモットと言えど、熱放散反応はやはり人か。\r\nまぁ、そうでなくては困るんだが。",
-            "enText": "Guinea pig you may be, but your body's febrile response is \nunquestionably human. Which is fine for our purposes, of course…",
+            "enText": "You may be a guinea pig, but your body<n>disperses heat just like a\nhuman. But I<n>suppose we'd have a problem if you didn't.",
             "nextBlock": 5,
+            "origClipLength": 247,
+            "voiceIdx": 1,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3289242130559339639
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -5880693164758141216
+                }
+            ],
             "pathId": -6215817845876120522,
             "blockIdx": 4
         },
@@ -52,8 +97,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "自分の体を確認すると……\r\n見たこともないような実験器具に縛り付けられている！",
-            "enText": "I looked down. My body was entangled with all manner of \nunfamiliar devices and strange instruments…",
+            "enText": "I look down at my body... and find myself<n>strapped down to a\nmysterious device!",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4918945120760777252
+                }
+            ],
             "pathId": -2761256186923746697,
             "blockIdx": 5
         },
@@ -61,18 +115,35 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "出会った時を思い出すねぇ。だが、あの時とは違う。\r\nここは私の、私だけの実験室。誰にも邪魔はされない！",
-            "enText": "Ah, this is just like the day we first met…! Only \nthis time we have the laboratory all to ourselves. \nNobody will interfere with my experiment!",
+            "enText": "This reminds me of when we first met. But<n>things are a <i>little</i> different.\nThis is my<n>personal laboratory. Here, no one will get<n>in my way!",
             "nextBlock": 7,
+            "origClipLength": 424,
+            "voiceIdx": 2,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "実験室って……普通の教室だぞ！？",
-                    "enText": "Laboratory…? But this is just an ordinary classroom…!",
+                    "enText": "Laboratory... Isn't this just a normal classroom?!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "実験室って……普通の教室だよ！？",
-                    "enText": "Laboratory…? But this is just an ordinary classroom…!",
+                    "enText": "Laboratory... Isn't this just a normal classroom?!",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1018416671182801155
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 491000372535182783
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4737888714231772635
                 }
             ],
             "pathId": 2957729586543371033,
@@ -82,8 +153,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "いいや！　君が実験を望んだから私はここにいる！",
-            "enText": "Ahh, not so! I am only here because you agreed \nto take part in this experiment.",
+            "enText": "Not at all! I'm here because you wished for<n>experimentation!",
             "nextBlock": 8,
+            "origClipLength": 158,
+            "voiceIdx": 3,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5215817088129777211
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 7905337529506874537
+                }
+            ],
             "pathId": -108678370699331179,
             "blockIdx": 7
         },
@@ -91,13 +175,22 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "この空間は君が用意してくれたものだ。\r\nであれば、実験室と呼ぶのが相応しいだろう？",
-            "enText": "And this space is entirely of YOUR creation… \nso in that sense, it's quite accurate to call \nthis our \"laboratory\", don't you agree?",
+            "enText": "You were the one who prepared this<n>environment. As such, is it not\nfitting to<n>christen this as my laboratory?",
             "nextBlock": 9,
+            "origClipLength": 253,
+            "voiceIdx": 4,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "意味がわからない……！",
-                    "enText": "I don't understand…!",
+                    "enText": "I'm not sure I follow!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 3094142253678818037
                 }
             ],
             "pathId": -4030392998187909315,
@@ -107,8 +200,25 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "アッハッハッハッ！　ならば理解するといい。\r\nいかなる事象も実験として受け入れるのがモルモットだと。",
-            "enText": "A-hahahaa! Then understand this. A guinea pig's job is to be \nsubjected to whatever conditions the test requires.",
+            "enText": "Ahahaha! Know this—a guinea pig's duty is<n>to accept all phenomena\nas experiments<n>waiting to happen.",
             "nextBlock": 10,
+            "origClipLength": 327,
+            "voiceIdx": 5,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 3501150596598799301
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -8501486815731974825
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4892797547918359651
+                }
+            ],
             "pathId": 7733278815087777960,
             "blockIdx": 9
         },
@@ -116,8 +226,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "君は自らモルモットに志願した。\r\n今更、実験前に都度コンセンサスを取れだなんて言うまい？",
-            "enText": "And you volunteered to be my guinea pig, did you \nnot? If you wish to renegotiate the terms of your \nemployment, perhaps now is not the best time.",
+            "enText": "You were the one who chose to be my<n>guinea pig. Do you think\nyou're in a<n>position to demand when, where, or how<n>my experiments\nproceed?",
             "nextBlock": 11,
+            "origClipLength": 240,
+            "voiceIdx": 6,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 141,
+                    "pathId": 2812209854544160331
+                },
+                {
+                    "origLen": 200,
+                    "pathId": 4568553866457775611
+                }
+            ],
             "pathId": 5160809955927463611,
             "blockIdx": 10
         },
@@ -125,8 +248,25 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "限界を超え、ウマ娘の脚に秘められた可能性を導くには、\r\nたゆまぬ努力と研究……実験が必要なのだよ！",
-            "enText": "To probe beyond the limits… to reveal the true potential \nof horsegirls… this requires tireless effort and research, \nof which testing is an indispensable part!",
+            "enText": "If I am to surpass my limits and realize the<n>latent potential of\nUmamusume-kind, then<n>I must devote myself to research—in other<n>\nwords, more experiments!",
             "nextBlock": 12,
+            "origClipLength": 328,
+            "voiceIdx": 7,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5189275837465437118
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -5123751473461974764
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4828662017011397619
+                }
+            ],
             "pathId": -4482546014574763242,
             "blockIdx": 11
         },
@@ -134,8 +274,17 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "さて、出来たばかりの楽しいお薬を飲ませてあげよう。\r\n青く発光しているから、目でも楽しめるぞ。",
-            "enText": "Now! Perhaps it's time I let you try a rather enjoyable new serum \nI have created. It has an intense blue glow which I think you \nwill find quite pleasing!",
+            "enText": "Now, I'll have you ingest my newest<n>creation. Look, this one glows a\npleasant<n>blue.",
             "nextBlock": 13,
+            "origClipLength": 302,
+            "voiceIdx": 8,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": 3417621635909080523
+                }
+            ],
             "pathId": -3147046487660016952,
             "blockIdx": 12
         },
@@ -143,13 +292,30 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "クククッ……これで君の筋力は何倍にも増強され、\r\nどんな怪物をも凌駕する最高の肉体を手に入れることだろう！",
-            "enText": "Heeheehee… and with this your muscular strength will increase \nseveral fold… Your body will be blessed with unimaginable \nstrength, strength surpassing the most fearsome monster…!",
+            "enText": "Heh-heh-heh... With this, your muscular<n>strength will increase a\nthousandfold,<n>giving birth to a body surpassing that of<n>any monster!",
             "nextBlock": 14,
+            "origClipLength": 397,
+            "voiceIdx": 10,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "！？",
-                    "enText": "!?",
+                    "enText": "Wait, what?!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -7897992733912404818
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -6864888262965448619
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7596151385525704939
                 }
             ],
             "pathId": 55955850043294857,
@@ -159,8 +325,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "さぁ、口を開けたまえ。",
-            "enText": "Now… open wide…",
+            "enText": "All right, open wide.",
             "nextBlock": 15,
+            "origClipLength": 104,
+            "voiceIdx": 9,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5698956229694913619
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 7711349489253246507
+                }
+            ],
             "pathId": -7151807323467484326,
             "blockIdx": 14
         },
@@ -168,8 +347,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうなった彼女を止める術はない。\r\nそもそも、モルモットでいいと告げたのは自分だ。",
-            "enText": "There was nothing I could do to stop her. She was right, after \nall. I was the one who volunteered to be her guinea pig.",
+            "enText": "I'm helpless before her. After all, I did<n>volunteer to be her guinea pig.",
             "nextBlock": 16,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 7571856583024008709
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 5566011792657021666
+                }
+            ],
             "pathId": 5021938513482204201,
             "blockIdx": 15
         },
@@ -177,8 +369,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "覚悟を決めて、恐る恐る口を開けた――",
-            "enText": "I gathered my resolve, closed my eyes… and opened my mouth…",
+            "enText": "I brace myself and slowly open my<n>mouth—",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -3991859364380345405
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -8496820379452998858
+                }
+            ],
             "pathId": 5477202920739485716,
             "blockIdx": 16
         },
@@ -186,8 +391,25 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "――おや、おはようモルモット君。",
-            "enText": "Well, well. Good morning my little guinea pig.",
+            "enText": "Good morning, my guinea pig.",
             "nextBlock": 18,
+            "origClipLength": 117,
+            "voiceIdx": 90,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 196,
+                    "pathId": 1057500058692377110
+                },
+                {
+                    "origLen": 196,
+                    "pathId": 3498384589484125485
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 7954274017390756849
+                }
+            ],
             "pathId": 7549247036796375924,
             "blockIdx": 17
         },
@@ -195,13 +417,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "痛いくらいの光が目に飛び込んできた。\r\n……もしや、さっきまでの出来事は。",
-            "enText": "The sunlight burned as it flooded my eyes. But \nthat must mean everything up to now had been…",
+            "enText": "I squint my eyes as rays of light assault my<n>pupils. Could the medicine\nfrom earlier<n>have been...",
             "nextBlock": 19,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "あ、あれ……！？夢！？",
-                    "enText": "H…… huh!? A dream…!?",
+                    "enText": "H-huh?! Was it all a dream?!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -5355664144951453332
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8612164779985892445
                 }
             ],
             "pathId": -2697884726512357005,
@@ -211,8 +446,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "んん？　随分と怯えているね？　もしや悪夢でも見たのかい？",
-            "enText": "Hmm? You seem troubled. Some kind of… nightmare, perhaps?",
+            "enText": "Hm? You look rather frightened, you<n>know? Did you have a nightmare\nor<n>something?",
             "nextBlock": 20,
+            "origClipLength": 199,
+            "voiceIdx": 12,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3038056438669743946
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -8188371135008234064
+                }
+            ],
             "pathId": -2096808300149621367,
             "blockIdx": 19
         },
@@ -220,8 +468,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "光の量に変化はないはずだが、僅かに瞳孔が震えている。\r\nクククッ……興味が出たぞ。話してみるといい。",
-            "enText": "Curious… the light level in here hasn't changed, but there is a \npronounced dilation in your pupils… Intriguing… most intriguing. \nWhy don't you tell me what you saw.",
+            "enText": "The lighting hasn't changed, yet your<n>pupils are dilated.\nHeh-heh-heh... You've<n>piqued my interest. Go on, tell me all<n>about it.",
             "nextBlock": 21,
+            "origClipLength": 340,
+            "voiceIdx": 13,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7763478520686691092
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 3356130297561274728
+                }
+            ],
             "pathId": -3978726908861435035,
             "blockIdx": 20
         },
@@ -229,8 +490,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "夢のメカニズムは、いまだ謎の多い部分ではある。\r\nが、これを深層心理として考えると――",
-            "enText": "There is still much we do not understand neurologically about the \ndreaming brain… But if we apply the principles of depth \npsychology to your experience…",
+            "enText": "Even now, modern science is unable to<n>explain the precise\nmechanisms of how we<n>dream. However, from the lens of depth<n>\npsychology...",
             "nextBlock": 22,
+            "origClipLength": 261,
+            "voiceIdx": 14,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1070194173740891996
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2751881476309641181
+                }
+            ],
             "pathId": -7805886863436623062,
             "blockIdx": 21
         },
@@ -238,8 +512,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "君の潜在意識にいる私は\r\n『人の話を聞かず勝手に実験をするウマ娘』、ということになるな。",
-            "enText": "It seems as though you see me as a horsegirl who \nmight at any moment subject you to horrifying experimentation, \nwithout warning or consent…!",
+            "enText": "We can infer that the image of me within<n>your subconscious is of an\nUmamusume<n>who experiments on people without<n>considering their\nfeelings.",
             "nextBlock": 23,
+            "origClipLength": 275,
+            "voiceIdx": 15,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 189,
+                    "pathId": 6654937451622014267
+                },
+                {
+                    "origLen": 213,
+                    "pathId": -3252454612273774818
+                }
+            ],
             "pathId": -4152473569679005223,
             "blockIdx": 22
         },
@@ -247,18 +534,31 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "それにしても……そうか。夢の中の私がそんなことをねぇ。",
-            "enText": "I see… that is the Agnes Tachyon that resides in your psyche.",
+            "enText": "At any rate... I see. I can’t believe I did all<n>that in your dream.",
             "nextBlock": 24,
+            "origClipLength": 244,
+            "voiceIdx": 16,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "ごめん、悪気はなくて……",
-                    "enText": "Sorry I, uh… didn't mean anything by it…",
+                    "enText": "Sorry, I didn't mean to offend you...",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "ごめんね、悪気はなくて……",
-                    "enText": "Sorry I, uh… didn't mean anything by it…",
+                    "enText": "Sorry, I didn't mean to offend you...",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -766777341398214651
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5310487903718647102
                 }
             ],
             "pathId": 6797388582048949691,
@@ -268,8 +568,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ククッ……わざわざ『口を開けろ』、とは。\r\n夢の中の私は、随分と面倒なことをするな。",
-            "enText": "Hahaha…! To think that I would go to the trouble of ASKING you to \nopen your mouth! The Agnes Tachyon of your dreams clearly has \nmore time to waste than I do…",
+            "enText": "Heh-heh... I really said, \"Open wide\"? The<n>Tachyon in your dream\nactually bothered<n>asking?",
             "nextBlock": 25,
+            "origClipLength": 308,
+            "voiceIdx": 17,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2500459759544831021
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2439259827392649312
+                }
+            ],
             "pathId": 3384418409912845986,
             "blockIdx": 24
         },
@@ -277,13 +590,30 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "モルモットに実験可否の返事も意見も聞く必要はないだろうに！",
-            "enText": "One does not ask the guinea pig's PERMISSION to \ncommence the experiment, good gracious no!",
+            "enText": "As if a guinea pig had any choice in the<n>matter!",
             "nextBlock": 26,
+            "origClipLength": 176,
+            "voiceIdx": 18,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "えっ",
-                    "enText": "Um.",
+                    "enText": "Huh?",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1893914891023848736
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 7872833321381730915
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3447455448641741484
                 }
             ],
             "pathId": 9020941135863293437,
@@ -293,8 +623,25 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ハッハッハッ！　何をポカンとしているんだい。\r\n自身が被験体であることを忘れていたのかい？",
-            "enText": "Hahahaha! Oh, what are you gawping at now? Did you forget that \nyou willingly donated your body to my research?",
+            "enText": "Ahahaha! What're you looking surprised<n>for? Did you forget that\nyou're my<n>personal test subject?",
             "nextBlock": 27,
+            "origClipLength": 265,
+            "voiceIdx": 20,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8243028635492212351
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 5167615284378992518
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2300792555566846012
+                }
+            ],
             "pathId": -9082790388293693049,
             "blockIdx": 26
         },
@@ -302,13 +649,26 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "いやしかし先程は実に惜しかった。あともう少しで\r\n安らか～に眠る君の口に薬品βを流し込めたのに。",
-            "enText": "And I was so close, too. Why, a few moments longer and you would \nhave been sleeping like a baby… and I could have slipped serum \nbeta down your throat without you even noticing!",
+            "enText": "A shame about earlier, though. Just a little<n>bit more and I would've\n<i>quietly</i> poured<n>some Medicine-β down your gullet.",
             "nextBlock": 28,
+            "origClipLength": 327,
+            "voiceIdx": 91,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "えっ！？",
-                    "enText": "Huh…!?",
+                    "enText": "What?!",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": 4256933915574695555
+                },
+                {
+                    "origLen": 245,
+                    "pathId": 6775084452235760961
                 }
             ],
             "pathId": 8149968490793078843,
@@ -318,8 +678,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "あぁこれは、言っておくけれど私なりの慈悲というやつだよ？\r\n薬品βは効果こそ望めるものの味が最悪でね。",
-            "enText": "Ah, yes, this. For what it's worth, on this occasion I was \nactually trying to do you a service. I have high hopes for serum \nbeta's effectiveness, you see, but it tastes quite revolting…",
+            "enText": "Just to be clear, I was trying to show you<n>mercy, okay? While β works\nwonders, it<n>comes at the cost of its rancid taste.",
             "nextBlock": 29,
+            "origClipLength": 341,
+            "voiceIdx": 92,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4929872376131678219
+                },
+                {
+                    "origLen": 152,
+                    "pathId": 7337661284351157372
+                }
+            ],
             "pathId": -1921452719300023946,
             "blockIdx": 28
         },
@@ -327,8 +700,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "けれど零すだのなんだの気にしながら120ミリリットルを\r\n流し込むより、人類に文明をもたらしたその両の手を使ってくれ。",
-            "enText": "Oh well, now that you're awake I won't need to worry about \nspilling these 120ml… Because you can use those precious \nopposable digits of yours to do the job yourself!",
+            "enText": "But instead of me trying to pour 120<n>milliliters of β down your throat\nwithout<n>spilling, be a dear and flush it down<n>yourself.",
             "nextBlock": 30,
+            "origClipLength": 304,
+            "voiceIdx": 93,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1412067826725482687
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6297773067920710628
+                }
+            ],
             "pathId": -9143802424942040634,
             "blockIdx": 29
         },
@@ -336,13 +722,22 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "無論、当然、その方が私は楽だからね！！",
-            "enText": "It certainly makes MY life easier… and that's what counts.",
+            "enText": "Much easier than having to force your<n>mouth open after all!",
             "nextBlock": 31,
+            "origClipLength": 134,
+            "voiceIdx": 94,
+            "voiceSheetId": "061032001",
             "choices": [
                 {
                     "jpText": "いや、あの――",
-                    "enText": "Wait, I… um…",
+                    "enText": "Uh, wait a sec—",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -934981949688379564
                 }
             ],
             "pathId": -5627466655549488662,
@@ -352,8 +747,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "どうしたモルモット君？　君が行うべきは\r\n『①薬を受け取る』『②飲み干す』、それのみだが？",
-            "enText": "Is there a problem, guinea pig? Your tasks are as follows. One: \nreceive the serum. Two: Drink the serum. Did I miss anything?",
+            "enText": "What's wrong, my dear little guinea pig?<n>Step one—take the medicine\nfrom my<n>hand. Step two—drink it. Easy enough,<n>right?",
             "nextBlock": 32,
+            "origClipLength": 283,
+            "voiceIdx": 95,
+            "voiceSheetId": "061032001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8144712924331201400
+                },
+                {
+                    "origLen": 246,
+                    "pathId": -8971340803355103112
+                }
+            ],
             "pathId": 3544352854816234079,
             "blockIdx": 31
         },
@@ -361,8 +769,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ざわざわ……。",
-            "enText": "*chattering*",
+            "enText": "<i>Murmur murmur...</i>",
             "nextBlock": 33,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -4676458864868975309
+                }
+            ],
             "pathId": 215137540046564534,
             "blockIdx": 32
         },
@@ -370,12 +787,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、薬品βの副作用で青白く発光する大腿部を\r\n遠巻きに見られながら、しばらく生活する羽目になったのだった。",
-            "enText": "For some time after, I went about my business… trying my best to \nignore the stares as my thighs glowed blue through my trousers.",
+            "enText": "Thanks to the side effects of β, I'm stuck<n>with my thighs glowing\nblue—and the local<n>population's judging stares—for quite<n>some time.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1108360623081022331,
             "blockIdx": 33
         }
-    ],
-    "humanTl": true,
-    "modified": 1674500107
+    ]
 }

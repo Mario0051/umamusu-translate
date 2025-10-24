@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "XCUOKTGS4L62HVZ6RMPHEHJTBGL23OYF",
+    "version": 6,
+    "bundle": "SN4WXY3WX6ME4EPK62VZYGLYAHOK4VTJ",
     "type": "story",
     "storyId": "501003718",
     "title": "リフレッシュ完了",
+    "enTitle": "All Refreshed",
     "text": [
         {
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "トレーナー、おっそいぞー！\r\n迎えにいっちゃうところだったよー。",
-            "enText": "Trainer, you're late! I was \njust about to pick you up!",
+            "enText": "You're late, Trainer! I was just about to<n>come get\nyou!",
             "nextBlock": 2,
             "origClipLength": 65,
+            "voiceIdx": 56,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "テイオー？早いな",
-                    "enText": "Teio? You're early.",
+                    "enText": "Teio? You're here early.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "テイオー？早いね",
-                    "enText": "Teio? You're early.",
+                    "enText": "Teio? You're here early.",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
-                    "origLen": 100,
-                    "pathId": -1628463163930801926
-                },
-                {
                     "origLen": 111,
                     "pathId": 3780349148646112811
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -1628463163930801926
                 }
             ],
             "pathId": -8785437965418859846,
@@ -41,17 +44,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "えっへへー、偉いでしょ？　すごいでしょ！\r\nもっと褒めてもいいんだよ！",
-            "enText": "Ehehe, isn't it great? Isn't it great! \nI don't mind if you praise me more!",
+            "enText": "Hehe. What a good trainee, right?<n>Amazing,\nright? Go on, shower me with<n>praise!",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 3475260387105740505
-                },
                 {
                     "origLen": 85,
                     "pathId": -5111173613280250030
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3475260387105740505
                 }
             ],
             "pathId": -999449419908765916,
@@ -61,17 +66,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "昨日ちゃんと休んだからかな？\r\n今日はけっこー早起きだったんだよね！",
-            "enText": "Maybe it's because I got a proper rest \nyesterday? I woke up really early today!",
+            "enText": "I got a good night's sleep, so I was up<n>early today!",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 2411240680595301252
-                },
                 {
                     "origLen": 78,
                     "pathId": -818347169966622763
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2411240680595301252
                 }
             ],
             "pathId": -6513669281744020826,
@@ -81,22 +88,23 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "だからトレーニングの準備もバッチリなのだ！\r\nほらほら、ボクについてこーい♪",
-            "enText": "That's why I'm ready to train! \nCome on, come on, follow me♪",
+            "enText": "So I'm all ready for today's training!<n>Come on,\nlet's go! ♪",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": 10,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 7756993188746964903
-                },
                 {
                     "origLen": 85,
                     "pathId": 5077536684487934624
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7756993188746964903
                 }
             ],
             "pathId": -6810915000761096518,
             "blockIdx": 4
         }
-    ],
-    "modified": 1661722222
+    ]
 }

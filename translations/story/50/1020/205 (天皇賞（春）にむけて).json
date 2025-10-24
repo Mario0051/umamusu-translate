@@ -1,47 +1,56 @@
 {
-    "version": 5,
-    "bundle": "QBNZEMDCELJFZU5ZLP22SKZSTE3AUZE7",
+    "version": 6,
+    "bundle": "5K3JOYOAUZTQE6M4HYEHJWMQKX5RKE4P",
     "type": "story",
     "storyId": "501020205",
     "title": "天皇賞（春）にむけて",
+    "enTitle": "Before the Tenno Sho (Spring)",
     "text": [
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "いよいよ春天……！\r\nスペとスカイの対決、楽しみだ！",
-            "enText": "Finally, the Spring Tengen: ……! Spay and Sky \ngoing head to head, can't wait!",
+            "enText": "Finally, the spring Tenno Sho is here! I<n>can't wait\nto see Sky and Spe face off!",
             "nextBlock": 2,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4437918827294006500,
             "blockIdx": 1
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "やっぱスペシャルウィークかなぁ？\n最近また強くなったし！",
-            "enText": "I think it's Special Week, isn't it? She's \ngetting stronger again lately!",
+            "enText": "I betcha Special Week'll win. She's<n>improved so\nmuch recently!",
             "nextBlock": 3,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2468721801454210734,
             "blockIdx": 2
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "まあスペだろうけど、\r\n距離的にはスカイも絡んでくるに違いない。\n何より――",
-            "enText": "Well, it's probably Spee, but at a distance, \nSkye must be involved. Above all―",
+            "enText": "Yeah, Spe's stronger for sure, but Sky<n>will\ndefinitely give her a run for her<n>money at this\nlength. Besides...",
             "nextBlock": 4,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5578246399581983559,
             "blockIdx": 3
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "あの子なら何かしてくれる。\nどーしてもそんな予感がするんだよなぁ！",
-            "enText": "That girl will do something. I just have a \nfeeling that she will!",
+            "enText": "She always manages to pull through. I<n>can just\nfeel it!",
             "nextBlock": 5,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6541110452628701630,
             "blockIdx": 4
         },
@@ -49,29 +58,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……すぅ……ふぅ～……。",
-            "enText": "…… soooo…… phew～……",
+            "enText": "<i>Inhale... Exhale...</i>",
             "nextBlock": 6,
             "origClipLength": 60,
+            "voiceIdx": 59,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "集中できてるな",
-                    "enText": "You're focused.",
+                    "enText": "You're pretty focused.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "集中できてるね",
-                    "enText": "You're very focused.",
+                    "enText": "You're pretty focused.",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
                     "origLen": 100,
-                    "pathId": 3342006645041977492
+                    "pathId": -990541949706944558
                 },
                 {
                     "origLen": 100,
-                    "pathId": -990541949706944558
+                    "pathId": 3342006645041977492
                 }
             ],
             "pathId": 8654426264781414361,
@@ -81,17 +92,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "そりゃあねぇ。スペちゃん、\nかなり仕上げてきてるみたいだし。",
-            "enText": "Well, that's a good thing. Spee-chan seems to \nbe finishing up pretty well.",
+            "enText": "Well, yeah. Have you seen Spe? She's<n>gotten way\nbetter.",
             "nextBlock": 7,
             "origClipLength": 84,
+            "voiceIdx": 74,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 581877845813310594
-                },
                 {
                     "origLen": 95,
                     "pathId": -3999234672030441242
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 581877845813310594
                 }
             ],
             "pathId": 4501918105157166137,
@@ -101,21 +114,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "少しでも不安要素はなくしておきたい。\n深呼吸で勝率上がるならいくらでもするよ。",
-            "enText": "I want to eliminate as much uncertainty as \npossible. I'll take as many deep breaths as \nit takes to increase my odds of winning.",
+            "enText": "I'm trying to calm myself down the best I<n>can. If\nbreathing deeply will raise my<n>chances of winning,\neven a little, then<n>that's what I gotta do.",
             "nextBlock": 8,
             "origClipLength": 95,
+            "voiceIdx": 73,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 116,
                     "pathId": 4492483312188620959
                 },
                 {
-                    "origLen": 68,
-                    "pathId": -6920214706928928036
-                },
-                {
                     "origLen": 106,
                     "pathId": 7212451407587949575
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -6920214706928928036
                 }
             ],
             "pathId": 8084252775421451835,
@@ -125,13 +140,15 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "まあ、当然それだけじゃ無理だから……\nやっぱりがんばらなきゃダメだね。",
-            "enText": "Well, of course, that's not enough.…… You \nstill have to work hard.",
+            "enText": "I know that alone won't cut it though. I<n>have to\ngive this everything I have,<n>right?",
             "nextBlock": 9,
             "origClipLength": 90,
+            "voiceIdx": 11,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "頑張る姿、見てるから",
-                    "enText": "I'm watching you work hard.",
+                    "enText": "You can do it. And I'll be watching you.",
                     "nextBlock": 9
                 }
             ],
@@ -141,12 +158,12 @@
                     "pathId": 8748206323101653578
                 },
                 {
-                    "origLen": 73,
-                    "pathId": -7199408679480382297
-                },
-                {
                     "origLen": 101,
                     "pathId": 5234470194907958638
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -7199408679480382297
                 }
             ],
             "pathId": -6145330387269758609,
@@ -156,17 +173,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "うぉう、そんな言い方あります～？",
-            "enText": "Wow, is that any way to put it～?",
+            "enText": "Whoa, that sounds a little weird.",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": 28,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": 3727710999807994847
-                },
                 {
                     "origLen": 76,
                     "pathId": 8299429594112819717
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 3727710999807994847
                 }
             ],
             "pathId": 8362260027097022753,
@@ -176,22 +195,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ちょっぴり恥ずかしいので、\n薄目でお願いしまーす。",
-            "enText": "I'm a little embarrassed, \nso please use a dim view.",
+            "enText": "Don't make me all embarrassed. Just<n>check in on\nme every once in a while,<n>yeah?",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 7442208036983356814
-                },
                 {
                     "origLen": 88,
                     "pathId": -8330231785216003343
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7442208036983356814
                 }
             ],
             "pathId": 5917770761731517435,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555057
+    ]
 }

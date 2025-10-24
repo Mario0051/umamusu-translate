@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "YTZXRPTHIYKS62N5LUMM3XSEVW5VIJ2G",
+    "version": 6,
+    "bundle": "7FOH4IBN6ZFJHELSZSNUBDCESHZHH2CZ",
     "type": "story",
     "storyId": "501061710",
     "title": "レース敗北",
+    "enTitle": "Defeat",
     "text": [
         {
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "くっ……この私が入着すら\r\nできないなんて……！",
-            "enText": "Damn… that I can't even get in…!",
+            "enText": "Ugh... I can't believe I didn't even place!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 18,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -2643428624277909518
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5803199916842021173
+                }
+            ],
             "pathId": -809416593238410360,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "トレーナー、今回の結果になった\r\n理由を1秒以内で述べなさい！",
-            "enText": "Trainer, you have one second to tell \nus why we got this result!",
+            "enText": "Trainer, you have one second to explain<n>the\nreason for these results!",
             "nextBlock": 3,
+            "origClipLength": 65,
+            "voiceIdx": 68,
+            "voiceSheetId": "051061001",
             "choices": [
                 {
                     "jpText": "時の運",
-                    "enText": "tide of the times",
+                    "enText": "Bad luck.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "実力",
-                    "enText": "(real) ability",
+                    "enText": "You're not strong enough yet.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4387861461720680946
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 2718675158369502254
                 }
             ],
             "pathId": 6578251445146226191,
@@ -39,8 +66,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "！",
-            "enText": "No!",
+            "enText": "Oh!",
             "nextBlock": 4,
+            "origClipLength": 45,
+            "voiceIdx": 111,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 213878789762529677
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 6370839876193311534
+                }
+            ],
             "pathId": 3418874164739050586,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……なるほど、確かにそれは否めないわ。\r\nキングが素質で劣っているはずがないもの。",
-            "enText": "… Well, that's certainly undeniable. \nI'm sure you're right.",
+            "enText": "Yes, I suppose there's no other<n>explanation. My\nabilities are beyond<n>reproach, after all.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 9071476464147169918
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 3850601308140937178
+                }
+            ],
             "pathId": -2700388779986179904,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "でも運というのは、\r\n力があれば引き寄せられるものよ！",
-            "enText": "But luck is a force to be reckoned with!",
+            "enText": "But luck is something the strong make<n>for\nthemselves!",
             "nextBlock": 6,
+            "origClipLength": 62,
+            "voiceIdx": 86,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -6963651829005009429
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 1716049109023983995
+                }
+            ],
             "pathId": 1527524793388621216,
             "blockIdx": 5
         },
@@ -66,8 +132,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "運を引き寄せる力が足りない\r\nというのなら、更に鍛えるまでだわ。",
-            "enText": "If you don't have enough power to attract \nluck, then you need to work on it.",
+            "enText": "If I'm not strong enough to make my own<n>luck yet,\nthen I simply need to train<n>more.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 71,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -3850893689979316044
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 2337987311975494203
+                }
+            ],
             "pathId": -8687364112715915267,
             "blockIdx": 6
         },
@@ -75,8 +154,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "トレーナー！　あなたにも私の運と力を、\r\n最大限に引き出す権利をあげるわ！",
-            "enText": "Trainer! You're entitled to the \nmaximum of my luck and power!",
+            "enText": "Trainer! I give you the right to elevate<n>my luck\nand strength to the peaks of<n>perfection!",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "voiceIdx": 61,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7924025394632838162
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -556634924301962089
+                }
+            ],
             "pathId": 7412802882463727951,
             "blockIdx": 7
         },
@@ -84,8 +176,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "さあ、頑張って努力なさい！！\r\nおーっほっほっほ！",
-            "enText": "Come on, keep up the good work! Ooh-ho-ho!",
+            "enText": "I'll accept nothing less than your utmost<n>effort!\nOhohoho!",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "voiceIdx": 1,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -2173451489860276761
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 6563785699578421781
+                }
+            ],
             "pathId": 5021573750314302903,
             "blockIdx": 8
         },
@@ -93,8 +198,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "なっ……！？　くっ、く……くぅ～～っ！！",
-            "enText": "What the…? I'm not sure what to say, \nbut I'm sure you'll understand.",
+            "enText": "What?! But... Nngh... Grrgh!",
             "nextBlock": 10,
+            "origClipLength": 58,
+            "voiceIdx": 28,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -3620992404641549116
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 6653723239845296981
+                }
+            ],
             "pathId": 9146378299157065813,
             "blockIdx": 9
         },
@@ -102,8 +220,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "し、仕方ない……わ。すっごいイヤだけど、\r\n本当にイヤだけど、今だけは認めてあげる。",
-            "enText": "You can't help it… I hate it, I really \nhate it, but I'll admit it for now.",
+            "enText": "F-fine... I really hate to admit it... and by<n>that I\nmean I absolutely loathe the idea,<n>but I'll accept\nit... for now.",
             "nextBlock": 11,
+            "origClipLength": 72,
+            "voiceIdx": 35,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5884123293575653845
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -7086990344366973012
+                }
+            ],
             "pathId": -6571972606126088141,
             "blockIdx": 10
         },
@@ -111,8 +242,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "逆に言えば、しっかり実力をつければ\r\nさらに上に行けるってことなんだもの。",
-            "enText": "On the contrary, if you have the \nability, you can go further.",
+            "enText": "On the other hand, this means that I<n>have even\ngreater heights to reach if I<n>truly apply myself.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8204459522887250977
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 6579455661151354779
+                }
+            ],
             "pathId": 2735549965025276456,
             "blockIdx": 11
         },
@@ -120,8 +264,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "なぜならば、私には翼があるから。\r\n生まれ持った才能という翼が！",
-            "enText": "Because I have wings. Wings of innate talent!",
+            "enText": "And I'll be able to fly to those heights<n>on my\nwings of innate talent!",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "voiceIdx": 87,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5508115258016544353
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5813730771402939306
+                }
+            ],
             "pathId": 9030709349058171337,
             "blockIdx": 12
         },
@@ -129,8 +286,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "頂点へと舞い上がる大きな翼があるならば、\r\n後は羽ばたく練習をすればいいだけよ！",
-            "enText": "If you've got big wings to soar to the top, \nall you need to do is practice flapping them!",
+            "enText": "With wings this powerful, I only require<n>diligent\npractice to soar to the pinnacle<n>of perfection!",
             "nextBlock": 14,
+            "origClipLength": 71,
+            "voiceIdx": 63,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 5728232645260225815
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4411647606260749944
+                }
+            ],
             "pathId": 666062178917007778,
             "blockIdx": 13
         },
@@ -138,8 +308,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "おーっほっほっほ！　私はキングヘイロー！\r\n絶対に諦めたりしないんだから！",
-            "enText": "Ooh-ho-ho! I'm King Halo! And \nI'm never gonna give up!",
+            "enText": "Ohohoho! I am King Halo, and I will<n>never give\nup!",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "voiceIdx": 1,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -642722307199160490
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5353361225915989563
+                }
+            ],
             "pathId": -4666582494130977076,
             "blockIdx": 14
         }

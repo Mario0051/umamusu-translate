@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "OXPEI5X46RB4GGEYQDA6G2RGDGRQ5E27",
+    "version": 6,
+    "bundle": "7HTU3LNW2E73GQDO63QREU5LX7SMJRDV",
     "type": "story",
     "storyId": "501020304",
     "title": "目標達成の後に・“三強”",
+    "enTitle": "Goal Achieved: The Big Three",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "セイウンスカイとまったりレースを\n走ってきたある日のこと。",
-            "enText": "One day, I was running a race with Seiunsky.",
+            "enText": "One day, in the midst of Seiun Sky's<n>leisurely race\nschedule...",
             "nextBlock": 2,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6377660617899622625,
             "blockIdx": 1
         },
@@ -19,13 +22,15 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "――すやすや～……。",
-            "enText": "―Susay～……",
+            "enText": "<i>Zzz...</i>",
             "nextBlock": 3,
             "origClipLength": 133,
+            "voiceIdx": 40,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "（寝てる……）",
-                    "enText": "(Sleeping ……)",
+                    "enText": "(She's sleeping...)",
                     "nextBlock": 3
                 }
             ],
@@ -36,9 +41,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そろそろ次のレースに向け\n動き出したいところだが、\nセイウンスカイは相変わらずのんびりだ。",
-            "enText": "It's time to get moving for the next race, \nbut Seiunsky is as laid-back as ever.",
+            "enText": "We should be preparing for our next<n>race, but\nSky is lounging around as<n>usual.",
             "nextBlock": 4,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 401521634561791828,
             "blockIdx": 3
         },
@@ -46,9 +53,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "と、そこへ――",
-            "enText": "And there―",
+            "enText": "I go to wake her, when...",
             "nextBlock": 5,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4787159728666132325,
             "blockIdx": 4
         },
@@ -56,9 +65,11 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "おーっほっほっほっ！",
-            "enText": "Oh-ho-ho!",
+            "enText": "Ohohoho!",
             "nextBlock": 6,
             "origClipLength": 68,
+            "voiceIdx": 1,
+            "voiceSheetId": "051061001",
             "pathId": 2858037824510332455,
             "blockIdx": 5
         },
@@ -66,25 +77,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "スカイさん、探したわよ！",
-            "enText": "Skye, I've been looking for you!",
+            "enText": "I've found you, Sky!",
             "nextBlock": 7,
             "origClipLength": 60,
+            "voiceIdx": 53,
+            "voiceSheetId": "051061001",
             "animData": [
-                {
-                    "origLen": 93,
-                    "pathId": -2199694263260127827
-                },
                 {
                     "origLen": 92,
                     "pathId": -2487115201606256110
                 },
                 {
                     "origLen": 93,
-                    "pathId": 3277460627003872212
+                    "pathId": -2199694263260127827
                 },
                 {
                     "origLen": 112,
                     "pathId": 1118532442184768456
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3277460627003872212
                 }
             ],
             "pathId": -3588742848759556845,
@@ -94,25 +107,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "こんにちは～……って、\nセイちゃん寝てるー！？",
-            "enText": "Hello～…… is Sey sleeping!",
+            "enText": "Hellooo... Hold it—she's still sleeping?!",
             "nextBlock": 8,
             "origClipLength": 75,
+            "voiceIdx": 25,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -3439017301360144850
+                },
                 {
                     "origLen": 89,
                     "pathId": -1489901195756317949
                 },
                 {
                     "origLen": 86,
-                    "pathId": -3439017301360144850
+                    "pathId": -6257300622232788953
                 },
                 {
                     "origLen": 59,
                     "pathId": -698043000324159599
-                },
-                {
-                    "origLen": 86,
-                    "pathId": -6257300622232788953
                 }
             ],
             "pathId": -133739056446206984,
@@ -122,32 +137,34 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "すやすや……。",
-            "enText": "Sussanen: ……",
+            "enText": "<i>Zzz...</i>",
             "nextBlock": 9,
             "origClipLength": 133,
+            "voiceIdx": 40,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "ス、スカイ！起きて！",
-                    "enText": "Suu, Skye! Get up!",
+                    "enText": "Sky! Wake up!",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
                     "origLen": 144,
-                    "pathId": -7687544929251201674
-                },
-                {
-                    "origLen": 144,
                     "pathId": -5364321664150284457
                 },
                 {
                     "origLen": 144,
-                    "pathId": -4394422872206643912
+                    "pathId": -7687544929251201674
                 },
                 {
                     "origLen": 144,
                     "pathId": -5184673756332535685
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -4394422872206643912
                 }
             ],
             "pathId": 3045662888703491329,
@@ -157,25 +174,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ふん、いいのよ。\nどうせ狸寝入りだもの。ねえスカイさん？",
-            "enText": "Hmm, that's okay. You're a \nraccoon anyway. Hey, Sky?",
+            "enText": "Hmph, it's fine. I've no doubt she's<n>faking it. Isn't\nthat right, Sky?",
             "nextBlock": 10,
             "origClipLength": 81,
+            "voiceIdx": 3,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 5836283103436210815
+                },
                 {
                     "origLen": 40,
                     "pathId": -8428865158486125519
                 },
                 {
                     "origLen": 92,
-                    "pathId": 5836283103436210815
+                    "pathId": -784973649351402493
                 },
                 {
                     "origLen": 92,
                     "pathId": -2298827981853520739
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -784973649351402493
                 }
             ],
             "pathId": -1761258873037462876,
@@ -185,25 +204,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 11,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -7474591195526957824
-                },
                 {
                     "origLen": 59,
                     "pathId": 49851236402900465
                 },
                 {
                     "origLen": 59,
-                    "pathId": 6169721479034045191
+                    "pathId": -7474591195526957824
                 },
                 {
                     "origLen": 59,
                     "pathId": -3268751503450753624
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6169721479034045191
                 }
             ],
             "pathId": -4348591271855779516,
@@ -213,25 +234,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……スカイさん？\nちょっと、まさか本当に寝てるの？",
-            "enText": "…… Ms. Sky? Hey, don't tell \nme you're really sleeping?",
+            "enText": "...Sky? Don't tell me you're <i>actually</i><n>asleep right\nnow?",
             "nextBlock": 12,
             "origClipLength": 77,
+            "voiceIdx": 21,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -3208977337299346887
+                },
                 {
                     "origLen": 66,
                     "pathId": 4909402612532657400
                 },
                 {
                     "origLen": 88,
-                    "pathId": -3208977337299346887
+                    "pathId": 5989789380328643962
                 },
                 {
                     "origLen": 88,
                     "pathId": -4613076985177141783
-                },
-                {
-                    "origLen": 88,
-                    "pathId": 5989789380328643962
                 }
             ],
             "pathId": -5286831846519159362,
@@ -241,25 +264,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "すや……ぶふっ。",
-            "enText": "Suya…… buhuh.",
+            "enText": "Mn... Nrgh...",
             "nextBlock": 13,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -602964996420617190
-                },
                 {
                     "origLen": 66,
                     "pathId": -618911925221229357
                 },
                 {
                     "origLen": 66,
-                    "pathId": -4592711459029302504
+                    "pathId": -602964996420617190
                 },
                 {
                     "origLen": 66,
                     "pathId": -2760519513752421385
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4592711459029302504
                 }
             ],
             "pathId": 8507052999876886974,
@@ -269,25 +294,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "セイウンスカイさん！",
-            "enText": "Ms. Seiunsky!",
+            "enText": "SEIUN SKY!",
             "nextBlock": 14,
             "origClipLength": 58,
+            "voiceIdx": 16,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -1331801295068188164
+                },
                 {
                     "origLen": 33,
                     "pathId": 6114712257282005570
                 },
                 {
                     "origLen": 69,
-                    "pathId": -1331801295068188164
+                    "pathId": 6971467963307051008
                 },
                 {
                     "origLen": 69,
                     "pathId": -8383046808689754811
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 6971467963307051008
                 }
             ],
             "pathId": -741866588663895482,
@@ -297,33 +324,35 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "もう……キング、声が大きい。\n静かにしないと子どもが起きちゃう。",
-            "enText": "I'm already…… King, you are so loud. I have \nto be quiet or the kids will wake up.",
+            "enText": "Come on, King... You don't have to yell.<n>You're\ngonna wake up the kids.",
             "nextBlock": 15,
             "origClipLength": 86,
+            "voiceIdx": 21,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 119,
-                    "pathId": 4035233619439487290
-                },
                 {
                     "origLen": 119,
                     "pathId": -2501108924783424592
                 },
                 {
-                    "origLen": 110,
-                    "pathId": 6196403399225554217
+                    "origLen": 119,
+                    "pathId": 4035233619439487290
                 },
                 {
                     "origLen": 126,
                     "pathId": 3425746955939595227
                 },
                 {
-                    "origLen": 16,
-                    "pathId": -6082864744601468326
+                    "origLen": 110,
+                    "pathId": 6196403399225554217
                 },
                 {
                     "origLen": 16,
                     "pathId": 6443189134399315094
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -6082864744601468326
                 }
             ],
             "pathId": -2196015659447444350,
@@ -333,25 +362,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "あっ、ごめんなさ――って、\n子どもなんかいないでしょうっ！！",
-            "enText": "Oh, I'm sorry, there are no children!",
+            "enText": "Oh no! My apolo—wait! There's no<n>children here!",
             "nextBlock": 16,
             "origClipLength": 84,
+            "voiceIdx": 101,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -6809939989108124762
+                },
                 {
                     "origLen": 95,
                     "pathId": -1858936375786553095
                 },
                 {
                     "origLen": 95,
-                    "pathId": -6809939989108124762
+                    "pathId": 3814375768381812413
                 },
                 {
                     "origLen": 68,
                     "pathId": 8811731516954941052
-                },
-                {
-                    "origLen": 95,
-                    "pathId": 3814375768381812413
                 }
             ],
             "pathId": 2140676745172965347,
@@ -361,25 +392,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "まあ冗談はこれくらいにして。\n私になにか用～？",
-            "enText": "Well, enough joking. What do you want from me?",
+            "enText": "Okay, I'll stop messing around. Did you<n>want\nsomething?",
             "nextBlock": 17,
             "origClipLength": 75,
+            "voiceIdx": 32,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 86,
-                    "pathId": 5095682144798955781
-                },
                 {
                     "origLen": 86,
                     "pathId": -7453369346435532417
                 },
                 {
                     "origLen": 86,
-                    "pathId": 3796683940695036585
+                    "pathId": 5095682144798955781
                 },
                 {
                     "origLen": 86,
                     "pathId": 33865270738957202
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3796683940695036585
                 }
             ],
             "pathId": -2588147767728502177,
@@ -389,25 +422,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "用なんて1つに決まっているわ！\r\n――宣戦布告よっ！",
-            "enText": "There's only one thing to \ndo! ―Declaration of war!",
+            "enText": "Obviously! I'm here for a reason, and<n>that is to\ndeclare war!",
             "nextBlock": 18,
             "origClipLength": 78,
+            "voiceIdx": 19,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7579579201937265205
+                },
                 {
                     "origLen": 89,
                     "pathId": -9115741316485387081
                 },
                 {
                     "origLen": 89,
-                    "pathId": -7579579201937265205
+                    "pathId": 6822818824029766575
                 },
                 {
                     "origLen": 35,
                     "pathId": -5519798183187746379
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 6822818824029766575
                 }
             ],
             "pathId": -5913645051709368242,
@@ -417,25 +452,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "宣戦布告ぅ？",
-            "enText": "Declaration of war?",
+            "enText": "War...",
             "nextBlock": 19,
             "origClipLength": 52,
+            "voiceIdx": 30,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -1116981056568103117
+                },
                 {
                     "origLen": 83,
                     "pathId": -5314057190124436873
                 },
                 {
                     "origLen": 63,
-                    "pathId": -1116981056568103117
+                    "pathId": -8358333661000321101
                 },
                 {
                     "origLen": 63,
                     "pathId": -3045107965226075929
-                },
-                {
-                    "origLen": 63,
-                    "pathId": -8358333661000321101
                 }
             ],
             "pathId": 7953131133665663232,
@@ -445,25 +482,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ええ！　いよいよレースの王道――\nクラシック三冠を巡る戦いが始まるのだから！",
-            "enText": "Yes! Because now the battle for the crown \njewel of racing―the Classic Triple Crown―is \nabout to begin!",
+            "enText": "Precisely! Finally, we've set foot on<n>racing's\nnoblest path, with the first<n>battle for the Classic\nTriple Crown set to<n>begin!",
             "nextBlock": 20,
             "origClipLength": 94,
+            "voiceIdx": 154,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -5750491136167959088
+                },
                 {
                     "origLen": 105,
                     "pathId": -5925531174472052304
                 },
                 {
                     "origLen": 105,
-                    "pathId": -5750491136167959088
+                    "pathId": 7958723511530891529
                 },
                 {
                     "origLen": 52,
                     "pathId": 3901854025063174827
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 7958723511530891529
                 }
             ],
             "pathId": 4975571704331500883,
@@ -473,25 +512,27 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……ほほう？\n続けて？",
-            "enText": "…… Hoho? Go on?",
+            "enText": "You've got my attention. Keep going.",
             "nextBlock": 21,
             "origClipLength": 59,
+            "voiceIdx": 9,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 4584921988622311445
+                },
                 {
                     "origLen": 16,
                     "pathId": -3077901531768809757
                 },
                 {
                     "origLen": 70,
-                    "pathId": 4584921988622311445
+                    "pathId": 6033932733228434011
                 },
                 {
                     "origLen": 70,
                     "pathId": 1610688010848872543
-                },
-                {
-                    "origLen": 70,
-                    "pathId": 6033932733228434011
                 }
             ],
             "pathId": 6301938943028219245,
@@ -501,25 +542,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "スカイさんとスペシャルウィークさん、\nそしてこの私！　一流のキング！",
-            "enText": "Ms. Sky, Special Week, and \nme! A first-class king!",
+            "enText": "You, Special Week, and, most<n>importantly, my\nfirst-rate self...",
             "nextBlock": 22,
             "origClipLength": 89,
+            "voiceIdx": 62,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 818607662809340379
+                },
                 {
                     "origLen": 100,
                     "pathId": 4929905007203764315
                 },
                 {
                     "origLen": 100,
-                    "pathId": 818607662809340379
+                    "pathId": 7956962834124462873
                 },
                 {
                     "origLen": 67,
                     "pathId": -2308570218544974766
-                },
-                {
-                    "origLen": 100,
-                    "pathId": 7956962834124462873
                 }
             ],
             "pathId": 1223366997819093777,
@@ -529,25 +572,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "私たちを称して、\n『三強』と呼ばれていることはご存じよね？",
-            "enText": "You know that they call us the \"Three \nStrong\", don't you?",
+            "enText": "The three of us, together, have been<n>dubbed the\n\"big three\"! Surely you've<n>heard?",
             "nextBlock": 23,
             "origClipLength": 82,
+            "voiceIdx": 90,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8395709947108956931
+                },
                 {
                     "origLen": 93,
                     "pathId": 8246521439156217171
                 },
                 {
                     "origLen": 93,
-                    "pathId": -8395709947108956931
+                    "pathId": 8737204485057072460
                 },
                 {
                     "origLen": 80,
                     "pathId": 6298850247827850860
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 8737204485057072460
                 }
             ],
             "pathId": 5923737875252960224,
@@ -557,33 +602,35 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "休養中のグラスワンダーさんは、\nクラシックには出てこられない。",
-            "enText": "Ms. Grass Wonder, who is on leave, will not \nbe able to appear in the Classic.",
+            "enText": "Since Grass Wonder is recuperating, she<n>won't be\nrunning in the Classics.",
             "nextBlock": 24,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 16,
-                    "pathId": -7880499773588316974
-                },
                 {
                     "origLen": 16,
                     "pathId": -2306172002312608886
                 },
                 {
                     "origLen": 16,
-                    "pathId": 8717453989195425973
+                    "pathId": -7880499773588316974
                 },
                 {
                     "origLen": 16,
                     "pathId": -1518214580968697262
                 },
                 {
-                    "origLen": 119,
-                    "pathId": 6440643104774421612
+                    "origLen": 16,
+                    "pathId": 8717453989195425973
                 },
                 {
                     "origLen": 123,
                     "pathId": -594675652302113325
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 6440643104774421612
                 }
             ],
             "pathId": -4863948890329885108,
@@ -593,25 +640,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "そしてエルコンドルパサーさん。\n彼女は王道路線を走らないと宣言しているわ。",
-            "enText": "And then there's Ms. El Condor Pacer. She's \ndeclared she won't run the high road.",
+            "enText": "And El Condor Pasa announced that she<n>isn't\ngoing to race for the crown.",
             "nextBlock": 25,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 131,
-                    "pathId": 2029920340744826666
-                },
                 {
                     "origLen": 126,
                     "pathId": -1154151336288199517
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 3914694310021932960
+                    "origLen": 131,
+                    "pathId": 2029920340744826666
                 },
                 {
                     "origLen": 77,
                     "pathId": -3038281927493427407
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3914694310021932960
                 }
             ],
             "pathId": 5253042119662633652,
@@ -621,29 +670,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "つまり今年のクラシックレースは――",
-            "enText": "In other words, this year's classic race―",
+            "enText": "In other words, in this year's Classic<n>races—",
             "nextBlock": 26,
             "origClipLength": 67,
+            "voiceIdx": 84,
+            "voiceSheetId": "051061001",
             "animData": [
-                {
-                    "origLen": 152,
-                    "pathId": -1850955181613996188
-                },
                 {
                     "origLen": 102,
                     "pathId": 5571410386502766484
                 },
                 {
-                    "origLen": 118,
-                    "pathId": -1778807067205894564
+                    "origLen": 152,
+                    "pathId": -1850955181613996188
                 },
                 {
                     "origLen": 103,
                     "pathId": -1057286266130446374
                 },
                 {
-                    "origLen": 16,
-                    "pathId": -7234582603660288840
+                    "origLen": 118,
+                    "pathId": -1778807067205894564
                 },
                 {
                     "origLen": 16,
@@ -651,11 +698,15 @@
                 },
                 {
                     "origLen": 16,
-                    "pathId": 6930242347583537583
+                    "pathId": -7234582603660288840
                 },
                 {
                     "origLen": 16,
                     "pathId": 8772420843696491854
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6930242347583537583
                 }
             ],
             "pathId": 4903924792207752077,
@@ -665,25 +716,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "私たちが中心になるってこと！\n楽しみだね、セイちゃんっ！",
-            "enText": "It means we're going to be the center of it \nall! I'm looking forward to it, Say!",
+            "enText": "Everyone will be watching us! Isn't that<n>exciting,\nSei?!",
             "nextBlock": 27,
             "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 855592632927151730
+                },
                 {
                     "origLen": 92,
                     "pathId": -8160527606892903723
                 },
                 {
                     "origLen": 92,
-                    "pathId": 855592632927151730
+                    "pathId": 3606864651239018312
                 },
                 {
                     "origLen": 57,
                     "pathId": -692462787987194646
-                },
-                {
-                    "origLen": 92,
-                    "pathId": 3606864651239018312
                 }
             ],
             "pathId": 1642204562317689035,
@@ -693,25 +746,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ちょっと、スペシャルウィークさん！\n打ち合わせと違うわよ！\nスカイさんの闘志を煽らないと！",
-            "enText": "Hey, Special Week! That's not what we \ndiscussed! We need to get Ms. Skye's fighting \nspirit fired up!",
+            "enText": "Special Week! We're not here for a<n>friendly chat. We're\nsupposed to be<n>lighting Sky's competitive spirit aflame!",
             "nextBlock": 28,
             "origClipLength": 103,
+            "voiceIdx": 99,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 550885455086394852
+                },
                 {
                     "origLen": 63,
                     "pathId": -1526392323528628488
                 },
                 {
                     "origLen": 114,
-                    "pathId": 550885455086394852
+                    "pathId": 55205800600267438
                 },
                 {
                     "origLen": 114,
                     "pathId": 8870401405980381929
-                },
-                {
-                    "origLen": 114,
-                    "pathId": 55205800600267438
                 }
             ],
             "pathId": -8216283298510888853,
@@ -721,25 +776,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あっ、ごめんなさいっ！\nつい興奮しちゃって……！",
-            "enText": "Oh, sorry! I just got excited. ……!",
+            "enText": "Oh, sorry! I got carried away...",
             "nextBlock": 29,
             "origClipLength": 76,
+            "voiceIdx": 14,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 3737447665687705607
+                },
                 {
                     "origLen": 87,
                     "pathId": -8634174654503233087
                 },
                 {
                     "origLen": 87,
-                    "pathId": 3737447665687705607
+                    "pathId": 6432346069162991649
                 },
                 {
                     "origLen": 52,
                     "pathId": -9064698818600927113
-                },
-                {
-                    "origLen": 87,
-                    "pathId": 6432346069162991649
                 }
             ],
             "pathId": 6629682057666383909,
@@ -749,25 +806,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "コホン。とにかく！\n今年の三冠をとるのはこのキングよっ！",
-            "enText": "Cohon. Anyway! It's this king who will win \nthe Triple Crown this year!",
+            "enText": "Ahem... Regardless! I shall be the one to<n>claim the\nTriple Crown this year!",
             "nextBlock": 30,
             "origClipLength": 81,
+            "voiceIdx": 3,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6589014528515909871
+                },
                 {
                     "origLen": 39,
                     "pathId": 6262288311483751530
                 },
                 {
                     "origLen": 92,
-                    "pathId": -6589014528515909871
+                    "pathId": -6363392589611525810
                 },
                 {
                     "origLen": 94,
                     "pathId": 8472248144824822912
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -6363392589611525810
                 }
             ],
             "pathId": -4467067731078929308,
@@ -777,25 +836,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ち、チガウぞよ！\nこのスペシャルが三冠だぞヨー！",
-            "enText": "No, no, no, no, no, no, no! This special is \nthe Triple Crown!",
+            "enText": "Uh, p-pardon?! I believe you are<n>mistaken! The\nTriple Crown is going to<n>none other than I!",
             "nextBlock": 31,
             "origClipLength": 76,
+            "voiceIdx": 16,
+            "voiceSheetId": "051001001",
             "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6140553170070643755
+                },
                 {
                     "origLen": 87,
                     "pathId": -3427280550049891828
                 },
                 {
                     "origLen": 87,
-                    "pathId": 6140553170070643755
+                    "pathId": -7670781300107524734
                 },
                 {
                     "origLen": 52,
                     "pathId": -3642633699091384280
-                },
-                {
-                    "origLen": 87,
-                    "pathId": -7670781300107524734
                 }
             ],
             "pathId": -7589841511867963797,
@@ -803,27 +864,29 @@
         },
         {
             "jpName": "2人",
-            "enName": "Both",
+            "enName": "Spe and King",
             "jpText": "おーっほっほっほ！",
-            "enText": "Oh-ho-ho!",
+            "enText": "Ohohoho!",
             "nextBlock": 32,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 1200122283446097584
+                },
                 {
                     "origLen": 33,
                     "pathId": 4382933203887134168
                 },
                 {
                     "origLen": 67,
-                    "pathId": 1200122283446097584
+                    "pathId": 2975391385579337696
                 },
                 {
                     "origLen": 45,
                     "pathId": -8469892274421922557
-                },
-                {
-                    "origLen": 67,
-                    "pathId": 2975391385579337696
                 }
             ],
             "pathId": -6284075512798490916,
@@ -833,33 +896,35 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……10点中2点。オチてないし、\nなによりちゃんと稽古してきた？",
-            "enText": "……2 out of 10. It's not funny, and more \nimportantly, have you practiced it properly?",
+            "enText": "Two outta ten—not funny at all. You<n>guys\nshould've practiced more on the<n>way over.",
             "nextBlock": 33,
             "origClipLength": 86,
+            "voiceIdx": 16,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 109,
-                    "pathId": -3751226697913729032
-                },
                 {
                     "origLen": 108,
                     "pathId": 1666821717522430057
                 },
                 {
-                    "origLen": 86,
-                    "pathId": -365448718907574196
+                    "origLen": 109,
+                    "pathId": -3751226697913729032
                 },
                 {
                     "origLen": 107,
                     "pathId": -5248401737953128197
                 },
                 {
-                    "origLen": 25,
-                    "pathId": -7015101353100604640
+                    "origLen": 86,
+                    "pathId": -365448718907574196
                 },
                 {
                     "origLen": 25,
                     "pathId": -1472140806737649440
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -7015101353100604640
                 }
             ],
             "pathId": 5473485896270713141,
@@ -869,25 +934,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "コントじゃないわっ！！",
-            "enText": "I'm not a contrarian!",
+            "enText": "This isn't a skit!",
             "nextBlock": 34,
             "origClipLength": 59,
+            "voiceIdx": 16,
+            "voiceSheetId": "051061001",
             "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -5288258603229189629
+                },
                 {
                     "origLen": 70,
                     "pathId": -4197568038150572220
                 },
                 {
                     "origLen": 70,
-                    "pathId": -5288258603229189629
+                    "pathId": -1141360344104675759
                 },
                 {
                     "origLen": 33,
                     "pathId": -4419930952552670945
-                },
-                {
-                    "origLen": 70,
-                    "pathId": -1141360344104675759
                 }
             ],
             "pathId": -2668409169470398038,
@@ -897,25 +964,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "キングヘイローとスペシャルウィークが\n去った後……。",
-            "enText": "After King Halo and Special Week left. ……",
+            "enText": "After King Halo and Special Week<n>leave...",
             "nextBlock": 35,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 117,
-                    "pathId": 5851890674993124266
-                },
                 {
                     "origLen": 130,
                     "pathId": 1127996748942387
                 },
                 {
-                    "origLen": 20,
-                    "pathId": 8396213470141479858
+                    "origLen": 117,
+                    "pathId": 5851890674993124266
                 },
                 {
                     "origLen": 20,
                     "pathId": -3279890176574794938
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 8396213470141479858
                 }
             ],
             "pathId": -694119630784855390,
@@ -925,17 +994,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あのコントはよくわかんないけど……\nまあ、大方の見方はキングと同じかな。",
-            "enText": "I'm not sure about that contraption.…… \nWell, I guess most of my views \nare the same as King's.",
+            "enText": "I'm not sure why they wanted to do a<n>comedy\nsketch, but I agree a lot with<n>what King said.",
             "nextBlock": 36,
             "origClipLength": 91,
+            "voiceIdx": 154,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -1091772849075692422
-                },
                 {
                     "origLen": 102,
                     "pathId": 3033503585928668485
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -1091772849075692422
                 }
             ],
             "pathId": 6760653193078922531,
@@ -945,17 +1016,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "そろそろ私も、\nおも～い腰をあげるとしますか。",
-            "enText": "I think it's time for me \nto get off my lazy ass.",
+            "enText": "Guess it's about time for me to get off<n>my butt.",
             "nextBlock": 37,
             "origClipLength": 87,
+            "voiceIdx": 62,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": 8048627152129310018
-                },
                 {
                     "origLen": 98,
                     "pathId": 3655467218742058640
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8048627152129310018
                 }
             ],
             "pathId": 2144399506034525203,
@@ -965,17 +1038,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "というわけで、狙うはクラシック三冠。\nまずは『皐月賞』ってことでよろしく～。",
-            "enText": "So, we are aiming for the classic Triple \nCrown. First of all, we are aiming at the \n\"Satsuki-sho\" (Satsuki-sho).",
+            "enText": "Which means we're going for the Classic<n>Triple\nCrown. First up is the Satsuki Sho<n>or whatever.",
             "nextBlock": 38,
             "origClipLength": 94,
+            "voiceIdx": 144,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 130,
-                    "pathId": 1361945420009724543
-                },
                 {
                     "origLen": 147,
                     "pathId": -3998171924694103356
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 1361945420009724543
                 }
             ],
             "pathId": -1055635832052147763,
@@ -985,29 +1060,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……軽いテンションで大変な目標が決まった！\nだが、クラシック三冠はウマ娘の栄誉。\n挑まない理由はない。",
-            "enText": "…… light tension has set a daunting goal! But \nthe Classic Triple Crown is an honor for \nhorsegirl. There is no reason not to take on \nthe challenge.",
+            "enText": "Though her tone doesn't convey it, she's<n>set her\nsights on a high target! The<n>Classic Triple Crown\nis an incredible<n>honor for any racer, even her.",
             "nextBlock": 39,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "頑張ろうな！",
-                    "enText": "Let's go for it!",
+                    "enText": "Let's put in extra effort!",
                     "nextBlock": 39
                 },
                 {
                     "jpText": "頑張ろうね！",
-                    "enText": "Let's go for it!",
+                    "enText": "Let's put in extra effort!",
                     "nextBlock": 39
                 }
             ],
             "animData": [
                 {
                     "origLen": 122,
-                    "pathId": -2514348144169054962
+                    "pathId": -2242573435833920144
                 },
                 {
                     "origLen": 122,
-                    "pathId": -2242573435833920144
+                    "pathId": -2514348144169054962
                 }
             ],
             "pathId": -6711837097991935878,
@@ -1017,17 +1094,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……がんばる、ねぇ。",
-            "enText": "…… Good luck, hey.",
+            "enText": "Sure, extra effort...",
             "nextBlock": 40,
             "origClipLength": 58,
+            "voiceIdx": 34,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": 6466749682933178777
-                },
                 {
                     "origLen": 69,
                     "pathId": -4722389384683672609
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 6466749682933178777
                 }
             ],
             "pathId": 7637443460261524435,
@@ -1037,17 +1116,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "まあ、本腰入れないと釣れないか～。\nちょっとがんばっちゃおうかなー……。",
-            "enText": "Well, I guess I'll have to get serious to \ncatch it! I think I'll try a little harder. ……",
+            "enText": "Can't reel in a big fish without putting<n>your back\ninto it. Maybe it's time to get<n>serious, huh?",
             "nextBlock": 41,
             "origClipLength": 91,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 108,
-                    "pathId": -8342639756603405644
-                },
                 {
                     "origLen": 102,
                     "pathId": -1737144998016835359
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8342639756603405644
                 }
             ],
             "pathId": 561219282692141473,
@@ -1057,17 +1138,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "一瞬、セイウンスカイの瞳がキラめく。\nしかし次の瞬間には――",
-            "enText": "For a moment, Seiunsky's eyes sparkle. But \nthe next moment―",
+            "enText": "Sky's eyes glimmer with enthusiasm for a<n>moment.\nBut the next second...",
             "nextBlock": 42,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 95,
-                    "pathId": -3351504540505473854
+                    "pathId": -8996786684360029557
                 },
                 {
                     "origLen": 95,
-                    "pathId": -8996786684360029557
+                    "pathId": -3351504540505473854
                 }
             ],
             "pathId": -1517490889016159022,
@@ -1077,17 +1160,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……なぁんて。セイちゃんはまったり、\nアタリを待ってますよっと。",
-            "enText": "…… Sei-chan is just sitting \nback and waiting for a bite.",
+            "enText": "As if! I'll just keep waiting for a bite.",
             "nextBlock": 43,
             "origClipLength": 86,
+            "voiceIdx": 61,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -8535049838871025809
-                },
                 {
                     "origLen": 97,
                     "pathId": -915283587471697600
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8535049838871025809
                 }
             ],
             "pathId": -6504406803068742473,
@@ -1097,22 +1182,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうしていよいよセイウンスカイも、\nクラシック戦線へ本格参戦する！",
-            "enText": "And now, at last, Seiunsky is ready to enter \nthe Classic race!",
+            "enText": "With this, Seiun Sky's campaign in the<n>Classics\nfinally begins!",
             "nextBlock": -1,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": -3173094320250258520
+                    "pathId": 4358254324603432557
                 },
                 {
                     "origLen": 99,
-                    "pathId": 4358254324603432557
+                    "pathId": -3173094320250258520
                 }
             ],
             "pathId": 5651726336649274456,
             "blockIdx": 43
         }
-    ],
-    "modified": 1662157386
+    ]
 }

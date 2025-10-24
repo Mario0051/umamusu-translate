@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "YGYCDFK64SKFTAT4QLF5EFECTJPUCBRO",
+    "version": 6,
+    "bundle": "MSU55KKIKVCZVL7MTQS335EKXF2KKOIW",
     "type": "story",
     "storyId": "501058729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あうぅ……すみません、\r\n私のためにお時間を使わせてしまって……。",
-            "enText": "Ahhh…… sorry to make you spend \nyour time on my behalf ……",
+            "enText": "Oh no... I'm sorry I made you waste your<n>time with\nmy request.",
             "nextBlock": 2,
             "origClipLength": 88,
+            "voiceIdx": 108,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "こちらこそ取れなくてごめん",
-                    "enText": "Sorry I couldn't get it for you.",
+                    "enText": "I'm sorry I couldn't get it for you.",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 8906534320046964055
+                    "pathId": 7383883789039225909
                 },
                 {
                     "origLen": 99,
-                    "pathId": 7383883789039225909
+                    "pathId": 8906534320046964055
                 }
             ],
             "pathId": 3244576481930369669,
@@ -36,17 +39,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "い、いえいえ……っ！",
-            "enText": "No, no, no… ……!",
+            "enText": "No, it's f-fine!",
             "nextBlock": 3,
             "origClipLength": 58,
+            "voiceIdx": 51,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -772560783326524752
-                },
                 {
                     "origLen": 69,
                     "pathId": 7820285323648116021
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -772560783326524752
                 }
             ],
             "pathId": -923699796502477322,
@@ -56,17 +61,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "やっぱり自信は自分でつけなきゃですし、\r\nぬいぐるみだってきっと、\nお友だちと離れたくないでしょうし……。",
-            "enText": "After all, you have to build your own \nconfidence, and I'm sure your stuffed animals \ndon't want to be separated from their \nfriends. I'm sure stuffed animals don't want \nto be separated from their friends. ……",
+            "enText": "I should really be thinking of ways to be<n>confident\non my own, and I'm sure the<n>plushies would hate\nto be separated<n>from their friends...",
             "nextBlock": 4,
             "origClipLength": 114,
+            "voiceIdx": 154,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 140,
-                    "pathId": 6323658789626986592
-                },
                 {
                     "origLen": 125,
                     "pathId": 5017064095703552050
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 6323658789626986592
                 }
             ],
             "pathId": 1054457657425988738,
@@ -76,17 +83,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "だから、その……これでよかったんですぅ。\r\nきっと、これで……。",
-            "enText": "So, I'm sure that…… this was fine. I'm sure \nthis is the way to go ……",
+            "enText": "So in a way, this is better. Yes, this is<n>how things\nshould be.",
             "nextBlock": 5,
             "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 766784375985210322
-                },
                 {
                     "origLen": 97,
                     "pathId": 6228752656058075112
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 766784375985210322
                 }
             ],
             "pathId": -4261009902204274860,
@@ -96,22 +105,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 5483259217807204681
+                    "pathId": 739998752701298945
                 },
                 {
                     "origLen": 72,
-                    "pathId": 739998752701298945
+                    "pathId": 5483259217807204681
                 }
             ],
             "pathId": 5439683267781382146,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555062
+    ]
 }

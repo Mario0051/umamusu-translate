@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "3TQ3N7ZPTNDG6LKXCFOFX4ADN2NPOMWO",
+    "version": 6,
+    "bundle": "RS5ZX5TQ2CPCRQHS5YUNYQ5UVNMSZ6XC",
     "type": "story",
     "storyId": "501003520",
     "title": "テイオーの武者修行",
+    "enTitle": "Teio's Warrior Training",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "前日のトレーニングの際、忘れ物をしたので\r\nグラウンドに取りに向かうと――",
-            "enText": "I'd forgotten something during training \nthe day before, so I headed to the \nfield to pick it up.",
+            "enText": "I realize that I left something behind at<n>training\nyesterday, so I head to the field<n>to get it.",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": 2249619735406391972
+                    "pathId": 4556637275307078352
                 },
                 {
                     "origLen": 80,
-                    "pathId": 4556637275307078352
+                    "pathId": 2249619735406391972
                 }
             ],
             "pathId": 3586793405698223483,
@@ -33,21 +36,23 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "いえーい！\r\nボクの勝ちぃ～♪",
-            "enText": "Yeah! I win!",
+            "enText": "Yayyy! I win! ♪",
             "nextBlock": 3,
             "origClipLength": 54,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": 8274250007902434070
                 },
                 {
-                    "origLen": 40,
-                    "pathId": -6118290811827926990
-                },
-                {
                     "origLen": 65,
                     "pathId": -5379847105199587658
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -6118290811827926990
                 }
             ],
             "pathId": -8974462575129290535,
@@ -55,23 +60,25 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ううっ！\r\n今度こそいけると思ったのに～。",
-            "enText": "Ugh! I thought I could make it this time～.",
+            "enText": "Grr! I thought I had you that time!",
             "nextBlock": 4,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": 4088514217060189299
                 },
                 {
-                    "origLen": 49,
-                    "pathId": 8131563801367787537
-                },
-                {
                     "origLen": 69,
                     "pathId": 1486720772773523742
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8131563801367787537
                 }
             ],
             "pathId": 892249152868027477,
@@ -79,11 +86,13 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "も～！\r\n次こそ勝って見せるんだからっ！",
-            "enText": "Oh, no! I'll show you I can win next time!",
+            "enText": "Hmph! I'm gonna win the next one for<n>sure!",
             "nextBlock": 5,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
@@ -91,11 +100,11 @@
                 },
                 {
                     "origLen": 69,
-                    "pathId": 5772026008707482393
+                    "pathId": -5483123492080236501
                 },
                 {
                     "origLen": 69,
-                    "pathId": -5483123492080236501
+                    "pathId": 5772026008707482393
                 }
             ],
             "pathId": 4220353995990412396,
@@ -105,21 +114,23 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "うんうん！\r\nまた今度誘ってね～♪",
-            "enText": "Mm-hm! Invite me out again sometime～♪",
+            "enText": "All right! Let me know next time you<n>wanna try! ♪",
             "nextBlock": 6,
             "origClipLength": 56,
+            "voiceIdx": 0,
+            "voiceSheetId": "051003001",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": -4524107835825159167
                 },
                 {
-                    "origLen": 27,
-                    "pathId": 6789047577653996904
-                },
-                {
                     "origLen": 67,
                     "pathId": 1113198192268568711
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6789047577653996904
                 }
             ],
             "pathId": 588690473668649567,
@@ -129,13 +140,15 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "お、トレーナーじゃん！\r\nこんなに早くどうしたの？",
-            "enText": "Oh, you're the trainer! What happened so fast?",
+            "enText": "Oh, Trainer! What are you doing here so<n>early?",
             "nextBlock": 7,
             "origClipLength": 61,
+            "voiceIdx": 56,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "忘れ物。そっちは？",
-                    "enText": "Forgot something. Where's that over there?",
+                    "enText": "I forgot something. How about you?",
                     "nextBlock": 7
                 }
             ],
@@ -145,12 +158,12 @@
                     "pathId": -6845472331646382686
                 },
                 {
-                    "origLen": 126,
-                    "pathId": 7948187647810176303
-                },
-                {
                     "origLen": 138,
                     "pathId": -239270046887955192
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7948187647810176303
                 }
             ],
             "pathId": 4013044949548960849,
@@ -160,17 +173,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "んー、なんだろ。\r\n友情を育んでた？　みたいな。",
-            "enText": "Hmmm, I wonder. Were you developing a \nfriendship? Like…",
+            "enText": "Mmm, hard to explain. Making friends?<n>Kinda?",
             "nextBlock": 8,
             "origClipLength": 60,
+            "voiceIdx": 34,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": 6939696034972188909
-                },
                 {
                     "origLen": 71,
                     "pathId": -879881346931384590
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 6939696034972188909
                 }
             ],
             "pathId": 3687196733132451532,
@@ -180,17 +195,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "最近、レースでいい走りをするなーって子が\r\nいたから、声かけてみたんだけど――",
-            "enText": "Recently, I saw a girl running well in a \nrace, so I asked her if she'd be interested.",
+            "enText": "I noticed this really good racer recently,<n>but when\nI tried talking to her...",
             "nextBlock": 9,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 7888870067213232495
-                },
                 {
                     "origLen": 81,
                     "pathId": 4107448039930389374
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7888870067213232495
                 }
             ],
             "pathId": -2076708935403350211,
@@ -200,17 +217,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ねえねえ！\r\nキミってこの前のレースに出てたよね？",
-            "enText": "Hey, hey! You were in the \nrace the other day, right?",
+            "enText": "Hey! We raced together the other day,<n>didn't we?",
             "nextBlock": 10,
             "origClipLength": 61,
+            "voiceIdx": 53,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 93,
-                    "pathId": 6534305002094236264
-                },
                 {
                     "origLen": 104,
                     "pathId": 5329304080119612154
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 6534305002094236264
                 }
             ],
             "pathId": -6761317057652057671,
@@ -218,19 +237,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "そうだけど、貴方は？",
-            "enText": "Yes, but what about you?",
+            "enText": "Yeah. And you are...",
             "nextBlock": 11,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 62,
-                    "pathId": 1490647790245139961
+                    "pathId": -6742187794837361276
                 },
                 {
                     "origLen": 62,
-                    "pathId": -6742187794837361276
+                    "pathId": 1490647790245139961
                 }
             ],
             "pathId": -6317647338262723678,
@@ -240,17 +261,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ボクはトウカイテイオー！\r\n“皇帝”を超える\n“無敗の帝王”になるウマ娘さ！",
-            "enText": "I am Tokai Teio! I'm the horsegirl \nwho will surpass the Emperor and \nbecome the undefeated king!",
+            "enText": "I'm Tokai Teio! The invincible monarch<n>who's\ngonna overthrow the Emperor!",
             "nextBlock": 12,
             "origClipLength": 69,
+            "voiceIdx": 61,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 3077638720974530239
-                },
                 {
                     "origLen": 80,
                     "pathId": -5020580716072220483
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3077638720974530239
                 }
             ],
             "pathId": 4130460657831461898,
@@ -260,17 +283,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あの時の追い込み、すごいなーって思ってさ！\r\nボクとも勝負してくんない？",
-            "enText": "I thought you did a great job of pushing that \ntime! Will you play with me too?",
+            "enText": "I thought you looked sooo cool when<n>you\novertook everyone! Wanna race<n>sometime?",
             "nextBlock": 13,
             "origClipLength": 68,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": -4214531803719927504
-                },
                 {
                     "origLen": 79,
                     "pathId": 4375215226755262210
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4214531803719927504
                 }
             ],
             "pathId": 8249194419663074518,
@@ -278,19 +303,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ええ……？",
-            "enText": "Yeah. ……?",
+            "enText": "Uh, what?",
             "nextBlock": 14,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 59,
-                    "pathId": -3920947063000133380
+                    "pathId": 7800202124686210703
                 },
                 {
                     "origLen": 59,
-                    "pathId": 7800202124686210703
+                    "pathId": -3920947063000133380
                 }
             ],
             "pathId": 224777936834835378,
@@ -300,17 +327,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ねーねー、おねが～い！\r\n絶対楽しい勝負になるからさっ♪",
-            "enText": "Hey, hey, hey, hey! It's going to be a fun \nmatch for sure!",
+            "enText": "Come on! Pleeease! I promise it'll be<n>super fun! ♪",
             "nextBlock": 15,
             "origClipLength": 76,
+            "voiceIdx": 39,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 299238124673265193
-                },
                 {
                     "origLen": 106,
                     "pathId": 653079347754589002
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 299238124673265193
                 }
             ],
             "pathId": 755625153006365148,
@@ -318,19 +347,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "はぁ、はぁ……。\r\nまさか私が負けるなんて……。",
-            "enText": "Huh, huh…… I never thought I would lose. ……",
+            "enText": "<i>Pant, pant...</i> I can't believe I lost...",
             "nextBlock": 16,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 103,
-                    "pathId": 5670649860893874237
-                },
                 {
                     "origLen": 135,
                     "pathId": 5438365911627399865
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 5670649860893874237
                 }
             ],
             "pathId": 4151585233341068415,
@@ -340,17 +371,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "へへっ、楽しかった～♪\r\n思った通り、いい勝負が出来たね！",
-            "enText": "Hehehe, that was fun～…just as I thought, we \nhad a good match!",
+            "enText": "Hehe. That was mega fun, right? I knew<n>you were\ngonna put up a good fight!",
             "nextBlock": 17,
             "origClipLength": 63,
+            "voiceIdx": 59,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -6042728685014562366
-                },
                 {
                     "origLen": 74,
                     "pathId": -430295500737114275
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -6042728685014562366
                 }
             ],
             "pathId": -6187099193073953675,
@@ -358,19 +391,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ううっ！　ひと汗かいて\r\n気持ちいいみたいに言わないでくれる！？",
-            "enText": "Ugh! Don't make it sound like it feels good \nto work up a sweat!",
+            "enText": "Ugh! Is this all just fun and games to<n>you?",
             "nextBlock": 18,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
-                    "pathId": -2746631037264194416
+                    "pathId": 6752680065502553996
                 },
                 {
                     "origLen": 76,
-                    "pathId": 6752680065502553996
+                    "pathId": -2746631037264194416
                 }
             ],
             "pathId": 2478777517380370046,
@@ -378,19 +413,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "こうなったら……また今度、勝負しなさい！\r\n『楽しかった』だけで終わらせないんだから！",
-            "enText": "If this happens…… another time, \nyou'll have to play! You don't \nend it with just 'it was fun'!",
+            "enText": "This isn't over... You better race me<n>again! And\nbrace yourself, 'cause next<n>time it won't just be\nfor \"fun\"!",
             "nextBlock": 19,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 4485020221208915030
-                },
                 {
                     "origLen": 84,
                     "pathId": 7488840074601648439
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4485020221208915030
                 }
             ],
             "pathId": -993576617292102308,
@@ -400,17 +437,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "へ～！\r\nいいじゃん乗ったっ！",
-            "enText": "Hee～! I like it, I'm on it!",
+            "enText": "Whoa! Yeah, count me in!",
             "nextBlock": 20,
             "origClipLength": 54,
+            "voiceIdx": 48,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 1920495101483010767
-                },
                 {
                     "origLen": 65,
                     "pathId": 6478925968279361136
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1920495101483010767
                 }
             ],
             "pathId": -5524635509532745590,
@@ -420,17 +459,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "そうと決まったら……\r\n打ち上げで親睦を深めようではないかっ♪",
-            "enText": "If we decide to do so, let's have a…… launch \nand fellowship… ♪",
+            "enText": "Well, if we're gonna be racing more, why<n>don't we\nhang out and get to know each<n>other better? ♪",
             "nextBlock": 21,
             "origClipLength": 65,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": -1545043338786227331
-                },
                 {
                     "origLen": 76,
                     "pathId": 5629368812908541941
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -1545043338786227331
                 }
             ],
             "pathId": -2044888474332929359,
@@ -438,19 +479,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "えっ！？",
-            "enText": "What?",
+            "enText": "Huh?!",
             "nextBlock": 22,
             "origClipLength": 47,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": -8731010800513784999
+                    "pathId": -3230605354320518898
                 },
                 {
                     "origLen": 58,
-                    "pathId": -3230605354320518898
+                    "pathId": -8731010800513784999
                 }
             ],
             "pathId": -25515249941629856,
@@ -460,17 +503,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "コースに入れば誰もがライバル！\r\nコースを抜ければみんな友だちって言うしね♪",
-            "enText": "Once you're on the course, everyone's a \ncompetitor! And when you leave the course, \neveryone is your friend.",
+            "enText": "You know what they say: \"Rivals on the<n>track,\nfriends off the track!\"",
             "nextBlock": 23,
             "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 185406570139017742
-                },
                 {
                     "origLen": 80,
                     "pathId": -2078626615856241443
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 185406570139017742
                 }
             ],
             "pathId": 403975748538805124,
@@ -478,19 +523,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "そんなの聞いたことないんだけど……！？",
-            "enText": "I've never heard of such a thing. ……!",
+            "enText": "I've never heard that saying in my life.",
             "nextBlock": 24,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 68,
-                    "pathId": 8257049586517175541
+                    "pathId": -5001794085627697648
                 },
                 {
                     "origLen": 68,
-                    "pathId": -5001794085627697648
+                    "pathId": 8257049586517175541
                 }
             ],
             "pathId": 8551652725427616663,
@@ -500,17 +547,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "いいじゃんいいじゃん！\r\n食堂のミニパフェ、一緒に食べようよ～♪",
-            "enText": "That's good, that's good, that's good! Let's \nhave a mini parfait at the cafeteria together!",
+            "enText": "Well, now you have! C'mon, let's grab<n>some mini\nparfaits from the cafeteria. ♪",
             "nextBlock": 25,
             "origClipLength": 65,
+            "voiceIdx": 53,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 8535509237637394856
-                },
                 {
                     "origLen": 76,
                     "pathId": -1586239530951016193
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 8535509237637394856
                 }
             ],
             "pathId": 4327774844660271911,
@@ -518,19 +567,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ちょ、ちょっと！？\r\n引っ張らないでよ～～～～～！",
-            "enText": "Hey, hey, hey! Don't pull that on me. ～～～～～!",
+            "enText": "H-hey! Let go of meee!",
             "nextBlock": 26,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 148,
-                    "pathId": -1331283381310777007
-                },
                 {
                     "origLen": 166,
                     "pathId": -4112682479366213337
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -1331283381310777007
                 }
             ],
             "pathId": 2749659104737515544,
@@ -540,9 +591,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "って感じで、それからちょくちょく\r\n空き時間に勝負してたんだ～。",
-            "enText": "So I started playing in my free \ntime every now and then.",
+            "enText": "So yeah, we've been racing each other in<n>our free\ntime ever since.",
             "nextBlock": 27,
             "origClipLength": 65,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "トレーニングじゃ物足りないか？",
@@ -551,28 +604,28 @@
                 },
                 {
                     "jpText": "トレーニングじゃ物足りない？",
-                    "enText": "Training not enough?",
+                    "enText": "Training not enough for you?",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "いい友だちが出来たんだな",
-                    "enText": "You must have made some good friends.",
+                    "enText": "Sounds like you made a good friend.",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "いい友だちが出来たんだね",
-                    "enText": "You've made some good friends.",
+                    "enText": "Sounds like you made a good friend.",
                     "nextBlock": 34
                 }
             ],
             "animData": [
                 {
-                    "origLen": 101,
-                    "pathId": 7173203520446131919
-                },
-                {
                     "origLen": 145,
                     "pathId": 486362006268840514
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7173203520446131919
                 }
             ],
             "pathId": 823064752878681379,
@@ -582,9 +635,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "って感じで、それからちょくちょく\r\n空き時間に勝負してたんだ～。",
-            "enText": "So I started playing in my free \ntime every now and then.",
+            "enText": "So yeah, we've been racing each other in<n>our free\ntime ever since.",
             "nextBlock": 28,
             "origClipLength": 65,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "トレーニングじゃ物足りないか？",
@@ -593,28 +648,28 @@
                 },
                 {
                     "jpText": "トレーニングじゃ物足りない？",
-                    "enText": "Training not enough?",
+                    "enText": "Training not enough for you?",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "いい友だちが出来たんだな",
-                    "enText": "You must have made some good friends.",
+                    "enText": "Sounds like you made a good friend.",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "いい友だちが出来たんだね",
-                    "enText": "You've made some good friends.",
+                    "enText": "Sounds like you made a good friend.",
                     "nextBlock": 34
                 }
             ],
             "animData": [
                 {
-                    "origLen": 124,
-                    "pathId": -9109698317801121783
-                },
-                {
                     "origLen": 146,
                     "pathId": -833966171750717176
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -9109698317801121783
                 }
             ],
             "pathId": 7063747660696335346,
@@ -624,17 +679,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ううん。ボクが楽しいからやってるんだ！\r\n強い子と戦うのはワクワクするしね。",
-            "enText": "No, I do it because it's fun! I \ndo it because it's fun! It's exciting \nto fight a strong girl.",
+            "enText": "That's not it. I'm just having fun! I get so<n>excited\nwhen I'm up against a tough<n>opponent!",
             "nextBlock": 29,
             "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -2350854098395805686
-                },
                 {
                     "origLen": 80,
                     "pathId": 2170326889742793562
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -2350854098395805686
                 }
             ],
             "pathId": 8867127814018129893,
@@ -644,17 +701,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "それに、あの子とも仲良くなって、\r\nたまに遊びに行ったりするようになったし。",
-            "enText": "Besides, I've become friends with her and we \nhang out sometimes.",
+            "enText": "Plus, I've gotten to know her, and<n>sometimes we\nhang out together!",
             "nextBlock": 30,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 8545772210820991558
-                },
                 {
                     "origLen": 80,
                     "pathId": -1863746116049100275
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 8545772210820991558
                 }
             ],
             "pathId": 2327043188203399511,
@@ -664,29 +723,31 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "勝負できるし、友だちもできた！\r\nいいこと尽くしだよねっ♪",
-            "enText": "I can compete and make friends! It's all \ngood, isn't it?",
+            "enText": "More races, <i>and</i> more friends! What's<n>not to\nlove? ♪",
             "nextBlock": 31,
             "origClipLength": 63,
+            "voiceIdx": 5,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "あまり無理しないようにな",
-                    "enText": "Don't take it too hard.",
+                    "enText": "Just don't go too crazy, all right?",
                     "nextBlock": 31
                 },
                 {
                     "jpText": "あまり無理しないようにね",
-                    "enText": "Don't take it too hard.",
+                    "enText": "Just don't go too crazy, all right?",
                     "nextBlock": 31
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": 6769053815667426250
-                },
-                {
                     "origLen": 74,
                     "pathId": 7650381414810515385
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 6769053815667426250
                 }
             ],
             "pathId": -2998480780421210770,
@@ -696,17 +757,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "大丈夫だよ！\r\nこれくらいでバテるボクじゃないもん！",
-            "enText": "I'll be fine! I'm not the kind of person who \ngets exhausted from something like this!",
+            "enText": "I'm doing fine! It takes way more than<n>this to wear\n<i>me</i> out!",
             "nextBlock": 32,
             "origClipLength": 61,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": 2868443788886765147
-                },
                 {
                     "origLen": 72,
                     "pathId": -5841780179013392128
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 2868443788886765147
                 }
             ],
             "pathId": -613563948823869531,
@@ -716,17 +779,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "今度はダートで走るんだ～。\r\n早く勝負の日にならないかな～♪",
-            "enText": "Now I'm going to run on dirt～! I can't wait \nfor the day of the competition!!!",
+            "enText": "We're gonna run on dirt next! Ooh, I<n>can't wait! ♪",
             "nextBlock": 33,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": -1725052616351509094
-                },
                 {
                     "origLen": 75,
                     "pathId": -1318133854573572337
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -1725052616351509094
                 }
             ],
             "pathId": 5605782844363137092,
@@ -736,17 +801,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "新しい友人の存在はトウカイテイオーに\r\nいい影響を与えているようだ。",
-            "enText": "The presence of her new friend seems to be \nhaving a positive effect on Tokai Teio.",
+            "enText": "Well, it looks like Tokai Teio's new<n>friend has\nbeen a good influence on her.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 78,
-                    "pathId": -4320343690663153591
+                    "pathId": -690240160195142637
                 },
                 {
                     "origLen": 78,
-                    "pathId": -690240160195142637
+                    "pathId": -4320343690663153591
                 }
             ],
             "pathId": 2775931088131919556,
@@ -756,17 +823,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "うん！",
-            "enText": "Yeah!",
+            "enText": "Yep!",
             "nextBlock": 35,
             "origClipLength": 46,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 8,
-                    "pathId": -5876534677098286766
-                },
                 {
                     "origLen": 57,
                     "pathId": -4800702160508506947
+                },
+                {
+                    "origLen": 8,
+                    "pathId": -5876534677098286766
                 }
             ],
             "pathId": -5590306101113194747,
@@ -776,17 +845,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "この前はね～、レース中に\r\n集団を抜け出すコツを教えてもらったんだ！",
-            "enText": "Last time I was here - you taught me how to \nbreak away from the pack during a race!",
+            "enText": "Oh, and the other day, she told me the<n>secret to\npulling away from the pack!",
             "nextBlock": 36,
             "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 2662192612206616615
-                },
                 {
                     "origLen": 78,
                     "pathId": 3157466633653102485
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 2662192612206616615
                 }
             ],
             "pathId": 654538005081270887,
@@ -796,24 +867,26 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "細かいことは忘れたけど……サッと入って\r\nシュッと抜けて、バビューンって感じ！",
-            "enText": "I don't remember the details, but…… it's in, \nout, and ba-boom!",
+            "enText": "I forgot the details, but basically you<n>gotta slip\ninto an opening like <i>whoop,</i><n>then break away like\n<i>whoosh,</i> then you<n>go like <i>vavoosh!</i>",
             "nextBlock": 37,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "えっ？",
-                    "enText": "What?",
+                    "enText": "Va-what?",
                     "nextBlock": 37
                 }
             ],
             "animData": [
                 {
-                    "origLen": 35,
-                    "pathId": 2407451296341130276
-                },
-                {
                     "origLen": 81,
                     "pathId": -8862790959928051022
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 2407451296341130276
                 }
             ],
             "pathId": -7910189411901052063,
@@ -823,17 +896,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "サッでシュッでバビューンだって！\r\nあー、今度レースで試してみたいな～♪",
-            "enText": "I heard it's all \"Sass, shucks, and ba-boom! \nOh, I want to try it at a race next time!",
+            "enText": "<i>Whoop, whoosh, vavoosh!</i> Duh! Oh, I<n>can't <i>wait</i>\nto try it out in my next race! ♪",
             "nextBlock": 38,
             "origClipLength": 68,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 6240278135208613401
-                },
                 {
                     "origLen": 79,
                     "pathId": -5382660597444651047
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 6240278135208613401
                 }
             ],
             "pathId": -6931080328303016889,
@@ -843,17 +918,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女の話すコツについては、\r\n完全に理解することが出来なかったが……。",
-            "enText": "I was never able to fully understand her \nknack for speaking, but ……",
+            "enText": "I didn't quite understand the so-called<n>secret...",
             "nextBlock": 39,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 78,
-                    "pathId": 7724534634749972520
+                    "pathId": -140346141858071570
                 },
                 {
                     "origLen": 78,
-                    "pathId": -140346141858071570
+                    "pathId": 7724534634749972520
                 }
             ],
             "pathId": -3817532418670183195,
@@ -863,12 +940,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "新しい友人の存在はトウカイテイオーに\r\nいい影響を与えているようだ。",
-            "enText": "The presence of her new friend seems to be \nhaving a positive effect on Tokai Teio.",
+            "enText": "But, well, it looks like Tokai Teio's new<n>friend has\nbeen a good influence on her.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7299460540275105108,
             "blockIdx": 39
         }
-    ],
-    "modified": 1657555247
+    ]
 }

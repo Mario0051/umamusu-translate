@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "W5R7WBFNECK73MVYNHT4UHA67LR6NLFE",
+    "version": 6,
+    "bundle": "E2KC7BOMBYBHBYV7VF7OMSKPEHHD5OPX",
     "type": "story",
     "storyId": "501005305",
     "title": "弥生賞の後に・君にサプライズ",
+    "enTitle": "After the Yayoi Sho: A Surprise for You",
     "text": [
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "フジキセキ！　期待通りの、\n素晴らしいレースをみせてくれました！",
-            "enText": "Fujikiseki! As expected, she \nshowed us a great race!",
+            "enText": "Fuji Kiseki's taken the win! As expected,<n>she\nperformed remarkably!",
             "nextBlock": 2,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -815243666825165314,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "観客A",
             "enName": "Spectator A",
             "jpText": "ますます磨きがかかってきたなぁ！\nロケットみたいな瞬発力でさ――",
-            "enText": "You're getting more and more polished! You've \ngot that rocket-like energy…",
+            "enText": "She's just getting better and better! Did<n>you see\nthat explosive power of hers?<n>She shot out of the\npaddock like a<n>rocket!",
             "nextBlock": 3,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1796640633578602746,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "観客B",
             "enName": "Spectator B",
             "jpText": "いやー、絶対今年はフジキセキが\n三冠達成するでしょー！　楽しみだね！",
-            "enText": "Well, I'm sure Fujikiseki will win the Triple \nCrown this year! I'm looking forward to it!",
+            "enText": "Oh, I just know she'll win the Triple<n>Crown this\nyear! I'm so excited!",
             "nextBlock": 4,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5705296613167313706,
             "blockIdx": 3
         },
@@ -39,9 +46,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "（みんな、私に期待してくれている！）",
-            "enText": "(They're all counting on me!)",
+            "enText": "(They all have so much faith in me!)",
             "nextBlock": 5,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 105,
@@ -49,11 +58,11 @@
                 },
                 {
                     "origLen": 113,
-                    "pathId": -6601195531947389171
+                    "pathId": 6505734182723317348
                 },
                 {
                     "origLen": 113,
-                    "pathId": 6505734182723317348
+                    "pathId": -6601195531947389171
                 }
             ],
             "pathId": 3932215204968548608,
@@ -63,21 +72,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "――よし……！",
-            "enText": "―Okay, ……!",
+            "enText": "Perfect!",
             "nextBlock": 6,
             "origClipLength": 54,
+            "voiceIdx": 11,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 17,
                     "pathId": -3584629995239509121
                 },
                 {
-                    "origLen": 113,
-                    "pathId": 6321569397763762112
-                },
-                {
                     "origLen": 65,
                     "pathId": 7989602965243426896
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6321569397763762112
                 }
             ],
             "pathId": -7540045609717378479,
@@ -87,17 +98,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "レースを終えたその日。\n腹ごなしに散歩をしていると――",
-            "enText": "The day after the race. I was taking a walk \nto relieve my hunger―",
+            "enText": "The race is long over, and I'm taking a<n>stroll to\nhelp my dinner digest, when...",
             "nextBlock": 7,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -7339065113337705031
-                },
                 {
                     "origLen": 34,
                     "pathId": 6581899307858116241
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -7339065113337705031
                 }
             ],
             "pathId": -678924946756894367,
@@ -110,6 +123,8 @@
             "enText": "Haaaaah!",
             "nextBlock": 8,
             "origClipLength": 55,
+            "voiceIdx": 125,
+            "voiceSheetId": "051005001",
             "pathId": 5112021969444417505,
             "blockIdx": 7
         },
@@ -117,24 +132,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "フジキセキが、トレーニングを行っていた。",
-            "enText": "Fujikiseki was training.",
+            "enText": "I find Fuji Kiseki training by herself.",
             "nextBlock": 9,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "フジキセキ？",
-                    "enText": "Fujikiseki?",
+                    "enText": "What are you doing here?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 28,
-                    "pathId": 3052389487649345664
-                },
-                {
                     "origLen": 39,
                     "pathId": 4202245716582620101
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3052389487649345664
                 }
             ],
             "pathId": -7543327885435407745,
@@ -144,21 +161,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "トレーナーさん！\nああ、なにも伝えずにごめんね！",
-            "enText": "Hey, trainer! Oh, I'm sorry \nI didn't tell you anything!",
+            "enText": "Hi, Trainer! Sorry for slipping off without<n>saying\nanything!",
             "nextBlock": 10,
             "origClipLength": 76,
+            "voiceIdx": 26,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 80,
                     "pathId": 539782480407849436
                 },
                 {
-                    "origLen": 88,
-                    "pathId": 2384815581523176054
-                },
-                {
                     "origLen": 87,
                     "pathId": 1607091881826888669
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 2384815581523176054
                 }
             ],
             "pathId": 2998096286096215415,
@@ -168,21 +187,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "その、次のレースはいよいよ\nクラシック三冠の初戦、『皐月賞』だろう？",
-            "enText": "Well, the next race will be the \nfirst race of the classic Triple \nCrown, the Satsuki Sho, right?",
+            "enText": "My next race is the Satsuki Sho—the first<n>race of\nthe Classic Triple Crown.",
             "nextBlock": 11,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
                     "pathId": 8890629361002402208
                 },
                 {
-                    "origLen": 102,
-                    "pathId": 2689739993664033554
-                },
-                {
                     "origLen": 100,
                     "pathId": -6428710768219489722
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2689739993664033554
                 }
             ],
             "pathId": -5985885852229074876,
@@ -192,17 +213,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "大々的に宣伝、放送される\r\nクラシック級の中でも注目度の高いレースだ。",
-            "enText": "This is one of the most highly publicized and \nbroadcast races of the Classic class.",
+            "enText": "It's a high-profile race even among the<n>classic\nraces, widely advertised and<n>broadcast\neverywhere.",
             "nextBlock": 12,
             "origClipLength": 90,
+            "voiceIdx": 34,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 1946849992328908091
-                },
                 {
                     "origLen": 101,
                     "pathId": 158724068156732346
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1946849992328908091
                 }
             ],
             "pathId": 8571177508777963090,
@@ -212,17 +235,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "みんなが期待して待ってくれている。\r\nそう思うと、いてもたってもいられなくて。",
-            "enText": "Everyone is waiting for me with anticipation. \nWhen I thought of that, I couldn't stay.",
+            "enText": "Everyone has high hopes for me. When I<n>think\nabout how much they expect from<n>me, I just can't\nsit still.",
             "nextBlock": 13,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": 4128978887677153545
-                },
                 {
                     "origLen": 106,
                     "pathId": 7551184792347552620
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 4128978887677153545
                 }
             ],
             "pathId": 1918190429273687165,
@@ -232,18 +257,20 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "少なからず、プレッシャーがあるのだろう。\n彼女だけに背負わせるわけにはいかない。",
-            "enText": "There must be a small amount of pressure. We \ncan't let her carry it alone.",
+            "enText": "It seems the pressure is weighing on her.<n>I can't let\nher shoulder it all on her own.",
             "nextBlock": 14,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "俺も付き合うよ",
-                    "enText": "I'll go out with you.",
+                    "enText": "Let me join you.",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "私も付き合うよ",
-                    "enText": "I'll go out with you.",
+                    "enText": "Let me join you.",
                     "nextBlock": 14
                 }
             ],
@@ -253,12 +280,12 @@
                     "pathId": -269832041718320846
                 },
                 {
-                    "origLen": 109,
-                    "pathId": -1567493827894908909
-                },
-                {
                     "origLen": 108,
                     "pathId": -4955566404907887634
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1567493827894908909
                 }
             ],
             "pathId": 7488304709772183347,
@@ -268,18 +295,20 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "本当に？　いいのかい？\nでも、今日は疲れているんじゃ……。",
-            "enText": "Are you sure? Are you sure? \nBut you're tired today. ……",
+            "enText": "Really? Are you sure? But you must be<n>tired from\ntoday...",
             "nextBlock": 15,
             "origClipLength": 82,
+            "voiceIdx": 27,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "君のトレーナーだから",
-                    "enText": "I'm your trainer.",
+                    "enText": "I'm sure. I'm your trainer, aren't I?",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "貴方のトレーナーだから",
-                    "enText": "I'm your trainer.",
+                    "enText": "I'm sure. I'm your trainer, aren't I?",
                     "nextBlock": 15
                 }
             ],
@@ -289,12 +318,12 @@
                     "pathId": -7068033266180219935
                 },
                 {
-                    "origLen": 94,
-                    "pathId": 8435581050769890152
-                },
-                {
                     "origLen": 93,
                     "pathId": 7961343145855515990
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8435581050769890152
                 }
             ],
             "pathId": 4106352452798130978,
@@ -304,17 +333,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……ふふっ、そっか！",
-            "enText": "…… Phew, I see!",
+            "enText": "Hehe! So you are!",
             "nextBlock": 16,
             "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -3522497447667740852
-                },
                 {
                     "origLen": 69,
                     "pathId": 322729429364499821
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3522497447667740852
                 }
             ],
             "pathId": 3159507085304611136,
@@ -324,17 +355,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "それじゃ、甘えさせてもらおうかな！\nありがとうトレーナーさん。",
-            "enText": "Well then, let me spoil you! Thanks trainer.",
+            "enText": "Thank you. I'll take you up on your offer,<n>then.",
             "nextBlock": 17,
             "origClipLength": 85,
+            "voiceIdx": 13,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -6475279078444456832
-                },
                 {
                     "origLen": 96,
                     "pathId": 1786691631151482700
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -6475279078444456832
                 }
             ],
             "pathId": -4245036623296931431,
@@ -344,17 +377,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そんなわけで、\r\n門限ぎりぎりまでのトレーニングが始まった。",
-            "enText": "And so the training began, \nuntil just before curfew.",
+            "enText": "We train until it's almost curfew.",
             "nextBlock": 18,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 96,
-                    "pathId": 7289187237743803510
-                },
                 {
                     "origLen": 95,
                     "pathId": 4335396730046275074
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7289187237743803510
                 }
             ],
             "pathId": -1516280560577304564,
@@ -364,21 +399,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふぅ……はぁ……。\nタイムはどうだった？",
-            "enText": "Phew…… haha…… How was your time?",
+            "enText": "<i>Huff... Puff...</i> How was my time?",
             "nextBlock": 19,
             "origClipLength": 92,
+            "voiceIdx": 58,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 18,
                     "pathId": 8996995331293731402
                 },
                 {
-                    "origLen": 126,
-                    "pathId": 5664858313136796350
-                },
-                {
                     "origLen": 148,
                     "pathId": 8169342019818468965
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 5664858313136796350
                 }
             ],
             "pathId": 4397791810830082977,
@@ -388,17 +425,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "手元のストップウォッチを見せる。\n自己ベストに近い、悪くないタイムだった。\nしかし――",
-            "enText": "I show her the stopwatch in my hand. \nIt was not a bad time, close to \nher personal best. However―",
+            "enText": "I look at the stopwatch in my hand. It's a<n>good\ntime, close to her personal best,<n>but...",
             "nextBlock": 20,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -2913724123308709355
-                },
                 {
                     "origLen": 112,
                     "pathId": -8447601223139989355
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2913724123308709355
                 }
             ],
             "pathId": 8349546836497007332,
@@ -408,21 +447,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "うーん！　まだまだだね。",
-            "enText": "Hmmm! I guess I'm not done yet.",
+            "enText": "Hmm... That's not good enough.",
             "nextBlock": 21,
             "origClipLength": 60,
+            "voiceIdx": 88,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 76,
                     "pathId": -9007127034476298044
                 },
                 {
-                    "origLen": 26,
-                    "pathId": -4522992672823981823
-                },
-                {
                     "origLen": 71,
                     "pathId": 7567500560477146014
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -4522992672823981823
                 }
             ],
             "pathId": 8246259115445194559,
@@ -432,21 +473,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "みんなが望むショーをするなら、\nただ走って勝つだけじゃ足りないんだ。",
-            "enText": "If you want to put on a show that people want \nto see, it's not enough to just run and win.",
+            "enText": "In order to give everyone the show they<n>really\nwant, it won't be enough for me to<n>simply run and\nwin.",
             "nextBlock": 22,
             "origClipLength": 89,
+            "voiceIdx": 64,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -2314736065787604890
                 },
                 {
-                    "origLen": 88,
-                    "pathId": -6386468570021676111
-                },
-                {
                     "origLen": 100,
                     "pathId": 4231735391375841320
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -6386468570021676111
                 }
             ],
             "pathId": 2297750380055517269,
@@ -456,17 +499,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "トップスピードのその先、限界から\r\nもう1歩伸びるような走りができないかな。",
-            "enText": "Beyond the top speed, I wonder \nif it is possible to run one \nmore step beyond the limit.",
+            "enText": "I wonder if I can go beyond my top<n>speed and\nstretch my limit just one step<n>further.",
             "nextBlock": 23,
             "origClipLength": 94,
+            "voiceIdx": 37,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -4923803805488213259
-                },
                 {
                     "origLen": 105,
                     "pathId": -4847596383162459567
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4923803805488213259
                 }
             ],
             "pathId": -9096527419912950754,
@@ -476,21 +521,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "きっとみんなを驚かせるレースに\nなると思うんだけど……。",
-            "enText": "I'm sure it will be a race that \nwill surprise everyone. ……",
+            "enText": "I'm sure it would make for a surprising<n>race, but...",
             "nextBlock": 24,
             "origClipLength": 81,
+            "voiceIdx": 34,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 88,
                     "pathId": 7030158826512703929
                 },
                 {
-                    "origLen": 88,
-                    "pathId": -3162876429246807333
-                },
-                {
                     "origLen": 92,
                     "pathId": 1487047791096492708
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3162876429246807333
                 }
             ],
             "pathId": -179725786117955576,
@@ -500,9 +547,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "やっぱりペース配分かな。\nもう少しだけ、私の限界を探ってみるよ！",
-            "enText": "I guess it's pacing after all. I'll explore \nmy limits just a little longer!",
+            "enText": "I guess it's all in the pacing. I'm going to<n>stay a\nlittle longer and work on figuring<n>out my limits!",
             "nextBlock": 25,
             "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 17,
@@ -510,11 +559,11 @@
                 },
                 {
                     "origLen": 58,
-                    "pathId": -3920125651112015964
+                    "pathId": 5523523531960821962
                 },
                 {
                     "origLen": 58,
-                    "pathId": 5523523531960821962
+                    "pathId": -3920125651112015964
                 }
             ],
             "pathId": 188780241950700902,
@@ -524,13 +573,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "それからフジキセキは、より高みを目指して\r\n何度も試行錯誤を重ねていた。",
-            "enText": "Then Fujikiseki made many attempts \nto reach a higher level.",
+            "enText": "She tries, fails, and tries again as she<n>attempts to\naim higher and get better.",
             "nextBlock": 26,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（そろそろ止めた方がいいかな）",
-                    "enText": "(I think it's time to stop.)",
+                    "enText": "(I should stop her soon.)",
                     "nextBlock": 26
                 }
             ],
@@ -541,9 +592,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "1日のトレーニング量にしては多すぎる。\r\nこれがラストだ、と顔を上げると――",
-            "enText": "Too much training for one day. This is the \nlast, and when I look up―",
+            "enText": "She's trained far more than she should in<n>a day.\nJust when I glance up to tell her<n>this will be her\nlast lap...",
             "nextBlock": 27,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6303615632459111814,
             "blockIdx": 26
         },
@@ -551,13 +604,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "鮮烈なスピードで駆け抜ける\n彼女の姿があった。",
-            "enText": "There she was, running through the streets at \nbreakneck speed.",
+            "enText": "I catch sight of her streaming past me at<n>an\nunbelievable speed.",
             "nextBlock": 28,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（……！）",
-                    "enText": "(……!)",
+                    "enText": "...!",
                     "nextBlock": 28
                 }
             ],
@@ -568,9 +623,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "もっと、もっと……ッ！\nもっと先へ……ッ！",
-            "enText": "More, more ……! More to ……!",
+            "enText": "Faster! I have to run... faster!",
             "nextBlock": 29,
             "origClipLength": 72,
+            "voiceIdx": 64,
+            "voiceSheetId": "051005001",
             "pathId": -8518777337522068899,
             "blockIdx": 28
         },
@@ -578,9 +635,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トップスピードはさらに上がる。\n土が舞い、風が鳴る。",
-            "enText": "Top speed increases even more. The earth \ndances and the wind whistles.",
+            "enText": "She's running beyond her top speed.<n>Dirt flies\ninto the air and the wind howls.",
             "nextBlock": 30,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7684462988796264565,
             "blockIdx": 29
         },
@@ -588,9 +647,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ロケットの様な加速。いや、そんな比喩すら\n越えていく、まるで流星のような末脚で――",
-            "enText": "Acceleration like a rocket. No, even \nthat metaphor is exceeded by the \nmeteoric speed of her legs…",
+            "enText": "She looks like a rocket, tearing off into<n>space.\nNo. She looks more like a<n>shooting star, blazing\nthrough the night<n>sky.",
             "nextBlock": 31,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3626226035787531854,
             "blockIdx": 30
         },
@@ -598,9 +659,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "たったひとり月夜の下、\r\nフジキセキはゴールを駆け抜けた。",
-            "enText": "Under the moonlit night alone, Fujikiseki ran \nacross the finish line.",
+            "enText": "Underneath the watchful moon, Fuji<n>Kiseki sprints\npast the finish line.",
             "nextBlock": 32,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7731195553766071477,
             "blockIdx": 31
         },
@@ -608,9 +671,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "はぁああ――ッ！",
-            "enText": "Haaaaah―!",
+            "enText": "Raaaaah!",
             "nextBlock": 33,
             "origClipLength": 55,
+            "voiceIdx": 126,
+            "voiceSheetId": "051005001",
             "pathId": -4006239436515376117,
             "blockIdx": 32
         },
@@ -618,21 +683,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "聞こえるはずのない歓声が、\n聞こえたような気がした。",
-            "enText": "I thought I heard cheers that \nI shouldn't have heard.",
+            "enText": "It's strange. There's no one around us,<n>but I feel\nlike I can hear the sound of a<n>crowd cheering for\nher.",
             "nextBlock": 34,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 53,
                     "pathId": -7422052386623058500
                 },
                 {
-                    "origLen": 105,
-                    "pathId": 4020304817124531308
-                },
-                {
                     "origLen": 108,
                     "pathId": -7955004728286785713
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 4020304817124531308
                 }
             ],
             "pathId": -3600000071069261867,
@@ -642,21 +709,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふぅ……はぁ……。\nトレーナーさん、今のタイム、どうだった！？",
-            "enText": "Whew…… haha…… Trainer, how \nwas your time just now!",
+            "enText": "<i>Huff... Wheeze...</i> How was that? How'd I<n>do?!",
             "nextBlock": 35,
             "origClipLength": 92,
+            "voiceIdx": 58,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 7577983600025054355
                 },
                 {
-                    "origLen": 105,
-                    "pathId": -961903143265659258
-                },
-                {
                     "origLen": 108,
                     "pathId": 3618732536942282571
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -961903143265659258
                 }
             ],
             "pathId": -6550724799783871905,
@@ -666,13 +735,15 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "――って、あれ！？\nストップウォッチ落ちてるよ！？",
-            "enText": "― What the heck is that! \nThe stopwatch is down!",
+            "enText": "Hey, you've dropped the stopwatch!",
             "nextBlock": 36,
             "origClipLength": 77,
+            "voiceIdx": 26,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "！？",
-                    "enText": "!",
+                    "enText": "Huh?!",
                     "nextBlock": 36
                 }
             ],
@@ -683,11 +754,11 @@
                 },
                 {
                     "origLen": 88,
-                    "pathId": -5908047998757129427
+                    "pathId": -7399931562162869200
                 },
                 {
                     "origLen": 88,
-                    "pathId": -7399931562162869200
+                    "pathId": -5908047998757129427
                 }
             ],
             "pathId": 9189853631984152091,
@@ -697,21 +768,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "走る姿を見るのに夢中で、\r\nいつの間にか落としていたようだ……！",
-            "enText": "I was so engrossed in watching it run, I \nthink I dropped it before I knew it: ……!",
+            "enText": "I must have been so enthralled that I<n>didn't even\nrealize I had dropped it!",
             "nextBlock": 37,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
                     "pathId": -7858167795008410244
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -3127216207218750813
-                },
-                {
                     "origLen": 97,
                     "pathId": 2216090733340589156
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3127216207218750813
                 }
             ],
             "pathId": -2999939351915010472,
@@ -721,17 +794,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なにはともあれ……\n最後に見たフジキセキのスピードは\nいまだかつてないほどの速さだった。",
-            "enText": "At any rate…… the last time I saw Fujikiseki, \nshe was faster than ever before.",
+            "enText": "But there's no doubt that Fuji Kiseki ran<n>faster\nthan she's ever run during that<n>final sprint.",
             "nextBlock": 38,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -4520843429120549548
-                },
                 {
                     "origLen": 31,
                     "pathId": 8259865354751729176
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4520843429120549548
                 }
             ],
             "pathId": 1702518963542768292,
@@ -741,13 +816,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "あれほどのものを出せるのであれば、\n三冠達成も現実味を帯びてくる。\nそしてなにより――",
-            "enText": "If she can produce something like \nthat, the Triple Crown is a realistic \npossibility. And above all…",
+            "enText": "If she can run that fast, then winning the<n>Triple\nCrown isn't such a distant dream.<n>But more than\nanything...",
             "nextBlock": 39,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（なんて魅力的な走りなんだろう……！）",
-                    "enText": "(What a fascinating run ……!)",
+                    "enText": "(That was such a mesmerizing sprint!)",
                     "nextBlock": 39
                 }
             ],
@@ -758,9 +835,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "改めて、フジキセキのエンターテイナー\r\nとしての底力を感じたような気がした。",
-            "enText": "Once again, I felt Fujikiseki's underlying \nstrength as an entertainer.",
+            "enText": "In that moment, it seems more clear than<n>ever\nthat Fuji Kiseki has what it takes to<n>be a true\nentertainer.",
             "nextBlock": 40,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 58993371147087512,
             "blockIdx": 39
         },
@@ -768,17 +847,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "大々的に宣伝、放送される\r\nクラシック級の中でも注目度の高いレースだ。",
-            "enText": "This is one of the most highly publicized and \nbroadcast races of the Classic class.",
+            "enText": "It's a high-profile race even among the<n>classic\nraces, widely advertised and<n>broadcast\neverywhere.",
             "nextBlock": 41,
             "origClipLength": 88,
+            "voiceIdx": 34,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 128,
-                    "pathId": -6848944293648831999
+                    "pathId": 8654838336904767520
                 },
                 {
                     "origLen": 128,
-                    "pathId": 8654838336904767520
+                    "pathId": -6848944293648831999
                 }
             ],
             "pathId": -4366608149943164070,
@@ -788,17 +869,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "みんなが期待して待ってくれている。\r\nそう思うと、いてもたってもいられなくて。",
-            "enText": "Everyone is waiting for me with anticipation. \nWhen I thought of that, I couldn't stay.",
+            "enText": "Everyone has high hopes for me. When I<n>think\nabout how much they expect from<n>me, I just can't\nsit still.",
             "nextBlock": 42,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -9072286150919265352
-                },
                 {
                     "origLen": 106,
                     "pathId": -5887476176822322559
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -9072286150919265352
                 }
             ],
             "pathId": -3106024996786051859,
@@ -808,17 +891,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "大舞台へ向かって頑張る彼女のために、\nなにかできることはないだろうか。",
-            "enText": "What can we do to support her as she strives \nto make it to the big stage?",
+            "enText": "She seems nervous about stepping onto<n>such a\nbig stage, and I wonder what I<n>can do to help her.",
             "nextBlock": 43,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 29,
-                    "pathId": -1227362227887757756
+                    "pathId": -7929967607196635448
                 },
                 {
                     "origLen": 29,
-                    "pathId": -7929967607196635448
+                    "pathId": -1227362227887757756
                 }
             ],
             "pathId": 4009522689005859547,
@@ -828,9 +913,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふ、海でのトレーニングなんて、\n夏合宿みたいだね！",
-            "enText": "Training in the ocean is \njust like summer camp!",
+            "enText": "Hehe! Training at the beach makes it<n>feel like\nwe're at summer camp!",
             "nextBlock": 44,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 123,
@@ -838,11 +925,11 @@
                 },
                 {
                     "origLen": 132,
-                    "pathId": 4188822795861954198
+                    "pathId": 3599147383377689053
                 },
                 {
                     "origLen": 132,
-                    "pathId": 3599147383377689053
+                    "pathId": 4188822795861954198
                 }
             ],
             "pathId": 3035578902278252401,
@@ -852,21 +939,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "冷たい風が心地いいや。\nよし、もう1本行ってくるよ！",
-            "enText": "The cold wind is so nice. Okay, \nI'm off for another one!",
+            "enText": "The wind feels so nice and cool. Be right<n>back! I'm\ngoing to do a quick lap!",
             "nextBlock": 45,
             "origClipLength": 78,
+            "voiceIdx": 137,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": 8349698790046846089
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -6615660577194747448
-                },
-                {
                     "origLen": 89,
                     "pathId": 8891684262368955885
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6615660577194747448
                 }
             ],
             "pathId": -3189391249836312722,
@@ -876,17 +965,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "あれから『サプライズ　景色　関東』で\r\n検索し尽くした結果――景観がよいことで\n有名な海にトレーニングに来ていた。",
-            "enText": "I've been searching for \"Surprise, scenery, \nKanto\" ever since. I had come to the famous \nsea for training.",
+            "enText": "After that talk with Fuji Kiseki, I looked<n>up scenic\nareas in Kanto, found a beach<n>famous for its\nscenery, and brought her<n>here to train.",
             "nextBlock": 46,
             "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -8663104746295290149
+                    "pathId": -246994995748039098
                 },
                 {
                     "origLen": 102,
-                    "pathId": -246994995748039098
+                    "pathId": -8663104746295290149
                 }
             ],
             "pathId": 2114485939976856480,
@@ -896,9 +987,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "特に、夕日の落ちる様子は、\n思わず息をのむほどの絶景らしい。",
-            "enText": "The view of the setting sun \nis said to be breathtaking.",
+            "enText": "Apparently, it's particularly breathtaking<n>right\naround sunset.",
             "nextBlock": 47,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2045859358856721490,
             "blockIdx": 46
         },
@@ -906,13 +999,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そしてさらに……実はもう1つ、\n用意しているものがあった。",
-            "enText": "And then…… actually had one more thing in \nstore for you.",
+            "enText": "I also have one more trick up my sleeve,<n>so to\nspeak.",
             "nextBlock": 48,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（必ず成功させてみせる……！）",
-                    "enText": "(We'll make it work. ……!)",
+                    "enText": "(I'm going to make this work or die trying!)",
                     "nextBlock": 48
                 }
             ],
@@ -923,13 +1018,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "実は、ひと晩かけて\r\nマジックを習得してきたのだ。",
-            "enText": "In fact, I've spent an evening learning magic.",
+            "enText": "I actually spent all night practicing a<n>magic trick\nfor her.",
             "nextBlock": 49,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（今日はフジにサプライズだ！）",
-                    "enText": "(Surprise for Fuji today!)",
+                    "enText": "(I bet she'll be so surprised!)",
                     "nextBlock": 49
                 }
             ],
@@ -940,9 +1037,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今日は少しでも心癒されてほしい。\r\nそんな願いを抱きつつトレーニングを進め――",
-            "enText": "Today, I hope you will feel a little \nsoothed. With this hope in mind, \nI proceeded with my training…",
+            "enText": "As I go through drills and help Fuji<n>Kiseki train, I\nhope that she'll be able to<n>find some peace and\nquiet today.",
             "nextBlock": 50,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6953326891137005825,
             "blockIdx": 49
         },
@@ -950,21 +1049,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "やがて日が暮れ始めた。",
-            "enText": "Soon the sun began to set.",
+            "enText": "The hours pass, and finally, the sun<n>begins to set.",
             "nextBlock": 51,
             "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 50,
                     "pathId": 5085982986536986678
                 },
                 {
-                    "origLen": 110,
-                    "pathId": -4574817205586487258
-                },
-                {
                     "origLen": 113,
                     "pathId": 3995432897872900903
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -4574817205586487258
                 }
             ],
             "pathId": 3162534002142262517,
@@ -974,21 +1075,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……っ！　わあ！",
-            "enText": "……! WOW!!!",
+            "enText": "Oh, wow!",
             "nextBlock": 52,
             "origClipLength": 55,
+            "voiceIdx": 112,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -8347950202024017245
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -3396983636326259315
-                },
-                {
                     "origLen": 66,
                     "pathId": -7415007068547257200
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3396983636326259315
                 }
             ],
             "pathId": 2893271682245609311,
@@ -998,21 +1101,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "見て、トレーナーさん！\nまるで絵画の様な絶景だよ！",
-            "enText": "Look, trainer! It's like a painting, a \nspectacular view!",
+            "enText": "Look, Trainer! The view's gorgeous... It's<n>like a\npainting!",
             "nextBlock": 53,
             "origClipLength": 77,
+            "voiceIdx": 56,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 85,
                     "pathId": 571817780147338897
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -3772918351339724189
-                },
-                {
                     "origLen": 88,
                     "pathId": -5289672619914418939
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3772918351339724189
                 }
             ],
             "pathId": -6319969410460341150,
@@ -1022,21 +1127,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "水面が金色だ。\nすごい、こんな夕焼け空があったんだね！",
-            "enText": "The surface of the water is golden. \nWow, such a sunset sky!",
+            "enText": "The ocean looks like molten gold. I had<n>no idea a\nsunset could look so beautiful!",
             "nextBlock": 54,
             "origClipLength": 80,
+            "voiceIdx": 7,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 19,
                     "pathId": 8150138132537826595
                 },
                 {
-                    "origLen": 88,
-                    "pathId": -2652234248434865387
-                },
-                {
                     "origLen": 91,
                     "pathId": 5579615992528600361
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2652234248434865387
                 }
             ],
             "pathId": -4542870568231714862,
@@ -1046,17 +1153,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "見ているだけで、疲れも吹き飛ぶよ……！",
-            "enText": "Just look at it and you'll be exhausted. ……!",
+            "enText": "Just the sight of it makes me feel like<n>I've been\nreinvigorated, body and soul!",
             "nextBlock": 55,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -2816242169577696851
-                },
                 {
                     "origLen": 80,
                     "pathId": 1021044209167262257
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2816242169577696851
                 }
             ],
             "pathId": 7104854856150268015,
@@ -1066,29 +1175,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "実は、サプライズはこれだけではない。\n夕陽の上に輝く一番星を指さす。",
-            "enText": "In fact, this is not the only surprise. \nShe points to the first star shining \nabove the setting sun.",
+            "enText": "This isn't the only surprise I have in store<n>for her,\nthough. I point upward toward<n>the first star of the\nevening.",
             "nextBlock": 56,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "あのエトワールは君にこそ似つかわしい！",
-                    "enText": "That Etoile is the one for you!",
+                    "enText": "Behold, a star befitting of your grace!",
                     "nextBlock": 56
                 },
                 {
                     "jpText": "あのエトワールは貴方にこそ似つかわしい！",
-                    "enText": "That Etoile is exactly what you deserve!",
+                    "enText": "Behold, a star befitting of your grace!",
                     "nextBlock": 56
                 }
             ],
             "animData": [
                 {
-                    "origLen": 112,
-                    "pathId": 6352162159475224483
-                },
-                {
                     "origLen": 100,
                     "pathId": 7268547221093934946
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6352162159475224483
                 }
             ],
             "pathId": 2043958895090987536,
@@ -1098,29 +1209,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "もったいぶった動作で手をかざし、\n空から星を剥がすような動作で、\n星型のブローチを手のひらへ取り出す――",
-            "enText": "Holding up her hand with a gesture of \npretension, as if she were peeling a star \nfrom the sky. and with a gesture like peeling \na star out of the sky, she takes the \nstar-shaped brooch into the palm of her hand.",
+            "enText": "I reach out in a grand gesture and move<n>as if I'm\nplucking the star from the sky.<n>Then, I slip the\nstar-shaped brooch I had<n>palmed into my hand.",
             "nextBlock": 57,
             "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "だからこそ君に捧ぐ……あれっ！？",
-                    "enText": "That's why I dedicate it to you…… Huh!",
+                    "enText": "I shall whisk it from its perch as a gift for\ny—oops!",
                     "nextBlock": 57
                 },
                 {
                     "jpText": "だからこそ貴方に捧ぐ……あれっ！？",
-                    "enText": "That's why I dedicate it to you…… Huh!",
+                    "enText": "I shall whisk it from its perch as a gift for\ny—oops!",
                     "nextBlock": 57
                 }
             ],
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": -2999040959675853506
+                    "pathId": 1416471756629982508
                 },
                 {
                     "origLen": 26,
-                    "pathId": 1416471756629982508
+                    "pathId": -2999040959675853506
                 }
             ],
             "pathId": 4520684532111570999,
@@ -1130,9 +1243,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "つもりが、ブローチは手からこぼれ落ち、\nサプライズは、失敗に終わってしまった……！",
-            "enText": "The brooch fell out of her hand, and the \nsurprise ended in failure. ……!",
+            "enText": "I fumble at the last second and the<n>brooch\ntumbles from my hand, bringing<n>the trick to a\nsudden halt.",
             "nextBlock": 58,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5090298008419987815,
             "blockIdx": 57
         },
@@ -1140,21 +1255,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "慌てて落ちたブローチを拾い上げる。\nフジキセキの顔が見られない。",
-            "enText": "She hurriedly picks up the fallen brooch. I \ncan't see Fujikiseki's face.",
+            "enText": "I crouch down hastily to retrieve the<n>brooch. I'm\ntoo embarrassed to look Fuji<n>Kiseki in the eye.",
             "nextBlock": 59,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 153,
                     "pathId": -1309462487211558815
                 },
                 {
-                    "origLen": 127,
-                    "pathId": -6399994346922550020
-                },
-                {
                     "origLen": 129,
                     "pathId": 7615886957076878879
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -6399994346922550020
                 }
             ],
             "pathId": 6197413388151751912,
@@ -1164,13 +1281,15 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……驚いた。",
-            "enText": "…… surprised.",
+            "enText": "You surprised me...",
             "nextBlock": 60,
             "origClipLength": 52,
+            "voiceIdx": 110,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "ご、ごめん……！",
-                    "enText": "Sorry, sorry. ……!",
+                    "enText": "S-sorry about that!",
                     "nextBlock": 60
                 }
             ],
@@ -1180,12 +1299,12 @@
                     "pathId": -1533065149603672667
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -7681266802046429802
-                },
-                {
                     "origLen": 63,
                     "pathId": 386257534550710310
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7681266802046429802
                 }
             ],
             "pathId": 2024357784064781561,
@@ -1195,17 +1314,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふっ、なんで謝るんだい？\nこんなにも心を温かくしてくれたのに！",
-            "enText": "Pfft, why are you apologizing? You warmed my \nheart so much!",
+            "enText": "Hehe! What are you apologizing for?<n>That was so\nthoughtful!",
             "nextBlock": 61,
             "origClipLength": 86,
+            "voiceIdx": 1,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 2444982358049115839
-                },
                 {
                     "origLen": 97,
                     "pathId": 2652572504824507730
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 2444982358049115839
                 }
             ],
             "pathId": -3883653834232358338,
@@ -1215,17 +1336,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "こんなことを考えてくれていたなんて、\n全然わからなかったよ。",
-            "enText": "I had no idea you were thinking about this.",
+            "enText": "I had no idea you had so much planned<n>for me.",
             "nextBlock": 62,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -1211907159281893428
-                },
                 {
                     "origLen": 95,
                     "pathId": 2581160297509930773
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -1211907159281893428
                 }
             ],
             "pathId": -2418355652940462737,
@@ -1235,17 +1358,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "この間、焦る姿を見せちゃったからかな。\n心配させてごめんね。",
-            "enText": "I guess it's because I showed my impatience \nthe other day. I'm sorry for making you worry.",
+            "enText": "You did all this because of how<n>panicked I was\nbefore, didn't you? I'm<n>sorry for worrying you.",
             "nextBlock": 63,
             "origClipLength": 84,
+            "voiceIdx": 24,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 96,
-                    "pathId": 7225268522630034525
-                },
                 {
                     "origLen": 95,
                     "pathId": 4758534625664682651
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 7225268522630034525
                 }
             ],
             "pathId": 5136408750021782622,
@@ -1255,17 +1380,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "フジキセキは、砂まみれになってしまった\nブローチを手に取った。",
-            "enText": "Fujikiseki picked up the brooch, which was \nnow covered in sand.",
+            "enText": "She takes the sand-covered brooch from<n>me.",
             "nextBlock": 64,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": -5300101823345794949
+                    "pathId": -2733626680366257408
                 },
                 {
                     "origLen": 26,
-                    "pathId": -2733626680366257408
+                    "pathId": -5300101823345794949
                 }
             ],
             "pathId": 7779331667388248667,
@@ -1275,9 +1402,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "本当に……きれいなエトワールだ。",
-            "enText": "It's really…… a beautiful etoile.",
+            "enText": "It's beautiful... It's the most beautiful star<n>ever.",
             "nextBlock": 65,
             "origClipLength": 66,
+            "voiceIdx": 4,
+            "voiceSheetId": "051005001",
             "pathId": -4877301189193859843,
             "blockIdx": 64
         },
@@ -1285,17 +1414,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……される側というのは、\nこんな気持ちになるんだね。",
-            "enText": "I guess this is what it feels like to be on \nthe receiving end of ……",
+            "enText": "So this is what it feels like to be on the<n>receiving\nend of things...",
             "nextBlock": 66,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 118,
-                    "pathId": 1357342396617990264
-                },
                 {
                     "origLen": 119,
                     "pathId": 8256051906902705824
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 1357342396617990264
                 }
             ],
             "pathId": -6625975978348185117,
@@ -1305,17 +1436,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ありがとう、トレーナーさん。",
-            "enText": "Thanks, trainer.",
+            "enText": "Thank you.",
             "nextBlock": 67,
             "origClipLength": 63,
+            "voiceIdx": 13,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": -7937924684135962630
-                },
                 {
                     "origLen": 74,
                     "pathId": -830662524709787558
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7937924684135962630
                 }
             ],
             "pathId": -1098793136338980878,
@@ -1325,21 +1458,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――その後、夕日がゆっくり沈みゆく絶景を、\n2人でたっぷり堪能したのだった。",
-            "enText": "―Afterwards, the two of us enjoyed the \nspectacular view of the sun setting slowly.",
+            "enText": "After that, we take in our fill of the<n>beautiful\nsunset together.",
             "nextBlock": 68,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 108,
                     "pathId": -4548735257004873517
                 },
                 {
-                    "origLen": 56,
-                    "pathId": 4347678759676897022
-                },
-                {
                     "origLen": 105,
                     "pathId": -4725792793055244246
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4347678759676897022
                 }
             ],
             "pathId": -5799060467500220145,
@@ -1349,26 +1484,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "次はとうとう『皐月賞』。\nフジキセキを全力でサポートしていきたい！",
-            "enText": "Next is \"Satsuki-sho\" at last. I'll do my \nbest to support Fujikiseki!",
+            "enText": "The next race is the Satsuki Sho, and I<n>want to be\nthere for Fuji Kiseki every<n>step of the way!",
             "nextBlock": -1,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 108,
                     "pathId": -3759277021102116906
                 },
                 {
-                    "origLen": 100,
-                    "pathId": -3877043514951338328
-                },
-                {
                     "origLen": 99,
                     "pathId": -6573471020675693790
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3877043514951338328
                 }
             ],
             "pathId": 3808063462035979757,
             "blockIdx": 68
         }
-    ],
-    "modified": 1657555054
+    ]
 }

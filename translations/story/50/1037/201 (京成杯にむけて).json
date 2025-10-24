@@ -1,37 +1,44 @@
 {
-    "version": 5,
-    "bundle": "JKTBJRHLHRWO2LKFRBPOJH4RSUGKXVSG",
+    "version": 6,
+    "bundle": "TUVVSL7ZEPZ3CYC7TZGWQBSQGXFTOTIB",
     "type": "story",
     "storyId": "501037201",
     "title": "京成杯にむけて",
+    "enTitle": "Before the Keisei Hai",
     "text": [
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "観客A",
             "jpText": "――なあ、今日のレースさ、\nお前どの子に注目してる？",
-            "enText": "―Hey, today's race, which girl are you \nlooking out for?",
+            "enText": "――なあ、今日のレースさ、\nお前どの子に注目してる？",
             "nextBlock": 2,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7660630970566372443,
             "blockIdx": 1
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "観客B",
             "jpText": "何言ってんだよ、このメンツなら\nエイシンフラッシュ一択だろ！",
-            "enText": "What are you talking about?",
+            "enText": "何言ってんだよ、このメンツなら\nエイシンフラッシュ一択だろ！",
             "nextBlock": 3,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4693945699949432262,
             "blockIdx": 2
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "観客B",
             "jpText": "だよなぁ～。“このメンツ”なら、\nまあエイシンフラッシュだよなぁ――",
-            "enText": "I guess so. If it's this group, I'd have to \ngo with Eishin Flash…",
+            "enText": "だよなぁ～。“このメンツ”なら、\nまあエイシンフラッシュだよなぁ――",
             "nextBlock": 4,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5196694954027231329,
             "blockIdx": 3
         },
@@ -39,17 +46,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『京成杯』当日。\nエイシンフラッシュの注目度は、\n出走ウマ娘の中でも高いが……。",
-            "enText": "It is the day of the \"Keisei Cup. Eishin \nFlash is the most popular of all the horses \nin the race. ……",
+            "enText": "『京成杯』当日。\nエイシンフラッシュの注目度は、\n出走ウマ娘の中でも高いが……。",
             "nextBlock": 5,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 172,
-                    "pathId": -7068070036981805712
-                },
                 {
                     "origLen": 158,
                     "pathId": 227231962143589908
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -7068070036981805712
                 }
             ],
             "pathId": -3584510110128911645,
@@ -57,31 +66,33 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "前向きな評価とは言えませんね。\n消極的な選択です。",
-            "enText": "I can't say it's a positive assessment. It is \na reluctant choice.",
+            "enText": "前向きな評価とは言えませんね。\n消極的な選択です。",
             "nextBlock": 6,
             "origClipLength": 77,
+            "voiceIdx": 34,
+            "voiceSheetId": "051037001",
             "choices": [
                 {
                     "jpText": "でも期待は期待だ",
-                    "enText": "But expectations are expectations.",
+                    "enText": "でも期待は期待だ",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "でも期待は期待だよ",
-                    "enText": "But expectations are expectations.",
+                    "enText": "でも期待は期待だよ",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": 3187135972718873985
-                },
-                {
                     "origLen": 88,
                     "pathId": -6375106320415737507
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3187135972718873985
                 }
             ],
             "pathId": -1543826899507739871,
@@ -89,19 +100,21 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "そうですね。\nその気持ちには応えたいです。",
-            "enText": "Yes, I do. I would like to \nrespond to that feeling.",
+            "enText": "そうですね。\nその気持ちには応えたいです。",
             "nextBlock": 7,
             "origClipLength": 72,
+            "voiceIdx": 37,
+            "voiceSheetId": "051037001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -6503297382199568762
-                },
                 {
                     "origLen": 83,
                     "pathId": 5605584457083974539
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -6503297382199568762
                 }
             ],
             "pathId": 4020912343865178320,
@@ -109,19 +122,21 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "いえ、というより……\n応えて当然の自分でいるべきです。",
-            "enText": "No, rather…… you should be the one who \ndeserves to respond.",
+            "enText": "いえ、というより……\n応えて当然の自分でいるべきです。",
             "nextBlock": 8,
             "origClipLength": 80,
+            "voiceIdx": 15,
+            "voiceSheetId": "051037001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 697737529065509344
-                },
                 {
                     "origLen": 91,
                     "pathId": 5485199549499935670
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 697737529065509344
                 }
             ],
             "pathId": -5774005240956213812,
@@ -129,31 +144,33 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "このレースは通過点にすぎません。\n躓くわけにはいきませんから。",
-            "enText": "This race is just a passing point. We cannot \nafford to stumble.",
+            "enText": "このレースは通過点にすぎません。\n躓くわけにはいきませんから。",
             "nextBlock": 9,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いつも通りの君で走れば大丈夫",
-                    "enText": "Just run with you as usual and you'll be fine.",
+                    "enText": "いつも通りの君で走れば大丈夫",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "いつも通りの貴方で走れば大丈夫",
-                    "enText": "Just run as you always do and you'll be fine.",
+                    "enText": "いつも通りの貴方で走れば大丈夫",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": 1411196591021917092
-                },
-                {
                     "origLen": 96,
                     "pathId": 6938339935418176015
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 1411196591021917092
                 }
             ],
             "pathId": 5205450331648948078,
@@ -161,19 +178,21 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "……そうですね、いつも通り。\nなすべきことを、なす。",
-            "enText": "……Yes, as always. Do what needs to be done.",
+            "enText": "……そうですね、いつも通り。\nなすべきことを、なす。",
             "nextBlock": 10,
             "origClipLength": 78,
+            "voiceIdx": 11,
+            "voiceSheetId": "051037001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": -2794333412420701944
-                },
                 {
                     "origLen": 89,
                     "pathId": 955364149407094168
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -2794333412420701944
                 }
             ],
             "pathId": 5879843619941203564,
@@ -181,24 +200,25 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "そしてクラシック三冠初戦、\n『皐月賞』に繋げます。",
-            "enText": "And we will lead to the first race of the \nclassic Triple Crown, \"Satsuki-sho\".",
+            "enText": "そしてクラシック三冠初戦、\n『皐月賞』に繋げます。",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": 69,
+            "voiceSheetId": "051037001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 2528740819602922361
-                },
                 {
                     "origLen": 88,
                     "pathId": -5716697515291904026
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 2528740819602922361
                 }
             ],
             "pathId": -6828047171815915685,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657447725
+    ]
 }

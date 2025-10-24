@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "F5IG5BWA4BEYJK2GDCHAFQ2MEHJ7DURL",
+    "version": 6,
+    "bundle": "RKS2LQNR6HQN3KFIBCTJJU5AJIGP5ADZ",
     "type": "story",
     "storyId": "501046500",
     "title": "名指導",
+    "enTitle": "Master Trainer",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、トレーナー室で――",
-            "enText": "One day in the trainer's office―",
+            "enText": "One day, in my office...",
             "nextBlock": 2,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": -5150729911510852474
-                },
                 {
                     "origLen": 72,
                     "pathId": 7330968049361894897
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -5150729911510852474
                 }
             ],
             "pathId": 7574726148159832954,
@@ -29,29 +32,31 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ふっふ～ん、この写真もバッチリ☆\r\nいーっぱい『ウマいね』もらえそう♪",
-            "enText": "This picture is perfect too… I'm going to get \na lot of \"Yum!",
+            "enText": "Hehe, this picture is perfect! ☆ I bet it<n>gets a\ntooon of likes! ♪",
             "nextBlock": 3,
             "origClipLength": 90,
+            "voiceIdx": 3,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "ご機嫌だな？",
-                    "enText": "You in a good mood?",
+                    "enText": "You seem pretty happy.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "ご機嫌だね？",
-                    "enText": "You're in a good mood, aren't you?",
+                    "enText": "You seem pretty happy.",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 102,
-                    "pathId": 1121693661920039735
-                },
-                {
                     "origLen": 101,
                     "pathId": -2272496010391446834
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1121693661920039735
                 }
             ],
             "pathId": 8390179716325445301,
@@ -61,9 +66,11 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "うんっ☆　最近のファル子ね、\r\nすっごくウマスタ映えするようになったの！",
-            "enText": "Yeah☆ Falco, lately she's been looking really \ngood in the pictures!",
+            "enText": "Well, yeah! ☆ I'm super photogenic<n>recently!",
             "nextBlock": 4,
             "origClipLength": 91,
+            "voiceIdx": 149,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 96,
@@ -71,11 +78,11 @@
                 },
                 {
                     "origLen": 102,
-                    "pathId": 6499302573118379166
+                    "pathId": -7183197039500533661
                 },
                 {
                     "origLen": 102,
-                    "pathId": -7183197039500533661
+                    "pathId": 6499302573118379166
                 }
             ],
             "pathId": -3871911984735128351,
@@ -85,13 +92,15 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "特にこの、トレーニング終わりに撮った\r\n写真の笑顔なんてかわいすぎっ♪",
-            "enText": "Especially this picture of her smiling at the \nend of a training session… too cute!",
+            "enText": "Like, check out my smile in this pic I<n>took at the\nend of training! It's the<n>cutest thing ever! ♪",
             "nextBlock": 5,
             "origClipLength": 90,
+            "voiceIdx": 62,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "それはよかった",
-                    "enText": "That's good to know.",
+                    "enText": "Glad to hear it.",
                     "nextBlock": 5
                 }
             ],
@@ -102,11 +111,11 @@
                 },
                 {
                     "origLen": 101,
-                    "pathId": 7327042958039383564
+                    "pathId": 3845403343135749934
                 },
                 {
                     "origLen": 101,
-                    "pathId": 3845403343135749934
+                    "pathId": 7327042958039383564
                 }
             ],
             "pathId": -4487310194032966847,
@@ -116,17 +125,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "でもでも、その理由が\r\nよくわからないんだよね～。",
-            "enText": "But I don't really understand why!",
+            "enText": "Buuut... I don't really get why.",
             "nextBlock": 6,
             "origClipLength": 77,
+            "voiceIdx": 35,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -7679705985220042767
-                },
                 {
                     "origLen": 88,
                     "pathId": 1179438959904488797
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7679705985220042767
                 }
             ],
             "pathId": -2768038289060994514,
@@ -136,24 +147,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "前は、レースとかトレーニングの後は\r\nぜぇはぁ息切れしてたのに……なんでだろ？",
-            "enText": "I used to be out of breath after a race or a \nworkout.…… Why is that?",
+            "enText": "I always used to be so out of breath<n>after races\nand training... I wonder what<n>changed?",
             "nextBlock": 7,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "体力が上がったとか？",
-                    "enText": "Like, did your strength go up or something?",
+                    "enText": "You've probably built up your stamina.",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 67,
-                    "pathId": -8507280141768349727
-                },
-                {
                     "origLen": 106,
                     "pathId": -3432044618522709881
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8507280141768349727
                 }
             ],
             "pathId": 2852681879101908119,
@@ -163,17 +176,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "はっ……！？　言われてみれば、\r\n確かにそーかも……！",
-            "enText": "What? ……! Now that you mention \nit, you may be right. ……!",
+            "enText": "Oh! Now that you mention it, that's<n>probably it!",
             "nextBlock": 8,
             "origClipLength": 80,
+            "voiceIdx": 111,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -5627809646656961851
-                },
                 {
                     "origLen": 91,
                     "pathId": -6544805769095428970
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5627809646656961851
                 }
             ],
             "pathId": 8329842218579849868,
@@ -183,24 +198,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "きっと毎日、トレーナーさんが\r\nバッチリ指導してくれてるからだよ～！",
-            "enText": "I'm sure it's because my trainer is giving me \na great workout every day!",
+            "enText": "It's all thanks to you and your superstar<n>training!",
             "nextBlock": 9,
             "origClipLength": 89,
+            "voiceIdx": 5,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "だとしたら嬉しい",
-                    "enText": "I'd be happy if it were.",
+                    "enText": "I hope that's the case.",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 65,
-                    "pathId": 7142932899697850108
-                },
-                {
                     "origLen": 100,
                     "pathId": 5147187877540517506
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7142932899697850108
                 }
             ],
             "pathId": -4916196557070202581,
@@ -210,17 +227,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "トレーナーさん……えへへ！\r\nファル子も、すっごく嬉しいっ☆",
-            "enText": "Trainer…… Hehehe! Falco is so happy too!",
+            "enText": "Trainer... Hehe! I'm so happy! ☆",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 74,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -1942392353465220222
-                },
                 {
                     "origLen": 95,
                     "pathId": -304244655356013892
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1942392353465220222
                 }
             ],
             "pathId": 2306492550183459950,
@@ -230,17 +249,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……よーっし！\r\nお礼に、サプライズイベントだぁ！",
-            "enText": "…… Yay! Thanks for the help, \nit's a surprise event!!!",
+            "enText": "...I know! I'm gonna throw a surprise<n>event as a\nthank you!",
             "nextBlock": 11,
             "origClipLength": 77,
+            "voiceIdx": 11,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 5492441726128991871
-                },
                 {
                     "origLen": 88,
                     "pathId": 5578692086095152242
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 5492441726128991871
                 }
             ],
             "pathId": 2960858517416264069,
@@ -250,24 +271,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "トキメキ☆ウマドルファル子の、\r\nトクベツ撮影会を始めちゃうぞっ♪",
-            "enText": "Let's start a special photo session for the \nToku-Meki☆Umadol Faruko!",
+            "enText": "Get ready for Heartthrob ☆ Umadol<n>Falco's\nextra-special photo op!",
             "nextBlock": 12,
             "origClipLength": 88,
+            "voiceIdx": 10,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "な、なんで撮影会……？",
-                    "enText": "Why, why the photo session ……?",
+                    "enText": "B-but why a photo op?",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 73,
-                    "pathId": 5156640296582999759
-                },
-                {
                     "origLen": 99,
                     "pathId": 2823058457728101577
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 5156640296582999759
                 }
             ],
             "pathId": 1437968301457408550,
@@ -277,17 +300,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "それはもちろん、トレーナーさんに\r\n感謝の気持ちを伝えるなら――",
-            "enText": "That, of course, would be a great way to show \nyour trainer how much you appreciate her―",
+            "enText": "Duh! If I really want to express my<n>thanks\nproperly...",
             "nextBlock": 13,
             "origClipLength": 86,
+            "voiceIdx": 2,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -2358110302996111983
-                },
                 {
                     "origLen": 97,
                     "pathId": -5963751447675853014
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2358110302996111983
                 }
             ],
             "pathId": 8591736194585864053,
@@ -297,17 +322,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ここまで一緒に磨いてきた、\r\nファル子のかわいい姿が1番でしょっ♪",
-            "enText": "The cutest thing about Falco is that we've \npolished it up so far together.",
+            "enText": "What better way than to show off this<n>cuteness\nthat we've perfected<n>together! ♪",
             "nextBlock": 14,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 5826892145289286209
-                },
                 {
                     "origLen": 99,
                     "pathId": 8744298212227459014
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5826892145289286209
                 }
             ],
             "pathId": 5198870270832706233,
@@ -317,17 +344,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ほらほら、シャッターチャンスだよ！\r\n遠慮しないで撮って撮って～☆",
-            "enText": "Come on, come on, it's your shutter chance! \nDon't be shy, take a picture, take a picture!",
+            "enText": "Now's the perfect chance to get a good<n>shot!\nDon't hold back! Take as many as<n>you want!",
             "nextBlock": 15,
             "origClipLength": 88,
+            "voiceIdx": 91,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -3384537744405541505
-                },
                 {
                     "origLen": 99,
                     "pathId": -6169533201787170127
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -3384537744405541505
                 }
             ],
             "pathId": -5913081362458916259,
@@ -337,22 +366,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "日々の指導が、スマートファルコンの体力と\r\nウマドルパワーの向上に繋がったようだ！",
-            "enText": "Looks like the daily coaching has \nhelped Smart Falcon improve her \nfitness and umadol power!",
+            "enText": "It seems my daily instruction has helped<n>Smart\nFalcon improve both her physical<n>strength and\nher Umadol power!",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 25,
-                    "pathId": 6807790592291151776
+                    "pathId": -945354612492282943
                 },
                 {
                     "origLen": 25,
-                    "pathId": -945354612492282943
+                    "pathId": 6807790592291151776
                 }
             ],
             "pathId": -4375859323883631681,
             "blockIdx": 15
         }
-    ],
-    "modified": 1657555060
+    ]
 }

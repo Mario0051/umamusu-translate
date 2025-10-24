@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "HRG52UEPGZJQHG2A7RO2UOCGAPJPOAK4",
+    "version": 6,
+    "bundle": "VALDLXXQF7M7PBJR3L2YZGJ4SIKMX2KW",
     "type": "story",
     "storyId": "501026706",
     "title": "『オペレーション：エンジョイ縁日』",
+    "enTitle": "Operation: Festival Fun",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ミホノブルボンと出かけた帰り道、\r\n通りかかった神社でお祭りを見かけた。",
-            "enText": "On my way home from a trip with \nMihono Bourbon, I saw a festival \nat a shrine I was passing.",
+            "enText": "On the way home after spending the day<n>out with\nMihono Bourbon, we spot a<n>festival at a nearby\nshrine.",
             "nextBlock": 2,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -2781232236240767588
+                    "pathId": -6572139622561897580
                 },
                 {
                     "origLen": 102,
-                    "pathId": -6572139622561897580
+                    "pathId": -2781232236240767588
                 }
             ],
             "pathId": -1318884676819206532,
@@ -29,24 +32,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "常時の5倍の密集度が発生。\r\nつまり『おおにぎわい』のようです。",
-            "enText": "A density five times higher than \nnormal occurs. In other words, it \nseems to be a \"big crowd\".",
+            "enText": "Detecting that congestion is at five<n>times normal\nlevels. In other words, it is<n>a huge turnout.",
             "nextBlock": 3,
             "origClipLength": 86,
+            "voiceIdx": 8,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "気になる？",
-                    "enText": "Does it bother you?",
+                    "enText": "Do you want to check it out?",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 93,
-                    "pathId": 850749797342256774
-                },
-                {
                     "origLen": 97,
                     "pathId": 8882895532794907037
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 850749797342256774
                 }
             ],
             "pathId": 1133262143718279185,
@@ -56,9 +61,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……いえ、どの店の密集度が高いか\r\n見ていただけです。未格納のデータなので。",
-            "enText": "… No, I was just looking to \nsee which stores had the highest \ndensity. It's unstored data.",
+            "enText": "No. I was merely scanning for which<n>stalls have\nthe highest customer density,<n>as my data banks\ncurrently lack this<n>information.",
             "nextBlock": 4,
             "origClipLength": 94,
+            "voiceIdx": 50,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 50,
@@ -66,11 +73,11 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": -3000016352231715551
+                    "pathId": -703536629131749288
                 },
                 {
                     "origLen": 105,
-                    "pathId": -703536629131749288
+                    "pathId": -3000016352231715551
                 }
             ],
             "pathId": -3644916125837450382,
@@ -80,21 +87,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "どうやら焼きそばが1番の密集度のようです。\r\n自宅で食べられる家庭料理のはずですが。",
-            "enText": "Apparently, yakisoba is the most dense. It's \nsupposed to be a home cooked meal that you \ncan eat at home.",
+            "enText": "The yakisoba stall appears the most<n>crowded.\nThis is peculiar, considering it<n>can be prepared at\nhome.",
             "nextBlock": 5,
             "origClipLength": 99,
+            "voiceIdx": 34,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 138,
                     "pathId": -7584190860905377156
                 },
                 {
-                    "origLen": 85,
-                    "pathId": 2387892581605373265
-                },
-                {
                     "origLen": 110,
                     "pathId": -253895071477195651
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2387892581605373265
                 }
             ],
             "pathId": 6604169708099597029,
@@ -104,9 +113,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ぐぅ～～……）",
-            "enText": "(Geez…)",
+            "enText": "<i>Groooowl...</i>",
             "nextBlock": 6,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 15,
@@ -114,11 +125,11 @@
                 },
                 {
                     "origLen": 66,
-                    "pathId": 387405443885143944
+                    "pathId": -8223253907771866097
                 },
                 {
                     "origLen": 66,
-                    "pathId": -8223253907771866097
+                    "pathId": 387405443885143944
                 }
             ],
             "pathId": 2868383990519901405,
@@ -128,13 +139,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……視覚情報で胃が活性化。反射運動と判断。",
-            "enText": "… visual information activates the \nstomach. Reflex movement and judgment.",
+            "enText": "The visual input has stimulated my<n>stomach,\ncreating a natural bodily<n>reflex.",
             "nextBlock": 7,
             "origClipLength": 72,
+            "voiceIdx": 76,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "屋台、覗いていこう！",
-                    "enText": "Let's check out the food stalls!",
+                    "enText": "Let's get a closer look!",
                     "nextBlock": 7
                 }
             ],
@@ -145,11 +158,11 @@
                 },
                 {
                     "origLen": 83,
-                    "pathId": 2457191691083742551
+                    "pathId": -2527064133988054434
                 },
                 {
                     "origLen": 83,
-                    "pathId": -2527064133988054434
+                    "pathId": 2457191691083742551
                 }
             ],
             "pathId": -6828799821650964056,
@@ -159,21 +172,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "了解しました。\r\nマスターがご希望とあれば、随行します。",
-            "enText": "Understood, sir. If Master wishes, \nI will accompany you.",
+            "enText": "Understood. If that is your desire, then I<n>will\naccompany you.",
             "nextBlock": 8,
             "origClipLength": 81,
+            "voiceIdx": 47,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -5648170186388018831
                 },
                 {
-                    "origLen": 18,
-                    "pathId": 6654222255961112271
-                },
-                {
                     "origLen": 92,
                     "pathId": 7191752982298578059
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 6654222255961112271
                 }
             ],
             "pathId": -5383439993315226495,
@@ -183,29 +198,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "もぐもぐ……ごくん……。",
-            "enText": "Mogumogu… Gokun…",
+            "enText": "<i>Munch, munch... Gulp...</i>",
             "nextBlock": 9,
             "origClipLength": 60,
+            "voiceIdx": 59,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "美味しいか？",
-                    "enText": "Is it good?",
+                    "enText": "How is it?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "美味しい？",
-                    "enText": "Is it good?",
+                    "enText": "How is it?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 124,
-                    "pathId": -1501031041048296036
-                },
-                {
                     "origLen": 112,
                     "pathId": 1431657748502604879
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -1501031041048296036
                 }
             ],
             "pathId": -1743877603225766443,
@@ -215,9 +232,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい。名前の通り『ホカホカ焼きそば』です。\r\n……しかし、なぜか通常より味わい深く。",
-            "enText": "Yes, it is. As the name suggests, it's \"Hoka \nHoka Yakisoba\"… but somehow more \nflavorful than usual.",
+            "enText": "Delicious. The yakisoba is \"piping hot,\"<n>just as the\nstall's name suggests.<n>However, it has a richer\nflavor than<n>regular yakisoba.",
             "nextBlock": 10,
             "origClipLength": 99,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 16,
@@ -225,11 +244,11 @@
                 },
                 {
                     "origLen": 110,
-                    "pathId": 8462789680813582386
+                    "pathId": 4121123046594515100
                 },
                 {
                     "origLen": 110,
-                    "pathId": 4121123046594515100
+                    "pathId": 8462789680813582386
                 }
             ],
             "pathId": -5054845637172485061,
@@ -239,17 +258,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "他の屋台料理もそうなのでしょうか。\r\n…………ごくり。",
-            "enText": "Is it the same with other street \nfood?… Gokuri.",
+            "enText": "I wonder if the other food stalls share<n>the same\nphenomenon... <i>Gulp...</i>",
             "nextBlock": 11,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -1661374957526234822
-                },
                 {
                     "origLen": 91,
                     "pathId": 7584541118439181809
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -1661374957526234822
                 }
             ],
             "pathId": -7721129723136420726,
@@ -257,23 +278,25 @@
         },
         {
             "jpName": "射的屋のおじちゃん",
-            "enName": "",
+            "enName": "Shooting Gallery Attendant",
             "jpText": "いらっしゃいいらっしゃーい！\r\n腹ごなしに射的で豪華景品ゲットはどうだい！",
-            "enText": "Welcome, welcome, welcome! Why don't you stop \nfor a while and get some great prizes at the \ntarget shooting!",
+            "enText": "Come one, come all! Help your digestion<n>along\nwith a little target practice at the<n>shooting\ngallery, and win some fabulous<n>prizes while you're\nat it!",
             "nextBlock": 12,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
                     "pathId": 7905999857957556942
                 },
                 {
-                    "origLen": 102,
-                    "pathId": 1840517043595467263
-                },
-                {
                     "origLen": 104,
                     "pathId": 1119593762524113634
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1840517043595467263
                 }
             ],
             "pathId": -1636323491035341404,
@@ -283,9 +306,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……はっ。",
-            "enText": "… haha.",
+            "enText": "Hm?",
             "nextBlock": 13,
             "origClipLength": 51,
+            "voiceIdx": 110,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 90,
@@ -293,11 +318,11 @@
                 },
                 {
                     "origLen": 62,
-                    "pathId": -4991999764045309202
+                    "pathId": 1473804597900565774
                 },
                 {
                     "origLen": 62,
-                    "pathId": 1473804597900565774
+                    "pathId": -4991999764045309202
                 }
             ],
             "pathId": 5958637111801282856,
@@ -305,11 +330,13 @@
         },
         {
             "jpName": "射的屋のおじちゃん",
-            "enName": "",
+            "enName": "Shooting Gallery Attendant",
             "jpText": "目玉は難攻不落の『景品取り放題券』！\r\n隣の大切な人も、大喜び間違いなしだよ～！",
-            "enText": "The highlight is the unassailable \n\"All-you-can-get\" prize ticket! The person \nnext to you is sure to be very happy!",
+            "enText": "The nigh-unobtainable grand prize is a<n>\ntake-all-you-want ticket! You'll be sure<n>to please\nthat special someone at your<n>side!",
             "nextBlock": 14,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 121,
@@ -317,11 +344,11 @@
                 },
                 {
                     "origLen": 108,
-                    "pathId": 12918484642183251
+                    "pathId": 4834811427503747136
                 },
                 {
                     "origLen": 108,
-                    "pathId": 4834811427503747136
+                    "pathId": 12918484642183251
                 }
             ],
             "pathId": 7735164453253926506,
@@ -331,21 +358,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……マスター、空腹は解消しました。\r\nぜひ次はマスターのご希望に応える許可を。",
-            "enText": "… Master, your hunger has been relieved. \nI hope you will give me permission to meet \nyour request next time.",
+            "enText": "Trainer, since you resolved my empty<n>stomach\ndilemma, I would like to<n>request permission to\ngrant your desires<n>next.",
             "nextBlock": 15,
             "origClipLength": 95,
+            "voiceIdx": 144,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 5748126477937873904
                 },
                 {
-                    "origLen": 145,
-                    "pathId": 594575782089576979
-                },
-                {
                     "origLen": 106,
                     "pathId": -7133385339412782086
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 594575782089576979
                 }
             ],
             "pathId": 3670502355651637114,
@@ -355,34 +384,36 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ちょうど射的屋にマスターのお気遣いへの\r\nお返しとして申し分ない景品があるようです。",
-            "enText": "It seems that the target shop has the perfect \nprize to repay the Master's kindness.",
+            "enText": "This shooting gallery seems to have the<n>perfect\nprize that will let me show you<n>my gratitude.",
             "nextBlock": 16,
             "origClipLength": 99,
+            "voiceIdx": 54,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "じゃあ射的やってみるか",
-                    "enText": "Well, let's do some shooting.",
+                    "enText": "Shall we give it a shot, then?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "じゃあ射的やってみようか",
-                    "enText": "Then let's try shooting.",
+                    "enText": "Shall we give it a shot, then?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "いや、他の屋台料理も食べ尽くそう",
-                    "enText": "No, let's eat up all the other street food.",
+                    "enText": "Nah, let's try all the other food instead.",
                     "nextBlock": 35
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 1234115415184303028
-                },
-                {
                     "origLen": 110,
                     "pathId": 2175693958097569171
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1234115415184303028
                 }
             ],
             "pathId": 2484845329337517701,
@@ -392,34 +423,36 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ちょうど射的屋にマスターのお気遣いへの\r\nお返しとして申し分ない景品があるようです。",
-            "enText": "It seems that the target shop has the perfect \nprize to repay the Master's kindness.",
+            "enText": "This shooting gallery seems to have the<n>perfect\nprize that will let me show you<n>my gratitude.",
             "nextBlock": 17,
             "origClipLength": 99,
+            "voiceIdx": 54,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "じゃあ射的やってみるか",
-                    "enText": "Well, let's do some shooting.",
+                    "enText": "Shall we give it a shot, then?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "じゃあ射的やってみようか",
-                    "enText": "Then let's try shooting.",
+                    "enText": "Shall we give it a shot, then?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "いや、他の屋台料理も食べ尽くそう",
-                    "enText": "No, let's eat up all the other street food.",
+                    "enText": "Nah, let's try all the other food instead.",
                     "nextBlock": 35
                 }
             ],
             "animData": [
                 {
-                    "origLen": 90,
-                    "pathId": 6446642497464267736
-                },
-                {
                     "origLen": 110,
                     "pathId": 1440463096466768507
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 6446642497464267736
                 }
             ],
             "pathId": 6454131498333425665,
@@ -429,17 +462,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして『景品取り放題券』を落とすべく、\r\n射的を始めたのだが……。",
-            "enText": "Thus, I started shooting at the targets in \norder to lose the \"all-you-can-get\" prize \ntickets…",
+            "enText": "She starts shooting in an attempt to win<n>the grand\nprize, but...",
             "nextBlock": 18,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 16,
-                    "pathId": 2701041952288628006
+                    "pathId": 1285563252476823263
                 },
                 {
                     "origLen": 16,
-                    "pathId": 1285563252476823263
+                    "pathId": 2701041952288628006
                 }
             ],
             "pathId": -1193776148610555537,
@@ -447,23 +482,25 @@
         },
         {
             "jpName": "観客",
-            "enName": "Crowd",
+            "enName": "Spectator",
             "jpText": "あぁ～～、また落ちなかった。\r\n10回も失敗したのに、お嬢ちゃん頑張るな。",
-            "enText": "Ahhhh, it didn't fall again. You've failed \nten times, little girl, but you're trying.",
+            "enText": "Aw, missed again. She's failed ten times,<n>but she's\nstill not giving up.",
             "nextBlock": 19,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
                     "pathId": 2940458636568995538
                 },
                 {
-                    "origLen": 18,
-                    "pathId": 8187229132341696310
-                },
-                {
                     "origLen": 17,
                     "pathId": 6353078469659363376
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 8187229132341696310
                 }
             ],
             "pathId": -3632601401929537521,
@@ -473,13 +510,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "射程+5㎜調整。\r\n発射角を3度加算……最大弾道高を再計算中。",
-            "enText": "Adjusted range by +5mm. Added 3 degrees to \nfiring angle… Recalculating maximum \nballistic height.",
+            "enText": "Adjusting range by five millimeters.<n>Adding three\ndegrees to firing angle...<n>Recalculating\ntrajectory...",
             "nextBlock": 20,
             "origClipLength": 85,
+            "voiceIdx": 63,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "門限もあるし、そろそろ帰ろう",
-                    "enText": "I've got a curfew. I'd better get home.",
+                    "enText": "It'll be curfew soon, so we'd better start\nheading home.",
                     "nextBlock": 20
                 }
             ],
@@ -489,12 +528,12 @@
                     "pathId": 5946454671096304397
                 },
                 {
-                    "origLen": 119,
-                    "pathId": -7265550242133415661
-                },
-                {
                     "origLen": 97,
                     "pathId": 6048872715113353490
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -7265550242133415661
                 }
             ],
             "pathId": -6482504864153461922,
@@ -504,21 +543,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……了解しました。\r\n問題ありません。次で落ちますので。",
-            "enText": "… Understood. No problem. \nI'll drop out next time.",
+            "enText": "...Understood. I have no issue. Because<n>the next\nshot will be the last.",
             "nextBlock": 21,
             "origClipLength": 81,
+            "voiceIdx": 47,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 7769353119514719186
                 },
                 {
-                    "origLen": 22,
-                    "pathId": -4017373024340042943
-                },
-                {
                     "origLen": 92,
                     "pathId": -3802719345161196003
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -4017373024340042943
                 }
             ],
             "pathId": 9113209682493709326,
@@ -528,17 +569,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（バシュ！　ドサッ）",
-            "enText": "(Bash! (Thud)",
+            "enText": "<i>Bang! Thunk.</i>",
             "nextBlock": 22,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 19,
-                    "pathId": 2053356776683701154
+                    "pathId": 9169083473739193160
                 },
                 {
                     "origLen": 19,
-                    "pathId": 9169083473739193160
+                    "pathId": 2053356776683701154
                 }
             ],
             "pathId": 2729254857164578516,
@@ -548,9 +591,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……ターゲット、撃破。",
-            "enText": "… target, destroyed.",
+            "enText": "Target destroyed.",
             "nextBlock": 23,
             "origClipLength": 59,
+            "voiceIdx": 5,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 89,
@@ -558,11 +603,11 @@
                 },
                 {
                     "origLen": 101,
-                    "pathId": 8255873859396978019
+                    "pathId": 8778557543026592348
                 },
                 {
                     "origLen": 101,
-                    "pathId": 8778557543026592348
+                    "pathId": 8255873859396978019
                 }
             ],
             "pathId": -1214720759314376267,
@@ -570,23 +615,25 @@
         },
         {
             "jpName": "観客",
-            "enName": "Crowd",
+            "enName": "Spectator",
             "jpText": "おおぉぉぉ～～～っ！！\r\n宣言通り落ちた～～～～！！",
-            "enText": "Ohhhh!!! It fell as declared: ～～～～!!!",
+            "enText": "Whoooa! She totally called that one!",
             "nextBlock": 24,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 115,
                     "pathId": -9204306219971040158
                 },
                 {
-                    "origLen": 49,
-                    "pathId": -3207724747988009148
-                },
-                {
                     "origLen": 89,
                     "pathId": 7195439642129261853
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3207724747988009148
                 }
             ],
             "pathId": -4693986185085411870,
@@ -594,11 +641,13 @@
         },
         {
             "jpName": "射的屋のおじちゃん",
-            "enName": "",
+            "enName": "Shooting Gallery Attendant",
             "jpText": "ッカァー！　完敗だ、嬢ちゃん！\r\nなんでも好きなのを好きなだけ持っていきな！",
-            "enText": "Crap! Total defeat, girl! Take whatever you \nwant, as long as you want it!",
+            "enText": "Haha! Looks like it's your victory, young<n>lady!\nTake as many prizes as you want!",
             "nextBlock": 25,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 112,
@@ -606,11 +655,11 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": -1216514931767295269
+                    "pathId": -7276409852648716469
                 },
                 {
                     "origLen": 105,
-                    "pathId": -7276409852648716469
+                    "pathId": -1216514931767295269
                 }
             ],
             "pathId": 7589559571698521096,
@@ -620,13 +669,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……とのことですが。\r\nマスター、なにが欲しいですか。",
-            "enText": "I've been told that you are with… \nMaster, what do you want?",
+            "enText": "Very well, then. Trainer, what would you<n>like?",
             "nextBlock": 26,
             "origClipLength": 80,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "ブルボンが好きな物を選んで！",
-                    "enText": "Pick something Bourbon would like!",
+                    "enText": "Pick whatever <i>you</i> want, Bourbon!",
                     "nextBlock": 26
                 }
             ],
@@ -636,12 +687,12 @@
                     "pathId": 8847554170644747103
                 },
                 {
-                    "origLen": 74,
-                    "pathId": 3822349588977485044
-                },
-                {
                     "origLen": 91,
                     "pathId": -5190425492047316269
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3822349588977485044
                 }
             ],
             "pathId": -3880170471042585167,
@@ -651,17 +702,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "私の……？\r\n……私の、好きな物。",
-            "enText": "My…?… My, what I like.",
+            "enText": "Whatever <i>I</i> want?",
             "nextBlock": 27,
             "origClipLength": 67,
+            "voiceIdx": 26,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 7453054782139421850
-                },
                 {
                     "origLen": 78,
                     "pathId": -7276062759497802802
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 7453054782139421850
                 }
             ],
             "pathId": -844818131920841055,
@@ -671,21 +724,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……わかりました。お待ちください。",
-            "enText": "I understand… Please wait.",
+            "enText": "Understood. Please wait.",
             "nextBlock": 28,
             "origClipLength": 67,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": 4979988318612036648
                 },
                 {
-                    "origLen": 97,
-                    "pathId": -182939735231533445
-                },
-                {
                     "origLen": 78,
                     "pathId": 414379536523976541
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -182939735231533445
                 }
             ],
             "pathId": -3770212028701782236,
@@ -695,17 +750,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "私たちにピッタリだと思い、\r\nお揃いで選んでみました。どうぞ。",
-            "enText": "We thought it would be perfect for us, so we \npicked out matching ones. Here you go.",
+            "enText": "I selected matching items that I think are<n>perfect\nfor us. Here.",
             "nextBlock": 29,
             "origClipLength": 85,
+            "voiceIdx": 92,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 1481110001505955829
-                },
                 {
                     "origLen": 125,
                     "pathId": -2964847768051752583
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 1481110001505955829
                 }
             ],
             "pathId": -3640013651968128337,
@@ -715,17 +772,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……マスターの手に、合えばいいのですが。",
-            "enText": "In the hands of the… \nmaster, I hope it fits.",
+            "enText": "I hope it fits your hand.",
             "nextBlock": 30,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 82,
-                    "pathId": -1265609780829458862
+                    "pathId": -8864438677002856922
                 },
                 {
                     "origLen": 82,
-                    "pathId": -8864438677002856922
+                    "pathId": -1265609780829458862
                 }
             ],
             "pathId": 5315443288158726576,
@@ -735,17 +794,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "受け取った景品を箱から取り出し、\r\nそっと手にしてみた……。",
-            "enText": "I took the prize out of the box and held it \ngently in my hand…",
+            "enText": "I remove the prize from the box and<n>gently hold\nit.",
             "nextBlock": 31,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
-                    "pathId": 5354874495076036620
+                    "pathId": 6619506704613794833
                 },
                 {
                     "origLen": 18,
-                    "pathId": 6619506704613794833
+                    "pathId": 5354874495076036620
                 }
             ],
             "pathId": -590584829063096488,
@@ -755,24 +816,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "いかがですか？\r\nハンドグリップ、握力の負荷の具合は。",
-            "enText": "How's it going? How is the \nhand grip and grip load?",
+            "enText": "What do you think? It's a hand grip. How<n>does it\nfeel?",
             "nextBlock": 32,
             "origClipLength": 80,
+            "voiceIdx": 54,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "いい感じ……？",
-                    "enText": "Looking good…?",
+                    "enText": "Um... good?",
                     "nextBlock": 32
                 }
             ],
             "animData": [
                 {
-                    "origLen": 98,
-                    "pathId": 9063802977728374434
-                },
-                {
                     "origLen": 92,
                     "pathId": 6185188735631134825
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 9063802977728374434
                 }
             ],
             "pathId": 1052872465959613506,
@@ -782,17 +845,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "よかったです。\r\nこれで一緒に鍛え、高め合えますね。",
-            "enText": "I'm glad. Now we can train and \nimprove each other together.",
+            "enText": "Excellent. Now we can train and improve<n>\ntogether.",
             "nextBlock": 33,
             "origClipLength": 78,
+            "voiceIdx": 59,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -2455277576856549448
-                },
                 {
                     "origLen": 89,
                     "pathId": -608304059149211009
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2455277576856549448
                 }
             ],
             "pathId": 5456752457594646334,
@@ -802,17 +867,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……これにて、ミッションコンプリートです。",
-            "enText": "… This is now mission complete.",
+            "enText": "Mission complete.",
             "nextBlock": 34,
             "origClipLength": 72,
+            "voiceIdx": 0,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 3180863861897720245
-                },
                 {
                     "origLen": 83,
                     "pathId": 6786866174426525315
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 3180863861897720245
                 }
             ],
             "pathId": -7615439126549014154,
@@ -822,17 +889,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "お揃いのハンドグリップで鍛えながら、\r\n学園に戻るのだった……！",
-            "enText": "They return to the school, working out with \ntheir matching hand grips…!",
+            "enText": "We return to the academy while working<n>out with\nour matching hand grips.",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 19,
-                    "pathId": 5412270948905503592
+                    "pathId": 4968642872591793741
                 },
                 {
                     "origLen": 19,
-                    "pathId": 4968642872591793741
+                    "pathId": 5412270948905503592
                 }
             ],
             "pathId": 9017645583894516959,
@@ -842,18 +911,20 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "それは私の希望で、私が美味しいだけです。\r\nマスターへのお礼にはなりません。",
-            "enText": "That's just what I want, and I'm delicious. \nIt is not a thank you to the Master.",
+            "enText": "That is only what I desire, and thus, it<n>will only\nbenefit me... It is no way to<n>thank you.",
             "nextBlock": 36,
             "origClipLength": 94,
+            "voiceIdx": 88,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "それが俺の希望なんだ",
-                    "enText": "That's what I'm hoping for.",
+                    "enText": "Whatever makes you happy makes me happy.",
                     "nextBlock": 36
                 },
                 {
                     "jpText": "それが私の希望なの",
-                    "enText": "That's what I want.",
+                    "enText": "Whatever makes you happy makes me happy.",
                     "nextBlock": 36
                 }
             ],
@@ -863,12 +934,12 @@
                     "pathId": -2075884384165722016
                 },
                 {
-                    "origLen": 135,
-                    "pathId": -3528216886749471910
-                },
-                {
                     "origLen": 105,
                     "pathId": -4653686859858909382
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -3528216886749471910
                 }
             ],
             "pathId": -7694163403982598494,
@@ -878,17 +949,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "私の希望が、マスターの……希望……。",
-            "enText": "My hope is that the master \n… hope…",
+            "enText": "You want to see me happy...",
             "nextBlock": 37,
             "origClipLength": 68,
+            "voiceIdx": 26,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 79,
-                    "pathId": -1258559899658077510
+                    "pathId": 7102706458210600664
                 },
                 {
                     "origLen": 79,
-                    "pathId": 7102706458210600664
+                    "pathId": -1258559899658077510
                 }
             ],
             "pathId": -3644300536427647955,
@@ -898,17 +971,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……承知しました。\r\nならば全力で食べ、その思いにお応えします。",
-            "enText": "…Yes, sir. Then I will do my best to eat \nit and respond to your wishes.",
+            "enText": "Understood. I will eat with all my might<n>if that is\nwhat you wish.",
             "nextBlock": 38,
             "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -2062885829447822090
-                },
                 {
                     "origLen": 97,
                     "pathId": 4847200569930597750
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -2062885829447822090
                 }
             ],
             "pathId": -5492980571172763934,
@@ -918,21 +993,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "――オペレーション『屋台を制覇』を開始。\r\nまずは、あのたい焼きから。",
-            "enText": "—Began Operation \"Conquer the Stalls\". Let's \nstart with the taiyaki.",
+            "enText": "Commencing food stall conquest. Let's<n>start with\nthat taiyaki stall.",
             "nextBlock": 39,
             "origClipLength": 90,
+            "voiceIdx": 87,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 141,
                     "pathId": -2962736448926449928
                 },
                 {
-                    "origLen": 84,
-                    "pathId": -8561675955622135313
-                },
-                {
                     "origLen": 101,
                     "pathId": 6340652195235349866
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -8561675955622135313
                 }
             ],
             "pathId": 5080333768220646591,
@@ -942,25 +1019,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "もぐもぐ、もぐも――",
-            "enText": "Moxie, moxie—",
+            "enText": "<i>Munch, munch...</i>",
             "nextBlock": 40,
             "origClipLength": 58,
+            "voiceIdx": 59,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 196,
                     "pathId": 3600853115612981394
                 },
                 {
-                    "origLen": 90,
-                    "pathId": -8437165998245948478
+                    "origLen": 116,
+                    "pathId": -1386583979329623669
                 },
                 {
                     "origLen": 129,
                     "pathId": 6172279301740016840
                 },
                 {
-                    "origLen": 116,
-                    "pathId": -1386583979329623669
+                    "origLen": 90,
+                    "pathId": -8437165998245948478
                 }
             ],
             "pathId": 2672964857996008214,
@@ -970,18 +1049,20 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "…………！？",
-            "enText": "…!?",
+            "enText": "...!",
             "nextBlock": 41,
             "origClipLength": 52,
+            "voiceIdx": 111,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "ど、どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "Wh-what is it?",
                     "nextBlock": 41
                 },
                 {
                     "jpText": "ど、どうしたの？",
-                    "enText": "What's wrong with you?",
+                    "enText": "Wh-what is it?",
                     "nextBlock": 41
                 }
             ],
@@ -991,16 +1072,16 @@
                     "pathId": -7494290189217986099
                 },
                 {
-                    "origLen": 30,
-                    "pathId": -2544796058741396696
+                    "origLen": 116,
+                    "pathId": -1734296377070858113
                 },
                 {
                     "origLen": 63,
                     "pathId": 8625573825497110689
                 },
                 {
-                    "origLen": 116,
-                    "pathId": -1734296377070858113
+                    "origLen": 30,
+                    "pathId": -2544796058741396696
                 }
             ],
             "pathId": -9217488867448566882,
@@ -1010,21 +1091,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……報告します。データ以上の美味しさに、\r\n思考回路がショートしていました。",
-            "enText": "… reports. It tasted so much \nbetter than the data, it short-circuited \nmy thought process.",
+            "enText": "Report—flavors are beyond expected<n>levels,\nresulting in a short-circuit in my<n>thought process.",
             "nextBlock": 42,
             "origClipLength": 94,
+            "voiceIdx": 7,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
-                    "origLen": 87,
-                    "pathId": -5700128047581054673
+                    "origLen": 116,
+                    "pathId": -7445627742607561318
                 },
                 {
                     "origLen": 105,
                     "pathId": 5220685173841986585
                 },
                 {
-                    "origLen": 116,
-                    "pathId": -7445627742607561318
+                    "origLen": 87,
+                    "pathId": -5700128047581054673
                 }
             ],
             "pathId": 3089627398161118580,
@@ -1034,25 +1117,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "特別な調理、味付け……共に確認できず。\r\n普通のたい焼きと判断。",
-            "enText": "No special cooking or seasoning… \ncould be confirmed. It was judged \nto be an ordinary taiyaki.",
+            "enText": "I am unable to identify any special<n>cooking\ntechniques or seasoning used...<n>This must be an\nordinary taiyaki.",
             "nextBlock": 43,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 144,
                     "pathId": 2189119216605482182
                 },
                 {
-                    "origLen": 70,
-                    "pathId": -8578095432334566133
+                    "origLen": 116,
+                    "pathId": 8268393631053805612
                 },
                 {
                     "origLen": 97,
                     "pathId": 6368442934971447815
                 },
                 {
-                    "origLen": 116,
-                    "pathId": 8268393631053805612
+                    "origLen": 70,
+                    "pathId": -8578095432334566133
                 }
             ],
             "pathId": 605521902950248013,
@@ -1062,13 +1147,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "焼きそば同様……なぜこんなにも美味しく、\r\n気持ちが高揚しているのでしょうか。",
-            "enText": "Like yakisoba… why is it \nso delicious and uplifting?",
+            "enText": "Similar to the yakisoba, its deliciousness<n>\nperplexes me. Why does eating it make<n>me feel\nso elated?",
             "nextBlock": 44,
             "origClipLength": 95,
+            "voiceIdx": 20,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "楽しいから、とか？",
-                    "enText": "Like, because it's fun?",
+                    "enText": "Maybe because you're having fun?",
                     "nextBlock": 44
                 }
             ],
@@ -1079,7 +1166,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": 5335178502650300436
+                    "pathId": -6243105568294272888
                 },
                 {
                     "origLen": 106,
@@ -1087,7 +1174,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": -6243105568294272888
+                    "pathId": 5335178502650300436
                 }
             ],
             "pathId": -2925573691630325137,
@@ -1097,9 +1184,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……なるほど。\r\n以前、データで見たことがあります。",
-            "enText": "… I see. I've seen this in data before.",
+            "enText": "I see. I have seen data on this before.",
             "nextBlock": 45,
             "origClipLength": 78,
+            "voiceIdx": 38,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 30,
@@ -1107,7 +1196,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": -7073664949848212224
+                    "pathId": 4989161914566383761
                 },
                 {
                     "origLen": 89,
@@ -1115,7 +1204,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": 4989161914566383761
+                    "pathId": -7073664949848212224
                 }
             ],
             "pathId": 4047046838272034317,
@@ -1125,9 +1214,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "気持ちと味覚は連動している。\r\nつまり『幸福感は、最高の調味料』だと。",
-            "enText": "Feelings and tastes are interlinked. In other \nwords, \"Happiness is the best seasoning.",
+            "enText": "Feelings and flavor can operate<n>together. I\nbelieve the words were<n>\"happiness is the best\nseasoning.\"",
             "nextBlock": 46,
             "origClipLength": 90,
+            "voiceIdx": 8,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 149,
@@ -1135,7 +1226,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": 8186918219206513740
+                    "pathId": -4286205368647298457
                 },
                 {
                     "origLen": 101,
@@ -1143,7 +1234,7 @@
                 },
                 {
                     "origLen": 116,
-                    "pathId": -4286205368647298457
+                    "pathId": 8186918219206513740
                 }
             ],
             "pathId": -5083772446095534763,
@@ -1153,25 +1244,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……マスター、次はお好み焼きを。\r\nどこまで美味しくなるのか、興味があります。",
-            "enText": "… Master, next up is okonomiyaki. I'm \ninterested to see how good it will be.",
+            "enText": "Let us have okonomiyaki next. I am<n>intrigued as\nto whether it will surpass my<n>expectations as well.",
             "nextBlock": 47,
             "origClipLength": 95,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 783914390888723398
                 },
                 {
-                    "origLen": 85,
-                    "pathId": -1386472926620844888
+                    "origLen": 116,
+                    "pathId": -7833300784172930097
                 },
                 {
                     "origLen": 106,
                     "pathId": -4736682126823380332
                 },
                 {
-                    "origLen": 116,
-                    "pathId": -7833300784172930097
+                    "origLen": 85,
+                    "pathId": -1386472926620844888
                 }
             ],
             "pathId": 2468092242267728486,
@@ -1181,21 +1274,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後も、ミホノブルボンは\r\n屋台料理を食べ続け……。",
-            "enText": "After that, Mihono Bourbon continued to eat \nthe food stalls…",
+            "enText": "We continue ordering from the food<n>stalls.",
             "nextBlock": 48,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
-                    "origLen": 149,
-                    "pathId": 549444676328994103
+                    "origLen": 10,
+                    "pathId": 288914105579701134
                 },
                 {
                     "origLen": 92,
                     "pathId": 8051158585121730435
                 },
                 {
-                    "origLen": 10,
-                    "pathId": 288914105579701134
+                    "origLen": 149,
+                    "pathId": 549444676328994103
                 }
             ],
             "pathId": -7324510883751781252,
@@ -1205,17 +1300,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "けぷっ……わたあめ完食。",
-            "enText": "Keppu… rutted rice candy finished.",
+            "enText": "<i>Burp...</i> Consumption of cotton candy<n>complete.",
             "nextBlock": 49,
             "origClipLength": 60,
+            "voiceIdx": 46,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -7847126184421195241
-                },
                 {
                     "origLen": 72,
                     "pathId": 5696862755464054850
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -7847126184421195241
                 }
             ],
             "pathId": 1331953060669955151,
@@ -1225,17 +1322,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "これで屋台料理、全ての制覇。\r\nエネルギーも充填完了しました。",
-            "enText": "Now I've conquered all the food \nstalls. I'm ready to go.",
+            "enText": "We've visited every stall, and my energy<n>levels\nare fully replenished.",
             "nextBlock": 50,
             "origClipLength": 85,
+            "voiceIdx": 5,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": 241328882689699337
-                },
                 {
                     "origLen": 96,
                     "pathId": -5785950517011512567
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 241328882689699337
                 }
             ],
             "pathId": 8660471988372245209,
@@ -1245,29 +1344,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……マスターはいかがですか。\r\nご希望に応えられたでしょうか。",
-            "enText": "How about the… master? I hope \nI have met your expectations.",
+            "enText": "What about you, Trainer? Did the<n>experience\nmeet your expectations?",
             "nextBlock": 51,
             "origClipLength": 85,
+            "voiceIdx": 54,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "もちろん！楽しかった！",
-                    "enText": "Of course! It was fun!",
+                    "enText": "Of course! I had a lot of fun!",
                     "nextBlock": 51
                 },
                 {
                     "jpText": "もちろん！楽しかったよ！",
-                    "enText": "Of course! It was fun!",
+                    "enText": "Of course! I had a lot of fun!",
                     "nextBlock": 51
                 }
             ],
             "animData": [
                 {
-                    "origLen": 69,
-                    "pathId": -585931404419241999
-                },
-                {
                     "origLen": 96,
                     "pathId": 1153883030635660674
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -585931404419241999
                 }
             ],
             "pathId": -5507148330943401066,
@@ -1277,9 +1378,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "では……ミッションコンプリート。\r\nメモリに記録しておきます。",
-            "enText": "Now go to… mission complete. \nRecord it in memory.",
+            "enText": "Then my mission is complete. Currently<n>saving this\nexperience to my memory<n>logs.",
             "nextBlock": 52,
             "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 30,
@@ -1287,11 +1390,11 @@
                 },
                 {
                     "origLen": 96,
-                    "pathId": -2923304694275431387
+                    "pathId": -1189659985430885614
                 },
                 {
                     "origLen": 96,
-                    "pathId": -1189659985430885614
+                    "pathId": -2923304694275431387
                 }
             ],
             "pathId": -2645119989312146314,
@@ -1301,17 +1404,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "任務の完了と……\r\nマスターと楽しんだ、この味を。",
-            "enText": "Mission accomplished and… enjoyed \nwith Master, this taste.",
+            "enText": "Recording today's events along with all<n>the\nvarious culinary experiences that I<n>enjoyed with\nyou.",
             "nextBlock": 53,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": 5770201101560716570
-                },
                 {
                     "origLen": 88,
                     "pathId": -3441247127255582948
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5770201101560716570
                 }
             ],
             "pathId": -1840610793634546956,
@@ -1321,17 +1426,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "思い出すだけで……どんな坂路も、\r\nどこまでも駆けられそうです。",
-            "enText": "Just by remembering… I can \nrun up and down any hill.",
+            "enText": "I feel like if I access these logs, I'll be<n>able to run\nup the steepest incline<n>indefinitely.",
             "nextBlock": 54,
             "origClipLength": 86,
+            "voiceIdx": 74,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 3562504723259201411
-                },
                 {
                     "origLen": 97,
                     "pathId": -3863991156685712144
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 3562504723259201411
                 }
             ],
             "pathId": -2154451455504370107,
@@ -1341,22 +1448,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "屋台料理は、ミホノブルボンの\r\nエネルギーだけでなく……\n心もいっぱいにしてくれたのだった。",
-            "enText": "The food stalls not only filled \nMihono Bourbon with energy, but \nalso… filled her heart.",
+            "enText": "Today's food doesn't only replenish<n>Mihono\nBourbon's energy levels, but<n>also fills her heart\nwith joy.",
             "nextBlock": -1,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -8840338007006753537
+                    "pathId": 454328026211518659
                 },
                 {
                     "origLen": 20,
-                    "pathId": 454328026211518659
+                    "pathId": -8840338007006753537
                 }
             ],
             "pathId": -1170360170683508447,
             "blockIdx": 54
         }
-    ],
-    "modified": 1657444309
+    ]
 }

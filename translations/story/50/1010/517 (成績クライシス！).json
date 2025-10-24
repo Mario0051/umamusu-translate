@@ -1,21 +1,24 @@
 {
-    "version": 5,
-    "bundle": "ZHJCVQXBMNK7CCTIJVMD6A55WLND6EN6",
+    "version": 6,
+    "bundle": "TWGJLYAAIJ3TWD3E32XLGI4QC6R3YA7D",
     "type": "story",
     "storyId": "501010517",
     "title": "成績クライシス！",
+    "enTitle": "Academic Crisis!",
     "text": [
         {
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "うわぁぁぁぁーん！\r\nトレーナーさーーーん！！",
-            "enText": "Woah! Trainers!",
+            "enText": "Waaah! Traineeer!",
             "nextBlock": 2,
             "origClipLength": 60,
+            "voiceIdx": 23,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
-                    "enText": "What's going on?",
+                    "enText": "What's wrong?",
                     "nextBlock": 2
                 },
                 {
@@ -27,11 +30,11 @@
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": -7279640844586007829
+                    "pathId": 2335342317780997955
                 },
                 {
                     "origLen": 71,
-                    "pathId": 2335342317780997955
+                    "pathId": -7279640844586007829
                 }
             ],
             "pathId": -7261345634390612524,
@@ -41,17 +44,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "テストのスコアが悪いって、\r\n先生に怒られちゃいマシターッ！",
-            "enText": "I'm getting in trouble with my teacher for \nbad test scores!",
+            "enText": "My test score was so bad, my teacher<n>got\nsteamin' mad!",
             "nextBlock": 3,
             "origClipLength": 64,
+            "voiceIdx": 29,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 7904648455904091864
-                },
                 {
                     "origLen": 75,
                     "pathId": -3980611452809993261
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 7904648455904091864
                 }
             ],
             "pathId": -7299105304436244964,
@@ -61,17 +66,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "次のテストも悪かったら、センセーと\r\nマンツーマンのエクストラレッスンなのデス！",
-            "enText": "If I don't do well on the next \ntest, I'll have an extra one-on-one \nlesson with my teacher!",
+            "enText": "I gotta do extra lessons if I flunk another<n>one!",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": 18,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -6223310167923759819
-                },
                 {
                     "origLen": 82,
                     "pathId": 6813592552428461845
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -6223310167923759819
                 }
             ],
             "pathId": -6969819995599455576,
@@ -81,17 +88,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "うぅ～……これは勉強しなきゃデスネー……。",
-            "enText": "Ughhhh…… I have to study this desu ne ……",
+            "enText": "Urgh... I'd better get to studying...",
             "nextBlock": 5,
             "origClipLength": 58,
+            "voiceIdx": 17,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 1196566613027590119
-                },
                 {
                     "origLen": 69,
                     "pathId": -2740641940748766018
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 1196566613027590119
                 }
             ],
             "pathId": -2632492174449487718,
@@ -101,22 +110,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "この出来事のせいで、タイキシャトルは\r\nしばらく元気がなくなってしまった。",
-            "enText": "Because of this incident, the Taiki Shattle \nhas been listless for some time.",
+            "enText": "The whole ordeal dampens Taiki<n>Shuttle's spirits\nfor a while.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": 2918048424504667831
+                    "pathId": -5893036581537122691
                 },
                 {
                     "origLen": 80,
-                    "pathId": -5893036581537122691
+                    "pathId": 2918048424504667831
                 }
             ],
             "pathId": -1080123396940545470,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555055
+    ]
 }

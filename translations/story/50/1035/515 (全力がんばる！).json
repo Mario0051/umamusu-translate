@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "RGK3P74POFNUEQ6ISSHAQSIN357FN6FD",
+    "version": 6,
+    "bundle": "KBVTBTAEHAN55BOXYYJXEEMNU3AJOMJL",
     "type": "story",
     "storyId": "501035515",
     "title": "全力がんばる！",
+    "enTitle": "Full-Power Effort!",
     "text": [
         {
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "おろろろろろろ～～～んっっ！！\r\nぐすっ、すごいよぉぉぉ～～～！！",
-            "enText": "Oroooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! \nGosh, that's great～～!",
+            "enText": "Oh woooow! <i>Sniffle...</i> This is greeeaat!",
             "nextBlock": 2,
             "origClipLength": 119,
+            "voiceIdx": 23,
+            "voiceSheetId": "051035001",
             "pathId": -2880758968312258777,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――カフェテリアにやってくると、\r\n聞き慣れた泣き声が響いていた……。",
-            "enText": "―I came to the cafeteria to find the familiar \nsound of crying. ……",
+            "enText": "As I arrive at the cafeteria, I hear a<n>familiar voice\ncrying...",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4211038644048141692,
             "blockIdx": 2
         },
@@ -29,37 +34,39 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うううっ、うえええ～！\r\n感激だぁぁぁぁ～～！！",
-            "enText": "Uhhhhhhhhhhhhhhhh～! I'm so impressed ah～!",
+            "enText": "Aaagh... Waaaaah! It's so overwhelming!",
             "nextBlock": 4,
             "origClipLength": 85,
+            "voiceIdx": 63,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "大丈夫か……？",
-                    "enText": "Daimler Ka ……?",
+                    "enText": "Hey, are you okay?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "大丈夫……？",
-                    "enText": "The great man ……?",
+                    "enText": "Hey, are you okay?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
                     "origLen": 125,
-                    "pathId": -6130357489058260072
-                },
-                {
-                    "origLen": 125,
                     "pathId": 4505787920315253766
                 },
                 {
                     "origLen": 125,
-                    "pathId": 7013542055499729160
+                    "pathId": -6130357489058260072
                 },
                 {
                     "origLen": 125,
                     "pathId": -4891913717885153242
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 7013542055499729160
                 }
             ],
             "pathId": 6036582347970731364,
@@ -69,9 +76,11 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あうぅぅぅ、トレーナーさぁんっ！！\r\nあわっ、あうううっ、はわわ～～～っ！！",
-            "enText": "Aaahhhh, trainer! Aaahhhh, ahhhhh, hahwa～!",
+            "enText": "Awww, Trainer! I cagn! Isshaw! Waaaah!",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": 28,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 72,
@@ -79,19 +88,19 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": -5041902758018241775
-                },
-                {
-                    "origLen": 80,
                     "pathId": -1172668604727560851
                 },
                 {
                     "origLen": 80,
-                    "pathId": -5085671170248871180
+                    "pathId": -5041902758018241775
                 },
                 {
                     "origLen": 80,
                     "pathId": -4754339028680644613
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -5085671170248871180
                 }
             ],
             "pathId": -2701113605542931185,
@@ -101,9 +110,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや、何喋ってんのかわかんないっつの。",
-            "enText": "No, I don't know what you are talking about.",
+            "enText": "Uh, if you're gonna talk, can you try<n>using words?",
             "nextBlock": 6,
             "origClipLength": 57,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 72,
@@ -111,19 +122,19 @@
                 },
                 {
                     "origLen": 68,
+                    "pathId": -1657060977969714797
+                },
+                {
+                    "origLen": 68,
                     "pathId": -1107621607418860694
                 },
                 {
                     "origLen": 68,
-                    "pathId": -1657060977969714797
+                    "pathId": -4845352212630017422
                 },
                 {
                     "origLen": 34,
                     "pathId": 4559099767538807252
-                },
-                {
-                    "origLen": 68,
-                    "pathId": -4845352212630017422
                 }
             ],
             "pathId": 6291256933146028541,
@@ -133,9 +144,11 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "チケットのトレーナー、安心してくれ。\r\nいつもの“感動グセ”だ。",
-            "enText": "Ticket trainers, don't worry. It's the usual \n\"impressionist\" routine.",
+            "enText": "Don't worry, Trainer. It's the same<n>emotional\nsniffles as usual.",
             "nextBlock": 7,
             "origClipLength": 65,
+            "voiceIdx": 37,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 20,
@@ -143,27 +156,27 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": -2163300536621087490
-                },
-                {
-                    "origLen": 86,
                     "pathId": 6979936061876540336
                 },
                 {
-                    "origLen": 10,
-                    "pathId": -473018635976339172
+                    "origLen": 86,
+                    "pathId": -2163300536621087490
                 },
                 {
                     "origLen": 10,
                     "pathId": 8105138641558801408
                 },
                 {
-                    "origLen": 86,
-                    "pathId": 3528138420398706011
+                    "origLen": 10,
+                    "pathId": -473018635976339172
                 },
                 {
                     "origLen": 86,
                     "pathId": 1880288062551731992
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3528138420398706011
                 }
             ],
             "pathId": -8829907698056086419,
@@ -173,25 +186,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "今、雑誌の『勝負服特集』を\r\n3人で読んでいたのだが……。",
-            "enText": "The three of us were just reading the \nmagazine's \"Winning Clothes Special\" at ……",
+            "enText": "We were reading the racewear coverage<n>in this\nmagazine together.",
             "nextBlock": 8,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 7904860645745521250
+                },
                 {
                     "origLen": 74,
                     "pathId": -2228812554084289230
                 },
                 {
                     "origLen": 74,
-                    "pathId": 7904860645745521250
+                    "pathId": -8734226738682905389
                 },
                 {
                     "origLen": 21,
                     "pathId": -4390825796017019531
-                },
-                {
-                    "origLen": 74,
-                    "pathId": -8734226738682905389
                 }
             ],
             "pathId": -7649379918751325842,
@@ -201,25 +216,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "そのインタビューに、\r\n何やら感銘を受けたようでね。",
-            "enText": "She seemed to be impressed by the interview.",
+            "enText": "For some reason, she was deeply moved<n>by the\ninterview.",
             "nextBlock": 9,
             "origClipLength": 61,
+            "voiceIdx": 5,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6792048995703871464
+                },
                 {
                     "origLen": 72,
                     "pathId": -7941341393054122163
                 },
                 {
                     "origLen": 72,
-                    "pathId": 6792048995703871464
+                    "pathId": -5827671970344204611
                 },
                 {
                     "origLen": 34,
                     "pathId": -6175018253180424852
-                },
-                {
-                    "origLen": 72,
-                    "pathId": -5827671970344204611
                 }
             ],
             "pathId": 7453410985890815619,
@@ -229,25 +246,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だって、みんな色んな想いを服に込めて、\r\n走ってるんだなって思ったらぁ～……！",
-            "enText": "Because I think everyone is running \nwith so many thoughts and feelings \nin their clothes… ……!",
+            "enText": "Well, of course I was! When I thought<n>about all\nthe emotions held in all those<n>racers' outfits when\nthey compete...",
             "nextBlock": 10,
             "origClipLength": 70,
+            "voiceIdx": 22,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": -1976012624970395939
-                },
                 {
                     "origLen": 147,
                     "pathId": 8897826648052732615
                 },
                 {
-                    "origLen": 124,
-                    "pathId": 819987536357880812
+                    "origLen": 67,
+                    "pathId": -1976012624970395939
                 },
                 {
                     "origLen": 124,
                     "pathId": -6369700818427886826
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 819987536357880812
                 }
             ],
             "pathId": -2293536966549132318,
@@ -257,25 +276,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "アタシも初めて勝負服着た時のこと、\r\n思い出しちゃって……うぉぉぉぉ～んっ！！",
-            "enText": "I remember the first time I put on my winning \noutfit too.…… \nOooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!",
+            "enText": "I remembered the first time I put on my<n>own\nracewear, and... Waaaaah!",
             "nextBlock": 11,
             "origClipLength": 119,
+            "voiceIdx": 23,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -6624814481709078898
+                },
                 {
                     "origLen": 88,
                     "pathId": -6455210886953554472
                 },
                 {
                     "origLen": 130,
-                    "pathId": -6624814481709078898
+                    "pathId": 5131851595912576162
                 },
                 {
                     "origLen": 86,
                     "pathId": 734774650705302068
-                },
-                {
-                    "origLen": 130,
-                    "pathId": 5131851595912576162
                 }
             ],
             "pathId": -1286383430037147530,
@@ -285,33 +306,35 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "あー、あのときのアンタ、\r\nホンットにウザかった……――",
-            "enText": "Oh, you were such a pain \nin the ass that time. ……―",
+            "enText": "Oh, I remember. You were super<n>annoying back\nthen too.",
             "nextBlock": 12,
             "origClipLength": 63,
+            "voiceIdx": 21,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 84,
-                    "pathId": -4047164993069077576
-                },
                 {
                     "origLen": 84,
                     "pathId": -9139769230106763785
                 },
                 {
                     "origLen": 84,
-                    "pathId": -8752587749119174680
+                    "pathId": -4047164993069077576
                 },
                 {
                     "origLen": 84,
                     "pathId": 9051487971388787688
                 },
                 {
-                    "origLen": 11,
-                    "pathId": 953888512926770164
+                    "origLen": 84,
+                    "pathId": -8752587749119174680
                 },
                 {
                     "origLen": 11,
                     "pathId": 8188103157350600450
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 953888512926770164
                 }
             ],
             "pathId": -5500480264092780017,
@@ -321,33 +344,35 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ねえっ、見て見て見て見て見てっ！！\r\nアタシの勝負服、届いたよ～～～～っ！！",
-            "enText": "Hey, look, look, look, look, look! My winning \noutfit has arrived. ～～～～!",
+            "enText": "Hey, look, look, look! My racewear's<n>here!",
             "nextBlock": 13,
             "origClipLength": 69,
+            "voiceIdx": 53,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": -7681703868485204585
-                },
                 {
                     "origLen": 14,
                     "pathId": -6985347801051550540
                 },
                 {
-                    "origLen": 92,
-                    "pathId": -4083401894126678504
+                    "origLen": 14,
+                    "pathId": -7681703868485204585
                 },
                 {
                     "origLen": 111,
                     "pathId": 6482372928968743348
                 },
                 {
-                    "origLen": 105,
-                    "pathId": -6505472442190888098
+                    "origLen": 92,
+                    "pathId": -4083401894126678504
                 },
                 {
                     "origLen": 105,
                     "pathId": -2562975924679521492
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -6505472442190888098
                 }
             ],
             "pathId": -2518883994677602794,
@@ -357,17 +382,23 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "うるっさ……見たらわかるっての。",
-            "enText": "Shut up, you'll know it when you see ……",
+            "enText": "Pipe down, we can see.",
             "nextBlock": 14,
             "origClipLength": 55,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -521734990397380282
+                },
                 {
                     "origLen": 66,
                     "pathId": 6785575125997520106
                 },
                 {
                     "origLen": 66,
-                    "pathId": -521734990397380282
+                    "pathId": -5236866598845713851
                 },
                 {
                     "origLen": 33,
@@ -375,15 +406,11 @@
                 },
                 {
                     "origLen": 66,
-                    "pathId": -5236866598845713851
+                    "pathId": -6695394957373286690
                 },
                 {
                     "origLen": 66,
                     "pathId": 5639185941267014159
-                },
-                {
-                    "origLen": 66,
-                    "pathId": -6695394957373286690
                 }
             ],
             "pathId": -2693044769411302240,
@@ -393,25 +420,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ふむ、実によく似合っているな。\r\nまさしく君のための勝負服と言える。",
-            "enText": "Hmmm, it really suits you well. It is truly a \nwinning outfit for you.",
+            "enText": "Hmm, I must say, it suits you well. It<n>looks like it's\nmade just for you.",
             "nextBlock": 15,
             "origClipLength": 67,
+            "voiceIdx": 8,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 2405326415910373226
+                },
                 {
                     "origLen": 71,
                     "pathId": -3065077406880450694
                 },
                 {
-                    "origLen": 88,
-                    "pathId": 2405326415910373226
+                    "origLen": 12,
+                    "pathId": -2883847275448142546
                 },
                 {
                     "origLen": 12,
                     "pathId": -2406340871967735982
                 },
                 {
-                    "origLen": 12,
-                    "pathId": -2883847275448142546
+                    "origLen": 88,
+                    "pathId": -5820674502119323092
                 },
                 {
                     "origLen": 88,
@@ -419,15 +452,11 @@
                 },
                 {
                     "origLen": 88,
-                    "pathId": -5820674502119323092
+                    "pathId": -364159376406981891
                 },
                 {
                     "origLen": 71,
                     "pathId": -5360474310190395382
-                },
-                {
-                    "origLen": 88,
-                    "pathId": -364159376406981891
                 }
             ],
             "pathId": 3656373146975807156,
@@ -437,17 +466,23 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だよねだよねだよねっ！？\r\nすっごいしっくりきてるもんっ！",
-            "enText": "I know, right? It feels so good!",
+            "enText": "I know! You can tell, right? It fits so well!",
             "nextBlock": 16,
             "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 9053490523209713952
+                },
                 {
                     "origLen": 52,
                     "pathId": 5319050767309680913
                 },
                 {
                     "origLen": 74,
-                    "pathId": 9053490523209713952
+                    "pathId": -1971462632053645260
                 },
                 {
                     "origLen": 74,
@@ -455,15 +490,11 @@
                 },
                 {
                     "origLen": 74,
-                    "pathId": -1971462632053645260
+                    "pathId": 665937730340306441
                 },
                 {
                     "origLen": 52,
                     "pathId": -4495268249026862495
-                },
-                {
-                    "origLen": 74,
-                    "pathId": 665937730340306441
                 }
             ],
             "pathId": 5393947700733461034,
@@ -473,17 +504,23 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ねえねえねえ、タイシンは！？\r\nなんか感想ないの～～っ！？",
-            "enText": "Hey hey hey, Taishin! I don't \nhave any feedback～!",
+            "enText": "Hey, Taishin! Hey, hey! What do you<n>think?",
             "nextBlock": 17,
             "origClipLength": 63,
+            "voiceIdx": 52,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3657555476291907606
+                },
                 {
                     "origLen": 46,
                     "pathId": -7882678931338071767
                 },
                 {
                     "origLen": 74,
-                    "pathId": -3657555476291907606
+                    "pathId": -5543106408381003038
                 },
                 {
                     "origLen": 45,
@@ -491,15 +528,11 @@
                 },
                 {
                     "origLen": 74,
-                    "pathId": -5543106408381003038
+                    "pathId": 1254003886565386302
                 },
                 {
                     "origLen": 46,
                     "pathId": -2033713506047653221
-                },
-                {
-                    "origLen": 74,
-                    "pathId": 1254003886565386302
                 }
             ],
             "pathId": -5413168509520358158,
@@ -509,41 +542,43 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "………………赤いね。",
-            "enText": "…………… It's red.",
+            "enText": "...Sure is red.",
             "nextBlock": 18,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": 5391136865265794443
-                },
                 {
                     "origLen": 72,
                     "pathId": 1741687847213530330
                 },
                 {
                     "origLen": 72,
-                    "pathId": -7657724909787946385
+                    "pathId": 5391136865265794443
                 },
                 {
                     "origLen": 72,
                     "pathId": 4287399436835260123
                 },
                 {
-                    "origLen": 12,
-                    "pathId": 1276609637371322473
+                    "origLen": 72,
+                    "pathId": -7657724909787946385
                 },
                 {
                     "origLen": 12,
                     "pathId": -1304407816417432948
                 },
                 {
-                    "origLen": 72,
-                    "pathId": 5370478403982573830
+                    "origLen": 12,
+                    "pathId": 1276609637371322473
                 },
                 {
                     "origLen": 72,
                     "pathId": -4198455920758496065
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5370478403982573830
                 }
             ],
             "pathId": -7057863471681174583,
@@ -553,17 +588,23 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "えええええ～～っ！？\r\nタイシンってば――",
-            "enText": "Eeeeeeeeeeee～! Taishin, that's―",
+            "enText": "Whaaat? Give me more than that,<n>Taishin!",
             "nextBlock": 19,
             "origClipLength": 58,
+            "voiceIdx": 27,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -4409739521977797074
+                },
                 {
                     "origLen": 46,
                     "pathId": 8338809492769406923
                 },
                 {
                     "origLen": 69,
-                    "pathId": -4409739521977797074
+                    "pathId": 3875331326024247086
                 },
                 {
                     "origLen": 69,
@@ -571,15 +612,11 @@
                 },
                 {
                     "origLen": 69,
-                    "pathId": 3875331326024247086
+                    "pathId": -1683475765529154253
                 },
                 {
                     "origLen": 46,
                     "pathId": 5324029397314815495
-                },
-                {
-                    "origLen": 69,
-                    "pathId": -1683475765529154253
                 }
             ],
             "pathId": 3832200364059922024,
@@ -589,25 +626,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "いい目してるぅ～～！\r\nそうそう、この赤が可愛いんだよね～っ♪",
-            "enText": "Nice eyes～! Oh yeah, this red is so cute～!",
+            "enText": "But you're right! Isn't this red really<n>pretty? ♪",
             "nextBlock": 20,
             "origClipLength": 65,
+            "voiceIdx": 9,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -3047134895902953160
+                },
                 {
                     "origLen": 34,
                     "pathId": -1851757033064168518
                 },
                 {
                     "origLen": 76,
-                    "pathId": -3047134895902953160
+                    "pathId": 8138726983454230201
                 },
                 {
                     "origLen": 38,
                     "pathId": 704168333854815100
-                },
-                {
-                    "origLen": 76,
-                    "pathId": 8138726983454230201
                 }
             ],
             "pathId": -1888028980557420828,
@@ -617,25 +656,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 21,
             "origClipLength": 46,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 57,
+                    "pathId": 1252132269964186073
+                },
                 {
                     "origLen": 24,
                     "pathId": 5031918373826987231
                 },
                 {
                     "origLen": 57,
-                    "pathId": 1252132269964186073
+                    "pathId": 2624158316424484610
                 },
                 {
                     "origLen": 57,
                     "pathId": -4463870169844319505
-                },
-                {
-                    "origLen": 57,
-                    "pathId": 2624158316424484610
                 }
             ],
             "pathId": 783169392873448738,
@@ -645,33 +686,35 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "そのあとも、ことあるごとに\r\n勝負服勝負服勝負服……しかも毎回泣くし。",
-            "enText": "And after that, she cries every time she has \nto play a game…… and she cries every time she \nhas to play a game.",
+            "enText": "Even after that, she'd bawl about her<n>racewear\n<i>every</i> time it came up.",
             "nextBlock": 22,
             "origClipLength": 67,
+            "voiceIdx": 21,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 104,
-                    "pathId": -215157870282752675
-                },
                 {
                     "origLen": 104,
                     "pathId": 4047012350148383014
                 },
                 {
-                    "origLen": 97,
-                    "pathId": -8100439783221021359
+                    "origLen": 104,
+                    "pathId": -215157870282752675
                 },
                 {
                     "origLen": 109,
                     "pathId": 6616518162802911722
                 },
                 {
-                    "origLen": 16,
-                    "pathId": 1217514968275024137
+                    "origLen": 97,
+                    "pathId": -8100439783221021359
                 },
                 {
                     "origLen": 16,
                     "pathId": 2181094845497841538
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 1217514968275024137
                 }
             ],
             "pathId": 8320181462320831608,
@@ -681,25 +724,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "いやー、あの時はうれしくてうれしくてっ！\r\nだって、アタシだけの勝負服だよっ！？",
-            "enText": "Well, I was so happy at that time! Because \nit's my own personal uniform!",
+            "enText": "Well, I was just so super happy! That<n>outfit was\nmade special for me, you<n>know?!",
             "nextBlock": 23,
             "origClipLength": 71,
+            "voiceIdx": 2,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6642655766799752560
+                },
                 {
                     "origLen": 58,
                     "pathId": 2620579293122639277
                 },
                 {
                     "origLen": 82,
-                    "pathId": 6642655766799752560
+                    "pathId": -2503230256516445683
                 },
                 {
                     "origLen": 82,
                     "pathId": -2498145399887134192
-                },
-                {
-                    "origLen": 82,
-                    "pathId": -2503230256516445683
                 }
             ],
             "pathId": 6385052397922729622,
@@ -709,25 +754,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あの服着て、夢の舞台を走る自分を\r\n想像しただけで感激で……。",
-            "enText": "Just imagining myself running on the stage of \nmy dreams wearing that dress is so inspiring \nthat I'm going to ……",
+            "enText": "When I imagine wearing it to the races<n>of my\ndreams... It makes me... so...",
             "nextBlock": 24,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -7685318535018825935
+                },
                 {
                     "origLen": 49,
                     "pathId": -1344157762470694314
                 },
                 {
                     "origLen": 76,
-                    "pathId": -7685318535018825935
+                    "pathId": -4462882904861645424
                 },
                 {
                     "origLen": 52,
                     "pathId": -2998377200132918389
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -4462882904861645424
                 }
             ],
             "pathId": 131620561834514679,
@@ -737,37 +784,39 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ぐずっ……感激でぇぇ～～～！！\r\n絶対絶対、勝たなくちゃって思ってぇぇ～！！",
-            "enText": "I'm so excited about ……! I was so excited, I \nhad to win for sure!",
+            "enText": "<i>Sniffle...</i> So emotional! And it makes me<n>really,\nreally wanna win!",
             "nextBlock": 25,
             "origClipLength": 119,
+            "voiceIdx": 23,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "ライバルたちも同じ気持ちだろうね",
-                    "enText": "I'm sure our rivals feel the same way.",
+                    "enText": "I'm sure your rivals feel the same way.",
                     "nextBlock": 25
                 },
                 {
                     "jpText": "その感動を力に変えよう",
-                    "enText": "Let's turn that excitement into power.",
+                    "enText": "Let's turn that emotion into motivation!",
                     "nextBlock": 35
                 }
             ],
             "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 7600856456191875026
+                },
                 {
                     "origLen": 89,
                     "pathId": 8418303646412505413
                 },
                 {
                     "origLen": 130,
-                    "pathId": 7600856456191875026
+                    "pathId": -1768349637565828380
                 },
                 {
                     "origLen": 130,
                     "pathId": -7304437025058150115
-                },
-                {
-                    "origLen": 130,
-                    "pathId": -1768349637565828380
                 }
             ],
             "pathId": 5378989920197583648,
@@ -777,25 +826,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あっ……！\r\nそ、そうだよね……！",
-            "enText": "Oh, ……! Yes, that's right ……!",
+            "enText": "Oh! Yeah, you're right!",
             "nextBlock": 26,
             "origClipLength": 56,
+            "voiceIdx": 30,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -5665506227132140850
+                },
                 {
                     "origLen": 19,
                     "pathId": 4683573147596495313
                 },
                 {
                     "origLen": 67,
-                    "pathId": -5665506227132140850
+                    "pathId": -5580856796656917257
                 },
                 {
                     "origLen": 67,
                     "pathId": 4926219684016315743
-                },
-                {
-                    "origLen": 67,
-                    "pathId": -5580856796656917257
                 }
             ],
             "pathId": -1002826787018241521,
@@ -805,25 +856,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "雑誌に載ってた子たちも、\r\nハヤヒデも、タイシンだって……。",
-            "enText": "The kids in the magazine, \nHayahide, even Taishin. ……",
+            "enText": "The racers in this magazine, and<n>Hayahide and\nTaishin too...",
             "nextBlock": 27,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 3399333013027316526
+                },
                 {
                     "origLen": 53,
                     "pathId": -7917308734778815444
                 },
                 {
                     "origLen": 75,
-                    "pathId": 3399333013027316526
+                    "pathId": 309038844884660269
                 },
                 {
                     "origLen": 33,
                     "pathId": -7786782744052559453
-                },
-                {
-                    "origLen": 75,
-                    "pathId": 309038844884660269
                 }
             ],
             "pathId": 2382122359026957544,
@@ -833,25 +886,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "みんな勝負服がうれしくて、\r\nそれでがんばるんだ！\nアタシだけがパワーもらってるわけじゃない！",
-            "enText": "Everyone is so happy to wear their best \nclothes, that's why they do their best! I'm \nnot the only one who gets power!",
+            "enText": "Everyone's happy to be able to run well<n>in their\nracewear! It's not just me who<n>feels empowered by\nit!",
             "nextBlock": 28,
             "origClipLength": 75,
+            "voiceIdx": 9,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 6562682934164328624
+                },
                 {
                     "origLen": 39,
                     "pathId": -252454219881541576
                 },
                 {
                     "origLen": 86,
-                    "pathId": 6562682934164328624
+                    "pathId": 1595426188970700821
                 },
                 {
                     "origLen": 86,
                     "pathId": 7113754735541997858
-                },
-                {
-                    "origLen": 86,
-                    "pathId": 1595426188970700821
                 }
             ],
             "pathId": 7000346163490344100,
@@ -861,25 +916,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うううううっ！\r\nこうしちゃいられないぞーーっ！！",
-            "enText": "Unh-unh! I can't do this!",
+            "enText": "Whoaaa! I can't just stand here!",
             "nextBlock": 29,
             "origClipLength": 61,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -1889653186001088980
+                },
                 {
                     "origLen": 34,
                     "pathId": 6994283109583808597
                 },
                 {
                     "origLen": 72,
-                    "pathId": -1889653186001088980
+                    "pathId": 2569009143552377717
                 },
                 {
                     "origLen": 72,
                     "pathId": 1253010371873281750
-                },
-                {
-                    "origLen": 72,
-                    "pathId": 2569009143552377717
                 }
             ],
             "pathId": -8743624404674105882,
@@ -889,33 +946,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "どこへ行くんだ、チケット！？",
-            "enText": "Where are you going, ticket!",
+            "enText": "Where are you going, Ticket?",
             "nextBlock": 30,
             "origClipLength": 54,
+            "voiceIdx": 31,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 1829841773859661259
-                },
                 {
                     "origLen": 58,
                     "pathId": -3465185323522379572
                 },
                 {
-                    "origLen": 13,
-                    "pathId": 1110547428825310865
+                    "origLen": 58,
+                    "pathId": 1829841773859661259
                 },
                 {
                     "origLen": 13,
                     "pathId": 4525465378640733726
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -880797807376968057
+                    "origLen": 13,
+                    "pathId": 1110547428825310865
                 },
                 {
                     "origLen": 75,
                     "pathId": -6374210156057667218
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -880797807376968057
                 }
             ],
             "pathId": -5026357778225394253,
@@ -925,17 +984,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "トレーニング……って、ああああああっ！？\r\n忘れてた！",
-            "enText": "Training…… is ahhhhh! I forgot!!!",
+            "enText": "To train! ...AH! I forgot!",
             "nextBlock": 31,
             "origClipLength": 62,
+            "voiceIdx": 31,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 73,
-                    "pathId": -8160504796353568739
+                    "pathId": 6423727210411993743
                 },
                 {
                     "origLen": 73,
-                    "pathId": 6423727210411993743
+                    "pathId": -8160504796353568739
                 }
             ],
             "pathId": 5102200464341128297,
@@ -945,25 +1006,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "トレーナーさんも一緒じゃないと、\r\n始まらないよねっ！",
-            "enText": "We can't start without the trainer!",
+            "enText": "I can't start training without my trainer!",
             "nextBlock": 32,
             "origClipLength": 109,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": -4177392199019281006
-                },
                 {
                     "origLen": 50,
                     "pathId": 6469974760857132998
                 },
                 {
-                    "origLen": 78,
-                    "pathId": -321133831157876432
+                    "origLen": 36,
+                    "pathId": -4177392199019281006
                 },
                 {
                     "origLen": 120,
                     "pathId": -2965272742580205606
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -321133831157876432
                 }
             ],
             "pathId": -4035146038620815346,
@@ -973,33 +1036,35 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "トレーナーを忘れるって、\r\nどういうこと……。",
-            "enText": "What do you mean you forgot your trainer? ……",
+            "enText": "You forgot your own trainer...",
             "nextBlock": 33,
             "origClipLength": 60,
+            "voiceIdx": 29,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 6194567689713337316
-                },
                 {
                     "origLen": 81,
                     "pathId": -5124479722854823063
                 },
                 {
                     "origLen": 81,
-                    "pathId": -7985694192878288214
+                    "pathId": 6194567689713337316
                 },
                 {
                     "origLen": 81,
                     "pathId": 5454709458560513757
                 },
                 {
-                    "origLen": 13,
-                    "pathId": 8593258137259427764
+                    "origLen": 81,
+                    "pathId": -7985694192878288214
                 },
                 {
                     "origLen": 13,
                     "pathId": -541850893573975722
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 8593258137259427764
                 }
             ],
             "pathId": 6520448324759025714,
@@ -1009,33 +1074,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ふっ……\r\n真っすぐなチケットらしいじゃないか。",
-            "enText": "Phew……… sounds like a straight \nticket, doesn't it?",
+            "enText": "Hehe, it wouldn't be Ticket otherwise.",
             "nextBlock": 34,
             "origClipLength": 60,
+            "voiceIdx": 0,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": 3374472284773599079
-                },
                 {
                     "origLen": 81,
                     "pathId": -3519062300840216348
                 },
                 {
-                    "origLen": 20,
-                    "pathId": -591242723287097047
+                    "origLen": 55,
+                    "pathId": 3374472284773599079
                 },
                 {
                     "origLen": 20,
                     "pathId": -1087724441391432513
                 },
                 {
-                    "origLen": 81,
-                    "pathId": -1656336800661884118
+                    "origLen": 20,
+                    "pathId": -591242723287097047
                 },
                 {
                     "origLen": 81,
                     "pathId": -7137301680465622623
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -1656336800661884118
                 }
             ],
             "pathId": -3504779062868184382,
@@ -1045,25 +1112,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "それじゃトレーナーさんっ！\r\n今日もよろしくお願いしますっっ！",
-            "enText": "Well then, trainer! I look forward to working \nwith you today!",
+            "enText": "Trainer! Watch me real close today!",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": 39,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 5315240580316442705
+                },
                 {
                     "origLen": 34,
                     "pathId": -5408940277990633549
                 },
                 {
                     "origLen": 76,
-                    "pathId": 5315240580316442705
+                    "pathId": -1275887522956485091
                 },
                 {
                     "origLen": 76,
                     "pathId": 4068100253285919879
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -1275887522956485091
                 }
             ],
             "pathId": 5782694693666472338,
@@ -1073,25 +1142,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "……っ！\r\nぐす……うん、そうだよね……！",
-            "enText": "……! Gus……Yeah, that's right……!",
+            "enText": "<i>Sniffle...</i> Hey, yeah, you're right!",
             "nextBlock": 36,
             "origClipLength": 58,
+            "voiceIdx": 22,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 7134476524689666079
+                },
                 {
                     "origLen": 47,
                     "pathId": 716534746253622127
                 },
                 {
                     "origLen": 69,
-                    "pathId": 7134476524689666079
+                    "pathId": 8013464218921046894
                 },
                 {
                     "origLen": 69,
                     "pathId": 8497767207830371872
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 8013464218921046894
                 }
             ],
             "pathId": -1572008512491025811,
@@ -1101,25 +1172,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "よーーーーーーーーしっっ！！",
-            "enText": "Yoooooooooooooooooooooooooooooooooooooooooooooooooo!!!!",
+            "enText": "ALL RIIIGHT!",
             "nextBlock": 37,
             "origClipLength": 54,
+            "voiceIdx": 11,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 149324956969741101
+                },
                 {
                     "origLen": 30,
                     "pathId": -5368182461510930476
                 },
                 {
                     "origLen": 65,
-                    "pathId": 149324956969741101
+                    "pathId": -3510507701818952936
                 },
                 {
                     "origLen": 65,
                     "pathId": -1446273845236371397
-                },
-                {
-                    "origLen": 65,
-                    "pathId": -3510507701818952936
                 }
             ],
             "pathId": -2217434198804533367,
@@ -1129,25 +1202,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "――っ！？",
-            "enText": "―What?",
+            "enText": "...?",
             "nextBlock": 38,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -3388267106548413484
+                },
                 {
                     "origLen": 59,
                     "pathId": -6710930958316385187
                 },
                 {
                     "origLen": 59,
-                    "pathId": -3388267106548413484
+                    "pathId": 6142989284294542075
                 },
                 {
                     "origLen": 17,
                     "pathId": 2105896049973292871
-                },
-                {
-                    "origLen": 59,
-                    "pathId": 6142989284294542075
                 }
             ],
             "pathId": 4219573411496506355,
@@ -1157,25 +1232,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "アタシッッッ！！\r\nいっっっぱい！　がんばるぞ～～～～！！！！",
-            "enText": "I! A lot! I'll do my best ～～～～！！！！",
+            "enText": "I'm gonna train harder than EVEEERRR!",
             "nextBlock": 39,
             "origClipLength": 65,
+            "voiceIdx": 61,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4361712321410029273
+                },
                 {
                     "origLen": 59,
                     "pathId": -5584979115976195106
                 },
                 {
                     "origLen": 76,
-                    "pathId": 4361712321410029273
+                    "pathId": -4332289091280818220
                 },
                 {
                     "origLen": 76,
                     "pathId": 4756700509247972299
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -4332289091280818220
                 }
             ],
             "pathId": -7207685850751888384,
@@ -1185,25 +1262,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "それでっ、それでっ……！\r\n夢の舞台でみんなを感動させるぞ～～～～っ！",
-            "enText": "So, so ……! I'm going to impress everyone on \nthe stage of my dreams. ～～～～!",
+            "enText": "And then I'll get to the race of my<n>dreams and\ninspire EVERYONE!",
             "nextBlock": 40,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 426844731054754448
+                },
                 {
                     "origLen": 46,
                     "pathId": -8082757232499999235
                 },
                 {
                     "origLen": 78,
-                    "pathId": 426844731054754448
+                    "pathId": -1527937965145405338
                 },
                 {
                     "origLen": 78,
                     "pathId": -5226017396553471265
-                },
-                {
-                    "origLen": 78,
-                    "pathId": -1527937965145405338
                 }
             ],
             "pathId": 5022136672581127395,
@@ -1213,33 +1292,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "チ、チケット、もう少し声を抑えろ。\r\n周りから注目されているぞ……。",
-            "enText": "Chi, Ticket, keep your voice down a bit. \nYou're getting a lot of attention from people \naround here. ……",
+            "enText": "Uh, Ticket, maybe keep your voice down<n>a little.\nEveryone is looking at us.",
             "nextBlock": 41,
             "origClipLength": 67,
+            "voiceIdx": 15,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": 6555848493040411404
-                },
                 {
                     "origLen": 88,
                     "pathId": 7061269454605147158
                 },
                 {
-                    "origLen": 12,
-                    "pathId": -4565676241944252045
+                    "origLen": 88,
+                    "pathId": 6555848493040411404
                 },
                 {
                     "origLen": 12,
                     "pathId": -6995320025155515892
                 },
                 {
-                    "origLen": 88,
-                    "pathId": 8835081865086152283
+                    "origLen": 12,
+                    "pathId": -4565676241944252045
                 },
                 {
                     "origLen": 88,
                     "pathId": 25713247670883520
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8835081865086152283
                 }
             ],
             "pathId": -6131808547289051601,
@@ -1247,27 +1328,29 @@
         },
         {
             "jpName": "周囲の声",
-            "enName": "",
+            "enName": "Bystander",
             "jpText": "す、すごい声……。\r\n何かのパフォーマンス……？",
-            "enText": "Amazing voice…… Some kind of performance ……?",
+            "enText": "Wow, that's loud... Is she performing?",
             "nextBlock": 42,
             "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 4967528811618687819
+                },
                 {
                     "origLen": 98,
                     "pathId": -508355253743455043
                 },
                 {
                     "origLen": 125,
-                    "pathId": 4967528811618687819
+                    "pathId": -4132940714027695428
                 },
                 {
                     "origLen": 125,
                     "pathId": 2683910459076312267
-                },
-                {
-                    "origLen": 125,
-                    "pathId": -4132940714027695428
                 }
             ],
             "pathId": -3732657488149781523,
@@ -1277,25 +1360,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "えっ！？\r\nあっ、そうだカフェテリアだったーー！！",
-            "enText": "What? Oh, that's right, it was the cafeteria!",
+            "enText": "Huh? Oh, right, we're in the cafeteria.",
             "nextBlock": 43,
             "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 5431850810505467777
+                },
                 {
                     "origLen": 49,
                     "pathId": 7564651073409810972
                 },
                 {
                     "origLen": 72,
-                    "pathId": 5431850810505467777
+                    "pathId": -5563701762527295747
                 },
                 {
                     "origLen": 43,
                     "pathId": 1059791692065609060
-                },
-                {
-                    "origLen": 72,
-                    "pathId": -5563701762527295747
                 }
             ],
             "pathId": -510154079357891626,
@@ -1305,25 +1390,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あわわわわっ！！\r\nええと、騒いでごめんなさ――",
-            "enText": "Aww! Uh, sorry about the noise―",
+            "enText": "Whoops! Um, sorry about the noise!",
             "nextBlock": 44,
             "origClipLength": 60,
+            "voiceIdx": 28,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 2841953459831846668
+                },
                 {
                     "origLen": 43,
                     "pathId": 5224907277485755027
                 },
                 {
                     "origLen": 71,
-                    "pathId": 2841953459831846668
+                    "pathId": -705930675303235658
                 },
                 {
                     "origLen": 71,
                     "pathId": -3455206969461848818
-                },
-                {
-                    "origLen": 71,
-                    "pathId": -705930675303235658
                 }
             ],
             "pathId": -2881059065905670405,
@@ -1333,25 +1420,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（パチ……パチパチパチ……\r\nパチパチパチ……）",
-            "enText": "(Crackle…… crackle…… crackle…… crackle ……)",
+            "enText": "Applause echoes through the cafeteria.",
             "nextBlock": 45,
             "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 130,
-                    "pathId": 4913324111192918971
-                },
                 {
                     "origLen": 131,
                     "pathId": 524486005693769963
                 },
                 {
                     "origLen": 130,
-                    "pathId": -9124210946880624897
+                    "pathId": 4913324111192918971
                 },
                 {
                     "origLen": 131,
                     "pathId": -9139582977529952274
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -9124210946880624897
                 }
             ],
             "pathId": -4021556629251082580,
@@ -1361,25 +1450,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あ、あれ？　なんか拍手もらってる？\r\nよくわかんないけど――",
-            "enText": "Oh, hey, what's that? Am I getting applause? \nI don't know, but―",
+            "enText": "What? They're clapping? What did I do?",
             "nextBlock": 46,
             "origClipLength": 64,
+            "voiceIdx": 30,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8976790046474011275
+                },
                 {
                     "origLen": 25,
                     "pathId": 7636284963525491332
                 },
                 {
                     "origLen": 75,
-                    "pathId": 8976790046474011275
+                    "pathId": -6690609248463167408
                 },
                 {
                     "origLen": 34,
                     "pathId": -7625913128576335299
-                },
-                {
-                    "origLen": 75,
-                    "pathId": -6690609248463167408
                 }
             ],
             "pathId": -9159971992068907529,
@@ -1389,25 +1480,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "えへへ、どーもど～も！\r\nアタシ、がんばるからね～～っ！！",
-            "enText": "Hehehe, oh my goodness, oh my \ngoodness! I'll do my best～～!",
+            "enText": "Hehe, thank you, thank you! I'm gonna<n>do a great\njob today!",
             "nextBlock": 47,
             "origClipLength": 63,
+            "voiceIdx": 12,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3649625131672462314
+                },
                 {
                     "origLen": 36,
                     "pathId": 3766568585260752992
                 },
                 {
                     "origLen": 74,
-                    "pathId": -3649625131672462314
+                    "pathId": -7507212830514287114
                 },
                 {
                     "origLen": 74,
                     "pathId": 7252483571268134062
-                },
-                {
-                    "origLen": 74,
-                    "pathId": -7507212830514287114
                 }
             ],
             "pathId": -8403154883843536148,
@@ -1415,19 +1508,25 @@
         },
         {
             "jpName": "2人",
-            "enName": "Both",
+            "enName": "Taishin and Hayahide",
             "jpText": "……はぁ～。\r\nやれやれ……。",
-            "enText": "…… huh! Oh dear. ……",
+            "enText": "<i>Sigh...</i> What a show.",
             "nextBlock": -1,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 487756052757174435
+                },
                 {
                     "origLen": 14,
                     "pathId": -7803046126983940284
                 },
                 {
-                    "origLen": 14,
-                    "pathId": 487756052757174435
+                    "origLen": 75,
+                    "pathId": 4516531925321884418
                 },
                 {
                     "origLen": 75,
@@ -1435,20 +1534,15 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": 4516531925321884418
+                    "pathId": -8318258372585178362
                 },
                 {
                     "origLen": 33,
                     "pathId": -8562347769088669894
-                },
-                {
-                    "origLen": 75,
-                    "pathId": -8318258372585178362
                 }
             ],
             "pathId": -5289360341587028057,
             "blockIdx": 47
         }
-    ],
-    "modified": 1662157522
+    ]
 }

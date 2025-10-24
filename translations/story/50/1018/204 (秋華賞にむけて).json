@@ -1,27 +1,32 @@
 {
-    "version": 5,
-    "bundle": "AUZTBUDAC55XKGPLGIU37A4XBB7G3FUN",
+    "version": 6,
+    "bundle": "FU77EUKLZDZSMBUGPXDQBKAF5XB44I6N",
     "type": "story",
     "storyId": "501018204",
     "title": "秋華賞にむけて",
+    "enTitle": "Before the Shuka Sho",
     "text": [
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "実りの秋を迎えました、京都レース場。\r\nトリプルティアラの最後を飾る『秋華賞』――",
-            "enText": "The fruitful autumn has arrived at the \nKyoto racetrack. The \"Shuka-sho,\" the \nfinal race of the Triple Tiara, was \nheld at the Kyoto Racecourse.",
+            "enText": "We're welcoming fall here at Kyoto<n>Racecourse\nwith the last race of the<n>Triple Tiara series—the\nShuka Sho!",
             "nextBlock": 2,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 224664651561228823,
             "blockIdx": 1
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "栄光は果たして、どのウマ娘に輝くのか！？\r\nレース開始は間もなくとなります！",
-            "enText": "Which horsegirl will win the glory? The race \nwill begin soon!",
+            "enText": "The start of the race is moments away!<n>Who will\nemerge to be showered in<n>glory?",
             "nextBlock": 3,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6368904893560349240,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ワアアアアーーーーッ！）",
-            "enText": "(Waaaaaaahhh!)",
+            "enText": "<i>Wooooo!</i>",
             "nextBlock": 4,
             "origClipLength": 142,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2958170375408935776,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……レースに臨む前に、\r\n言っておきたいことがある。",
-            "enText": "Before we get to the…… race, \nI want to say something.",
+            "enText": "Before I begin the race, there's<n>something I wish\nto tell you.",
             "nextBlock": 5,
             "origClipLength": 61,
+            "voiceIdx": 68,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "何？",
-                    "enText": "What?",
+                    "enText": "What is it?",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
                     "origLen": 101,
-                    "pathId": 8164192301576943407
+                    "pathId": -4055056095615371879
                 },
                 {
                     "origLen": 101,
-                    "pathId": -4055056095615371879
+                    "pathId": 8164192301576943407
                 }
             ],
             "pathId": 5221739451175838464,
@@ -66,17 +75,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 6,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": -909728337648918187
-                },
                 {
                     "origLen": 59,
                     "pathId": -4955862895844286446
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -909728337648918187
                 }
             ],
             "pathId": 4353348339564441571,
@@ -86,17 +97,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……今日まで、よくやった。",
-            "enText": "…… until today, well done.",
+            "enText": "You've done a great job so far.",
             "nextBlock": 7,
             "origClipLength": 53,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 64,
-                    "pathId": -3350866883822997237
+                    "pathId": -7715216861378888257
                 },
                 {
                     "origLen": 64,
-                    "pathId": -7715216861378888257
+                    "pathId": -3350866883822997237
                 }
             ],
             "pathId": 2360391713357602097,
@@ -106,24 +119,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ここまで共に歩んできた貴様の働きに、\r\n必ず応えてみせよう。",
-            "enText": "I will make sure to respond to your work that \nwe have done together up to this point.",
+            "enText": "I promise I'll do your hard work justice<n>today.",
             "nextBlock": 8,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "信じてる",
-                    "enText": "I believe you.",
+                    "enText": "I know you will.",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 18,
-                    "pathId": -2093929769330614487
-                },
-                {
                     "origLen": 75,
                     "pathId": 9025801553614875450
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -2093929769330614487
                 }
             ],
             "pathId": 6107766698526826221,
@@ -133,22 +148,23 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "では――\r\n行ってくる。",
-            "enText": "Well then - I'm off.",
+            "enText": "Well then... here goes nothing.",
             "nextBlock": -1,
             "origClipLength": 52,
+            "voiceIdx": 73,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 16,
-                    "pathId": 7884249635743908220
-                },
                 {
                     "origLen": 63,
                     "pathId": 7833069300302548283
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 7884249635743908220
                 }
             ],
             "pathId": 478019507959015162,
             "blockIdx": 8
         }
-    ],
-    "modified": 1657555251
+    ]
 }

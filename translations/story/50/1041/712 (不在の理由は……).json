@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "ZYP654F2CCPKLGLHHYEMA75JUTB5JNUJ",
+    "version": 6,
+    "bundle": "4NBWQBFLHNUCRIDAB2V6EGIVFCQ7IPWU",
     "type": "story",
     "storyId": "501041712",
     "title": "不在の理由は……",
+    "enTitle": "Slacking Off",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "サクラバクシンオーが練習に現れなかった、\r\n翌朝……トレーナー室へ行くと、\n不思議な声が聞こえてきた。",
-            "enText": "After Sakura Bakushin O didn't show up to \npractice, the next morning……when I headed \nto the Trainer's office, I heard a strange \nvoice.",
+            "enText": "Sakura Bakushin O didn't turn up for<n>training\nyesterday. Today, I hear a<n>strange voice when I\nenter my office.",
             "nextBlock": 2,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8594042159363380168,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "セイッ！　セイッ！　セ・イ・イーーッ！",
-            "enText": "One! Two! Threeeee―!",
+            "enText": "And... that goes over there... Done!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3401968130476842482,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ようこそ、トレーナーさん！\r\nちょうど会見の横断幕ができたところです！",
-            "enText": "Welcome, Trainer! \nWe have just finished the banners for the \npress conference!",
+            "enText": "Welcome, Trainer! I've just finished<n>making the\nconference banner!",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "voiceIdx": 42,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -4644738942279884865
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -648032971501578857
+                }
+            ],
             "pathId": 200054356792498030,
             "blockIdx": 3
         },
@@ -36,13 +56,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "驚いて彼女の足元を見えると……\r\n『サクラバクシンオー、謝罪会見！』と\n書かれた横断幕が広げられていた。",
-            "enText": "Surprised, I look down at her feet and saw \na banner that read…… \n\"Sakura Bakushin O, Apology Conference!\" \nspread out on the floor.",
+            "enText": "Surprised, I glance at the unfurled<n>banner by her\nfeet... It reads \"Sakura<n>Bakushin O's Apology\nConference.\"",
             "nextBlock": 5,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "そこまでしなくても……",
-                    "enText": "You don't have to go that far…",
+                    "enText": "You didn't need to go that far.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 7757365615502548900
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5481552748380771332
                 }
             ],
             "pathId": 1667424443790445055,
@@ -52,8 +85,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いえ！　模範生たるべき学級委員長として、\r\nけじめはつけなければッ！",
-            "enText": "But I do! As the exemplary class president, \nI have to draw the line!",
+            "enText": "No, as a class representative, I'm<n>supposed to be\na role model. I have to<n>take responsibility for my\nmistakes!",
             "nextBlock": 6,
+            "origClipLength": 89,
+            "voiceIdx": 101,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 7029523883250328713
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -1992947557682470032
+                }
+            ],
             "pathId": -1914518266042419215,
             "blockIdx": 5
         },
@@ -61,8 +107,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "では、謝罪会見を始めさせていただきます！\r\nこの度は誠に……申し訳ございませんッ！",
-            "enText": "Now, I will begin my apology conference! \nI am well and truly, deeply, honestly…… \nsorry!",
+            "enText": "Okay, let's kick off the apology<n>conference! I\nwould like to offer my<n>sincerest apologies!",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1884977595724021820
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1291159256437606723
+                }
+            ],
             "pathId": -6526369633346298920,
             "blockIdx": 6
         },
@@ -70,18 +129,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "バクシンしがいのある直線道路に……\r\n我を忘れ、走り出し……気づけば、夜に……！",
-            "enText": "On the Bakushin road that goes straight \ndown… I forgot myself, I began to run… \nand before I knew it, it was night…!",
+            "enText": "I was blasting along a Bakushin-worthy<n>straight...\nand I got lost in the moment.<n>Before I realized it,\nit was already night!",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "voiceIdx": 108,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "わかった、次は気をつけてな",
-                    "enText": "Alright, just be careful next time.",
+                    "enText": "All right. Just be careful next time.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "わかった、次は気をつけてね",
-                    "enText": "Okay, just be careful next time.",
+                    "enText": "All right. Just be careful next time.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -4963945037241428390
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1221447155532213437
                 }
             ],
             "pathId": -1859507462469632708,
@@ -91,8 +163,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "約束ですッ！\r\nもう2度と誘惑されませんとも！",
-            "enText": "I promise! \nI will never be tempted again!",
+            "enText": "I promise! I won't fall into temptation a<n>second\ntime!",
             "nextBlock": 9,
+            "origClipLength": 75,
+            "voiceIdx": 48,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 2997177720132986998
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -7310378236535734237
+                }
+            ],
             "pathId": -8342231132014533609,
             "blockIdx": 8
         },
@@ -100,8 +185,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "かくなるうえは！\r\nこの横断幕を掛け布団にする所存ですッ！！",
-            "enText": "And now! \nI plan to use this banner as a quilt!!",
+            "enText": "To reflect, I've decided to use this<n>banner as my\nbed sheets going forward!",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "voiceIdx": 124,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -980818670839983701
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -1350706644936467024
+                }
+            ],
             "pathId": -5095643125237726770,
             "blockIdx": 9
         },
@@ -109,12 +207,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "……反省の気持ちは充分伝わったので、\r\nそこまではしなくていいと止めたのだった。",
-            "enText": "…She expressed enough remorse that I \nstopped her from going that far.",
+            "enText": "I figure she has expressed her sincere<n>regrets\nrather clearly, so I stop her from<n>going any\nfurther.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 4069873299498376356
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6355478396482514809
+                }
+            ],
             "pathId": 2534267122163922878,
             "blockIdx": 10
         }
-    ],
-    "humanTl": true,
-    "modified": 1683732695
+    ]
 }

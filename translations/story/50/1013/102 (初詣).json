@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "FA33KLSEW5DLXCNFGMQKWYENN4ZQVIQC",
+    "version": 6,
+    "bundle": "QVNDTOSVVDA4K2RIH75VGNXZF4DPJQY7",
     "type": "story",
     "storyId": "501013102",
     "title": "初詣",
+    "enTitle": "New Year's Shrine Visit",
     "text": [
         {
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……ふぅ。初詣のお祈りを\r\n済ませて参りました。",
-            "enText": "I have just finished praying…… I've just \nfinished praying for the New Year.",
+            "enText": "...Phew. I finished my prayers for our first<n>shrine\nvisit of the year.",
             "nextBlock": 2,
             "origClipLength": 60,
+            "voiceIdx": 59,
+            "voiceSheetId": "051013001",
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": 2330992749183628897
+                    "pathId": -1166225756294303359
                 },
                 {
                     "origLen": 71,
-                    "pathId": -1166225756294303359
+                    "pathId": 2330992749183628897
                 }
             ],
             "pathId": -6676737876891250794,
@@ -29,29 +32,31 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "今年の目標として掲げることは、\r\nただ1つ――『天皇賞（春）』制覇です。",
-            "enText": "I have only one goal this year: to win the \nTennou-sho (Spring).",
+            "enText": "I have set just one goal for this year:<n>conquering\nthe spring Tenno Sho.",
             "nextBlock": 3,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "努力を見せる時だ",
-                    "enText": "It's time to show some effort.",
+                    "enText": "It's time to show the world how hard you've\nworked.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "努力を見せる時だね",
-                    "enText": "Time to show some effort.",
+                    "enText": "It's time to show the world how hard you've\nworked.",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -3787663392584888143
-                },
-                {
                     "origLen": 79,
                     "pathId": -6500475247828153851
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -3787663392584888143
                 }
             ],
             "pathId": -5354948954261268836,
@@ -61,17 +66,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "はい。トレーナーさんと共に過ごしたことで、\r\n私は確実に強くなりました。",
-            "enText": "Yes, I am. My time with the trainer has \ndefinitely made me stronger.",
+            "enText": "Yes. I've definitely grown stronger in the<n>time I've\nspent with you, Trainer.",
             "nextBlock": 4,
             "origClipLength": 68,
+            "voiceIdx": 0,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": -1223256728538391820
-                },
                 {
                     "origLen": 79,
                     "pathId": 3349007374644622315
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1223256728538391820
                 }
             ],
             "pathId": -4655538929797776617,
@@ -81,17 +88,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "あとは努力を結果に変えるのみです。\r\n絶対に勝ってみせますわ。",
-            "enText": "All that remains is to turn our efforts into \nresults. I will definitely win.",
+            "enText": "All that remains now is to transform my<n>hard work\ninto real results. I shall win<n>without fail.",
             "nextBlock": 5,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 4802571991287920064
-                },
                 {
                     "origLen": 76,
                     "pathId": -4227636037995215391
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4802571991287920064
                 }
             ],
             "pathId": -8318673729645683352,
@@ -101,39 +110,41 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ところでトレーナーさん、\r\n今日は学園へ帰ったらなにをいたしましょう？",
-            "enText": "By the way, trainer, what should we do when \nwe get back to the school today?",
+            "enText": "Incidentally, what should we do when we<n>return to\nthe academy today?",
             "nextBlock": 6,
             "origClipLength": 67,
+            "voiceIdx": 155,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "正月だしゆっくりしよう",
-                    "enText": "It's New Year's. Let's take it easy.",
+                    "enText": "It's the start of the new year, so let's relax.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "いつも通りのトレーニングだ",
-                    "enText": "Training as usual.",
+                    "enText": "Our usual training.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "いつも通りのトレーニングだね",
-                    "enText": "Training as usual.",
+                    "enText": "Our usual training.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "福袋を買いに行こう！",
-                    "enText": "Let's go buy a grab bag!",
+                    "enText": "Let's buy a mystery bag!",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 57,
-                    "pathId": 766611051562413786
-                },
-                {
                     "origLen": 78,
                     "pathId": 6449322822187135359
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 766611051562413786
                 }
             ],
             "pathId": 9101311177634356293,
@@ -143,39 +154,41 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ところでトレーナーさん、\r\n今日は学園へ帰ったらなにをいたしましょう？",
-            "enText": "By the way, trainer, what should we do when \nwe get back to the school today?",
+            "enText": "Incidentally, what should we do when we<n>return to\nthe academy today?",
             "nextBlock": 7,
             "origClipLength": 67,
+            "voiceIdx": 155,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "正月だしゆっくりしよう",
-                    "enText": "It's New Year's. Let's take it easy.",
+                    "enText": "It's the start of the new year, so let's relax.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "いつも通りのトレーニングだ",
-                    "enText": "Training as usual.",
+                    "enText": "Our usual training.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "いつも通りのトレーニングだね",
-                    "enText": "Training as usual.",
+                    "enText": "Our usual training.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "福袋を買いに行こう！",
-                    "enText": "Let's go buy a grab bag!",
+                    "enText": "Let's buy a mystery bag!",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 57,
-                    "pathId": -4797951564386649577
-                },
-                {
                     "origLen": 78,
                     "pathId": -1578416845739716106
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -4797951564386649577
                 }
             ],
             "pathId": -3089563123152290540,
@@ -185,17 +198,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "そうですわね。\r\n逸る気持ちに流されて焦るのは危険です。",
-            "enText": "That's right. It is dangerous to be in a \nhurry and be carried away by the \nimpetuousness.",
+            "enText": "You're right. Being impatient now would<n>do more\nharm than good.",
             "nextBlock": 8,
             "origClipLength": 63,
+            "voiceIdx": 47,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -4045710416482510660
-                },
                 {
                     "origLen": 74,
                     "pathId": -255358065160549301
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4045710416482510660
                 }
             ],
             "pathId": -7722118438243017009,
@@ -205,17 +220,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "大きな目標を据えているからこそ、\r\n自分自身も落ち着かねば。",
-            "enText": "I have to calm myself down because I'm \nsetting big goals.",
+            "enText": "I must maintain composure in light of this<n>\ntremendous goal I have set.",
             "nextBlock": 9,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 8539087646258695686
-                },
                 {
                     "origLen": 75,
                     "pathId": 3413556490632626991
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 8539087646258695686
                 }
             ],
             "pathId": 3220660274469375640,
@@ -225,17 +242,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "心機一転、冷静な心で1年を過ごせるよう\r\n今日はゆるりと参りましょう。",
-            "enText": "Let's take it easy today so that we can spend \nthe year with a fresh start and a sober mind.",
+            "enText": "Let's relax today so we may start off the<n>new year\nfresh and with presence of<n>mind.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -8533104816287960660
-                },
                 {
                     "origLen": 78,
                     "pathId": -1069166038894995137
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -8533104816287960660
                 }
             ],
             "pathId": 8091507845567657481,
@@ -245,17 +264,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "いつも通り……ええ、\r\nとても重要なことですわね。",
-            "enText": "As always…… yeah, it's very important.",
+            "enText": "Our usual... Yes, that's quite important.",
             "nextBlock": 11,
             "origClipLength": 61,
+            "voiceIdx": 2,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -3445907443752176786
-                },
                 {
                     "origLen": 72,
                     "pathId": 5514239070758254121
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -3445907443752176786
                 }
             ],
             "pathId": -7183230405861078745,
@@ -265,17 +286,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "無為に高ぶらず、\r\n冷静に普段通りのことをこなすこと――",
-            "enText": "Do not get carried away, stay \ncalm and carry on as usual.",
+            "enText": "We must commit ourselves to a steady<n>routine to\navoid falling complacent.",
             "nextBlock": 12,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -6594199392489651363
-                },
                 {
                     "origLen": 74,
                     "pathId": 572770659830697886
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -6594199392489651363
                 }
             ],
             "pathId": -4378734537956295633,
@@ -285,17 +308,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "1年の初めだからこそ、\r\n初心を忘れないよう気を付けますわ。",
-            "enText": "It's the beginning of the year, so I'll be \ncareful not to forget my original intentions.",
+            "enText": "Since it's the beginning of the year, I<n>must take\ncare not to forget my<n>resolution.",
             "nextBlock": -1,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 8831525608308893256
-                },
                 {
                     "origLen": 75,
                     "pathId": -7380170107214529998
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 8831525608308893256
                 }
             ],
             "pathId": -529585611428078114,
@@ -305,17 +330,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "まあっ、トレーナーさんったら\r\nすっかり浮かれていますわね。",
-            "enText": "Oh, my trainer is totally excited.",
+            "enText": "My, aren't we in a festive mood?",
             "nextBlock": 14,
             "origClipLength": 64,
+            "voiceIdx": 30,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 3270681417138743994
-                },
                 {
                     "origLen": 75,
                     "pathId": 8301361096173941608
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 3270681417138743994
                 }
             ],
             "pathId": -7630329570468927332,
@@ -325,17 +352,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ですが、私も少し興味は――",
-            "enText": "But I'm also a little curious―",
+            "enText": "Even so, I admit I'm a little intrigued<n>by—",
             "nextBlock": 15,
             "origClipLength": 53,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 4375424755001862302
-                },
                 {
                     "origLen": 64,
                     "pathId": -8860127150449055392
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 4375424755001862302
                 }
             ],
             "pathId": 6953640462971741952,
@@ -345,22 +374,23 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……コホン。仕方ありませんわ。\r\nトレーナーさんの希望とあらば付き合います。",
-            "enText": "…… Kohon. I don't have a choice. If that's \nwhat the trainer wants, I'll go along.",
+            "enText": "Ahem. I suppose there's no point in<n>trying to\nconvince you otherwise. Very<n>well. If that's what\nyou wish, I shall<n>accompany you.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": 2,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -4604722883817025103
-                },
                 {
                     "origLen": 80,
                     "pathId": 308083629531117897
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4604722883817025103
                 }
             ],
             "pathId": -5032439992875664316,
             "blockIdx": 15
         }
-    ],
-    "modified": 1657555055
+    ]
 }

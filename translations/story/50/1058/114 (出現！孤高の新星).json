@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "YIMBPMAKAHCGLSE4OFZD52N6LC2RRUU5",
+    "version": 6,
+    "bundle": "MRG2XK3ZFEOCY6G27YTUT6XP2PHRWX5I",
     "type": "story",
     "storyId": "501058114",
     "title": "出現！孤高の新星",
+    "enTitle": "Arrival of the Lone Star",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ダダダダダッ！）",
-            "enText": "(Dada dada dada dada!)",
+            "enText": "<i>Dash!</i>",
             "nextBlock": 2,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -905807330526558789,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "強く……なるんだぁあああ～っ！\n少しずつ～、少しずつぅぅぅ！",
-            "enText": "Be strong…… ahhhhh! Little by little～, little \nby little ahhh!",
+            "enText": "I'm going to get stroooong! Bit by biiiit!",
             "nextBlock": 3,
             "origClipLength": 84,
+            "voiceIdx": 126,
+            "voiceSheetId": "051058001",
             "pathId": 6760402958166558029,
             "blockIdx": 2
         },
@@ -29,29 +34,31 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "はぁ、ふぅ……。\r\nどうでしたかぁ、トレーナーさん？",
-            "enText": "Huh, phew.…… How was it, trainer?",
+            "enText": "<i>Huff, huff...</i> Phew... How was that,<n>Trainer?",
             "nextBlock": 4,
             "origClipLength": 78,
+            "voiceIdx": 68,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "ナイスラン、メイショウドトウ！",
-                    "enText": "Nice run, Meishoudou!",
+                    "enText": "That was a great run, Meisho Doto!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "ナイスランだったよ、メイショウドトウ！",
-                    "enText": "Nice run, Meishoudou!",
+                    "enText": "That was a great run, Meisho Doto!",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 155,
-                    "pathId": -3276365899424168245
-                },
-                {
                     "origLen": 176,
                     "pathId": -3340456336771450681
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -3276365899424168245
                 }
             ],
             "pathId": 6913644799955029904,
@@ -61,17 +68,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――成長期前。それでも徐々に成果は\n出てきている。この調子でいけば……。",
-            "enText": "―before the growth period. Still, results are \ncoming in gradually. At this rate, ……",
+            "enText": "She's yet to have entered her growth<n>period, but\nshe's steadily showing signs<n>of improvement. If we\nkeep this up...",
             "nextBlock": 5,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 155,
-                    "pathId": -5999510749681706372
-                },
                 {
                     "origLen": 176,
                     "pathId": 6527396911498946266
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -5999510749681706372
                 }
             ],
             "pathId": -2680067598354062765,
@@ -81,29 +90,31 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あとは本格化さえ始まれば……\r\nもしかして春には、春頃には\nオペラオーさんに認めてもらえるかもですか？",
-            "enText": "Now if only it would start in earnest.…… \nMaybe in the spring, around springtime. Maybe \nMs. Opera O will approve?",
+            "enText": "I just have to become race-ready now...<n>Do you\nthink... do you think Opera O<n>will approve of me\nby spring?",
             "nextBlock": 6,
             "origClipLength": 111,
+            "voiceIdx": 69,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "ああ、きっとな",
-                    "enText": "Yeah, I'm sure.",
+                    "enText": "I'm sure she will.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "うん、きっとね",
-                    "enText": "Yeah, I'm sure.",
+                    "enText": "I'm sure she will.",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 145,
-                    "pathId": -6569474393799678030
-                },
-                {
                     "origLen": 176,
                     "pathId": -2837170870535223035
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -6569474393799678030
                 }
             ],
             "pathId": 56373280372322452,
@@ -113,17 +124,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "えへ、えへへへへ……待っててくださいね、\nオペラオーさん。きっと傍に……。",
-            "enText": "Eh, eh, eh, eh, eh, eh, eh, eh, eh…… wait for \nme, Opera O. I'm sure you'll be…… by my side.",
+            "enText": "Ehehe... Please wait for me, Opera O...<n>I'll be at\nyour side soon...",
             "nextBlock": 7,
             "origClipLength": 93,
+            "voiceIdx": 2,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": 8731401605194757394
-                },
                 {
                     "origLen": 179,
                     "pathId": -8209740040563866770
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 8731401605194757394
                 }
             ],
             "pathId": -6316451167536094720,
@@ -133,23 +146,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "来年のクラシック争いはまだ混沌としている。\nあるいは体さえ成長すれば、\nテイエムオペラオーに追いつく可能性も……。",
-            "enText": "The race for next year's Classic is \nstill in chaos. Or if only her body \ngrows up. Or if she grows up, she could \ncatch up to TM Operao. ……",
+            "enText": "The winner of next year's Classic races is<n>still a\ntoss-up. If her form develops in<n>time, catching up\nwith T.M. Opera O<n>could be possible.",
             "nextBlock": 8,
             "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "クラシック",
-                    "enText": "classic"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 130,
-                    "pathId": 7517142459835131546
-                },
-                {
                     "origLen": 167,
                     "pathId": 1016795970391607602
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 7517142459835131546
                 }
             ],
             "pathId": 2841964771671025915,
@@ -159,29 +174,31 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ドトウさーん！\nトレーナーさーん！",
-            "enText": "Ms. Dotou! Trainer!",
+            "enText": "Doto! Trainer!",
             "nextBlock": 9,
             "origClipLength": 67,
+            "voiceIdx": 156,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 119,
-                    "pathId": 7135415985691043709
-                },
                 {
                     "origLen": 134,
                     "pathId": -6510433539601058033
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 7135415985691043709
                 },
                 {
                     "origLen": 108,
                     "pathId": -5661622186177192904
                 },
                 {
-                    "origLen": 170,
-                    "pathId": 3557238704475982603
-                },
-                {
                     "origLen": 129,
                     "pathId": -5538828342575696123
+                },
+                {
+                    "origLen": 170,
+                    "pathId": 3557238704475982603
                 }
             ],
             "pathId": -468147469561610247,
@@ -191,29 +208,31 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "フクキタルさん？\nどうかしたんですかぁ？",
-            "enText": "Ms. Fukkitar? Is something wrong?",
+            "enText": "Fukukitaru? What's the matter?",
             "nextBlock": 10,
             "origClipLength": 71,
+            "voiceIdx": 146,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 119,
-                    "pathId": -6218477638821533581
-                },
                 {
                     "origLen": 82,
                     "pathId": -585046130156856386
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6218477638821533581
                 },
                 {
                     "origLen": 108,
                     "pathId": 9078675725292316289
                 },
                 {
-                    "origLen": 186,
-                    "pathId": -3300039721615103116
-                },
-                {
                     "origLen": 147,
                     "pathId": 6993395623724293308
+                },
+                {
+                    "origLen": 186,
+                    "pathId": -3300039721615103116
                 }
             ],
             "pathId": -6090168027579583252,
@@ -223,29 +242,31 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ちょっとお知らせに！\nドトウさんの星占いをしていたら、\nとてつもなく不吉な目が出たのでっ。",
-            "enText": "Just a quick note! I was doing Ms. \nDotou's horoscope, and I got an \nincredibly ominous reading.",
+            "enText": "I've got a message for you! I read your<n>horoscope,\nbut the result was incredibly<n>unfortunate.",
             "nextBlock": 11,
             "origClipLength": 103,
+            "voiceIdx": 70,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 155,
-                    "pathId": 707387376036736571
-                },
                 {
                     "origLen": 114,
                     "pathId": 6040040960056125565
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 707387376036736571
                 },
                 {
                     "origLen": 133,
                     "pathId": 9161450085288963099
                 },
                 {
-                    "origLen": 164,
-                    "pathId": 7593909132199955991
-                },
-                {
                     "origLen": 191,
                     "pathId": 6233757436454454950
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 7593909132199955991
                 }
             ],
             "pathId": 5393466052748593179,
@@ -255,29 +276,31 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "西の空に、ビックリ仰天な新星が生まれ\nようとしています。1つなのに2つに見える、\n摩訶不思議な二重星が！",
-            "enText": "An amazing new star is about to be born in \nthe western sky. A mysterious double star is \nabout to be born in the western sky.",
+            "enText": "Look to the sky and be in awe—in the<n>west is born\na new star. Though it is one,<n>it appears as two, a\nmysterious double<n>star!",
             "nextBlock": 12,
             "origClipLength": 112,
+            "voiceIdx": 63,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 159,
-                    "pathId": -1983789152973815493
-                },
                 {
                     "origLen": 123,
                     "pathId": 228244359104404315
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -1983789152973815493
                 },
                 {
                     "origLen": 20,
                     "pathId": -2534704758897053451
                 },
                 {
-                    "origLen": 134,
-                    "pathId": -2426291208014895865
-                },
-                {
                     "origLen": 182,
                     "pathId": -1191745113855400449
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -2426291208014895865
                 }
             ],
             "pathId": -4625032152752674667,
@@ -287,25 +310,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "その新星は黄金の星をかげらせ、さらに\r\nドトウさんや多くのウマ娘たちにとっての\n脅威となるでしょう！",
-            "enText": "This new star will make the golden star glow, \nand will also be a threat to Dotou and many \nother horsegirls! and many other horsegirls!",
+            "enText": "That new star will outshine the golden<n>star,\nposing a threat to you and many<n>other\nUmamusume!",
             "nextBlock": 13,
             "origClipLength": 110,
+            "voiceIdx": 103,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 121,
-                    "pathId": -9134942211119077309
-                },
                 {
                     "origLen": 121,
                     "pathId": -4146770457546208916
                 },
                 {
-                    "origLen": 231,
-                    "pathId": -8098931035509121711
+                    "origLen": 121,
+                    "pathId": -9134942211119077309
                 },
                 {
                     "origLen": 167,
                     "pathId": 3128185052135991620
+                },
+                {
+                    "origLen": 231,
+                    "pathId": -8098931035509121711
                 }
             ],
             "pathId": 5012480922422360095,
@@ -315,25 +340,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "新星で……にじゅうせい？\nそれって――",
-            "enText": "Nova to…… for a duplicate? Is that―",
+            "enText": "New star... double star? What does...",
             "nextBlock": 14,
             "origClipLength": 69,
+            "voiceIdx": 76,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -8110086154825897501
-                },
                 {
                     "origLen": 80,
                     "pathId": 3180984286530475812
                 },
                 {
-                    "origLen": 63,
-                    "pathId": -3831430434602805576
+                    "origLen": 89,
+                    "pathId": -8110086154825897501
                 },
                 {
                     "origLen": 96,
                     "pathId": -6138946396138552785
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3831430434602805576
                 }
             ],
             "pathId": 576889876650022139,
@@ -343,25 +370,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――同日。阪神レース場。",
-            "enText": "―Same day. Hanshin Racecourse.",
+            "enText": "Meanwhile, at Hanshin Racecourse...",
             "nextBlock": 15,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": 2273736146327068410
-                },
                 {
                     "origLen": 22,
                     "pathId": -9159664100730607761
                 },
                 {
-                    "origLen": 15,
-                    "pathId": -2282263108387155764
+                    "origLen": 22,
+                    "pathId": 2273736146327068410
                 },
                 {
                     "origLen": 15,
                     "pathId": -8188125429429325395
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -2282263108387155764
                 }
             ],
             "pathId": 6818988899906822328,
@@ -371,37 +400,41 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ウアアアアアアアアアアッ！！）",
-            "enText": "(uaaaahhhh!!!)",
+            "enText": "Wooooo!",
             "nextBlock": 16,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8989834669612896868,
             "blockIdx": 15
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "期待の星アドマイヤベガ、完勝ー！\nウマなりで突き抜け、見事重賞制覇ー！",
-            "enText": "Admire Vega, a promising star, wins it all! \nShe was a natural and pushed through to win \nthe Grand Prize!",
+            "enText": "Victory goes to Admire Vega, the<n>brilliant star of\nhope! She bursts past the<n>competition,\ndominating the graded<n>races!",
             "nextBlock": 17,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "アドマイヤベガ",
-                    "enText": "Admire Vega"
+                    "enText": ""
                 },
                 {
                     "jpText": "重賞",
-                    "enText": "large prize (e.g. in horse racing)"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 129,
-                    "pathId": 7499966633172077834
-                },
-                {
                     "origLen": 147,
                     "pathId": 9180002580545352464
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 7499966633172077834
                 }
             ],
             "pathId": -3235497013706124998,
@@ -409,19 +442,21 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "クラシック主役の1人として名乗りをあげた！\n悲しいほどストイックな走りで、次はどこへ\n向かうのかー！？",
-            "enText": "She's named herself as one of the \nclassic mainstays! With a sadly stoic \ndrive, where will she go next? We'll \nsee where we're headed!",
+            "enText": "Another candidate joins the running to<n>be\ncrowned the leading act of the<n>Classics! Where\nwill we see that solemn,<n>stoic run of hers next?!",
             "nextBlock": 18,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": 8471320008386105916
-                },
                 {
                     "origLen": 147,
                     "pathId": 1574211948177125122
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 8471320008386105916
                 }
             ],
             "pathId": -1826562621234024124,
@@ -431,17 +466,19 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "誓いは……まだ果たせていない。\n目指すは――",
-            "enText": "The vow is…… yet to be fulfilled. \nThe goal is to―",
+            "enText": "I've yet... to fulfill my promise. I must<n>go...",
             "nextBlock": 19,
             "origClipLength": 73,
+            "voiceIdx": 59,
+            "voiceSheetId": "051033001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 5201233931413891432
-                },
                 {
                     "origLen": 84,
                     "pathId": 471451431388807522
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5201233931413891432
                 }
             ],
             "pathId": 7615298233466697542,
@@ -451,21 +488,23 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "――東へ。府中の空へ。",
-            "enText": "―To the east. To the sky of Fuchu.",
+            "enText": "East, to the skies of Fuchu.",
             "nextBlock": 20,
             "origClipLength": 59,
+            "voiceIdx": 5,
+            "voiceSheetId": "051033001",
             "animData": [
                 {
                     "origLen": 98,
                     "pathId": -8406161345698968713
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -6812563963469469818
-                },
-                {
                     "origLen": 70,
                     "pathId": 7688678742392914358
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6812563963469469818
                 }
             ],
             "pathId": -300829391596902760,
@@ -475,17 +514,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――数日後。",
-            "enText": "―A few days later.",
+            "enText": "A few days later...",
             "nextBlock": 21,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": 6059540722440363316
-                },
                 {
                     "origLen": 100,
                     "pathId": 2521406443653015087
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 6059540722440363316
                 },
                 {
                     "origLen": 21,
@@ -493,11 +534,11 @@
                 },
                 {
                     "origLen": 19,
-                    "pathId": -7937365502938713170
+                    "pathId": 1478314168940430274
                 },
                 {
                     "origLen": 19,
-                    "pathId": 1478314168940430274
+                    "pathId": -7937365502938713170
                 }
             ],
             "pathId": 4705264464939358386,
@@ -507,17 +548,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あわわわわっ、もうすぐ授業がぁぁぁ。\n急がなきゃ、急がなきゃ～～～。",
-            "enText": "Awww, class is coming up soon… I have to \nhurry, I have to hurry～～.",
+            "enText": "Oh, no, no, no, class is about to start! I<n>need to\nhurry up!",
             "nextBlock": 22,
             "origClipLength": 89,
+            "voiceIdx": 36,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 6841021179201216853
-                },
                 {
                     "origLen": 100,
                     "pathId": 7539608749946244144
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6841021179201216853
                 }
             ],
             "pathId": 5804650450440889526,
@@ -527,17 +570,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ドン！）",
-            "enText": "(DON!)",
+            "enText": "<i>Thud!</i>",
             "nextBlock": 23,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": -8589672455298930128
+                    "pathId": 6226022429167809409
                 },
                 {
                     "origLen": 58,
-                    "pathId": 6226022429167809409
+                    "pathId": -8589672455298930128
                 }
             ],
             "pathId": 6441448308383290236,
@@ -547,9 +592,11 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "はひゃあああ！？　ごめんなさいぃぃぃ！\n私、また誰かをドゴーンって\n突き飛ばしてぇぇぇ。",
-            "enText": "Hahyaaaa! I'm sorry! I'm gonna push someone \noff with a thud again.",
+            "enText": "Gyaah?! I'm so sorry! I'm always running<n>into\npeople...",
             "nextBlock": 24,
             "origClipLength": 102,
+            "voiceIdx": 24,
+            "voiceSheetId": "051058001",
             "pathId": 858704685317108965,
             "blockIdx": 23
         },
@@ -557,25 +604,27 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 25,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 98,
-                    "pathId": 6849750889374667745
-                },
                 {
                     "origLen": 86,
                     "pathId": 8042333254146394761
                 },
                 {
-                    "origLen": 100,
-                    "pathId": -5734448525409861991
+                    "origLen": 98,
+                    "pathId": 6849750889374667745
                 },
                 {
                     "origLen": 111,
                     "pathId": -8446209823040429452
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5734448525409861991
                 }
             ],
             "pathId": -3183180448634775453,
@@ -585,25 +634,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "（あれ、突き飛ばされて……ない？\r\n私がぶつかると、大体の子は壁にゴキャって\nなっちゃうのに）",
-            "enText": "(Hey, isn't it…… when you get pushed away? \nMost of the kids would be up against the wall \nif I hit them.)",
+            "enText": "(Huh, they're perfectly... fine? Usually<n>when I\ncrash into someone, they go<n>flying into a wall.)",
             "nextBlock": 26,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 119,
-                    "pathId": -4741017710123389005
-                },
                 {
                     "origLen": 117,
                     "pathId": -4611522381164435209
                 },
                 {
-                    "origLen": 235,
-                    "pathId": 1536196963061701952
+                    "origLen": 119,
+                    "pathId": -4741017710123389005
                 },
                 {
                     "origLen": 135,
                     "pathId": 7259099668356193744
+                },
+                {
+                    "origLen": 235,
+                    "pathId": 1536196963061701952
                 }
             ],
             "pathId": 5886997892053605690,
@@ -613,25 +664,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "（って、この人は……！）",
-            "enText": "(And this guy is at ……!)",
+            "enText": "(Wait... I know who that is!)",
             "nextBlock": 27,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -1146762544001378805
-                },
                 {
                     "origLen": 71,
                     "pathId": -1575630227662321097
                 },
                 {
-                    "origLen": 100,
-                    "pathId": 4269993175485859904
+                    "origLen": 65,
+                    "pathId": -1146762544001378805
                 },
                 {
                     "origLen": 135,
                     "pathId": 6055859880073503929
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 4269993175485859904
                 }
             ],
             "pathId": -5709578320260755596,
@@ -641,25 +694,27 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "前――よく見た方がいいから。",
-            "enText": "Before―because it's better to look closely.",
+            "enText": "Just... pay better attention to what's in<n>front of\nyou.",
             "nextBlock": 28,
             "origClipLength": 63,
+            "voiceIdx": 60,
+            "voiceSheetId": "051033001",
             "animData": [
-                {
-                    "origLen": 74,
-                    "pathId": 3679733624572981174
-                },
                 {
                     "origLen": 74,
                     "pathId": 2579811065302350221
                 },
                 {
-                    "origLen": 100,
-                    "pathId": 9062129653021851080
+                    "origLen": 74,
+                    "pathId": 3679733624572981174
                 },
                 {
                     "origLen": 135,
                     "pathId": -8813002065471116331
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 9062129653021851080
                 }
             ],
             "pathId": -6782094571089520925,
@@ -669,31 +724,33 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "ははは、はいぃぃぃ！　すみません～！\nアドマイヤベガさん……アヤベさん……。",
-            "enText": "Ha-ha-ha, yes! Sorry～! Admire Vega…… Ayabe, ……",
+            "enText": "Y-y-yes! Sorry about that, Admire<n>Vega... I\nmean... Ayabe.",
             "nextBlock": 29,
             "origClipLength": 94,
+            "voiceIdx": 73,
+            "voiceSheetId": "051058001",
             "coloredText": [
                 {
                     "jpText": "アヤベ",
-                    "enText": "aye-aye (Daubentonia madagascariensis)"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 106,
-                    "pathId": 2403782093687224493
-                },
                 {
                     "origLen": 105,
                     "pathId": -1549652019949722272
                 },
                 {
-                    "origLen": 206,
-                    "pathId": -9082822045051236380
+                    "origLen": 106,
+                    "pathId": 2403782093687224493
                 },
                 {
                     "origLen": 135,
                     "pathId": 687681238552420795
+                },
+                {
+                    "origLen": 206,
+                    "pathId": -9082822045051236380
                 }
             ],
             "pathId": 8753603956001963766,
@@ -703,31 +760,33 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あのっ……わわ私、アヤベさんの走り、\nこの間ウマチューブで見ましたぁ。\nカッコよくて、怖いほど速くて……！",
-            "enText": "You know…… I saw Ayabe's run on Umatube the \nother day. She was so cool and scary fast. ……!",
+            "enText": "Um... I s-saw you running on UmaTube<n>the other\nday. You were so cool and...<n>terrifyingly fast!",
             "nextBlock": 30,
             "origClipLength": 114,
+            "voiceIdx": 53,
+            "voiceSheetId": "051058001",
             "coloredText": [
                 {
                     "jpText": "ウマチューブ",
-                    "enText": "horse tube"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": -5133443573884177693
-                },
                 {
                     "origLen": 125,
                     "pathId": -8131570817089534597
                 },
                 {
-                    "origLen": 125,
-                    "pathId": -4912658178841420947
+                    "origLen": 87,
+                    "pathId": -5133443573884177693
                 },
                 {
                     "origLen": 135,
                     "pathId": -1933674681805989806
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -4912658178841420947
                 }
             ],
             "pathId": 1829416955335763708,
@@ -737,29 +796,31 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 31,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": -239211175598228856
-                },
                 {
                     "origLen": 62,
                     "pathId": 2534377296523244370
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -239211175598228856
                 },
                 {
                     "origLen": 75,
                     "pathId": 5639926035329971398
                 },
                 {
-                    "origLen": 125,
-                    "pathId": 577731853901818726
-                },
-                {
                     "origLen": 135,
                     "pathId": 8576982014109186383
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 577731853901818726
                 }
             ],
             "pathId": 2094319065296491009,
@@ -769,29 +830,31 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "――遊びじゃないから。",
-            "enText": "―because it's not a game.",
+            "enText": "I'm not here to have fun.",
             "nextBlock": 32,
             "origClipLength": 59,
+            "voiceIdx": 3,
+            "voiceSheetId": "051033001",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": 1215419105596305508
-                },
                 {
                     "origLen": 70,
                     "pathId": -4493870076066113331
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 1215419105596305508
                 },
                 {
                     "origLen": 21,
                     "pathId": 4202913588978068918
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -1361156738352934017
-                },
-                {
                     "origLen": 135,
                     "pathId": -6758969625256951545
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1361156738352934017
                 }
             ],
             "pathId": -6892972050676177826,
@@ -801,25 +864,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "へ？",
-            "enText": "Heh?",
+            "enText": "Huh?",
             "nextBlock": 33,
             "origClipLength": 47,
+            "voiceIdx": 20,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": 1965374352503116391
-                },
                 {
                     "origLen": 58,
                     "pathId": 5954735693448269003
                 },
                 {
-                    "origLen": 104,
-                    "pathId": 7808790909960561972
+                    "origLen": 72,
+                    "pathId": 1965374352503116391
                 },
                 {
                     "origLen": 135,
                     "pathId": -5799334322149368057
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7808790909960561972
                 }
             ],
             "pathId": 5933524877495384464,
@@ -829,25 +894,27 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "遊びで走ってるわけじゃないから。\n怖く見えたなら、そのせい。",
-            "enText": "I'm not running for fun. If it looks scary, \nthat's because it is.",
+            "enText": "I'm not running for the fun of it. That's<n>probably\nwhy you found me scary.",
             "nextBlock": 34,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 98,
-                    "pathId": -8768394899204164365
-                },
                 {
                     "origLen": 95,
                     "pathId": -2641760692761658133
                 },
                 {
-                    "origLen": 95,
-                    "pathId": -6441040319256907374
+                    "origLen": 98,
+                    "pathId": -8768394899204164365
                 },
                 {
                     "origLen": 135,
                     "pathId": -1502771757402947838
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -6441040319256907374
                 }
             ],
             "pathId": 5730546628326432223,
@@ -857,25 +924,27 @@
             "jpName": "アドマイヤベガ",
             "enName": "Admire Vega",
             "jpText": "負けるわけには……いかないから。\nじゃあ。",
-            "enText": "Because we can't lose…… Then.",
+            "enText": "I can't... afford to lose. Bye.",
             "nextBlock": 35,
             "origClipLength": 72,
+            "voiceIdx": 44,
+            "voiceSheetId": "051033001",
             "animData": [
-                {
-                    "origLen": 123,
-                    "pathId": 9034247239613489632
-                },
                 {
                     "origLen": 83,
                     "pathId": -7801102427952373143
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 4059893192123615199
+                    "origLen": 123,
+                    "pathId": 9034247239613489632
                 },
                 {
                     "origLen": 135,
                     "pathId": -6511705498755965839
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4059893192123615199
                 }
             ],
             "pathId": -1125651641862555044,
@@ -885,25 +954,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "は、はい……。",
-            "enText": "is yes, ……",
+            "enText": "Oh, okay...",
             "nextBlock": 36,
             "origClipLength": 54,
+            "voiceIdx": 49,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -9175953792229515726
-                },
                 {
                     "origLen": 65,
                     "pathId": -6333625101231049950
                 },
                 {
-                    "origLen": 102,
-                    "pathId": -88325434409881329
+                    "origLen": 47,
+                    "pathId": -9175953792229515726
                 },
                 {
                     "origLen": 102,
                     "pathId": 9192420309272713293
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -88325434409881329
                 }
             ],
             "pathId": -5211710668555448927,
@@ -911,27 +982,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ドトウ！　大丈夫かい？",
-            "enText": "Dotoh! Are you okay?",
+            "enText": "Doto! Are you well?",
             "nextBlock": 37,
             "origClipLength": 59,
+            "voiceIdx": 42,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 186,
-                    "pathId": 7135821435986715196
-                },
                 {
                     "origLen": 121,
                     "pathId": -2911357535292865
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 5788951961246566256
+                    "origLen": 186,
+                    "pathId": 7135821435986715196
                 },
                 {
                     "origLen": 118,
                     "pathId": -6318440500041382473
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5788951961246566256
                 }
             ],
             "pathId": 5299999430061758381,
@@ -941,25 +1014,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あ、オペラオーさん、トレーナーさん！",
-            "enText": "Oh, Ms. Opera-O, my trainer!",
+            "enText": "Oh, Opera O, Trainer!",
             "nextBlock": 38,
             "origClipLength": 68,
+            "voiceIdx": 31,
+            "voiceSheetId": "051058001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4632170701210270064
+                },
                 {
                     "origLen": 47,
                     "pathId": -3883844150260270161
                 },
                 {
                     "origLen": 79,
-                    "pathId": 4632170701210270064
+                    "pathId": 3254772097813420750
                 },
                 {
                     "origLen": 224,
                     "pathId": 2059820195681048110
-                },
-                {
-                    "origLen": 79,
-                    "pathId": 3254772097813420750
                 }
             ],
             "pathId": 5540573776069727060,
@@ -969,25 +1044,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "今の人、アドマイヤベガさん……\nアヤベさんです。\n同期で、とっても強いウマ娘で。",
-            "enText": "The person now, Admire Vega…… is Ayabe. We \nare in the same class, and she is a very \nstrong horsegirl.",
+            "enText": "That was Admire Vega just now... or<n>Ayabe. She's\nour peer—and a very<n>strong racer.",
             "nextBlock": 39,
             "origClipLength": 97,
+            "voiceIdx": 35,
+            "voiceSheetId": "051058001",
             "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 256020828048451231
+                },
                 {
                     "origLen": 94,
                     "pathId": -5132898888411909514
                 },
                 {
                     "origLen": 108,
-                    "pathId": 256020828048451231
+                    "pathId": 903173651075740876
                 },
                 {
                     "origLen": 224,
                     "pathId": 5772461857537230044
-                },
-                {
-                    "origLen": 108,
-                    "pathId": 903173651075740876
                 }
             ],
             "pathId": 1972959547083928462,
@@ -995,27 +1072,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ああ、ボクの配役表にも載っているよ。\nこの間のレースで、覇王レーダーにも\nピピンと引っかかったからね。",
-            "enText": "Yeah, it's on my casting list too. I'm also \non the High King's radar from the last race. \nI was caught on the radar.",
+            "enText": "Ah yes, I do remember seeing her name<n>on my\ncasting list. My Overlord radar<n>was rung by her\npresence in a race not<n>long ago.",
             "nextBlock": 40,
             "origClipLength": 111,
+            "voiceIdx": 37,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 1980620527311835168
+                },
                 {
                     "origLen": 84,
                     "pathId": -5159161538145867490
                 },
                 {
                     "origLen": 122,
-                    "pathId": 1980620527311835168
+                    "pathId": 1517535059194035169
                 },
                 {
                     "origLen": 86,
                     "pathId": 9152393044743159647
-                },
-                {
-                    "origLen": 122,
-                    "pathId": 1517535059194035169
                 }
             ],
             "pathId": -3074983403726434017,
@@ -1023,27 +1102,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "いつか大舞台で相まみえる日も来るだろう。\nおお、アヤベさん！\n君はなぜアドベじゃないんだい？",
-            "enText": "One day we will meet each other on the big \nstage. Oh, Ms. Ayabe! Why aren't you an adobe?",
+            "enText": "I'm positive that in time our paths will<n>cross on\nthe big stage. O, Ayabe,<n>Ayabe! Wherefore art\nthou Ayabe?",
             "nextBlock": 41,
             "origClipLength": 105,
+            "voiceIdx": 0,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -7873406457855183201
+                },
                 {
                     "origLen": 118,
                     "pathId": 7387931116564371209
                 },
                 {
                     "origLen": 116,
-                    "pathId": -7873406457855183201
+                    "pathId": 5938077652767351228
                 },
                 {
                     "origLen": 90,
                     "pathId": 1838072465903561981
-                },
-                {
-                    "origLen": 116,
-                    "pathId": 5938077652767351228
                 }
             ],
             "pathId": 7005224499429745679,
@@ -1053,25 +1134,27 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "あの～トレーナーさん、\r\nお話しておきたいことが……。",
-            "enText": "Um, trainer, I'd like to talk \nto you about something: ……",
+            "enText": "Um, Trainer... I'd like to talk to you<n>about\nsomething.",
             "nextBlock": 42,
             "origClipLength": 80,
+            "voiceIdx": 54,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 142,
-                    "pathId": 1177554553005191479
-                },
                 {
                     "origLen": 155,
                     "pathId": 3937988868767563363
                 },
                 {
-                    "origLen": 26,
-                    "pathId": -3277596997633560678
+                    "origLen": 142,
+                    "pathId": 1177554553005191479
                 },
                 {
                     "origLen": 26,
                     "pathId": -8560787156190011479
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -3277596997633560678
                 }
             ],
             "pathId": 5529388700922203794,
@@ -1081,17 +1164,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "アヤベさん、さっき私がぶつかった時、\nビクともしませんでした。あんなに細いのに。",
-            "enText": "Ayabe-san, when I bumped into you a while \nago, you didn't even twitch. You are so thin.",
+            "enText": "I bumped into Ayabe earlier, but she<n>didn't budge\nan inch, despite how slim<n>she is.",
             "nextBlock": 43,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 135,
-                    "pathId": -4678719405426172478
-                },
                 {
                     "origLen": 108,
                     "pathId": -9068714028238429836
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -4678719405426172478
                 }
             ],
             "pathId": 496285451576497194,
@@ -1101,17 +1186,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "逆に私の方が、跳ね返されちゃって。\nあれが本当に強い人の体なら、\n私なんて、まだまだ……。",
-            "enText": "On the contrary, I bounced back. \nIf that's the body of a really \nstrong person, I'm still ……",
+            "enText": "Instead, I'm the one who went tumbling.<n>If that's\nwhat it means to have a strong<n>body, I have a\nlong way to go...",
             "nextBlock": 44,
             "origClipLength": 103,
+            "voiceIdx": 78,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 155,
-                    "pathId": 1531596758842503795
-                },
                 {
                     "origLen": 114,
                     "pathId": 387142873424262743
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 1531596758842503795
                 }
             ],
             "pathId": 1764579164527010277,
@@ -1121,25 +1208,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "アドマイヤベガ。冷静で孤高で――\nしなやかな足腰を誇る新星……。",
-            "enText": "Admire Vega. Calm and solitary―a rising star \nwith supple legs and feet. ……",
+            "enText": "Admire Vega—Calm and collected in her<n>solitude,\nshe's a new star who takes<n>pride in her swift step.",
             "nextBlock": 45,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": -4237363954872105844
-                },
                 {
                     "origLen": 17,
                     "pathId": 3778457970064733342
                 },
                 {
-                    "origLen": 167,
-                    "pathId": -1777884045733978322
+                    "origLen": 17,
+                    "pathId": -4237363954872105844
                 },
                 {
                     "origLen": 135,
                     "pathId": 3826064817845606247
+                },
+                {
+                    "origLen": 167,
+                    "pathId": -1777884045733978322
                 }
             ],
             "pathId": 661163152912471673,
@@ -1149,22 +1238,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "メイショウドトウとテイエムオペラオーの\n間をさえぎる、強力なライバルが現れた。",
-            "enText": "A powerful rival has emerged to stand between \nMeishoudou and TM Operao.",
+            "enText": "A strong rival has appeared on the<n>scene, shaking\nthings up for Meisho<n>Doto and T.M. Opera.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 24,
-                    "pathId": -2275566451449371492
+                    "pathId": 3041944771622320317
                 },
                 {
                     "origLen": 24,
-                    "pathId": 3041944771622320317
+                    "pathId": -2275566451449371492
                 }
             ],
             "pathId": 4689499959175363364,
             "blockIdx": 45
         }
-    ],
-    "modified": 1657555061
+    ]
 }

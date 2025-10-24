@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "5UDNWFCHEDRIRT2YCH3WNGT7IVB6SQMH",
+    "version": 6,
+    "bundle": "WHQHN3YZSIZ5F2ZARKRUESHFEFHYCXHD",
     "type": "story",
     "storyId": "801008002",
     "title": "大通りの強敵",
+    "enTitle": "Enemies on Main Street",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある休日、出かける途中に\r\n校門前を通りかかると――",
-            "enText": "One weekend, on my way out, I \npassed by the Academy gate…",
+            "enText": "One particular day off, I'm passing by<n>the\nacademy entrance when...",
             "nextBlock": 2,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8270600719711619383,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うひゃあああああああああー！！",
-            "enText": "Uhyaaaaaaaaaaaaaa!!",
+            "enText": "AAAAAHHHHH!",
             "nextBlock": 3,
+            "origClipLength": 54,
+            "voiceIdx": 104,
+            "voiceSheetId": "051008001",
             "pathId": -4295276767313002516,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ままま街中で、キ、キ……なんて軟派なこと\r\nしてんじゃねぇバッカヤローーー！",
-            "enText": "D-D-D-Don't do something so soft \nin the middle of town, you idiot!",
+            "enText": "Wh-wh-why are there so many couples<n>today?\nA-and they're kissing? IN<n>PUBLIC?!",
             "nextBlock": 4,
+            "origClipLength": 70,
+            "voiceIdx": 28,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6808737961639560183
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2157123124816646488
+                }
+            ],
             "pathId": -6005040925501855072,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "んがぁっ！？",
-            "enText": "Ngaah?!",
+            "enText": "Bwah?!",
             "nextBlock": 5,
+            "origClipLength": 48,
+            "voiceIdx": 111,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8711731459401478547
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5740020748091423562
+                }
+            ],
             "pathId": -7757871341574277129,
             "blockIdx": 4
         },
@@ -45,8 +78,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "は、鼻血でだ……！",
-            "enText": "I-It's a nosebleed!",
+            "enText": "I-I can't do thiiiisss!",
             "nextBlock": 6,
+            "origClipLength": 50,
+            "voiceIdx": 22,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -8798179392917084680
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 6827117127454281249
+                }
+            ],
             "pathId": 4677550291868902974,
             "blockIdx": 5
         },
@@ -54,8 +100,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "チ、チクショー……早くいかねーと\r\nバイク写真集売り切れちまうってのに……！",
-            "enText": "D-Dammit… If we don't hurry, we're \ngonna run out of photo books!",
+            "enText": "D-dammit! That motorcycle photo book<n>is gonna\nsell out if I don't get a move on!",
             "nextBlock": 7,
+            "origClipLength": 69,
+            "voiceIdx": 36,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -5295513022154256350
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 4762759728894479882
+                }
+            ],
             "pathId": 6026270507745678907,
             "blockIdx": 6
         },
@@ -63,18 +122,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "なあ、アンタ！　大通りの軟派なヤツら\r\n避ける方法、なんか知らねーか！？",
-            "enText": "Hey, you! Don't you know how to \navoid the guys on the main street?!",
+            "enText": "Hey, you! Y'know of any ways to avoid<n>the love\nfest happenin' on the main<n>road?!",
             "nextBlock": 8,
+            "origClipLength": 68,
+            "voiceIdx": 39,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "脇道を使う",
-                    "enText": "Use side roads",
+                    "enText": "Use the side roads.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "全力疾走で向かう",
-                    "enText": "At full speed.",
+                    "enText": "Run as fast as you can.",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -718162646843536791
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5020524446476780878
                 }
             ],
             "pathId": 5599306086745095003,
@@ -84,8 +156,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "脇道……！　そうだ、\r\nほかに道があること忘れてた！",
-            "enText": "A side road…! Oh, right! I forgot \nthere was another way!",
+            "enText": "The side roads! I totally forgot I could<n>use them\ninstead!",
             "nextBlock": 9,
+            "origClipLength": 61,
+            "voiceIdx": 31,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8179444129402355864
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -259732380529366436
+                }
+            ],
             "pathId": -4059325463002486051,
             "blockIdx": 8
         },
@@ -93,8 +178,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ちっとごちゃごちゃ入り組んでっけど、\r\nしょうがねぇ！　急がば回れだぜ！",
-            "enText": "It's a bit of a mess, but it can't \nbe helped! Hurry up and go around!",
+            "enText": "They're all twisty 'n' turny, but it's my<n>only way! I'll\njust have to put the pedal<n>to the metal!",
             "nextBlock": 10,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -3404921770806596635
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -3376326513085982204
+                }
+            ],
             "pathId": -8352417763350295956,
             "blockIdx": 9
         },
@@ -102,8 +200,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よっしゃ、いってくる！！\r\nありがとな！！",
-            "enText": "Alright, I'm off!! Thanks!!",
+            "enText": "Okay, I'll catch ya later! Thanks!",
             "nextBlock": 11,
+            "origClipLength": 58,
+            "voiceIdx": 13,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 59861712860223334
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -8632343132153769919
+                }
+            ],
             "pathId": 2374582329015732167,
             "blockIdx": 10
         },
@@ -111,8 +222,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……一応言っとっけど、別にキ……が\r\n怖ぇわけじゃねーぞ！　勘違いすんなよ！",
-            "enText": "…Just so you know, I'm not scared \nof you or anything! Don't get the \nwrong idea!",
+            "enText": "...Just so you know, I'm not afraid of<n>k-ki—things\nlike that! So don't get the<n>wrong idea!",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": 15,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 6035332997501647913
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 640892397001056278
+                }
+            ],
             "pathId": -675035334323726827,
             "blockIdx": 11
         },
@@ -120,8 +244,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "全力疾走……！\r\n見ちまう前に、走り抜けろってことか！？",
-            "enText": "Sprinting at full speed……! \nYou want me to run through \nbefore I see you!?",
+            "enText": "Run as fast as I can?! Oh, I get it! If I<n>zoom past,\nthen I won't have to see 'em<n>making out!",
             "nextBlock": 13,
+            "origClipLength": 63,
+            "voiceIdx": 27,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -7182924495940489925
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 8110407480751412057
+                }
+            ],
             "pathId": 4914256322229187976,
             "blockIdx": 12
         },
@@ -129,8 +266,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "いや、俺ならやれる！　やってやらぁ！\r\n光より速く駆けりゃいい話だ！",
-            "enText": "No, I can do it! I can do it! I \ncan run faster than the light!",
+            "enText": "Yeah, I'mma do just that! I've just gotta<n>run faster\nthan the speed of light!",
             "nextBlock": 14,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5312921719324599816
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 1756963999301339536
+                }
+            ],
             "pathId": 8596648460312197017,
             "blockIdx": 13
         },
@@ -138,8 +288,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よっしゃ、そうと決まりゃ怖いモンなしだぜ！\r\nサンキューな！！",
-            "enText": "Alright, that settles it! Thanks!",
+            "enText": "Aw, yeah! Nothin's gonna scare me now!<n>Thanks!",
             "nextBlock": 15,
+            "origClipLength": 65,
+            "voiceIdx": 12,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6091286778852881357
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -6790532934952363556
+                }
+            ],
             "pathId": 8600605470322004766,
             "blockIdx": 14
         },
@@ -147,12 +310,23 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……違う、怖ぇんじゃねぇ、軟派なモンが\r\n嫌いなだけだ！　勘違いすんなよ！",
-            "enText": "…No, don't be scared. I \njust hate soft stuff! Don't \nget the wrong idea!",
+            "enText": "...N-not that it was that big of a deal<n>anyway! I\njust hate that wishy-washy<n>romance garbage!\nDon't get the wrong<n>idea!",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": 15,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -7744966022008930441
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7470631069520064850
+                }
+            ],
             "pathId": -2539076437391671355,
             "blockIdx": 15
         }
-    ],
-    "humanTl": true,
-    "modified": 1684512146
+    ]
 }

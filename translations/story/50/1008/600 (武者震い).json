@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "T5QNVNRNJ6R2C4DFPP3DU35RMLA4FVDF",
+    "version": 6,
+    "bundle": "ANCKDNDFZU5GOFTAC2IQZZ3OFO4QKLFA",
     "type": "story",
     "storyId": "501008600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "へへッ……レースだな、トレーナー。\r\n俺はもうバッチリ準備できてるぜ。",
-            "enText": "Heh… race you, trainer. \nI'm ready to go.",
+            "enText": "Heheh. Time to race, Trainer. I'm so<n>ready for\nthis.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -488991464021687308
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5436769526047825985
+                }
+            ],
             "pathId": 624828739126922627,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "この直前のピりつき、たまんねぇ……！\r\n早く走りたくってウズウズしちまうっ。",
-            "enText": "I can't get enough of this last \nminute pizzazz…! I can't \nwait to start running.",
+            "enText": "All this pre-race excitement has got me<n>fired up!\nI'm itchin' to get runnin'!",
             "nextBlock": 3,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "期待してるぞ、ウオッカ！",
-                    "enText": "I'm counting on you, Vodka!",
+                    "enText": "You can do it, Vodka!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "期待してるよ、ウオッカ！",
-                    "enText": "I'm counting on you, Vodka!",
+                    "enText": "You can do it, Vodka!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -1695756986076231947
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -6683991131404492740
                 }
             ],
             "pathId": -7546130881884293978,
@@ -39,8 +66,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おうっ！　任せとけ！\r\nどいつもこいつも、ぶっちぎって――",
-            "enText": "Ooh! I'm on it! I'm gonna beat \nthe crap out of everybody.",
+            "enText": "Yeah! Leave it to me! I'm gonna take<n>everyone\nout!",
             "nextBlock": 4,
+            "origClipLength": 82,
+            "voiceIdx": 11,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 5301290270495896458
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -2836479355458680645
+                }
+            ],
             "pathId": -5895764097383349284,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "1着でゴールする、最高にカッコいい俺を！\r\nアンタの目に焼きつけてやるからよ！！",
-            "enText": "I'm going to finish first, and I'm going to \nbe the coolest guy you've ever seen. I'll \nmake sure you see it!",
+            "enText": "I'm gonna look so cool takin' first place<n>that you'll\nnever be able to forget it!",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 917925048196224255
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -3790962377399494053
+                }
+            ],
             "pathId": -2003712666146102968,
             "blockIdx": 4
         }

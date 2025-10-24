@@ -1,33 +1,36 @@
 {
-    "version": 5,
-    "bundle": "IVXEAEONZDCWF2XGKESG3SRTBVE7PDDN",
+    "version": 6,
+    "bundle": "VFBF67KVZWGE337NFYLNIUDEVJM7SWS3",
     "type": "story",
     "storyId": "501011310",
     "title": "有馬記念の後に・さまよう",
+    "enTitle": "After the Arima Kinen: Drifting",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "セイウンスカイにこそ先を行かれたものの、\r\nグラスワンダーは『有馬記念』で\n見事な結果を残した。",
-            "enText": "Although she was beaten only by Seiunsky, \nGrass Wonder Arima Kinen.",
+            "enText": "Though Seiun Sky gets the big win,<n>Grass Wonder\nstill earns an impressive<n>place at the Arima Kinen.",
             "nextBlock": 2,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": -6153250184148204494
-                },
                 {
                     "origLen": 87,
                     "pathId": 497175736181567127
                 },
                 {
                     "origLen": 87,
-                    "pathId": 6690426144568712739
+                    "pathId": -6153250184148204494
                 },
                 {
                     "origLen": 87,
                     "pathId": -4946235005779462486
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 6690426144568712739
                 }
             ],
             "pathId": 119076808919892103,
@@ -35,27 +38,29 @@
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "うむ！！\r\nいい走りだったぞっ、グラスワンダー！！",
-            "enText": "Yes! Nice ride, Grass Wonder!",
+            "enText": "Yeah! You ran like a champ today, Grass<n>Wonder!",
             "nextBlock": 3,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": -8637954895876073887
-                },
                 {
                     "origLen": 72,
                     "pathId": 2689456685451807454
                 },
                 {
                     "origLen": 72,
-                    "pathId": 7200393974832960921
+                    "pathId": -8637954895876073887
                 },
                 {
                     "origLen": 72,
                     "pathId": 9001467866075232680
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7200393974832960921
                 }
             ],
             "pathId": -6067875485944287888,
@@ -63,27 +68,29 @@
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "やはり“怪物二世”！！\r\nマルゼンスキーもきっと見ているぞー！！",
-            "enText": "I knew it! \"Monster II\"! I bet \nMarzenski is watching too!",
+            "enText": "You really are the Beast's Successor! I'm<n>sure\nMaruzensky's watching you like a<n>hawk!",
             "nextBlock": 4,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 7386589097497531389
-                },
                 {
                     "origLen": 76,
                     "pathId": -883460348856337371
                 },
                 {
                     "origLen": 76,
-                    "pathId": 1846754571301244554
+                    "pathId": 7386589097497531389
                 },
                 {
                     "origLen": 76,
                     "pathId": -7703886958364388127
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 1846754571301244554
                 }
             ],
             "pathId": 4284523284469469618,
@@ -93,28 +100,26 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "――ただいま戻りました。",
-            "enText": "―I'm back.",
+            "enText": "I'm back.",
             "nextBlock": 5,
             "origClipLength": 52,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "お疲れ様、グラス",
-                    "enText": "Good job, Glass.",
+                    "enText": "That was a great race, Grass.",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 39,
-                    "pathId": 8044512161256727995
-                },
-                {
                     "origLen": 85,
                     "pathId": -9021214219735693887
                 },
                 {
-                    "origLen": 94,
-                    "pathId": -4203106795324841489
+                    "origLen": 39,
+                    "pathId": 8044512161256727995
                 },
                 {
                     "origLen": 94,
@@ -122,11 +127,15 @@
                 },
                 {
                     "origLen": 94,
-                    "pathId": -4281395988738499896
+                    "pathId": -4203106795324841489
                 },
                 {
                     "origLen": 94,
                     "pathId": -7564250971633748837
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -4281395988738499896
                 }
             ],
             "pathId": -1769926756712331709,
@@ -136,21 +145,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "労いのお言葉、痛み入ります。\r\nでも……疲れてなどはいられません。",
-            "enText": "Your kind words of appreciation \nfor my labor are painfully received. \nBut I am not tired of ……",
+            "enText": "Thank you for the kind words... Still, I<n>can't help\nbut feel like it wasn't enough.",
             "nextBlock": 6,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 1806753607962502461
-                },
                 {
                     "origLen": 77,
                     "pathId": -7014796482412474528
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 2865914994630022280
+                    "origLen": 52,
+                    "pathId": 1806753607962502461
                 },
                 {
                     "origLen": 77,
@@ -158,11 +165,15 @@
                 },
                 {
                     "origLen": 77,
-                    "pathId": -4643958658753827948
+                    "pathId": 2865914994630022280
                 },
                 {
                     "origLen": 77,
                     "pathId": 8918690376321655583
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4643958658753827948
                 }
             ],
             "pathId": -8066612358435091871,
@@ -172,21 +183,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……本当ならこのレースは、\r\nもっと――",
-            "enText": "…… If true, this race would be more―",
+            "enText": "This race should have been more...",
             "nextBlock": 7,
             "origClipLength": 58,
+            "voiceIdx": 18,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 15,
-                    "pathId": -2473934353684752048
-                },
                 {
                     "origLen": 69,
                     "pathId": -293834603359162282
                 },
                 {
-                    "origLen": 69,
-                    "pathId": -1489039902053552176
+                    "origLen": 15,
+                    "pathId": -2473934353684752048
                 },
                 {
                     "origLen": 69,
@@ -194,11 +203,15 @@
                 },
                 {
                     "origLen": 69,
-                    "pathId": 2449988107490669228
+                    "pathId": -1489039902053552176
                 },
                 {
                     "origLen": 69,
                     "pathId": 4046943802027609892
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2449988107490669228
                 }
             ],
             "pathId": -7562299504199305347,
@@ -208,33 +221,35 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ん～……そっかそっか。",
-            "enText": "Hmmm……… I see.",
+            "enText": "Hmm... I see how it is.",
             "nextBlock": 8,
             "origClipLength": 52,
+            "voiceIdx": 16,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -5860192321430450410
-                },
                 {
                     "origLen": 63,
                     "pathId": -57566955202753124
                 },
                 {
-                    "origLen": 30,
-                    "pathId": 3018000329996369283
+                    "origLen": 63,
+                    "pathId": -5860192321430450410
                 },
                 {
                     "origLen": 39,
                     "pathId": 6000869372111028025
                 },
                 {
-                    "origLen": 63,
-                    "pathId": -9221696824745688301
+                    "origLen": 30,
+                    "pathId": 3018000329996369283
                 },
                 {
                     "origLen": 63,
                     "pathId": -1597636098390466247
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -9221696824745688301
                 }
             ],
             "pathId": 7824011008349321046,
@@ -244,21 +259,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "あ……セイちゃん？",
-            "enText": "Oh…… Sey?",
+            "enText": "Oh... Sei?",
             "nextBlock": 9,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": -2727961315684640606
-                },
                 {
                     "origLen": 90,
                     "pathId": -1454434829325261614
                 },
                 {
-                    "origLen": 90,
-                    "pathId": 4769672204328006211
+                    "origLen": 80,
+                    "pathId": -2727961315684640606
                 },
                 {
                     "origLen": 90,
@@ -266,11 +279,15 @@
                 },
                 {
                     "origLen": 90,
-                    "pathId": -711357239423689940
+                    "pathId": 4769672204328006211
                 },
                 {
                     "origLen": 90,
                     "pathId": 8515277088515849597
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -711357239423689940
                 }
             ],
             "pathId": -8083233748806563581,
@@ -280,17 +297,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いやま、正直さ。",
-            "enText": "Well, to be honest.",
+            "enText": "Look, honestly...",
             "nextBlock": 10,
             "origClipLength": 50,
+            "voiceIdx": 70,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -5710598381871312317
+                },
                 {
                     "origLen": 61,
                     "pathId": 7039990585478757634
                 },
                 {
                     "origLen": 61,
-                    "pathId": -5710598381871312317
+                    "pathId": -4379650756850698859
                 },
                 {
                     "origLen": 30,
@@ -298,15 +321,11 @@
                 },
                 {
                     "origLen": 61,
-                    "pathId": -4379650756850698859
+                    "pathId": 3568334322498372510
                 },
                 {
                     "origLen": 61,
                     "pathId": 7753179543384505707
-                },
-                {
-                    "origLen": 61,
-                    "pathId": 3568334322498372510
                 }
             ],
             "pathId": 4879460497320301808,
@@ -316,17 +335,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "今日のグラスちゃん、\r\n隙だらけで簡単だったよ。",
-            "enText": "Today, Glass-chan, it was \neasy with all the gaps.",
+            "enText": "You left yourself wide open today,<n>Grass.",
             "nextBlock": 11,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5634015782114971746
+                },
                 {
                     "origLen": 20,
                     "pathId": 4220875510215777385
                 },
                 {
                     "origLen": 71,
-                    "pathId": -5634015782114971746
+                    "pathId": 1967915582965470785
                 },
                 {
                     "origLen": 104,
@@ -334,15 +359,11 @@
                 },
                 {
                     "origLen": 71,
-                    "pathId": 1967915582965470785
+                    "pathId": 7795812408849657023
                 },
                 {
                     "origLen": 71,
                     "pathId": -2726997731729037797
-                },
-                {
-                    "origLen": 71,
-                    "pathId": 7795812408849657023
                 }
             ],
             "pathId": 6419956171160990126,
@@ -352,17 +373,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……本気かどうか、疑うくらいに。",
-            "enText": "…… enough to doubt whether \nyou are serious or not.",
+            "enText": "Were you even trying out there?",
             "nextBlock": 12,
             "origClipLength": 55,
+            "voiceIdx": 0,
+            "voiceSheetId": "051020001",
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6240176583762741973
+                },
                 {
                     "origLen": 66,
                     "pathId": -1319683294302399339
                 },
                 {
                     "origLen": 66,
-                    "pathId": 6240176583762741973
+                    "pathId": 8889691796949678254
                 },
                 {
                     "origLen": 28,
@@ -370,15 +397,11 @@
                 },
                 {
                     "origLen": 66,
-                    "pathId": 8889691796949678254
+                    "pathId": 155938747112218750
                 },
                 {
                     "origLen": 66,
                     "pathId": -4801290480111207249
-                },
-                {
-                    "origLen": 66,
-                    "pathId": 155938747112218750
                 }
             ],
             "pathId": 447927692487540387,
@@ -388,21 +411,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "――……！",
-            "enText": "―……!",
+            "enText": "...!",
             "nextBlock": 13,
             "origClipLength": 48,
+            "voiceIdx": 18,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -5704789178179309824
-                },
                 {
                     "origLen": 59,
                     "pathId": 5634652207392028448
                 },
                 {
-                    "origLen": 59,
-                    "pathId": 4243019098812833634
+                    "origLen": 31,
+                    "pathId": -5704789178179309824
                 },
                 {
                     "origLen": 59,
@@ -410,11 +431,15 @@
                 },
                 {
                     "origLen": 59,
-                    "pathId": 2802382319524962769
+                    "pathId": 4243019098812833634
                 },
                 {
                     "origLen": 59,
                     "pathId": 5720513127748624818
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 2802382319524962769
                 }
             ],
             "pathId": -1318411844856571468,
@@ -424,17 +449,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ま、グラスちゃんにだって\r\nそんな日はあるかもなのだけどさ～。",
-            "enText": "Well, even Glass-chan may have days like \nthat, you know.",
+            "enText": "Well, I guess we all have our off days.",
             "nextBlock": 14,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -1503676174666686147
+                },
                 {
                     "origLen": 76,
                     "pathId": 4238530772136501702
                 },
                 {
                     "origLen": 76,
-                    "pathId": -1503676174666686147
+                    "pathId": 669985738039286800
                 },
                 {
                     "origLen": 40,
@@ -442,15 +473,11 @@
                 },
                 {
                     "origLen": 76,
-                    "pathId": 669985738039286800
+                    "pathId": -3854484773622641908
                 },
                 {
                     "origLen": 76,
                     "pathId": -2588201047856753412
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -3854484773622641908
                 }
             ],
             "pathId": 2062539155313477331,
@@ -460,33 +487,35 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……正直、次は勘弁してほしいもんだね。",
-            "enText": "…… Honestly, I hope they don't do it again.",
+            "enText": "...Just don't go doing this to me again.",
             "nextBlock": 15,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 171,
-                    "pathId": 8316461479383829415
-                },
                 {
                     "origLen": 171,
                     "pathId": 5918404367033001371
                 },
                 {
-                    "origLen": 102,
-                    "pathId": 6854252547242596078
+                    "origLen": 171,
+                    "pathId": 8316461479383829415
                 },
                 {
                     "origLen": 102,
                     "pathId": 2317848336554099736
                 },
                 {
-                    "origLen": 68,
-                    "pathId": -6196365429149674416
+                    "origLen": 102,
+                    "pathId": 6854252547242596078
                 },
                 {
                     "origLen": 68,
                     "pathId": 2800440857845445206
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -6196365429149674416
                 }
             ],
             "pathId": -835554652811942241,
@@ -496,17 +525,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "あ、セイちゃん……！",
-            "enText": "Oh, Say, ……!",
+            "enText": "Ah, Sei!",
             "nextBlock": 16,
             "origClipLength": 51,
+            "voiceIdx": 70,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": -4448379842663882709
-                },
                 {
                     "origLen": 62,
                     "pathId": 670399612913373611
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -4448379842663882709
                 }
             ],
             "pathId": 6528072844439852126,
@@ -516,33 +547,35 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "……なんデスか、今の。",
-            "enText": "…… What is it now?",
+            "enText": "...What was that?",
             "nextBlock": 17,
             "origClipLength": 52,
+            "voiceIdx": 111,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 11,
-                    "pathId": 4894732762211132446
-                },
                 {
                     "origLen": 11,
                     "pathId": 1971288175899604203
                 },
                 {
-                    "origLen": 58,
-                    "pathId": -895906159739734213
+                    "origLen": 11,
+                    "pathId": 4894732762211132446
                 },
                 {
                     "origLen": 68,
                     "pathId": 4453243444729362275
                 },
                 {
-                    "origLen": 87,
-                    "pathId": 7153364223484807474
+                    "origLen": 58,
+                    "pathId": -895906159739734213
                 },
                 {
                     "origLen": 87,
                     "pathId": 5916919257368189764
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7153364223484807474
                 }
             ],
             "pathId": 5623536205763757551,
@@ -552,30 +585,23 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "グラス……アナタは……！！",
-            "enText": "Glass…… you are ……!",
+            "enText": "Grass... You!",
             "nextBlock": -1,
             "origClipLength": 53,
+            "voiceIdx": 64,
+            "voiceSheetId": "051014001",
             "animData": [
                 {
-                    "origLen": 64,
-                    "pathId": -3724258605025534240
-                },
-                {
-                    "origLen": 64,
-                    "pathId": 7207828082307872040
+                    "origLen": 32,
+                    "pathId": 2804779129409415433
                 },
                 {
                     "origLen": 31,
                     "pathId": 5955542117714223586
-                },
-                {
-                    "origLen": 32,
-                    "pathId": 2804779129409415433
                 }
             ],
             "pathId": -1660750745518028280,
             "blockIdx": 17
         }
-    ],
-    "modified": 1657555055
+    ]
 }

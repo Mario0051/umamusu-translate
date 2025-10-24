@@ -1,22 +1,24 @@
 {
-    "version": 5,
-    "bundle": "3VY7XUO3ADXHTFBHOC4VXL5XBM6ZPTW6",
+    "version": 6,
+    "bundle": "6NIT2WPIOINN22IT2T6USZLZY62OT2UC",
     "type": "story",
     "storyId": "400001002",
     "title": "『URAファイナルズ』開催！",
-    "humanTl": true,
+    "enTitle": "URA Finale Announced!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、自室にてくつろいでいると、\r\nトレセン学園から1通のメールが届いた。",
-            "enText": "One day, while relaxing in my room, I \nreceived an e-mail from Thoresen Academy.",
+            "enText": "One day, while relaxing in my room, I<n>receive an\nemail from Tracen Academy.",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "なんだろう……？",
-                    "enText": "What is it ……?",
+                    "enText": "What's this about?",
                     "nextBlock": 2
                 }
             ],
@@ -27,9 +29,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "『学園所属の全トレーナーに告ぐ！\r\n近日、諸君の未来に関わる重大発表がある』",
-            "enText": "Attention all trainers at the Academy! There \nwill be a big announcement concerning your \nfuture in the near future.",
+            "enText": "\"Attention, all trainers! I will soon make<n>an\nannouncement with significant<n>implications for\nyour future.\"",
             "nextBlock": 3,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -805961062146413334,
             "blockIdx": 2
         },
@@ -37,13 +41,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "『必ずチェックするように！\r\nトレセン学園理事長・秋川【あきかわ】より』",
-            "enText": "Be sure to check it out! From Akikawa \n[Akikawa], Chairman of the Board of Trustees \nof Tressen Academy.\"",
+            "enText": "\"Be sure not to miss it! From Tracen<n>Academy\nDirector Akikawa.\"",
             "nextBlock": 4,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "秋川",
-                    "enText": "fall river"
+                    "enText": ""
                 }
             ],
             "pathId": -5425238411870578065,
@@ -51,49 +57,57 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "感謝ッ！　メディア諸君、よく来てくれた！\r\n静聴ッ！　このたびわたしが提案するのは――",
-            "enText": "Thank you! Media, thank you for coming! \nSilence! I would like to propose…",
+            "enText": "Greetings! Members of the press, thank<n>you all\nfor coming! Listen well! I have<n>gathered you here\ntoday for an<n>important announ—",
             "nextBlock": 5,
             "origClipLength": 73,
+            "voiceIdx": 13,
+            "voiceSheetId": "059002001",
             "pathId": -6933828329636963263,
             "blockIdx": 4
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "あのっ、理事長～……！\r\n台に乗って話して頂かないと、お姿が……！",
-            "enText": "Um, Ms. President～……! \nIf you don't get on the platform to talk, \nthey won't see……!",
+            "enText": "Um, Director! You have to stand on the<n>box, or\nthey won't be able to see you!",
             "nextBlock": 6,
             "origClipLength": 66,
+            "voiceIdx": 53,
+            "voiceSheetId": "059001001",
             "pathId": 7499424260383506755,
             "blockIdx": 5
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "むっ。そうであった！\r\n失念、失念ッ！",
-            "enText": "Mwah. That's right! Lost, lost!",
+            "enText": "Hm, right you are! Apologies, apologies!",
             "nextBlock": 7,
             "origClipLength": 57,
+            "voiceIdx": 26,
+            "voiceSheetId": "059002001",
             "pathId": -8053086935060066499,
             "blockIdx": 6
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "――よしッ、これでよいな。\r\nでは改めて！",
-            "enText": "―Okay, that's better. Well then, once again!",
+            "enText": "All right, this seems okay. Well, then,<n>from the\ntop!",
             "nextBlock": 8,
             "origClipLength": 58,
+            "voiceIdx": 69,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -6078543835810097497
-                },
                 {
                     "origLen": 89,
                     "pathId": 460849755093892079
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6078543835810097497
                 }
             ],
             "pathId": 7925963772586069676,
@@ -101,19 +115,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "提言ッ！　トレセン学園理事長の名において、\r\nここに――",
-            "enText": "Proposal! In the name of the chairman \nof the board of directors of Thoresen \nAcademy, I hereby―",
+            "enText": "Listen well! I, the director of Tracen<n>Academy,\nhereby announce...",
             "nextBlock": 9,
             "origClipLength": 63,
+            "voiceIdx": 84,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 173409037964858819
-                },
                 {
                     "origLen": 89,
                     "pathId": 4611949314462792570
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 173409037964858819
                 }
             ],
             "pathId": 5799967879093747508,
@@ -121,19 +137,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "新レース、『URAファイナルズ』の開催を\r\n宣言するッ！！！！",
-            "enText": "I declare a new race, \"URA Finals\" ！！！！",
+            "enText": "The establishment of a new race, the<n>URA Finale!",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": 70,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": 5822518278347377803
-                },
                 {
                     "origLen": 89,
                     "pathId": 1123322301952773347
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 5822518278347377803
                 }
             ],
             "pathId": 8607662313480009417,
@@ -143,17 +161,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ざわっ……！！）",
-            "enText": "(Zawwah ……!!!)",
+            "enText": "<i>Murmur, murmur, murmur...</i>",
             "nextBlock": 11,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 4593891922226739531
-                },
                 {
                     "origLen": 89,
                     "pathId": -2710517613830016390
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4593891922226739531
                 }
             ],
             "pathId": -8959693943623456262,
@@ -163,17 +183,19 @@
             "jpName": "記者たち",
             "enName": "Reporters",
             "jpText": "『URAファイナルズ』……！？\r\n新しいレースを作るのか！？",
-            "enText": "The \"URA Finals\" ……! You're \ncreating a new race!",
+            "enText": "\"The URA Finale\"?! They're creating an<n>entirely\nnew race?!",
             "nextBlock": 12,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 167,
-                    "pathId": 7381221049300817051
-                },
                 {
                     "origLen": 89,
                     "pathId": 5845087949955775113
+                },
+                {
+                    "origLen": 167,
+                    "pathId": 7381221049300817051
                 }
             ],
             "pathId": 425259088678764147,
@@ -181,33 +203,35 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "秋川理事長！　『月刊トゥインクル』の\r\n乙名史【おとなし】です。\nご質問よろしいでしょうか？",
-            "enText": "Chairman Akikawa! My name is Fumi Otome of \n\"Monthly Twinkle\". May I ask you a question?",
+            "enText": "Director Akikawa! I'm Otonashi of<n>Twinkle\nMonthly. May I ask you a<n>question?",
             "nextBlock": 13,
             "origClipLength": 70,
+            "voiceIdx": 44,
+            "voiceSheetId": "059003001",
             "coloredText": [
                 {
                     "jpText": "月刊トゥインクル",
-                    "enText": "Monthly Twinkle"
+                    "enText": ""
                 },
                 {
                     "jpText": "乙名史",
-                    "enText": "history of a second name"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 167,
-                    "pathId": 3055068272704247319
-                },
                 {
                     "origLen": 142,
                     "pathId": -21911997500139105
                 },
                 {
-                    "origLen": 210,
-                    "pathId": 6531905051836406333
+                    "origLen": 167,
+                    "pathId": 3055068272704247319
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 8455379442269234661
                 },
                 {
                     "origLen": 269,
@@ -218,8 +242,8 @@
                     "pathId": 7551755015093756012
                 },
                 {
-                    "origLen": 184,
-                    "pathId": 8455379442269234661
+                    "origLen": 210,
+                    "pathId": 6531905051836406333
                 }
             ],
             "pathId": 3739466679188227010,
@@ -227,23 +251,25 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "許可ッ！　何かね、乙名史君！",
-            "enText": "Permission! What is it, Otomeishi!",
+            "enText": "Permissible! What is it, Miss Otonashi?",
             "nextBlock": 14,
             "origClipLength": 54,
+            "voiceIdx": 149,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -5639762134245318724
-                },
                 {
                     "origLen": 89,
                     "pathId": 6850821223301799480
                 },
                 {
-                    "origLen": 210,
-                    "pathId": 7474856130659231866
+                    "origLen": 60,
+                    "pathId": -5639762134245318724
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -247581153893730230
                 },
                 {
                     "origLen": 269,
@@ -254,8 +280,8 @@
                     "pathId": -3052857866576681935
                 },
                 {
-                    "origLen": 184,
-                    "pathId": -247581153893730230
+                    "origLen": 210,
+                    "pathId": 7474856130659231866
                 }
             ],
             "pathId": -6582278667446312650,
@@ -263,27 +289,29 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "ありがとうございます。では――",
-            "enText": "Thank you very much. Now then―",
+            "enText": "Thank you. Now then...",
             "nextBlock": 15,
             "origClipLength": 54,
+            "voiceIdx": 12,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -5440069978255448665
-                },
                 {
                     "origLen": 89,
                     "pathId": 3016022066389444899
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5440069978255448665
                 },
                 {
                     "origLen": 30,
                     "pathId": -8064861891357311085
                 },
                 {
-                    "origLen": 210,
-                    "pathId": -5706543203608679609
+                    "origLen": 12,
+                    "pathId": 7178481515588406011
                 },
                 {
                     "origLen": 269,
@@ -294,8 +322,8 @@
                     "pathId": 8945000394674763374
                 },
                 {
-                    "origLen": 12,
-                    "pathId": 7178481515588406011
+                    "origLen": 210,
+                    "pathId": -5706543203608679609
                 }
             ],
             "pathId": 1278189812822775665,
@@ -303,27 +331,29 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "新レース設立とのことですが、こちら、\r\nどのようなお考えによるものでしょう？",
-            "enText": "I understand that you are \nestablishing a new race.",
+            "enText": "Can you give us some insight into the<n>thought\nprocess behind this decision?",
             "nextBlock": 16,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": -2542020899591501727
-                },
                 {
                     "origLen": 89,
                     "pathId": -5565089085316847260
                 },
                 {
-                    "origLen": 66,
-                    "pathId": 4007331166331725598
+                    "origLen": 81,
+                    "pathId": -2542020899591501727
                 },
                 {
                     "origLen": 269,
                     "pathId": -8195926625732759682
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4007331166331725598
                 }
             ],
             "pathId": -8901351658934982675,
@@ -331,35 +361,37 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "僥倖ッ！！　よくぞ聞いてくれた！！",
-            "enText": "Fortuitous!! I'm glad you asked!!",
+            "enText": "Excellent question! I'm glad you asked!",
             "nextBlock": 17,
             "origClipLength": 56,
+            "voiceIdx": 2,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": -8414259154149428286
                 },
                 {
-                    "origLen": 76,
-                    "pathId": -9193264108196885198
-                },
-                {
                     "origLen": 89,
                     "pathId": -1220639455794485666
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -9193264108196885198
                 },
                 {
                     "origLen": 60,
                     "pathId": 7742314624650084189
                 },
                 {
-                    "origLen": 113,
-                    "pathId": 2688163731372991105
-                },
-                {
                     "origLen": 269,
                     "pathId": -504434840538858560
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 2688163731372991105
                 }
             ],
             "pathId": 5128817956205042685,
@@ -367,35 +399,37 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "『URAファイナルズ』とは、言うなれば\r\n『全てのウマ娘にチャンスを与える』レース。",
-            "enText": "The \"URA Finals\" is a race that \"gives every \nUma Musume a chance.",
+            "enText": "In short, the URA Finale is an event that<n>allows\nevery Umamusume to seek a<n>chance at glory!",
             "nextBlock": 18,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 92,
                     "pathId": -5093869578207237501
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -6010752470054025051
-                },
-                {
                     "origLen": 89,
                     "pathId": 5956361820858197280
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6010752470054025051
                 },
                 {
                     "origLen": 87,
                     "pathId": 186597354564802104
                 },
                 {
-                    "origLen": 141,
-                    "pathId": 4464229236665050588
-                },
-                {
                     "origLen": 269,
                     "pathId": 1112558470647142559
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 4464229236665050588
                 }
             ],
             "pathId": -4886714333638703552,
@@ -403,35 +437,37 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "あらゆるウマ娘が、己の全力で以て、\r\n頂点を！　最強を！　トップの座を！！\n競うことができるレースなのだッ！！",
-            "enText": "Every Uma Musume will give it their all to \nreach the top! The best! The top! It's a race \nwhere you can compete!",
+            "enText": "It will be an event where any and all<n>Umamusume\ncan compete! Respect!<n>Honor! Recognition! It will\nall be theirs<n>for the taking!",
             "nextBlock": 19,
             "origClipLength": 80,
+            "voiceIdx": 1,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -1994908295223574388
                 },
                 {
-                    "origLen": 99,
-                    "pathId": 2959447520291876499
-                },
-                {
                     "origLen": 123,
                     "pathId": 1142990588468304309
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2959447520291876499
                 },
                 {
                     "origLen": 102,
                     "pathId": -2081492851853779584
                 },
                 {
-                    "origLen": 92,
-                    "pathId": 4095241770226981725
-                },
-                {
                     "origLen": 269,
                     "pathId": -8600720368543503059
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4095241770226981725
                 }
             ],
             "pathId": -8307867150842760707,
@@ -439,31 +475,33 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "チャンスを……トップの座を……\r\nあらゆるウマ娘が……！！",
-            "enText": "Give…… a chance to…… the top \nspot…… every Uma girl ……!",
+            "enText": "A chance at glory... for all Umamusume?!",
             "nextBlock": 20,
             "origClipLength": 63,
+            "voiceIdx": 7,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 99,
-                    "pathId": -9061028612027971351
-                },
                 {
                     "origLen": 89,
                     "pathId": 7553139898927862961
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -9061028612027971351
                 },
                 {
                     "origLen": 20,
                     "pathId": 8436928606275731530
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 886485599819304619
-                },
-                {
                     "origLen": 269,
                     "pathId": -4939845730604297356
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 886485599819304619
                 }
             ],
             "pathId": -236304605873408524,
@@ -473,25 +511,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ざわざわざわっ……！！）",
-            "enText": "(mutter mutter mutter……!!)",
+            "enText": "<i>Chatter, chatter...</i>",
             "nextBlock": 21,
             "origClipLength": 53,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 99,
-                    "pathId": -1348466024400029746
-                },
                 {
                     "origLen": 89,
                     "pathId": -3386715535575422255
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 2144451913252757386
+                    "origLen": 99,
+                    "pathId": -1348466024400029746
                 },
                 {
                     "origLen": 269,
                     "pathId": 3345392898367177771
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2144451913252757386
                 }
             ],
             "pathId": -4136887934235293207,
@@ -499,27 +539,29 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "…………ふ。ふふ。\r\nふふふふふふっ……！！",
-            "enText": "……… Huh. Hmmm. Hmmmmmmmmm… ……!!!",
+            "enText": "Hehe, hehehe... Hehehehehe!",
             "nextBlock": 22,
             "origClipLength": 59,
+            "voiceIdx": 1,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -98506189576528881
-                },
                 {
                     "origLen": 30,
                     "pathId": 5719003141717165614
                 },
                 {
-                    "origLen": 106,
-                    "pathId": -7818259451769468911
+                    "origLen": 30,
+                    "pathId": -98506189576528881
                 },
                 {
                     "origLen": 269,
                     "pathId": 4236719676690987937
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -7818259451769468911
                 }
             ],
             "pathId": -2080307216309221085,
@@ -527,19 +569,21 @@
         },
         {
             "jpName": "乙名史記者",
-            "enName": "Otonashi Etsuko",
+            "enName": "Reporter Otonashi",
             "jpText": "はぁぁぁぁっ……！\r\nこれは、面白いことになってきましたぁ……！",
-            "enText": "Huh! ……! This is getting interesting… ……!",
+            "enText": "Ahhh! Now <i>this</i> is getting interesting!",
             "nextBlock": 23,
             "origClipLength": 65,
+            "voiceIdx": 63,
+            "voiceSheetId": "059003001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": -266895364580837419
-                },
                 {
                     "origLen": 269,
                     "pathId": 205815251859202795
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -266895364580837419
                 }
             ],
             "pathId": -42451332257574659,
@@ -549,17 +593,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "突如として開催が発表されたレース、\r\n『URAファイナルズ』……。",
-            "enText": "The race, \"URA Finals,\" was \nsuddenly announced. ……",
+            "enText": "The sudden announcement of the URA<n>Finale\nrocks the racing world.",
             "nextBlock": 24,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 48,
-                    "pathId": -9144808563807703092
+                    "pathId": -4700206895088562342
                 },
                 {
                     "origLen": 48,
-                    "pathId": -4700206895088562342
+                    "pathId": -9144808563807703092
                 }
             ],
             "pathId": 6534850329303740256,
@@ -569,9 +615,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "レース界に大きな衝撃を与えた会見発表直後、\r\n今度はトレセン学園内の面々向けに\n説明会が行われる運びとなった。",
-            "enText": "Immediately after the press conference that \nshocked the racing world, a briefing session \nwas held for the members of Tracen Academy.",
+            "enText": "Immediately afterward, an information<n>session is\nheld for everyone at Tracen<n>Academy.",
             "nextBlock": 25,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 287224828691727792,
             "blockIdx": 24
         },
@@ -579,9 +627,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "体育館へ向かうと、そこには既に生徒たちや\r\nトレーナーたちが集っており、会場内は\nざわめきに包まれていた……。",
-            "enText": "We headed to the gymnasium, where \nthe students and trainers had already \ngathered, and the room was \nfilled with a buzz. ……",
+            "enText": "By the time I make it to the gymnasium,<n>it's\nalready buzzing with trainers and<n>Umamusume.",
             "nextBlock": 26,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 436653026004944280,
             "blockIdx": 25
         },
@@ -589,9 +639,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "『URAファイナルズ』か……大丈夫かしら、\r\n新レース設立だなんて大きなことをやって。",
-            "enText": "URA Finals or …… I wonder if it's okay, doing \nsomething so big as establishing a new race.",
+            "enText": "\"The URA Finale,\" huh... Can they really<n>just make\nup a whole new race like that?",
             "nextBlock": 27,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4116190152567393958,
             "blockIdx": 26
         },
@@ -599,9 +651,11 @@
             "jpName": "ベテラントレーナーB",
             "enName": "Veteran Trainer B",
             "jpText": "そうだなぁ……理事長って言ったって、\r\nまだ子どもだもんな。",
-            "enText": "Yeah, I know……… I mean, she's \nstill a kid, right?",
+            "enText": "I wonder... I know the director's a big<n>deal, but\nshe's still a child at the end of<n>the day.",
             "nextBlock": 28,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1821780075596970310,
             "blockIdx": 27
         },
@@ -609,27 +663,31 @@
             "jpName": "ベテラントレーナーB",
             "enName": "Veteran Trainer B",
             "jpText": "先代は本当に優秀な方だったけれど、\r\n必ずしも娘が有能ってわけじゃ――",
-            "enText": "Her predecessor was really good, \nbut it doesn't necessarily \nmean that her daughter is too.",
+            "enText": "The old director ran the academy like<n>clockwork,\nbut that doesn't mean her<n>daughter knows what\nshe's—",
             "nextBlock": 29,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5506682379982628933,
             "blockIdx": 28
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "……お話しのところ、申し訳ございません。",
-            "enText": "……I'm sorry to interrupt.",
+            "enText": "Excuse me for interrupting.",
             "nextBlock": 30,
             "origClipLength": 58,
+            "voiceIdx": 52,
+            "voiceSheetId": "059001001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 3767572951341352466
-                },
                 {
                     "origLen": 89,
                     "pathId": 6477728652207545090
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3767572951341352466
                 }
             ],
             "pathId": -3226458991174939447,
@@ -637,23 +695,25 @@
         },
         {
             "jpName": "駿川たづな",
-            "enName": "Hayakawa Tazuna",
+            "enName": "Tazuna Hayakawa",
             "jpText": "質疑応答の時間は、説明の後に設けますので。\r\n何かあれば、その時にお訊ねくださいね？",
-            "enText": "We will have time for questions and answers \nafter the presentation. If you have any \nquestions, please ask then, okay?",
+            "enText": "There will be time for questions after the<n>\ndirector's address. If you have any<n>concerns, you\nmay bring them up then.",
             "nextBlock": 31,
             "origClipLength": 72,
+            "voiceIdx": 0,
+            "voiceSheetId": "059001001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": -2402522550113493733
                 },
                 {
-                    "origLen": 197,
-                    "pathId": -7017084134819266330
-                },
-                {
                     "origLen": 98,
                     "pathId": -5980084120514212750
+                },
+                {
+                    "origLen": 197,
+                    "pathId": -7017084134819266330
                 }
             ],
             "pathId": -1903516875921461328,
@@ -663,17 +723,19 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "たづなさん……！\r\nし、失礼しました。",
-            "enText": "Tazuna, ……! I'm sorry, I'm sorry.",
+            "enText": "Ms. Tazuna! E-excuse us! We didn't<n>mean to be\nrude!",
             "nextBlock": 32,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 197,
-                    "pathId": 3702938667722509379
-                },
                 {
                     "origLen": 98,
                     "pathId": 7269300098079523124
+                },
+                {
+                    "origLen": 197,
+                    "pathId": 3702938667722509379
                 }
             ],
             "pathId": -7126495694666499648,
@@ -683,17 +745,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "周囲の様子を見るに、今はまだ\r\n動揺や不安の声の方が大きいようだ。",
-            "enText": "Looking at the surroundings, it seems that \npeople are still more upset and anxious.",
+            "enText": "Judging by the mood in the room,<n>there's still a\nlot of confusion and<n>uncertainty.",
             "nextBlock": 33,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 197,
-                    "pathId": 7961337537813676088
-                },
                 {
                     "origLen": 98,
                     "pathId": -8395761110405820148
+                },
+                {
+                    "origLen": 197,
+                    "pathId": 7961337537813676088
                 }
             ],
             "pathId": 4351755280483525722,
@@ -703,25 +767,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "そんな中……いよいよ、秋川理事長による\r\n『URAファイナルズ』説明会が始まった。",
-            "enText": "In the midst of all this…… finally \nbegan the \"URA Finals\" presentation \nby Chancellor Akikawa.",
+            "enText": "The atmosphere persists as Director<n>Akikawa's\nURA Finale briefing session<n>finally begins.",
             "nextBlock": 34,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7195611171385138283
-                },
                 {
                     "origLen": 89,
                     "pathId": 5160677539674443527
                 },
                 {
-                    "origLen": 30,
-                    "pathId": 3993251751440252063
+                    "origLen": 60,
+                    "pathId": 7195611171385138283
                 },
                 {
                     "origLen": 29,
                     "pathId": 7741356043705311318
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3993251751440252063
                 }
             ],
             "pathId": 3920538225142935955,
@@ -729,19 +795,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "諸君ッ！　……急な発表に戸惑い、\r\n不安を感じた者も多いことだろう。",
-            "enText": "Gentlemen! Many of you may have been puzzled \nand anxious at the sudden announcement of ……",
+            "enText": "Welcome! I'm sure that many of you<n>must have\nbeen taken aback by this<n>sudden announcement.",
             "nextBlock": 35,
             "origClipLength": 67,
+            "voiceIdx": 42,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 1444658435193484389
-                },
                 {
                     "origLen": 134,
                     "pathId": 11605077472079207
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1444658435193484389
                 }
             ],
             "pathId": 4867841438894018453,
@@ -749,19 +817,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "だがッ！！　まずは聞いてくれたまえ！\r\n『URAファイナルズ』、その意義をッ！！",
-            "enText": "But! First of all, listen to me! The URA \nFinals, and what it means!",
+            "enText": "However! I ask that you hear me out as I<n>explain\nthe significance of the URA<n>Finale!",
             "nextBlock": 36,
             "origClipLength": 71,
+            "voiceIdx": 86,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 5339697566700958580
-                },
                 {
                     "origLen": 134,
                     "pathId": 6452226208106991094
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5339697566700958580
                 }
             ],
             "pathId": -4794177291986399201,
@@ -769,19 +839,21 @@
         },
         {
             "jpName": "場内",
-            "enName": "All",
+            "enName": "Attendees",
             "jpText": "意義……？",
-            "enText": "Meaning of ……?",
+            "enText": "Significance? What does she mean?",
             "nextBlock": 37,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 3847573260475284045
-                },
                 {
                     "origLen": 134,
                     "pathId": 6119467691190227989
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3847573260475284045
                 }
             ],
             "pathId": 8461286880244609853,
@@ -791,17 +863,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "顔を見合わせ、ざわめく面々。\r\nそれが一瞬途切れた、絶好のタイミングで\n秋川理事長が声を張り上げる。",
-            "enText": "The faces of the participants looked at each \nother in a stir. Then, at the perfect \nmoment, the conversation was interrupted. \nAkikawa, the chairman of the board of \ntrustees, raised her voice.",
+            "enText": "The crowd glances at one another, and a<n>hum of\nwhispers fills the hall. With<n>perfect timing,\nDirector Akikawa<n>resumes her address.",
             "nextBlock": 38,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 7569225282329243539
-                },
                 {
                     "origLen": 134,
                     "pathId": 7356152915901252305
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7569225282329243539
                 }
             ],
             "pathId": -8844738006030673733,
@@ -809,19 +883,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "諸君ッ！！！！",
-            "enText": "Gentlemen. ！！！！",
+            "enText": "My beloved students and trainers!",
             "nextBlock": 39,
             "origClipLength": 49,
+            "voiceIdx": 47,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": 5638684860523066343
-                },
                 {
                     "origLen": 134,
                     "pathId": 2705277461586779461
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5638684860523066343
                 }
             ],
             "pathId": 1941448763574437431,
@@ -829,19 +905,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "――悔しい想いを、したことはないか？",
-            "enText": "―Have you ever had a frustrating experience?",
+            "enText": "Tell me, have you ever known regret?",
             "nextBlock": 40,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7746796217106482307
-                },
                 {
                     "origLen": 134,
                     "pathId": -5423395124463596061
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7746796217106482307
                 }
             ],
             "pathId": -2732721882811270278,
@@ -849,29 +927,31 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "『有馬記念で勝ちたい！』\r\n『ダービーを取りたい！』\n『最強ウマ娘になりたい！』そう思っても――",
-            "enText": "I want to win the Arimakinen! I want to win \nthe Derby! I want to be the best horse girl! \nEven if you think so…",
+            "enText": "\"I want to win the Arima Kinen!\" \"I want<n>to\nconquer the Derby!\" \"I want to be the<n>strongest\nUmamusume!\"",
             "nextBlock": 41,
             "origClipLength": 76,
+            "voiceIdx": 79,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "有馬記念",
-                    "enText": "Arima Kinen (horse racing)"
+                    "enText": ""
                 },
                 {
                     "jpText": "ダービー",
-                    "enText": "Japan Derby"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": -7056685613340286509
-                },
-                {
                     "origLen": 134,
                     "pathId": -5459358565646695046
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7056685613340286509
                 }
             ],
             "pathId": 8545584064988275252,
@@ -879,19 +959,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "距離やコースへの適性がどうしても合わず、\r\n己の実力すら発揮できずに終わったことは？",
-            "enText": "Have you ever had a race where you just \ncouldn't match the distance or course, and \nyou couldn't even show your ability?",
+            "enText": "Have you ever had dreams that you<n>couldn't\nrealize because the distance or<n>the track surface\njust wasn't right for<n>you?",
             "nextBlock": 42,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 50,
                     "pathId": -4208522080789801528
-                },
-                {
-                    "origLen": 89,
-                    "pathId": -7187761758587043351
                 },
                 {
                     "origLen": 134,
@@ -900,6 +978,10 @@
                 {
                     "origLen": 137,
                     "pathId": -8450091277402856114
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7187761758587043351
                 }
             ],
             "pathId": 1451295155848814063,
@@ -907,16 +989,14 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "『自分の真の力は、担当ウマ娘の力は\r\nこんなものではない』と唇を噛んだことは！？",
-            "enText": "'My true power, the power of the horsegirl in \ncharge, is not like this,' she bit her lip!",
+            "enText": "Have you ever ground your teeth in<n>chagrin as\nyou thought, \"I'm better than<n>this!\"?! Trainers,\nhave you not had similar<n>regrets?!",
             "nextBlock": 43,
             "origClipLength": 71,
+            "voiceIdx": 15,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -6003469704437859615
-                },
                 {
                     "origLen": 134,
                     "pathId": 8517929895946065924
@@ -924,6 +1004,10 @@
                 {
                     "origLen": 12,
                     "pathId": -7790937727600092343
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6003469704437859615
                 }
             ],
             "pathId": 2373194660940611416,
@@ -933,37 +1017,39 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 44,
             "origClipLength": 47,
+            "voiceIdx": 60,
+            "voiceSheetId": "051008001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": 6266883112950220389
-                },
                 {
                     "origLen": 21,
                     "pathId": -8119445987785003117
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6266883112950220389
                 },
                 {
                     "origLen": 99,
                     "pathId": 3587157270863410020
                 },
                 {
-                    "origLen": 159,
-                    "pathId": 8764008392159047181
-                },
-                {
                     "origLen": 137,
                     "pathId": 4479785939768412067
                 },
                 {
-                    "origLen": 164,
-                    "pathId": -3349927219019547696
+                    "origLen": 159,
+                    "pathId": 8764008392159047181
                 },
                 {
                     "origLen": 101,
                     "pathId": 4158471980296497521
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -3349927219019547696
                 }
             ],
             "pathId": 9002550692267343769,
@@ -973,33 +1059,35 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "っ……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 45,
             "origClipLength": 47,
+            "voiceIdx": 18,
+            "voiceSheetId": "051061001",
             "animData": [
                 {
                     "origLen": 99,
                     "pathId": 4181061773515461262
                 },
                 {
-                    "origLen": 159,
-                    "pathId": 5738612226462593156
-                },
-                {
                     "origLen": 137,
                     "pathId": -7853442685346506163
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 5738612226462593156
                 },
                 {
                     "origLen": 73,
                     "pathId": -483008357234251525
                 },
                 {
-                    "origLen": 164,
-                    "pathId": -6912448231810093234
-                },
-                {
                     "origLen": 87,
                     "pathId": 3114477001836526344
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -6912448231810093234
                 }
             ],
             "pathId": 4438989033669890689,
@@ -1007,19 +1095,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "諸君ッ！！　わたしが目指しているのは、\r\n『レースを志す全てのウマ娘が輝く世界』だ！",
-            "enText": "Gentlemen! I am aiming for a world where all \nUma Musume who aspire to race will shine!",
+            "enText": "Heed me! I aim to create a world where<n>all\nUmamusume who aspire to race can<n>shine!",
             "nextBlock": 46,
             "origClipLength": 72,
+            "voiceIdx": 47,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -143079377479587553
-                },
                 {
                     "origLen": 134,
                     "pathId": 3262108989518145890
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -143079377479587553
                 },
                 {
                     "origLen": 17,
@@ -1027,11 +1117,11 @@
                 },
                 {
                     "origLen": 16,
-                    "pathId": -65962894716087852
+                    "pathId": 4031740133174903029
                 },
                 {
                     "origLen": 16,
-                    "pathId": 4031740133174903029
+                    "pathId": -65962894716087852
                 },
                 {
                     "origLen": 12,
@@ -1039,11 +1129,11 @@
                 },
                 {
                     "origLen": 16,
-                    "pathId": -7696047258681024659
+                    "pathId": 3190076804297323252
                 },
                 {
                     "origLen": 16,
-                    "pathId": 3190076804297323252
+                    "pathId": -7696047258681024659
                 }
             ],
             "pathId": -1085571805906772155,
@@ -1051,23 +1141,25 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "走るウマ娘の輝きとは、即ち意志の激突ッ！\r\nウマ娘たちが全力で頂点を競い合い、\n輝きを放ち合うことこそ我が理想ッ！！",
-            "enText": "The brilliance of the running Uma Musume is a \nclash of wills! My ideal is for the \nhorsegirls to compete for the top spot \nwith all their might and radiate \ntheir brilliance to each other!",
+            "enText": "And Umamusume runners shine the<n>brightest\nwhen their wills clash! As they<n>battle it out for the\ntop spot, the heat of<n>battle shall forge and polish\nour racers<n>until their brilliance is blinding!\nBlinding,<n>I say!",
             "nextBlock": 47,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 5590074425069414627
                 },
                 {
-                    "origLen": 185,
-                    "pathId": -6694515864843237618
-                },
-                {
                     "origLen": 134,
                     "pathId": 907945137903343829
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -6694515864843237618
                 }
             ],
             "pathId": -8545808897198188479,
@@ -1075,19 +1167,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "畢竟ッ！　全てのウマ娘が全力を発揮できる、\r\nその舞台を！　わたしは用意したいのだ！！",
-            "enText": "After all! I want to prepare a stage where \nall the horsegirls can show their best! I \nwant to prepare it!",
+            "enText": "In summary! I wish to prepare a race that<n>will\nserve as a stage for all Umamusume<n>to show their\nfull potential!",
             "nextBlock": 48,
             "origClipLength": 73,
+            "voiceIdx": 6,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -1037314503568859135
-                },
                 {
                     "origLen": 134,
                     "pathId": -9218812648579345381
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1037314503568859135
                 }
             ],
             "pathId": 4348573484933548670,
@@ -1095,19 +1189,21 @@
         },
         {
             "jpName": "場内",
-            "enName": "All",
+            "enName": "Attendees",
             "jpText": "理事長……。",
-            "enText": "Chairman of the Board ……",
+            "enText": "Director...",
             "nextBlock": 49,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -6871657904269803087
-                },
                 {
                     "origLen": 134,
                     "pathId": 7097955135176737534
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6871657904269803087
                 }
             ],
             "pathId": -3800549574522128280,
@@ -1115,23 +1211,25 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "通常のGⅠであれば、距離やコースは\r\nレースによって制定されているもの。",
-            "enText": "In a regular GI, the distance and course are \nestablished by the race.",
+            "enText": "Currently, each G1 race has a<n>designated\ndistance and track type,<n>limiting the runners who\ncan join that<n>particular race.",
             "nextBlock": 50,
             "origClipLength": 68,
+            "voiceIdx": 2,
+            "voiceSheetId": "059002001",
             "animData": [
                 {
                     "origLen": 127,
                     "pathId": -2803082543560122521
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -6278264721215451543
-                },
-                {
                     "origLen": 134,
                     "pathId": -620536598568393800
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6278264721215451543
                 }
             ],
             "pathId": 368004764208523994,
@@ -1139,19 +1237,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "だが――！！",
-            "enText": "But―!",
+            "enText": "However!",
             "nextBlock": 51,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -7159424178198978693
-                },
-                {
-                    "origLen": 45,
-                    "pathId": 2679674000430024604
                 },
                 {
                     "origLen": 134,
@@ -1160,6 +1256,10 @@
                 {
                     "origLen": 111,
                     "pathId": -7777196379825930272
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2679674000430024604
                 }
             ],
             "pathId": 792809063031658827,
@@ -1167,16 +1267,14 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "刮目ッ！！　URAファイナルズにおいては、\r\n『全ての距離』『全てのコース』を用意する！",
-            "enText": "Scrape your eyes! In the URA Finals, we will \nhave \"all distances\" and \"all courses\"!",
+            "enText": "Behold! The URA Finale will feature all<n>distances\nand tracks!",
             "nextBlock": 52,
             "origClipLength": 73,
+            "voiceIdx": 63,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -591569467482612816
-                },
                 {
                     "origLen": 134,
                     "pathId": -2863305374981062813
@@ -1184,6 +1282,10 @@
                 {
                     "origLen": 10,
                     "pathId": -6580984779908939795
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -591569467482612816
                 }
             ],
             "pathId": 2043189017189962645,
@@ -1193,33 +1295,35 @@
             "jpName": "バンブーメモリー",
             "enName": "Bamboo Memory",
             "jpText": "すべての距離……！",
-            "enText": "All distances: ……!",
+            "enText": "All distances!",
             "nextBlock": 53,
             "origClipLength": 50,
+            "voiceIdx": 17,
+            "voiceSheetId": "051053001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": -8501709993391670434
-                },
                 {
                     "origLen": 34,
                     "pathId": 7697268464090666779
                 },
                 {
-                    "origLen": 230,
-                    "pathId": 3037989881737680062
+                    "origLen": 32,
+                    "pathId": -8501709993391670434
                 },
                 {
                     "origLen": 196,
                     "pathId": -3189725674979188403
                 },
                 {
-                    "origLen": 97,
-                    "pathId": -1947959314338070271
+                    "origLen": 230,
+                    "pathId": 3037989881737680062
                 },
                 {
                     "origLen": 165,
                     "pathId": -5311913696312523880
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1947959314338070271
                 }
             ],
             "pathId": -5918131399649712540,
@@ -1229,25 +1333,27 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "全てのコース……！？",
-            "enText": "All courses ……!",
+            "enText": "All tracks?!",
             "nextBlock": 54,
             "origClipLength": 51,
+            "voiceIdx": 27,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 1067569599299629896
-                },
                 {
                     "origLen": 196,
                     "pathId": 7013212661462812958
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 50173083620511432
+                    "origLen": 80,
+                    "pathId": 1067569599299629896
                 },
                 {
                     "origLen": 165,
                     "pathId": -3695493211647922809
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 50173083620511432
                 }
             ],
             "pathId": -5096388642783677368,
@@ -1255,41 +1361,43 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "参加資格を得られるのは、\r\n『有馬記念』や『宝塚記念』同様、\nファン投票で選ばれたウマ娘！",
-            "enText": "As with the Arima Kinen and Takarazuka Kinen, \nonly the Uma Musume chosen by fan votes will \nbe eligible to participate!",
+            "enText": "Just like in the Arima Kinen and the<n>Takarazuka\nKinen, participating racers<n>will be selected by fan\nvote!",
             "nextBlock": 55,
             "origClipLength": 74,
+            "voiceIdx": 80,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "宝塚記念",
-                    "enText": "Takarazuka Memorial Museum"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 207,
-                    "pathId": -8660517003166574801
-                },
                 {
                     "origLen": 134,
                     "pathId": -845175343510038855
                 },
                 {
-                    "origLen": 16,
-                    "pathId": 3533286805345761055
+                    "origLen": 207,
+                    "pathId": -8660517003166574801
                 },
                 {
                     "origLen": 16,
                     "pathId": 5646796309248068477
                 },
                 {
-                    "origLen": 15,
-                    "pathId": -6049312845653181854
+                    "origLen": 16,
+                    "pathId": 3533286805345761055
                 },
                 {
                     "origLen": 15,
                     "pathId": -6883846184335403746
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -6049312845653181854
                 }
             ],
             "pathId": -171234348736484195,
@@ -1297,25 +1405,27 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "即ち、トゥインクル・シリーズにて活躍し、\r\n多くのファンを獲得した代表的なウマ娘――\n“スターウマ娘”にのみ出走権が与えられる！",
-            "enText": "In other words, the representative Uma Musume \nwho have been active in the Twinkle Series \nand won many fans―the \"Star Uma Musume\"―are \nthe only ones who are eligible to run!",
+            "enText": "Ergo, only Umamusume who have won<n>many fans\nthrough their performance in<n>the Twinkle\nSeries—the star<n>Umamusume—may take part!",
             "nextBlock": 56,
             "origClipLength": 86,
+            "voiceIdx": 85,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "スターウマ娘",
-                    "enText": "Star Uma Musume"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": 3216867173288725089
-                },
-                {
                     "origLen": 134,
                     "pathId": 3480945812577993740
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3216867173288725089
                 }
             ],
             "pathId": -8129288867542083581,
@@ -1323,19 +1433,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "ウマ娘諸君！　己の全力を出せる舞台で走り、\r\n『URAファイナルズ』のトップ――",
-            "enText": "Uma Musume, ladies and gentlemen! Run on the \nstage where you can give it your all, and be \nthe top of the URA Finals!",
+            "enText": "Racers! I ask of you! Will you take this<n>chance to\nshow your true strength?!",
             "nextBlock": 57,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 1059578585355112506
-                },
                 {
                     "origLen": 134,
                     "pathId": 7150632868478516633
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1059578585355112506
                 }
             ],
             "pathId": -5358315742130973211,
@@ -1343,15 +1455,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "『ファイナルズ・チャンピオン』の称号を\r\n掴んでみないか！？",
-            "enText": "Why don't you try to win the \ntitle of \"Finals Champion\"?",
+            "enText": "Will you aim for the top and seize the<n>title of\nFinale Champion?",
             "nextBlock": 58,
             "origClipLength": 64,
+            "voiceIdx": 53,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "ファイナルズ・チャンピオン",
-                    "enText": "Final's Champion"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -1360,12 +1474,12 @@
                     "pathId": 6496689710057393008
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 5560313089841167011
-                },
-                {
                     "origLen": 134,
                     "pathId": 7606388714412399513
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5560313089841167011
                 }
             ],
             "pathId": -9195344828846864440,
@@ -1373,19 +1487,17 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "トレーナー諸君！　己の担当ウマ娘の才能を\r\n全力で伸ばし――",
-            "enText": "Trainers! I want you to develop the talents \nof the horsegirls in your charge to the best \nof your ability.",
+            "enText": "Trainers! I ask of you! Will you take this<n>chance to\npush your trainees to their<n>limits?!",
             "nextBlock": 59,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -2213826323080252414
-                },
-                {
-                    "origLen": 60,
-                    "pathId": -7741563043182690473
                 },
                 {
                     "origLen": 134,
@@ -1394,6 +1506,10 @@
                 {
                     "origLen": 103,
                     "pathId": -3536336626673760350
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7741563043182690473
                 }
             ],
             "pathId": -4440798653407079466,
@@ -1401,16 +1517,14 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "初代チャンピオンの栄誉に\r\n輝かせてやりたくはないか！？",
-            "enText": "Wouldn't you like to see her crowned the \nfirst champion!",
+            "enText": "Will you see your trainee crowned the<n>first-ever\nwinner of the URA Finale?!",
             "nextBlock": 60,
             "origClipLength": 63,
+            "voiceIdx": 2,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 1937909961543598250
-                },
                 {
                     "origLen": 134,
                     "pathId": 264537219334910927
@@ -1418,6 +1532,10 @@
                 {
                     "origLen": 15,
                     "pathId": 7203554693898747176
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1937909961543598250
                 }
             ],
             "pathId": 5872568445118586168,
@@ -1425,25 +1543,27 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "さあッ！！　皆、3年後新年の初開催に向け、\r\nファンを集め、“スターウマ娘”となるのだ！",
-            "enText": "Come on! You will all gather fans and become \n\"Star Uma Musume\" for the first show of the \nNew Year in three years!",
+            "enText": "Three years from now, in the new year,<n>you will\nhave your chance! Come! Gather<n>your fans and\nbecome superstars!",
             "nextBlock": 61,
             "origClipLength": 73,
+            "voiceIdx": 90,
+            "voiceSheetId": "059002001",
             "coloredText": [
                 {
                     "jpText": "3年後新年",
-                    "enText": "New Year in three years"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 55,
-                    "pathId": -240811323310475462
-                },
-                {
                     "origLen": 134,
                     "pathId": -8229642688490774291
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -240811323310475462
                 }
             ],
             "pathId": -7147470201838749044,
@@ -1451,19 +1571,21 @@
         },
         {
             "jpName": "秋川理事長",
-            "enName": "Chairwoman Akikawa",
+            "enName": "Director Akikawa",
             "jpText": "激励ッ！！　期待ッ！！\r\nわたしは――諸君の活躍を待っている！！",
-            "enText": "Encouragement! Expectations! \nI'm waiting for your success!",
+            "enText": "Encouragement! Excitement! I look<n>forward to\nyour success!",
             "nextBlock": 62,
             "origClipLength": 65,
+            "voiceIdx": 1,
+            "voiceSheetId": "059002001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -8419102177085540003
-                },
                 {
                     "origLen": 134,
                     "pathId": 6907157975810176722
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -8419102177085540003
                 }
             ],
             "pathId": -4444020387582123946,
@@ -1471,19 +1593,21 @@
         },
         {
             "jpName": "場内",
-            "enName": "All",
+            "enName": "Attendees",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 63,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 128,
-                    "pathId": 1030521094930044591
-                },
                 {
                     "origLen": 134,
                     "pathId": 1583470236709217823
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 1030521094930044591
                 }
             ],
             "pathId": 6336553712478716941,
@@ -1491,19 +1615,21 @@
         },
         {
             "jpName": "場内",
-            "enName": "All",
+            "enName": "Attendees",
             "jpText": "（ワァアアアアッ……！！）",
-            "enText": "(Waaaaahhhh ……!!!)",
+            "enText": "Wooooo!",
             "nextBlock": 64,
             "origClipLength": 53,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 23,
-                    "pathId": -6138453834142882567
+                    "pathId": -6862318000562221606
                 },
                 {
                     "origLen": 23,
-                    "pathId": -6862318000562221606
+                    "pathId": -6138453834142882567
                 }
             ],
             "pathId": 6507169772242731492,
@@ -1513,9 +1639,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "説明会前の状況とは一変し、\r\n場内は、しばらく鳴りやまぬほどの\n拍手と歓声に包まれた。",
-            "enText": "The situation before the briefing \nchanged dramatically, and the room \nwas filled with applause and cheers \nthat did not cease for a while.",
+            "enText": "The atmosphere in the gymnasium shifts<n>\ncompletely as the doubts previously<n>held by the\naudience melt away and are<n>replaced with\nraucous applause.",
             "nextBlock": 65,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -759993339027790549,
             "blockIdx": 64
         },
@@ -1523,12 +1651,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして――年度を締めくくる新大会、\r\n『URAファイナルズ』の開催が\n宣言されたのだった！",
-            "enText": "Thus, the new tournament to close out the \nyear, the \"URA Finals,\" was declared open!",
+            "enText": "And with that, the birth of a new<n>year-end race,\nthe URA Finale, is<n>announced!",
             "nextBlock": -1,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4446945638634407505,
             "blockIdx": 65
         }
-    ],
-    "modified": 1661917000
+    ]
 }

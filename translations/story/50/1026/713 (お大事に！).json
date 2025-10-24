@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "FATPD3TYSEQ7QQQZI7MWHJRD7PYF3SDO",
+    "version": 6,
+    "bundle": "TQSNF5AWBWHXYIQ5U5CPGLXCDMYB3GAK",
     "type": "story",
     "storyId": "501026713",
     "title": "お大事に！",
+    "enTitle": "Get Well Soon!",
     "text": [
         {
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "マスターに報告します。\r\n診断結果『損傷：軽微』です。",
-            "enText": "Report to Master. Diagnosis \nresult: \"Damage: minor\".",
+            "enText": "Reporting diagnostic results—minor<n>damage.",
             "nextBlock": 2,
             "origClipLength": 80,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": 1432690127150485661
+                    "pathId": 8823930138876465472
                 },
                 {
                     "origLen": 91,
-                    "pathId": 8823930138876465472
+                    "pathId": 1432690127150485661
                 }
             ],
             "pathId": 6698995695717131024,
@@ -29,9 +32,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "低確率ですが……力の制御に成功すれば、\r\n運動可能な状態と判断。",
-            "enText": "It's a low probability, but if you succeed in \ncontrolling the… force, you'll be considered \nready for movement.",
+            "enText": "The probability of worsening is low,<n>but... I have\ndetermined that I'm still<n>capable of physical\nactivity if I<n>successfully keep my power in check.",
             "nextBlock": 3,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 90,
@@ -39,11 +44,11 @@
                 },
                 {
                     "origLen": 97,
-                    "pathId": -351984238452005744
+                    "pathId": 8665413439449406483
                 },
                 {
                     "origLen": 97,
-                    "pathId": 8665413439449406483
+                    "pathId": -351984238452005744
                 }
             ],
             "pathId": 8138938579262284639,
@@ -53,23 +58,25 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……トレーニング続行の許可を要請。\r\nどんな低確率でも、成功してみせますので。",
-            "enText": "Request permission to continue training \nat… No matter how low the \nodds, I will succeed.",
+            "enText": "Requesting permission to continue with<n>training. I\nwill successfully complete<n>today's tasks.",
             "nextBlock": 4,
             "origClipLength": 95,
+            "voiceIdx": 144,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "心配だから休もう",
-                    "enText": "I'm worried about you. Let's get some rest.",
+                    "enText": "I'm worried about you, so let's take a break.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "……わかった、続行だ！",
-                    "enText": "… Okay, continue!",
+                    "enText": "...All right. Let's keep going!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "……わかった、続行しよう！",
-                    "enText": "… Okay, let's continue!",
+                    "enText": "...All right. Let's keep going!",
                     "nextBlock": 9
                 }
             ],
@@ -79,12 +86,12 @@
                     "pathId": 4060127662840855335
                 },
                 {
-                    "origLen": 32,
-                    "pathId": -228115755844430071
-                },
-                {
                     "origLen": 106,
                     "pathId": 3980197317683137690
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -228115755844430071
                 }
             ],
             "pathId": -2061125036903440381,
@@ -94,23 +101,25 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……トレーニング続行の許可を要請。\r\nどんな低確率でも、成功してみせますので。",
-            "enText": "Request permission to continue training \nat… No matter how low the \nodds, I will succeed.",
+            "enText": "Requesting permission to continue with<n>training. I\nwill successfully complete<n>today's tasks.",
             "nextBlock": 5,
             "origClipLength": 95,
+            "voiceIdx": 144,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "心配だから休もう",
-                    "enText": "I'm worried about you. Let's get some rest.",
+                    "enText": "I'm worried about you, so let's take a break.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "……わかった、続行だ！",
-                    "enText": "… Okay, continue!",
+                    "enText": "...All right. Let's keep going!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "……わかった、続行しよう！",
-                    "enText": "… Okay, let's continue!",
+                    "enText": "...All right. Let's keep going!",
                     "nextBlock": 9
                 }
             ],
@@ -120,12 +129,12 @@
                     "pathId": 262877509637256279
                 },
                 {
-                    "origLen": 32,
-                    "pathId": -1423457290265960452
-                },
-                {
                     "origLen": 106,
                     "pathId": 6711837741349985394
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -1423457290265960452
                 }
             ],
             "pathId": -6571143678867934810,
@@ -135,17 +144,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "心配……ですか……。",
-            "enText": "Are you worried about…?…",
+            "enText": "You're... worried?",
             "nextBlock": 6,
             "origClipLength": 58,
+            "voiceIdx": 76,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": -2863203398651869236
-                },
                 {
                     "origLen": 69,
                     "pathId": -830644478042795264
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2863203398651869236
                 }
             ],
             "pathId": -8275075187299306651,
@@ -155,17 +166,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……オーダー了解しました。\r\nご心配をおかけして申し訳ありません。",
-            "enText": "I understand the… order. I'm \nsorry for the inconvenience.",
+            "enText": "Order acknowledged. I apologize for<n>causing you\nconcern.",
             "nextBlock": 7,
             "origClipLength": 88,
+            "voiceIdx": 24,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 138385550341653958
-                },
                 {
                     "origLen": 99,
                     "pathId": 7685883112200267958
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 138385550341653958
                 }
             ],
             "pathId": -7547393898314156842,
@@ -175,17 +188,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "オペレーション『心配をかけないように休養』\r\n実行に移ります。",
-            "enText": "Operation \"Rest to Avoid Worry\" \nwill be implemented.",
+            "enText": "Commencing operation—\"recuperating<n>to avoid\ncausing you concern.\"",
             "nextBlock": 8,
             "origClipLength": 85,
+            "voiceIdx": 62,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 6070008439086767300
-                },
                 {
                     "origLen": 96,
                     "pathId": 6788220112574583115
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6070008439086767300
                 }
             ],
             "pathId": 2259466382468389456,
@@ -195,17 +210,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、\r\nミホノブルボンはケガを癒すのだった……。",
-            "enText": "This is how Mihono Bourbon healed \nfrom her injuries…",
+            "enText": "And so, Mihono Bourbon rests to<n>recover from\nher injury.",
             "nextBlock": -1,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": 3167465751764903587
+                    "pathId": 9147515596740831752
                 },
                 {
                     "origLen": 91,
-                    "pathId": 9147515596740831752
+                    "pathId": 3167465751764903587
                 }
             ],
             "pathId": -327754299836321630,
@@ -215,17 +232,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "了解しました。\r\nオペレーション『力を制御し練習続行』開始。",
-            "enText": "Copy that. Operation \"Control Power and \nContinue Practice\" commencing.",
+            "enText": "Understood. Commencing<n>\noperation—\"continuation of<n>limited-strength\ntraining.\"",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 62,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": 6224265395252074990
-                },
                 {
                     "origLen": 95,
                     "pathId": -9002574137652376219
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 6224265395252074990
                 }
             ],
             "pathId": -5148450611331334289,
@@ -235,17 +254,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "損傷部位に配慮。パワーの出力を絞ります。",
-            "enText": "Consider the damaged area. \nReduce the power output.",
+            "enText": "Restricting power output in<n>consideration of the\ndamaged body part.",
             "nextBlock": 11,
             "origClipLength": 71,
+            "voiceIdx": 138,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 165,
-                    "pathId": -4042554714160816917
-                },
                 {
                     "origLen": 132,
                     "pathId": 5901637101856522581
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -4042554714160816917
                 }
             ],
             "pathId": -8779345887296754598,
@@ -255,29 +276,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "まずは半分、出力50％から……！",
-            "enText": "Start with half, 50% output…!",
+            "enText": "First, I'll try fifty percent power output!",
             "nextBlock": 12,
             "origClipLength": 65,
+            "voiceIdx": 124,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "待て！50％は危な――",
-                    "enText": "Wait, 50% is dangerous—",
+                    "enText": "Wait! 50% is too—",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "待って！50％は危な――",
-                    "enText": "Wait, 50% is dangerous—",
+                    "enText": "Wait! 50% is too—",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 165,
-                    "pathId": 5728469308298066989
-                },
-                {
                     "origLen": 132,
                     "pathId": -6228724072285237189
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 5728469308298066989
                 }
             ],
             "pathId": -1865054686716447087,
@@ -287,17 +310,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……っ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 13,
             "origClipLength": 50,
+            "voiceIdx": 111,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 4858499591687212374
+                    "pathId": 4183229331730317541
                 },
                 {
                     "origLen": 58,
-                    "pathId": 4183229331730317541
+                    "pathId": 4858499591687212374
                 }
             ],
             "pathId": -8775158162204115912,
@@ -307,9 +332,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドサッ！）",
-            "enText": "(Thud! )",
+            "enText": "<i>Thud!</i>",
             "nextBlock": 14,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4595227965184053373,
             "blockIdx": 13
         },
@@ -317,29 +344,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……～～ッ！\r\n患部の、痛みを……確認……。",
-            "enText": "…～! Check… the affected \narea, pain…",
+            "enText": "Pain in... damaged area... confirmed...",
             "nextBlock": 15,
             "origClipLength": 73,
+            "voiceIdx": 108,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "大丈夫か！？",
-                    "enText": "Are you okay?",
+                    "enText": "Are you all right?!",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "大丈夫！？",
-                    "enText": "Great man!",
+                    "enText": "Are you all right?!",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 108,
-                    "pathId": 6190162021857080971
-                },
-                {
                     "origLen": 136,
                     "pathId": -3004257758157928737
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6190162021857080971
                 }
             ],
             "pathId": 6723962573135051386,
@@ -349,17 +378,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "申し訳、ありません。\r\n50％の出力でも……刺激に、なったようです。",
-            "enText": "Sorry about that. It seems to have become \n… stimulating, even at 50% output.",
+            "enText": "I apologize. Even at 50% power output...<n>my\ninjury seems to have been irritated.",
             "nextBlock": 16,
             "origClipLength": 89,
+            "voiceIdx": 60,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": 8354470944429322611
-                },
                 {
                     "origLen": 100,
                     "pathId": 8575601804090922193
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8354470944429322611
                 }
             ],
             "pathId": -5798357838148130439,
@@ -369,17 +400,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "これではどの運動も悪化に繋がると判断し、\r\n大人しく静養させるのだった。",
-            "enText": "She decided that this would make any exercise \nworse, so she let her rest quietly.",
+            "enText": "Realizing that any exercise will just make<n>her\ncondition worse, I advise her to rest<n>quietly.",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 14,
-                    "pathId": 5346271556294297445
+                    "pathId": 4552958977930048099
                 },
                 {
                     "origLen": 14,
-                    "pathId": 4552958977930048099
+                    "pathId": 5346271556294297445
                 }
             ],
             "pathId": -8801717330786467030,
@@ -389,9 +422,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "痛みなし……出力50％、クリア。\r\n次は……55％――！",
-            "enText": "No pain… output 50%, \nclear. Next…55%—!",
+            "enText": "No pain at fifty percent output.<n>Threshold\ncleared. Next is fifty-five<n>percent!",
             "nextBlock": 18,
             "origClipLength": 81,
+            "voiceIdx": 125,
+            "voiceSheetId": "051026001",
             "pathId": 255464180806722194,
             "blockIdx": 17
         },
@@ -399,17 +434,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "マスターに報告します。\r\n検証の結果、65％までの出力が可能。",
-            "enText": "Report to master. As a result of \nverification, output up to 65% is possible.",
+            "enText": "Reporting. I have verified that I am<n>capable of\ntraining at up to sixty-five<n>percent power output.",
             "nextBlock": 19,
             "origClipLength": 85,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 114,
-                    "pathId": 3610001932266751432
+                    "pathId": 8840015539769982557
                 },
                 {
                     "origLen": 114,
-                    "pathId": 8840015539769982557
+                    "pathId": 3610001932266751432
                 }
             ],
             "pathId": 861957592239937440,
@@ -419,29 +456,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "このデータを基にした\r\nメニューの再構成を提案します。",
-            "enText": "We propose to reconfigure the \nmenu based on this data.",
+            "enText": "I propose revising our training regimen<n>based\nupon this data.",
             "nextBlock": 20,
             "origClipLength": 80,
+            "voiceIdx": 84,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "任せろ！",
-                    "enText": "I got it!",
+                    "enText": "Got it!",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "任せて！",
-                    "enText": "I got it!",
+                    "enText": "Got it!",
                     "nextBlock": 20
                 }
             ],
             "animData": [
                 {
-                    "origLen": 74,
-                    "pathId": -752385953477042237
-                },
-                {
                     "origLen": 91,
                     "pathId": 8513301577378790354
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -752385953477042237
                 }
             ],
             "pathId": 6421074605701412701,
@@ -451,17 +490,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい。……どんなメニューでも、\r\n私は確実に実行してみせます。",
-            "enText": "Yes… Whatever the menu, \nI'll make sure it's done.",
+            "enText": "I will show you that I can reliably<n>execute any\nregimen I am given.",
             "nextBlock": 21,
             "origClipLength": 85,
+            "voiceIdx": 71,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 5646886672496321859
-                },
                 {
                     "origLen": 96,
                     "pathId": -3336291206480712329
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 5646886672496321859
                 }
             ],
             "pathId": 2222839034301918590,
@@ -471,17 +512,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "私の制御成功を信じ、\r\n指示してくださったマスターのために。",
-            "enText": "For the Master, who believed in my control \nsuccess and instructed me.",
+            "enText": "It is all for you, for instructing me and<n>believing\nthat I could successfully limit<n>my power output.",
             "nextBlock": 22,
             "origClipLength": 84,
+            "voiceIdx": 11,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 163,
-                    "pathId": 4291261134680140657
-                },
                 {
                     "origLen": 95,
                     "pathId": 7839871467982672422
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 4291261134680140657
                 }
             ],
             "pathId": 5700529590298027297,
@@ -491,22 +534,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "力の制御に成功したミホノブルボンは、\r\n再構成したメニューをしっかりとこなし……\nすぐに復帰を果たしたのだった！",
-            "enText": "After successfully controlling her strength, \nMihono Bourbon was able to follow the \nreconstructed menu and return to… right away!",
+            "enText": "Making an immediate comeback,<n>Mihono\nBourbon succeeds in limiting her<n>power and fully\ncompletes the revised<n>regimen!",
             "nextBlock": -1,
             "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 262,
-                    "pathId": -267926077119670330
-                },
                 {
                     "origLen": 129,
                     "pathId": -6611029137853636871
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -267926077119670330
                 }
             ],
             "pathId": -6577259007671973877,
             "blockIdx": 22
         }
-    ],
-    "modified": 1662157461
+    ]
 }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "4RIHWIU5NPUPCWCLBJCLFMINJRR767RP",
+    "version": 6,
+    "bundle": "GIW7AH2BBCMJYVLCHOODR3CTXEHVNQSV",
     "type": "story",
     "storyId": "501023508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "仕事に没頭し、遅い時間になってしまった。\r\n慌てて帰宅していると……。",
-            "enText": "I was absorbed in work and it was late. I was \nin a hurry to get home. ……",
+            "enText": "I've been so absorbed in my work that I<n>lose track\nof time. As I rush back home, I<n>run into someone\nfamiliar...",
             "nextBlock": 2,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1190676717011902440,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……おや？\r\nトレーナー君、まだ残っていたのか。",
-            "enText": "…… Oh? Trainer, you're still here.",
+            "enText": "Oh? What are you still doing here,<n>Trainer?",
             "nextBlock": 3,
             "origClipLength": 76,
+            "voiceIdx": 30,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "こんな時間まで自主トレ？",
-                    "enText": "Voluntary training until this hour?",
+                    "enText": "Don't tell me you've been out here training this\nwhole time.",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 101,
-                    "pathId": 4938115827515718363
-                },
-                {
                     "origLen": 140,
                     "pathId": -4330964775325097839
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4938115827515718363
                 }
             ],
             "pathId": 1882380136571044446,
@@ -46,17 +51,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……レースのことが頭から離れなくてね。\r\n走れば気分も変わると思ったのだが――",
-            "enText": "I couldn't stop thinking about the…… race. I \nthought running would help me feel \nbetter―I've been thinking about it.",
+            "enText": "I just can't stop thinking about the race...<n>I\nthought running would take my mind<n>off of it.",
             "nextBlock": 4,
             "origClipLength": 95,
+            "voiceIdx": 34,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": -4168210671439666151
-                },
                 {
                     "origLen": 106,
                     "pathId": -1125318427695062745
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -4168210671439666151
                 }
             ],
             "pathId": 4999206285903840523,
@@ -66,17 +73,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "はぁ……そう上手くはいかないな。\r\n次はどの策を講じるべきか……。",
-            "enText": "Huh.…… that doesn't work so well. Which \nmeasure should we take next? ……",
+            "enText": "But... no such luck. I'm not sure what else<n>to try...",
             "nextBlock": 5,
             "origClipLength": 88,
+            "voiceIdx": 60,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -5503209289092587884
-                },
                 {
                     "origLen": 99,
                     "pathId": 7309517237991394803
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5503209289092587884
                 }
             ],
             "pathId": -2102643852838590735,
@@ -86,22 +95,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "レースの疲れが溜まっているようだ……。\r\n今後の出走予定を見直すべきかもしれない。",
-            "enText": "She seems to be tired from the race.…… \nPerhaps you should reevaluate your future \nrace schedule.",
+            "enText": "She seems exhausted from her race... It<n>might be\ntime to adjust her schedule so<n>she can take a\nbreak.",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 111,
-                    "pathId": 5153558345342685543
-                },
                 {
                     "origLen": 109,
                     "pathId": -549407575161315598
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 5153558345342685543
                 }
             ],
             "pathId": -1307820459928587649,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555057
+    ]
 }

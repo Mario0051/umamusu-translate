@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "BY7WCHXKQBV3EQVREHJ4I55HRAUPODMQ",
+    "version": 6,
+    "bundle": "KTZQBE6EF4UYY6FYHMW6SPTXFFVZIKMP",
     "type": "story",
     "storyId": "501046600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "もーすぐレースが始まるね……！\r\nドキドキワクワクしちゃうよぉ～！",
-            "enText": "The race will be starting \nsoon ……! I'm so excited!",
+            "enText": "The race is starting soon! I'm sooo<n>excited!",
             "nextBlock": 2,
             "origClipLength": 88,
+            "voiceIdx": 7,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 3643928225570033347
+                    "pathId": -1131096910712244434
                 },
                 {
                     "origLen": 99,
-                    "pathId": -1131096910712244434
+                    "pathId": 3643928225570033347
                 }
             ],
             "pathId": -3142844969075037161,
@@ -29,24 +32,26 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "絶対に1着をとって、ウイニングライブの\r\nセンターに立ってみせるぞーっ☆",
-            "enText": "I will definitely win the first place and \nstand in the center of the Winning Live!",
+            "enText": "I'll definitely take first place and stand<n>center\nstage at the winning concert! ☆",
             "nextBlock": 3,
             "origClipLength": 91,
+            "voiceIdx": 63,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "ファル子ならできる！",
-                    "enText": "Falco can do it!",
+                    "enText": "You can do it!",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 74,
-                    "pathId": 2047844871542718904
-                },
-                {
                     "origLen": 102,
                     "pathId": 3498613877615925729
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2047844871542718904
                 }
             ],
             "pathId": 4681587449039412678,
@@ -56,17 +61,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "えへへ……ありがと♪\r\n楽しみにしててね、トレーナーさん！",
-            "enText": "Ehehe…… Thanks… Look forward to it, trainer!",
+            "enText": "Ehehe... Thank you! ♪ Look forward to<n>the win,\nTrainer!",
             "nextBlock": 4,
             "origClipLength": 82,
+            "voiceIdx": 74,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": 6085354311482174054
-                },
                 {
                     "origLen": 93,
                     "pathId": 7201200692718466783
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 6085354311482174054
                 }
             ],
             "pathId": 8745428444282936853,
@@ -76,22 +83,23 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "レースでも、ステージでも――\r\nファル子のかわいい姿を見せてあげるから☆",
-            "enText": "Whether it's a race or on stage - I'll show \nyou how cute Falko is☆☆.",
+            "enText": "I'll show you how cute I am both on the<n>stage and\non the track! ☆",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": 10,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -8828118306180333379
-                },
                 {
                     "origLen": 102,
                     "pathId": -4203029288990081951
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -8828118306180333379
                 }
             ],
             "pathId": 6369106873961740439,
             "blockIdx": 4
         }
-    ],
-    "modified": 1662157642
+    ]
 }

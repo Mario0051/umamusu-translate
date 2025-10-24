@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "Q3O3HPC2ZA6UMYFZB7CEJNSQO7EWBQKZ",
+    "version": 6,
+    "bundle": "FFGQ4G5SS2QT4U5JOLQV7ZD2EZMDEYGI",
     "type": "story",
     "storyId": "501011521",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "あっ、トレーナーさん。\r\nおはようございま――ふあぁ……。",
-            "enText": "Oh, trainer. Good morning―fuh ……",
+            "enText": "Oh, good morning, Trainer... <i>Yaaawn...</i>",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": 60,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "眠そうだな",
-                    "enText": "You look sleepy.",
+                    "enText": "Someone's sleepy.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "眠そうだね",
-                    "enText": "You look sleepy.",
+                    "enText": "Someone's sleepy.",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -3451086795625320461
+                    "pathId": -4943328816107702157
                 },
                 {
                     "origLen": 74,
-                    "pathId": -4943328816107702157
+                    "pathId": -3451086795625320461
                 }
             ],
             "pathId": -1053666090939004234,
@@ -41,17 +44,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "その……深夜のエルの寝言が、\r\nどうしても気になってしまって……。",
-            "enText": "I couldn't help but notice that…… late at \nnight, Elle was talking in her sleep. ……",
+            "enText": "Well, you see... El was talking in her<n>sleep last\nnight, and I couldn't help but<n>be a little curious...",
             "nextBlock": 3,
             "origClipLength": 66,
+            "voiceIdx": 54,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": -4120273807754144174
-                },
                 {
                     "origLen": 77,
                     "pathId": -8525220991461145553
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -4120273807754144174
                 }
             ],
             "pathId": 997992496090333707,
@@ -61,17 +66,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "『プランチャーッ！』、『ガスパチョーッ！』\r\nとスペイン料理の名前を夜通し叫ぶんです。",
-            "enText": "Plancher! Gazpacho! and shout the names of \nSpanish dishes throughout the night.",
+            "enText": "She must've been having the buffet of<n>her\ndreams, because she kept calling out<n>things like\n\"a la plancha\" and<n>\"gazpacho.\"",
             "nextBlock": 4,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": -2040414013583237446
-                },
                 {
                     "origLen": 84,
                     "pathId": -7008290025474033454
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -2040414013583237446
                 }
             ],
             "pathId": -890208198256467379,
@@ -81,17 +88,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "もう、エルってば\r\nどれだけ器用な寝言なんでしょうか。",
-            "enText": "I can't believe how dexterous \nElle is in her sleep.",
+            "enText": "It's incredible how she can muster that<n>much\nenergy even while sleeping...",
             "nextBlock": 5,
             "origClipLength": 62,
+            "voiceIdx": 16,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 29,
-                    "pathId": -4668839912311764543
-                },
                 {
                     "origLen": 73,
                     "pathId": 1955052848164966221
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -4668839912311764543
                 }
             ],
             "pathId": 7526679456470829239,
@@ -101,21 +110,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "おかげで朝まで寝付けなくて……ふあぁ……。",
-            "enText": "Thanks to that, I couldn't sleep until the \nmorning.…… Huh. ……",
+            "enText": "So you see, I didn't catch a wink all<n>night...\n<i>Yawn...</i>",
             "nextBlock": 6,
             "origClipLength": 91,
+            "voiceIdx": 105,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 120,
                     "pathId": 3260262783200259411
                 },
                 {
-                    "origLen": 120,
-                    "pathId": 8725895333608187142
-                },
-                {
                     "origLen": 144,
                     "pathId": 8842386267130725325
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8725895333608187142
                 }
             ],
             "pathId": -5677123747297904855,
@@ -125,26 +136,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "グラスワンダーは、\r\nどうやら寝不足みたいだ……。",
-            "enText": "Grass Wonder is apparently sleep deprived. ……",
+            "enText": "It seems Grass Wonder needs more<n>sleep.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 120,
                     "pathId": 8446568859284021344
                 },
                 {
-                    "origLen": 120,
-                    "pathId": 7762608134535681642
-                },
-                {
                     "origLen": 72,
                     "pathId": 2477871659428395247
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 7762608134535681642
                 }
             ],
             "pathId": 5280157955973832724,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555055
+    ]
 }

@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "2FKIDICNZ3MXCGZJPI5LSLDIWO7CFGON",
+    "version": 6,
+    "bundle": "5XD2CWFEXEFJSJZAAYGREAGFR6DTXRQY",
     "type": "story",
     "storyId": "501041315",
     "title": "スプリンターズSの後に・マイルへ",
+    "enTitle": "After the Sprinters S.: Toward the Mile",
     "text": [
         {
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "トレーナーさんッ！　やりました！\r\nフラワーさんを抜いて1着ですッ！！",
-            "enText": "Trainer! You did it! You beat out \nMs. Flower for first place!",
+            "enText": "Trainer, I did it! I zoomed past Flower<n>and took\nfirst place!",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": 1,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -957024376685440452
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6612491939518788510
+                }
+            ],
             "pathId": 7191219286885184378,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "私が成長していること、\r\nバッチリ証明できました！",
-            "enText": "I've proven that I'm growing up!",
+            "enText": "This is <i>real</i> evidence that I'm new and<n>improved!",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "よくやった！！",
-                    "enText": "Well done!",
+                    "enText": "You did great!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "よくやったね！！",
-                    "enText": "You did good!",
+                    "enText": "You did great!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -5589792373591296367
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 8365831386447744917
                 }
             ],
             "pathId": -2078006230994205858,
@@ -39,8 +66,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "トレーナーさんも、\r\nこれで認めてくれますよね？",
-            "enText": "I'm sure your trainer will approve of this.",
+            "enText": "Trainer, now that I've won, are you<n>finally\nconvinced?",
             "nextBlock": 4,
+            "origClipLength": 60,
+            "voiceIdx": 6,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -2155550228744076328
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -3887341144316127772
+                }
+            ],
             "pathId": 3224398780118460578,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "私がちゃんと、模範的なウマ娘として、\r\nなんでも走れる委員長となったこと！",
-            "enText": "That I've become an exemplary horse girl, a \nchairman who can run anything!",
+            "enText": "Have I finally shown you that I'm both a<n>\nrepresentative and an exemplary<n>Umamusume\ncapable of running any<n>race?",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6693692719275506472
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -8003676856750136293
+                }
+            ],
             "pathId": 5537088431707610706,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "もちろんだ。彼女はスプリンターとして、\r\nこの3年間素晴らしい成長を遂げてくれた。\nこれならば……！",
-            "enText": "Of course. She's made great progress as a \nsprinter over the past three years. This \nwould be…!",
+            "enText": "Of course I'm convinced. She's made<n>incredible\ndevelopments as a Sprinter<n>over these three\nyears. Now we might<n>just be able to...",
             "nextBlock": 6,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -5361426741981973027
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3269960262868698290
+                }
+            ],
             "pathId": -7355049977043207275,
             "blockIdx": 5
         },
@@ -66,18 +132,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なので、次のレースは――",
-            "enText": "So, the next race—",
+            "enText": "So, we should make my next race—",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "voiceIdx": 70,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "『マイルチャンピオンシップ』を走らないか",
-                    "enText": "Why don't you run the \"Mile Championship\"?",
+                    "enText": "Shall we try running the Mile Championship?",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "『マイルチャンピオンシップ』を走らない？",
-                    "enText": "Why don't you run \"Mile Championship\"?",
+                    "enText": "Shall we try running the Mile Championship?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 1377733898884267248
+                },
+                {
+                    "origLen": 4,
+                    "pathId": -1662939204870255939
                 }
             ],
             "pathId": -4576745613333189728,
@@ -87,8 +166,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "もうッ！\r\nまた短距離――",
-            "enText": "Damn it! Short range again.",
+            "enText": "Hey! Again with the sprints—",
             "nextBlock": 8,
+            "origClipLength": 53,
+            "voiceIdx": 15,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -1545274063527786821
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2100605371957760132
+                }
+            ],
             "pathId": -7554871593981359009,
             "blockIdx": 7
         },
@@ -96,24 +188,37 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "んッ！？　待ってください！\r\n『マイルCS』ということは……！",
-            "enText": "Hmph! Wait a minute! \"Mile CS\" means…!",
+            "enText": "Huh?! Wait just a second! Isn't the Mile<n>\nChampionship a...",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "voiceIdx": 25,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "1600mに挑もう！",
-                    "enText": "Let's go for 1600 meters!",
+                    "enText": "Let's go for 1,600 meters!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "1600mに挑みましょう！",
-                    "enText": "Let's go for 1600 meters!",
+                    "enText": "Let's go for 1,600 meters!",
                     "nextBlock": 9
                 }
             ],
             "coloredText": [
                 {
                     "jpText": "マイルCS",
-                    "enText": "Mile CS"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 6736987511366939085
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -2367657111273046229
                 }
             ],
             "pathId": 6287270830028650304,
@@ -123,8 +228,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女の得意とする1200mより、\r\n400mも距離が延びるが……\n今の彼女ならば、きっと勝てる！",
-            "enText": "It's 400m longer than the 1200m she's used \nto, but… she'll win!",
+            "enText": "It's 400 meters longer than her<n>specialty... but I\nknow she can win it!",
             "nextBlock": 10,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -4291441697595431960
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5759776401082181747
+                }
+            ],
             "pathId": -6577662773350190220,
             "blockIdx": 9
         },
@@ -132,8 +250,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "素晴らしいですッッ！\r\n私、とってもとっても嬉しいです！",
-            "enText": "That's fantastic! I'm very, very happy!",
+            "enText": "Wonderful! I'm so glad to finally enter<n>one!",
             "nextBlock": 11,
+            "origClipLength": 63,
+            "voiceIdx": 7,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8218019837271598408
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -7901005346062560566
+                }
+            ],
             "pathId": 5484094719942955844,
             "blockIdx": 10
         },
@@ -141,8 +272,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "1600m！　委員長という言葉と\r\n同じくらい、美しい響きですね！",
-            "enText": "That sounds almost as beautiful \nas the word \"chairman.",
+            "enText": "1,600 meters! It's got a lovely ring to it,<n>just like\n\"class representative!\"",
             "nextBlock": 12,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1760097219298661909
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -4358543327571336665
+                }
+            ],
             "pathId": -2288613303973501505,
             "blockIdx": 11
         },
@@ -150,8 +294,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "トレーナーさんの信頼に、\r\n必ず応えてみせますよッ！",
-            "enText": "I'll make sure I live up \nto your trust, trainer!",
+            "enText": "I will definitely live up to your<n>expectations,\nTrainer!",
             "nextBlock": 13,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -5933015647931100858
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3366952132428638154
+                }
+            ],
             "pathId": -7806397746255463913,
             "blockIdx": 12
         },
@@ -159,8 +316,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "――とりましょう、『マイルCS』！",
-            "enText": "—Let's take it, \"Mile CS\"!",
+            "enText": "Let's take the crown!",
             "nextBlock": 14,
+            "origClipLength": 56,
+            "voiceIdx": 71,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8926364718984002820
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -1710323111303272963
+                }
+            ],
             "pathId": 1633752086423659049,
             "blockIdx": 13
         },
@@ -168,11 +338,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして、次の目標レースは\r\n『マイルCS』に決まった！",
-            "enText": "That's how she decided on Mile \nCS as her next target race!",
+            "enText": "And that's how we decide our next race<n>will be\nthe Mile Championship!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8400491922704927148
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4955993044434843302
+                }
+            ],
             "pathId": -1670652727079632798,
             "blockIdx": 14
         }
-    ],
-    "modified": 1683732695
+    ]
 }

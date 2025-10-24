@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "XKF4OFBD6ZBTOWCHPPLQK7FGQYWV2LW6",
+    "version": 6,
+    "bundle": "WHVSTEMUK5Y2R7ZXE7EUTIDJZXKUIXSU",
     "type": "story",
     "storyId": "501020601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "前回のレース、ちょっと仕込みが\n甘かったかも。",
-            "enText": "I think I was a little too \nprepared for the last race.",
+            "enText": "I don't think I trained hard enough for<n>that last\none.",
             "nextBlock": 2,
             "origClipLength": 75,
+            "voiceIdx": 34,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 86,
-                    "pathId": 6045526458245100353
+                    "pathId": 6466240814513894202
                 },
                 {
                     "origLen": 86,
-                    "pathId": 6466240814513894202
+                    "pathId": 6045526458245100353
                 }
             ],
             "pathId": 4943844834599958534,
@@ -29,17 +32,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "予想通りの展開で、観客のみなさんも\n飽き飽きでしょう。",
-            "enText": "The audience must be bored with the \npredictable turn of events.",
+            "enText": "I bet the audience was probably<n>nodding off,\nwhat with the race panning<n>out just the way they\nexpected it to.",
             "nextBlock": 3,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": -8122095618001395841
-                },
                 {
                     "origLen": 91,
                     "pathId": 16865540167244129
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -8122095618001395841
                 }
             ],
             "pathId": -6209084523207377389,
@@ -49,29 +54,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "けど、そんな退屈なレースも\n今回でおしまい。",
-            "enText": "But that boring race is over this time.",
+            "enText": "Well, never again. No more boring races.",
             "nextBlock": 4,
             "origClipLength": 73,
+            "voiceIdx": 149,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "とっておきの秘策があるのか？",
-                    "enText": "Do you have a secret plan?",
+                    "enText": "Have you hatched some kind of secret scheme?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "とっておきの秘策があるの？",
-                    "enText": "Do you have a special secret?",
+                    "enText": "Have you hatched some kind of secret scheme?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": 2514623305105261121
-                },
-                {
                     "origLen": 84,
                     "pathId": -7998349229956466901
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 2514623305105261121
                 }
             ],
             "pathId": -7263336366854069016,
@@ -81,17 +88,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ふっふっふ……。\nそれはどうでしょう？",
-            "enText": "Phew……… How about that?",
+            "enText": "Heh-heh-heh... Who can say?",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -7401911332788279971
-                },
                 {
                     "origLen": 80,
                     "pathId": -5402389210606398345
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7401911332788279971
                 }
             ],
             "pathId": 2046123289731406603,
@@ -101,22 +110,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "どんなサプライズがあるかは、\nレースが始まるまでのお楽しみ！",
-            "enText": "We'll have to wait until the race starts to \nfind out what surprises are in store!",
+            "enText": "Guess you'll find out once the race<n>starts!",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": 119,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": 5316467437808428993
-                },
                 {
                     "origLen": 109,
                     "pathId": 4288568456016188757
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 5316467437808428993
                 }
             ],
             "pathId": -5093346253660462157,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555057
+    ]
 }

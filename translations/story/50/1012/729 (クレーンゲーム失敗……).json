@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "2PW6IRB5L6E5YFT37CHN5SFID6RM5SEU",
+    "version": 6,
+    "bundle": "XUSPTUIFAGP5QHTKPN5W52Q4SGSX77VG",
     "type": "story",
     "storyId": "501012729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "くーっ、惜しかったねえトレ公。",
-            "enText": "Damn, that was close, Trekkie.",
+            "enText": "Man, that was close, Teach.",
             "nextBlock": 2,
             "origClipLength": 64,
+            "voiceIdx": 17,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry ……",
+                    "enText": "I'm sorry...",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": 1347962693660941106
+                    "pathId": -834686154925305422
                 },
                 {
                     "origLen": 75,
-                    "pathId": -834686154925305422
+                    "pathId": 1347962693660941106
                 }
             ],
             "pathId": -3750802637399491938,
@@ -36,17 +39,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "何言ってんだい、しっかり胸張りな！\r\nアンタの頑張りはアタシが見届けたよ！",
-            "enText": "What are you talking about? I've seen how \nhard you work!",
+            "enText": "Come on, don't say that! Keep your<n>head high.\nYou did a great job!",
             "nextBlock": 3,
             "origClipLength": 93,
+            "voiceIdx": 3,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 126,
-                    "pathId": -2120352631514619019
-                },
                 {
                     "origLen": 104,
                     "pathId": -7304181885144710452
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -2120352631514619019
                 }
             ],
             "pathId": -8567726612726109355,
@@ -56,24 +61,26 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "さて、こうなりゃアタシの出番ってわけか！\r\nトレ公、小銭貸してくれるかい！？",
-            "enText": "Well, now it's my turn! Hey, Tre, can I \nborrow some change?",
+            "enText": "All right, time for me to give it a shot!<n>Teach, can\nI borrow a coin or two from<n>ya?",
             "nextBlock": 4,
             "origClipLength": 94,
+            "voiceIdx": 62,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "その、もう持ち合わせが……",
-                    "enText": "Well, I don't have any more ……",
+                    "enText": "I'm out, sorry...",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 65,
-                    "pathId": -5875246081803607992
-                },
-                {
                     "origLen": 105,
                     "pathId": 15508336478994159
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5875246081803607992
                 }
             ],
             "pathId": -2866540072705326165,
@@ -83,17 +90,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "あちゃあ……そうかい。なら新入りたちには\r\nアタシの特製料理でも振る舞うかねぇ。",
-            "enText": "Oh, I see.…… Then I'll treat the newcomers to \nsome of my specialties.",
+            "enText": "Shucks, well... I guess I could make it up<n>with a\nhuge meal for the newbies.",
             "nextBlock": 5,
             "origClipLength": 97,
+            "voiceIdx": 14,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -4424919849874852700
-                },
                 {
                     "origLen": 108,
                     "pathId": 8871215094582973969
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4424919849874852700
                 }
             ],
             "pathId": -1286753115475707892,
@@ -103,22 +112,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": 362821789338076728
-                },
                 {
                     "origLen": 72,
                     "pathId": 1061521821988724811
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 362821789338076728
                 }
             ],
             "pathId": 1399701929353378371,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555055
+    ]
 }

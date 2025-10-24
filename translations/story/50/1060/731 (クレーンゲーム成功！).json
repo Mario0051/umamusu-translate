@@ -1,26 +1,29 @@
 {
-    "version": 5,
-    "bundle": "JQ5EOCAXNI23PKZK5ZF7YCLPNUNALL6M",
+    "version": 6,
+    "bundle": "PZ6WABZQ3JTYEUSYPRS6WUBHDLYWQRXO",
     "type": "story",
     "storyId": "501060731",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "おおー、やるじゃん。",
-            "enText": "Oh, you're doing it.",
+            "enText": "Whoooa. I'll admit it, I'm impressed.",
             "nextBlock": 2,
             "origClipLength": 58,
+            "voiceIdx": 6,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "君にあげるよ",
-                    "enText": "It's for you.",
+                    "enText": "Here you go.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "貴方にあげるね",
-                    "enText": "It's for you.",
+                    "enText": "Here you go.",
                     "nextBlock": 2
                 }
             ],
@@ -30,12 +33,12 @@
                     "pathId": -9208094556524136719
                 },
                 {
-                    "origLen": 70,
-                    "pathId": -5616686283250117374
-                },
-                {
                     "origLen": 89,
                     "pathId": 3393565346374459478
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5616686283250117374
                 }
             ],
             "pathId": -2035345954945667346,
@@ -45,18 +48,20 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "えっ、いいの、アタシで？\r\nもっと他の子の方が喜びそうなのに。",
-            "enText": "What? Are you sure, I? I'm sure other girls \nwould be more pleased.",
+            "enText": "Huh? Really? But I'm sure there are<n>others who\nwould appreciate this gift<n>more...",
             "nextBlock": 3,
             "origClipLength": 85,
+            "voiceIdx": 26,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "君に喜んでほしい",
-                    "enText": "I want you to be happy.",
+                    "enText": "I just want to see you smile.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "貴方に喜んでほしいな",
-                    "enText": "I hope you're pleased.",
+                    "enText": "I just want to see you smile.",
                     "nextBlock": 3
                 }
             ],
@@ -67,11 +72,11 @@
                 },
                 {
                     "origLen": 97,
-                    "pathId": -132935304107425318
+                    "pathId": 3047638505337230190
                 },
                 {
                     "origLen": 97,
-                    "pathId": 3047638505337230190
+                    "pathId": -132935304107425318
                 }
             ],
             "pathId": 4780336687786298961,
@@ -81,9 +86,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "えー……だからキャラじゃないんだってば。\r\n……まあ、嬉しくないわけじゃないけどさ。",
-            "enText": "Well…… that's why I said she's \nnot a character.…… Well, not that \nI'm not happy about it.",
+            "enText": "Umm... As I said, plushies aren't my style.<n>That\nsaid... I do appreciate it, though.",
             "nextBlock": 4,
             "origClipLength": 99,
+            "voiceIdx": 49,
+            "voiceSheetId": "051060001",
             "animData": [
                 {
                     "origLen": 104,
@@ -91,11 +98,11 @@
                 },
                 {
                     "origLen": 111,
-                    "pathId": 6853592826769253391
+                    "pathId": 1649759192907805223
                 },
                 {
                     "origLen": 111,
-                    "pathId": 1649759192907805223
+                    "pathId": 6853592826769253391
                 }
             ],
             "pathId": 95854635128431509,
@@ -105,21 +112,23 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ハイハイ、わかったよ。\r\nもらっとくね。",
-            "enText": "Okay, okay. I'll take it.",
+            "enText": "All right, give 'em here. Thanks.",
             "nextBlock": 5,
             "origClipLength": 71,
+            "voiceIdx": 12,
+            "voiceSheetId": "051060001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": 6258151733528600221
                 },
                 {
-                    "origLen": 84,
-                    "pathId": 2015499084226475742
-                },
-                {
                     "origLen": 89,
                     "pathId": 7152500389424404250
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2015499084226475742
                 }
             ],
             "pathId": 5253923878846622149,
@@ -129,22 +138,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -1032493526104511883
-                },
                 {
                     "origLen": 89,
                     "pathId": 2237848442389830919
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1032493526104511883
                 }
             ],
             "pathId": -6772634658788040645,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662157731
+    ]
 }

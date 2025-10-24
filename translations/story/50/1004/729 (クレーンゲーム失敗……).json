@@ -1,26 +1,44 @@
 {
-    "version": 4,
-    "bundle": "BRGDRBUQEBRYPZPJ3FUQTNKMCAMHF2NS",
+    "version": 6,
+    "bundle": "3RNBSQYIED7Z5WPHOK5ZTJBQHZUGLDH6",
     "type": "story",
     "storyId": "501004729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あらら、残念……。",
-            "enText": "Oops, too bad…",
+            "enText": "Aw, too bad...",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "voiceIdx": 17,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry …",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry…",
+                    "enText": "Sorry...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": -4229185838838997597
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8176719098582909198
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 5580094902050153280
                 }
             ],
             "pathId": 3135773740595398886,
@@ -30,8 +48,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "そんな謝らないで。全然気にしてないから。",
-            "enText": "Don't be so apologetic.\nI don't mind at all.",
+            "enText": "No need to apologize. It's totally okay!",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "voiceIdx": 2,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -2742641280444711349
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5398349210637717951
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2473680505804061972
+                }
+            ],
             "pathId": -6713928543670908873,
             "blockIdx": 2
         },
@@ -39,8 +74,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "いつでもうまくいくとは限らないものよ。\nどんまい、トレーナー君！",
-            "enText": "It's not always going to work.\nThanks a lot, trainer!",
+            "enText": "Sometimes that's the way the cookie<n>crumbles!\nBrush those crumbs off,<n>Trainer!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "voiceIdx": 74,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -7602318158061713049
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1262179710180709208
+                }
+            ],
             "pathId": -5406854634277392502,
             "blockIdx": 3
         },
@@ -48,8 +96,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "いつでもうまくいくとは限らないものよ。\nどんまい、トレーナーちゃん！",
-            "enText": "It's not always going to work.\nThanks a lot, trainer! ",
+            "enText": "Sometimes that's the way the cookie<n>crumbles!\nBrush those crumbs off,<n>Trainer!",
             "nextBlock": 5,
+            "origClipLength": 89,
+            "voiceIdx": 74,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6249059907540029616
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6242217819854338562
+                }
+            ],
             "pathId": 8097172746533287425,
             "blockIdx": 4
         },
@@ -57,8 +118,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "A disappointing result: …",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4284851886198917193
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 2717470058780684305
+                }
+            ],
             "pathId": -5290546803225973364,
             "blockIdx": 5
         }

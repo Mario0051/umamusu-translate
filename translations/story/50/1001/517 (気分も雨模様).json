@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "LY54VW4RSEPY67YW2MP3VUIIW2B6IIPX",
+    "version": 6,
+    "bundle": "RUQHKS5T53DSKNKO5EOYKYVI5F5RI7LG",
     "type": "story",
     "storyId": "501001517",
     "title": "気分も雨模様",
+    "enTitle": "Forecast: Gloomy",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "大ぶりの雨が降った翌日の\r\nトレーニングコースにて――",
-            "enText": "On the training course the \nday after a heavy downpour.",
+            "enText": "At the training track after a day of heavy<n>rain...",
             "nextBlock": 2,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6849010907732615773,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "うう……。\r\nトレーナーさん……。",
-            "enText": "Uu…… Trainer: ……",
+            "enText": "Urgh... Trainer...",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": 57,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "どうしたの！？",
-                    "enText": "What's wrong with you!",
+                    "enText": "What's wrong?!",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": -2187776870425465466
-                },
-                {
                     "origLen": 89,
                     "pathId": -8390638772937015144
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2187776870425465466
                 }
             ],
             "pathId": 1183037422444219717,
@@ -46,17 +51,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ここに来るまでの道で、\r\n水たまりに派手に転んじゃったんです……。",
-            "enText": "I took a spectacular fall in a puddle on the \nroad to get here. ……",
+            "enText": "I tripped and fell straight into a puddle<n>on my\nway here...",
             "nextBlock": 4,
             "origClipLength": 88,
+            "voiceIdx": 22,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 4238997770027897128
-                },
                 {
                     "origLen": 99,
                     "pathId": -3571372902169945395
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4238997770027897128
                 }
             ],
             "pathId": -376515959819794994,
@@ -66,21 +73,23 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "うう～！　せっかく雨に負けないように、\r\n気合い入れて来たのに～！",
-            "enText": "Ugh～! I was so determined not to let the rain \nget the better of me～!",
+            "enText": "Ugh! And I'd even hyped myself up to<n>make sure I\nwouldn't let the rain get me!",
             "nextBlock": 5,
             "origClipLength": 88,
+            "voiceIdx": 18,
+            "voiceSheetId": "051001001",
             "animData": [
                 {
                     "origLen": 93,
                     "pathId": -7022797334965646485
                 },
                 {
-                    "origLen": 62,
-                    "pathId": 8217979684676786391
-                },
-                {
                     "origLen": 99,
                     "pathId": -4399449173801228427
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 8217979684676786391
                 }
             ],
             "pathId": -5609818103467135667,
@@ -90,26 +99,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "せっかくのやる気が、\r\n思わぬ不運で削がれてしまったようだ……。",
-            "enText": "It seems that my motivation has been \ncurtailed by some unexpected bad luck. ……",
+            "enText": "Thanks to that, I think I've lost all my<n>\nmotivation...",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 75,
                     "pathId": -8800410579001868144
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -5359705294124631719
-                },
-                {
                     "origLen": 97,
                     "pathId": 670641306423874437
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5359705294124631719
                 }
             ],
             "pathId": -4048022054711798389,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555054
+    ]
 }

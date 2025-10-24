@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "4INSJPCKUZOXRBL4355CE4MT6CDAO6ZF",
+    "version": 6,
+    "bundle": "N2TPHNIEW6RQS3SURU6LTRUFTU2TYHTC",
     "type": "story",
     "storyId": "501018109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "吐く息は白く、吹く風は冷たい……。\r\nそんな、12月のある日。",
-            "enText": "My breath is white and the wind is cold.…… \nOne day in December.",
+            "enText": "It's one of those cold and windy<n>December days\nwhere you can see your<n>breath hanging wispily in\nthe air in front<n>of you.",
             "nextBlock": 2,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6789527692956321389,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "エアグルーヴに突如、\r\nトレーナー室まで来るようにと呼ばれた。",
-            "enText": "Suddenly Airgroove called me to come to the \ntrainer's office.",
+            "enText": "Out of nowhere, I receive an invitation<n>from Air\nGroove requesting a meeting in<n>my office.",
             "nextBlock": 3,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5042066493921857524,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "一体何事だろうと、足早に向かうと――",
-            "enText": "I wondered what the hell was going on, and as \nI strode toward it…",
+            "enText": "Wondering what she wants, I hurry over<n>to find...",
             "nextBlock": 4,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -158395193306456217,
             "blockIdx": 3
         },
@@ -39,9 +46,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――トレーナー室が、激変していた。",
-            "enText": "―The trainer's office had undergone a radical \ntransformation.",
+            "enText": "My office has been completely<n>transformed.",
             "nextBlock": 5,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 170497753054984589,
             "blockIdx": 4
         },
@@ -49,24 +58,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "メリークリスマス！",
-            "enText": "Merry Christmas!",
+            "enText": "Happy Holidays!",
             "nextBlock": 6,
             "origClipLength": 108,
+            "voiceIdx": 135,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "え、エアグルーヴ！？",
-                    "enText": "What, Airgroove!",
+                    "enText": "Air Groove?!",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 15,
-                    "pathId": 8297336381096660984
-                },
-                {
                     "origLen": 64,
                     "pathId": 6845477907135891476
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 8297336381096660984
                 }
             ],
             "pathId": 188080743894258007,
@@ -76,17 +87,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――ふっ。その驚きようを見るに、\r\nやはり貴様、今日が何の日か忘れていたな？",
-            "enText": "―I see by your surprise that you have \nforgotten what day it is. From the look of \nsurprise on your face, I'd say you've \nforgotten what day it is, haven't you?",
+            "enText": "Hehe. That flabbergasted look tells me<n>you've\nforgotten what day it is.",
             "nextBlock": 7,
             "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 6385249199339972306
-                },
                 {
                     "origLen": 80,
                     "pathId": -2879396426822671783
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 6385249199339972306
                 }
             ],
             "pathId": -4815218649192029486,
@@ -96,24 +109,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どちらかというとエアグルーヴが元気に\r\nメリークリスマスと言うことに驚いたのだが、\nそれはともかく――",
-            "enText": "I was rather surprised to hear \nAirgroove cheerfully say \"Merry \nChristmas. Be that as it may―",
+            "enText": "It's true that I'm taken aback—not least<n>because\nof Air Groove's sudden joyous<n>cheer—but also...",
             "nextBlock": 8,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "これ、エアグルーヴが……？",
-                    "enText": "Is this the Airgroove at ……?",
+                    "enText": "Did you do all this?!",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": -7934024329137148550
+                    "pathId": 3514863561669976472
                 },
                 {
                     "origLen": 89,
-                    "pathId": 3514863561669976472
+                    "pathId": -7934024329137148550
                 }
             ],
             "pathId": 6689169259063698717,
@@ -123,17 +138,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "今朝のうちに、な。少々繁雑だが、\r\n雰囲気は十分出ているだろう。",
-            "enText": "This morning. A little crowded, but I think \nwe've got the right vibe.",
+            "enText": "Yes, this morning. It's not perfect, but I<n>believe\nthis should suffice.",
             "nextBlock": 9,
             "origClipLength": 65,
+            "voiceIdx": 6,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": -1100028500577929845
-                },
                 {
                     "origLen": 76,
                     "pathId": 2413964846956677999
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -1100028500577929845
                 }
             ],
             "pathId": 6145867024289349892,
@@ -143,17 +160,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "飾りだけではないぞ。\r\n料理やケーキも取り揃え、準備は万全だ。",
-            "enText": "It's not just the decorations. We've got food \nand cake, and we're ready to go.",
+            "enText": "I didn't just decorate. I've also prepared<n>dinner\nand a cake.",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": 2644748185817259135
-                },
                 {
                     "origLen": 76,
                     "pathId": 8459225544752772424
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 2644748185817259135
                 }
             ],
             "pathId": -8441684904182949446,
@@ -163,29 +182,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "クリスマスは1年の内でも屈指の年中行事だ。\r\n全うしなければ、良い年末に繋がらんからな。",
-            "enText": "Christmas is one of the most important annual \nevents of the year. If we don't do our best, \nit won't lead to a good end of the year.",
+            "enText": "Tis the season, after all. It doesn't feel<n>right to let\nthis time of year pass without<n>a proper\ncelebration.",
             "nextBlock": 11,
             "origClipLength": 73,
+            "voiceIdx": 2,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "全部準備してもらっちゃって悪いな……",
-                    "enText": "Sorry I got you all set up: ……",
+                    "enText": "I feel bad you had to do all this by yourself.",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "全部準備してもらっちゃって悪いね……",
-                    "enText": "Sorry I got you all set up. ……",
+                    "enText": "I feel bad you had to do all this by yourself.",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 32,
-                    "pathId": 2434916477059731617
-                },
-                {
                     "origLen": 84,
                     "pathId": 8588597192527017446
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 2434916477059731617
                 }
             ],
             "pathId": -8724104271486966338,
@@ -195,17 +216,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "気にする必要はない。これは\r\n私がやりたくてやっていることだからな。",
-            "enText": "Don't worry about it. This \nis what I want to do.",
+            "enText": "Spare me your sympathy. I did this of my<n>own\nvolition.",
             "nextBlock": 12,
             "origClipLength": 67,
+            "voiceIdx": 50,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 3723842999833259175
-                },
                 {
                     "origLen": 78,
                     "pathId": -5729844558204097173
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3723842999833259175
                 }
             ],
             "pathId": 1608072181860327667,
@@ -215,24 +238,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "それに今日は――\r\nある種の慰労も兼ねているのだ。",
-            "enText": "Besides, today―it's also a \nconsolation prize of sorts.",
+            "enText": "Besides, I thought it would be a good<n>opportunity\nto celebrate all of our hard<n>work.",
             "nextBlock": 13,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "慰労？",
-                    "enText": "Consolation?",
+                    "enText": "What do you mean?",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 30,
-                    "pathId": 4775544947766112955
-                },
-                {
                     "origLen": 72,
                     "pathId": -701279078091106017
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4775544947766112955
                 }
             ],
             "pathId": 1718605269262029182,
@@ -242,17 +267,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "…………考えてみれば我々は、\r\n今日まで祝勝会らしいこともしていない。",
-            "enText": "If you think about it, we haven't had \nanything resembling a victory celebration \nuntil today. ………",
+            "enText": "It occurred to me that we hadn't<n>properly\ncommemorated any of our<n>victories thus far.",
             "nextBlock": 14,
             "origClipLength": 67,
+            "voiceIdx": 34,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -5944867174332497314
-                },
                 {
                     "origLen": 78,
                     "pathId": 3195856436961077167
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -5944867174332497314
                 }
             ],
             "pathId": -622554627172804070,
@@ -262,17 +289,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "これを機に、今日は互いの1年を振り返り、\r\nそれぞれの働きを労うという趣向だ。",
-            "enText": "This is an opportunity to reflect on the past \nyear and each other's work.",
+            "enText": "I thought we could reflect on the year<n>and be\nproud of what we've<n>accomplished.",
             "nextBlock": 15,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 7549726194165140202
-                },
                 {
                     "origLen": 82,
                     "pathId": 4455679664183319264
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 7549726194165140202
                 }
             ],
             "pathId": 1997599922351735016,
@@ -282,17 +311,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――その方が、我々らしかろう。",
-            "enText": "―It would be more like us.",
+            "enText": "That seems more our style, wouldn't you<n>agree?",
             "nextBlock": 16,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 8,
-                    "pathId": 4705039519344699754
-                },
                 {
                     "origLen": 65,
                     "pathId": 6757220679636295630
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 4705039519344699754
                 }
             ],
             "pathId": -1213166628044666809,
@@ -302,24 +333,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "故にこれは、クリスマス兼慰労会となる。\r\n今日はもう仕事はさせんぞ、覚悟しろ。",
-            "enText": "Therefore, this will be a Christmas and \nconsolation party. No more work for you \ntoday, brace yourself.",
+            "enText": "So consider this a victory party and<n>holiday\nfestivity in one—and don't you<n>dare think about\ndoing any more work<n>today.",
             "nextBlock": 17,
             "origClipLength": 70,
+            "voiceIdx": 2,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "エアグルーヴ……",
-                    "enText": "Airgroove ……",
+                    "enText": "Air Groove...",
                     "nextBlock": 17
                 }
             ],
             "animData": [
                 {
-                    "origLen": 29,
-                    "pathId": 2713517803321360347
-                },
-                {
                     "origLen": 81,
                     "pathId": -3597039080942934637
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 2713517803321360347
                 }
             ],
             "pathId": -8680000821745268619,
@@ -329,17 +362,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "さて。会を始めるにあたり、\r\n貴様には言ってもらわねばならんことがある。",
-            "enText": "Now. To begin our meeting, I need \nyou to tell me something.",
+            "enText": "Before we start, there's something very<n>important\nI'm still waiting to hear from<n>you.",
             "nextBlock": 18,
             "origClipLength": 68,
+            "voiceIdx": 84,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 1741446731140198038
-                },
                 {
                     "origLen": 79,
                     "pathId": -6814768681630950018
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 1741446731140198038
                 }
             ],
             "pathId": -6659419209171427701,
@@ -349,24 +384,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "何を言うべきかは、貴様ならわかるだろう？",
-            "enText": "You know what to say, don't you?",
+            "enText": "Surely you know what it is?",
             "nextBlock": 19,
             "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "……メリークリスマス！",
-                    "enText": "…… Merry Christmas!",
+                    "enText": "Happy Holidays!",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 21,
-                    "pathId": 4609499105785362970
-                },
-                {
                     "origLen": 69,
                     "pathId": -212604607390618800
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 4609499105785362970
                 }
             ],
             "pathId": 5222080918788935426,
@@ -376,17 +413,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "うむ――",
-            "enText": "Mm―",
+            "enText": "Very good.",
             "nextBlock": 20,
             "origClipLength": 47,
+            "voiceIdx": 38,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 20,
-                    "pathId": -5308463002511026392
-                },
                 {
                     "origLen": 58,
                     "pathId": -3192476963862756297
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5308463002511026392
                 }
             ],
             "pathId": -5230231483600595710,
@@ -396,17 +435,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "改めてメリークリスマス、トレーナー。",
-            "enText": "Once again, Merry Christmas, trainer.",
+            "enText": "Again, Happy Holidays to you too.",
             "nextBlock": 21,
             "origClipLength": 56,
+            "voiceIdx": 135,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": -2878439277948785640
-                },
                 {
                     "origLen": 67,
                     "pathId": 7611854871059484864
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -2878439277948785640
                 }
             ],
             "pathId": 4985308069555623297,
@@ -416,17 +457,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その日は、エアグルーヴとご馳走を囲み、\r\nこの1年を振り返った。",
-            "enText": "That day, we sat around a feast with \nAirgroove and reflected on the past year.",
+            "enText": "As we feast, Air Groove and I reflect on<n>the past\nyear.",
             "nextBlock": 22,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 32,
-                    "pathId": -839859388482468728
+                    "pathId": -6439504722077209356
                 },
                 {
                     "origLen": 32,
-                    "pathId": -6439504722077209356
+                    "pathId": -839859388482468728
                 }
             ],
             "pathId": 4881009054240114975,
@@ -436,9 +479,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "思えば本当に充実した1年だった……。\r\nそう実感できるクリスマスになったのだった。",
-            "enText": "Looking back, it has been a truly \nfulfilling year.…… It was a Christmas \nthat made me feel that way.",
+            "enText": "Looking back, it was quite a fulfilling<n>one. I'm\nhappy we have the chance to sit<n>down and look\nback.",
             "nextBlock": -1,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -582524185312843132,
             "blockIdx": 22
         },
@@ -446,17 +491,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、エアグルーヴとご馳走を囲み、\r\nこの1年間を振り返った。",
-            "enText": "Afterward, we sat around a feast with \nAirgroove and reflected on the past year.",
+            "enText": "As we feast, Air Groove and I reflect on<n>the past\nyear.",
             "nextBlock": 24,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": 2986442818768089934
+                    "pathId": -3122887737202216423
                 },
                 {
                     "origLen": 26,
-                    "pathId": -3122887737202216423
+                    "pathId": 2986442818768089934
                 }
             ],
             "pathId": -7013303950259847506,
@@ -466,9 +513,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "楽しい時間はあっという間に過ぎていき、\r\n宴もたけなわというところで――",
-            "enText": "The good times flew by, and just as the feast \nwas about to begin…",
+            "enText": "We're having so much fun that time is<n>flying by.\nJust as our merriment is<n>reaching its peak...",
             "nextBlock": 25,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7924176898460797406,
             "blockIdx": 24
         },
@@ -476,24 +525,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……トレーナー、これを。",
-            "enText": "…… trainer, this.",
+            "enText": "Trainer, this is for you.",
             "nextBlock": 26,
             "origClipLength": 52,
+            "voiceIdx": 55,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "これは――",
-                    "enText": "This is―",
+                    "enText": "What's this?",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": 3942340149800917550
-                },
-                {
                     "origLen": 111,
                     "pathId": -4088625370753902496
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 3942340149800917550
                 }
             ],
             "pathId": -2287835788877082838,
@@ -503,24 +554,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "クリスマスプレゼント、兼労いの品だ。",
-            "enText": "It's a Christmas present and a labor of love.",
+            "enText": "A token of my appreciation for all of<n>your hard\nwork. And of course, it's also a<n>present befitting\nthe season.",
             "nextBlock": 27,
             "origClipLength": 56,
+            "voiceIdx": 92,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "開けていい？",
-                    "enText": "Can I open it?",
+                    "enText": "Can I open it now?",
                     "nextBlock": 27
                 }
             ],
             "animData": [
                 {
                     "origLen": 67,
-                    "pathId": -3913203434325795439
+                    "pathId": -2466159507070183952
                 },
                 {
                     "origLen": 67,
-                    "pathId": -2466159507070183952
+                    "pathId": -3913203434325795439
                 }
             ],
             "pathId": -6644647024108812697,
@@ -530,17 +583,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ああ。",
-            "enText": "Oh.",
+            "enText": "By all means.",
             "nextBlock": 28,
             "origClipLength": 46,
+            "voiceIdx": 80,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 57,
-                    "pathId": -4391123255699729441
+                    "pathId": 3368976209943124720
                 },
                 {
                     "origLen": 57,
-                    "pathId": 3368976209943124720
+                    "pathId": -4391123255699729441
                 }
             ],
             "pathId": -6595349967028554834,
@@ -550,29 +605,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "包みを開けると中には……\r\n持ち運びしやすそうな革の手帳があった。",
-            "enText": "I opened the package and inside was a leather \nnotebook that looked…… easy to carry.",
+            "enText": "I unwrap the package to find a<n>leather-bound\nplanner inside.",
             "nextBlock": 29,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ありがとう！大事にする",
-                    "enText": "Thank you! I'll take good care of it.",
+                    "enText": "Thank you! I love it.",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "ありがとう！大事にするよ",
-                    "enText": "Thank you! I'll take good care of it.",
+                    "enText": "Thank you! I love it.",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -4435236439983565571
-                },
-                {
                     "origLen": 108,
                     "pathId": -3821964715580980460
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4435236439983565571
                 }
             ],
             "pathId": 4226873802758732450,
@@ -582,17 +639,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "そうしてくれ。\r\n貴様にはうってつけの手帳だからな。",
-            "enText": "Do that. It's the perfect notebook for you.",
+            "enText": "I'm glad you like it. I picked it out just<n>for you.",
             "nextBlock": 30,
             "origClipLength": 61,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -7282009615268407819
-                },
                 {
                     "origLen": 72,
                     "pathId": -5380978916056207519
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -7282009615268407819
                 }
             ],
             "pathId": 2609018766793143178,
@@ -602,17 +661,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "カレンダー部分を開いてみろ。",
-            "enText": "Open the calendar section.",
+            "enText": "Open it to the calendar pages.",
             "nextBlock": 31,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 8,
-                    "pathId": -1157455749742626770
-                },
                 {
                     "origLen": 65,
                     "pathId": -146519461333880465
+                },
+                {
+                    "origLen": 8,
+                    "pathId": -1157455749742626770
                 }
             ],
             "pathId": 4281739709185804350,
@@ -622,17 +683,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "言われて開いてみると……\r\n各日付に何の記念日や行事があるか、\n事細かに書かれている。",
-            "enText": "When I opened it, I found…… which has a \ndetailed description of what anniversaries \nand events are on each date.",
+            "enText": "I open the planner to find a huge<n>number of\nimportant details already<n>penned in on many of\nthe dates inside.<n>From holidays to scheduled\nraces—it's<n>all there.",
             "nextBlock": 32,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": -443395671363049779
+                    "pathId": -6081577005302672939
                 },
                 {
                     "origLen": 84,
-                    "pathId": -6081577005302672939
+                    "pathId": -443395671363049779
                 }
             ],
             "pathId": -7726755310221940568,
@@ -642,17 +705,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "何かと行事を忘れがちな貴様には、\r\nそれぐらいがいいだろう？",
-            "enText": "You're a man who tends to \nforget events, so why not?",
+            "enText": "You seem incapable of remembering<n>these things,\nso I thought it would help<n>you.",
             "nextBlock": 33,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 7870082774898312723
-                },
                 {
                     "origLen": 75,
                     "pathId": 7828128751026614717
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 7870082774898312723
                 }
             ],
             "pathId": 2835416097707326980,
@@ -662,17 +727,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "来年からはそれを活用して、\r\n日々励むのだな。",
-            "enText": "I will make use of it from next year and work \nhard every day.",
+            "enText": "I hope you can put it to good use and<n>keep up\nthe good work in the coming<n>year.",
             "nextBlock": 34,
             "origClipLength": 60,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 18,
-                    "pathId": 3278192983342416559
-                },
                 {
                     "origLen": 71,
                     "pathId": -4457324044640842025
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 3278192983342416559
                 }
             ],
             "pathId": 6620009398298265477,
@@ -682,17 +749,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "この手帳があれば、きっと来年も\r\nエアグルーヴと充実した1年を過ごせる――",
-            "enText": "With this notebook, I am sure \nthat I will have a fulfilling \nyear with Airgroove next year…",
+            "enText": "I'm sure I can use this planner to ensure<n>that next\nyear will be a very productive<n>one for the both of\nus.",
             "nextBlock": 35,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 24,
-                    "pathId": -8171339226073378642
+                    "pathId": 2744739121524401498
                 },
                 {
                     "origLen": 24,
-                    "pathId": 2744739121524401498
+                    "pathId": -8171339226073378642
                 }
             ],
             "pathId": -8860191983059797207,
@@ -702,12 +771,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今夜はそんな、\r\n温かい思いを抱けるクリスマスとなった。",
-            "enText": "Tonight was a Christmas that made me feel \nwarm and fuzzy.",
+            "enText": "We spend the rest of the evening<n>together,\nenveloped by warm feelings<n>and plentiful mirth.",
             "nextBlock": -1,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6431755977972685287,
             "blockIdx": 35
         }
-    ],
-    "modified": 1657555251
+    ]
 }

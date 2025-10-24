@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "VECHQSVF5M4G7YX2IR3MWYCACUHWZGCL",
+    "version": 6,
+    "bundle": "GA3OWH4R4S3UMRTDO7DLHK6VWPCM4GBV",
     "type": "story",
     "storyId": "501024307",
     "title": "有馬記念の後に・燃料、補給",
+    "enTitle": "After the Arima Kinen: Refueling",
     "text": [
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "――見事！　見事でした！\r\n今年の『有馬記念』の王者に拍手をッ！！",
-            "enText": "―Brilliant! Brilliant! Kudos to the champion \nof this year's Arimakinen!",
+            "enText": "Incredible! Absolutely incredible! Please<n>give a\nround of applause for the winner<n>of this year's\nArima Kinen!",
             "nextBlock": 2,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4493121067170463836,
             "blockIdx": 1
         },
@@ -19,39 +22,47 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ワァァアアアーーーーーーーーッ！！）",
-            "enText": "(Waaaaaaaaaaaaaaahhh!!!)",
+            "enText": "Wooooo!",
             "nextBlock": 3,
             "origClipLength": 139,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8414185870669131140,
             "blockIdx": 2
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "いやー、マヤノトップガン意外とすげーな。\r\n一瞬ブライアンに勝つんじゃ、って思ったわ。",
-            "enText": "Wow, Mayano Top Gun is surprisingly \namazing. For a moment I thought \nshe was going to beat Brian.",
+            "enText": "Wow, Mayano Top Gun was absolutely<n>\nincredible. For a moment there, I<n>thought she was\ngonna beat Brian.",
             "nextBlock": 4,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8879871031133366288,
             "blockIdx": 3
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "ふふっ、そう思ったなら貴方の目も\r\nまだまだね。これが『実力差』よ。",
-            "enText": "Well, if you think so, your eyes \nare not quite there yet. This is \nthe difference in ability.",
+            "enText": "Heheh. Then you still have a lot to learn.<n>The\ndifference in ability between them is<n>huge.",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6077840756353397794,
             "blockIdx": 4
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "まあでも、確かに力はあったわ。\r\n1年後の有馬でなら……可能性あるかも。",
-            "enText": "Well, but she certainly had the power. \nMaybe in a year's time at Arima, it \ncould be a…… possibility.",
+            "enText": "Regardless, she's quite capable. She<n>might have a\nchance... at next year's<n>Arima.",
             "nextBlock": 6,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5965858455397514475,
             "blockIdx": 5
         },
@@ -59,25 +70,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "はぁ……ひゅっ……！\r\nぜぇ……はぁ……っ！",
-            "enText": "Hah…… hyuh……! Hah…… hah ……!",
+            "enText": "<i>Gasp... Pant... Wheeze... Huff...</i>",
             "nextBlock": 7,
             "origClipLength": 59,
+            "voiceIdx": 58,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 114,
-                    "pathId": 3596830035246812773
-                },
                 {
                     "origLen": 119,
                     "pathId": 8691861980441288426
                 },
                 {
-                    "origLen": 113,
-                    "pathId": -5422374561271572119
+                    "origLen": 114,
+                    "pathId": 3596830035246812773
                 },
                 {
                     "origLen": 131,
                     "pathId": -8415688126145709536
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -5422374561271572119
                 }
             ],
             "pathId": -985867218262201829,
@@ -87,32 +100,34 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "な、なぁ。マヤノ、大丈夫かい？\r\n随分と辛そうな顔してるけど……。",
-            "enText": "Hey, hey. Mayano, are you okay? You look like \nyou're in a lot of pain. ……",
+            "enText": "Are you okay, Mayano? You look like<n>you're in\npain...",
             "nextBlock": 8,
             "origClipLength": 66,
+            "voiceIdx": 54,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "……マヤノ！",
-                    "enText": "…… Mayano!",
+                    "enText": "Mayano!",
                     "nextBlock": 8
                 }
             ],
             "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -5939242711106517741
+                },
                 {
                     "origLen": 41,
                     "pathId": -3342007318860296836
                 },
                 {
                     "origLen": 77,
-                    "pathId": -5939242711106517741
+                    "pathId": -9024379656926511610
                 },
                 {
                     "origLen": 39,
                     "pathId": -1356910141338258366
-                },
-                {
-                    "origLen": 77,
-                    "pathId": -9024379656926511610
                 }
             ],
             "pathId": -4287916322178724935,
@@ -122,25 +137,27 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "よかった、アンタが担当トレーナーかい？\r\nこの子だいぶ出し切ったようでね。\n早く休ませてやった方が……。",
-            "enText": "Good, you're the trainer in charge? It looks \nlike she's pretty much exhausted. You should \ngive her a break soon. ……",
+            "enText": "Thank goodness. You're her trainer,<n>right? It\nlooks like she's pushed herself<n>too far. She needs\nto rest immediately...",
             "nextBlock": 9,
             "origClipLength": 78,
+            "voiceIdx": 30,
+            "voiceSheetId": "051012001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7070158563078029018
+                },
                 {
                     "origLen": 89,
                     "pathId": 497283772747860348
                 },
                 {
                     "origLen": 89,
-                    "pathId": -7070158563078029018
+                    "pathId": -7024689633109066989
                 },
                 {
                     "origLen": 67,
                     "pathId": -1065608187009844316
-                },
-                {
-                    "origLen": 89,
-                    "pathId": -7024689633109066989
                 }
             ],
             "pathId": 8407474953554313348,
@@ -150,25 +167,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……大丈夫。マヤはそれより……っ！",
-            "enText": "…… is fine. Maya is more…… than that!",
+            "enText": "It's okay... I'm fine. It's just...",
             "nextBlock": 10,
             "origClipLength": 56,
+            "voiceIdx": 68,
+            "voiceSheetId": "051024001",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7380494547559036788
+                },
                 {
                     "origLen": 28,
                     "pathId": -5050436386658397727
                 },
                 {
                     "origLen": 67,
-                    "pathId": -7380494547559036788
+                    "pathId": -214070775207288705
                 },
                 {
                     "origLen": 45,
                     "pathId": 7769034887539576968
-                },
-                {
-                    "origLen": 67,
-                    "pathId": -214070775207288705
                 }
             ],
             "pathId": -6911706495444291516,
@@ -178,25 +197,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "楽しくなっちゃったからっ！！",
-            "enText": "Because I'm having so much fun!",
+            "enText": "That was so much fun!",
             "nextBlock": 11,
             "origClipLength": 54,
+            "voiceIdx": 1,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -6488595539180705547
-                },
                 {
                     "origLen": 58,
                     "pathId": 8585040407405045938
                 },
                 {
-                    "origLen": 65,
-                    "pathId": -6236319835345954200
+                    "origLen": 58,
+                    "pathId": -6488595539180705547
                 },
                 {
                     "origLen": 65,
                     "pathId": -6143885720562086786
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6236319835345954200
                 }
             ],
             "pathId": -1018529027853877494,
@@ -206,17 +227,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "――はあっ！？",
-            "enText": "―Oh!",
+            "enText": "Huh?!",
             "nextBlock": 12,
             "origClipLength": 49,
+            "voiceIdx": 26,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -4002136052669016576
-                },
                 {
                     "origLen": 60,
                     "pathId": -312861486566164210
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4002136052669016576
                 }
             ],
             "pathId": 8927234221461566201,
@@ -226,25 +249,27 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 13,
             "origClipLength": 46,
+            "voiceIdx": 34,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 10,
-                    "pathId": 534746108059830394
-                },
                 {
                     "origLen": 10,
                     "pathId": -5995902783455117865
                 },
                 {
-                    "origLen": 80,
-                    "pathId": -6604866715429140076
+                    "origLen": 10,
+                    "pathId": 534746108059830394
                 },
                 {
                     "origLen": 101,
                     "pathId": 2481268024175808325
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6604866715429140076
                 }
             ],
             "pathId": -3560810984869740588,
@@ -254,17 +279,19 @@
             "jpName": "スタッフ",
             "enName": "Staff",
             "jpText": "えーでは、次の質問に参ります。\r\n質問したい方は挙手を――",
-            "enText": "Uh, now we will come to the next question. \nAll those wishing to ask a question, please \nraise your hand―",
+            "enText": "All right, let's move on. If you have a<n>question\nyou'd like to ask, please raise—",
             "nextBlock": 14,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 3779058712075106924
-                },
                 {
                     "origLen": 74,
                     "pathId": 3078483142022422327
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3779058712075106924
                 }
             ],
             "pathId": -80146848702226619,
@@ -274,21 +301,23 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……はいはいはーいっ！！",
-            "enText": "…… yes yes yes yes!",
+            "enText": "Oooh! Pick me, pick me, pick me!",
             "nextBlock": 15,
             "origClipLength": 52,
+            "voiceIdx": 31,
+            "voiceSheetId": "051024001",
             "animData": [
                 {
                     "origLen": 58,
                     "pathId": 2164179171158400787
                 },
                 {
-                    "origLen": 80,
-                    "pathId": 5428614965059468701
-                },
-                {
                     "origLen": 63,
                     "pathId": 5198051929256179827
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5428614965059468701
                 }
             ],
             "pathId": -1579458733024229639,
@@ -298,21 +327,23 @@
             "jpName": "スタッフ",
             "enName": "Staff",
             "jpText": "はい。ではそこのー……\r\nマヤノトップガンさん！？",
-            "enText": "Yes, I am. Now then, there \n-…… Ms. Mayano Top Gun!",
+            "enText": "Okay. How about yo—Mayano Top<n>Gun?!",
             "nextBlock": 16,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 103,
                     "pathId": -8606430368429456761
                 },
                 {
-                    "origLen": 80,
-                    "pathId": -7150598447586742885
-                },
-                {
                     "origLen": 72,
                     "pathId": 8398740974942320458
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7150598447586742885
                 }
             ],
             "pathId": -6921387064185625984,
@@ -322,29 +353,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ざわざわ……）",
-            "enText": "(……)",
+            "enText": "<i>Chatter, chatter...</i>",
             "nextBlock": 17,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 115,
-                    "pathId": -3294507508156139738
-                },
                 {
                     "origLen": 100,
                     "pathId": -6309262795210408430
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -3294507508156139738
                 },
                 {
                     "origLen": 111,
                     "pathId": -4657034980723163679
                 },
                 {
-                    "origLen": 119,
-                    "pathId": 1670460086216456685
-                },
-                {
                     "origLen": 115,
                     "pathId": 5793394438043493382
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 1670460086216456685
                 }
             ],
             "pathId": -8019755066218392564,
@@ -354,29 +387,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "ねえ、ブライアンさん！\r\n次はどのレースに出るの！？",
-            "enText": "Hey, Ms. Brian! Which race are you in next!",
+            "enText": "Hi, Brian! What race are you gonna run<n>in next?!",
             "nextBlock": 18,
             "origClipLength": 61,
+            "voiceIdx": 52,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7291682746785969474
-                },
                 {
                     "origLen": 72,
                     "pathId": 1054237721422119788
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7291682746785969474
                 },
                 {
                     "origLen": 111,
                     "pathId": 6658836330510536402
                 },
                 {
-                    "origLen": 119,
-                    "pathId": 2815164209761675869
-                },
-                {
                     "origLen": 72,
                     "pathId": -8590491085574351600
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 2815164209761675869
                 }
             ],
             "pathId": -4019017424363012814,
@@ -386,29 +421,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "アタシ、もう1回\r\nブライアンさんと走りたい！",
-            "enText": "I want to run with Brian one more time!",
+            "enText": "I wanna race you again!",
             "nextBlock": 19,
             "origClipLength": 60,
+            "voiceIdx": 156,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -2421670119360919503
-                },
                 {
                     "origLen": 71,
                     "pathId": -8396595869640852286
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -2421670119360919503
                 },
                 {
                     "origLen": 111,
                     "pathId": -427097007887818509
                 },
                 {
-                    "origLen": 119,
-                    "pathId": -8038650361510065434
-                },
-                {
                     "origLen": 72,
                     "pathId": -2568786931088582479
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -8038650361510065434
                 }
             ],
             "pathId": -271934924094636938,
@@ -418,29 +455,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "最後までどうなるかどうすればいいか、\r\nわかんなくって、ドキドキして……。",
-            "enText": "I was so nervous and didn't know what to \nexpect or what to do until the end. ……",
+            "enText": "Right up until the end of that race just<n>now, I\ndidn't know what to do or what to<n>expect... My\nheart was pounding the<n>whole time...",
             "nextBlock": 20,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": -6762250129484033900
-                },
                 {
                     "origLen": 80,
                     "pathId": -9150330617854206192
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -6762250129484033900
                 },
                 {
                     "origLen": 111,
                     "pathId": -803553998435729118
                 },
                 {
-                    "origLen": 119,
-                    "pathId": -6123352851567361805
-                },
-                {
                     "origLen": 84,
                     "pathId": 7748746514774705684
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -6123352851567361805
                 }
             ],
             "pathId": -7273682243828235972,
@@ -450,29 +489,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "すっごく、ワクワクしちゃったんだもん！",
-            "enText": "I was so excited!",
+            "enText": "It was so, so, sooo exciting!",
             "nextBlock": 21,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 8634549284290228871
-                },
                 {
                     "origLen": 68,
                     "pathId": -1981234461743383707
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 8634549284290228871
                 },
                 {
                     "origLen": 111,
                     "pathId": 1776683113285417449
                 },
                 {
-                    "origLen": 119,
-                    "pathId": -5890008301132146882
-                },
-                {
                     "origLen": 72,
                     "pathId": 142527882613181661
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5890008301132146882
                 }
             ],
             "pathId": -5462473476196924347,
@@ -482,29 +523,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "――ふん。司会、次の質問を……。",
-            "enText": "―Hmmm. Moderator, next question: ……",
+            "enText": "Hmph. Next question, please...",
             "nextBlock": 22,
             "origClipLength": 55,
+            "voiceIdx": 15,
+            "voiceSheetId": "051016001",
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6804032407589948776
+                },
                 {
                     "origLen": 29,
                     "pathId": 415449060027994879
                 },
                 {
                     "origLen": 66,
-                    "pathId": 6804032407589948776
-                },
-                {
-                    "origLen": 66,
                     "pathId": 4887554538719441975
-                },
-                {
-                    "origLen": 50,
-                    "pathId": -7690879387932202835
                 },
                 {
                     "origLen": 66,
                     "pathId": 7108787545630292019
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7690879387932202835
                 }
             ],
             "pathId": 7960436524911803037,
@@ -514,29 +557,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あ、待ってよっ！\r\nずるいよ！　逃げないで！！",
-            "enText": "Oh, wait! It's not fair! Don't run away!",
+            "enText": "Hey, wait! No fair! Don't avoid my<n>question!",
             "nextBlock": 23,
             "origClipLength": 60,
+            "voiceIdx": 18,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": -4464237629915254608
-                },
                 {
                     "origLen": 71,
                     "pathId": -7732168969742203486
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -4464237629915254608
                 },
                 {
                     "origLen": 86,
                     "pathId": 226278139036648090
                 },
                 {
-                    "origLen": 91,
-                    "pathId": 358965710632887760
-                },
-                {
                     "origLen": 71,
                     "pathId": -7868116480377635706
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 358965710632887760
                 }
             ],
             "pathId": -2866936210158837717,
@@ -546,29 +591,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……ほぉ？",
-            "enText": "…… Ho?",
+            "enText": "Oh?",
             "nextBlock": 24,
             "origClipLength": 48,
+            "voiceIdx": 20,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -1242688888224603323
-                },
                 {
                     "origLen": 59,
                     "pathId": 4583097241380067472
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -1242688888224603323
                 },
                 {
                     "origLen": 55,
                     "pathId": 5231212554014780021
                 },
                 {
-                    "origLen": 91,
-                    "pathId": -5096940675696366404
-                },
-                {
                     "origLen": 59,
                     "pathId": -5772044789978717879
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -5096940675696366404
                 }
             ],
             "pathId": 7359152809658604680,
@@ -578,29 +625,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "今、何と言った？\r\n私がオマエから逃げると？",
-            "enText": "What did you just say? That \nI would run away from you?",
+            "enText": "What did you just say? You think I'm<n>trying to\navoid <i>you</i>?",
             "nextBlock": 25,
             "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 70,
-                    "pathId": -6414750379851464635
+                    "pathId": 8095291192946047794
                 },
                 {
                     "origLen": 70,
-                    "pathId": 8095291192946047794
+                    "pathId": -6414750379851464635
                 },
                 {
                     "origLen": 91,
                     "pathId": 3407248596220955161
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 1980467924903008672
-                },
-                {
                     "origLen": 70,
                     "pathId": 1228239004408389680
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1980467924903008672
                 }
             ],
             "pathId": 6409555461142270022,
@@ -610,29 +659,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "うん、そーだよ！　だって\r\nマヤの挑戦から逃げようとしたじゃん！",
-            "enText": "Yeah, that's right! Because you tried to run \naway from Maya's challenge!",
+            "enText": "Yeah, because you are! You're avoiding<n>my\nchallenge!",
             "nextBlock": 26,
             "origClipLength": 65,
+            "voiceIdx": 69,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -7005773002057454758
-                },
                 {
                     "origLen": 76,
                     "pathId": -2586267116572632345
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7005773002057454758
                 },
                 {
                     "origLen": 91,
                     "pathId": -3195740444832848904
                 },
                 {
-                    "origLen": 97,
-                    "pathId": -480619000688863687
-                },
-                {
                     "origLen": 76,
                     "pathId": -383257511449944397
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -480619000688863687
                 }
             ],
             "pathId": -1059760006294209562,
@@ -642,29 +693,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "そんなに強いのに、キラキラしてるくせにさ！",
-            "enText": "You're so strong, and you're so sparkly!",
+            "enText": "Even though you're so powerful and<n>twinkly!",
             "nextBlock": 27,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 29,
-                    "pathId": 5079872316602861490
-                },
                 {
                     "origLen": 69,
                     "pathId": 7706123186527310539
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 5079872316602861490
                 },
                 {
                     "origLen": 91,
                     "pathId": -5205401558882797020
                 },
                 {
-                    "origLen": 97,
-                    "pathId": 5598315119005903198
-                },
-                {
                     "origLen": 76,
                     "pathId": 6791299106856315
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5598315119005903198
                 }
             ],
             "pathId": 2830150914660085190,
@@ -674,29 +727,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "本当はマヤと次に戦ったら\r\n負けちゃうかもって思ってるんじゃないのっ？",
-            "enText": "Don't you really think that the next time you \nfight Maya, you might lose?",
+            "enText": "Is it because you're worried that you'll<n>actually\nlose to me next time?",
             "nextBlock": 28,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": 2129769402989453386
-                },
                 {
                     "origLen": 78,
                     "pathId": -7428712300534565948
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 2129769402989453386
                 },
                 {
                     "origLen": 91,
                     "pathId": -1203250987870510432
                 },
                 {
-                    "origLen": 97,
-                    "pathId": -8760291138923047384
-                },
-                {
                     "origLen": 91,
                     "pathId": 2126660743744801807
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8760291138923047384
                 }
             ],
             "pathId": 1273062450181010615,
@@ -706,29 +761,31 @@
             "jpName": "記者A",
             "enName": "Reporter A",
             "jpText": "え、えーっと……マヤノトップガンさん？\r\nあなたは今回、負けたばかりで――",
-            "enText": "Uh, let's see…… Ms. Mayan Top Gun? You just \nlost this time―",
+            "enText": "E-erm... Mayano Top Gun... You do<n>know you just\nlo—",
             "nextBlock": 29,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -8059281474227371357
-                },
                 {
                     "origLen": 80,
                     "pathId": -5830310800881619801
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -8059281474227371357
                 },
                 {
                     "origLen": 91,
                     "pathId": -769468922046290678
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 2450816164689374021
-                },
-                {
                     "origLen": 91,
                     "pathId": 3085024292021930938
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2450816164689374021
                 }
             ],
             "pathId": 3240384315841861090,
@@ -738,29 +795,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "でも次は勝つもんっ！",
-            "enText": "But I will win next time!",
+            "enText": "But I'm gonna win next time!",
             "nextBlock": 30,
             "origClipLength": 51,
+            "voiceIdx": 117,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 9,
-                    "pathId": -4226896021988275811
-                },
                 {
                     "origLen": 62,
                     "pathId": 7092106015085535291
+                },
+                {
+                    "origLen": 9,
+                    "pathId": -4226896021988275811
                 },
                 {
                     "origLen": 91,
                     "pathId": -483513807288399386
                 },
                 {
-                    "origLen": 69,
-                    "pathId": -3251782930597099648
-                },
-                {
                     "origLen": 62,
                     "pathId": -3024499708083776815
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3251782930597099648
                 }
             ],
             "pathId": -1105914638706168798,
@@ -770,29 +829,31 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "マヤはやっとキラキラできそうなの。\r\nだからここで満足なんかしないよ！！",
-            "enText": "Maya is finally going to sparkle. So she \nwon't be satisfied here!",
+            "enText": "I finally feel like I can twinkle. There's no<n>way I'd\nbe satisfied with letting things<n>end here!",
             "nextBlock": 31,
             "origClipLength": 68,
+            "voiceIdx": 53,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": -1122590420385446843
-                },
                 {
                     "origLen": 79,
                     "pathId": -2016158677636112650
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -1122590420385446843
                 },
                 {
                     "origLen": 91,
                     "pathId": -8033021751691792354
                 },
                 {
-                    "origLen": 88,
-                    "pathId": 1957386417093817145
-                },
-                {
                     "origLen": 101,
                     "pathId": 3829961868544353840
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1957386417093817145
                 }
             ],
             "pathId": -7439744813900003859,
@@ -802,29 +863,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 32,
             "origClipLength": 47,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 8441966796967139947
-                },
                 {
                     "origLen": 61,
                     "pathId": -4157398989759009077
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 8441966796967139947
                 },
                 {
                     "origLen": 91,
                     "pathId": 7910074565568772557
                 },
                 {
-                    "origLen": 12,
-                    "pathId": 3255819052109084313
-                },
-                {
                     "origLen": 62,
                     "pathId": 6022768431607602502
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 3255819052109084313
                 }
             ],
             "pathId": 152485429513814074,
@@ -834,29 +897,31 @@
             "jpName": "記者B",
             "enName": "Reporter B",
             "jpText": "い、いや……さすがに次って。\r\n実力差は明確に――",
-            "enText": "No, no…… is indeed next. The difference in \nability is clear…",
+            "enText": "B-but... next time won't be any different.<n>There's\na clear gap in ability between<n>the two of—",
             "nextBlock": 33,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": -558748420267988444
+                    "pathId": -4202020595908000847
                 },
                 {
                     "origLen": 72,
-                    "pathId": -4202020595908000847
+                    "pathId": -558748420267988444
                 },
                 {
                     "origLen": 82,
                     "pathId": -7010940307215886200
                 },
                 {
-                    "origLen": 73,
-                    "pathId": -1997378792006802243
-                },
-                {
                     "origLen": 75,
                     "pathId": 6147897124012150746
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1997378792006802243
                 }
             ],
             "pathId": 6127417316922575779,
@@ -866,35 +931,37 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……『阪神大賞典』だ。",
-            "enText": "…… \"Hanshin Grand Prize\".",
+            "enText": "The Hanshin Daishoten.",
             "nextBlock": 34,
             "origClipLength": 52,
+            "voiceIdx": 15,
+            "voiceSheetId": "051016001",
             "coloredText": [
                 {
                     "jpText": "阪神大賞典",
-                    "enText": "Hanshin Grand Prize"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 36,
-                    "pathId": 6205662096494336127
-                },
-                {
                     "origLen": 63,
                     "pathId": -3660159756822039715
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6205662096494336127
                 },
                 {
                     "origLen": 15,
                     "pathId": -5423684201835890015
                 },
                 {
-                    "origLen": 73,
-                    "pathId": -2087049385919255119
-                },
-                {
                     "origLen": 63,
                     "pathId": 6881859509390292488
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2087049385919255119
                 }
             ],
             "pathId": 4073640034509009669,
@@ -904,25 +971,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "！",
-            "enText": "Oh, my God!",
+            "enText": "...!",
             "nextBlock": 35,
             "origClipLength": 45,
+            "voiceIdx": 111,
+            "voiceSheetId": "051024001",
             "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": 8366075950482088304
+                },
                 {
                     "origLen": 33,
                     "pathId": 3161622527407867545
                 },
                 {
                     "origLen": 56,
-                    "pathId": 8366075950482088304
+                    "pathId": 482057936726653747
                 },
                 {
                     "origLen": 73,
                     "pathId": -47933449218405418
-                },
-                {
-                    "origLen": 56,
-                    "pathId": 482057936726653747
                 }
             ],
             "pathId": -8081214510496606926,
@@ -932,25 +1001,27 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "質問には答えた。司会、次の相手を頼む。",
-            "enText": "I have answered the questions. Moderator, \nplease take the next person.",
+            "enText": "There's your answer. Next question.",
             "nextBlock": 36,
             "origClipLength": 57,
+            "voiceIdx": 52,
+            "voiceSheetId": "051016001",
             "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 9161425796393618447
+                },
                 {
                     "origLen": 31,
                     "pathId": 515946394069800204
                 },
                 {
                     "origLen": 68,
-                    "pathId": 9161425796393618447
+                    "pathId": 6397271859896618009
                 },
                 {
                     "origLen": 50,
                     "pathId": -5526948956253516239
-                },
-                {
-                    "origLen": 68,
-                    "pathId": 6397271859896618009
                 }
             ],
             "pathId": 733204078802631902,
@@ -960,25 +1031,27 @@
             "jpName": "スタッフ",
             "enName": "Staff",
             "jpText": "え、あ……はい！\r\nそれでは次の方――",
-            "enText": "Uh, oh…… yes! Okay, the next person―",
+            "enText": "Uh... Okay then! Any another questions?",
             "nextBlock": 37,
             "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 959421821715873488
+                },
                 {
                     "origLen": 68,
                     "pathId": -7583524037500549777
                 },
                 {
                     "origLen": 68,
-                    "pathId": 959421821715873488
+                    "pathId": -7268814672323749817
                 },
                 {
                     "origLen": 73,
                     "pathId": -6697355984136797534
-                },
-                {
-                    "origLen": 68,
-                    "pathId": -7268814672323749817
                 }
             ],
             "pathId": 485348270225485115,
@@ -988,33 +1061,35 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "へぇ～。マヤノも\r\n面白いことすんじゃねぇか。",
-            "enText": "Wow. Mayano does some interesting \nthings, doesn't she?",
+            "enText": "Huh... That was pretty fresh, Mayano.",
             "nextBlock": 38,
             "origClipLength": 60,
+            "voiceIdx": 27,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": -9079438773531557652
-                },
                 {
                     "origLen": 13,
                     "pathId": 4148679558635426491
                 },
                 {
-                    "origLen": 115,
-                    "pathId": 7747112947028109281
+                    "origLen": 13,
+                    "pathId": -9079438773531557652
                 },
                 {
                     "origLen": 131,
                     "pathId": 8835256188401902038
                 },
                 {
-                    "origLen": 25,
-                    "pathId": -8897314788028726163
+                    "origLen": 115,
+                    "pathId": 7747112947028109281
                 },
                 {
                     "origLen": 25,
                     "pathId": 9085504197530629420
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -8897314788028726163
                 }
             ],
             "pathId": 2985722473542308194,
@@ -1024,24 +1099,26 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "自ら無謀に飛び込むたぁね。\r\n恐れを知らん子どもだからか、それとも――",
-            "enText": "Aane, who dives into the world recklessly \non her own. Is it because you are \na fearless child, or―",
+            "enText": "I should have expected you to do<n>something\nreckless. You truly don't<n>know fear. Either that,\nor—",
             "nextBlock": 39,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "度胸があるから",
-                    "enText": "I've got guts.",
+                    "enText": "She's brave.",
                     "nextBlock": 39
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -8738594027439637692
-                },
-                {
                     "origLen": 78,
                     "pathId": 4454107103295025564
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -8738594027439637692
                 }
             ],
             "pathId": -1392413922442747945,
@@ -1051,17 +1128,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ははっ。アンタも随分と\r\nマヤノのことを買ってんだね。",
-            "enText": "Ha-ha. You must have bought a lot of Mayano.",
+            "enText": "Haha! She's got you hook, line, and<n>sinker!",
             "nextBlock": 40,
             "origClipLength": 62,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": -4531941264360346129
-                },
                 {
                     "origLen": 73,
                     "pathId": 83348981778892113
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4531941264360346129
                 }
             ],
             "pathId": -5325507204339495913,
@@ -1071,17 +1150,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "いいね。アンタたち2人のこと、\r\n覚えておいてやるよ。",
-            "enText": "Great. I'll keep you two in mind.",
+            "enText": "But that's a good thing. I'll have to<n>remember the\ntwo of you.",
             "nextBlock": 41,
             "origClipLength": 62,
+            "voiceIdx": 9,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 2877520962938412051
-                },
                 {
                     "origLen": 73,
                     "pathId": -5410739435184536965
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2877520962938412051
                 }
             ],
             "pathId": 5152140657101150342,
@@ -1091,25 +1172,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "トレーナーちゃーーーーんっ！！",
-            "enText": "Trainers!",
+            "enText": "Traaaaainerrrrr!",
             "nextBlock": 42,
             "origClipLength": 54,
+            "voiceIdx": 56,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 107,
-                    "pathId": 7501828794155131321
-                },
                 {
                     "origLen": 107,
                     "pathId": -5585850823377972568
                 },
                 {
-                    "origLen": 11,
-                    "pathId": -8441969982803696776
+                    "origLen": 107,
+                    "pathId": 7501828794155131321
                 },
                 {
                     "origLen": 11,
                     "pathId": -3796543453803296418
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -8441969982803696776
                 }
             ],
             "pathId": 2555096825099614950,
@@ -1119,24 +1202,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あのねあのね、マヤ！\r\n次は『阪神大賞典』に出たい！",
-            "enText": "Hey, hey, hey, Maya! Next time I want to be \nin the Hanshin Grand Prize!",
+            "enText": "Listen, listen! I wanna race in the<n>Hanshin\nDaishoten next!",
             "nextBlock": 43,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "だと思った",
-                    "enText": "I thought it was.",
+                    "enText": "I figured as much.",
                     "nextBlock": 43
                 }
             ],
             "animData": [
                 {
-                    "origLen": 74,
-                    "pathId": -8716681583965093154
-                },
-                {
                     "origLen": 72,
                     "pathId": -8007995683908049229
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -8716681583965093154
                 }
             ],
             "pathId": 4420746535381103210,
@@ -1146,24 +1231,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "ええっ、なんでわかってたの？\r\nテレパシー！？　それとも運命の赤い糸！？",
-            "enText": "Eh, how did you know? Telepathy! Or the red \nthread of fate!",
+            "enText": "Huh, how'd you know? Telepathy?! Or<n>are we\nsoulmates?!",
             "nextBlock": 44,
             "origClipLength": 68,
+            "voiceIdx": 27,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "マヤノがワクワクしてたから",
-                    "enText": "Mayano was thrilled.",
+                    "enText": "I figured it out from how excited you were.",
                     "nextBlock": 44
                 }
             ],
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": -2082493996681678932
-                },
-                {
                     "origLen": 79,
                     "pathId": -5157690990367674476
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2082493996681678932
                 }
             ],
             "pathId": -3335835371250152609,
@@ -1173,17 +1260,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "！",
-            "enText": "Oh, my God!",
+            "enText": "...!",
             "nextBlock": 45,
             "origClipLength": 45,
+            "voiceIdx": 112,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": 6246327015911181539
-                },
                 {
                     "origLen": 56,
                     "pathId": 996675931457337202
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6246327015911181539
                 }
             ],
             "pathId": 3312790720272190923,
@@ -1193,17 +1282,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "えへへ。そんなことまでわかるなんて、\r\nさすがマヤのトレーナーちゃんだね。",
-            "enText": "Heh heh. As expected of Maya's trainer, she \ncan understand such things.",
+            "enText": "Ehehe! Of course you'd realize.",
             "nextBlock": 46,
             "origClipLength": 69,
+            "voiceIdx": 4,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -5494566805298993549
-                },
                 {
                     "origLen": 80,
                     "pathId": 115419464104223854
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -5494566805298993549
                 }
             ],
             "pathId": 715848345841237391,
@@ -1213,17 +1304,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "よーし、『阪神大賞典』では\r\nちゃんとブライアンさんに勝っちゃうぞー☆",
-            "enText": "I'm going to beat Brian in \nthe Hanshin Grand Prize!",
+            "enText": "Okay! I'm definitely going to beat Brian<n>at the\nHanshin Daishoten! ☆",
             "nextBlock": 47,
             "origClipLength": 67,
+            "voiceIdx": 11,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 4800898275666920486
-                },
                 {
                     "origLen": 78,
                     "pathId": 1824543339505729959
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 4800898275666920486
                 }
             ],
             "pathId": -8009674360399452929,
@@ -1233,22 +1326,23 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "乱気流に突っ込むなら、正々堂々正面から！\r\nそれがマヤのフライトなんだからねっ！",
-            "enText": "If you're going to run into turbulence, \ndo it head-on, fair and square! \nThat's how Maya flies!",
+            "enText": "I'll face whatever turbulence<n>head-on—because\nthat's the way I fly!",
             "nextBlock": 48,
             "origClipLength": 80,
+            "voiceIdx": 61,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": -7298456035882120035
-                },
                 {
                     "origLen": 119,
                     "pathId": -70660923546881527
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -7298456035882120035
                 }
             ],
             "pathId": 812859212861739311,
             "blockIdx": 47
         }
-    ],
-    "modified": 1657555058
+    ]
 }

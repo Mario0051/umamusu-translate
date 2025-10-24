@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "V2JZITEU65KELKADH2K7XRZYSVRVNZ4R",
+    "version": 6,
+    "bundle": "ZDOPLI2DDAJV6CJ3VJLJAMQWSLEKZA53",
     "type": "story",
     "storyId": "501006729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "むぅ……難しいんだな。",
-            "enText": "Mmm… It's difficult, isn't it?",
+            "enText": "Ahhh... It's harder than it looks, isn't it?",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "voiceIdx": 17,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry…",
+                    "enText": "Sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry…",
+                    "enText": "Sorry...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6601928478024201007
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4036101253345585345
                 }
             ],
             "pathId": -4445741142777763429,
@@ -30,8 +44,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "気にしなくていい。\n私もきっと失敗すると思う。",
-            "enText": "Don't worry about it. I'm sure \nI'll make mistakes too.",
+            "enText": "Don't worry. I'm sure I wouldn't have<n>done any\nbetter.",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "voiceIdx": 50,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6003765473906596605
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 4227532738177939317
+                }
+            ],
             "pathId": 2135920329335080334,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "それに、あの真剣な表情で、\nトレーナーの一生懸命な気持ちは伝わった。",
-            "enText": "Besides, I could tell by the serious \nexpression on the trainer's face that she \nwas trying her best.",
+            "enText": "I could tell by the look on your face that<n>you were\ntrying your best.",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 559222340838991553
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3879942240481648667
+                }
+            ],
             "pathId": 75863026101710543,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ぬいぐるみがなくても、私はそれで充分だ。",
-            "enText": "Even without a stuffed animal, \nit's good enough for me.",
+            "enText": "That's more than enough for me—plushie<n>or no\nplushie.",
             "nextBlock": 5,
+            "origClipLength": 71,
+            "voiceIdx": 2,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3023891200006324459
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8115999679688835416
+                }
+            ],
             "pathId": -5436969471188013045,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "A disappointing result…",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8034361539138062947
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4237561992994078223
+                }
+            ],
             "pathId": 5535761328469287889,
             "blockIdx": 5
         }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "NYZ4VXFTLMCQWNNNM22MU42S7AYLRCW3",
+    "version": 6,
+    "bundle": "HXUQWVWEY6FCGR7PMFCGXHASKQUDI3GF",
     "type": "story",
     "storyId": "501011719",
     "title": "ヘルプ！　テスト前パニック",
+    "enTitle": "Help! Pre-Test Panic",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニングを始めるため、\r\nグラスワンダーを教室まで迎えに来ると――",
-            "enText": "When I picked up Grass Wonder from her \nclassroom to begin her training…",
+            "enText": "I meet Grass Wonder at her classroom to<n>take her\nto training.",
             "nextBlock": 2,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -536267244386440153,
             "blockIdx": 1
         },
@@ -19,17 +22,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "あらあら……。\r\nすみません、わざわざ来ていただいて。",
-            "enText": "Oh my goodness.…… I'm sorry you had to come \nall the way here.",
+            "enText": "Oh my... Thank you for coming all this<n>way.",
             "nextBlock": 3,
             "origClipLength": 62,
+            "voiceIdx": 30,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 92,
-                    "pathId": 4927152059114952389
+                    "pathId": 3529378585636858431
                 },
                 {
                     "origLen": 92,
-                    "pathId": 3529378585636858431
+                    "pathId": 4927152059114952389
                 }
             ],
             "pathId": 5126009813139104463,
@@ -39,18 +44,20 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ですが、本日のトレーニングはお休み\r\nさせていただいてもよろしいでしょうか……？",
-            "enText": "However, may I take a break \nfrom today's training? ……",
+            "enText": "But may I ask to be excused from<n>training for\ntoday?",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": 24,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "具合でも悪いのか？",
-                    "enText": "What's wrong with you?",
+                    "enText": "Are you feeling under the weather?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "具合でも悪いの？",
-                    "enText": "Are you sick?",
+                    "enText": "Are you feeling under the weather?",
                     "nextBlock": 4
                 }
             ],
@@ -60,12 +67,12 @@
                     "pathId": 4313366333979195825
                 },
                 {
-                    "origLen": 43,
-                    "pathId": 4038610209258662236
-                },
-                {
                     "origLen": 82,
                     "pathId": 2708602147459423699
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4038610209258662236
                 }
             ],
             "pathId": -2125837436594903744,
@@ -75,21 +82,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "いえ、そういうわけでは……。\r\n私はいたって健康なのですが――",
-            "enText": "No, that's not why I'm here…… \nI'm quite healthy, but―",
+            "enText": "Well, no. I'm perfectly healthy, it's just—",
             "nextBlock": 5,
             "origClipLength": 65,
+            "voiceIdx": 50,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -3569803178639389127
                 },
                 {
-                    "origLen": 111,
-                    "pathId": 8975076075665704658
-                },
-                {
                     "origLen": 76,
                     "pathId": -3110679072140716142
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 8975076075665704658
                 }
             ],
             "pathId": 39714069161391083,
@@ -97,19 +106,21 @@
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ねえねえグラスちゃ～ん！\r\nこの『ことしげし』って、どういう意味～？",
-            "enText": "Hey, hey, hey, Glass-chan! What does this \n\"Kotoshigeshi\" mean?",
+            "enText": "Hey! Hey, Grass! Can you help me figure<n>out what\nthis Classical Japanese poem<n>means?",
             "nextBlock": 6,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 654993652560605489
-                },
                 {
                     "origLen": 78,
                     "pathId": -5525459808878594934
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 654993652560605489
                 }
             ],
             "pathId": 2626263373620791280,
@@ -117,19 +128,21 @@
         },
         {
             "jpName": "ウマ娘B",
-            "enName": "Horsegirl B",
+            "enName": "Umamusume B",
             "jpText": "あっ、ずるい！\r\n私が先に英語の質問しようと思ってたのに！",
-            "enText": "Oh, that's not fair! I was going to ask you \nan English question first!",
+            "enText": "Ah! No fair! I was gonna ask her an<n>English\nquestion!",
             "nextBlock": 7,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -1801604201972626882
+                    "pathId": -6369306412206978346
                 },
                 {
                     "origLen": 74,
-                    "pathId": -6369306412206978346
+                    "pathId": -1801604201972626882
                 }
             ],
             "pathId": 8881729299156121249,
@@ -139,9 +152,11 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "は～い、今すぐに伺います～。",
-            "enText": "Yes～ Yes, I will come to you right now!",
+            "enText": "Just a moment. I'll be right there.",
             "nextBlock": 8,
             "origClipLength": 54,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 62,
@@ -149,11 +164,11 @@
                 },
                 {
                     "origLen": 65,
-                    "pathId": 916727196842225416
+                    "pathId": 7324359940460911571
                 },
                 {
                     "origLen": 65,
-                    "pathId": 7324359940460911571
+                    "pathId": 916727196842225416
                 }
             ],
             "pathId": 6465145300802684056,
@@ -163,21 +178,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……ごめんなさい、トレーナーさん。\r\nそういうわけでして。",
-            "enText": "…… sorry, trainer. That's why.",
+            "enText": "I'm sorry, Trainer. But you can see how<n>I'm\nneeded.",
             "nextBlock": 9,
             "origClipLength": 63,
+            "voiceIdx": 24,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 5370193410884454756
                 },
                 {
-                    "origLen": 65,
-                    "pathId": -6601708778999273123
-                },
-                {
                     "origLen": 74,
                     "pathId": 6735860950629253110
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -6601708778999273123
                 }
             ],
             "pathId": -4774053554430044837,
@@ -187,22 +204,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして、グラスワンダーは申し訳なさそうに\r\n立ち去っていってしまったのだった。",
-            "enText": "Grass Wonder then apologetically walked away.",
+            "enText": "Grass Wonder gives an apologetic bow<n>before\ngoing back inside the classroom.",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -7290817621848881980
+                    "pathId": -8401767170292403338
                 },
                 {
                     "origLen": 102,
-                    "pathId": -8401767170292403338
+                    "pathId": -7290817621848881980
                 }
             ],
             "pathId": 7328494302880856145,
             "blockIdx": 9
         }
-    ],
-    "modified": 1657555055
+    ]
 }

@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "OVP6OJLYUVLBADX3I6QU2BEUPXC4T4PH",
+    "version": 6,
+    "bundle": "H6NYEWPXSKPNWAOEE7BW2XGNFSYIN3UV",
     "type": "story",
     "storyId": "501011710",
     "title": "レース敗北",
+    "enTitle": "Defeat",
     "text": [
         {
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……負けて、しまいましたね。",
-            "enText": "…… We lost, and we lost.",
+            "enText": "...I've lost.",
             "nextBlock": 2,
             "origClipLength": 54,
+            "voiceIdx": 66,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 65,
-                    "pathId": 4129970826185021607
+                    "pathId": -7084230159112324336
                 },
                 {
                     "origLen": 65,
-                    "pathId": -7084230159112324336
+                    "pathId": 4129970826185021607
                 }
             ],
             "pathId": 2350825705051635195,
@@ -29,17 +32,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "しかしこの敗北が、\r\n次のレースの糧となるはずです。",
-            "enText": "However, this defeat should serve as food for \nthought for the next race.",
+            "enText": "However, this failure gave me valuable<n>hints for\nthe next race.",
             "nextBlock": 3,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": -6832427312683531107
-                },
                 {
                     "origLen": 72,
                     "pathId": -5426768276568006943
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -6832427312683531107
                 }
             ],
             "pathId": 5652990084698340837,
@@ -49,34 +54,36 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "『思い立ったが吉日』。\r\nすぐにでも今回の反省点を洗い出しましょう。",
-            "enText": "The day you think of it is the day you get \nit. Let's immediately identify what we need \nto reflect on this time.",
+            "enText": "There's no time like the present. We<n>should go\nevaluate today's race at once.",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": 37,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "今日はいったん休もう",
-                    "enText": "Let's take a break today.",
+                    "enText": "You should rest for today, okay?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "帰り道で反省会だ",
-                    "enText": "On the way home, we'll have a reminder.",
+                    "enText": "We can talk on the way back.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "帰り道で反省会だね",
-                    "enText": "I guess I'll have to reflect \non that on the way home.",
+                    "enText": "We can talk on the way back.",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": -8758700181839570878
-                },
-                {
                     "origLen": 78,
                     "pathId": -8489935519815165340
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8758700181839570878
                 }
             ],
             "pathId": -788627460782296875,
@@ -86,34 +93,36 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "『思い立ったが吉日』。\r\nすぐにでも今回の反省点を洗い出しましょう。",
-            "enText": "The day you think of it is the day you get \nit. Let's immediately identify what we need \nto reflect on this time.",
+            "enText": "There's no time like the present. We<n>should go\nevaluate today's race at once.",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": 37,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "今日はいったん休もう",
-                    "enText": "Let's take a break today.",
+                    "enText": "You should rest for today, okay?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "帰り道で反省会だ",
-                    "enText": "On the way home, we'll have a reminder.",
+                    "enText": "We can talk on the way back.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "帰り道で反省会だね",
-                    "enText": "I guess I'll have to reflect \non that on the way home.",
+                    "enText": "We can talk on the way back.",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": 3866562807756272229
-                },
-                {
                     "origLen": 78,
                     "pathId": -8353829619888146337
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 3866562807756272229
                 }
             ],
             "pathId": 5223292804964419146,
@@ -123,29 +132,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……どうしてですか？\r\n私は早いうちに――",
-            "enText": "……Why? I was an early―",
+            "enText": "May I ask why? The race is still fresh in<n>my mind...",
             "nextBlock": 6,
             "origClipLength": 58,
+            "voiceIdx": 54,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "明日じっくり反省会だ",
-                    "enText": "We'll have a long and thorough \nreview tomorrow.",
+                    "enText": "We'll have plenty of time to talk about it\ntomorrow.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "明日じっくり反省会ね",
-                    "enText": "We'll have a long talk tomorrow.",
+                    "enText": "We'll have plenty of time to talk about it\ntomorrow.",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 27,
-                    "pathId": 6802105391612048010
-                },
-                {
                     "origLen": 69,
                     "pathId": 773900784524064584
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6802105391612048010
                 }
             ],
             "pathId": -1960086385551804847,
@@ -155,17 +166,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "――じっくり、ですね？\r\nお互いの意見が尽きて、納得がいくまで。",
-            "enText": "―take your time, right? Until we both run out \nof opinions and are satisfied.",
+            "enText": "Plenty of time, you say? So then, we can<n>discuss\nour views until we're both<n>satisfied?",
             "nextBlock": 7,
             "origClipLength": 65,
+            "voiceIdx": 47,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 4158019957288949728
-                },
                 {
                     "origLen": 76,
                     "pathId": -3022612138979698104
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4158019957288949728
                 }
             ],
             "pathId": 3225219053253940160,
@@ -175,21 +188,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "わかりました。それでは一旦帰って、\r\nとことん自分を見つめ直すことにいたします。",
-            "enText": "I understand. I will go home and take a \nthorough look at myself.",
+            "enText": "Very well. I'll go home and write down<n>all my\nthoughts in preparation for<n>tomorrow.",
             "nextBlock": 8,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 5632947168590465280
                 },
                 {
-                    "origLen": 83,
-                    "pathId": -6425987630664498319
-                },
-                {
                     "origLen": 82,
                     "pathId": -4921533248344824347
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -6425987630664498319
                 }
             ],
             "pathId": 4101045891998743292,
@@ -199,17 +214,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "翌日、グラスワンダーと\r\n密度の濃い反省会を行ったのだった。",
-            "enText": "The next day, Grass Wonder and I had an \nintense review meeting.",
+            "enText": "The following day, Grass Wonder and I<n>have a\ndeep and thorough discussion<n>about the ill-fated\nrace.",
             "nextBlock": -1,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
-                    "origLen": 24,
-                    "pathId": -5606327626200864536
+                    "origLen": 13,
+                    "pathId": 9046275815951250865
                 },
                 {
-                    "origLen": 24,
-                    "pathId": 9046275815951250865
+                    "origLen": 13,
+                    "pathId": -5606327626200864536
                 }
             ],
             "pathId": 6435998056298224698,
@@ -219,17 +236,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "――ええ。\r\nこの悔しさが、風化しないうちに。",
-            "enText": "―Yes. Before this frustration fades.",
+            "enText": "Yes, before this sensation begins to<n>fade...",
             "nextBlock": 10,
             "origClipLength": 60,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 5515899870292521628
-                },
                 {
                     "origLen": 71,
                     "pathId": 2900461265547177218
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 5515899870292521628
                 }
             ],
             "pathId": 3845807789337000265,
@@ -239,22 +258,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "今の実力は見えました。\r\nあとは迅速に、この不足を埋めるのみです。",
-            "enText": "We have seen what we are capable \nof now. Now we just need to be quick \nand fill this deficiency.",
+            "enText": "I can see clearly where my abilities<n>stand. I must\nmove quickly to amend my<n>shortcomings.",
             "nextBlock": -1,
             "origClipLength": 66,
+            "voiceIdx": 71,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 1281520498211483816
-                },
                 {
                     "origLen": 77,
                     "pathId": 667705040631769235
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 1281520498211483816
                 }
             ],
             "pathId": 8328457755815414658,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555055
+    ]
 }

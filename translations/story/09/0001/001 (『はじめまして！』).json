@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "WQTIY3Q7SRWPJZRYWOYC7IJKAIM5WPBB",
+    "version": 6,
+    "bundle": "7BFC2VQ7D7RCOG3WXWZYDEJBHBIUYN6O",
     "type": "story",
     "storyId": "090001001",
     "title": "『はじめまして！』",
+    "enTitle": "Nice to Meet You!",
     "text": [
         {
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "つ……着いちゃった。\r\nとうとう、着いちゃった……！",
-            "enText": "I've finally arrived at ……! At last, we're at ……!",
+            "enText": "Ah... I made it. I finally arrived!",
             "nextBlock": 2,
             "origClipLength": 175,
+            "voiceIdx": 0,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 237,
@@ -25,17 +28,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ここが……東京……！",
-            "enText": "Here's…… Tokyo ……!",
+            "enText": "I'm in... Tokyo!",
             "nextBlock": 3,
             "origClipLength": 105,
+            "voiceIdx": 1,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -959325831836521527
-                },
                 {
                     "origLen": 67,
                     "pathId": 6409705827171403211
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -959325831836521527
                 }
             ],
             "pathId": 7806464005825968022,
@@ -45,17 +50,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "……って、いけない！　ボーっとしてる場合じゃないんだった！\r\nえっと、空港に着いたら、まずは……！",
-            "enText": "I shouldn't have ……! I shouldn't be in a daze! Let's see, when I \nget to the airport, I'm going to go to…… first!",
+            "enText": "...Wait, stay on track! This isn't the time for<n>dawdling! Let's see... now\nthat I'm at the<n>airport, I have to...",
             "nextBlock": 4,
             "origClipLength": 208,
+            "voiceIdx": 2,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 3258036837221377786
-                },
                 {
                     "origLen": 79,
                     "pathId": 2111935248435679889
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3258036837221377786
                 },
                 {
                     "origLen": 36,
@@ -69,17 +76,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あのっ、すみません！！\r\n道を聞きたいんですが、大丈夫ですか！？",
-            "enText": "Um, excuse me! I need to ask for directions, is that okay!",
+            "enText": "Um, excuse me? Could you help me<n>please? I need some directions.",
             "nextBlock": 5,
             "origClipLength": 129,
+            "voiceIdx": 3,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -5220425991074399386
-                },
                 {
                     "origLen": 250,
                     "pathId": -1344837209073124045
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5220425991074399386
                 }
             ],
             "pathId": 2652717120846525270,
@@ -87,19 +96,21 @@
         },
         {
             "jpName": "空港係員",
-            "enName": "",
+            "enName": "Airport Staff",
             "jpText": "はい、目的地はどちらでしょう？",
-            "enText": "Yes, which is your destination?",
+            "enText": "Yes, of course! Where are you trying to<n>go?",
             "nextBlock": 6,
             "origClipLength": 88,
+            "voiceIdx": 4,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 107,
-                    "pathId": 4670527072324509933
-                },
                 {
                     "origLen": 250,
                     "pathId": 885026822529655844
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 4670527072324509933
                 }
             ],
             "pathId": -8250571588467719539,
@@ -109,49 +120,33 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "『日本ウマ娘トレーニングセンター学園』まで、お願いします！！",
-            "enText": "To \"Japan Uma Musume Training Center Academy\", please!",
+            "enText": "I'm trying to get to the Japan Umamusume<n>Training Center Academy,\nplease!",
             "nextBlock": 7,
             "origClipLength": 136,
+            "voiceIdx": 5,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 3893615119345470638
-                },
                 {
                     "origLen": 203,
                     "pathId": 8018431873794141392
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 3893615119345470638
                 }
             ],
             "pathId": 2042286435898328404,
             "blockIdx": 6
         },
         {
-            "jpName": "",
-            "enName": "",
-            "jpText": "タイトルコール",
-            "enText": "",
-            "nextBlock": 8,
-            "origClipLength": 129,
-            "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": 3150010699492345179
-                },
-                {
-                    "origLen": 25,
-                    "pathId": -321730802678142591
-                }
-            ],
-            "pathId": -2001904047461487303,
-            "blockIdx": 7
-        },
-        {
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "レースの世界を目指す子たちにとって1番の憧れ――\r\n『日本最高峰のウマ娘養成機関』トレセン学園。",
-            "enText": "The most coveted dream for children who aspire \nto the world of racing - \"Japan's top Uma Musume \ntraining institute,\" Tracen Academy.",
+            "enText": "Tracen Academy: Japan's best training<n>institution for Umamusume\nwho aspire to<n>enter the racing world.",
             "nextBlock": 9,
             "origClipLength": 276,
+            "voiceIdx": 6,
+            "voiceSheetId": "090001001",
             "pathId": -1989200814042766582,
             "blockIdx": 8
         },
@@ -159,9 +154,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "私だって、ずっと小さな頃からテレビで見てきた。\r\nトレセン学園のウマ娘さんたちが、ターフの上で輝くところ……。",
-            "enText": "Even I have been watching them on TV since I was much younger. \nWhere the Uma Musume of Tracen Academy shine on the turf. ……",
+            "enText": "I've always admired the Tracen Academy<n>racers. Ever since I was little,\nI've watched<n>them light up the track on TV...",
             "nextBlock": 10,
             "origClipLength": 284,
+            "voiceIdx": 7,
+            "voiceSheetId": "090001001",
             "pathId": -6321212465129766267,
             "blockIdx": 9
         },
@@ -169,9 +166,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "みんな、みんな……立派で、キラキラしてて。\r\nすごいなぁって、いっぱい憧れた……！",
-            "enText": "They were all so…… splendid and sparkling. I admired them a lot, \nI thought they were amazing. ……!",
+            "enText": "Each and every one of them was so special!<n>They really sparkled! I\nalways wanted to<n>be just like them!",
             "nextBlock": 11,
             "origClipLength": 247,
+            "voiceIdx": 8,
+            "voiceSheetId": "090001001",
             "pathId": 6746127057599714803,
             "blockIdx": 10
         },
@@ -179,17 +178,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（転入試験、受かったって聞いた時はびっくりして、\r\nお母ちゃんとほっぺた引っ張り合っちゃったけど！）",
-            "enText": "(I was so surprised when I heard I passed the transfer test that \nI was pulling each other's cheeks with my mom!)",
+            "enText": "(So I couldn't believe it when I passed the<n>school entrance exam.\nMom and I had to<n>pinch each other to make sure we weren't<n>\ndreaming!)",
             "nextBlock": 12,
             "origClipLength": 216,
+            "voiceIdx": 9,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 267,
-                    "pathId": -6943532031998481967
-                },
                 {
                     "origLen": 20,
                     "pathId": 7884327121597373344
+                },
+                {
+                    "origLen": 267,
+                    "pathId": -6943532031998481967
                 }
             ],
             "pathId": -2985010541927730428,
@@ -199,17 +200,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（夢じゃない……ううん、夢をほんとにするために、\r\n私、これから走るんだ……！）",
-            "enText": "(It's not a dream …… no, I'm going to \nrun now to make my dream true ……!)",
+            "enText": "(But this is no dream. No, I'm here to make<n>my dreams come true!\nThat's why... I have<n>to run!)",
             "nextBlock": 13,
             "origClipLength": 253,
+            "voiceIdx": 10,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 1009223389900333167
-                },
                 {
                     "origLen": 21,
                     "pathId": -5139146394247254049
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1009223389900333167
                 }
             ],
             "pathId": 5899659760842161199,
@@ -219,17 +222,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "――着いたっ！　学園最寄り駅……！　お母ちゃんからは、\r\nここで学園までの道をしっかり聞きなさいって言われたけど……。",
-            "enText": "―We're here! The closest station to the school: ……! My mom told \nme to ask for directions to the school here ……",
+            "enText": "I'm here! This is the station closest to the<n>academy! Mom told me to\nmake sure to<n>ask someone for directions, but...",
             "nextBlock": 14,
             "origClipLength": 281,
+            "voiceIdx": 11,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 235,
-                    "pathId": 8482797750699910654
-                },
                 {
                     "origLen": 143,
                     "pathId": 4568749781811825426
+                },
+                {
+                    "origLen": 235,
+                    "pathId": 8482797750699910654
                 }
             ],
             "pathId": -8672520596775637092,
@@ -239,17 +244,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "……ううん！　地図もちゃーんとあるんだし、大丈夫だよね！\r\nだって――",
-            "enText": "…… Nope! I've got a map and everything! Because―",
+            "enText": "...Nah! I have a map, after all. I can just use<n>this and I'll be fine! After\nall...",
             "nextBlock": 15,
             "origClipLength": 175,
+            "voiceIdx": 12,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": 500233675000144041
-                },
                 {
                     "origLen": 20,
                     "pathId": 6008259400323305562
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 500233675000144041
                 }
             ],
             "pathId": 616600147394837086,
@@ -259,9 +266,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "私も、今日から『トレセン学園生』なんだし！！",
-            "enText": "And I'm a 'tradesman school student' starting today!",
+            "enText": "From today on, I'm a student of Tracen<n>Academy!",
             "nextBlock": 16,
             "origClipLength": 110,
+            "voiceIdx": 13,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 60,
@@ -275,17 +284,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "……って調子乗ってた私のバカバカバカ、バカぁ～！！",
-            "enText": "I was on a roll with …… my silly, silly, silly!!!!",
+            "enText": "...A student with no sense of direction!<n>Dummy, dummy, dummy,\ndummyyy!",
             "nextBlock": 17,
             "origClipLength": 174,
+            "voiceIdx": 14,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 512166077789900959
-                },
                 {
                     "origLen": 87,
                     "pathId": 1613581798001259146
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 512166077789900959
                 }
             ],
             "pathId": 9003574111659823851,
@@ -295,17 +306,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ここ、どこだべぇ～！",
-            "enText": "Where am I?",
+            "enText": "Where in blazes am I?!",
             "nextBlock": 18,
             "origClipLength": 91,
+            "voiceIdx": 15,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": 2247187960511637808
-                },
                 {
                     "origLen": 130,
                     "pathId": -848525174286085018
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2247187960511637808
                 },
                 {
                     "origLen": 52,
@@ -319,17 +332,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "うぅ……日が傾いてきちゃったし、お腹も空いたし……\r\n私、このまま遭難しちゃうのかなぁ……！？　お母ちゃぁ～ん……！",
-            "enText": "Ugh…… the sun is starting to set and I'm hungry…… I wonder if I'm \ngoing to get lost……! Oh mom!!!……!",
+            "enText": "Uh-oh... The sun's getting low... and I'm<n>hungry too. Am I on a\none-way road to<n>disaster? Mooooom!",
             "nextBlock": 19,
             "origClipLength": 390,
+            "voiceIdx": 16,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": 7684540993440084499
-                },
                 {
                     "origLen": 93,
                     "pathId": 7094049299290673327
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 7684540993440084499
                 }
             ],
             "pathId": 3414754778907166125,
@@ -339,17 +354,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ザッ――……！！）",
-            "enText": "(Zach―……!!!)",
+            "enText": "<i>Whoosh...</i>",
             "nextBlock": 20,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 85,
-                    "pathId": 7710526566652401387
-                },
                 {
                     "origLen": 52,
                     "pathId": -7276979781215104827
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 7710526566652401387
                 }
             ],
             "pathId": -8515288745640259902,
@@ -359,9 +376,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "っ、……へ？　風……？",
-            "enText": "っ……へ? Wind ……?",
+            "enText": "Huh? Was that the wind?",
             "nextBlock": 21,
             "origClipLength": 95,
+            "voiceIdx": 17,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 127,
@@ -375,17 +394,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（――じゃ、ない！　今のって……！！）",
-            "enText": "(Not―no! That was ……!!!)",
+            "enText": "(Not a chance! That was totally...)",
             "nextBlock": 22,
             "origClipLength": 81,
+            "voiceIdx": 18,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 165,
-                    "pathId": -3803256788250491296
-                },
                 {
                     "origLen": 251,
                     "pathId": 6191982663652705868
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -3803256788250491296
                 }
             ],
             "pathId": -6833962592398653649,
@@ -395,17 +416,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "耳と、尻尾……私とおんなじ――！",
-            "enText": "Ears, and a tail…… just like mine―!",
+            "enText": "Those ears, that tail... They're just like<n>mine!",
             "nextBlock": 23,
             "origClipLength": 142,
+            "voiceIdx": 19,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 2049216238137617859
-                },
                 {
                     "origLen": 251,
                     "pathId": 1653287063866544875
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2049216238137617859
                 }
             ],
             "pathId": -5653738836484224572,
@@ -415,25 +438,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……？",
-            "enText": "……?",
+            "enText": "...?",
             "nextBlock": 24,
             "origClipLength": 31,
+            "voiceIdx": 20,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 11,
-                    "pathId": -8125488185408812869
-                },
                 {
                     "origLen": 11,
                     "pathId": 3475906816819465106
                 },
                 {
-                    "origLen": 99,
-                    "pathId": -4340775701125827838
+                    "origLen": 11,
+                    "pathId": -8125488185408812869
                 },
                 {
                     "origLen": 54,
                     "pathId": 3866455875597416401
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4340775701125827838
                 }
             ],
             "pathId": 7164718638884053271,
@@ -443,17 +468,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "うわぁ、うわぁ、うわぁあああああっ！\r\nほんとに、ほんとにほんとにっ――",
-            "enText": "Oh, oh, oh, oh, oh! Really, really, really, really―",
+            "enText": "Whooooa! No way, omigosh! You're<n>actually, like really, actually...",
             "nextBlock": 25,
             "origClipLength": 188,
+            "voiceIdx": 21,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": -906582209352927194
-                },
                 {
                     "origLen": 170,
                     "pathId": -312225918632316132
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -906582209352927194
                 }
             ],
             "pathId": -1730040465188675052,
@@ -463,17 +490,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ウマ娘さん、ですよねっ！？",
-            "enText": "Uma Musume, right!",
+            "enText": "...an Umamusume, aren't you?!",
             "nextBlock": 26,
             "origClipLength": 72,
+            "voiceIdx": 22,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 188378073641326687
-                },
                 {
                     "origLen": 57,
                     "pathId": -4427815279056246920
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 188378073641326687
                 }
             ],
             "pathId": 1868516654839835588,
@@ -483,9 +512,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "えっ……？　え、ええ……。\r\nあの、何か……？",
-            "enText": "What, ……? Yeah, yeah…… Um, what's ……?",
+            "enText": "H-huh? I-I am, but... do you need<n>something?",
             "nextBlock": 27,
             "origClipLength": 157,
+            "voiceIdx": 23,
+            "voiceSheetId": "090001001",
             "pathId": 4984727124340025981,
             "blockIdx": 26
         },
@@ -493,9 +524,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "いえっ！　ただ、直接見るの、初めてなので……！！",
-            "enText": "YEAH!!! Just seeing it in person, for the first time, at ……!!!!",
+            "enText": "No! I mean, this is just my first time seeing<n>one in person like this!",
             "nextBlock": 28,
             "origClipLength": 124,
+            "voiceIdx": 24,
+            "voiceSheetId": "090001001",
             "pathId": 3361831915790181190,
             "blockIdx": 27
         },
@@ -503,9 +536,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（うわぁ、うわぁぁぁ～……私と同じウマ娘さん、だけど全然違う！\r\n尻尾の毛並みが夕陽にキラキラ光って……きれ～……！）",
-            "enText": "(Wow, wow, wow～…… same Uma Musume as me, but totally different! \nThe fur on her tail glistens in the evening sun…… pretty～……!)",
+            "enText": "(Whoaaa, like... <i>Whoa!</i> This is crazy! She's<n>an Umamusume like me,\nyet so different!<n>Her tail sparkling in the setting sun is so<n>prettyyy!)",
             "nextBlock": 29,
             "origClipLength": 383,
+            "voiceIdx": 25,
+            "voiceSheetId": "090001001",
             "pathId": 1623618661696135839,
             "blockIdx": 28
         },
@@ -513,9 +548,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "…………えっと。",
-            "enText": "……… Let's see.",
+            "enText": "Ummm...",
             "nextBlock": 30,
             "origClipLength": 51,
+            "voiceIdx": 26,
+            "voiceSheetId": "090001001",
             "pathId": 597064969165566593,
             "blockIdx": 29
         },
@@ -523,9 +560,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "って、わわぁ！！　すすすすみませんっ、じろじろ見ちゃって！\r\nきれいだな～って思って、つい～……あははは……！！",
-            "enText": "Oh, wow! I didn't want to stare at it! I just thought it was so \nbeautiful～…… hahaha ……!",
+            "enText": "Aaah! S-s-sorry! I didn't mean to stare at<n>you like that! I was just so\namazed with<n>how pretty you are... Ahahaha!",
             "nextBlock": 31,
             "origClipLength": 248,
+            "voiceIdx": 27,
+            "voiceSheetId": "090001001",
             "pathId": 227728530472957879,
             "blockIdx": 30
         },
@@ -533,17 +572,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ん、あれっ？　よく見ると、その赤いジャージ……\r\nもしかして、トレセン学園の生徒さんですかっ！？",
-            "enText": "Hmmm, what is that? If you look closely, you can see that red \njersey…… Could it be that you are a student of Tracen Academy?",
+            "enText": "Oh, now that I take a closer look, that red<n>tracksuit of yours... Does\nthat mean you're<n>a student at Tracen Academy?",
             "nextBlock": 32,
             "origClipLength": 257,
+            "voiceIdx": 28,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": -4186375532013247441
-                },
                 {
                     "origLen": 20,
                     "pathId": 3405019252065057341
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4186375532013247441
                 },
                 {
                     "origLen": 172,
@@ -557,21 +598,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "え、ええ。でも、その制服……あなたも、ですよね？",
-            "enText": "Uh, yeah. But that uniform…… you, too, right?",
+            "enText": "Y-yes... And your uniform means... you're<n>one too, no?",
             "nextBlock": 33,
             "origClipLength": 205,
+            "voiceIdx": 29,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 288,
                     "pathId": 1627078575866575188
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 3739201170305656012
-                },
-                {
                     "origLen": 20,
                     "pathId": 2153057875694051643
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3739201170305656012
                 }
             ],
             "pathId": 2279168494071692176,
@@ -581,9 +624,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あっ、私は今日転入してきたばっかりなんです！！\r\nスペシャルウィークって言います、よろしくお願いします！！",
-            "enText": "Oh, I just transferred in today! My name \nis Special Week, nice to meet you!",
+            "enText": "Ah, I just transferred here today though!<n>I'm Special Week! Nice to\nmeet you!",
             "nextBlock": 34,
             "origClipLength": 227,
+            "voiceIdx": 30,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 40,
@@ -601,21 +646,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "そうなんですか……えっと、よろしくお願いします。\r\n私、サイレンススズカです。",
-            "enText": "I see.…… Well, thank you for your time. I am Silence Suzuka.",
+            "enText": "Is that right? ...Um, nice to meet you too.<n>I'm Silence Suzuka.",
             "nextBlock": 35,
             "origClipLength": 243,
+            "voiceIdx": 31,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 198,
                     "pathId": 8032190072619239952
                 },
                 {
-                    "origLen": 160,
-                    "pathId": -2936176386481450379
-                },
-                {
                     "origLen": 54,
                     "pathId": 7504287474152027132
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -2936176386481450379
                 }
             ],
             "pathId": -683276319172960542,
@@ -625,25 +672,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "スズカさん、ですね！　覚えましたっ。\r\nあの、それで……いっこ聞いてもいいですか……？",
-            "enText": "Suzuka-san, right! I remember. Um, so, can I ask you something ……?",
+            "enText": "Suzuka, huh? I won't forget! Anyway, um...<n>is it okay if I ask you\nsomething?",
             "nextBlock": 36,
             "origClipLength": 259,
+            "voiceIdx": 32,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 281338571188330918
-                },
                 {
                     "origLen": 20,
                     "pathId": 7332312109071320118
                 },
                 {
-                    "origLen": 374,
-                    "pathId": -5321419181339064594
+                    "origLen": 40,
+                    "pathId": 281338571188330918
                 },
                 {
                     "origLen": 271,
                     "pathId": 5214696761428049425
+                },
+                {
+                    "origLen": 374,
+                    "pathId": -5321419181339064594
                 }
             ],
             "pathId": 7496745724873858382,
@@ -653,21 +702,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はい……？",
-            "enText": "Yes ……?",
+            "enText": "...Yes?",
             "nextBlock": 37,
             "origClipLength": 32,
+            "voiceIdx": 33,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 132,
                     "pathId": -4975846302841066904
                 },
                 {
-                    "origLen": 327,
-                    "pathId": -2383983585561112664
-                },
-                {
                     "origLen": 49,
                     "pathId": 4014415607132302005
+                },
+                {
+                    "origLen": 327,
+                    "pathId": -2383983585561112664
                 }
             ],
             "pathId": 8863303831274843875,
@@ -677,25 +728,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "――学園っ！！　どっちにあるんでしょうか～！？",
-            "enText": "― School!!!! Which one is it～!",
+            "enText": "The Academy! Do you know how to get<n>there?",
             "nextBlock": 38,
             "origClipLength": 100,
+            "voiceIdx": 34,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 106,
-                    "pathId": -5402039739781156637
-                },
                 {
                     "origLen": 134,
                     "pathId": 7725608199391629466
                 },
                 {
-                    "origLen": 76,
-                    "pathId": 3362272310129567559
+                    "origLen": 106,
+                    "pathId": -5402039739781156637
                 },
                 {
                     "origLen": 20,
                     "pathId": -2823639439866620070
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3362272310129567559
                 },
                 {
                     "origLen": 30,
@@ -709,17 +762,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はっ、はっ……ふぅ。\r\nスペシャルウィーク、さん。あの、大丈夫ですか？",
-            "enText": "Ha, ha…… phew. Special Week, sir. Um, are you okay?",
+            "enText": "<i>Huff, huff...</i> Phew. Special Week, um... are<n>you okay?",
             "nextBlock": 39,
             "origClipLength": 285,
+            "voiceIdx": 35,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -9023189614836012603
+                    "pathId": 3556580999322304346
                 },
                 {
                     "origLen": 20,
-                    "pathId": 3556580999322304346
+                    "pathId": -9023189614836012603
                 },
                 {
                     "origLen": 137,
@@ -733,9 +788,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ひぃ、はぁ……ふわぁぁぁ～……。\r\nだ、大丈夫です……いえ、大丈夫っていうか――",
-            "enText": "Hiy, hah…… fluffy～…… It's okay, it's \nokay.…… No, it's not okay, it's just…",
+            "enText": "<i>Wheeze... Wheeze...</i> Wheeew... I-I'm okay!<n>I mean, I'm better than\nokay!",
             "nextBlock": 40,
             "origClipLength": 263,
+            "voiceIdx": 36,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 89,
@@ -753,25 +810,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "――楽しかったですっ！！　すっっっっごく！！",
-            "enText": "―I had so much fun! \nSoooooooooooooooooooooooooooooooooooooooooooooo much!",
+            "enText": "That was a lot of fun! Like, sooooo much<n>fun!",
             "nextBlock": 41,
             "origClipLength": 96,
+            "voiceIdx": 37,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 92,
-                    "pathId": -1800580264509856936
-                },
                 {
                     "origLen": 157,
                     "pathId": -6283113084839724380
                 },
                 {
-                    "origLen": 99,
-                    "pathId": -5727357090198062970
+                    "origLen": 92,
+                    "pathId": -1800580264509856936
                 },
                 {
                     "origLen": 89,
                     "pathId": 6238510464665999568
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5727357090198062970
                 }
             ],
             "pathId": 7235176469418658729,
@@ -781,25 +840,27 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "誰かと……ウマ娘さんと一緒にランニングなんて、\r\n初めてでしたから！",
-            "enText": "It was the first time I'd ever run with \nsomeone from…… and a horsegirl!",
+            "enText": "I've never run together with anyone<n>before, let alone another\nUmamusume!",
             "nextBlock": 42,
             "origClipLength": 167,
+            "voiceIdx": 38,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -5375405085553302920
-                },
                 {
                     "origLen": 89,
                     "pathId": 1255013066831345325
                 },
                 {
-                    "origLen": 211,
-                    "pathId": -508172353169355854
+                    "origLen": 45,
+                    "pathId": -5375405085553302920
                 },
                 {
                     "origLen": 205,
                     "pathId": 7891798140723645813
+                },
+                {
+                    "origLen": 211,
+                    "pathId": -508172353169355854
                 }
             ],
             "pathId": -4922168822798393550,
@@ -809,29 +870,31 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "たったった、っていう足音も、一緒に尻尾が揺れるのも……\r\nえへへっ、なんかいいですね！　すっごく、楽しかったです！！",
-            "enText": "The sound of their footsteps and the way their tails wagged \ntogether…… Hehehe, it's kind of nice! It was \nsoooooooooooooooooooooooooooooooooooooooooooooo much fun!",
+            "enText": "The tippy tap of our footsteps and our<n>tails swishing around\ntogether... Hahaha! It<n>was so great, you know? Like, seriously<n>fun!",
             "nextBlock": 43,
             "origClipLength": 301,
+            "voiceIdx": 39,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 6451564852449965676
-                },
                 {
                     "origLen": 20,
                     "pathId": 3796281265322788393
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 6451564852449965676
                 },
                 {
                     "origLen": 76,
                     "pathId": -1849334227856040141
                 },
                 {
-                    "origLen": 288,
-                    "pathId": -3962869744139357639
-                },
-                {
                     "origLen": 34,
                     "pathId": -6674741392836838366
+                },
+                {
+                    "origLen": 288,
+                    "pathId": -3962869744139357639
                 }
             ],
             "pathId": -1356767804188335240,
@@ -841,9 +904,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "そう、でしたか……？",
-            "enText": "Yes, was it ……?",
+            "enText": "You think so?",
             "nextBlock": 44,
             "origClipLength": 70,
+            "voiceIdx": 40,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 109,
@@ -861,21 +926,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ、ところで……着きました。\r\nここが、トレセン学園です。",
-            "enText": "Oh, by the way, we've arrived…… This is the Tressen School.",
+            "enText": "Um... By the way... we're here. This is<n>Tracen Academy.",
             "nextBlock": 45,
             "origClipLength": 180,
+            "voiceIdx": 41,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 89,
                     "pathId": 3444194244403237459
                 },
                 {
-                    "origLen": 53,
-                    "pathId": -3151127243062380414
-                },
-                {
                     "origLen": 103,
                     "pathId": -6557015546711162456
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -3151127243062380414
                 }
             ],
             "pathId": 8368523719981580515,
@@ -885,29 +952,31 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "えっ！？　あ、ここがっ！？",
-            "enText": "What? Oh, here it is!",
+            "enText": "Huh?! It's here?!",
             "nextBlock": 46,
             "origClipLength": 80,
+            "voiceIdx": 42,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 1961511145317670160
-                },
                 {
                     "origLen": 116,
                     "pathId": 8870622996113462966
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1961511145317670160
                 },
                 {
                     "origLen": 36,
                     "pathId": 8599935312219447721
                 },
                 {
-                    "origLen": 126,
-                    "pathId": -8937151495749428880
-                },
-                {
                     "origLen": 128,
                     "pathId": -7260162106940798376
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -8937151495749428880
                 }
             ],
             "pathId": 6516745621112255892,
@@ -917,25 +986,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "移動中……。",
-            "enText": "On the Move ……",
+            "enText": "Moving...",
             "nextBlock": 47,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": 7811903168801032890
-                },
                 {
                     "origLen": 19,
                     "pathId": 5221963189072786364
                 },
                 {
-                    "origLen": 18,
-                    "pathId": -3848073378189754849
+                    "origLen": 19,
+                    "pathId": 7811903168801032890
                 },
                 {
                     "origLen": 17,
                     "pathId": 5085193480313718797
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -3848073378189754849
                 }
             ],
             "pathId": 7129177778418795626,
@@ -945,9 +1016,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ここが……。",
-            "enText": "Here is ……",
+            "enText": "This is...",
             "nextBlock": 48,
             "origClipLength": 56,
+            "voiceIdx": 43,
+            "voiceSheetId": "090001001",
             "pathId": -5801032420286326971,
             "blockIdx": 47
         },
@@ -955,9 +1028,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "移動中……。",
-            "enText": "On the Move ……",
+            "enText": "Moving...",
             "nextBlock": 49,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 452963411021517104,
             "blockIdx": 48
         },
@@ -965,9 +1040,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "移動中……。",
-            "enText": "On the Move ……",
+            "enText": "Moving...",
             "nextBlock": 50,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5524908337874704316,
             "blockIdx": 49
         },
@@ -975,17 +1052,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "……………………で。",
-            "enText": "………………で.",
+            "enText": "It's...",
             "nextBlock": 51,
             "origClipLength": 31,
+            "voiceIdx": 44,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 100,
-                    "pathId": 1846311898380379002
-                },
                 {
                     "origLen": 87,
                     "pathId": -160955258021205168
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1846311898380379002
                 },
                 {
                     "origLen": 78,
@@ -999,17 +1078,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "でっか、すぎる、べ～…………。",
-            "enText": "Big, too much, be～…………",
+            "enText": "It's sooo huuuge... Ueeergh...",
             "nextBlock": 52,
             "origClipLength": 163,
+            "voiceIdx": 45,
+            "voiceSheetId": "090001001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -6986193169211283304
-                },
                 {
                     "origLen": 21,
                     "pathId": 2719019827186432050
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6986193169211283304
                 },
                 {
                     "origLen": 62,
@@ -1027,9 +1108,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "きゃっ！？　え……スペシャルウィークさん！？",
-            "enText": "Kya! What?…… Ms. Special Week!",
+            "enText": "Aah?! Uh... Special Week?!",
             "nextBlock": 53,
             "origClipLength": 115,
+            "voiceIdx": 46,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 145,
@@ -1040,12 +1123,12 @@
                     "pathId": -2894567180002517793
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 8587597517537796186
-                },
-                {
                     "origLen": 99,
                     "pathId": 5895784993752542925
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 8587597517537796186
                 }
             ],
             "pathId": -1453268613748075138,
@@ -1055,9 +1138,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（……こうして。私の、トレセン学園生活が幕を開けたのです！）",
-            "enText": "(……This is how. My life at Tollefsen Academy has begun!)",
+            "enText": "(And so the curtain rises on my new life at<n>Tracen Academy!)",
             "nextBlock": 54,
             "origClipLength": 159,
+            "voiceIdx": 47,
+            "voiceSheetId": "090001001",
             "animData": [
                 {
                     "origLen": 20,
@@ -1069,11 +1154,11 @@
                 },
                 {
                     "origLen": 20,
-                    "pathId": 2615418571301601920
+                    "pathId": -2901065049413300798
                 },
                 {
                     "origLen": 20,
-                    "pathId": -2901065049413300798
+                    "pathId": 2615418571301601920
                 }
             ],
             "pathId": 4657234647913942635,
@@ -1083,9 +1168,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "スペシャルウィークさーんっ……！？\r\nあのっ、目を、目を開けてくださーいっ……！",
-            "enText": "Special Week! ……! Um, please open your \neyes, please open your eyes ……!",
+            "enText": "Hey, Special Week?! Um... Please, w-wake<n>up!",
             "nextBlock": 55,
             "origClipLength": 210,
+            "voiceIdx": 48,
+            "voiceSheetId": "090001001",
             "pathId": 5148763835693979783,
             "blockIdx": 54
         },
@@ -1093,12 +1180,13 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "（……目は、開けられませんでしたが！）",
-            "enText": "(…… eyes couldn't open!)",
+            "enText": "(...Though I can't even rise to my feet!)",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": 49,
+            "voiceSheetId": "090001001",
             "pathId": 4397699000835387501,
             "blockIdx": 55
         }
-    ],
-    "modified": 1657285564
+    ]
 }

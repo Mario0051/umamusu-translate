@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "FGH35J6P7N74M7STKTBFFVLW6TD5SSSF",
+    "version": 6,
+    "bundle": "QWOX675Y3VPAW75SO4A2KB3H2YUII5UG",
     "type": "story",
     "storyId": "501045601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "前回は残念な結果となってしまいましたが、\r\n今回は違いますよ～。",
-            "enText": "Last time was a disappointment, \nbut this time is different!",
+            "enText": "The results last time could've been<n>better, but\nthis time will be different!",
             "nextBlock": 2,
             "origClipLength": 86,
+            "voiceIdx": 5,
+            "voiceSheetId": "051045001",
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": 602281948349593857
+                    "pathId": -2583621831271475638
                 },
                 {
                     "origLen": 97,
-                    "pathId": -2583621831271475638
+                    "pathId": 602281948349593857
                 }
             ],
             "pathId": 5657058682670024213,
@@ -29,17 +32,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "トレーナーさんの努力に報いる\r\n走りをしますから、見ていてくださいね。",
-            "enText": "I will reward the trainer's efforts with a \nrun, so please keep an eye on me.",
+            "enText": "I promise I'll repay all of the hard work<n>you've put\nin, so be sure to watch me<n>run today, okay?",
             "nextBlock": 3,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -4436431049109009532
-                },
                 {
                     "origLen": 101,
                     "pathId": -5550936228203394824
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4436431049109009532
                 }
             ],
             "pathId": -846905764678705121,
@@ -49,9 +54,11 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "そして必ず、トレーナーさんを笑顔で\r\nいっぱいにしてみせます。",
-            "enText": "And I will surely make the trainer smile.",
+            "enText": "I'll make sure to put a huge smile on<n>your face.",
             "nextBlock": 4,
             "origClipLength": 85,
+            "voiceIdx": 11,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "ゴールで待ってるぞ！",
@@ -66,12 +73,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 68,
-                    "pathId": 1715021901986285290
-                },
-                {
                     "origLen": 96,
                     "pathId": 4738246054356657968
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1715021901986285290
                 }
             ],
             "pathId": 5638815973784075216,
@@ -81,22 +88,23 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "はい。すぐに帰ってきますね。\r\nキラキラの笑顔で、お出迎えしてください♪",
-            "enText": "Yes, sir. I'll be back soon. Please greet me \nwith a sparkling smile. ♪",
+            "enText": "Right! I'll be back in no time! Be sure to<n>greet me\nwith your sparkling smile! ♪",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": 47,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": -7473853543576458347
-                },
                 {
                     "origLen": 102,
                     "pathId": -1270355839244245759
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -7473853543576458347
                 }
             ],
             "pathId": -5462651777919828935,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555060
+    ]
 }

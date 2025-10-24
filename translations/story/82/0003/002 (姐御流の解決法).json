@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "LN7JWSD5TZF4KGDTQSXGWLITSWW3UDRM",
+    "version": 6,
+    "bundle": "D2BJQBRCQA6A5F2K5STW5HCQJAMY4MAR",
     "type": "story",
     "storyId": "820003002",
     "title": "姐御流の解決法",
+    "enTitle": "A Hishiama Solution",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "あるレースの当日。観戦に来たところ、\r\nコースがなにやら騒がしい。",
-            "enText": "It's the day of a race. When I came \nto watch the race, there was a lot \nof noise on the track.",
+            "enText": "There's a race today. I go to watch, and<n>see that\nthere's some commotion on the<n>track.",
             "nextBlock": 2,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5166675392406625132,
             "blockIdx": 1
         },
@@ -18,8 +22,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "出走者であるヒシアマゾンとウマ娘が\r\n何かを話しているようだ……。",
-            "enText": "The runners, Hishi Amazon and Uma Musume, \nare talking about something…",
+            "enText": "Hishi Amazon and another runner are<n>talking\nabout something...",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -7984262941123934367
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 625632363437514429
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -4426342265703493222
+                }
+            ],
             "pathId": -5127577576120611865,
             "blockIdx": 2
         },
@@ -27,18 +48,35 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "よし、アタシとアンタのタイマン勝負だな！\r\n全力でぶつかってこい！",
-            "enText": "Okay, it's you and me against each other! \nCome at me with everything you've got!",
+            "enText": "It's just you and me! I'm not gonna go<n>easy on\nyou!",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "voiceIdx": 5,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "何してるんだ？",
-                    "enText": "What are you doing?",
+                    "enText": "What's going on?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "何してるの？",
-                    "enText": "What are you doing?",
+                    "enText": "What's going on?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -4794001353826816582
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -2389864063365043183
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -5828631809995522264
                 }
             ],
             "pathId": 8252313057842730720,
@@ -48,8 +86,25 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "あぁ。\r\n最近こいつ、スランプらしくてさ。",
-            "enText": "Yeah. She's been in a bit of a slump lately.",
+            "enText": "Hey. Well, it seems like she's been in a<n>slump\nrecently.",
             "nextBlock": 5,
+            "origClipLength": 72,
+            "voiceIdx": 47,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1549935587066034670
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 52520996017541781
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 8980290808196958367
+                }
+            ],
             "pathId": 4279296438560408634,
             "blockIdx": 4
         },
@@ -57,8 +112,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "『とにかくアタシをぶっ倒すことだけ考えて\r\n走れ』って言ってやったんだ。",
-            "enText": "I said to her, 'Just run and \nthink about beating me.",
+            "enText": "I told her she should just think about<n>beating me.",
             "nextBlock": 6,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3289197880851918720
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -4659588670109085523
+                }
+            ],
             "pathId": 8470707502835987479,
             "blockIdx": 5
         },
@@ -66,17 +134,47 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ま、ヒシアマ姐さんが負けるはずないけどな！\r\n気が向いたら応援頼むよ。んじゃ！",
-            "enText": "Well, Miss Hishiama can't lose! Cheer me up \nif you feel like it. Bye!",
+            "enText": "It's not like I'm gonna lose, though!<n>Throw a few\ncheers our way if ya feel<n>like it. See ya!",
             "nextBlock": 7,
+            "origClipLength": 95,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 3505332969509253274
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4112565294122081673
+                }
+            ],
             "pathId": 7068384736233547102,
             "blockIdx": 6
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "……ヒシアマ姐さん！\r\nあたし、負けませんからね！",
-            "enText": "… Miss Hishiama! I'm not \ngoing to let you down!",
+            "enText": "...Hishiama! I'm definitely going to win!",
             "nextBlock": 8,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 8796547899849739578
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 4692864452332943678
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8366747074361026194
+                }
+            ],
             "pathId": -5736650800669138092,
             "blockIdx": 7
         },
@@ -84,17 +182,47 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "いい目をするねぇ！\r\nよし、いっちょガチンコ勝負といこうか！",
-            "enText": "You've got a good eye! Okay, \nlet's go for it!",
+            "enText": "That's the right attitude! All right, we're<n>going to\ndo this for real!",
             "nextBlock": 9,
+            "origClipLength": 84,
+            "voiceIdx": 11,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 8657809496209430263
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8690644291727200798
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3569898248280042879
+                }
+            ],
             "pathId": 1597945595127504452,
             "blockIdx": 8
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "はぁ、はぁ、はぁ……！",
-            "enText": "Huh, huh, huh…!",
+            "enText": "<i>Huff, huff, huff...</i>",
             "nextBlock": 10,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -2954151175678232535
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -246347939323899435
+                }
+            ],
             "pathId": 5964380484399920911,
             "blockIdx": 9
         },
@@ -102,8 +230,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "（へぇ……アイツ、いい走りするように\r\nなったじゃないか）",
-            "enText": "(Wow… she's got a good run now, hasn't she?)",
+            "enText": "(Huh... She's running pretty well now.)",
             "nextBlock": 11,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8717511405793125286,
             "blockIdx": 10
         },
@@ -111,8 +242,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "（アタシも最後方から抜け出して、とっとと\r\nアイツに追いつくか――よし、いまだ！）",
-            "enText": "（I'm going to get out from the \nback and catch up with her.)",
+            "enText": "(Now to break out from the back of the<n>pack and\nget on her heels... Let's go!)",
             "nextBlock": 12,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7277338347949222006,
             "blockIdx": 11
         },
@@ -120,26 +254,35 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ヒシアマ姐さんをブロックしようだなんて、\r\n一万年早いんだよ！　うおぉぉぉぉぉぉッ！！",
-            "enText": "It's ten thousand years too early to block \nMiss Hishiama! Whoa, whoa, whoa!",
+            "enText": "You've got a long way to go before you<n>can block\nthe great Hishiama! Haaaaah!",
             "nextBlock": 13,
+            "origClipLength": 101,
+            "voiceIdx": 10,
+            "voiceSheetId": "051012001",
             "pathId": -7314947359074879791,
             "blockIdx": 12
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "うそっ！？\r\n振り切られるぅぅぅ……！！",
-            "enText": "Oh no! I'm being swept off my feet…!",
+            "enText": "No way! She passed me!",
             "nextBlock": 14,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -483800567301024541,
             "blockIdx": 13
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "ヒシアマゾン！　ヒシアマゾンが1着です！\r\n後半、最後方から一気に追い上げ、\n驚異の逆転優勝を果たしました！",
-            "enText": "Hishi Amazon! Hishi Amazon takes first place! \nShe rushed from last in the second half to \npull off a stunning comeback victory!",
+            "enText": "Hishi Amazon! Hishi Amazon has taken<n>first place!\nShe made a comeback in the<n>last half of the race\nand took the lead!<n>What a surprising victory!",
             "nextBlock": 15,
+            "origClipLength": 115,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8756332606619428328,
             "blockIdx": 14
         },
@@ -147,17 +290,47 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "へへっ！\r\nどんなもんだい……！",
-            "enText": "Heh! What's up…!",
+            "enText": "Hehe! It was barely a workout!",
             "nextBlock": 16,
+            "origClipLength": 80,
+            "voiceIdx": 6,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 6818955299373569551
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 1432512890071818192
+                }
+            ],
             "pathId": 3652765947406233091,
             "blockIdx": 15
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "……完敗です。でも、姐さんのアドバイスの\r\nおかげでスランプから抜け出せました！",
-            "enText": "… I'm completely defeated. But thanks to \nyour advice, I'm out of my slump!",
+            "enText": "...You crushed me. But, thanks to your<n>advice,\nI've managed to break free from<n>my slump!",
             "nextBlock": 17,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 995198974165147234
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7631807644133923031
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -5444118220577745619
+                }
+            ],
             "pathId": -1186184470989062966,
             "blockIdx": 16
         },
@@ -165,8 +338,25 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "そりゃよかった。\r\nアンタの走り、すげぇ熱かったぞ！",
-            "enText": "Good for you. Your ride was so hot!",
+            "enText": "Glad to hear it. You were tearing up the<n>track out\nthere!",
             "nextBlock": 18,
+            "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4928784410770111642
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5042706792405168370
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2227604605684740953
+                }
+            ],
             "pathId": 5275731609204534573,
             "blockIdx": 17
         },
@@ -174,8 +364,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "これからも壁にぶつかったら、\r\n余計なことは考えずにぶつかっていきな！",
-            "enText": "From now on, when you come up against \na wall, don't think about anything \nelse, just go for it!",
+            "enText": "From now on, if you ever hit a wall like<n>that, just\nrun right through it without a<n>second thought!",
             "nextBlock": 19,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -3623104858730755674
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -8836919207892488571
+                }
+            ],
             "pathId": 4976838000221159546,
             "blockIdx": 18
         },
@@ -183,17 +386,43 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "そしたら絶対、道は開けるからさ！",
-            "enText": "And then we'll be on our way!",
+            "enText": "Your path will become clear!",
             "nextBlock": 20,
+            "origClipLength": 65,
+            "voiceIdx": 48,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6696389396915805111
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -7888679471177647102
+                }
+            ],
             "pathId": -6413838146661342805,
             "blockIdx": 19
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "はい、姐さんっ！",
-            "enText": "Yes, Miss!",
+            "enText": "I will!",
             "nextBlock": -1,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -823295338302271356
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 4761009458160551002
+                }
+            ],
             "pathId": -1726976542627525892,
             "blockIdx": 20
         }

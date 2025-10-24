@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "R3FM6UTD7B43Q5VD3CBGEM77OHR6Q3IT",
+    "version": 6,
+    "bundle": "7BGEG6Z3UU7C5KYEAVT6KS2P53GOOFY4",
     "type": "story",
     "storyId": "501058714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トレーニング中にケガをした\r\nメイショウドトウを保健室へ連れてきた。",
-            "enText": "I brought Meishoudou, who was injured during \ntraining, to the infirmary.",
+            "enText": "I escort Meisho Doto to the infirmary<n>after she\nsuffers an injury during training.",
             "nextBlock": 2,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 100,
-                    "pathId": -2363123794394248197
+                    "pathId": -1589164688016369039
                 },
                 {
                     "origLen": 100,
-                    "pathId": -1589164688016369039
+                    "pathId": -2363123794394248197
                 }
             ],
             "pathId": -2388811520366147442,
@@ -29,17 +32,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "ごめんなさい、本当にごめんなさい！\r\n迷惑ばかりかけて……うぅ……。",
-            "enText": "I'm sorry, I'm so sorry! I'm sorry for all \nthe trouble I've caused…… ugh ……",
+            "enText": "I'm sorry! I'm so sorry! I'm always causing<n>you\ntrouble... Oogh.",
             "nextBlock": 3,
             "origClipLength": 89,
+            "voiceIdx": 108,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -4298742489751516903
-                },
                 {
                     "origLen": 100,
                     "pathId": -194556804900727611
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4298742489751516903
                 }
             ],
             "pathId": -6521106071299937708,
@@ -49,13 +54,15 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "す、すぐトレーニングに……いっっ！！",
-            "enText": "I'll be…… soon for training!",
+            "enText": "I promise I'll be back to training as soon<n>\nas—Ouch!",
             "nextBlock": 4,
             "origClipLength": 68,
+            "voiceIdx": 109,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "痛むなら止めておこう",
-                    "enText": "If it hurts, let's not do it.",
+                    "enText": "If you're in pain, let's call it a day.",
                     "nextBlock": 4
                 }
             ],
@@ -65,12 +72,12 @@
                     "pathId": -4617093501842736524
                 },
                 {
-                    "origLen": 57,
-                    "pathId": -3638130666600500538
-                },
-                {
                     "origLen": 79,
                     "pathId": -3504951361537018717
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -3638130666600500538
                 }
             ],
             "pathId": -262133082929260874,
@@ -80,21 +87,23 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "で、でも……このまま立ち止まると、\r\nもっと自信をなくしちゃいそうですぅ……。",
-            "enText": "And, but…… if I keep standing still, I'm \ngoing to lose more confidence. ……",
+            "enText": "B-but... I won't have any confidence to<n>spare if I\nstop now...",
             "nextBlock": 5,
             "origClipLength": 95,
+            "voiceIdx": 78,
+            "voiceSheetId": "051058001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -3361435035049347738
                 },
                 {
-                    "origLen": 118,
-                    "pathId": 1538387389484542265
-                },
-                {
                     "origLen": 106,
                     "pathId": 6742298856116468179
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 1538387389484542265
                 }
             ],
             "pathId": -5467388113993336984,
@@ -104,34 +113,36 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "私はまだ、やれます……！\r\nケガなんて……へ、へっちゃらですぅ！！",
-            "enText": "I can still do it ……! I'm \nnot going to get hurt ……!",
+            "enText": "I can still keep going! This injury won't<n>h-hold me\ndown!",
             "nextBlock": 6,
             "origClipLength": 88,
+            "voiceIdx": 154,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "今は安静にしてほしい",
-                    "enText": "I want you to rest now.",
+                    "enText": "I'd rather see you rest right now.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "トレーニング、戻ってみるか？",
-                    "enText": "Training, you want to go back?",
+                    "enText": "Do you want to try heading back for training?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "トレーニング、戻ってみる？",
-                    "enText": "Training, do you want to go back?",
+                    "enText": "Do you want to try heading back for training?",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 59,
-                    "pathId": -5982394107242186984
-                },
-                {
                     "origLen": 99,
                     "pathId": -198121612529880754
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5982394107242186984
                 }
             ],
             "pathId": -633212799212619057,
@@ -141,34 +152,36 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "私はまだ、やれます……！\r\nケガなんて……へ、へっちゃらですぅ！！",
-            "enText": "I can still do it ……! I'm \nnot going to get hurt ……!",
+            "enText": "I can still keep going! This injury won't<n>h-hold me\nback!",
             "nextBlock": 7,
             "origClipLength": 88,
+            "voiceIdx": 154,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "今は安静にしてほしい",
-                    "enText": "I want you to rest now.",
+                    "enText": "I'd rather see you rest right now.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "トレーニング、戻ってみるか？",
-                    "enText": "Training, you want to go back?",
+                    "enText": "Do you want to try heading back for training?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "トレーニング、戻ってみる？",
-                    "enText": "Training, do you want to go back?",
+                    "enText": "Do you want to try heading back for training?",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 59,
-                    "pathId": -5261771635723724183
-                },
-                {
                     "origLen": 99,
                     "pathId": -8745293625553343819
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5261771635723724183
                 }
             ],
             "pathId": -8746632729913437470,
@@ -178,13 +191,15 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "でも、居ても立ってもいられなくって――\r\n痛みが強くなったら止めますぅ。だから……！",
-            "enText": "But I couldn't stay―I'll stop when the pain \ngets too much. So ……!",
+            "enText": "But, I really can't stand to stay put... If<n>the pain\ngets too bad, I'll stop. So,<n>please!",
             "nextBlock": 8,
             "origClipLength": 99,
+            "voiceIdx": 71,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "治りが遅くなるかも",
-                    "enText": "May slow healing.",
+                    "enText": "Training now might slow down the healing\nprocess.",
                     "nextBlock": 8
                 }
             ],
@@ -194,12 +209,12 @@
                     "pathId": 8166634367196834601
                 },
                 {
-                    "origLen": 75,
-                    "pathId": 7345268416940496254
-                },
-                {
                     "origLen": 110,
                     "pathId": -1838380165303019283
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7345268416940496254
                 }
             ],
             "pathId": 4796592573213637478,
@@ -209,21 +224,23 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "そ、それは……うぅ。",
-            "enText": "Well, that's…… ugh.",
+            "enText": "W-well...",
             "nextBlock": 9,
             "origClipLength": 58,
+            "voiceIdx": 64,
+            "voiceSheetId": "051058001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -4196424313797853737
                 },
                 {
-                    "origLen": 46,
-                    "pathId": 7520968044274591649
-                },
-                {
                     "origLen": 69,
                     "pathId": -2402994404948751404
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 7520968044274591649
                 }
             ],
             "pathId": 1173482203087680137,
@@ -233,17 +250,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "わかりました……休みますぅ。",
-            "enText": "Okay, I'll go to…… and take a break.",
+            "enText": "All right... I'll get some rest.",
             "nextBlock": 10,
             "origClipLength": 63,
+            "voiceIdx": 49,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": 4148392201423821515
-                },
                 {
                     "origLen": 74,
                     "pathId": -1069650634818557196
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 4148392201423821515
                 }
             ],
             "pathId": 439119928465695866,
@@ -253,17 +272,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "……ふっ、うぐっ。ごめ、ごめんなざい……。\r\n私、ケガしてもっとダメダメになってますぅ。",
-            "enText": "…… phew, ugh. Sorry, sorry, sorry.…… I'm \ninjured and even more screwed up.",
+            "enText": "Guh... I've made a big mess of things<n>with this\ninjury... I'm so sorry.",
             "nextBlock": 11,
             "origClipLength": 102,
+            "voiceIdx": 22,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": 131465562783698592
-                },
                 {
                     "origLen": 113,
                     "pathId": -2718081384500651611
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 131465562783698592
                 }
             ],
             "pathId": 6143693874821763784,
@@ -273,17 +294,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "メイショウドトウは悔しい気持ちを抑えて、\r\nケガが治るまで安静にしていた……。",
-            "enText": "Meishoudou suppressed her frustration and \nrested until her injury healed. ……",
+            "enText": "Meisho Doto swallows her<n>disappointment,\nchoosing to rest until<n>she's fully healed.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
-                    "pathId": -8346502762832433942
+                    "pathId": 1972181755374794651
                 },
                 {
                     "origLen": 106,
-                    "pathId": 1972181755374794651
+                    "pathId": -8346502762832433942
                 }
             ],
             "pathId": 1208498005386075144,
@@ -293,24 +316,26 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "は、はい……！\r\nありがとうございます、トレーナーさん！",
-            "enText": "Ha, yes ……! Thank you, trainer!",
+            "enText": "Y-yes, of course! Thank you so much,<n>Trainer!",
             "nextBlock": 13,
             "origClipLength": 81,
+            "voiceIdx": 13,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "無理はしないって約束してほしい",
-                    "enText": "I want you to promise not to push it.",
+                    "enText": "Promise me you won't push yourself.",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 54,
-                    "pathId": 9038230126872275703
-                },
-                {
                     "origLen": 92,
                     "pathId": -7827544234969069268
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 9038230126872275703
                 }
             ],
             "pathId": -8080643928226678285,
@@ -320,17 +345,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "し、しますぅ！\r\n痛みが酷くなったら止めますね！",
-            "enText": "Shhhh, shhhh! I'll stop when \nthe pain gets too much!",
+            "enText": "I p-promise! I'll stop if the pain gets too<n>much!",
             "nextBlock": 14,
             "origClipLength": 76,
+            "voiceIdx": 73,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 6696433475627039559
-                },
                 {
                     "origLen": 87,
                     "pathId": -8817736177920808822
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6696433475627039559
                 }
             ],
             "pathId": -4356806565844094091,
@@ -340,17 +367,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "慎重に……力の加減もこのくらいなら……。",
-            "enText": "Carefully…… force is also…… \nenough for this much.",
+            "enText": "Careful now... It should be fine if I don't<n>use too\nmuch strength.",
             "nextBlock": 15,
             "origClipLength": 57,
+            "voiceIdx": 69,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": 8208420748820947579
-                },
                 {
                     "origLen": 142,
                     "pathId": 6653628331333792908
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8208420748820947579
                 }
             ],
             "pathId": -7973743742853877989,
@@ -360,17 +389,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "いっ……いっったぁ～～……！？",
-            "enText": "I…… got it～……!",
+            "enText": "O-owowowwww!",
             "nextBlock": 16,
             "origClipLength": 64,
+            "voiceIdx": 109,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 7963618198417347988
-                },
                 {
                     "origLen": 75,
                     "pathId": 285446629285187077
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7963618198417347988
                 }
             ],
             "pathId": -7546782184791346033,
@@ -380,17 +411,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "ちょっと力を入れただけなのに……\r\nふえぇ、これじゃあ動けませぇん。",
-            "enText": "I just put a little effort into it.…… Whew, I \ncan't move then.",
+            "enText": "That was a fraction of my strength... Urk,<n>I can't\nwalk like this.",
             "nextBlock": 17,
             "origClipLength": 89,
+            "voiceIdx": 108,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": 8439099764974040490
-                },
                 {
                     "origLen": 100,
                     "pathId": -6976570251955523705
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 8439099764974040490
                 }
             ],
             "pathId": -1322013292515835196,
@@ -400,17 +433,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "力んで体に負荷がかかったのか、\r\n余計にケガが悪化してしまったようだ……。",
-            "enText": "I guess I overloaded my body by exerting \nmyself, and the injury seemed to have \nworsened as much as it could. ……",
+            "enText": "Exerting any level of force seems to be a<n>taxing\nendeavor, and her injury only<n>worsens.",
             "nextBlock": -1,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 104,
-                    "pathId": -1887452864731405443
+                    "pathId": 7349499433558391191
                 },
                 {
                     "origLen": 104,
-                    "pathId": 7349499433558391191
+                    "pathId": -1887452864731405443
                 }
             ],
             "pathId": -3182152393296646701,
@@ -420,24 +455,26 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "おぉ……なんとかなりそうですぅ。\r\nこの調子なら、もう少し力を入れても……。",
-            "enText": "Oh…… I think I can manage that. \nAt this rate, I'll be able to put \na little more effort into ……",
+            "enText": "Oh... I... think I can manage still. With<n>just a bit\nmore effort, maybe—",
             "nextBlock": 19,
             "origClipLength": 94,
+            "voiceIdx": 8,
+            "voiceSheetId": "051058001",
             "choices": [
                 {
                     "jpText": "抑えめにしておこう！",
-                    "enText": "Let's keep it down!",
+                    "enText": "I want you to take it easy!",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 76,
-                    "pathId": 3623303169513731473
-                },
-                {
                     "origLen": 105,
                     "pathId": -657532824495320431
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3623303169513731473
                 }
             ],
             "pathId": 5202827410553752902,
@@ -447,17 +484,19 @@
             "jpName": "メイショウドトウ",
             "enName": "Meisho Doto",
             "jpText": "は、はいっ！　そうですね。\r\n無理はしない約束でしたぁ……！",
-            "enText": "Ha, yes! That's right. I promised not to \noverdo it. ……!",
+            "enText": "Y-yes! That's right. I have that... promise<n>to keep!",
             "nextBlock": 20,
             "origClipLength": 84,
+            "voiceIdx": 36,
+            "voiceSheetId": "051058001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -8694337996176135818
-                },
                 {
                     "origLen": 95,
                     "pathId": 1495241984160469458
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8694337996176135818
                 }
             ],
             "pathId": -8307449151570811477,
@@ -467,22 +506,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "力加減をコントロールすることで、\r\nメイショウドトウは練習に復帰できた！",
-            "enText": "By controlling the amount of force, \nMayshoudtou was able to return to practice!",
+            "enText": "Meisho Doto keeps her strength in<n>check,\nsuccessfully returning to practice!",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": 2301138177861965914
+                    "pathId": -6707927183690862138
                 },
                 {
                     "origLen": 102,
-                    "pathId": -6707927183690862138
+                    "pathId": 2301138177861965914
                 }
             ],
             "pathId": 1645364372472769514,
             "blockIdx": 20
         }
-    ],
-    "modified": 1657555062
+    ]
 }

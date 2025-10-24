@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "QLX27REIRKLPTNEVZIACXC7VUXWB5YPS",
+    "version": 6,
+    "bundle": "2ANTHXKA5K36L6GNU3D77OUAWDP65ETM",
     "type": "story",
     "storyId": "801010001",
     "title": "イエス！　レッツ・ハグ☆",
+    "enTitle": "Yes! Let's Hug ☆",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、図書室で\r\nトレーニングの本を探していると……。",
-            "enText": "One day I was looking for a training book in \nthe library and found…",
+            "enText": "One day, while I'm looking for some<n>training\nbooks in the library...",
             "nextBlock": 2,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2851221826014658494,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！　その本！\r\nワタシも気になってマシタ！",
-            "enText": "Ooh! That book! I was wondering \nthe same thing!",
+            "enText": "Oh! I had my eye on that book you're<n>holdin'!",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "voiceIdx": 31,
+            "voiceSheetId": "051010001",
             "pathId": -6533934174461736532,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ……ワタシ、いつも考えてますカラ。",
-            "enText": "Hmmm… I'm always thinking about it.",
+            "enText": "Hehe. Lemme tell ya somethin', partner...",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 2533593708599515402
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -7937264245195893022
+                }
+            ],
             "pathId": 363781715158143098,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "みんなを逃がさない走りには、\r\nなにが大切なのか……！",
-            "enText": "What's the key to keeping \neveryone on the road?…!",
+            "enText": "I'm always thinkin' 'bout what I need to<n>work on in\norder to keep up with the<n>pack, even in a\nstampede!",
             "nextBlock": 5,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -3175778548419287686
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -202362244433042800
+                }
+            ],
             "pathId": 106239507935081632,
             "blockIdx": 4
         },
@@ -45,8 +78,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "どうデスカ！？\r\nユーはなにが大切だと思いますカ！？",
-            "enText": "What do you think? What do \nyou think is important?",
+            "enText": "But I wanna hear <i>your</i> opinion! Lay it on<n>me!",
             "nextBlock": 6,
+            "origClipLength": 78,
+            "voiceIdx": 39,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "スピードかな",
@@ -59,6 +95,16 @@
                     "nextBlock": 10
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2961844780292506662
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -9092404934537297425
+                }
+            ],
             "pathId": -603973866374654172,
             "blockIdx": 5
         },
@@ -66,8 +112,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "スピード……！　なるほど！\r\n速く走って、先回り！　アーンド――",
-            "enText": "Speed…! I see! Run fast, stay ahead! Arndt—",
+            "enText": "Speed? Now there's an idea! Just gotta<n>run fast,\nget around your target, aaand...",
             "nextBlock": 7,
+            "origClipLength": 86,
+            "voiceIdx": 5,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -357680753661251791
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4321170588174374016
+                }
+            ],
             "pathId": 2839064572698193779,
             "blockIdx": 6
         },
@@ -75,13 +134,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハグ！　デスネ！",
-            "enText": "Hug! Desne!",
+            "enText": "HUG 'EM!",
             "nextBlock": 8,
+            "origClipLength": 55,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "え、ハグ！？",
-                    "enText": "What, a hug!",
+                    "enText": "Wait, what?! Hug them?!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -3527233728315211777
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -8684137691292721793
                 }
             ],
             "pathId": -2760929385541715872,
@@ -91,8 +163,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエースッ！　さっそく試してみマス！",
-            "enText": "Yessir! I'll try it right away!",
+            "enText": "You betcha! I'll give it a shot right away!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 6926017168642050726
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5984753447745379674
+                }
+            ],
             "pathId": 1677827337055604136,
             "blockIdx": 8
         },
@@ -100,8 +185,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ヘイユー！\r\nスピードダッシュで逃がしませんヨ～ッ！",
-            "enText": "Hey you! Speedy dash and \nwe won't let you go!",
+            "enText": "C'mere, hon! There's no escapin' this hug<n>monster!\nI'll chase ya to the edge of the<n>earth!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "voiceIdx": 62,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 6871151294865253677
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3727015303330001362
+                }
+            ],
             "pathId": 866509216750968219,
             "blockIdx": 9
         },
@@ -109,8 +207,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "なるほど！　パワーでみんなをホールド！\r\nアーンド――",
-            "enText": "I see! Power holds everyone! Arnd—",
+            "enText": "That's the spirit! Just gotta get a hold of<n>everyone\nwith my power and...",
             "nextBlock": 11,
+            "origClipLength": 80,
+            "voiceIdx": 7,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1289787461700162755
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2542283559509927225
+                }
+            ],
             "pathId": 2392166460258288780,
             "blockIdx": 10
         },
@@ -118,13 +229,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハグ！　デスネ！",
-            "enText": "Hug! Desne!",
+            "enText": "HUG 'EM!",
             "nextBlock": 12,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "え、ハグ！？",
-                    "enText": "What, a hug!",
+                    "enText": "Wait, what?! Hug them?!",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -5979900857296934719
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -2560407429619374286
                 }
             ],
             "pathId": -8599999664422325197,
@@ -134,8 +258,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエースッ！　さっそく試してみマス！",
-            "enText": "Yessir! I'll try it right away!",
+            "enText": "You betcha! I'll give it a shot right away!",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 8383236855944368589
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1266658419999723210
+                }
+            ],
             "pathId": -8096624990582196058,
             "blockIdx": 12
         },
@@ -143,8 +280,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ヘイユー！\r\nパワフルホールド、しちゃいますヨ～ッ！",
-            "enText": "Hey you! I'm going to do a powerful hold!",
+            "enText": "C'mere, hon! Get ready for the strongest<n>hug\nyou've ever had in your life!",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "voiceIdx": 62,
+            "voiceSheetId": "051010001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -463432183772244063
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3313777595699412458
+                }
+            ],
             "pathId": 5911529578188355442,
             "blockIdx": 13
         }

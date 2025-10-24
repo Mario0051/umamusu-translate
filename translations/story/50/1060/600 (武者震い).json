@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "DYO2WKZK677S52ZNEFJLONVE2E3YQBON",
+    "version": 6,
+    "bundle": "HPNT4KC2VAQWV6WREXKTFMUH5G6UBU7U",
     "type": "story",
     "storyId": "501060600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……なんかさ。\r\n今日もしかしたら、だけど。",
-            "enText": "I'm thinking of…… Maybe today.",
+            "enText": "I don't know why, but I feel like...",
             "nextBlock": 2,
             "origClipLength": 73,
+            "voiceIdx": 54,
+            "voiceSheetId": "051060001",
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": 879117699134322226
+                    "pathId": 3695763216841786108
                 },
                 {
                     "origLen": 84,
-                    "pathId": 3695763216841786108
+                    "pathId": 879117699134322226
                 }
             ],
             "pathId": 966773265412176041,
@@ -29,17 +32,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "そこそこイイとこまで\r\nいけちゃいそうな予感……。",
-            "enText": "I have a feeling it could go pretty well. ……",
+            "enText": "I feel like I can do really well today.",
             "nextBlock": 3,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -1044204332531186937
-                },
                 {
                     "origLen": 88,
                     "pathId": 2343752584582301001
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -1044204332531186937
                 }
             ],
             "pathId": 4688171996131126424,
@@ -49,29 +54,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……っつってね～。\r\n自分でフラグ立ててどうすんだっての！",
-            "enText": "I'm just going to say……… What the hell am I \ndoing flagging myself!",
+            "enText": "Ugh, what am I saying? C'mon, Nature!<n>Don't jinx\nit!",
             "nextBlock": 4,
             "origClipLength": 82,
+            "voiceIdx": 61,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "期待してるぞ！",
-                    "enText": "I'm counting on you!",
+                    "enText": "You've got this!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "期待してる！",
-                    "enText": "I'm counting on you!",
+                    "enText": "You've got this!",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": 1445652371378230640
-                },
-                {
                     "origLen": 93,
                     "pathId": 1051700966365296723
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1445652371378230640
                 }
             ],
             "pathId": -4807206654720206591,
@@ -81,17 +88,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ちょ、フラグ追加すんなし！\r\nもう、ただの予感だってば～……。",
-            "enText": "Hey, don't add flags! It's just a hunch now～……",
+            "enText": "Don't make it worse! I'm just feeling<n>good is all...",
             "nextBlock": 5,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -8907220564274298357
-                },
                 {
                     "origLen": 96,
                     "pathId": -6876420221445427893
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8907220564274298357
                 }
             ],
             "pathId": -4825021089031554332,
@@ -101,22 +110,23 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ま、期待するならぼちぼちね。\r\nかる～い感じで、行ってみよー！",
-            "enText": "Well, if you're going to expect it, you'll \njust have to wait and see. Let's take it easy \nand go for it!",
+            "enText": "But don't get your hopes up too high.<n>Just... If it\ngoes well, it goes well!",
             "nextBlock": -1,
             "origClipLength": 85,
+            "voiceIdx": 10,
+            "voiceSheetId": "051060001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 7702092023011478629
-                },
                 {
                     "origLen": 96,
                     "pathId": -8552624117137473668
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 7702092023011478629
                 }
             ],
             "pathId": -8379559108275185877,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555062
+    ]
 }

@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "3XJU2BKG6Z7Y5XDJ5NYC7WLXB5ZAXJXZ",
+    "version": 6,
+    "bundle": "FA7E4TOKLH64U376QGISZPEHOGZGLIHF",
     "type": "story",
     "storyId": "501030726",
     "title": "クレーンゲームに挑戦！",
+    "enTitle": "Claw Machine!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、\r\nライスシャワーと出かけた先で――",
-            "enText": "One day, I was out with Rice Shower.",
+            "enText": "One day, while out and about with Rice<n>Shower...",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3768834735948157412
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 5549668322920764370
+                }
+            ],
             "pathId": 8299888292789677723,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あ……。",
-            "enText": "Oh…",
+            "enText": "Ah...",
             "nextBlock": 3,
+            "origClipLength": 50,
+            "voiceIdx": 76,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
-                    "enText": "What's going on?",
+                    "enText": "What is it?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What is it?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7212044817057642447
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8713038818320991553
                 }
             ],
             "pathId": 1867957506032244323,
@@ -39,8 +66,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "え、えと、あのクレーンゲーム……。",
-            "enText": "Uhm, uh, that crane game…",
+            "enText": "U-umm... do you see the claw machine<n>over\nthere?",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "voiceIdx": 79,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -686177926281964509
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 415078553471325866
+                }
+            ],
             "pathId": -4575880615857458666,
             "blockIdx": 3
         },
@@ -48,8 +88,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ライスシャワーが示すほうを見てみると、\r\nウマ娘たちをモチーフにしたぬいぐるみが\n入った、クレーンゲームがあった。",
-            "enText": "I looked in the direction Rice Shower \npointed and saw a crane game featuring \nUma Musume plushies.",
+            "enText": "She points toward a claw machine filled<n>with\nUmamusume plushies.",
             "nextBlock": 5,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 3973723125677376565
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -6739226913545305924
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 7334022189021062622
+                }
+            ],
             "pathId": -205301952992203149,
             "blockIdx": 4
         },
@@ -57,8 +114,25 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "みんながぬいぐるみになってるから、\r\n少し気になって……。",
-            "enText": "I was a little curious about… \nbecause everyone is plush.",
+            "enText": "It looks like there are plushies of all my<n>friends in\nthere. I'm a little curious...",
             "nextBlock": 6,
+            "origClipLength": 82,
+            "voiceIdx": 157,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -926461210983605357
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -7299047647699522126
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7653972049701205009
+                }
+            ],
             "pathId": -4563313566638909709,
             "blockIdx": 5
         },
@@ -66,8 +140,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "えへへ、かわいいなぁ。",
-            "enText": "Ehehe, you're so cute.",
+            "enText": "They're so cute, hehe.",
             "nextBlock": 7,
+            "origClipLength": 59,
+            "voiceIdx": 2,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 114701368530464728
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2537511739354603543
+                }
+            ],
             "pathId": -4373660061211025066,
             "blockIdx": 6
         },
@@ -75,18 +162,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "控えめながらも、ライスシャワーは\r\n目を輝かせている。",
-            "enText": "Rice Shower, though modest, \nhas a twinkle in its eye.",
+            "enText": "She's trying to show restraint, but she<n>has an\nobvious twinkle in her eye.",
             "nextBlock": 8,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "俺が取ってあげる",
-                    "enText": "I'll get it for you.",
+                    "enText": "I'll win one for you.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "私が取ってあげる",
-                    "enText": "I'll get it for you.",
+                    "enText": "I'll win one for you.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -8603376118726472391
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8842683747148641328
                 }
             ],
             "pathId": 6813738504813722122,
@@ -96,8 +196,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "えっ……本当にいいの？",
-            "enText": "What?… Are you sure about this?",
+            "enText": "Really? Are you sure?",
             "nextBlock": 9,
+            "origClipLength": 59,
+            "voiceIdx": 7,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 648169907556910605
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5927801591332200421
+                }
+            ],
             "pathId": 1284619294890415156,
             "blockIdx": 8
         },
@@ -105,8 +218,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ラ、ライスの不幸が心配だけど……\r\n応援するからねっ！",
-            "enText": "La, I'm worried about Rice's misfortune. … \nI'll be rooting for you!",
+            "enText": "My bad luck might rub off on you... But<n>I'll cheer\nyou on!",
             "nextBlock": 10,
+            "origClipLength": 80,
+            "voiceIdx": 120,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7526316361632488755
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 6970859577552448989
+                }
+            ],
             "pathId": 3036424784493249855,
             "blockIdx": 9
         },
@@ -114,8 +240,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――このゲーム、負けられない！！",
-            "enText": "—This game, you can't lose!",
+            "enText": "I can't afford to fail!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4375057833668599799
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5400980521499363777
+                }
+            ],
             "pathId": -7267599340172178932,
             "blockIdx": 10
         }

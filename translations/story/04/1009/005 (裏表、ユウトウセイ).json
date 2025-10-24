@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "CJTHBQ5RJLPDZNZZRSC5BAI5O3PGLEKV",
+    "version": 6,
+    "bundle": "YKFVJSNCWX6EFB2YVX7BYVNJW4YUYMCJ",
     "type": "story",
     "storyId": "041009005",
     "title": "裏表、ユウトウセイ",
+    "enTitle": "Two Sides of an Honor Student",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日の放課後。トレーニングを始めるため、\r\nダイワスカーレットを迎えに行くと――",
-            "enText": "After school. \nI came to pick up Daiwa Scarlet for training, when…",
+            "enText": "After school, I start looking for Scarlet so<n>we can get a head start on\ntoday's<n>training.",
             "nextBlock": 2,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5248877235410932740,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "先生A",
             "enName": "Teacher A",
             "jpText": "朝からいろいろと頼んじゃって、ごめんなさいね。\r\nでも本当に助かったわ、ありがとう。",
-            "enText": "I'm really sorry for asking you to do so many things since early \nthis morning. But you've really been a huge help, so thank you.",
+            "enText": "Sorry for making you help me out all day.<n>You were a big help\nthough, so I<n>appreciate it.",
             "nextBlock": 3,
+            "origClipLength": 187,
+            "voiceIdx": 0,
+            "voiceSheetId": "061009001",
             "pathId": -6097613347144088386,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "そんな、このくらい大したことじゃありません。\r\n必要な時は、いつでも仰ってくださいね！",
-            "enText": "Oh no, it's no big deal. \nPlease tell me whenever you need any help!",
+            "enText": "Not at all, I'm just happy I was able to<n>assist. Feel free to rely on me\nwhenever<n>you need!",
             "nextBlock": 4,
+            "origClipLength": 176,
+            "voiceIdx": 1,
+            "voiceSheetId": "061009001",
             "pathId": 8207230359439221833,
             "blockIdx": 3
         },
@@ -36,8 +46,11 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "それじゃ、失礼しまーす。",
-            "enText": "Now if you'll excuse me, I'll be going now!",
+            "enText": "And with that, I'll be off!",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "voiceIdx": 2,
+            "voiceSheetId": "061009001",
             "pathId": 7674610418644032888,
             "blockIdx": 4
         },
@@ -45,18 +58,35 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……ふぅっ。朝からいろいろ頼まれごとの多い日だったわね……。\r\nさっさとトレーニングの準備に行かないと――",
-            "enText": "…Phew. People have been asking me favors all day… \nI've got to start getting ready for training-",
+            "enText": "<i>Sigh.</i> They've been running me ragged<n>since morning... Gotta prepare\nfor training<n>now, too—",
             "nextBlock": 6,
+            "origClipLength": 235,
+            "voiceIdx": 3,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "疲れた顔してるな",
-                    "enText": "You look a bit tired.",
+                    "enText": "You're looking tired.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "疲れた顔してるね",
-                    "enText": "You look a bit tired.",
+                    "enText": "You're looking tired.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3850068749957033074
+                },
+                {
+                    "origLen": 210,
+                    "pathId": 7938562487785592493
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8227604499014195422
                 }
             ],
             "pathId": -3685205367282455355,
@@ -66,8 +96,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ひゃあ！？　ト、トレーナー！？　びっくりさせないでよ！",
-            "enText": "Hya!? <i>T</i>-Trainer!? Don't scare me like that!",
+            "enText": "Eek?! T-Trainer?! Don't scare me like that!",
             "nextBlock": 7,
+            "origClipLength": 128,
+            "voiceIdx": 4,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 744606353436329154
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -9192353809149669928
+                }
+            ],
             "pathId": 4075702739579796805,
             "blockIdx": 6
         },
@@ -75,8 +118,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……ったく、わざわざ呼びに来たわけ？\r\n余計なお世話だっての！　今から行くとこだったんだから。",
-            "enText": "…Sheesh, you went out your way to pick me up? I was about to \nstart heading there anyway. Mind your own business.",
+            "enText": "...Geez, did you come here just to get me?<n>Well, you could have\nsaved yourself the<n>effort! I was about to head over anyway.",
             "nextBlock": 8,
+            "origClipLength": 247,
+            "voiceIdx": 5,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2233851505967158470
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 1368509995251602607
+                }
+            ],
             "pathId": 6593230189491617208,
             "blockIdx": 7
         },
@@ -84,8 +140,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……それと、別に疲れた顔なんてしてないから。\r\nアンタの気のせいよ、気のせい。",
-            "enText": "…Also, I'm not tired at all. \nYou're just imagining things.",
+            "enText": "And just so we're clear—I wasn't tired at<n>all. It was just your\nimagination, a trick of<n>the light.",
             "nextBlock": 9,
+            "origClipLength": 220,
+            "voiceIdx": 6,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7771391899677248900
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1281900663672058627
+                }
+            ],
             "pathId": -1791039770854729343,
             "blockIdx": 8
         },
@@ -93,18 +162,27 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "頼まれごとなんて日常茶飯事なんだから、どうってことないわ。",
-            "enText": "Doing favors for people is part of my daily \nroutine so this is nothing to me.",
+            "enText": "Helping people out is kinda like an<n>everyday thing for me. It's not a\nbig deal.",
             "nextBlock": 10,
+            "origClipLength": 130,
+            "voiceIdx": 7,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "無理はしないようにな？",
-                    "enText": "Don't overdo it, okay?",
+                    "enText": "As long as you aren't pushing yourself too hard,\nokay?",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "無理はしないようにね？",
-                    "enText": "Don't overdo it, okay?",
+                    "enText": "As long as you aren't pushing yourself too hard,\nokay?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6137579597392476332
                 }
             ],
             "pathId": 3637913153193749416,
@@ -114,8 +192,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "わかってるわよ。けどね、アタシは優等生なの。",
-            "enText": "Yeah, yeah. I get it. Just so you know, I'm an honor student.",
+            "enText": "I know, I know. You might've forgotten,<n>but I'm an honor student.",
             "nextBlock": 11,
+            "origClipLength": 142,
+            "voiceIdx": 8,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4483330358487244094
+                }
+            ],
             "pathId": 1627510973863928104,
             "blockIdx": 10
         },
@@ -123,8 +210,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "誰よりも頼りになって、誰の期待も裏切らない。\r\n生活態度も勉強も走りも、誰にも負けない1番のウマ娘。",
-            "enText": "More relied on than anyone else, and never failing anyone's \nexpectations. The best horse girl in terms of lifestyle, \nacademics and racing: Number one.",
+            "enText": "I'm more dependable than anyone else,<n>and I never betray their\nexpectations.<n>Whether it's my conduct, my studies, or<n>my running—I'm\nnumber one.",
             "nextBlock": 12,
+            "origClipLength": 312,
+            "voiceIdx": 9,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -71050786040685190
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1307010834814640317
+                }
+            ],
             "pathId": -7658934376520999851,
             "blockIdx": 11
         },
@@ -132,8 +232,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "それがダイワスカーレットなの！\r\nこのくらいのこと、自分でどうにかするわ。",
-            "enText": "That's what it means to be Daiwa Scarlet! \nI can handle something as small as this myself.",
+            "enText": "That's who Daiwa Scarlet is! So a few<n>errands aren't enough to faze\nme.",
             "nextBlock": 13,
+            "origClipLength": 177,
+            "voiceIdx": 10,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": 1961389118388349575
+                }
+            ],
             "pathId": 5558349319266254088,
             "blockIdx": 12
         },
@@ -141,18 +250,27 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "私生活のことまで気にしてないで、\r\nアンタはトレーニングだけに集中して。",
-            "enText": "Don't worry about my personal life and just focus on my training.",
+            "enText": "Instead of prying into my private life, how<n>about you focus on my\ntraining?",
             "nextBlock": 14,
+            "origClipLength": 157,
+            "voiceIdx": 11,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "でも、君を支えるって言っただろう？",
-                    "enText": "I told you I'd support you, though?",
+                    "enText": "Didn't I say I would support you?",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "でも、貴方を支えるって言ったよね？",
-                    "enText": "I told you I'd support you, though?",
+                    "enText": "Didn't I say I would support you?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 6622621979963721642
                 }
             ],
             "pathId": -1414718918377979277,
@@ -162,8 +280,25 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "そ、それはスカウトの時の話で……！\r\nそりゃあ、1番をとるためとは言ってたけど！",
-            "enText": "That was all the way back when you scouted me…! \nWell… I did say I was going to be number one, but…!",
+            "enText": "Y-you did say that when you scouted me...<n>But didn't you mean\n\"support\" in the<n>racing sense?!",
             "nextBlock": 15,
+            "origClipLength": 241,
+            "voiceIdx": 12,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 3137101588704911995
+                },
+                {
+                    "origLen": 206,
+                    "pathId": 8804567653191603235
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -3037467495536670701
+                }
+            ],
             "pathId": -2204021834449828770,
             "blockIdx": 14
         },
@@ -171,8 +306,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "だからって……\r\nこんなことまでアンタが気にする必要は……。",
-            "enText": "But that… doesn't mean you have to concern \nyourself with something like this…",
+            "enText": "Even then... You don't need to worry<n>about me <i>this</i> m—",
             "nextBlock": 16,
+            "origClipLength": 120,
+            "voiceIdx": 13,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5497122039127673454
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 9037530145735256653
+                }
+            ],
             "pathId": 1974133707266178560,
             "blockIdx": 15
         },
@@ -180,8 +328,17 @@
             "jpName": "クラスメイトA",
             "enName": "Classmate A",
             "jpText": "ダイワスカーレットさん！\r\nちょっといい？",
-            "enText": "Daiwa Scarlet-san! Can I ask you something?",
+            "enText": "Hey Scarlet! Got a minute?",
             "nextBlock": 17,
+            "origClipLength": 76,
+            "voiceIdx": 14,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 6379900678727354216
+                }
+            ],
             "pathId": 701550614090882530,
             "blockIdx": 16
         },
@@ -189,8 +346,25 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "あっ……な、なーに？　どうかしたの？",
-            "enText": "Ah… Y-yes? What is it?",
+            "enText": "Ah... Wh-what's the matter? Something<n>wrong?",
             "nextBlock": 18,
+            "origClipLength": 96,
+            "voiceIdx": 15,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8596154917505194735
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 2040521577847230463
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -1126148730168655300
+                }
+            ],
             "pathId": 9086431338606035051,
             "blockIdx": 17
         },
@@ -198,8 +372,21 @@
             "jpName": "クラスメイトA",
             "enName": "Classmate A",
             "jpText": "明日の調理実習の準備で、器具を用意しておかなきゃいけないの。\r\n悪いんだけど、手伝ってもらえないかなぁ。",
-            "enText": "Actually, we need to get some appliances in place for tomorrow's \nhome-ec class… Sorry to bother you, but… I was wondering if \nyou could help us with that.",
+            "enText": "I have to prepare the cooking utensils for<n>tomorrow's home ec class.\nSorry, but could<n>you help me real quick?",
             "nextBlock": 19,
+            "origClipLength": 214,
+            "voiceIdx": 16,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 192,
+                    "pathId": -8900336881416814105
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -1337783804678118360
+                }
+            ],
             "pathId": -3473332934190903294,
             "blockIdx": 18
         },
@@ -207,8 +394,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ええ、構わないわよ！\r\nすぐに行くから先に行っててくれる？",
-            "enText": "Yeah, I don't mind! \nI'll be right there, so could you start without me?",
+            "enText": "Sure, I don't mind! I'll be right there, so<n>could you go on ahead\nwithout me?",
             "nextBlock": 20,
+            "origClipLength": 132,
+            "voiceIdx": 17,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 3862343829398440503
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -7169261496095394452
+                }
+            ],
             "pathId": 108801117603054838,
             "blockIdx": 19
         },
@@ -216,8 +416,21 @@
             "jpName": "クラスメイトA",
             "enName": "Classmate A",
             "jpText": "わっ、ありがと！　やっぱり頼りにしてよかった～！\r\nそれじゃ待ってるねっ。",
-            "enText": "Wow, thanks! I knew I should have asked you! \nSee you at the storage room, then!",
+            "enText": "Yay, thanks a bunch! I'm glad I asked you!<n>I'll be waiting!",
             "nextBlock": 21,
+            "origClipLength": 156,
+            "voiceIdx": 18,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 2581887575475327743
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -450011669126825918
+                }
+            ],
             "pathId": 3993073582134293904,
             "blockIdx": 20
         },
@@ -225,13 +438,26 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……トレーナー、悪いけど先に行ってて。",
-            "enText": "Trainer, sorry but you'll have to go without me.",
+            "enText": "Sorry Trainer, but you should go on ahead<n>too.",
             "nextBlock": 22,
+            "origClipLength": 90,
+            "voiceIdx": 19,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "手伝うよ",
-                    "enText": "I'll help you.",
+                    "enText": "I can help.",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -435499396035096108
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -1262339871929293348
                 }
             ],
             "pathId": -1771614615201930468,
@@ -241,8 +467,25 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "いい、アタシがやる。……別にアンタがどうこうじゃなくて、\r\n頼まれたことを他人任せにしたくないの。",
-            "enText": "No, I don't need any help… It's got nothing to \ndo with you, but… I just don't want to rely on \nanyone else for something I got asked to do.",
+            "enText": "It's fine, I got this. And it's not that I don't<n>want you with me—I just\ndon't want to<n>push my work onto others.",
             "nextBlock": 23,
+            "origClipLength": 276,
+            "voiceIdx": 20,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4929557020222609769
+                },
+                {
+                    "origLen": 233,
+                    "pathId": 6635783951909450209
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7175664411475306117
+                }
+            ],
             "pathId": 7206475676382599395,
             "blockIdx": 22
         },
@@ -250,8 +493,17 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "それよりもほら、アンタは先にトレーニングの準備をしておいて！\r\nすぐに行くから、いいわね！？",
-            "enText": "You should just focus on getting stuff ready for training! \nI'll be there soon, okay?",
+            "enText": "So off you go! Get prepped for me<n>training! I won't take long, okay?!",
             "nextBlock": 24,
+            "origClipLength": 221,
+            "voiceIdx": 21,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 3778957244862397197
+                }
+            ],
             "pathId": -1764365731505694338,
             "blockIdx": 23
         },
@@ -259,8 +511,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ダイワスカーレットに追い払われてしまった……。",
-            "enText": "I got driven out by her…",
+            "enText": "Scarlet promptly shoos me away.",
             "nextBlock": 25,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2482063145527073557
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7909094408370822332
+                }
+            ],
             "pathId": 1421486949806852887,
             "blockIdx": 24
         },
@@ -268,8 +533,17 @@
             "jpName": "",
             "enName": "",
             "jpText": "それから30分後――",
-            "enText": "30 minutes later.",
+            "enText": "Thirty minutes later...",
             "nextBlock": 26,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2358254081017129834
+                }
+            ],
             "pathId": 2000672948872362292,
             "blockIdx": 25
         },
@@ -277,8 +551,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "はぁ……思ってたより時間がかかっちゃったわね。\r\nさっ、始めましょ。",
-            "enText": "Phew… That sure took longer than I thought it would. \nAnyway, let's get started.",
+            "enText": "<i>Sigh...</i> That took way longer than I thought<n>it would. Okay, let's get\nstarted.",
             "nextBlock": 27,
+            "origClipLength": 216,
+            "voiceIdx": 22,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5190647522335093339
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1729813222691705942
+                }
+            ],
             "pathId": 8686132550180475684,
             "blockIdx": 26
         },
@@ -286,18 +573,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……って、なによ。ジーッと見つめて……もしかして怒ってるの？\r\nまあ、待たせたのは悪かったけど。",
-            "enText": "…Hey, what's with you? You've been staring… are you angry at \nme? Well, sorry for making you wait.",
+            "enText": "...Huh, what's wrong? Why're you staring<n>daggers at me... Are you\nmad? I do feel<n>bad for making you wait, you know.",
             "nextBlock": 28,
+            "origClipLength": 290,
+            "voiceIdx": 23,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "1人で無理しないでくれ",
-                    "enText": "Don't push yourself so hard.",
+                    "enText": "I'm worried you're taking on too much by\nyourself.",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "1人で無理しないで",
-                    "enText": "Don't push yourself so hard.",
+                    "enText": "I'm worried you're taking on too much by\nyourself.",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 371124014852290564
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5362554324104707590
                 }
             ],
             "pathId": 3801499928174903114,
@@ -307,8 +607,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "べ、別にしてないわよ！\r\nこのくらいこなせなきゃ、1番ではいられないんだから！",
-            "enText": "I-I'm not! \nI can't stay number one if I can't even do something like that!",
+            "enText": "N-not even close! Besides, if I can't even<n>do this much, how am I\nsupposed to be<n>number one?",
             "nextBlock": 29,
+            "origClipLength": 177,
+            "voiceIdx": 24,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": 3075869786893846209
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 6765786074685098630
+                }
+            ],
             "pathId": 626273241506644884,
             "blockIdx": 28
         },
@@ -316,18 +629,27 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "トレーニングだって、遅れた分は必ず取り戻して――",
-            "enText": "The same goes for my training. \nI'll just have to make up for how long I've been late-",
+            "enText": "I know I was late, so let's just train longer<n>to make up for—",
             "nextBlock": 30,
+            "origClipLength": 108,
+            "voiceIdx": 25,
+            "voiceSheetId": "061009001",
             "choices": [
                 {
                     "jpText": "もっと俺を頼ってくれ！",
-                    "enText": "You've got to rely on me more!",
+                    "enText": "You can rely on me more!",
                     "nextBlock": 30
                 },
                 {
                     "jpText": "もっと私を頼って！",
-                    "enText": "You've got to rely on me more!",
+                    "enText": "You can rely on me more!",
                     "nextBlock": 30
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6117062125334055686
                 }
             ],
             "pathId": 8308015522379914458,
@@ -337,8 +659,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……っ。\r\nなによ……アタシが意地張ってるみたいな言い方しないで！",
-            "enText": "What the heck… Don't make it sound \nlike I'm the one being stubborn!",
+            "enText": "What the heck... You're making me look<n>like the bad guy here, you\nknow?!",
             "nextBlock": 31,
+            "origClipLength": 170,
+            "voiceIdx": 26,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -7503415428837744719
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8515173417969437639
+                }
+            ],
             "pathId": 2514589054876179961,
             "blockIdx": 30
         },
@@ -346,8 +681,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "それに……アンタのことは、\r\nトレーナーとしてなら……そ、それなりに……。",
-            "enText": "Well… You're my trainer after all… \nIf that's the case, then…",
+            "enText": "Also... you are my trainer, so I... d-do r—",
             "nextBlock": 32,
+            "origClipLength": 229,
+            "voiceIdx": 27,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3858420150761068374
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -3812484228861038736
+                }
+            ],
             "pathId": -1666846821684447649,
             "blockIdx": 31
         },
@@ -355,8 +703,25 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "――ああっ、もう！　なんか腹立つ！\r\nいいからもうトレーニング始めるわよ！",
-            "enText": "Ughh, jeez! This is pissing me off! \nLet's just get this thing started already!",
+            "enText": "Ahhh, never mind! Now I'm in a bad mood!<n>Let's just hurry up and start\ntraining!",
             "nextBlock": 33,
+            "origClipLength": 167,
+            "voiceIdx": 28,
+            "voiceSheetId": "061009001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3093343737445823953
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2136546278349002968
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7431591349586990669
+                }
+            ],
             "pathId": -3993862362048159368,
             "blockIdx": 32
         },
@@ -364,12 +729,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "1番にこだわるウマ娘、ダイワスカーレット。\r\n気難しい彼女に頼られるには、まだまだ先が長そうだ……。",
-            "enText": "Daiwa Scarlet, the horse girl obsessed with being number one. It \nlooks like there's still a long way to go before she learns to \ntrust and depend on me.",
+            "enText": "Daiwa Scarlet—a student set on being<n>number one. It looks like it'll\ntake a lot<n>more time before she learns to count on<n>me.",
             "nextBlock": -1,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 8935086975882928918
+                }
+            ],
             "pathId": -5841941330319129331,
             "blockIdx": 33
         }
-    ],
-    "humanTl": true,
-    "modified": 1676782217
+    ]
 }

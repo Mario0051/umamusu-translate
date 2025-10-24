@@ -1,25 +1,32 @@
 {
-    "version": 4,
-    "bundle": "QVSFATKYQOUWW5UWKNZAJELXKLTIC4S5",
+    "version": 6,
+    "bundle": "KGUHQ4HWTZGRYEWZFXICMCJW5BGMJQUL",
     "type": "story",
     "storyId": "801035002",
     "title": "全・力・競・走！！",
+    "enTitle": "Full-Power Racing!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、廊下を歩いていると……。",
-            "enText": "One day, as I was walking down \nthe corridor, I saw…",
+            "enText": "One day, as I'm walking down the<n>hallway...",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8685564629111461908,
             "blockIdx": 1
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "ちょっとそこどいてーっ。\nはいっ、失礼！",
-            "enText": "Get out of the way! Yes, excuse me!",
+            "enText": "'Scuse me! Coming through!",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1582076978861320554,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "生徒が1人、猛スピードで\r\n階段の手すりを滑り下りていった。",
-            "enText": "One student slid down the stair railing \nat a high rate of speed.",
+            "enText": "I turn towards the source of the yelling<n>and see a\nstudent sliding down the<n>staircase railing at full\nspeed.",
             "nextBlock": 4,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2754835394780460401,
             "blockIdx": 3
         },
@@ -36,8 +46,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "待て待て待てーーーっ！",
-            "enText": "Wait, wait, wait!",
+            "enText": "Hey, wait! Come back here, you!",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 8781287844915927135
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -5946796485571846125
+                }
+            ],
             "pathId": 363098484334325160,
             "blockIdx": 4
         },
@@ -45,13 +68,26 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あ、あれ！？　いない！　なぜだーっ！",
-            "enText": "Oh, no! She's not here! Why?",
+            "enText": "Wh-what?! She's gone! How?!",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "voiceIdx": 27,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's the matter?",
+                    "enText": "What's going on?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8091029232399812596
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -7798305853568933435
                 }
             ],
             "pathId": 8386835191682201487,
@@ -61,8 +97,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "鬼ごっこ！\nアタシが鬼！",
-            "enText": "Tag! I'm the ogre!",
+            "enText": "We're playing tag, and I'm it!",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 5110384051824866942
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -2444263222671665388
+                }
+            ],
             "pathId": 9123222218916590648,
             "blockIdx": 6
         },
@@ -70,18 +119,31 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "全力で追いかけてるのに\nどうしても見失っちゃうんだよねー！",
-            "enText": "I'm chasing it with all my might, but I just \ncan't seem to lose it!",
+            "enText": "I was chasing her with everything I've<n>got, but I\nstill somehow lost her!",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "voiceIdx": 35,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "手すりショートカットだ！",
-                    "enText": "Handrail shortcut!",
+                    "enText": "Use the railing as a shortcut!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "相手の動きを予想してみるとか",
-                    "enText": "Or trying to anticipate \nyour opponent's moves.",
+                    "enText": "Try to predict where she's going.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2599137459657546242
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -2310440137509287575
                 }
             ],
             "pathId": 5255928609630061465,
@@ -91,8 +153,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "手すり……ショートカット……？\nそうか、手すりの上を飛び越えてったのか！",
-            "enText": "Handrail… shortcut…? Right, she \njumped over the railing!",
+            "enText": "The railing? Ah... She rode down the<n>railing just\nnow, didn't she?!",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "voiceIdx": 31,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 3472430472590479736
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4144087773255904810
+                }
+            ],
             "pathId": 6272795124585623584,
             "blockIdx": 8
         },
@@ -100,8 +175,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "なんて上手い作戦なんだぁーっ！\nありがとう、助かったよ！",
-            "enText": "What a good plan! Thank you, \nyou've been a great help!",
+            "enText": "No wonder she disappeared so fast!<n>What an\namazing idea! Thanks for the<n>help!",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "voiceIdx": 63,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -6203224015850297237
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -6946387136052822798
+                }
+            ],
             "pathId": -8564297343362506943,
             "blockIdx": 9
         },
@@ -109,8 +197,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ウイニングチケットは気合い満点で\r\n走り去っていった。",
-            "enText": "Winning Ticket rode away in high spirits.",
+            "enText": "Winning Ticket rushes off with a<n>determined look\non her face.",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -3054543003160101822
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -5084471914396876948
+                }
+            ],
             "pathId": -4457629700153876218,
             "blockIdx": 10
         },
@@ -118,8 +219,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ヨソウ？　予想、予想……。\nあっ！　そうか！",
-            "enText": "Josow? Forecast, forecast… Ah! Right!",
+            "enText": "Predict? Predict, huh... Ah! I got it!",
             "nextBlock": 12,
+            "origClipLength": 59,
+            "voiceIdx": 34,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 247394363688263195
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -7020038773866383531
+                }
+            ],
             "pathId": -6348244355723434780,
             "blockIdx": 11
         },
@@ -127,8 +241,21 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "つまり、相手も全力で逃げてるんだ！\r\nだったらアタシは、もーーーっと全力で！",
-            "enText": "In other words, she's running away as fast as \nshe can! Then I'll do my best!",
+            "enText": "I bet she's been running at full speed<n>too! Which\nmeans I need to go at even<n>FULLER speed! Woo!",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "voiceIdx": 61,
+            "voiceSheetId": "051035001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4330555872478205645
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 3016305101654143595
+                }
+            ],
             "pathId": -424202050187982524,
             "blockIdx": 12
         },
@@ -136,8 +263,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ウイニングチケットは気合い満点で\n走り去っていった。",
-            "enText": "Winning Ticket rode away in high spirits.",
+            "enText": "Winning Ticket rushes off with a<n>determined look\non her face.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 223124121547028027
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -1138150404502526790
+                }
+            ],
             "pathId": -5673109634095985792,
             "blockIdx": 13
         }

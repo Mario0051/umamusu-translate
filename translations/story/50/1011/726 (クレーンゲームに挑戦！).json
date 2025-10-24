@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "T3BLCUA4L3GIYRNMA2GZZCKLKZGQXYKQ",
+    "version": 6,
+    "bundle": "JDEO3KZR2XYETSSU6YKRHX2UXL7FQTAF",
     "type": "story",
     "storyId": "501011726",
     "title": "クレーンゲームに挑戦！",
+    "enTitle": "Claw Machine!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、\r\nグラスワンダーと出かけた先で――",
-            "enText": "One day, while out with Grass Wonder―",
+            "enText": "One day, while I'm out with Grass<n>Wonder...",
             "nextBlock": 2,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 87,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 89,
-                    "pathId": 782173869018708242
+                    "pathId": 6645155240651487163
                 },
                 {
                     "origLen": 89,
-                    "pathId": 6645155240651487163
+                    "pathId": 782173869018708242
                 }
             ],
             "pathId": 5725773521993659128,
@@ -33,21 +36,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "あら？　トレーナーさん、\nウマ娘のぬいぐるみがありますよ。\nクレーンゲームの景品みたいです。",
-            "enText": "Oh? Trainer, there is a stuffed \nanimal of horsegirl. It looks like \na prize from the crane game.",
+            "enText": "Oh? Trainer, look at all of those<n>Umamusume\nplushies. They seem to be<n>prizes for that claw\nmachine.",
             "nextBlock": 3,
             "origClipLength": 105,
+            "voiceIdx": 55,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": -2076420336645981920
                 },
                 {
-                    "origLen": 72,
-                    "pathId": 3057729150413445450
-                },
-                {
                     "origLen": 117,
                     "pathId": -7072710639354366340
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 3057729150413445450
                 }
             ],
             "pathId": 696902671575653498,
@@ -57,21 +62,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "どんな子がいるのか気になりますね～。\nちょっと騒がしそうですが……。",
-            "enText": "I'm curious to see what kind of kids you \nhave! It looks a bit noisy. ……",
+            "enText": "I'm curious which racers there are.<n>Though it does\nseem rather noisy<n>inside...",
             "nextBlock": 4,
             "origClipLength": 89,
+            "voiceIdx": 28,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 103,
                     "pathId": 4717617633667871278
                 },
                 {
-                    "origLen": 120,
-                    "pathId": -4207284249012725443
-                },
-                {
                     "origLen": 119,
                     "pathId": -1416682446009503511
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -4207284249012725443
                 }
             ],
             "pathId": -1611398723414364800,
@@ -81,21 +88,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "グラスワンダーは興味津々だが、\n賑やかな雰囲気にやや尻込みしているようだ。",
-            "enText": "Grass Wonder is intrigued, but seems to be \nsomewhat put off by the lively atmosphere.",
+            "enText": "Grass Wonder is clearly interested, but<n>the shop's\natmosphere is making her a<n>little uncomfortable.",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 105,
                     "pathId": 189663140564899492
                 },
                 {
-                    "origLen": 120,
-                    "pathId": -8564656415003582681
-                },
-                {
                     "origLen": 105,
                     "pathId": 7620763677367488235
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -8564656415003582681
                 }
             ],
             "pathId": 8213251253715050395,
@@ -105,18 +114,20 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ここからだと、よく見えませんね。\nスぺちゃんやエルの\nぬいぐるみもあるのかしら。",
-            "enText": "I can't see much from here. I wonder if there \nare stuffed animals of Spe-chan and Elle.",
+            "enText": "It's hard to see much of anything from<n>here. I\nwonder if there's a plushie of Spe<n>or El.",
             "nextBlock": 6,
             "origClipLength": 97,
+            "voiceIdx": 35,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "取ってきてあげる！",
-                    "enText": "I'll get it for you!",
+                    "enText": "I'll get one for you!",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "取ってきてあげるよ！",
-                    "enText": "I'll get it for you!",
+                    "enText": "I'll get one for you!",
                     "nextBlock": 6
                 }
             ],
@@ -126,12 +137,12 @@
                     "pathId": -6333168498485422603
                 },
                 {
-                    "origLen": 65,
-                    "pathId": -3481882264863242354
-                },
-                {
                     "origLen": 109,
                     "pathId": -5361052624551085178
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3481882264863242354
                 }
             ],
             "pathId": -3848672293704865085,
@@ -141,21 +152,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "まあ、よろしいのですか？",
-            "enText": "Well, may I?",
+            "enText": "Oh, are you sure?",
             "nextBlock": 7,
             "origClipLength": 60,
+            "voiceIdx": 5,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 66,
                     "pathId": -4338248915942649427
                 },
                 {
-                    "origLen": 18,
-                    "pathId": 340328704200768089
-                },
-                {
                     "origLen": 89,
                     "pathId": -5612110818481474827
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 340328704200768089
                 }
             ],
             "pathId": 5681021769351919260,
@@ -165,13 +178,15 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "でも、ただ傍観しているのは気が引けます。\n何かお手伝いさせていただく形で、\n一緒に頑張れたらいいのですが……。",
-            "enText": "But I don't feel comfortable just standing on \nthe sidelines. I'd be happy to help in any \nway I can. I wish we could work together. ……",
+            "enText": "Just watching from the sidelines<n>wouldn't feel\nright. If only there were a<n>way I could help you,\nthen it would be<n>like a joint effort.",
             "nextBlock": 8,
             "origClipLength": 116,
+            "voiceIdx": 79,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "応援してほしい",
-                    "enText": "I need your support.",
+                    "enText": "Would you cheer me on?",
                     "nextBlock": 8
                 }
             ],
@@ -181,12 +196,12 @@
                     "pathId": -7225460494028320124
                 },
                 {
-                    "origLen": 120,
-                    "pathId": -4921338731510666177
-                },
-                {
                     "origLen": 128,
                     "pathId": 7885142502264588157
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -4921338731510666177
                 }
             ],
             "pathId": -6076508801750961125,
@@ -196,17 +211,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "それなら、お力添えができそうですね。\nわかりました、任せてください。",
-            "enText": "Then I guess I can help you. \nOkay, I'll leave it to you.",
+            "enText": "That sounds like it would help. Very<n>well, I'll be\nyour voice of support.",
             "nextBlock": 9,
             "origClipLength": 89,
+            "voiceIdx": 48,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 4810228055482690210
-                },
                 {
                     "origLen": 101,
                     "pathId": 632681377035913369
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 4810228055482690210
                 }
             ],
             "pathId": 7406241743685855530,
@@ -216,21 +233,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "気持ちを込めて応援させていただきます。\n頑張ってくださ～い。",
-            "enText": "I will support you with all my \nheart. Please do your best.",
+            "enText": "I'll give it my all. Go, go, Trainer! Go,<n>go!",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 120,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 94,
                     "pathId": -8043248815153827938
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 7391170816390685135
-                },
-                {
                     "origLen": 96,
                     "pathId": -3380617731082477641
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7391170816390685135
                 }
             ],
             "pathId": 449305419339973309,
@@ -240,26 +259,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――このゲーム、負けられない！！",
-            "enText": "―This game, you can't lose!",
+            "enText": "There's no way I can fail now!",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 77,
                     "pathId": -4009252884075716626
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 5513121608154380443
-                },
-                {
                     "origLen": 89,
                     "pathId": -3689215084097646322
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5513121608154380443
                 }
             ],
             "pathId": 5024816029364501321,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555248
+    ]
 }

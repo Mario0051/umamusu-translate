@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "GPXLEOWNNTFFPLEA3VGXMMQK4HKNRLMZ",
+    "version": 6,
+    "bundle": "LXKP2D3LV2B6MIEJDDO2SQ2KMBNPWHMQ",
     "type": "story",
     "storyId": "501052700",
     "title": "寝不足で……",
+    "enTitle": "Sleep Deprived",
     "text": [
         {
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "おっはよー！　トレーナー！\nそれでそれでっ！",
-            "enText": "Good morning! Trainer! So that's it!",
+            "enText": "Good morning, Trainer! And with that...",
             "nextBlock": 2,
             "origClipLength": 59,
+            "voiceIdx": 41,
+            "voiceSheetId": "051052001",
             "animData": [
                 {
                     "origLen": 70,
-                    "pathId": -8117969494723078289
+                    "pathId": -8137781597414133611
                 },
                 {
                     "origLen": 70,
-                    "pathId": -8137781597414133611
+                    "pathId": -8117969494723078289
                 }
             ],
             "pathId": 5257680604069824396,
@@ -29,24 +32,26 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "おやすみ～！",
-            "enText": "Good night～!",
+            "enText": "Time for bed! Nighty-night!",
             "nextBlock": 3,
             "origClipLength": 48,
+            "voiceIdx": 21,
+            "voiceSheetId": "051052001",
             "choices": [
                 {
                     "jpText": "寝るの！？",
-                    "enText": "You're going to sleep!",
+                    "enText": "You're going to bed already?!",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 43,
-                    "pathId": 6937434055353635092
-                },
-                {
                     "origLen": 59,
                     "pathId": -91257310269191037
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 6937434055353635092
                 }
             ],
             "pathId": -6879078517378383727,
@@ -56,17 +61,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "うう～、だって眠いんだも～ん。お休み中ね、\nライスちゃんとテスト勉強したの。",
-            "enText": "Ugh～, I'm so sleepy. I studied for the test \nwith Rice during the break.",
+            "enText": "Ngh, I'm so sleeeepy. I was studying with<n>Rice for\nthe test during my break.",
             "nextBlock": 4,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 6396835686945478360
-                },
                 {
                     "origLen": 80,
                     "pathId": -4085263189017386453
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 6396835686945478360
                 }
             ],
             "pathId": 4677186542151345209,
@@ -76,17 +83,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "教科書3ページも覚えたんだよ？\nそれで頭いっぱい使ったし……。",
-            "enText": "I memorized three pages of a textbook, \nremember? And I used my head full of it. ……",
+            "enText": "I memorized a whole three pages! But<n>now my\nbrain hurts.",
             "nextBlock": 5,
             "origClipLength": 65,
+            "voiceIdx": 35,
+            "voiceSheetId": "051052001",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": 6697585903425732517
-                },
                 {
                     "origLen": 76,
                     "pathId": -3565955267230024329
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 6697585903425732517
                 }
             ],
             "pathId": 4573646338420181973,
@@ -96,17 +105,19 @@
             "jpName": "ハルウララ",
             "enName": "Haru Urara",
             "jpText": "ふわぁぁ～～～……おやすみぃ……ぐぅ。",
-            "enText": "Fluffy～～～……Good night ……Gooo.",
+            "enText": "<i>Yawn...</i> Nighty-night... <i>Snore...</i>",
             "nextBlock": 6,
             "origClipLength": 122,
+            "voiceIdx": 40,
+            "voiceSheetId": "051052001",
             "animData": [
-                {
-                    "origLen": 100,
-                    "pathId": -8291801024754810876
-                },
                 {
                     "origLen": 134,
                     "pathId": -8230720651304135547
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8291801024754810876
                 }
             ],
             "pathId": 3134960434606460996,
@@ -116,22 +127,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやらハルウララは、\nしっかり休めなかったようだ……。",
-            "enText": "Apparently, Halulaura did not get a good \nnight's rest. ……",
+            "enText": "It seems like Haru Urara needs a proper<n>rest.",
             "nextBlock": -1,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 100,
-                    "pathId": -2755471381583100907
-                },
                 {
                     "origLen": 74,
                     "pathId": 3248651697181109313
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -2755471381583100907
                 }
             ],
             "pathId": -6366912046065626807,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555061
+    ]
 }

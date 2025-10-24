@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "4VEU2UT76ZCWMZOWMEC3NJUW7JFWUYFA",
+    "version": 6,
+    "bundle": "VZRSQBS54QDDV3RIJMUJ34EY2VMH6X7A",
     "type": "story",
     "storyId": "501010702",
     "title": "レイニー・パワフル！",
+    "enTitle": "Rainy Power",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そろそろタイキシャトルとの\r\n外出先から帰ろうとしたところ――",
-            "enText": "I was just about to return from an outing \nwith my tiki shuttle―",
+            "enText": "Taiki Shuttle and I are about to head<n>back after a\nday out.",
             "nextBlock": 2,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
-                    "pathId": -1196456985731699507
+                    "pathId": -3475515483594628063
                 },
                 {
                     "origLen": 76,
-                    "pathId": -3475515483594628063
+                    "pathId": -1196456985731699507
                 }
             ],
             "pathId": -7900198442629846567,
@@ -29,17 +32,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさん、今日も楽しかったデ――",
-            "enText": "Trainer, I had a great time today de―.",
+            "enText": "Today was awful fun, Trainer!",
             "nextBlock": 3,
             "origClipLength": 57,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 8,
-                    "pathId": 3784757957477820196
-                },
                 {
                     "origLen": 68,
                     "pathId": 7121543146759532006
+                },
+                {
+                    "origLen": 8,
+                    "pathId": 3784757957477820196
                 }
             ],
             "pathId": -923172741444519814,
@@ -49,17 +54,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（……ポツ、ポツ）",
-            "enText": "(…… pots, pots)",
+            "enText": "<i>Plip, plop...</i>",
             "nextBlock": 4,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 61,
-                    "pathId": 169197679190984838
+                    "pathId": -5026242965245870235
                 },
                 {
                     "origLen": 61,
-                    "pathId": -5026242965245870235
+                    "pathId": 169197679190984838
                 }
             ],
             "pathId": 775892506415279240,
@@ -69,17 +76,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！？　イッツ・レイン！？",
-            "enText": "Oh! It's Rain!",
+            "enText": "Oh, looks like it's fixin' to rain!",
             "nextBlock": 5,
             "origClipLength": 54,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -1100458096583396021
-                },
                 {
                     "origLen": 65,
                     "pathId": -8474736792360317770
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -1100458096583396021
                 }
             ],
             "pathId": 4187616540274067869,
@@ -89,17 +98,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……どうやら通り雨のようだ。\r\n急いで屋根があるところに移動して――",
-            "enText": "……It appears to be a passing shower. Hurry up \nand move to a place where there is a roof \nover your head―.",
+            "enText": "It's just a quick shower, so it shouldn't<n>last long. I\nduck under a nearby roof for<n>some shelter...",
             "nextBlock": 6,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 78,
-                    "pathId": -1659828594995366744
+                    "pathId": -4782616554647103494
                 },
                 {
                     "origLen": 78,
-                    "pathId": -4782616554647103494
+                    "pathId": -1659828594995366744
                 }
             ],
             "pathId": -7202641894486961252,
@@ -109,24 +120,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "雨デーーーーーース！！",
-            "enText": "Rainy day!!!!!!!",
+            "enText": "Woooo! Raaain!",
             "nextBlock": 7,
             "origClipLength": 53,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "タイキシャトル！？",
-                    "enText": "Taiki Shuttle!",
+                    "enText": "What are you doing?!",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 7497423938456617535
+                    "pathId": -8057338859188895473
                 },
                 {
                     "origLen": 58,
-                    "pathId": -8057338859188895473
+                    "pathId": 7497423938456617535
                 }
             ],
             "pathId": 8311486742506062364,
@@ -136,17 +149,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ。今、傘ないデスカラ！\r\nいっそ、雨を楽しみマショウ！",
-            "enText": "Ahahaha. I don't have an umbrella right now! \nLet's just enjoy the rain!",
+            "enText": "Haha! Got no umbrella, so there's<n>nothin' to do\nbut enjoy it!",
             "nextBlock": 8,
             "origClipLength": 104,
+            "voiceIdx": 1,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 6560613064322799341
-                },
                 {
                     "origLen": 76,
                     "pathId": 6740111714779312732
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 6560613064322799341
                 }
             ],
             "pathId": -7683073321925145678,
@@ -156,24 +171,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "雨の中走るのは、とても気持ちいいデスヨ！\r\nプールとは違う！　水の中で走る感覚！",
-            "enText": "Running in the rain feels so good Desuyo! \nIt's not like a swimming pool! The feeling of \nrunning in the water!",
+            "enText": "Runnin' in the rain is something else! It's<n>way\ndifferent from swimming in a pool!<n>It's more like...\nrunnin' underwater!",
             "nextBlock": 9,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いや、風邪ひくから！！",
-                    "enText": "No, you'll catch a cold!",
+                    "enText": "You're going to catch a cold!",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": -8585126700215357924
-                },
-                {
                     "origLen": 82,
                     "pathId": -3397258212408956405
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8585126700215357924
                 }
             ],
             "pathId": -5964234589958172660,
@@ -183,17 +200,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ノープロブレム！　平気デス！！\r\nワタシ、風邪ひきマセン！",
-            "enText": "No problem! I'm fine! I won't catch a cold!",
+            "enText": "Don't ya worry your pretty little head<n>about that!\nSee, I don't catch colds!",
             "nextBlock": 10,
             "origClipLength": 63,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 6814804999207457946
-                },
                 {
                     "origLen": 74,
                     "pathId": 5343158511985286583
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 6814804999207457946
                 }
             ],
             "pathId": -2450057256956620946,
@@ -203,29 +222,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フゥ～！！　スプラーーシュ！！\r\nもっとふれふれデース！",
-            "enText": "Whoo～! Sprarsh! More fluff!",
+            "enText": "Woohoo! <i>Splaaash!</i> Keep it comin', rain<n>clouds!",
             "nextBlock": 11,
             "origClipLength": 63,
+            "voiceIdx": 10,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "こうなったら力ずくで……！",
-                    "enText": "If this happens, I'm going \nto have to use force. ……!",
+                    "enText": "I'll just have to <i>make</i> you stop!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "じゃあ駅まで競走！",
-                    "enText": "Then race to the station!",
+                    "enText": "First one to the station wins!",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 59,
-                    "pathId": 7834157388560050844
-                },
-                {
                     "origLen": 74,
                     "pathId": 1592914361769703001
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 7834157388560050844
                 }
             ],
             "pathId": -2101266251026503202,
@@ -235,17 +256,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！　トレーナーさん。\r\nそれはファイティングポーズですカ！？",
-            "enText": "OH! Trainer. Is that a fighting pose?",
+            "enText": "Oh, is that right? Ya wanna go, Trainer?",
             "nextBlock": 12,
             "origClipLength": 65,
+            "voiceIdx": 20,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -3412497181969699409
-                },
                 {
                     "origLen": 76,
                     "pathId": -4479538794647628338
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3412497181969699409
                 }
             ],
             "pathId": -836711325917579588,
@@ -255,17 +278,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ、オーケー！\r\nレッツ、ファイト！",
-            "enText": "Hahaha, okay! Let's fight!",
+            "enText": "Haha, okay! Let's scrap!",
             "nextBlock": 13,
             "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 4866025769525159594
-                },
                 {
                     "origLen": 69,
                     "pathId": 1084041081075997407
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 4866025769525159594
                 }
             ],
             "pathId": 8008016463460623234,
@@ -275,17 +300,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "だがタイキシャトルのパワーにはかなわず、\r\nしばらく雨に打たれ続けることになった……。",
-            "enText": "However, it was no match for the power of the \nTaiki Shuttle, and she was drenched in rain \nfor some time. ……",
+            "enText": "Unable to match Taiki's sheer strength, I<n>just end\nup getting soaked as well.",
             "nextBlock": 14,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": -6135605255725892177
+                    "pathId": 8498253402896861148
                 },
                 {
                     "origLen": 84,
-                    "pathId": 8498253402896861148
+                    "pathId": -6135605255725892177
                 }
             ],
             "pathId": -3325163964882312906,
@@ -295,17 +322,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "後日、タイキシャトルは、\r\nピンピンした様子で学園に来ていた。\n…………風邪を引いた自分とは違って。",
-            "enText": "Later that day, Taikishattle came to the \nacademy looking spiffy. Unlike myself, who \ncaught a……… cold.",
+            "enText": "The day after that, she turns up at the<n>academy\nfeeling right as rain... I,<n>unfortunately, have a\ncold.",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": -5243911420635159195
-                },
                 {
                     "origLen": 88,
                     "pathId": -8299019495021831265
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -5243911420635159195
                 }
             ],
             "pathId": 5700168024850617141,
@@ -315,17 +344,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オッケー！\r\nトレーナーさん、勝負デス！",
-            "enText": "Ok! Trainers, I'm playing!",
+            "enText": "Okay! You're on, Trainer!",
             "nextBlock": 16,
             "origClipLength": 58,
+            "voiceIdx": 5,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 3446629563761185578
-                },
                 {
                     "origLen": 69,
                     "pathId": 6462519725101554767
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 3446629563761185578
                 }
             ],
             "pathId": -8191139200890403755,
@@ -335,17 +366,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ、絶対に負けマセンヨ！",
-            "enText": "Hahaha, you'll never lose!",
+            "enText": "Haha! Just so ya know, I don't plan on<n>losin'!",
             "nextBlock": 17,
             "origClipLength": 54,
+            "voiceIdx": 10,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": 3680256698519179919
-                },
                 {
                     "origLen": 65,
                     "pathId": -2154426103660698244
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 3680256698519179919
                 }
             ],
             "pathId": -3704902658112735094,
@@ -355,22 +388,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そしてタイキシャトルは元気よく\r\n屋根のある建物内へと駆けて行ったのだった。",
-            "enText": "Then the Taikishattle ran briskly into the \nroofed building.",
+            "enText": "An energetic Taiki Shuttle goes running<n>off\ntoward a nearby building.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": -4960228212344472981
+                    "pathId": -5046915527147455996
                 },
                 {
                     "origLen": 58,
-                    "pathId": -5046915527147455996
+                    "pathId": -4960228212344472981
                 }
             ],
             "pathId": -9193571752634409043,
             "blockIdx": 17
         }
-    ],
-    "modified": 1657555055
+    ]
 }

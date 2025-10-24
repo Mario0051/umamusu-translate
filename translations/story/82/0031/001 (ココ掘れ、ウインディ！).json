@@ -1,20 +1,24 @@
 {
-    "version": 4,
-    "bundle": "32S6JGOVJBKMCKNGT7NB5PB5VG7GFXDW",
+    "version": 6,
+    "bundle": "4V6NYD2DDX4AQOWXLYJD2UTELA3GCMNE",
     "type": "story",
     "storyId": "820031001",
     "title": "ココ掘れ、ウインディ！",
+    "enTitle": "Dig Here, Windy!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、学園内を歩いていると……\n不自然に落ち葉が積もった地面が、\n行く手に現れた。",
-            "enText": "One day, as I was walking through the school \n… I saw an unnatural pile of fallen leaves \non the ground in my path.",
+            "enText": "One day, while walking around the<n>campus, I\nnotice an unnatural pile of<n>leaves in my path.",
             "nextBlock": 2,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（……怪しいから、避けよう）",
-                    "enText": "(… dubious, avoid it)",
+                    "enText": "(This looks pretty suspicious. I'd better go\naround it.)",
                     "nextBlock": 2
                 }
             ],
@@ -25,12 +29,15 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "あーーっ！？\nなんで落とし穴を避けるのだ～～っ！？",
-            "enText": "Aaah! Why are you avoiding the pitfalls~!",
+            "enText": "Whaaat?! Why'd ya dodge my pitfall?!",
             "nextBlock": 3,
+            "origClipLength": 77,
+            "voiceIdx": 31,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "落とし穴！？",
-                    "enText": "The pitfalls!",
+                    "enText": "Pitfall?!",
                     "nextBlock": 3
                 }
             ],
@@ -41,8 +48,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "そうだ！　あの時けなされた……\nウインディちゃんの誇りをかけた\n落とし穴なのだ！",
-            "enText": "Yes! It's a pit for the pride of… \nWindy, who was belittled then!",
+            "enText": "Uh-huh! My prized pitfall! It got clowned<n>on\nbefore... but still!",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "voiceIdx": 18,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 170,
+                    "pathId": -911635275038609735
+                },
+                {
+                    "origLen": 164,
+                    "pathId": 4342722467413380617
+                }
+            ],
             "pathId": 3523404609285252025,
             "blockIdx": 3
         },
@@ -50,8 +70,37 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ふんっ！　何度叱られても、止めない！\nこれからも落とし穴を作ってやるのだ！",
-            "enText": "Hmph! No matter how many times you scold me, \nI won't stop! I will continue to make \npitfalls for you!",
+            "enText": "Hmph! Scold me all ya want, but I'm not<n>gonna\nstop! Imma keep makin' pitfalls!",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "voiceIdx": 19,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 9163247197829517428
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2656691404658279200
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 2305633514120227925
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -1340658777532027689
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -4069086163127893750
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 3514914343846611396
+                }
+            ],
             "pathId": 1152500145146279969,
             "blockIdx": 4
         },
@@ -59,8 +108,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……そーかいそーかい。反省しないと。\nまあ、ゴルシのに比べればカワイイもんさ！",
-            "enText": "… Yes, yes, yes. I'll have to reflect on \nthat. Well, it's not as bad as Golshi's!",
+            "enText": "...Is that right? You really gotta reflect<n>on your\nactions. But... I guess you're not<n>all that bad\ncompared to Golshi!",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "voiceIdx": 34,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -7795142791349769094
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6874412124896633428
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1786386289922168687
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4898214965842727346
+                }
+            ],
             "pathId": -8536101264265848622,
             "blockIdx": 5
         },
@@ -68,8 +138,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "アイツ、にんじん畑に完璧な落とし穴作って、\nつまみ食いに来た生徒を困らせててねぇ。",
-            "enText": "She made a perfect pit in the carrot \nfield and annoyed the students \nwho came to pick at it.",
+            "enText": "She made the perfect pitfall in a carrot<n>patch and\ncaused all kinds of trouble for<n>students comin' to\nsneak a snack.",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "voiceIdx": 21,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2561179587536619241
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5800929435266678043
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -5471381376434968659
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1140857551460350070
+                }
+            ],
             "pathId": -1754403490203424859,
             "blockIdx": 6
         },
@@ -77,8 +168,33 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "それに比べれば、アタシに見つかる程度の\n穴しか作れないアンタは……格下だからね！",
-            "enText": "Compared to that, you're not good enough \nto make a hole for me to find, you're \nnot good enough for…!",
+            "enText": "Even <i>I</i> can find the pitfalls you make, so<n>I guess\nthat makes ya some kinda small<n>fry compared to\nher!",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "voiceIdx": 3,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 10388495566944218
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7612217130974147312
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -3672650100473950474
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -8946090314329218786
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 764671922512317298
+                }
+            ],
             "pathId": 2111176644072205742,
             "blockIdx": 7
         },
@@ -86,8 +202,41 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ンガーッ！　絶対ゴルシよりすごいの作って、\nたくさんの生徒を困らせてやるのだーッ！",
-            "enText": "Nger! I'm going to make something better \nthan Golshi and annoy a lot of students!",
+            "enText": "Grahhh! Imma totally make a pitfall<n>that's way\nbetter than Golshi's! And it's<n>gonna catch all of\nyou, you'll see!",
             "nextBlock": 9,
+            "origClipLength": 98,
+            "voiceIdx": 16,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 163,
+                    "pathId": -5676821503454916888
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -685153567923569550
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 4478076895971023896
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 5313812301487728131
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 7454087120265481774
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -8238038088999750277
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -3455020701132767372
+                }
+            ],
             "pathId": 8100201214313619899,
             "blockIdx": 8
         },
@@ -95,8 +244,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "つまり、この落とし穴はイタズラではなく\n『つまみ食い撃退用』に作っているようだ。\n……彼女は全く気づいていないが。",
-            "enText": "In other words, this pit is not a prank, but \na \"snack repellent\"… although she is \ncompletely unaware of it.",
+            "enText": "It looks like she actually made this<n>pitfall to keep\nstudents from eating the<n>carrots, not just to cause\nmischief... She<n>just doesn't realize that herself.",
             "nextBlock": 10,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -585973642139514819
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -8609039531229545786
+                }
+            ],
             "pathId": -5349051531420656943,
             "blockIdx": 9
         },
@@ -104,18 +266,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "くっそー、でもなんでバレたのだ……\n今回は落ち葉で穴を完璧に隠したんだぞっ！？",
-            "enText": "Damn, but how did they find out? … This time \nI hid the hole perfectly with fallen leaves!",
+            "enText": "Dang it! How can people tell?! I hid it<n>perfectly\nthis time! With leaves!",
             "nextBlock": 11,
+            "origClipLength": 95,
+            "voiceIdx": 18,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "むしろ、それが不自然だったぞ",
-                    "enText": "I mean, that was rather unnatural.",
+                    "enText": "That's what made it so obvious.",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "むしろ、それが不自然だったよ",
-                    "enText": "It was rather unnatural, really.",
+                    "enText": "That's what made it so obvious.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 8553270512841855349
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 3986354059365018295
                 }
             ],
             "pathId": 3299401871869785371,
@@ -125,8 +300,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "……！　ふ、ふーんっ！\nウインディちゃんも、そう思ってたけどな！",
-            "enText": "…! Hmmmmm! I thought so, too, Windy!",
+            "enText": "O-oh! I mean, of course I knew that!",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 5934677565890401759
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 950362650401279704
+                }
+            ],
             "pathId": -6754716450946058412,
             "blockIdx": 11
         },
@@ -134,8 +322,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "お前、なかなか見どころがあるみたいだな。\n子分にしてやるから、手伝え！",
-            "enText": "You look like you've got a lot to offer. I'm \ngoing to make you my henchman, so help me!",
+            "enText": "You got a pretty keen eye on ya. Imma<n>make ya\nmy minion, so help me out!",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "voiceIdx": 11,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 3106533737408753125
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6447703190785368339
+                }
+            ],
             "pathId": -4164426175877915693,
             "blockIdx": 12
         },
@@ -143,8 +344,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "特に急ぎの用事もないので、\n彼女の作業に付き合うことにした。のだが――",
-            "enText": "As I had nothing urgent to do, I decided to \ngo along with her work. But…",
+            "enText": "Since I don't have anything pressing to<n>do, I\ndecide to give her a hand. But<n>then...",
             "nextBlock": 14,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 1610897379143903618
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5976656153096109740
+                }
+            ],
             "pathId": 4273315186741798960,
             "blockIdx": 13
         },
@@ -152,8 +366,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "どーだっ！　今度は穴以外のところにも、\nちゃーんと自然な感じに落ち葉を――",
-            "enText": "Well done! Now we're going to put the leaves \noutside the holes in a very natural way.",
+            "enText": "How's that?! I put leaves all over this<n>time, not\njust around the hole, so it<n>looks <i>real</i> natural-like!",
             "nextBlock": 15,
+            "origClipLength": 93,
+            "voiceIdx": 3,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 184,
+                    "pathId": 4240540901380918507
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -3719163546455041616
+                }
+            ],
             "pathId": -546861823851573213,
             "blockIdx": 14
         },
@@ -161,8 +388,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ぎゃーー！？　風で吹っ飛ばされたのだー！？",
-            "enText": "Geez! I was blown away by the wind!",
+            "enText": "Gyuh?! The wind blew 'em all away?!",
             "nextBlock": 16,
+            "origClipLength": 72,
+            "voiceIdx": 104,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2306893183858747402
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5817859754102742735
+                }
+            ],
             "pathId": 8048977936010009567,
             "blockIdx": 15
         },
@@ -170,18 +410,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "石を重りにしたから、これで飛ばないな！\nあとはクッション材として、水を入れれば――",
-            "enText": "I've weighted it with stones, so it won't \nfly away! Now we just need to add some water \nto cushion it…",
+            "enText": "I used rocks to weigh everythin' down<n>this time,\nso it's not gonna blow away<n>again! Now I just\ngotta pour some water<n>in there to cushion the—",
             "nextBlock": 17,
+            "origClipLength": 98,
+            "voiceIdx": 5,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "水、地面にしみ込むぞ？",
-                    "enText": "Water, seeping into the ground?",
+                    "enText": "The water will just soak into the ground, you\nknow?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "水、地面にしみ込むよ？",
-                    "enText": "Water, seeping into the ground?",
+                    "enText": "The water will just soak into the ground, you\nknow?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 164,
+                    "pathId": -5511631803324318591
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 4453559554079468757
                 }
             ],
             "pathId": 2707411472794390047,
@@ -191,8 +444,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "……え！？　なんで！？\nプールみたいにならないのか！？",
-            "enText": "… What! Why! Isn't it like a swimming pool!",
+            "enText": "Huh?! Why?! Won't it stay in there like a<n>pool?!",
             "nextBlock": 18,
+            "origClipLength": 80,
+            "voiceIdx": 27,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -731517512822006558
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 6016852000681513760
+                }
+            ],
             "pathId": 7684279416929014954,
             "blockIdx": 17
         },
@@ -200,8 +466,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ぜぇっ……穴にブルーシートを敷いて、\n水も……入れた……っ……後は、\nこうやって踏みつければ――",
-            "enText": "I put a blue tarp over the hole, filled it \nwith water… and stomped on it like this.",
+            "enText": "<i>Wheeze...</i> I spread a tarp... inside the<n>hole... and\nfilled the... hole with...<n>water... Now if someone\nsteps onto it,<n>like so—",
             "nextBlock": 19,
+            "origClipLength": 122,
+            "voiceIdx": 58,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -5030979566551272492
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 3474508726772349889
+                }
+            ],
             "pathId": -604404278096415037,
             "blockIdx": 18
         },
@@ -209,8 +488,25 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "――あ、あれ！？\n今度は落とし穴に落ちないのだ！？",
-            "enText": "—Oh, no! This time she doesn't \nfall into the pit!",
+            "enText": "H-HUH?! Now you can't even fall in?!",
             "nextBlock": 20,
+            "origClipLength": 92,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 7797382862988025441
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -6452042594213254573
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 8701598048983362179
+                }
+            ],
             "pathId": 1877195801690137477,
             "blockIdx": 19
         },
@@ -218,13 +514,30 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うわーーん！　また作り直しなのだぁ～～！\n疲れた疲れた疲れたぁ～～！！",
-            "enText": "Woohoo! I have to make it all over again~! \nI'm tired, tired, tired~!",
+            "enText": "WAHHHHH! I have to remake it <i>again?!</i><n>I'm\npooped! Exhausted! TIRED!",
             "nextBlock": 21,
+            "origClipLength": 90,
+            "voiceIdx": 23,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "1度休んで、明日やろうか",
-                    "enText": "Let's take a break and do it tomorrow.",
+                    "enText": "Why don't you take a break and try again\ntomorrow?",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2810695686315923402
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 9048254534475926961
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 953343348572203382
                 }
             ],
             "pathId": 7593689569271096437,
@@ -234,8 +547,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "いやだ！　どんなに獲物に歯が立たなくても、\nこの牙は折らない！",
-            "enText": "No! No! I will not break my fangs, \nno matter how weak my prey is!",
+            "enText": "NUH-UH! No matter how tough my prey,<n>these\nfangs o'mine ain't gonna crack!",
             "nextBlock": 22,
+            "origClipLength": 85,
+            "voiceIdx": 33,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1155839075212569796
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2747548578664976595
+                }
+            ],
             "pathId": -3432939305635768830,
             "blockIdx": 21
         },
@@ -243,8 +569,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "それがウインディちゃんの……\nハンターの掟なのだッ！",
-            "enText": "That's Windy Chan's… Hunter's Code!",
+            "enText": "That's my rule... as a hunter!",
             "nextBlock": 23,
+            "origClipLength": 78,
+            "voiceIdx": 62,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2271296760321852065
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -7178100044979663154
+                }
+            ],
             "pathId": -2384406621857874250,
             "blockIdx": 22
         },
@@ -252,18 +591,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その不屈の姿勢は素晴らしい。\nだが、彼女の疲労具合も心配だ。\nここはなんと声をかけるべきか……。",
-            "enText": "Her fortitude is great. But I am \nalso worried about her fatigue. \nWhat should I say to her?…",
+            "enText": "Her unwavering drive is magnificent, but<n>I'm\nworried about her level of fatigue.<n>What should I\nsay to her?",
             "nextBlock": 24,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "あとは子分に任せてほしい",
-                    "enText": "I want my henchmen to do the rest.",
+                    "enText": "Leave the rest to your trusty minion.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "とことん頑張ろう！",
-                    "enText": "Let's go all the way!",
+                    "enText": "Let's give this all we've got!",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 5854282647195489614
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -8646858153411337369
                 }
             ],
             "pathId": -5041387664689709996,
@@ -273,18 +625,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うるさいうるさいうるさーいっ！\n子分なんだから、親分の言うことを聞くのだ！",
-            "enText": "Shut up, shut up, shut up! You're my \nhenchman, you'll do as you're told!",
+            "enText": "No! Nuh-uh! Shut it! You're my minion,<n>so you\ngotta listen to what <i>I</i> say!",
             "nextBlock": 25,
+            "origClipLength": 93,
+            "voiceIdx": 101,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "子分に任せるのも、親分の仕事だ",
-                    "enText": "It's the job of the master to leave \nthe henchmen in charge.",
+                    "enText": "It's a leader's duty to delegate work to their\nminions.",
                     "nextBlock": 25
                 },
                 {
                     "jpText": "子分に任せるのも、親分の仕事だよ",
-                    "enText": "It's the job of the master to leave \nthe henchmen in charge.",
+                    "enText": "It's a leader's duty to delegate work to their\nminions.",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -582414324399704335
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5766120205120260977
                 }
             ],
             "pathId": 4807447447379704995,
@@ -294,8 +659,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "むむッ！？　……たしかに前見た戦隊物でも、\n親分はどっしり椅子に座ってたのだ……。",
-            "enText": "Mumu!? … It's \ntrue that the last time I saw a warrior, she \nwas sitting on a chair…",
+            "enText": "Hm?! ...Actually, a hero show I watched<n>the other\nday had the leader sitting in<n>their chair the whole\ntime...",
             "nextBlock": 26,
+            "origClipLength": 98,
+            "voiceIdx": 26,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 7919711027389066997
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 4206269567413697194
+                }
+            ],
             "pathId": 3007849642619726929,
             "blockIdx": 25
         },
@@ -303,8 +681,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "よし、わかった！　しっかり励むんだぞっ！\n親分はしっかりココで見てるからな！",
-            "enText": "All right, all right! Keep working hard! \nI'll be watching you from here!",
+            "enText": "'Kay, sure! Put your back into it! Your<n>almighty\nleader'll be watchin' ya from<n>right over here!",
             "nextBlock": 27,
+            "origClipLength": 94,
+            "voiceIdx": 11,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7392593371247363341
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4428120127841608096
+                }
+            ],
             "pathId": -507882646936130643,
             "blockIdx": 26
         },
@@ -312,8 +703,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうしてシンコウウインディを休ませて、\nサクサクと効率的に作業を進め――",
-            "enText": "In this way, we can rest the Shinko Windy and \nwork quickly and efficiently.",
+            "enText": "With Shinko Windy resting, I get the job<n>done\nsmoothly and efficiently.",
             "nextBlock": 28,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3083484917250251808
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -8816585172649630738
+                }
+            ],
             "pathId": 6289386267717745495,
             "blockIdx": 27
         },
@@ -321,8 +725,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "おお、完成か！　見た目は上々だな。\nでも1番大事なのは、ちゃんと作動するか――",
-            "enText": "Oh, it's done! Well, it looks good. \nBut the most important thing is \nto make sure it works.",
+            "enText": "Ooh, you're done, eh?! Lookin' good!<n>But the\nmost important thing is that it<n>actually works...",
             "nextBlock": 29,
+            "origClipLength": 95,
+            "voiceIdx": 77,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -395171788023930431
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 2718611720599841257
+                }
+            ],
             "pathId": 5401610517755776599,
             "blockIdx": 28
         },
@@ -330,8 +747,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "この足音……きっとつまみ食い犯なのだ！\nさっそく、落とし穴の出来を見るぞ！",
-            "enText": "These footsteps… must be the pinchers! Now \nlet's see how the pits work!",
+            "enText": "I hear footsteps... Someone's definitely<n>comin' for\na snack! Let's see if yer pitfall<n>does the job!",
             "nextBlock": 30,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4362998233877609045
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -422222466248113638
+                }
+            ],
             "pathId": 1078307549018715659,
             "blockIdx": 29
         },
@@ -339,8 +769,21 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "ん？　アイツ、ここにもいないのか――\n……って、ギャーーーーッ！？",
-            "enText": "Hmm? She's not even here -… gah!",
+            "enText": "Hm? She's not here either...<n>Wait—GAHHH?!",
             "nextBlock": 31,
+            "origClipLength": 88,
+            "voiceIdx": 104,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": -7525599385076581859
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 8195805549434572408
+                }
+            ],
             "pathId": -5089493878927797442,
             "blockIdx": 30
         },
@@ -348,13 +791,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "やったやったーー！！　引っかかったのだー！\n子分！　お前を褒めてやるぞ！",
-            "enText": "I did it, I did it! It's stuck! Henchman! \nI'll give you a pat on the back!",
+            "enText": "Yes! Nice! We caught someone! You<n>deserve\nsome praise, minion!",
             "nextBlock": 32,
+            "origClipLength": 91,
+            "voiceIdx": 6,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "それより、今は落ちた子を……！",
-                    "enText": "More importantly, we now \nhave a fallen child…!",
+                    "enText": "Maybe later. We have to check up on them first!",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -7894753448432352497
+                },
+                {
+                    "origLen": 167,
+                    "pathId": 7493772115157907803
                 }
             ],
             "pathId": -1149783527819710473,
@@ -364,8 +820,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "おお！　そーだった！\n捉えた獲物を確認して、成果を堪能するのだ！",
-            "enText": "Oh! That's right! Check out what you've \ncaught and enjoy the results!",
+            "enText": "Oh, yeah! Time to confirm the catch and<n>revel in\nour success!",
             "nextBlock": 33,
+            "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -2356851910430220748
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 8628225222979324395
+                }
+            ],
             "pathId": -1904831562791007435,
             "blockIdx": 32
         },
@@ -373,8 +842,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ははは……発破かけすぎたかと心配したけど、\nご立派な落とし穴ができたもんだねぇ。",
-            "enText": "Hahaha… I was worried I'd blasted you too \nhard, but you've made a great pitfall.",
+            "enText": "Ha. Ha... I was worried I'd pushed ya too<n>far, but\nlooks like you made a real nice<n>pitfall here.",
             "nextBlock": 34,
+            "origClipLength": 97,
+            "voiceIdx": 2,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -1029854144807785211
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 6972608449219233147
+                },
+                {
+                    "origLen": 201,
+                    "pathId": 3794644970409829587
+                },
+                {
+                    "origLen": 149,
+                    "pathId": -4398626516884481
+                }
+            ],
             "pathId": 4699766694734122586,
             "blockIdx": 33
         },
@@ -382,8 +872,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "これは……しっかり、こってり、\nお礼させてもらわらないとねぇ～～？",
-            "enText": "I have to thank… for that, don't I?",
+            "enText": "Now I'm gonna have to \"reward\" ya<n>handsomely\nfor this one.",
             "nextBlock": 35,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 4693851100756732955
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 616955049175688738
+                }
+            ],
             "pathId": -7891975145023188803,
             "blockIdx": 34
         },
@@ -391,8 +894,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "落とし穴の完成度は認められたが、\n何の罪もないヒシアマゾンに被害が出て……\n結局お叱りを受けるのだった。",
-            "enText": "The perfection of the pit was acknowledged, \nbut the innocent Hishi Amazon was harmed … \nand eventually scolded.",
+            "enText": "Although Shinko Windy's effective<n>pitfall earns\nher praise, it also catches<n>the innocent Hishi\nAmazon... and results<n>in another scolding.",
             "nextBlock": -1,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 1787281448678938008
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 1060949224450565578
+                }
+            ],
             "pathId": -4073564231403499254,
             "blockIdx": 35
         },
@@ -400,8 +916,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ここは彼女の意思を尊重しよう。\n無理をしそうになったら、\nサポートすればケガもしないだろう。",
-            "enText": "Let's respect her wishes here. If she tries \nto push herself too far, support her and she \nwon't get hurt.",
+            "enText": "I should respect her wishes here. But if<n>she looks\nlike she's pushing herself too<n>hard, I'll step in to\nhelp. She won't get<n>hurt that way.",
             "nextBlock": 37,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 1519237990208494064
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -6919514492919709816
+                }
+            ],
             "pathId": -1215343519858272442,
             "blockIdx": 36
         },
@@ -409,8 +938,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "よぉーしっ！　それでこそ、\nウインディちゃんが認めた子分なのだ！",
-            "enText": "Yes! That's the henchman Windy approved!",
+            "enText": "Niiice! And that's what makes ya my<n>trusty minion!",
             "nextBlock": 38,
+            "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 5271711692695914058
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 3718092114295080253
+                }
+            ],
             "pathId": 647383117340642111,
             "blockIdx": 37
         },
@@ -418,8 +960,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして彼女の指示通りに動きつつ、\nたまに助言をしながら作業を進め――",
-            "enText": "And so we work, following her instructions \nand occasionally giving her advice.",
+            "enText": "I keep working, following her<n>instructions and\noffering occasional<n>advice on crafting pitfalls,\nuntil...",
             "nextBlock": 39,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6685532374358794745
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3464110356712653500
+                }
+            ],
             "pathId": -5454005006625756102,
             "blockIdx": 38
         },
@@ -427,8 +982,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "で・き・たぁ～～～っ！\nやったやったー！　やってやったのだー！",
-            "enText": "It's done! I did it! I did it! We did it!",
+            "enText": "IT'S FINISHED! Yes, yes, yes! We did it!",
             "nextBlock": 40,
+            "origClipLength": 85,
+            "voiceIdx": 6,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": -6976650687140975817
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -4078336820176738362
+                }
+            ],
             "pathId": -3352385637236339403,
             "blockIdx": 39
         },
@@ -436,8 +1004,21 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "はははっ！　どうだい？　いつもの\nいたずらとは違う達成感があったかい？",
-            "enText": "Hahaha! What do you think? Did you \nfeel a different sense of achievement \nfrom the usual pranks?",
+            "enText": "Hahaha! Well? Bet you get a totally<n>different\nsense of achievement<n>compared to pranking,\nright?",
             "nextBlock": 41,
+            "origClipLength": 90,
+            "voiceIdx": 74,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 2916815660241215825
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -2287853282791050272
+                }
+            ],
             "pathId": 4467209778974223213,
             "blockIdx": 40
         },
@@ -445,8 +1026,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ヒシアマ！　……ああ、全然違うのだ！\nどうしたらたくさん捕まえられるか考えて、\n工夫して、がんばれたから……。",
-            "enText": "Hishiama! … Yea, it was totally different! \nBecause I thought and schemed about how to \ncatch a lot of them, and do my best…",
+            "enText": "Hishiama! Uh-huh, totally different! I<n>worked so\nhard, thinkin' 'bout how to<n>catch lotsa prey, and I\ntweaked it a<n>bunch...",
             "nextBlock": 42,
+            "origClipLength": 116,
+            "voiceIdx": 38,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": -4359360422010263271
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 8774547824718698917
+                },
+                {
+                    "origLen": 160,
+                    "pathId": 727331962238180998
+                },
+                {
+                    "origLen": 204,
+                    "pathId": -1893412176902859539
+                }
+            ],
             "pathId": 7422770221290764270,
             "blockIdx": 41
         },
@@ -454,8 +1056,29 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "いたずらの質が、うんっと上がったのだ！",
-            "enText": "The quality of the pranks \nhas gone up a notch!",
+            "enText": "And now, the prank potential's<n>skyrocketed!",
             "nextBlock": 43,
+            "origClipLength": 69,
+            "voiceIdx": 3,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 8967739203745086605
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 371854563999273380
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 113916200415837931
+                },
+                {
+                    "origLen": 212,
+                    "pathId": 487035662928875173
+                }
+            ],
             "pathId": 6645323199506649440,
             "blockIdx": 42
         },
@@ -463,8 +1086,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "うんうん、いたずらの質が――",
-            "enText": "Yeah, yeah, the quality of the pranks—",
+            "enText": "Uh-huh... the prank potential's sk—",
             "nextBlock": 44,
+            "origClipLength": 63,
+            "voiceIdx": 154,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 592047115225421165
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 9138134727811941300
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -2457870791375247592
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 4925682267650352062
+                }
+            ],
             "pathId": 4751932048225994763,
             "blockIdx": 43
         },
@@ -472,8 +1116,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "って、違うだろ！？　同じ落とし穴でも、\nつまみ食い防止の……\n人助けのいたずらになったんだよ！？",
-            "enText": "That's not the same thing! It's the \nsame pit, but it's an anti-snagging… \nprank to help people!",
+            "enText": "Wait, no! Sure, it's a pitfall, but you're<n>using it to\nstop students from stealing<n>carrots from the field!",
             "nextBlock": 45,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 7300605354555942804
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 529397057326906434
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -1612895217643209589
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7060875299023273517
+                }
+            ],
             "pathId": -5623880639382675741,
             "blockIdx": 44
         },
@@ -481,8 +1146,29 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "何か思うことがあるだろ！？\nいたずらを、人に役立てよう……とか！",
-            "enText": "What do you think! Let's make mischief \nuseful to people, like…!",
+            "enText": "That's the idea, right? Using a prank to<n>help\nothers... Somethin' like that?!",
             "nextBlock": 46,
+            "origClipLength": 86,
+            "voiceIdx": 91,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 604545305096324010
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7655405778210097895
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2913486294848235272
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8937555781512467713
+                }
+            ],
             "pathId": 6718546118550723719,
             "blockIdx": 45
         },
@@ -490,13 +1176,34 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "？　お前なに言ってるのだ？\nいたずらに人助けとか、関係ないのだ！",
-            "enText": "? What are you talking about? It's not about \nhelping people, it's about mischief!",
+            "enText": "What the heck're ya talkin' 'bout?<n>Pranks don't\nhave nothin' to do with<n>helpin' people!",
             "nextBlock": 47,
+            "origClipLength": 86,
+            "voiceIdx": 20,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "な、なるほど……",
-                    "enText": "Oh, I see…",
+                    "enText": "I-I see...",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -4864893312833511879
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8009190145894305623
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4390292703413099225
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2357604941859204757
                 }
             ],
             "pathId": 1790124182867926527,
@@ -506,8 +1213,29 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どこまでいっても、イタズラっ子なままの\nシンコウウインディなのであった。",
-            "enText": "No matter how far she went, Shinko Windy was \nstill a mischievous child.",
+            "enText": "And so Shinko Windy remains a<n>prankster,\nthrough and through.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -5906904333149633415
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7119290170969081104
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5386093817114622192
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3006669481749476977
+                }
+            ],
             "pathId": -1624463103701594529,
             "blockIdx": 47
         }

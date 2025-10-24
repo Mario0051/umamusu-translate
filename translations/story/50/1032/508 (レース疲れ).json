@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "YBRSFSQ6BVMCVXKZBRS7K3U6QRULG63Z",
+    "version": 6,
+    "bundle": "PQRDQ7XTKIKF3ICFE37LFUZELMDCUQIU",
     "type": "story",
     "storyId": "501032508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "……トレーナー君、\r\nどうやら私は疲れているようだ。",
-            "enText": "… Trainer, apparently I'm tired.",
+            "enText": "Trainer... somehow, I'm feeling a bit<n>tired.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "voiceIdx": 15,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "大丈夫か？",
-                    "enText": "You okay?",
+                    "enText": "Are you okay?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "Are you okay?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 1411938365660074356
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8921586039763249865
                 }
             ],
             "pathId": -3528839527120975585,
@@ -30,8 +44,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "どこまでを大丈夫と呼ぶかは別として\r\n自覚がある以上、問題とするべきかもね。",
-            "enText": "I don't know how much I'd call it okay,\nbut as long as I'm aware of it, maybe I\nshould call it a problem.",
+            "enText": "To what extent can we consider<n>something\n\"okay?\" Nevertheless, my<n>having noticed this\nfatigue probably<n>warrants due consideration.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": 61,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -762975828629112074
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -6845290867203306751
+                }
+            ],
             "pathId": -7769733388309509538,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "しかし、やるべき研究も実験も\r\nまだまだ残っている……。",
-            "enText": "However, there is still a lot of research\nand experimentation to be done…",
+            "enText": "But there's still so much research and<n>\nexperimentation to be done.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "voiceIdx": 35,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 5487582502354743406
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 4926854291600835026
+                }
+            ],
             "pathId": 3462610760567716292,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ふぅン……\r\nこの倦怠感、どうしたものかなぁ。",
-            "enText": "Hmmm… I wonder what's\nwrong with this malaise.",
+            "enText": "<i>Groan...</i> Yet, this exhaustion... what am I<n>to do?",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "voiceIdx": 60,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 7043405072321497538
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5492146638425160847
+                }
+            ],
             "pathId": 355126510799675918,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "アグネスタキオンは、疲れからか\r\n何度も溜め息をついている……。\n今後のレース予定を見直した方がよさそうだ。",
-            "enText": "Agnes Tachyon has been sighing\na lot… from fatigue. You\nmight want to review your racing\nschedule for the future.",
+            "enText": "Agnes Tachyon won't stop sighing,<n>perhaps due\nto her fatigue. I should<n>probably rethink her\nupcoming race<n>schedule.",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 4844593399574608568
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 791018946541000905
+                }
+            ],
             "pathId": 5576091324871403813,
             "blockIdx": 5
         }

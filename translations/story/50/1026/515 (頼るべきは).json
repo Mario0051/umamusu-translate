@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "TWQEA24UTJSHGTOFKOVOBXMEKQNDVKXT",
+    "version": 6,
+    "bundle": "UCLPO2Q4WHW4OM3IQTD2ZXJSPCL7UM34",
     "type": "story",
     "storyId": "501026515",
     "title": "頼るべきは",
+    "enTitle": "Who to Count On",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ミホノブルボンとのトレーニング。\r\nいつもなら約束の時間よりも前に\n準備を終えてくるのだが――",
-            "enText": "Training with Mihono Bourbon. Normally, she'd \nbe done with her preparations well before the \nappointed time.",
+            "enText": "I'm about to begin training with Mihono<n>Bourbon.\nShe usually finishes getting<n>ready well before\nwe're supposed to<n>start, but today's different.",
             "nextBlock": 2,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 5378705443030807279
-                },
                 {
                     "origLen": 64,
                     "pathId": -707844172259216340
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 5378705443030807279
                 }
             ],
             "pathId": -3823977031516484714,
@@ -29,29 +32,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……トレーニング開始時刻、1分前。\r\nお待たせいたしました、マスター。",
-            "enText": "… Training starts in one minute. Thank \nyou for your patience, Master.",
+            "enText": "...One minute left until training begins.<n>Thank you\nfor waiting, Trainer.",
             "nextBlock": 3,
             "origClipLength": 90,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "ギリギリなんて珍しいな",
-                    "enText": "It's rare to be on the edge.",
+                    "enText": "It's rare to see you cut it so close.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "ギリギリなんて珍しいね",
-                    "enText": "It's rare for me to be on the edge.",
+                    "enText": "It's rare to see you cut it so close.",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 80,
-                    "pathId": -7897572378894303124
-                },
-                {
                     "origLen": 101,
                     "pathId": 1608399018873651096
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7897572378894303124
                 }
             ],
             "pathId": 5253651956911408979,
@@ -61,21 +66,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい。実は――",
-            "enText": "Yes, sir. Actually—",
+            "enText": "Yes. You see—",
             "nextBlock": 4,
             "origClipLength": 54,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": 4574919478844869273
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 1215975396226628442
-                },
-                {
                     "origLen": 65,
                     "pathId": -8354819173751825889
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1215975396226628442
                 }
             ],
             "pathId": -6849778293212861067,
@@ -85,17 +92,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "発見しましたよ！！",
-            "enText": "I've found it!",
+            "enText": "FOUND YA!",
             "nextBlock": 5,
             "origClipLength": 56,
+            "voiceIdx": 31,
+            "voiceSheetId": "051041001",
             "animData": [
                 {
                     "origLen": 98,
-                    "pathId": 8907913319577069037
+                    "pathId": 4233896792721686771
                 },
                 {
                     "origLen": 98,
-                    "pathId": 4233896792721686771
+                    "pathId": 8907913319577069037
                 }
             ],
             "pathId": 699256249066494902,
@@ -105,25 +114,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ブルボンさん！\r\nまだ話は終わっていません！",
-            "enText": "Ms. Bourbon! I'm not done talking!",
+            "enText": "Bourbon! Our discussion isn't over!",
             "nextBlock": 6,
             "origClipLength": 73,
+            "voiceIdx": 53,
+            "voiceSheetId": "051041001",
             "animData": [
-                {
-                    "origLen": 99,
-                    "pathId": 176646307871689097
-                },
                 {
                     "origLen": 113,
                     "pathId": -6869390022176787332
                 },
                 {
-                    "origLen": 6,
-                    "pathId": -8427617610142858534
+                    "origLen": 99,
+                    "pathId": 176646307871689097
                 },
                 {
                     "origLen": 40,
                     "pathId": -5030613782962589421
+                },
+                {
+                    "origLen": 6,
+                    "pathId": -8427617610142858534
                 }
             ],
             "pathId": 2743949243764071604,
@@ -133,13 +144,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい。ですが、すでにトレーニングの\r\n開始時刻となっています。\nこれ以上の議論はできかねます。",
-            "enText": "Yes, sir. However, it is already the \nstart time of the training. No further \ndiscussion is possible.",
+            "enText": "Indeed. However, it is already time for<n>my\ntraining to begin. I am thus unable to<n>debate any\nlonger.",
             "nextBlock": 7,
             "origClipLength": 106,
+            "voiceIdx": 33,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "議論？",
-                    "enText": "Discussion?",
+                    "enText": "Is there some kind of dispute?",
                     "nextBlock": 7
                 }
             ],
@@ -150,19 +163,19 @@
                 },
                 {
                     "origLen": 147,
+                    "pathId": 5561492786420036027
+                },
+                {
+                    "origLen": 147,
                     "pathId": -3921051703262041471
                 },
                 {
                     "origLen": 147,
-                    "pathId": 5561492786420036027
+                    "pathId": 5094962999505640253
                 },
                 {
                     "origLen": 118,
                     "pathId": -3268878249997778191
-                },
-                {
-                    "origLen": 147,
-                    "pathId": 5094962999505640253
                 }
             ],
             "pathId": 6918305464411853930,
@@ -172,25 +185,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "そうです！　議題！\r\n『何故、自販機を壊すのか』について！",
-            "enText": "That's right! Agenda! \"Why destroy \nthe vending machine?\"",
+            "enText": "That's correct! The topic at hand is why<n>she keeps\nbreaking our vending<n>machines!",
             "nextBlock": 8,
             "origClipLength": 82,
+            "voiceIdx": 80,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8805116549671736739
+                },
                 {
                     "origLen": 69,
                     "pathId": 3542308179972204334
                 },
                 {
                     "origLen": 93,
-                    "pathId": -8805116549671736739
+                    "pathId": 1959148060775308160
                 },
                 {
                     "origLen": 43,
                     "pathId": -1164370205742886022
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 1959148060775308160
                 }
             ],
             "pathId": -4206277946292398451,
@@ -200,25 +215,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "学級委員長として、学園の備品が\r\n破壊されることは阻止せねばなりません！",
-            "enText": "As the class president, you have to stop the \ndestruction of the school's equipment!",
+            "enText": "As class representative, it is my<n>responsibility to\nprevent the destruction<n>of school property!",
             "nextBlock": 9,
             "origClipLength": 91,
+            "voiceIdx": 61,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3584141717038304017
+                },
                 {
                     "origLen": 102,
                     "pathId": -7490984356784154630
                 },
                 {
                     "origLen": 102,
-                    "pathId": -3584141717038304017
+                    "pathId": 3230148780355102716
                 },
                 {
                     "origLen": 64,
                     "pathId": 4381204492190749664
-                },
-                {
-                    "origLen": 102,
-                    "pathId": 3230148780355102716
                 }
             ],
             "pathId": -1656914618460770387,
@@ -228,9 +245,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "機械類に触れると例外なく故障。\r\n原因不明。故意はありません。",
-            "enText": "Breaks down without exception when touching \nmachinery. Cause unknown. Not intentional.",
+            "enText": "Any machinery I come into contact with<n>breaks\ndown without exception. The<n>cause is unknown. It\nis not done with<n>intention.",
             "nextBlock": 10,
             "origClipLength": 85,
+            "voiceIdx": 28,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 50,
@@ -238,19 +257,19 @@
                 },
                 {
                     "origLen": 96,
-                    "pathId": -8974236099957132889
-                },
-                {
-                    "origLen": 96,
                     "pathId": -1291018078897946686
                 },
                 {
                     "origLen": 96,
-                    "pathId": -6876174680203324410
+                    "pathId": -8974236099957132889
                 },
                 {
                     "origLen": 96,
                     "pathId": 6835742606356510166
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6876174680203324410
                 }
             ],
             "pathId": 4407995320017608075,
@@ -260,25 +279,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "わざとでないことは理解しました！\r\nしかし、原因についてはまだ議論の余地が――",
-            "enText": "I understand that it was not intentional! But \nthe cause is still up for debate—",
+            "enText": "I know you don't mean to break them!<n>But there's\nstill room for discussion!",
             "nextBlock": 11,
             "origClipLength": 95,
+            "voiceIdx": 35,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -487923479915604472
+                },
                 {
                     "origLen": 106,
                     "pathId": -4886642589117934219
                 },
                 {
                     "origLen": 106,
-                    "pathId": -487923479915604472
+                    "pathId": 7514823532941121907
                 },
                 {
                     "origLen": 64,
                     "pathId": -2819913381997247782
-                },
-                {
-                    "origLen": 106,
-                    "pathId": 7514823532941121907
                 }
             ],
             "pathId": -623421538036960119,
@@ -288,25 +309,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "サクラバクシンオーが\r\nミホノブルボンを逃がすまいと\n両手を広げている。",
-            "enText": "Sakura Bakushin O is holding out her arms to \nkeep Mihonobourbon at bay.",
+            "enText": "Sakura Bakushin O spreads her arms<n>wide as if to\nprevent Mihono Bourbon<n>from running away.",
             "nextBlock": 12,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -2861116924882657192
-                },
                 {
                     "origLen": 27,
                     "pathId": -2884025065870666519
                 },
                 {
                     "origLen": 27,
-                    "pathId": 5511948070300970396
+                    "pathId": -2861116924882657192
                 },
                 {
                     "origLen": 27,
                     "pathId": 3622402341809432138
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 5511948070300970396
                 }
             ],
             "pathId": 9009200723692585733,
@@ -316,9 +339,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "それにしても、機械に触れただけで壊すとは、\r\nなんとも不思議な体質だ。\n原因究明も大切かもしれないが――",
-            "enText": "Still, it's a strange constitution to break a \nmachine just by touching it. It may be \nimportant to investigate the cause, but…",
+            "enText": "To be fair, it <i>is</i> pretty weird to be able<n>to break\nmachines just by touching<n>them. An investigation\nmay be<n>worthwhile.",
             "nextBlock": 13,
             "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5161138831570214750,
             "blockIdx": 12
         },
@@ -326,9 +351,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "目の前の問題として、\r\n自販機が使えないのは非常に困る。\n何らかの対策が必要かもしれない。",
-            "enText": "As an immediate problem, it is very difficult \nto use the vending machines. Some kind of \ncountermeasure may be necessary.",
+            "enText": "But for now, the issue at hand is that the<n>vending\nmachines are out of service.<n>Maybe we need some\nkind of<n>countermeasure.",
             "nextBlock": 14,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6606599575887304729,
             "blockIdx": 13
         },
@@ -336,32 +363,34 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "聞いていますか、ブルボンさん！\r\nブルボンさんのトレーナーさんも、\nしっかりと話し合いに――",
-            "enText": "Are you listening to me, Ms. Bourbon? Ms. \nBourbon's trainer is also here to discuss…",
+            "enText": "Are you listening to me, Bourbon?! I<n>want to hear\nyour trainer's thoughts on<n>the issue too.",
             "nextBlock": 15,
             "origClipLength": 105,
+            "voiceIdx": 70,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "自販機が使えないのは困るなぁ",
-                    "enText": "I can't use the vending machines.",
+                    "enText": "I guess it's not good that no one can use the\nvending machines, right?",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 135,
-                    "pathId": -8048252496741659004
-                },
-                {
                     "origLen": 142,
                     "pathId": 6307999580728111690
                 },
                 {
-                    "origLen": 139,
-                    "pathId": -75734059210357250
+                    "origLen": 135,
+                    "pathId": -8048252496741659004
                 },
                 {
                     "origLen": 168,
                     "pathId": -6803267511040122194
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -75734059210357250
                 }
             ],
             "pathId": 7373155224134109356,
@@ -371,25 +400,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "むむっ？　それはまぁ、そうですね。",
-            "enText": "Mmm? That's, well, that's true.",
+            "enText": "Oh? Yes, you're right about that.",
             "nextBlock": 16,
             "origClipLength": 67,
+            "voiceIdx": 15,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3168457521390971049
+                },
                 {
                     "origLen": 78,
                     "pathId": 2478959721865114651
                 },
                 {
                     "origLen": 78,
-                    "pathId": -3168457521390971049
+                    "pathId": 9051581930955351621
                 },
                 {
                     "origLen": 33,
                     "pathId": -9162979130216569271
-                },
-                {
-                    "origLen": 78,
-                    "pathId": 9051581930955351621
                 }
             ],
             "pathId": -1830937537439341895,
@@ -399,9 +430,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい、マスター。\r\n大変『不便』であると認識しています。",
-            "enText": "Yes, Master. I am aware that \nit is very \"inconvenient\".",
+            "enText": "Yes, Trainer. I recognize the situation is<n>very\n\"inconvenient.\"",
             "nextBlock": 17,
             "origClipLength": 81,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 30,
@@ -409,19 +442,19 @@
                 },
                 {
                     "origLen": 92,
-                    "pathId": -2981976609147557798
-                },
-                {
-                    "origLen": 92,
                     "pathId": -433763071042009007
                 },
                 {
                     "origLen": 92,
-                    "pathId": 1589091269817479242
+                    "pathId": -2981976609147557798
                 },
                 {
                     "origLen": 92,
                     "pathId": 4773893082485027221
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1589091269817479242
                 }
             ],
             "pathId": 524294959317796076,
@@ -431,9 +464,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "水筒の補給、購買店での入手――\r\nそれらが叶わない時、自販機は必須。",
-            "enText": "When you can't refill your water \nbottle or get it at the store, you \nneed a vending machine.",
+            "enText": "Vending machines are essential when<n>one cannot\nrefill their water bottle or<n>purchase a drink from\nthe store.",
             "nextBlock": 18,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 109,
@@ -441,19 +476,19 @@
                 },
                 {
                     "origLen": 100,
+                    "pathId": -8597991351959866139
+                },
+                {
+                    "origLen": 100,
                     "pathId": 8632212125413986428
                 },
                 {
                     "origLen": 100,
-                    "pathId": -8597991351959866139
+                    "pathId": 6174425722627531624
                 },
                 {
                     "origLen": 52,
                     "pathId": -4483928970158686244
-                },
-                {
-                    "origLen": 100,
-                    "pathId": 6174425722627531624
                 }
             ],
             "pathId": 7459381766842683029,
@@ -463,13 +498,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "しかし私には、それができません。",
-            "enText": "But I can't do it.",
+            "enText": "But... I cannot use them.",
             "nextBlock": 19,
             "origClipLength": 65,
+            "voiceIdx": 19,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -1184884278409987944
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8339546843305900757
                 },
                 {
                     "origLen": 51,
@@ -477,15 +518,11 @@
                 },
                 {
                     "origLen": 76,
-                    "pathId": -8339546843305900757
+                    "pathId": -5091801614467269683
                 },
                 {
                     "origLen": 76,
                     "pathId": -1613126034147170210
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -5091801614467269683
                 }
             ],
             "pathId": 3260083261025946847,
@@ -495,37 +532,39 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "やはり、このままでは問題だ。\r\n自分が近くにいる時はいいが、\nそうでない時は――",
-            "enText": "I still have a problem with this. It's fine \nwhen I'm around, but when I'm not…",
+            "enText": "We can't let things continue like this. If<n>I'm with\nher, it's fine, but if I'm not...",
             "nextBlock": 20,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "近くにいる友だちに頼もう",
-                    "enText": "I'll ask a friend nearby.",
+                    "enText": "Ask a friend to use the machine for you from\nnow on.",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "道具を使って買うとか",
-                    "enText": "Or use tools to buy them.",
+                    "enText": "Try using some kind of tool to touch the\nmachine.",
                     "nextBlock": 35
                 }
             ],
             "animData": [
                 {
                     "origLen": 108,
-                    "pathId": 4093742543375801093
-                },
-                {
-                    "origLen": 108,
                     "pathId": 3575222306867367312
                 },
                 {
                     "origLen": 108,
-                    "pathId": -3482868025344029729
+                    "pathId": 4093742543375801093
                 },
                 {
                     "origLen": 108,
                     "pathId": -9086047087027859663
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3482868025344029729
                 }
             ],
             "pathId": 6862203687958194818,
@@ -535,17 +574,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "友だち……。\r\nそれは困難であると判断します。",
-            "enText": "Friends… We find \nit difficult to do so.",
+            "enText": "A friend... I have determined that option<n>to be\ndifficult.",
             "nextBlock": 21,
             "origClipLength": 75,
+            "voiceIdx": 79,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 76,
                     "pathId": 8138980210397132759
-                },
-                {
-                    "origLen": 86,
-                    "pathId": 2277191609442858150
                 },
                 {
                     "origLen": 117,
@@ -553,11 +590,15 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": -8807285847905584105
+                    "pathId": 2277191609442858150
                 },
                 {
                     "origLen": 86,
                     "pathId": -8941291968868316381
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -8807285847905584105
                 }
             ],
             "pathId": 7576057412656563356,
@@ -567,9 +608,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ひとつ、私には『友人』と呼べる人が\r\nほとんどいません。",
-            "enText": "For one thing, I have very few \npeople I can call 'friends.",
+            "enText": "First, there are very few people that I<n>can refer to\nas friends.",
             "nextBlock": 22,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
@@ -577,19 +620,19 @@
                 },
                 {
                     "origLen": 92,
+                    "pathId": 8224568006627995298
+                },
+                {
+                    "origLen": 92,
                     "pathId": 8116022221819788787
                 },
                 {
                     "origLen": 92,
-                    "pathId": 8224568006627995298
+                    "pathId": -3214645245889297312
                 },
                 {
                     "origLen": 59,
                     "pathId": -6370363856149790589
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -3214645245889297312
                 }
             ],
             "pathId": 1940324436942506338,
@@ -599,25 +642,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ふたつ、数少ない『友人』が\r\n近くにいるとは限らな――",
-            "enText": "Two, the few \"friends\" I have \naren't always close by.",
+            "enText": "Second, those few friends will not<n>necessarily be\nnearby when—",
             "nextBlock": 23,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": 89661711426018069
-                },
                 {
                     "origLen": 120,
                     "pathId": -4374765072901362037
                 },
                 {
-                    "origLen": 91,
-                    "pathId": 6539375040718612432
+                    "origLen": 71,
+                    "pathId": 89661711426018069
                 },
                 {
                     "origLen": 91,
                     "pathId": 1718692746418623212
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6539375040718612432
                 }
             ],
             "pathId": -5175255726486854013,
@@ -627,25 +672,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "だったら私を呼べばいいでしょう！\r\nいつでもどこでもバクシンで\n駆けつけてさしあげます！",
-            "enText": "Then why don't you just call me! I'll come \nrunning with my bakshin anytime, anywhere!",
+            "enText": "Then just call me over! No matter the<n>time, no\nmatter the place, I'll Bakushin<n>right to you in a\nflash!",
             "nextBlock": 24,
             "origClipLength": 102,
+            "voiceIdx": 62,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -6647136468601780431
+                },
                 {
                     "origLen": 113,
                     "pathId": 1215090624746112461
                 },
                 {
                     "origLen": 113,
-                    "pathId": -6647136468601780431
+                    "pathId": 8405277555191186830
                 },
                 {
                     "origLen": 76,
                     "pathId": -4526531251417189290
-                },
-                {
-                    "origLen": 113,
-                    "pathId": 8405277555191186830
                 }
             ],
             "pathId": 9157793117943294428,
@@ -655,25 +702,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……？",
-            "enText": "…?",
+            "enText": "...?",
             "nextBlock": 25,
             "origClipLength": 48,
+            "voiceIdx": 26,
+            "voiceSheetId": "051026001",
             "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8902303590455962649
+                },
                 {
                     "origLen": 34,
                     "pathId": -3260485596026691745
                 },
                 {
                     "origLen": 59,
-                    "pathId": -8902303590455962649
+                    "pathId": 2719322668627254416
                 },
                 {
                     "origLen": 59,
                     "pathId": -5434488417871114294
-                },
-                {
-                    "origLen": 59,
-                    "pathId": 2719322668627254416
                 }
             ],
             "pathId": 4586178973759496035,
@@ -683,25 +732,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "私は委員長ですから、\r\n困ってる生徒は放っておけません！\nそれに、友だちですし！",
-            "enText": "I'm the chair of the committee. I can't \nleave a student in trouble alone! Besides, \nyou're my friend!",
+            "enText": "As class representative, I can't abandon<n>a student\nin need! And besides, we're<n>friends!",
             "nextBlock": 26,
             "origClipLength": 97,
+            "voiceIdx": 61,
+            "voiceSheetId": "051041001",
             "animData": [
-                {
-                    "origLen": 108,
-                    "pathId": -3075647400116768841
-                },
                 {
                     "origLen": 117,
                     "pathId": 6132068518225737133
                 },
                 {
-                    "origLen": 70,
-                    "pathId": 4177081993594159152
+                    "origLen": 108,
+                    "pathId": -3075647400116768841
                 },
                 {
                     "origLen": 108,
                     "pathId": 7019403244422618742
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4177081993594159152
                 }
             ],
             "pathId": 3807556147998061736,
@@ -711,25 +762,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……友だちだったのですか。",
-            "enText": "… Were you a friend?",
+            "enText": "...We are?",
             "nextBlock": 27,
             "origClipLength": 61,
+            "voiceIdx": 76,
+            "voiceSheetId": "051026001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 1197855535347861480
+                },
                 {
                     "origLen": 47,
                     "pathId": -513795277822317363
                 },
                 {
                     "origLen": 72,
-                    "pathId": 1197855535347861480
+                    "pathId": 737073843642826260
                 },
                 {
                     "origLen": 72,
                     "pathId": -6713074021896825464
-                },
-                {
-                    "origLen": 72,
-                    "pathId": 737073843642826260
                 }
             ],
             "pathId": 1574296216516529744,
@@ -739,25 +792,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "そうです！！　委員長の私が\r\n友だちだなんて、貴方も自慢でしょう！",
-            "enText": "That's right! You must be so \nproud that I'm your friend!",
+            "enText": "Of course we are! Aren't you proud to<n>have the\nclass representative as a<n>friend?!",
             "nextBlock": 28,
             "origClipLength": 88,
+            "voiceIdx": 48,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -5307343626887078107
+                },
                 {
                     "origLen": 99,
                     "pathId": -1498018004086533557
                 },
                 {
                     "origLen": 99,
-                    "pathId": -5307343626887078107
+                    "pathId": -779113840098790950
                 },
                 {
                     "origLen": 63,
                     "pathId": -1516235656888707576
-                },
-                {
-                    "origLen": 99,
-                    "pathId": -779113840098790950
                 }
             ],
             "pathId": 6758475562976713197,
@@ -767,25 +822,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "いいえ、特には。\r\n……ですが、そう……友だち……。",
-            "enText": "No, not particularly. It's… \nbut so are… friends…",
+            "enText": "...Not particularly. But yes... we are<n>friends...",
             "nextBlock": 29,
             "origClipLength": 78,
+            "voiceIdx": 110,
+            "voiceSheetId": "051026001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8138255493358433395
+                },
                 {
                     "origLen": 50,
                     "pathId": -4589228352983992817
                 },
                 {
                     "origLen": 89,
-                    "pathId": 8138255493358433395
+                    "pathId": 1660033409290668044
                 },
                 {
                     "origLen": 89,
                     "pathId": -3144104875641911240
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 1660033409290668044
                 }
             ],
             "pathId": 1847137654901450170,
@@ -795,25 +852,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ふふふ……いくら嬉しいからと言って、\r\nそう連呼しないでください。照れます。",
-            "enText": "I'm sure you'll be happy to hear that… \nPlease don't call me that, no matter how \nhappy you are. It's embarrassing.",
+            "enText": "Hehe... I can imagine how thrilled you<n>are about\nthat, but don't just stand there<n>repeating it.\nYou're gonna make me<n>blush.",
             "nextBlock": 30,
             "origClipLength": 94,
+            "voiceIdx": 2,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 3935433672781708390
+                },
                 {
                     "origLen": 105,
                     "pathId": 4006031800139589334
                 },
                 {
                     "origLen": 105,
-                    "pathId": 3935433672781708390
+                    "pathId": 4488734270014379199
                 },
                 {
                     "origLen": 48,
                     "pathId": -6957589528137304966
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 4488734270014379199
                 }
             ],
             "pathId": 3845236280995331273,
@@ -823,25 +882,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……わかりました。\r\n自販機を使用の際は、\nバクシンオーさんを呼びます。",
-            "enText": "… I understand. I'll call Ms. Bakushin O \nwhen I use the vending machine.",
+            "enText": "...Understood. I will call for you when I<n>need to\nuse a vending machine,<n>Bakushin O.",
             "nextBlock": 31,
             "origClipLength": 91,
+            "voiceIdx": 9,
+            "voiceSheetId": "051026001",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1532027928497095
+                },
                 {
                     "origLen": 26,
                     "pathId": -8622202998386868124
                 },
                 {
                     "origLen": 102,
-                    "pathId": 1532027928497095
+                    "pathId": -4708120797213950238
                 },
                 {
                     "origLen": 102,
                     "pathId": 3723303146806500297
-                },
-                {
-                    "origLen": 102,
-                    "pathId": -4708120797213950238
                 }
             ],
             "pathId": -6258785433745501905,
@@ -851,25 +912,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ええ、お任せください！！\r\n全生徒の模範、学級委員長である、\nこのサクラバクシンオーに！！",
-            "enText": "Yes, you can count on me! To the exemplar \nof all students, the class president, \nSakura Bakushin O!",
+            "enText": "Yeah, just leave it to me, the perfect<n>role model\nfor all students—the class<n>representative, Sakura\nBakushin O!",
             "nextBlock": 32,
             "origClipLength": 103,
+            "voiceIdx": 6,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 5147404520493642168
+                },
                 {
                     "origLen": 86,
                     "pathId": -6780479187310915972
                 },
                 {
                     "origLen": 114,
-                    "pathId": 5147404520493642168
+                    "pathId": -2876585967606867330
                 },
                 {
                     "origLen": 62,
                     "pathId": -1375089926254850486
-                },
-                {
-                    "origLen": 114,
-                    "pathId": -2876585967606867330
                 }
             ],
             "pathId": -2721220360628485735,
@@ -879,25 +942,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……。\r\n……友だち。",
-            "enText": "… Friends.",
+            "enText": "...My friend.",
             "nextBlock": 33,
             "origClipLength": 59,
+            "voiceIdx": 4,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": 6358276008767993309
-                },
                 {
                     "origLen": 70,
                     "pathId": 7710684924852909132
                 },
                 {
                     "origLen": 70,
-                    "pathId": -2760285690113580072
+                    "pathId": 6358276008767993309
                 },
                 {
                     "origLen": 70,
                     "pathId": 5250308978105581691
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2760285690113580072
                 }
             ],
             "pathId": -4678806525000185370,
@@ -907,25 +972,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――その後。",
-            "enText": "—Then.",
+            "enText": "From then on...",
             "nextBlock": 34,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": 8425378561696041006
-                },
                 {
                     "origLen": 27,
                     "pathId": -1037805748064048695
                 },
                 {
-                    "origLen": 42,
-                    "pathId": -673183899775290375
+                    "origLen": 27,
+                    "pathId": 8425378561696041006
                 },
                 {
                     "origLen": 41,
                     "pathId": 6205662468046488036
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -673183899775290375
                 }
             ],
             "pathId": -1979764215689131693,
@@ -935,9 +1002,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "自販機の側で少しだけソワソワと\r\n友だち――サクラバクシンオーを探す、\nミホノブルボンを見かけるようになった。",
-            "enText": "I started to see Mihono Bourbon standing \nby the vending machine, looking for \nher friend Sakura Bakushin O, who \nwas a little bit nervous.",
+            "enText": "I start to notice Mihono Bourbon near<n>vending\nmachines at times, restlessly<n>searching for her\nfriend, Sakura Bakushin<n>O.",
             "nextBlock": -1,
             "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4651855453254136185,
             "blockIdx": 34
         },
@@ -945,13 +1014,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "道具……トングのようなもの、でしょうか？",
-            "enText": "Tools like… tongues, right?",
+            "enText": "A tool... perhaps something like tongs?",
             "nextBlock": 36,
             "origClipLength": 71,
+            "voiceIdx": 34,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 72,
                     "pathId": 71417806813176275
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 1757889971202446660
                 },
                 {
                     "origLen": 94,
@@ -959,15 +1034,11 @@
                 },
                 {
                     "origLen": 82,
-                    "pathId": 1757889971202446660
+                    "pathId": 5074398705591506817
                 },
                 {
                     "origLen": 83,
                     "pathId": 5837023563897523344
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 5074398705591506817
                 }
             ],
             "pathId": 539561146142575092,
@@ -977,9 +1048,11 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なるほど！！　貴方、\r\nなかなか頭がまわりますね！！",
-            "enText": "I see! You're quite clever, aren't you?",
+            "enText": "I see! You've got a good head on your<n>shoulders!",
             "nextBlock": 37,
             "origClipLength": 78,
+            "voiceIdx": 9,
+            "voiceSheetId": "051041001",
             "animData": [
                 {
                     "origLen": 20,
@@ -987,19 +1060,19 @@
                 },
                 {
                     "origLen": 89,
+                    "pathId": 5848141015615900144
+                },
+                {
+                    "origLen": 89,
                     "pathId": 176176290876521599
                 },
                 {
                     "origLen": 89,
-                    "pathId": 5848141015615900144
+                    "pathId": -885306610270100806
                 },
                 {
                     "origLen": 57,
                     "pathId": -6478330334018112726
-                },
-                {
-                    "origLen": 89,
-                    "pathId": -885306610270100806
                 }
             ],
             "pathId": 562798971062874501,
@@ -1009,25 +1082,27 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "それならばお金も入れられますし、\r\n直接、触らずに済むでしょう！\n今後は、それで行きましょう！！",
-            "enText": "That way we can put the money in there and \nnot have to touch it directly! Let's go with \nthat from now on!",
+            "enText": "You can use them to put your money in<n>and all\nthat without actually touching<n>the machine! Let's\ngo try it out later!",
             "nextBlock": 38,
             "origClipLength": 107,
+            "voiceIdx": 73,
+            "voiceSheetId": "051041001",
             "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 8943869559401183126
+                },
                 {
                     "origLen": 85,
                     "pathId": -1208137533835894479
                 },
                 {
                     "origLen": 118,
-                    "pathId": 8943869559401183126
+                    "pathId": -6706591615270695593
                 },
                 {
                     "origLen": 82,
                     "pathId": 2027696426856401578
-                },
-                {
-                    "origLen": 118,
-                    "pathId": -6706591615270695593
                 }
             ],
             "pathId": -4898976337811034408,
@@ -1037,25 +1112,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "わかりました。\r\nマスターのご指示に従います。",
-            "enText": "I understand. I will follow \nMaster's instructions.",
+            "enText": "Understood. I will do as Trainer<n>commands.",
             "nextBlock": 39,
             "origClipLength": 75,
+            "voiceIdx": 47,
+            "voiceSheetId": "051026001",
             "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 2891298459534433186
+                },
                 {
                     "origLen": 11,
                     "pathId": -6442298158163418026
                 },
                 {
                     "origLen": 86,
-                    "pathId": 2891298459534433186
+                    "pathId": 400639343376328167
                 },
                 {
                     "origLen": 86,
                     "pathId": -7425557650488159270
-                },
-                {
-                    "origLen": 86,
-                    "pathId": 400639343376328167
                 }
             ],
             "pathId": 1440688124168225825,
@@ -1065,25 +1142,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、ミホノブルボンが\r\nトングを利用し自販機を使おうとすると――",
-            "enText": "Then, when Mihono Bourbon tried to use the \ntongs to get into the vending machine…",
+            "enText": "After that, Mihono Bourbon tries using<n>tongs to\noperate a vending machine.",
             "nextBlock": 40,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -168325316195656779
-                },
                 {
                     "origLen": 53,
                     "pathId": 5267936368754453163
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 6383816826359133776
+                    "origLen": 53,
+                    "pathId": -168325316195656779
                 },
                 {
                     "origLen": 40,
                     "pathId": -2606358672060894780
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 6383816826359133776
                 }
             ],
             "pathId": -1775676322301887536,
@@ -1093,17 +1172,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "えっ、なになに？\r\nブルボンちゃん、なんでトング？",
-            "enText": "What? What? Bourbon, why the tongs?",
+            "enText": "Uh, what's all this? Why're you using<n>tongs,\nBourbon?",
             "nextBlock": 41,
             "origClipLength": 77,
+            "voiceIdx": 32,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 106,
-                    "pathId": -5445574729878222456
-                },
                 {
                     "origLen": 107,
                     "pathId": 4488079165737871753
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -5445574729878222456
                 }
             ],
             "pathId": -634301136333294911,
@@ -1113,17 +1194,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "もしかして、ジュース買うの？\r\nだったら、ファル子が押してあげる～！",
-            "enText": "Are you buying juice? If so, \nFalko will push you～!",
+            "enText": "Do you want to buy some juice or<n>something? I'll\npress the buttons for you!",
             "nextBlock": 42,
             "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": -5190979623763661645
-                },
                 {
                     "origLen": 100,
                     "pathId": 6291457366399604366
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -5190979623763661645
                 }
             ],
             "pathId": -229859489337767527,
@@ -1133,25 +1216,27 @@
             "jpName": "ニシノフラワー",
             "enName": "Nishino Flower",
             "jpText": "ふふっ、ブルボンさん。\r\nトングを使わなくても大丈夫ですよ。\n私が押して――",
-            "enText": "Phew, Ms. Bourbon. You don't have \nto use the tongs. I'll push—",
+            "enText": "Hehe... You don't need those tongs,<n>Bourbon. I'll\nhelp you out—",
             "nextBlock": 43,
             "origClipLength": 94,
+            "voiceIdx": 0,
+            "voiceSheetId": "051051001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -1206753665431219298
-                },
                 {
                     "origLen": 27,
                     "pathId": 3606114436804713774
                 },
                 {
-                    "origLen": 118,
-                    "pathId": 8506521774027447953
+                    "origLen": 27,
+                    "pathId": -1206753665431219298
                 },
                 {
                     "origLen": 118,
                     "pathId": 3082002574844585197
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 8506521774027447953
                 }
             ],
             "pathId": 8097906475029851650,
@@ -1161,17 +1246,19 @@
             "jpName": "ニシノフラワー",
             "enName": "Nishino Flower",
             "jpText": "あ……ご、ごめんなさい。\r\n1番上は届かなくて……その、\n持ち上げてもらえませんか……。",
-            "enText": "Oh… I'm sorry. I can't reach the top \none… Well, could you lift it up for \nme, please?…",
+            "enText": "Ah... sorry. I can't reach the top button...<n>Can you\ngive me a boost?",
             "nextBlock": 44,
             "origClipLength": 102,
+            "voiceIdx": 54,
+            "voiceSheetId": "051051001",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": -5005668844287869147
-                },
                 {
                     "origLen": 113,
                     "pathId": -7617342302014773846
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -5005668844287869147
                 }
             ],
             "pathId": 4039795260052336966,
@@ -1181,25 +1268,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "――と、その後も近くにいる誰かが\r\n助けてくださいました。",
-            "enText": "— and someone nearby helped me afterwards.",
+            "enText": "Since then, people nearby always end<n>up helping\nme.",
             "nextBlock": 45,
             "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 110,
-                    "pathId": 5890930888663222079
-                },
                 {
                     "origLen": 110,
                     "pathId": 557839083316842
                 },
                 {
-                    "origLen": 20,
-                    "pathId": -761645546237776446
+                    "origLen": 110,
+                    "pathId": 5890930888663222079
                 },
                 {
                     "origLen": 20,
                     "pathId": -9182075886035106250
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -761645546237776446
                 }
             ],
             "pathId": -241817411180740414,
@@ -1209,24 +1298,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "これらの経験から、助けを求めることが\r\nトングを使うよりも効率的であると\n判断しました。",
-            "enText": "From these experiences, I decided \nthat asking for help was more efficient \nthan using tongs.",
+            "enText": "Based on this experience, I have<n>determined that\nasking for help is more<n>efficient than using tongs.",
             "nextBlock": 46,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いいと思う！",
-                    "enText": "I think it's good!",
+                    "enText": "Sounds like a plan to me!",
                     "nextBlock": 46
                 }
             ],
             "animData": [
                 {
-                    "origLen": 93,
-                    "pathId": 8191844163283615585
-                },
-                {
                     "origLen": 113,
                     "pathId": -4986266403690629032
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8191844163283615585
                 }
             ],
             "pathId": -5343475364848182187,
@@ -1236,9 +1327,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……はい。",
-            "enText": "… Yes.",
+            "enText": "Indeed.",
             "nextBlock": 47,
             "origClipLength": 51,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 16,
@@ -1246,11 +1339,11 @@
                 },
                 {
                     "origLen": 62,
-                    "pathId": -6744842741615829259
+                    "pathId": 2611514926718816479
                 },
                 {
                     "origLen": 62,
-                    "pathId": 2611514926718816479
+                    "pathId": -6744842741615829259
                 }
             ],
             "pathId": -9099127064046996012,
@@ -1260,17 +1353,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "コミュニケーション・レベルの低い\r\n私でも……求めれば、\n誰かが助けてくれるのですね。",
-            "enText": "Even if I have a low level of communication, \nI can ask for help… and someone \nwill help me.",
+            "enText": "Despite my lack of communication skills,<n>\nsomeone will help me if I ask.",
             "nextBlock": 48,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 112,
-                    "pathId": -3650504926970517647
+                    "pathId": 796086035005300780
                 },
                 {
                     "origLen": 112,
-                    "pathId": 796086035005300780
+                    "pathId": -3650504926970517647
                 }
             ],
             "pathId": -2651115141496358845,
@@ -1280,17 +1375,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……このことは、しっかりとメモリに\r\n記録しておこうと思います。",
-            "enText": "… I'll be sure to record \nthis in my memory.",
+            "enText": "I will be sure to record this in my<n>memory logs.",
             "nextBlock": 49,
             "origClipLength": 86,
+            "voiceIdx": 62,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 8635576343338160403
-                },
                 {
                     "origLen": 99,
                     "pathId": -5821882782784688724
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 8635576343338160403
                 }
             ],
             "pathId": -4614764360229874914,
@@ -1300,17 +1397,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ミホノブルボンが気づいていないだけで、\r\n助けてくれる友だちは、たくさんいたようだ。",
-            "enText": "It seems that Mihono Bourbon had many friends \nwho were willing to help her, even if they \ndidn't realize it.",
+            "enText": "It seems like Mihono Bourbon has plenty<n>of\nfriends willing to help her—she just<n>hadn't\nrealized it.",
             "nextBlock": 50,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": 586736917878639617
+                    "pathId": -5652588341267116290
                 },
                 {
                     "origLen": 26,
-                    "pathId": -5652588341267116290
+                    "pathId": 586736917878639617
                 }
             ],
             "pathId": -971081379087112989,
@@ -1320,22 +1419,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "誰かに頼ること――\r\nそんな大切なことに気づいた\nミホノブルボンだった。",
-            "enText": "It was Mihono Bourbon who realized how \nimportant it is to have someone to rely on.",
+            "enText": "And now, she knows just how important<n>it is to\nrely on others.",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -2075922337347964636
-                },
                 {
                     "origLen": 102,
                     "pathId": 3078725873969198338
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2075922337347964636
                 }
             ],
             "pathId": 2925696189297411338,
             "blockIdx": 50
         }
-    ],
-    "modified": 1657444303
+    ]
 }

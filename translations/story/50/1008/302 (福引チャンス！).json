@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "SHHBAFY66CRZFAREECXJWN525PUJ3CXL",
+    "version": 6,
+    "bundle": "5YMUN3FNZN753LSVTXXSF3MUT2H2MATJ",
     "type": "story",
     "storyId": "501008302",
     "title": "福引チャンス！",
+    "enTitle": "Raffle Time!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日の夕方。買い出しを済ませて、\r\n商店街を歩いていると――",
-            "enText": "One day, in the evening. I had finished \nmy shopping and was walking along \nthe shopping street.",
+            "enText": "One evening, Vodka and I are walking<n>through\nthe shopping district on our way<n>back from some\nerrands, when...",
             "nextBlock": 2,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 7289790175147017015
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7222746618660330660
+                }
+            ],
             "pathId": -4776362706701358377,
             "blockIdx": 1
         },
@@ -18,21 +32,55 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ん？　見ろよ、トレーナー。前に\r\nヒトだかりができてるぜ。なんだありゃ？",
-            "enText": "Hmm? Look, trainer. There's a crowd of people \nin front of you. What's that?",
+            "enText": "Hey, look over there. There's a crowd. I<n>wonder\nwhat's goin' on?",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "voiceIdx": 20,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 781106204938310332
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4141593247395106402
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4961347192216365970
+                }
+            ],
             "pathId": -8323966232582520117,
             "blockIdx": 2
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "さあさ、新春・大福引祭り開催中だよ～！\r\n特賞はなんと『温泉旅行券』！",
-            "enText": "Come on, it's time for the New Year's Big \nLuck Draw Festival! The special prize is a \nhot spring trip ticket!",
+            "enText": "Step right up and try your luck with our<n>New\nYear's raffle! This year's grand-prize<n>is a hot\nspring vacation for two!",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "温泉旅行券",
-                    "enText": "hot-spring resort voucher"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6554577982185449609
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 7533847828415293736
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 2852413338174964154
                 }
             ],
             "pathId": -7431445016154679191,
@@ -40,19 +88,53 @@
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "1等は『特上にんじんハンバーグ』\r\n2等は『にんじん山盛り』\n3等は『にんじん1本』！",
-            "enText": "First prize is a \"special carrot hamburger \nsteak\", second prize is a \"pile of carrots\", \nand third prize is a \"carrot\"!",
+            "enText": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize winners<n>get a bushel of\ncarrots! And third-prize<n>winners can take home a\nsingle carrot!",
             "nextBlock": 5,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 1895467278321013915
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8933582941862547436
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -2941027318838982828
+                }
+            ],
             "pathId": 945560426057417600,
             "blockIdx": 4
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "そこの粋なウマ娘さん、\r\nよければやっていかないかい～！",
-            "enText": "If you're so inclined, let's do it!",
+            "enText": "How about you? The stylish Umamusume<n>over\nthere! Care to try your luck?",
             "nextBlock": 6,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6863050014173128992
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 9006544052749840246
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7233146062393938336
+                }
+            ],
             "pathId": -699713931002189326,
             "blockIdx": 5
         },
@@ -60,8 +142,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "福引……だと！？\r\nヤベぇ、こいつはマジヤベぇ……。",
-            "enText": "It's a lucky draw…! Yikes, \nthis guy is really bad…",
+            "enText": "A raffle?! This is bad, Trainer! Real bad...",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "voiceIdx": 27,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 4643529712328160652
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -952115005044566069
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -6380000694264595213
+                }
+            ],
             "pathId": -8255421828381001120,
             "blockIdx": 6
         },
@@ -69,8 +168,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "父ちゃんがハマって、母ちゃんに\r\nガチギレされたヤツだ。『こんな賭けに、\nのめり込んでんじゃない』って。",
-            "enText": "It's the one that my dad got into and my mom \ngot mad at her for. She said, \"Don't get so \ninvolved in this kind of betting.",
+            "enText": "My pops got hooked on the raffle and<n>my mom\nyelled at him so much for it! She<n>said it's a black\nhole that swallows<n>people's lives...",
             "nextBlock": 8,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -2657187199305172562
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -8314689218654623050
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7342329337323097934
+                }
+            ],
             "pathId": 8449585687209635192,
             "blockIdx": 7
         },
@@ -78,8 +194,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "でも、やらずにはいられねえ！\r\n俺の血が騒ぐ！",
-            "enText": "But I can't help it! My blood is boiling!",
+            "enText": "But I just can't help myself! It's in my<n>blood!",
             "nextBlock": 9,
+            "origClipLength": 75,
+            "voiceIdx": 125,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 6607025597258119916
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 2407346172217281960
+                }
+            ],
             "pathId": 8893924704454416217,
             "blockIdx": 8
         },
@@ -87,8 +216,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "トレーナー、1回だけいいだろ？\r\nな？　な？",
-            "enText": "Trainer, just one time, okay? Huh? Huh?",
+            "enText": "It's okay if I just do it once, right?<n>Right?!",
             "nextBlock": 10,
+            "origClipLength": 73,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 7244518800992765553
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 1634794367034287997
+                }
+            ],
             "pathId": 4267555394585624863,
             "blockIdx": 9
         },
@@ -96,8 +238,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ちょうど買い物した時にもらった福引券が\r\n1枚ある。軽くうなずくと――",
-            "enText": "I have one of the lucky draw tickets \nthat I got when I was just shopping. \nWith a slight nod…",
+            "enText": "We got a free ticket for the raffle with<n>one of\ntoday's purchases, so I give<n>Vodka a hesitant nod.",
             "nextBlock": 11,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7337084949503370180
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8399779452380235246
+                }
+            ],
             "pathId": -2309966586017819678,
             "blockIdx": 10
         },
@@ -105,8 +260,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "サンキュー！　こいつは昂るぜ。",
-            "enText": "Thank you! This is exciting.",
+            "enText": "Thanks, Trainer! I'm gettin' excited!",
             "nextBlock": 12,
+            "origClipLength": 64,
+            "voiceIdx": 12,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 3051556596913974465
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -45500908985497752
+                }
+            ],
             "pathId": 412594077581909299,
             "blockIdx": 11
         },
@@ -114,8 +282,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "でも母ちゃんには内緒な？\r\nチクッたりすんなよな？",
-            "enText": "But don't tell my mom, okay? \nDon't tip her off, okay?",
+            "enText": "But you've gotta keep this a secret from<n>my mom.\nSnitches get stitches, you<n>know!",
             "nextBlock": 13,
+            "origClipLength": 77,
+            "voiceIdx": 86,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 919634437515721054
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -198509511809357020
+                }
+            ],
             "pathId": -613668013229950157,
             "blockIdx": 12
         },
@@ -123,8 +304,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よし行くぜ！　チャンスは1回きりだ！\r\nトレーナー、どうせなら一緒に回すか。",
-            "enText": "All right, let's go! We only get one shot at \nthis! Trainer, I'll spin with you anyway.",
+            "enText": "All right. Let's go! We've only got one<n>chance!\nLet's turn the handle together.",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 2024225166550994122
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 2949387413803652048
+                }
+            ],
             "pathId": 5219028747459819172,
             "blockIdx": 13
         },
@@ -132,8 +326,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "レバーを握れ。ギアを上げて、思いっきり\r\n回せ。特賞目指して、アクセル全開だぜ！",
-            "enText": "Hold the lever. Raise the gears and spin as \nhard as you can. We're going for the grand \nprize, full throttle!",
+            "enText": "Grab the handle, shift into high gear,<n>and crank it\nas hard as ya can. Hit the<n>gas and go for the\ngrand-prize!",
             "nextBlock": 15,
+            "origClipLength": 97,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -2854806634583337526
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -3088658639765805141
+                }
+            ],
             "pathId": -5499828356145727810,
             "blockIdx": 14
         },
@@ -141,8 +348,11 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うおりゃああああ！",
-            "enText": "Ooohhhh!",
+            "enText": "Yeaaahhhhh!",
             "nextBlock": 16,
+            "origClipLength": 56,
+            "voiceIdx": 126,
+            "voiceSheetId": "051008001",
             "pathId": -4841110672634853814,
             "blockIdx": 15
         },
@@ -150,8 +360,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "あらん限りの力で、抽選器を回し、\r\n渾身の球を吐き出させる。",
-            "enText": "With all my strength, I spin the lottery \nmachine and make it spit out the ball \nwith all my might.",
+            "enText": "We muster all the strength we can, turn<n>the\nhandle, and the raffle spinner spits<n>out our prize.",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1007386758504052234,
             "blockIdx": 16
         },
@@ -159,17 +372,33 @@
             "jpName": "",
             "enName": "",
             "jpText": "結果は――",
-            "enText": "The results—",
+            "enText": "A small plastic ball drops from the<n>tumbler's\nopening...",
             "nextBlock": 18,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5219882784290031374,
             "blockIdx": 17
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "なんとっ！　おめでとうございまぁぁぁす！！\n特賞『温泉旅行券』、出ましたぁ～～～～！！",
-            "enText": "Oh, my God! Congratulations! The special \nprize, a trip to the hot springs, is now \navailable at ～～～～!",
+            "enText": "Holy mackerel! We've got ourselves a<n>grand-prize\nwinner! Come and get the<n>coupon for your hot\nspring vacation!<n>Congratulations!",
             "nextBlock": 19,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 198,
+                    "pathId": -2161821029435531383
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -7837576130157098691
+                }
+            ],
             "pathId": -6869738247772301054,
             "blockIdx": 18
         },
@@ -177,12 +406,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 20,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<アイテム名>"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 198,
+                    "pathId": 4830009902296926190
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -1624082820919742913
                 }
             ],
             "pathId": 367217004328817007,
@@ -192,8 +434,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "なぁぁぁにぃぃぃ！！\r\n特賞だとぉ！？　おっしゃああああッ！！",
-            "enText": "What? ! A special prize? Whoo-hoo-hoo!",
+            "enText": "Whaaaaat?! The grand-prize?! Hell<n>yeahhhhh!",
             "nextBlock": 21,
+            "origClipLength": 85,
+            "voiceIdx": 6,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -4280907405831112912
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1185260710811460558
+                }
+            ],
             "pathId": -7600232592426452525,
             "blockIdx": 20
         },
@@ -201,8 +456,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "見たかっ、キメてやったぜー！\r\nどんなもんだっ！　っし！　おら！",
-            "enText": "Look what I got! Look at that! Shh! Hey!",
+            "enText": "Didja see that?! We really did it! Check<n>us out!",
             "nextBlock": 22,
+            "origClipLength": 86,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -5249983449857166663
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8378857093307968817
+                }
+            ],
             "pathId": 6943371738735052380,
             "blockIdx": 21
         },
@@ -210,8 +478,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "レースで勝ったかの如く、大喜びする\r\nウオッカ。よほど嬉しかったようだ。",
-            "enText": "Vodka was overjoyed, as if she had won a \nrace. She seemed to be very happy.",
+            "enText": "Vodka looks overjoyed as if she just won<n>a race.",
             "nextBlock": 23,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -6301245868378251439
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 893597785885895525
+                }
+            ],
             "pathId": 7075624835708313433,
             "blockIdx": 22
         },
@@ -219,8 +500,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "やべぇ、まだ心臓がバクバクしてやがる……。\r\nこの滾る感じ……。",
-            "enText": "Oh man, my heart is still racing… \nThis boiling feeling…",
+            "enText": "Oh man. My heart's still poundin'. I can<n>feel\nsomethin' wellin' up inside me...",
             "nextBlock": 24,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 6837938293287056014
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 2043476864669054153
+                }
+            ],
             "pathId": -8956439020362182904,
             "blockIdx": 23
         },
@@ -228,8 +522,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "まさにロマンの結晶だな、福引ってヤツは。\r\nこの感動……興奮……俺は忘れねえぜ。",
-            "enText": "It's the crystallization of romance, isn't \nit, Fukubiki? I'll never forget the… \nexcitement… I felt.",
+            "enText": "Lotteries are friggin' awesome! I'll never<n>forget\nthis feeling... This thrill!",
             "nextBlock": 25,
+            "origClipLength": 97,
+            "voiceIdx": 74,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -2368971566046748556
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -9142575219723654702
+                }
+            ],
             "pathId": 2573479952741031105,
             "blockIdx": 24
         },
@@ -237,13 +544,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "で……特賞って何もらえるんだっけ？",
-            "enText": "So what do I get for the \n… special prize?",
+            "enText": "So... What did we win again?",
             "nextBlock": 26,
+            "origClipLength": 67,
+            "voiceIdx": 20,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "温泉旅行のチケットだって",
-                    "enText": "Tickets for a spa trip.",
+                    "enText": "A hot spring vacation for two.",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -5501846787960918366
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 1122119937601385139
                 }
             ],
             "pathId": -7550309616418290566,
@@ -253,8 +573,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "温泉旅行！？\r\n俺とトレーナーで行けるってことか！？",
-            "enText": "A trip to the hot springs! You mean you can \ngo with me and my trainer!",
+            "enText": "\"For two?!\" Does that mean we can go<n>together?!",
             "nextBlock": 27,
+            "origClipLength": 78,
+            "voiceIdx": 27,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 228185807936856913
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8663484940709820155
+                }
+            ],
             "pathId": 2739154292508211306,
             "blockIdx": 26
         },
@@ -262,8 +595,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そいつぁ、ゴキゲンだな！\r\n温泉宿ってーと……。",
-            "enText": "That's a great idea! A hot \nspring hotel is…",
+            "enText": "That's great! That means there must be<n>an inn as\nwell.",
             "nextBlock": 28,
+            "origClipLength": 76,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2012189805529977109
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5693322568282301821
+                }
+            ],
             "pathId": -9062259643309378321,
             "blockIdx": 27
         },
@@ -271,8 +617,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "峠の中腹とかにあるんだろうな。\r\nツーリングの最中、立ち寄って……。",
-            "enText": "I guess it's in the middle of a mountain \npass or something. While touring, stop \nby and visit…",
+            "enText": "I bet it's in the middle of some mountain<n>pass. We\ncould stop there on a<n>motorcycle tour...",
             "nextBlock": 29,
+            "origClipLength": 89,
+            "voiceIdx": 3,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 6405174513255760632
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 6893986392093471814
+                }
+            ],
             "pathId": -2401757613272118315,
             "blockIdx": 28
         },
@@ -280,8 +639,11 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "温泉で汗を流し、うまいもんをつつき……。\r\nクーッ、ハートに染みるぜ。",
-            "enText": "Sweat it out in the hot springs, grab \na bite to eat, and go to… It's \nsoothing to the soul.",
+            "enText": "Sweat everything out in the bath, eat<n>some\ndelicious food... It's gettin' my<n>blood pumpin' just\nthinkin' about it.",
             "nextBlock": 30,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -574085694414091638,
             "blockIdx": 29
         },
@@ -289,13 +651,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ただひとつ問題があんな。",
-            "enText": "There's just one problem.",
+            "enText": "There's only one problem.",
             "nextBlock": 31,
+            "origClipLength": 60,
+            "voiceIdx": 86,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "どんな問題が？",
-                    "enText": "What's the problem?",
+                    "enText": "What's that?",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 6268282000305827397
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1577108436646624360
                 }
             ],
             "pathId": 8957968889407929571,
@@ -305,8 +680,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "俺、まだ単車持ってねえ。電車でガタゴト\r\n行って、温泉に浸かるんじゃ、\nただの慰安旅行だぜ。",
-            "enText": "I don't have a motorcycle yet. If I \ntake a train and soak in a hot spring, \nit's just a comfort trip.",
+            "enText": "I don't have a motorcycle yet. Goin' to a<n>hot\nspring by train is just an ordinary<n>vacation.",
             "nextBlock": 32,
+            "origClipLength": 105,
+            "voiceIdx": 79,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -5352443736396990408
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 6218103445331777378
+                }
+            ],
             "pathId": -7067420289147223888,
             "blockIdx": 31
         },
@@ -314,8 +702,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うーん、どうにかクールに楽しむ方法は……。",
-            "enText": "Hmmm, somehow a cool way to have \nfun is to go to…",
+            "enText": "Hm... There's gotta be some way to<n>enjoy it while\nstill bein' cool...",
             "nextBlock": 33,
+            "origClipLength": 72,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 8665157069698101737
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 515296750619791208
+                }
+            ],
             "pathId": -4621220142293581721,
             "blockIdx": 32
         },
@@ -323,8 +724,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "考えた末に――",
-            "enText": "I've been thinking.",
+            "enText": "After giving it some thought...",
             "nextBlock": 34,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 3151443987839327334
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3945484443218113053
+                }
+            ],
             "pathId": -6244412000831924141,
             "blockIdx": 33
         },
@@ -332,8 +746,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そうだ、トレーナー！\r\nこの券はしばらくお預けにしねえか？",
-            "enText": "That's right, trainer! Can't we keep \nthese tickets for a while?",
+            "enText": "I know! Why don't we hold on to this<n>ticket for a\nwhile?",
             "nextBlock": 35,
+            "origClipLength": 82,
+            "voiceIdx": 56,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -9037551557790013323
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -8945546125359130413
+                }
+            ],
             "pathId": 5511681462864093768,
             "blockIdx": 34
         },
@@ -341,8 +768,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "トゥインクル・シリーズが一段落した頃には\r\nバイクも持ってるかもしれねえだろ？",
-            "enText": "Maybe by the time the Twinkle series is over, \nyou'll have a motorcycle, huh?",
+            "enText": "I might have a motorcycle by the time<n>the Twinkle\nSeries is over, y'know?",
             "nextBlock": 36,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 2438969255344372392
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3657307667567894413
+                }
+            ],
             "pathId": -5544455349686689436,
             "blockIdx": 35
         },
@@ -350,18 +790,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "もしかしたらトレーナーはすぐ行きたいかも\r\nしれないけど……。",
-            "enText": "Maybe your trainer would \nlike to go soon…",
+            "enText": "...Or do you wanna go right away?",
             "nextBlock": 37,
+            "origClipLength": 85,
+            "voiceIdx": 35,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "ウオッカの好きにしていいぞ",
-                    "enText": "You can do whatever you want with the vodka.",
+                    "enText": "We can do it however you want.",
                     "nextBlock": 37
                 },
                 {
                     "jpText": "ウオッカの好きにしていいよ",
-                    "enText": "You can do whatever you want with the vodka.",
+                    "enText": "We can do it however you want.",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 6597248453002289928
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 4500700558199266530
                 }
             ],
             "pathId": 1213962663465220294,
@@ -371,8 +824,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "マジか！？　サンキュー！\r\nじゃあ、この券は未来にお預けだ。",
-            "enText": "Seriously? Thank you! Well then, I'll leave \nthis ticket for the future.",
+            "enText": "Seriously?! Thanks! Then let's save it for<n>later.",
             "nextBlock": 38,
+            "origClipLength": 84,
+            "voiceIdx": 12,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 1209196101385572646
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3683327085802699202
+                }
+            ],
             "pathId": -6826151755240987620,
             "blockIdx": 37
         },
@@ -380,8 +846,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "絶対にツーリングで温泉行こうな。\r\nで峠を攻めた思い出、アツく語ろうぜ！",
-            "enText": "Let's definitely go to the hot springs on our \ntouring. And chat about our memories of \nattacking the mountain passes!",
+            "enText": "We've gotta go to that hot spring by<n>motorcycle.\nThen later on, we'll have a<n>great story about\ntackling the mountain<n>passes!",
             "nextBlock": 39,
+            "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 7416487266825332500
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 1001357089303617479
+                }
+            ],
             "pathId": -1593500672035275361,
             "blockIdx": 38
         },
@@ -389,17 +868,43 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして特賞の券を使うのは、先延ばしに\r\nした。楽しみな約束がひとつ増えた。",
-            "enText": "Thus, I postponed using the special \nprize ticket. I had one more appointment \nto look forward to.",
+            "enText": "And so we put off using the ticket,<n>giving us one\nmore thing to look forward<n>to.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5188642969905564219
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 5482968493945731158
+                }
+            ],
             "pathId": -467471202300729387,
             "blockIdx": 39
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "おめでとうございます、1等賞～！\n賞品は『特上にんじんハンバーグ』です！",
-            "enText": "Congratulations, first prize~! The prize is a \n\"Special Carrot Hamburger\"!",
+            "enText": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!",
             "nextBlock": 41,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": -6693364717431463629
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -8567255627106817924
+                }
+            ],
             "pathId": 1525852888783894651,
             "blockIdx": 40
         },
@@ -407,12 +912,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 42,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<アイテム名>"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 2025631804403508447
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -5113942882693551429
                 }
             ],
             "pathId": 1667226407047540878,
@@ -422,8 +940,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "へー、1等か！\r\n相当いいんじゃねえか、これ！",
-            "enText": "Oh, first prize! That's \npretty good, isn't it!",
+            "enText": "Whoa! First-prize! That's pretty good!",
             "nextBlock": 43,
+            "origClipLength": 75,
+            "voiceIdx": 8,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -2659118685092954428
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -6549883527523469610
+                }
+            ],
             "pathId": 2998211103563727441,
             "blockIdx": 42
         },
@@ -431,8 +962,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "『特上にんじんハンバーグ』。\r\nパねえ材料を容赦なく使ってそうだな。",
-            "enText": "\"Special Carrot Hamburger\". It looks \nlike they're relentlessly using the \nsame old ingredients.",
+            "enText": "A deluxe carrot hamburger steak. And it<n>looks\nlike they didn't skimp on the<n>ingredients!",
             "nextBlock": 44,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -381747839090614141
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 216178573874268274
+                }
+            ],
             "pathId": -3012910115877420950,
             "blockIdx": 43
         },
@@ -440,8 +984,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "さて、どう料理してやるか……？",
-            "enText": "Now, how do we cook it…?",
+            "enText": "So, how should I prepare it?",
             "nextBlock": 45,
+            "origClipLength": 64,
+            "voiceIdx": 79,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -6965445302840323851
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -8057641054442987594
+                }
+            ],
             "pathId": 300015632362930462,
             "blockIdx": 44
         },
@@ -449,8 +1006,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "赤ワインで煮込んで、\r\n欧風にしてもよさそうだな……。",
-            "enText": "I think it would be good stewed in \nred wine, European style…",
+            "enText": "I bet it'd be good cooked in red wine,<n>European\nstyle...",
             "nextBlock": 46,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -6486640926151124638
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -6027770934362043615
+                }
+            ],
             "pathId": 5493129012853635789,
             "blockIdx": 45
         },
@@ -458,13 +1028,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あるいは和がらしのソースで、ピリッと\r\n爽やかに仕上げるか。いや、それとも……。",
-            "enText": "Or maybe you'd like a tangy, refreshing sauce \nwith Japanese mustard. No, or…",
+            "enText": "Or maybe in a Japanese mustard sauce<n>to make it\nspicy, yet refreshing. Or...",
             "nextBlock": 47,
+            "origClipLength": 97,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "……ウオッカ？",
-                    "enText": "… Vodka?",
+                    "enText": "Vodka?",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -2461226447897792974
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3133270962759144580
                 }
             ],
             "pathId": 3583097872364331646,
@@ -474,8 +1057,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あっ、いや！　いやいやいや！\r\nなんでもねえ！",
-            "enText": "Oh, no! No, no, no, no! It's nothing!",
+            "enText": "Oh. Nothing. Nothing at all! Ignore me!",
             "nextBlock": 48,
+            "origClipLength": 75,
+            "voiceIdx": 14,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -5942249627647323523
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -768977329922223022
+                }
+            ],
             "pathId": -7217874187600203514,
             "blockIdx": 47
         },
@@ -483,8 +1079,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ハンバーグの食い方なんて、ひとつだよな！",
-            "enText": "There's only one way to eat a hamburger!",
+            "enText": "There's only one way to eat hamburger<n>steak!",
             "nextBlock": 49,
+            "origClipLength": 71,
+            "voiceIdx": 38,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 968473825537713925
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -518772263061072411
+                }
+            ],
             "pathId": -8663597851016250522,
             "blockIdx": 48
         },
@@ -492,8 +1101,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "木の枝の先に吊るす！　で焚火で焼いて、\r\nワイルドにかぶりつく！　これだこれ！",
-            "enText": "Hang them on the end of a tree branch! And \nthen roast them over a campfire and bite into \nthem wildly! That's it!",
+            "enText": "You gotta put it on a stick, grill it over a<n>bonfire,\nand then eat it right off the<n>stick! That's it!",
             "nextBlock": 50,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 7288985350781478809
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4529717441877717663
+                }
+            ],
             "pathId": 8213877744347183746,
             "blockIdx": 49
         },
@@ -501,8 +1123,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "後で、学園内の中庭でやろうぜ。\r\nこいつは精がつきそうだ。わははははっ！",
-            "enText": "Let's do it later in the courtyard \nof the school. It's going to be \na lot of fun. Hahahahaha!",
+            "enText": "Let's do that in the academy courtyard<n>later. I bet\nthis'll give me loads of<n>energy. Ahahaha!",
             "nextBlock": 51,
+            "origClipLength": 91,
+            "voiceIdx": 1,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -1633790004942835550
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4395552987912195248
+                }
+            ],
             "pathId": -469421730251066122,
             "blockIdx": 50
         },
@@ -510,8 +1145,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……ちと火加減が難しそうだけどな。",
-            "enText": "… It's going to be a little difficult to \ncontrol the heat, though.",
+            "enText": "...The strength of the flame'll probably<n>be tough\nto control, though.",
             "nextBlock": 52,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7557736853638865618
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1013107951648605233
+                }
+            ],
             "pathId": 515871318762124161,
             "blockIdx": 51
         },
@@ -519,17 +1167,43 @@
             "jpName": "",
             "enName": "",
             "jpText": "焼き方をいろいろと気にかけている。\r\nいずれにしろ、相当いい景品を入手できて、\nなによりだった。",
-            "enText": "I'm still trying to figure out how \nto cook them. In any case, I'm glad \nI got a pretty good prize.",
+            "enText": "Vodka gets lost in thought about how to<n>cook it.\nEither way, I'm just glad we won<n>a great prize.",
             "nextBlock": -1,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 187,
+                    "pathId": -2230896116543234052
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -4059448500766441328
+                }
+            ],
             "pathId": -8055498098757564597,
             "blockIdx": 52
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "2等賞～！！\r\n賞品は『にんじん山盛り』です！",
-            "enText": "Second prize~! The prize \nis a pile of carrots!",
+            "enText": "We got a second-prize winner! It's your<n>lucky day!\nYou're going home with a<n>bushel of carrots!",
             "nextBlock": 54,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -4331691175788065913
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 3902985143090127773
+                }
+            ],
             "pathId": 8418278822283372023,
             "blockIdx": 53
         },
@@ -537,12 +1211,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 55,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<アイテム名>"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -1128968702952139170
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 4733476186600959343
                 }
             ],
             "pathId": -1130337819309471390,
@@ -552,8 +1239,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おおっ、2等！\r\n悪くねーんじゃねえか？",
-            "enText": "Oh, second prize! That's not bad, is it?",
+            "enText": "Oooh! Second-prize! Not bad at all!",
             "nextBlock": 56,
+            "origClipLength": 71,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 3989932276013393626
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5474289972485999626
+                }
+            ],
             "pathId": -5289008492211222980,
             "blockIdx": 55
         },
@@ -561,8 +1261,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "大量のにんじんか。メシ時に食ってもよし、\r\nトレーニングの合間に、かじってもよし。",
-            "enText": "A lot of carrots. You can eat them with your \nmeal, or nibble on them in between workouts.",
+            "enText": "A bushel of carrots. I can have them with<n>meals or\nas a snack between training<n>sessions.",
             "nextBlock": 57,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4149499890793530704
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3449933932183398963
+                }
+            ],
             "pathId": 2559391121015603087,
             "blockIdx": 56
         },
@@ -570,13 +1283,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ただ、なんつーか……サマにならねえな。",
-            "enText": "I just can't get enough of…",
+            "enText": "But, I dunno... It's just not that cool.",
             "nextBlock": 58,
+            "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "サマにって……何が？",
-                    "enText": "To summa… what?",
+                    "enText": "What's not?",
                     "nextBlock": 58
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6153361500234553975
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -1159984286695805207
                 }
             ],
             "pathId": -7954791173226788588,
@@ -586,8 +1312,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "持って帰る姿が、だよ。デカい紙袋に、\r\nたくさんのにんじん詰めて歩いてたら……。",
-            "enText": "It's the way they bring them home. If you \nwere walking around with a big paper bag full \nof carrots, you'd see…",
+            "enText": "The way I'm gonna look carryin' these<n>home. Me,\nlugging around a big paper<n>bag of carrots...",
             "nextBlock": 59,
+            "origClipLength": 97,
+            "voiceIdx": 84,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -3855394265868488318
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -6753094246891488048
+                }
+            ],
             "pathId": 4636430563506294918,
             "blockIdx": 58
         },
@@ -595,13 +1334,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "まんま買い物帰りの主婦じゃねーか。\r\n俺のイメージじゃねえってーか。",
-            "enText": "She's a housewife on her way home from \nshopping. That's not my image.",
+            "enText": "I'll look like some homebody that just<n>went\nshoppin'. That's not how I want<n>people to see me.",
             "nextBlock": 60,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "カッコつけて持ってみたら？",
                     "enText": "Why don't you try holding it in a cool way?",
                     "nextBlock": 60
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -7134499481894785659
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4528300292457311458
                 }
             ],
             "pathId": -8030577371934503735,
@@ -611,8 +1363,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "カッコつけて……。なるほど、ものは\r\n言いようか。なら――こんな感じか？",
-            "enText": "I'll be cool and go to… I see what you \nmean. So… it's like this?",
+            "enText": "A cool way to hold a shopping bag,<n>huh? ...Okay,\nI got it. How 'bout like<n>this?",
             "nextBlock": 61,
+            "origClipLength": 91,
+            "voiceIdx": 52,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 8739753669104168419
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -1557718020460523944
+                }
+            ],
             "pathId": -2013578470889868631,
             "blockIdx": 60
         },
@@ -620,8 +1385,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "フッ、両手いっぱいでも掴みきれねえぜ。\r\nこの俺の――にんじんってヤツはよ。",
-            "enText": "I can't even grab it with both hands. This \ncarrot of mine, you know.",
+            "enText": "Hm, I can barely even hold it with both<n>hands. All\nright, it's carrot time!",
             "nextBlock": 62,
+            "origClipLength": 94,
+            "voiceIdx": 3,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3085022267514175305
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2681865832164691508
+                }
+            ],
             "pathId": 8848488118414698734,
             "blockIdx": 61
         },
@@ -629,8 +1407,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "だぁぁぁっ、結局にんじんはにんじんじゃ\r\nねーか！　カッコよくならないって～。",
-            "enText": "Carrots are carrots after all! It's \nnot going to get any cooler!",
+            "enText": "Gahhhhh, it's no good. Carrots are just<n>carrots\nafter all! There's no way to look<n>cool with 'em.",
             "nextBlock": 63,
+            "origClipLength": 95,
+            "voiceIdx": 36,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -2343668826960310883
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4813433149231253911
+                }
+            ],
             "pathId": -3914003325597805129,
             "blockIdx": 62
         },
@@ -638,17 +1429,43 @@
             "jpName": "",
             "enName": "",
             "jpText": "やはり少し無理があった。\r\n結局、にんじんは半々に手分けして、\nありがたく持ち帰ることにした。",
-            "enText": "It was still a little too much. In the end, \nwe decided to split the carrots 50-50 and \ntake them home.",
+            "enText": "I guess it was a bit of a stretch. In the<n>end, we\ndecide to split the carrots<n>between us and carry\nthem home.",
             "nextBlock": -1,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 186,
+                    "pathId": -4739966437090636297
+                },
+                {
+                    "origLen": 151,
+                    "pathId": -315816975775797171
+                }
+            ],
             "pathId": 534868136735405855,
             "blockIdx": 63
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "3等賞～！\r\n賞品は『にんじん1本』です！",
-            "enText": "Third prize! The prize is \"a carrot\"!",
+            "enText": "Would you lookie here! You've won the<n>\nthird-prize! Here's your carrot!",
             "nextBlock": 65,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 1099705972061219500
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 2929098488519002445
+                }
+            ],
             "pathId": -1231314891789219329,
             "blockIdx": 64
         },
@@ -656,12 +1473,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 66,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<アイテム名>"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -959582893877552243
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -1502636750185403636
                 }
             ],
             "pathId": 2640145405881764228,
@@ -671,8 +1501,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "くっそ～、にんじん！　しかも1本だけか～。\r\nしけてやがるぜ……。",
-            "enText": "Damn it, carrots! And it's only one \ncarrot! It's so dull…",
+            "enText": "Ugh! A carrot! And only one! This<n>sucks...",
             "nextBlock": 67,
+            "origClipLength": 88,
+            "voiceIdx": 64,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8982964145930382427
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -6833048545752728734
+                }
+            ],
             "pathId": -5263436165960941356,
             "blockIdx": 66
         },
@@ -680,8 +1523,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "こう、テンションガツンと上がってた分、\r\n落ち込み具合もパねえな。",
-            "enText": "I've been so excited, and I'm so depressed.",
+            "enText": "Well, I guess for every wild success,<n>there are\ntimes when ya crash and burn.",
             "nextBlock": 68,
+            "origClipLength": 88,
+            "voiceIdx": 60,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2629900100995290085
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8868552046932768580
+                }
+            ],
             "pathId": -4556809084195911499,
             "blockIdx": 67
         },
@@ -689,13 +1545,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "トレーナー、食うか、にんじん？",
-            "enText": "Trainer, you want some food, carrots?",
+            "enText": "You want this carrot, Trainer?",
             "nextBlock": 69,
+            "origClipLength": 64,
+            "voiceIdx": 57,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "いや、ウオッカが食べたら？",
-                    "enText": "No. What if the vodka eats it?",
+                    "enText": "Nah. Why don't you eat it?",
                     "nextBlock": 69
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 1605577391939220239
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 5323064422612614132
                 }
             ],
             "pathId": 7257599884754902444,
@@ -705,8 +1574,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "まあ俺が食ってもいいんだけど、\r\nそんなに気も乗らないってーか。",
-            "enText": "Well, I could eat it myself, but \nI don't really feel like it.",
+            "enText": "I guess I could eat it, but I'm just not<n>feelin' it.",
             "nextBlock": 70,
+            "origClipLength": 86,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 6092982837518782052
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -1146197842727387280
+                }
+            ],
             "pathId": -3161205785121497493,
             "blockIdx": 69
         },
@@ -714,8 +1596,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "お、そうだ。せっかく当たったんだし、\r\nなら2人でかじるか。",
-            "enText": "Oh, that's right. Since we won \nit, let's both take a bite.",
+            "enText": "Ah, I know. We did win it together, so<n>why don't\nwe eat it together?",
             "nextBlock": 71,
+            "origClipLength": 84,
+            "voiceIdx": 47,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -5618279437960490576
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -1600293303078462053
+                }
+            ],
             "pathId": 4173447796072689147,
             "blockIdx": 70
         },
@@ -723,8 +1618,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "たった1本でも、一緒にかじれば、\r\n友情ぐらい分かち合えるさ。",
-            "enText": "Even if it's just one bottle, if \nwe bite into it together, we can \nat least share our friendship.",
+            "enText": "Sharing a meal together is a mark of<n>friendship,\neven if it's just one carrot.",
             "nextBlock": 72,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -4005548266210915602
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -4557101789134202871
+                }
+            ],
             "pathId": 3237607008328883389,
             "blockIdx": 71
         },
@@ -732,8 +1640,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "行こうぜ、トレーナー。",
-            "enText": "Let's go, trainer.",
+            "enText": "Let's go, Trainer.",
             "nextBlock": 73,
+            "origClipLength": 92,
+            "voiceIdx": 95,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7450397890957007955
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3297391853618884935
+                }
+            ],
             "pathId": 4373236720707352110,
             "blockIdx": 72
         },
@@ -741,17 +1662,33 @@
             "jpName": "",
             "enName": "",
             "jpText": "2人でその場を後にする。\r\nポーンと放り投げたにんじんを、\nウオッカは後ろ手にキャッチした。",
-            "enText": "The two of us left the place together. Vodka \ncaught the carrot with her back hand as She \nthrew it to the ground.",
+            "enText": "We leave together. I toss the carrot to<n>Vodka and\nshe catches it behind her<n>back.",
             "nextBlock": -1,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4613058375926390407,
             "blockIdx": 73
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Raffle Clerk",
             "jpText": "残念、はずれ！\n参加賞は『ティッシュ』だよ～。",
-            "enText": "Too bad we didn't make it! The prize for \nparticipation is a tissue!",
+            "enText": "Ohhh, tough luck! Looks like you pulled<n>a blank\none! Take this pack of tissues as<n>a consolation\nprize.",
             "nextBlock": 75,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 5420159048161678570
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 5402746547558581815
+                }
+            ],
             "pathId": -7089790863410952901,
             "blockIdx": 74
         },
@@ -759,12 +1696,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "『<itemname>』を獲得した",
-            "enText": "I got \"<itemname>\".",
+            "enText": "You obtained:<n><itemname>",
             "nextBlock": 76,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "<itemname>",
-                    "enText": "<アイテム名>"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 5114541889319800991
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -1693121291496747913
                 }
             ],
             "pathId": -1065100491860743217,
@@ -774,8 +1724,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うおおおおっ、スカッた～！\r\n盛大にスカったぁぁぁぁ！！",
-            "enText": "Whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa! It was a big hit!",
+            "enText": "Aughhh! We lost! We got the worst<n>thing!",
             "nextBlock": 77,
+            "origClipLength": 81,
+            "voiceIdx": 36,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -8134688433195029136
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -823555724514570950
+                }
+            ],
             "pathId": 3877294671664461845,
             "blockIdx": 76
         },
@@ -783,13 +1746,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "わかっちゃいたんだ……。父ちゃんも\r\nこういう時、運からっきしだしな……。",
-            "enText": "I knew it… My dad also has bad luck \nin these situations…",
+            "enText": "Now I get it... Things like this are totally<n>up to\nluck. It's the same for my dad...",
             "nextBlock": 78,
+            "origClipLength": 93,
+            "voiceIdx": 66,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "逆に気持ちいいかも？",
-                    "enText": "On the other hand, maybe it feels good?",
+                    "enText": "I think it feels kind of good.",
                     "nextBlock": 78
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 8885933756204153665
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 398105470769550434
                 }
             ],
             "pathId": 3028596024914764441,
@@ -799,8 +1775,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "……だな。ハンパに外すより、ゼロで\r\nフィニッシュのが、俺らしいってもんさ。",
-            "enText": "It's… It's more like me to finish with \nzero than to miss by a long shot.",
+            "enText": "...True. It's more like me to finish with<n>nothin' than\nto quit halfway.",
             "nextBlock": 79,
+            "origClipLength": 94,
+            "voiceIdx": 14,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 6292053744950194347
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 7172904968669871664
+                }
+            ],
             "pathId": 8401372786435443681,
             "blockIdx": 78
         },
@@ -808,8 +1797,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ティッシュ、もらっとくぜ。\r\n鼻血が出た時に、使えるかもしれねえし。",
-            "enText": "I'll take the tissues. I might be able to use \nit when my nose starts bleeding.",
+            "enText": "I'll take the tissues. I can use them when<n>I get a\nnosebleed.",
             "nextBlock": 80,
+            "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 714661328576994444
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4043784046263452595
+                }
+            ],
             "pathId": 2469470037803162992,
             "blockIdx": 79
         },
@@ -817,8 +1819,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ウオッカはゴソゴソとポケットにしまう。\r\n今日はくじ運がなかったようだ。",
-            "enText": "Vodka rummaged around and put it away in her \npocket. I guess I didn't have any luck today.",
+            "enText": "Vodka quietly puts the tissues in her<n>pocket. It\nseems luck was not on her side<n>today.",
             "nextBlock": -1,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 949921045140444857
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 7656991836498607048
+                }
+            ],
             "pathId": 1390291513527963355,
             "blockIdx": 80
         }

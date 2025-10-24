@@ -1,20 +1,24 @@
 {
-    "version": 4,
-    "bundle": "ENWIK3NQWR565KE36U7KSLCB2QQ7NIEW",
+    "version": 6,
+    "bundle": "SNKH6ASM2YLPOFY6EQRUSYOUZVKPQV4K",
     "type": "story",
     "storyId": "501040205",
     "title": "有馬記念にむけて",
+    "enTitle": "Before the Arima Kinen",
     "text": [
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "今日、ゴールドシチー走るんだよな～。\nシニア級相手にどんくらいやれるのか、\n楽しみ～。",
-            "enText": "Gold City is running today, right? I'm \nlooking forward to seeing how well she can \ndo against senior level opponents.",
+            "enText": "Gold City's running today. I can't wait to<n>see how\nshe does against the senior<n>racers.",
             "nextBlock": 2,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "シニア級",
-                    "enText": "senior class"
+                    "enText": ""
                 }
             ],
             "pathId": 1751409837217463842,
@@ -22,14 +26,17 @@
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "とか耳ざわりのいいこと言ってさ、\r\nどーせ顔が目当てなんだろ？",
-            "enText": "I'm sure they're just after your face, right?",
+            "enText": "Oh please, you're just here to ogle at<n>her pretty\nface, aren't you?",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（……！）",
-                    "enText": "(…!)",
+                    "enText": "...!",
                     "nextBlock": 3
                 }
             ],
@@ -38,33 +45,80 @@
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "バレた？　走りが楽しみなのも事実だけど、\nやっぱ本物見られるの嬉しいし！\nそういうお前もだろ～？",
-            "enText": "Did they know? I'm looking forward to the \nrun, but I'm also glad to see the real \nthing! You're one of them, aren't you?",
+            "enText": "Is it that obvious? I'm excited to see how<n>she\ndoes, but really I just wanted to see<n>her in person.\nSame for you, right?",
             "nextBlock": 4,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -6700546326941976538
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8932140536735786122
+                }
+            ],
             "pathId": 8756250721351029540,
             "blockIdx": 3
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "いや、俺はタマモクロス目当てだからな。\nあの大差勝ちしたレース、見たか？",
-            "enText": "No, I'm in it for the tamamo cross. Did you \nsee that race she won by a huge margin?",
+            "enText": "Nah, I'm cheering for Tamamo Cross. Did<n>you see\nthat race she won by a huge<n>margin?",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3910461266572158110
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6587443465425799484
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -526727926924964149
+                }
+            ],
             "pathId": 7323678204339995804,
             "blockIdx": 4
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "見た見た！　衝撃すぎたな、アレは！\n今日はどんな走り見せてくれんのかなー！",
-            "enText": "I saw it, I saw it! That was too shocking, \nthat thing! I wonder what kind of run \nthey'll show us today!",
+            "enText": "Yeah! She's so good, it's scary! I wonder<n>how she'll\ndo today?",
             "nextBlock": 6,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "シチーの走りも見てください！",
-                    "enText": "And look at how City's running!",
+                    "enText": "Keep an eye on City's running too!",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5888948374956972059
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7886035869184100666
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3935881811507003821
                 }
             ],
             "pathId": -2384163840894872373,
@@ -72,19 +126,53 @@
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "うわっ、アンタ誰！？\n……っていうか、ゴールドシチー！？",
-            "enText": "Wow, who are you?… \nor rather, Gold City!",
+            "enText": "Whoa, who are you?! Wait... Gold City?!",
             "nextBlock": 7,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 7952410106579594294
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 7630479721202845585
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5371742729167057639
+                }
+            ],
             "pathId": 5546419782929766595,
             "blockIdx": 6
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "め、めちゃめちゃキレイ……。",
-            "enText": "It's so, so beautiful…",
+            "enText": "Wow, she's just so pretty...",
             "nextBlock": 8,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -468064457995977125
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -4357585525490066646
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -757178926513112811
+                }
+            ],
             "pathId": 8557775442357852777,
             "blockIdx": 7
         },
@@ -92,13 +180,30 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……ありがとうございます。\nもういいよ、行こうトレーナー。",
-            "enText": "Thank you… Enough \nsaid, let's go trainer.",
+            "enText": "Thank you. That's enough, Trainer. Let's<n>go.",
             "nextBlock": 9,
+            "origClipLength": 82,
+            "voiceIdx": 141,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "でも……！",
-                    "enText": "But…!",
+                    "enText": "But!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": 2465411772717062278
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -192392045611824298
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2940074003788675826
                 }
             ],
             "pathId": -6440893574672621357,
@@ -108,8 +213,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "いいってば。……行こ。",
-            "enText": "I said, \"No, thanks. Go to…",
+            "enText": "I said let's go.",
             "nextBlock": 10,
+            "origClipLength": 59,
+            "voiceIdx": 95,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 6863388437323374657
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 5157080727836424778
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -3247908701124082728
+                }
+            ],
             "pathId": -1163936982929636056,
             "blockIdx": 9
         },
@@ -117,8 +239,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "――タマモ先輩、壁越えたみたいだね。\r\nよかった……。",
-            "enText": "―Tamamo Senior, you seem to have gone over \nthe wall. Thank goodness…",
+            "enText": "So Tamamo got past her wall then. Good<n>for her.",
             "nextBlock": 11,
+            "origClipLength": 80,
+            "voiceIdx": 8,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6850569357587919958
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 5321505318845526401
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6415182840016008928
+                }
+            ],
             "pathId": -450447745570670347,
             "blockIdx": 10
         },
@@ -126,13 +265,30 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "で、アタシは――『顔目当て』、か。",
-            "enText": "So, Atashi - 'for the face', huh?",
+            "enText": "But for me, it's still all about my looks...",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "シチー……",
-                    "enText": "City…",
+                    "enText": "City...",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 9196672759132309160
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 1030251583156842361
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 2124866399235456515
                 }
             ],
             "pathId": 941357892331822635,
@@ -142,8 +298,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "わかってる。大丈夫。\n今は走りに集中する。",
-            "enText": "I know. It's okay. I'll concentrate \non running now.",
+            "enText": "I'm fine. Need to concentrate on my<n>running.",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "voiceIdx": 12,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8035049792772534148
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -9199553960489466649
+                }
+            ],
             "pathId": 769859390510445262,
             "blockIdx": 12
         },
@@ -151,8 +320,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "だから……\nもう、なんも言わないで。",
-            "enText": "So… don't say anything else.",
+            "enText": "So just... don't say anything.",
             "nextBlock": 14,
+            "origClipLength": 68,
+            "voiceIdx": 11,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4015510823111909907
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7266348862004397602
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8517444114708635056
+                }
+            ],
             "pathId": -963665128478025389,
             "blockIdx": 13
         },
@@ -160,13 +346,30 @@
             "jpName": "",
             "enName": "",
             "jpText": "先ほどの意見は全体の一部でしかなく、\n『走りが楽しみ』とも言われている。しかし、\nそれを伝えても慰めにもならない。ならば――",
-            "enText": "The opinions expressed earlier are only a \npart of the whole, and they are also said to \nbe \"looking forward to the run. But telling \nthem that is no consolation. Then―",
+            "enText": "The comments she heard aren't the<n>whole picture.\nThe fans are excited to<n>see her running, too. But\nhearing that<n>wouldn't be much comfort to her\nright<n>now, so instead...",
             "nextBlock": 15,
+            "origClipLength": 125,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "顔を上げて、自分らしく走ってきて",
-                    "enText": "Face up and run like you are.",
+                    "enText": "Just keep your head up and run like yourself.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -7532852780494621361
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 8691161947864005675
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -6037788624099002729
                 }
             ],
             "pathId": -9222291806709247943,
@@ -176,8 +379,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 16,
+            "origClipLength": 48,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": -5864989199080175744
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1652421852525555028
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7320654488847384795
+                }
+            ],
             "pathId": 8053720973752846332,
             "blockIdx": 15
         },
@@ -185,8 +405,37 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "――ようやっとアンタと走れるわ。\n待たせたな、シチー！",
-            "enText": "―Finally, I can run with you. \nThanks for the wait, City!",
+            "enText": "I've been waitin' for this, City! We finally<n>get to\nrace each other!",
             "nextBlock": 17,
+            "origClipLength": 80,
+            "voiceIdx": 73,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 7958382664843031037
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 1796106490873426137
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -8295890277599737842
+                },
+                {
+                    "origLen": 194,
+                    "pathId": -4195955421204388406
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 8135163952033476320
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -2767386606494376108
+                }
+            ],
             "pathId": -284289529963527731,
             "blockIdx": 16
         },
@@ -194,8 +443,33 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ずっと楽しみにしてたんやで？\r\n今まで散々活躍しとったみたいやけど、\nそれも今日まで。",
-            "enText": "I've been looking forward to this for a long \ntime. You've had a lot of success so far, \nbut that's only until today.",
+            "enText": "This moment's been a long time comin'.<n>You've\nhad a lotta success gettin' here,<n>but that all ends\ntoday.",
             "nextBlock": 18,
+            "origClipLength": 101,
+            "voiceIdx": 117,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -4857276546369795818
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -1098971245872526928
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 8567502564161195127
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -3636536239763798663
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 5491849959253450674
+                }
+            ],
             "pathId": 1129849983888915379,
             "blockIdx": 17
         },
@@ -203,8 +477,37 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "調子に乗りまくったアンタを倒すのはウチや！\n『タマモ先輩、強すぎる～！』言うて\n泣くんやないで！！",
-            "enText": "We're the ones who will defeat you, \nyou're on a roll! \"Tamamo-senpai, you're \ntoo strong～!\" Don't cry!",
+            "enText": "It's my job to knock ya back to reality!<n>Don't go\ncryin' 'cause I'm too strong<n>when dis is over!",
             "nextBlock": 19,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -3661797668962807505
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 4087007767870575252
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 1527670934808824065
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2982247460137056407
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 1997265749959564399
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -1455948601571779278
+                }
+            ],
             "pathId": -6227782739859264943,
             "blockIdx": 18
         },
@@ -212,8 +515,33 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "泣くかよ……。",
-            "enText": "Don't cry…",
+            "enText": "As if I'd cry...",
             "nextBlock": 20,
+            "origClipLength": 54,
+            "voiceIdx": 3,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": 2447573336820601701
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5035936707719850357
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 555483888348984755
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4706471887030800069
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 9107089707826868913
+                }
+            ],
             "pathId": 5148782803247799041,
             "blockIdx": 19
         },
@@ -221,8 +549,29 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "……っ？",
-            "enText": "…?",
+            "enText": "...?",
             "nextBlock": 21,
+            "origClipLength": 50,
+            "voiceIdx": 20,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 139,
+                    "pathId": -4911614575828448335
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6502081746827069085
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5504928331887832710
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -409157515289758394
+                }
+            ],
             "pathId": -145705760811955000,
             "blockIdx": 20
         },
@@ -230,8 +579,33 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "……なにがあったか知らんけど、\r\nレース前にその覇気のなさはなんなん？",
-            "enText": "… I don't know what's going \non, but what's with that lack of \ndominance before the race?",
+            "enText": "I dunno if somethin' happened, but ya<n>seem\npretty unmotivated for someone<n>gettin' ready to\nrace.",
             "nextBlock": 22,
+            "origClipLength": 90,
+            "voiceIdx": 15,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -3187600114482771441
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -6970821606678620059
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -2503480102314023793
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 9182486090588233147
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1447959931906588450
+                }
+            ],
             "pathId": -5548121189632832063,
             "blockIdx": 21
         },
@@ -239,8 +613,37 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 23,
+            "origClipLength": 48,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -2023591840985610167
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -1952179429320539907
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 324700212174057132
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1255069088542966903
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6141182468731085306
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -2244986686604237012
+                }
+            ],
             "pathId": -5401613876435760929,
             "blockIdx": 22
         },
@@ -248,8 +651,37 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "……なんやねん。\nウチだけだったっちゅーんか……！",
-            "enText": "… What the hell. It was just us…!",
+            "enText": "Somethin' goin' on? Is it just me?",
             "nextBlock": 24,
+            "origClipLength": 77,
+            "voiceIdx": 78,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5992531287947397863
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -4506226415025632229
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1489278045839318630
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4033109279950703389
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5251493325168853406
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7817032131217467523
+                }
+            ],
             "pathId": 7787396140054510851,
             "blockIdx": 23
         },
@@ -257,8 +689,37 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "オイ！\nその薄ぼんやりした顔やめーや！",
-            "enText": "Hey! Stop that pallid look!",
+            "enText": "Hey! Stop lookin' so grim!",
             "nextBlock": 25,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7761417454990394976
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -1545852229198930200
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3074102843486546298
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3508178072904095252
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7716267652908867999
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4448128824112924042
+                }
+            ],
             "pathId": 8757503043415404598,
             "blockIdx": 24
         },
@@ -266,8 +727,33 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "変な走りはさせへんぞ。\r\n……上がってくウチの邪魔だけはすんな！",
-            "enText": "I won't let you run funny. Just don't get in \nthe way of us going up…!",
+            "enText": "You better not half-ass it out there,<n>'kay? And\ndon't get in my way either!",
             "nextBlock": 26,
+            "origClipLength": 86,
+            "voiceIdx": 19,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 794478366571293385
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5865024031597311303
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 8219973855193032411
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2003713063330875893
+                },
+                {
+                    "origLen": 98,
+                    "pathId": -786872737753394067
+                }
+            ],
             "pathId": -2185351505507499020,
             "blockIdx": 25
         },
@@ -275,8 +761,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 27,
+            "origClipLength": 48,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 8979239155374818722
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4903110833975626940
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -5166207904496236114
+                }
+            ],
             "pathId": 3787665484483477397,
             "blockIdx": 26
         },
@@ -284,8 +787,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ダサいとこ見せるくらいなら、\n走らねーし。",
-            "enText": "I wouldn't run if I wanted to look lame.",
+            "enText": "I wouldn't go out there if it was just to<n>make a\nfool of myself.",
             "nextBlock": 28,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 8833514114957227284
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -8252429153466353993
+                }
+            ],
             "pathId": -6996992715190740731,
             "blockIdx": 27
         },
@@ -293,8 +809,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。\nでも。",
-            "enText": "… But.",
+            "enText": "But...",
             "nextBlock": 29,
+            "origClipLength": 56,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -5277415961422555877
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -5763804532029239702
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3167719185964008686
+                }
+            ],
             "pathId": 9094717770045177524,
             "blockIdx": 28
         },
@@ -302,8 +835,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "まだ、チャンスがあるなら……。",
-            "enText": "If you still have a chance, \nplease contact…",
+            "enText": "If there's still a chance...",
             "nextBlock": 30,
+            "origClipLength": 64,
+            "voiceIdx": 69,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 5135059331894960810
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2771245631871377095
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 1489414455343493562
+                }
+            ],
             "pathId": 8787114787547699248,
             "blockIdx": 29
         },
@@ -311,8 +861,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……――行かなきゃ。",
-            "enText": "…―I have to go.",
+            "enText": "...Then I have to.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -8802482958877151705
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 9172518734381984474
+                }
+            ],
             "pathId": 3242944844653633275,
             "blockIdx": 30
         }

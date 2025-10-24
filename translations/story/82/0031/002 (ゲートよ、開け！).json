@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "QOV4IM4REH473OIR4HGKHGZ4ZNA4N45C",
+    "version": 6,
+    "bundle": "OELUMGZ6WEDCWKFDMAI7H6KPFW4Q44OB",
     "type": "story",
     "storyId": "820031002",
     "title": "ゲートよ、開け！",
+    "enTitle": "C'mon Gates, Open Already!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "とある日。\r\n自室に戻るため並木道を歩いていると――",
-            "enText": "One day. I was walking down a tree-lined \nstreet to get back to my room.",
+            "enText": "One day, while walking along the street<n>back to\nmy place...",
             "nextBlock": 2,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5436612536090325632,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うぎゃああああっ！？",
-            "enText": "Ooooooh!",
+            "enText": "GYAAAHHHH!",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "voiceIdx": 104,
+            "voiceSheetId": "051043001",
             "pathId": 3429432198278026451,
             "blockIdx": 2
         },
@@ -27,18 +34,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "くっそぉ～……。\r\nまたダメだったのだぁ～～……。",
-            "enText": "Damn it~… It didn't work again…",
+            "enText": "Dang it... Messed up again...",
             "nextBlock": 4,
+            "origClipLength": 77,
+            "voiceIdx": 17,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "大丈夫か！？どうしたんだ！？",
-                    "enText": "Are you OK! What's the matter with you?",
+                    "enText": "Are you okay?! What happened?!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "大丈夫！？どうしたの！？",
-                    "enText": "I'm OK! What happened to you?",
+                    "enText": "Are you okay?! What happened?!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -3424105977811730734
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -1249666577876916341
                 }
             ],
             "pathId": 1012440706296514950,
@@ -48,13 +68,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "おお！　いつかの子分、いいとこに来たな！\r\nちょっとゲート練習に付き合え！",
-            "enText": "Oh! You've come to the right place, \nsometime henchman! Come and join us \nfor a bit of gate practice!",
+            "enText": "Ooh, when'd you get here, minion?!<n>Your timin's\nperfect! Help me with my<n>gate trainin'!",
             "nextBlock": 5,
+            "origClipLength": 93,
+            "voiceIdx": 31,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "……え、ゲート練習？",
-                    "enText": "… What, gate practice?",
+                    "enText": "...Uh, \"gate training\"?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4464240490857666722
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -1732280954664711590
                 }
             ],
             "pathId": -7929950959841257351,
@@ -64,8 +97,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "先程の叫び声はトレーニングに苦心する\r\nあまり漏れたのだろうか？　と思いつつ、\n付き合ってあげることにしたのだが――",
-            "enText": "I wondered if the shouting had escaped my \nlips as I struggled to train. I thought, but \nI decided to go along with it.",
+            "enText": "I assume that scream just now was the<n>sound of\nher struggling with training, so I<n>decide to help\nher out. However...",
             "nextBlock": 6,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": 523961258245185160
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 2286297818678489098
+                }
+            ],
             "pathId": 3260590852171598218,
             "blockIdx": 5
         },
@@ -73,13 +119,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "いいな！？\r\nウインディちゃんがゲートに入ったら、\nスタートの合図を出すんだぞ！",
-            "enText": "All right! When Windy comes in the gate, you \ngive the signal to start!",
+            "enText": "When I get into the gate, you give me<n>the signal\nto start. Got it?!",
             "nextBlock": 7,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "わかった",
-                    "enText": "Okay, okay.",
+                    "enText": "Got it.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 173,
+                    "pathId": -8874161407638467818
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 5404182720360068478
                 }
             ],
             "pathId": 504831738491006444,
@@ -89,8 +148,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "よぉーし……。\r\n……………………入ったぞ！！",
-            "enText": "Alright… I'm in …!",
+            "enText": "All riiiiight... I'm in!",
             "nextBlock": 8,
+            "origClipLength": 75,
+            "voiceIdx": 11,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 3120510010465821001
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1102932568253760307
+                }
+            ],
             "pathId": 1771370614646453639,
             "blockIdx": 7
         },
@@ -98,8 +170,11 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "さあ、合図しろッ！　合図合図！\r\nウズウズ……ウズウズウズウ――",
-            "enText": "Come on, give the signal! Cue cue cue! \nC'mon… c'mon c'mon c'mon—",
+            "enText": "Gimme the signal! The signal, dang it!<n>Come on,\nc'mon, c'mon!",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "voiceIdx": 35,
+            "voiceSheetId": "051043001",
             "pathId": 3712269346113884202,
             "blockIdx": 8
         },
@@ -107,8 +182,11 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ほぎゃ！？",
-            "enText": "Uwah!?",
+            "enText": "GWEH?!",
             "nextBlock": 10,
+            "origClipLength": 51,
+            "voiceIdx": 25,
+            "voiceSheetId": "051043001",
             "pathId": 1368923433920968731,
             "blockIdx": 9
         },
@@ -116,8 +194,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "悲鳴に驚き駆けつけると……なんと\r\nスタート地点に深めの穴が掘られており\nそれに脚をとられ、盛大に転んでいた。",
-            "enText": "I was startled by a scream and rushed over… \nThere was a deep hole dug at the start and \nshe caught her leg, taking a splendid tumble.",
+            "enText": "Surprised by her yelp, I rush over to<n>find... Shinko\nWindy's foot stuck in a<n>deep hole at the starting\nline. She's<n>sprawled dramatically across the\nground.",
             "nextBlock": 11,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 7401717339520812488
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7267092891904543856
+                }
+            ],
             "pathId": -1902195590865919530,
             "blockIdx": 10
         },
@@ -125,8 +216,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うう～～っ……こにょぉ～～～……！！\r\nなんでいつもいつも、転ぶのだ！",
-            "enText": "Ughhhh… konyou~…! Why do I always, \nalways, always fall down!",
+            "enText": "Grrrr... DANG IT! Why do I keep fallin'?!",
             "nextBlock": 12,
+            "origClipLength": 90,
+            "voiceIdx": 18,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -6867747440888607326
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7283957228084253076
+                }
+            ],
             "pathId": 8856645434872868806,
             "blockIdx": 11
         },
@@ -134,13 +238,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "せっかくウズウズ～～って、\r\n力ためてたのが台無しなのだーー！！",
-            "enText": "It's ruining all the energy \nI've been saving up for!",
+            "enText": "And after all that fidgetin' I did to build<n>up\npower! GAH!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "voiceIdx": 16,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "そのウズウズが悪いんじゃ……",
-                    "enText": "That's what's wrong with that itch…",
+                    "enText": "I think the fidgeting might be the problem...",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -242235903789011558
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 94863806062941752
                 }
             ],
             "pathId": 7655465005885751829,
@@ -150,8 +267,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "そんなワケないっ！　ウズウズは、\r\n『やるぞ！』って燃えてる証拠だし……\nすっごいスタートもできるんだぞ！",
-            "enText": "It can't be! The itch is a sign of a burning \ndesire to do it! And… can be a great start!",
+            "enText": "That's not true! The fidgetin' is proof I'm<n>gettin'\nfired up to run like the wind! Plus<n>it helps with\ngettin' off to a good start!",
             "nextBlock": 14,
+            "origClipLength": 114,
+            "voiceIdx": 51,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -1657972737828609324
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -7099906339235149004
+                }
+            ],
             "pathId": -3240526983164631629,
             "blockIdx": 13
         },
@@ -159,8 +289,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "それでみんなが『すげー！』って注目する中、\r\nガブッと1着を取る……どうだ、完璧だろ！",
-            "enText": "And then, when everyone's looking \nlike, \"Wow!\", you just go and gobble up \nfirst place… How perfect is that?",
+            "enText": "That puts all eyes on me! And that's<n>when I chomp\ndown hard on first place!<n>That's the perfect race,\nright?!",
             "nextBlock": 15,
+            "origClipLength": 101,
+            "voiceIdx": 3,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 365736274296046870
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -7324115181312076189
+                }
+            ],
             "pathId": -172992051150724216,
             "blockIdx": 14
         },
@@ -168,8 +311,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "たしかに、その闘争心はレースに必要だ。\r\nだがウズウズしてる間に脚で地面をえぐり\n転んでいては……肝心のスタートができない。",
-            "enText": "It's true that you need that fighting spirit \nto race. But if you're fighting the ground \ninstead… you're not going to make the start.",
+            "enText": "While it's true that a competitive spirit is<n>vital for\nracing, her fidgeting feet are<n>what dug the hole\nthat tripped her up<n>and bungled her all-important\nstart.",
             "nextBlock": 16,
+            "origClipLength": 125,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -3060965807544588962
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -3863539148763127291
+                }
+            ],
             "pathId": -2362181514208439169,
             "blockIdx": 15
         },
@@ -177,18 +333,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……ここは1つ。\r\n彼女の考えを逆転させる言葉をかけなくては。",
-            "enText": "… Here's one. You need to say something that \nwill reverse her thinking.",
+            "enText": "...I need to persuade her to look at it in<n>a\ndifferent light.",
             "nextBlock": 17,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "本当に、それでいいのか？",
-                    "enText": "Are you sure you want to do that?",
+                    "enText": "I think you could do better.",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "本当に、それでいいの？",
-                    "enText": "Are you sure you want to do that?",
+                    "enText": "I think you could do better.",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -1935533498170508537
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 5490360561688924094
                 }
             ],
             "pathId": -4829753613284048839,
@@ -198,13 +367,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "……な、なんだ！　なにが言いたいのだ！",
-            "enText": "… What, what! What are you trying to say!",
+            "enText": "Wh-what?! Whatcha tryin' to say?!",
             "nextBlock": 18,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "その闘争心は、コースで1番輝くのに",
-                    "enText": "Her fighting spirit shines \nbrightest on the track!",
+                    "enText": "If you save all that fire for after the gates open,\npeople are gonna go wild.",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4509450259503686887
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -8004306436701485076
                 }
             ],
             "pathId": 2746351502891986896,
@@ -214,8 +396,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "人は意外性やギャップに弱い。\r\n最初は静かにして、コース上で闘争心を出す。\nその方がカッコいいはずだ……と伝えた。",
-            "enText": "People are weak to surprise and disparity. \nStart out quiet and show your fighting spirit \non the track. I told her… that would be cool.",
+            "enText": "I explain that people get caught off<n>guard by\nunpredictable surprises, and<n>that she'd look\ncooler if she kept her<n>competitiveness under\nwraps until the<n>race was underway.",
             "nextBlock": 19,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -5270361992283567971
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 4567222563502490773
+                }
+            ],
             "pathId": -3481195736703379921,
             "blockIdx": 18
         },
@@ -223,26 +418,81 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "闘争心……カッコいい…………。",
-            "enText": "Fighting spirit… Cool…",
+            "enText": "Competitive spirit... lookin' cool...",
             "nextBlock": 20,
+            "origClipLength": 64,
+            "voiceIdx": 30,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 1951508841371833717
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 2643431501036363453
+                }
+            ],
             "pathId": -6068331611383074081,
             "blockIdx": 19
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "あれ？　あの子、随分と静かだね。\r\n緊張しちゃってるのかな？",
-            "enText": "Huh? She's so quiet. Is she nervous?",
+            "enText": "Huh? She's awfully quiet. Maybe she's<n>nervous.",
             "nextBlock": 21,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -1024817108906300183
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 3344170081337329628
+                },
+                {
+                    "origLen": 163,
+                    "pathId": 8928192111950715858
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -4183242721610735530
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 1724501875323185786
+                }
+            ],
             "pathId": 6914120220313859152,
             "blockIdx": 20
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "さあ、ゲートが開いた！\r\nいったい最初に仕掛けるのは誰か――！",
-            "enText": "The gates are open! Who's \ngoing to be the first?",
+            "enText": "And the gates are open! Who will make<n>the first\nmove?!",
             "nextBlock": 22,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 4573871494565934308
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -8440239962352839071
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 4494778232932584677
+                }
+            ],
             "pathId": -5790652988555434627,
             "blockIdx": 21
         },
@@ -250,17 +500,23 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "はぁぁぁ～～っ！　とうそーしーーーーん！！",
-            "enText": "Haaahhhh! Tosooshin!",
+            "enText": "YAAAAAHHHHH! COMPETITIVE<n>SPIRIIIIIT!",
             "nextBlock": 23,
+            "origClipLength": 84,
+            "voiceIdx": 126,
+            "voiceSheetId": "051043001",
             "pathId": -4403717574598628248,
             "blockIdx": 22
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "なんだあの闘争心！　本当にさっきの子か！？\r\nかっけーー！！　すげーー！！",
-            "enText": "What a fighting spirit! Is that really the \nboy from before? So cool! Amazing!",
+            "enText": "What's with that fighting spirit?! Wasn't<n>she\ntotally silent a second ago?! She's so<n>cool! Wow!",
             "nextBlock": 24,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7441999902302665788,
             "blockIdx": 23
         },
@@ -268,8 +524,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "……へへへっ、仕方ないなー。\r\nそこまで言うなら、やってやってもいいぞ！",
-            "enText": "… hehehe, I can't help it! If you say so \nmuch, I'll do it for you!",
+            "enText": "Hehehe. Guess I'll have to give it a shot,<n>if ya\ninsist!",
             "nextBlock": 25,
+            "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 230508594122279345
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -4670553435000366950
+                }
+            ],
             "pathId": -7859482189069442773,
             "blockIdx": 24
         },
@@ -277,8 +546,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "よぉーし……ゲートに入った。\r\nウズウズしても、ガマン……ガマンンン～ッ！",
-            "enText": "Yay, I'm in the… gate. Itching to \nget in, but gaman… gamannnn~!",
+            "enText": "All right, I'm in the gate. Gotta suppress<n>the\nfidgets... Stay cooool!",
             "nextBlock": 26,
+            "origClipLength": 93,
+            "voiceIdx": 15,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 8116868496093566832
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -181398687014103923
+                }
+            ],
             "pathId": -447409763321026762,
             "blockIdx": 25
         },
@@ -286,8 +568,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うりゃああ～～～！！",
-            "enText": "Uryaaaahhhhh!",
+            "enText": "GRAAAAAHHHHH!",
             "nextBlock": 27,
+            "origClipLength": 84,
+            "voiceIdx": 126,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": -3306237837234857710
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -4718659165862608459
+                }
+            ],
             "pathId": -7187261264210624439,
             "blockIdx": 26
         },
@@ -295,18 +590,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "やったー！　転ばなかったぞ！\r\nなあなあっ！　走りはどうだった！？",
-            "enText": "Yay! I didn't fall! Hey! How was your run?",
+            "enText": "I did it! I didn't trip up! Hey, hey! How<n>was I?!",
             "nextBlock": 28,
+            "origClipLength": 88,
+            "voiceIdx": 6,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "カッコよかったぞ！",
-                    "enText": "That was cool!",
+                    "enText": "Super cool!",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "カッコよかったよ！",
-                    "enText": "That was cool!",
+                    "enText": "Super cool!",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 8583765717059517740
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 7234910327784511993
                 }
             ],
             "pathId": 6660594386626287421,
@@ -316,13 +624,26 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "にへへっ……このトレーニング、気に入った！\r\nもっともっと、100回くらいやるぞっ！",
-            "enText": "Hehehe… I love this workout! I'm going to do \nit a hundred more times!",
+            "enText": "Mehehe! I like this trainin'! Imma do it<n>like a\nhundred times!",
             "nextBlock": 29,
+            "origClipLength": 99,
+            "voiceIdx": 2,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "え、100回！？",
-                    "enText": "What, 100 times!",
+                    "enText": "What? A hundred?!",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1851528003074085759
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2686977232078358410
                 }
             ],
             "pathId": -8955907129434152553,
@@ -332,8 +653,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "ああ！　ウインディちゃんのカッコいいとこ、\r\nもっと見せてやるのだ！　喜べ！",
-            "enText": "Oh! More cool stuff for \nWindy to see! Rejoice!",
+            "enText": "Uh-huh! So you're gonna get to witness<n>me being\ncool a hundred more times!<n>Aren't you lucky!",
             "nextBlock": 30,
+            "origClipLength": 94,
+            "voiceIdx": 10,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3583272434413036946
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 1241679589720200200
+                }
+            ],
             "pathId": 6072819821621593013,
             "blockIdx": 29
         },
@@ -341,8 +675,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……その嬉しそうな笑顔に負けて、\r\n満足するまで付き合ってあげたのだった。",
-            "enText": "… The happy smile on her face made me stay \nwith her until I was satisfied.",
+            "enText": "...Unable to say no to her beaming smile,<n>I stay\nwith her until she wears herself<n>out.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -6515517949202327656
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4664119434868294239
+                }
+            ],
             "pathId": 4924755155876136652,
             "blockIdx": 30
         },
@@ -350,8 +697,11 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "うぎゃーーーー！？",
-            "enText": "Geez!",
+            "enText": "GAHHHHH?!",
             "nextBlock": 32,
+            "origClipLength": 56,
+            "voiceIdx": 104,
+            "voiceSheetId": "051043001",
             "pathId": -4965710266328252442,
             "blockIdx": 31
         },
@@ -359,18 +709,31 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "……ううっ……ううう……。",
-            "enText": "… ugh… ugh…",
+            "enText": "Ack... Awww...",
             "nextBlock": 33,
+            "origClipLength": 63,
+            "voiceIdx": 17,
+            "voiceSheetId": "051043001",
             "choices": [
                 {
                     "jpText": "大丈夫か！？",
-                    "enText": "Are you OK?",
+                    "enText": "Are you okay?!",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "大丈夫！？",
-                    "enText": "A great man!",
+                    "enText": "Are you okay?!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -7138995888323176512
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7526913238686978
                 }
             ],
             "pathId": 1897054877059853753,
@@ -380,8 +743,21 @@
             "jpName": "シンコウウインディ",
             "enName": "Shinko Windy",
             "jpText": "へーき、だけど……きょーは……このへんに、\r\nしといて……やるのだぁぁ～～～～……！",
-            "enText": "No problem, but… we're going to do… around \nhere, let's do…! ～～～～…!",
+            "enText": "I'm... fine, but... I think... Imma call it... a<n>day...",
             "nextBlock": 34,
+            "origClipLength": 99,
+            "voiceIdx": 23,
+            "voiceSheetId": "051043001",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -3017606780256667387
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1144237577702792970
+                }
+            ],
             "pathId": 5293834916950044392,
             "blockIdx": 33
         },
@@ -389,8 +765,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……あまりの痛みに、\r\n泣きながら走り去ってしまうのだった。",
-            "enText": "… was in so much pain that \nshe ran off in tears.",
+            "enText": "She runs off in tears from the sheer pain.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6454217895278710996,
             "blockIdx": 34
         }

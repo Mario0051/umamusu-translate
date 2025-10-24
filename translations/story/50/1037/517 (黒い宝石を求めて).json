@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "V2PKMJLZKSPHN5TBDHQ7DC7ZO42GCZDI",
+    "version": 6,
+    "bundle": "TILZUU5NEI75BHRVMIZOP6NYBDAHTXDW",
     "type": "story",
     "storyId": "501037517",
     "title": "黒い宝石を求めて",
+    "enTitle": "In Search of Black Pearls",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どこか浮かない顔の\nエイシンフラッシュを見かけた。",
-            "enText": "I saw Eishin Flash, who \nlooked somewhat unhappy.",
+            "enText": "どこか浮かない顔の\nエイシンフラッシュを見かけた。",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "何かあったのか？",
-                    "enText": "What's going on?",
+                    "enText": "何かあったのか？",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "何かあったの？",
-                    "enText": "What's going on?",
+                    "enText": "何かあったの？",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 88,
-                    "pathId": -7299620480897500713
+                    "pathId": 1319503651762971545
                 },
                 {
                     "origLen": 88,
-                    "pathId": 1319503651762971545
+                    "pathId": -7299620480897500713
                 }
             ],
             "pathId": -3142130666010962686,
@@ -39,19 +42,21 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "いえ、たいした事ではないんです。",
-            "enText": "No, it's not a big deal.",
+            "enText": "いえ、たいした事ではないんです。",
             "nextBlock": 3,
             "origClipLength": 65,
+            "voiceIdx": 50,
+            "voiceSheetId": "051037001",
             "animData": [
-                {
-                    "origLen": 79,
-                    "pathId": 7819388780057223048
-                },
                 {
                     "origLen": 76,
                     "pathId": 4621152032490192838
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7819388780057223048
                 }
             ],
             "pathId": -6214732958784708386,
@@ -59,31 +64,33 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "故郷でよく食べていた料理を\n食べようと、食材を探したのですが……。",
-            "enText": "I looked for ingredients to try the food I \nused to eat back home. ……",
+            "enText": "故郷でよく食べていた料理を\n食べようと、食材を探したのですが……。",
             "nextBlock": 4,
             "origClipLength": 88,
+            "voiceIdx": 34,
+            "voiceSheetId": "051037001",
             "choices": [
                 {
                     "jpText": "売ってなかったのか？",
-                    "enText": "You didn't sell it?",
+                    "enText": "売ってなかったのか？",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "売ってなかったの？",
-                    "enText": "You didn't sell it?",
+                    "enText": "売ってなかったの？",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": 833866634418364246
-                },
-                {
                     "origLen": 99,
                     "pathId": 931731370359238944
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 833866634418364246
                 }
             ],
             "pathId": 1288633707098717132,
@@ -91,19 +98,21 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "売ってはいました。しかし――",
-            "enText": "It was sold. But―",
+            "enText": "売ってはいました。しかし――",
             "nextBlock": 5,
             "origClipLength": 63,
+            "voiceIdx": 78,
+            "voiceSheetId": "051037001",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -2637018453861730100
+                    "pathId": 8993384485547400340
                 },
                 {
                     "origLen": 74,
-                    "pathId": 8993384485547400340
+                    "pathId": -2637018453861730100
                 }
             ],
             "pathId": -2738418660275150004,
@@ -111,23 +120,25 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "日本だと、とても高いんですね……キャビア。\n私のおこづかいでは、とても。",
-            "enText": "In Japan, it is very expensive.…… caviar. I \ncan't afford it.",
+            "enText": "日本だと、とても高いんですね……キャビア。\n私のおこづかいでは、とても。",
             "nextBlock": 6,
             "origClipLength": 91,
+            "voiceIdx": 64,
+            "voiceSheetId": "051037001",
             "animData": [
                 {
                     "origLen": 105,
                     "pathId": 1797634091070050546
                 },
                 {
-                    "origLen": 104,
-                    "pathId": -5626455727810151845
-                },
-                {
                     "origLen": 102,
                     "pathId": 740717748205057596
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -5626455727810151845
                 }
             ],
             "pathId": 26370071954364319,
@@ -135,23 +146,25 @@
         },
         {
             "jpName": "エイシンフラッシュ",
-            "enName": "Eishin Flash",
+            "enName": "エイシンフラッシュ",
             "jpText": "……はぁ。",
-            "enText": "…… Huh.",
+            "enText": "……はぁ。",
             "nextBlock": 7,
             "origClipLength": 51,
+            "voiceIdx": 60,
+            "voiceSheetId": "051037001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -1280979966152866383
                 },
                 {
-                    "origLen": 31,
-                    "pathId": -6213062349670730202
-                },
-                {
                     "origLen": 62,
                     "pathId": 1482155654011616704
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -6213062349670730202
                 }
             ],
             "pathId": -4177473568126079496,
@@ -161,22 +174,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『買ってあげるよ』とはとても言えず……\r\nエイシンフラッシュは気落ちした\n様子で去って行った……。",
-            "enText": "I can't say, 'I'll buy it for you.'…… Eishin \nFlash was discouraged. She left with a \ndiscouraged look on her face. ……",
+            "enText": "『買ってあげるよ』とはとても言えず……\r\nエイシンフラッシュは気落ちした\n様子で去って行った……。",
             "nextBlock": -1,
             "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 119,
-                    "pathId": -8224347815812667163
+                    "pathId": 2367983228500874812
                 },
                 {
                     "origLen": 119,
-                    "pathId": 2367983228500874812
+                    "pathId": -8224347815812667163
                 }
             ],
             "pathId": -186398836512727069,
             "blockIdx": 7
         }
-    ],
-    "modified": 1657448627
+    ]
 }

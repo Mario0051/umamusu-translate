@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "KZP23TDCW7HFFPAG7NZGZQ2IRBANFYPK",
+    "version": 6,
+    "bundle": "KGL53BRIKZAZVDAAULIZ5GJIJHRIZW5C",
     "type": "story",
     "storyId": "801044001",
     "title": "ミラクル☆エスケープ！",
+    "enTitle": "Miracle ☆ Escape!",
     "text": [
         {
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "や～～～だ～～～！！",
-            "enText": "Ya~da~!",
+            "enText": "Nooooo! I don't wanna!",
             "nextBlock": 2,
+            "origClipLength": 58,
+            "voiceIdx": 17,
+            "voiceSheetId": "051044001",
             "pathId": 7931383516526013088,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "廊下を歩いていると、\r\n突然大きな声が聞こえてきた。",
-            "enText": "I was walking down the corridor when \nsuddenly I heard a loud voice.",
+            "enText": "I'm walking down the hallway when I<n>suddenly\nhear a loud, defiant cry.",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7715832545688637636,
             "blockIdx": 2
         },
@@ -27,13 +34,26 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "やだやだやだ！　補習なんか絶っ対行かない！\r\nそんなのなくてもテストでいい点取れるもん！",
-            "enText": "No, no, no, no! I'll never go to \nmake-up classes! I'll get a good \nmark on the test without them!",
+            "enText": "I don't wanna do any extra classes! I can<n>get good\ntest scores even without them!",
             "nextBlock": 4,
+            "origClipLength": 102,
+            "voiceIdx": 33,
+            "voiceSheetId": "051044001",
             "choices": [
                 {
                     "jpText": "補習？",
-                    "enText": "Supplementary training?",
+                    "enText": "What's this about extra classes?",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4250990795870246459
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 7343965367596088343
                 }
             ],
             "pathId": 8372858140440298376,
@@ -43,8 +63,21 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "――な、なによ！　アンタも先生みたいに\r\n『補習を受けなさい！』って言うつもり！？",
-            "enText": "—What? What? Are you going to be like your \nteacher and say, \"You have to take remedial \ncourses!\" like your teacher!",
+            "enText": "Wh-what do <i>you</i> want?! Are you gonna<n>tell me I\nneed extra classes just like my<n>teacher?!",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "voiceIdx": 16,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 8165078814816239536
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 1430210678008249959
+                }
+            ],
             "pathId": 7928493251388018989,
             "blockIdx": 4
         },
@@ -52,8 +85,21 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "絶対イヤ！　だいたい魔法の練習で授業に\r\n遅れたくらい、許してくれてもいいじゃない！",
-            "enText": "Absolutely not! I don't care if you're late \nfor class because you're practising magic!",
+            "enText": "Well, I don't WANNA! It shouldn't even<n>be such a\nbig deal that I was late to class<n>'cause I was\npracticing my magic!",
             "nextBlock": 6,
+            "origClipLength": 99,
+            "voiceIdx": 51,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -1943724874968762718
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6165849605602580402
+                }
+            ],
             "pathId": 2217759285440932709,
             "blockIdx": 5
         },
@@ -61,8 +107,25 @@
             "jpName": "先生A",
             "enName": "Teacher A",
             "jpText": "スイープトウショウさん！\r\n早く教室へ戻ってきなさい！",
-            "enText": "Ms. Sweepstakes! Come back \nto the classroom quickly!",
+            "enText": "Sweep Tosho! Come back to the class<n>right now,\nyoung lady!",
             "nextBlock": 7,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 3547802847690849266
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 5126469560023005348
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -445526214767940951
+                }
+            ],
             "pathId": -1614761742396764216,
             "blockIdx": 6
         },
@@ -70,18 +133,35 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ひゃっ！？　先生が来ちゃう！\r\nどうしよう、どうしよう～～っ！？",
-            "enText": "Oh my God! The teacher is coming! What \nshould I do, what should I do~!",
+            "enText": "Wha?! She's coming! What should I do?!",
             "nextBlock": 8,
+            "origClipLength": 86,
+            "voiceIdx": 28,
+            "voiceSheetId": "051044001",
             "choices": [
                 {
                     "jpText": "補習を受けよう",
-                    "enText": "Take a supplementary course",
+                    "enText": "Just admit defeat already.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "走って逃げよう！",
-                    "enText": "Let's run for our lives!",
+                    "enText": "Run! Hurry!",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 4979524926723813898
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1559030153754879275
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 7917272437949887674
                 }
             ],
             "pathId": -4920913168693735454,
@@ -91,8 +171,25 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "だ～か～ら～！！\r\nそれはイヤだって言ってるでしょ！！",
-            "enText": "That's why! I told you I \ndon't want to do that!",
+            "enText": "Like I said! I. Don't. Wannaaaaa!",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "voiceIdx": 15,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3525119686911835694
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -4175711029017620612
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3028448217683459337
+                }
+            ],
             "pathId": -5142681411610469917,
             "blockIdx": 8
         },
@@ -100,8 +197,21 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "って言ってる間に先生が……！\r\nなにかいい方法は――",
-            "enText": "And while you're at it, the teacher \nis at …! Is there any way to—",
+            "enText": "Oh no, she's going to find me at this<n>rate! I need\nto find a way to...",
             "nextBlock": 10,
+            "origClipLength": 78,
+            "voiceIdx": 26,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2228345682581336845
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7465613223671801954
+                }
+            ],
             "pathId": 2476115448638946460,
             "blockIdx": 9
         },
@@ -109,13 +219,26 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "――あっ！",
-            "enText": "—Oh!",
+            "enText": "Aha!",
             "nextBlock": 11,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "何！？",
-                    "enText": "What!",
+                    "enText": "What are you—?!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6309655856300215023
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -8843968795786441460
                 }
             ],
             "pathId": -2559005228369510899,
@@ -125,8 +248,11 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "……ちょっと黙って！\r\nそのままじーっと立ってなさい！",
-            "enText": "… Shut up for a second! Just stand still!",
+            "enText": "SHHH! Be quiet! Just stand right there!",
             "nextBlock": 12,
+            "origClipLength": 80,
+            "voiceIdx": 15,
+            "voiceSheetId": "051044001",
             "pathId": 1358060272116031604,
             "blockIdx": 11
         },
@@ -134,8 +260,25 @@
             "jpName": "先生A",
             "enName": "Teacher A",
             "jpText": "スイープトウショウさん！\r\nどこですか、スイープトウショウさん！",
-            "enText": "Ms. Sweepstakes! Where are \nyou, Ms. Sweepstakes!",
+            "enText": "Sweep Tosho! Where are you? Sweep<n>Tosho!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 403404693153745534
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 2948498461494113258
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 7383713735112402217
+                }
+            ],
             "pathId": -5351174186339062760,
             "blockIdx": 12
         },
@@ -143,8 +286,25 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "……ふぅ～、行ったわね。",
-            "enText": "… Phew, there you go.",
+            "enText": "...Phew. She's gone.",
             "nextBlock": 14,
+            "origClipLength": 60,
+            "voiceIdx": 59,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3091302929675642311
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2937482603226384167
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -5801987613980320385
+                }
+            ],
             "pathId": -796932338934600037,
             "blockIdx": 13
         },
@@ -152,8 +312,25 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ふふん♪　アンタ、\r\n壁としてはなかなか使えるじゃない。",
-            "enText": "You're quite useful as a wall, aren't you?",
+            "enText": "Hehe! ♪ You're pretty useful as a wall,<n>y'know?",
             "nextBlock": 15,
+            "origClipLength": 81,
+            "voiceIdx": 3,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7371450385286794421
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -1857483318226842644
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 151682553415841359
+                }
+            ],
             "pathId": 6845544345326001718,
             "blockIdx": 14
         },
@@ -161,8 +338,21 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "今日のこと、ヒミツにしてくれたら\r\nまた使ってあげてもいいわ。",
-            "enText": "I'll use it again if you don't \ntell anyone what I did today.",
+            "enText": "You keep what happened here a secret,<n>and I'll\nmake sure your job as a wall<n>stays safe, eh?",
             "nextBlock": 16,
+            "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 4146587891164600853
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -183011011516891899
+                }
+            ],
             "pathId": 7212968147270277535,
             "blockIdx": 15
         },
@@ -170,8 +360,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……いずれまた、\r\n壁として使われる日が来るかもしれない。",
-            "enText": "… may one day be used as a wall again.",
+            "enText": "...Seems like my \"wall\" days aren't over<n>yet.",
             "nextBlock": -1,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -1858745778647574916
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8652914553845210790
+                }
+            ],
             "pathId": 2228708864869585463,
             "blockIdx": 16
         },
@@ -179,8 +382,25 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ア、アタシもそうしようと思ってたのよ！\r\n絶対に逃げ切ってやるんだからね！",
-            "enText": "Oh, I've been meaning to do that too! I'm \ngoing to get away with it!",
+            "enText": "I-I was thinking that too! There's no way<n>she can\noutrun me!",
             "nextBlock": 18,
+            "origClipLength": 93,
+            "voiceIdx": 19,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 918269219390807266
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 7190619101533745197
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1205803695195771655
+                }
+            ],
             "pathId": 4168054766030013303,
             "blockIdx": 17
         },
@@ -188,8 +408,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、走って逃げていく彼女の様子が\r\n窓から見えた。",
-            "enText": "I then saw her running away from \nme through the window.",
+            "enText": "It's not long before I glimpse Sweep<n>Tosho\nthrough the windows, dashing<n>away at top speed.",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7136504766115533277
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -7759348738650732732
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 5827364076122830222
+                }
+            ],
             "pathId": 7224201566822022951,
             "blockIdx": 18
         },
@@ -197,8 +434,21 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ふっふ～ん、ここまでくればヨユーね♪\r\n捕まえられるものなら捕まえてみなさい！",
-            "enText": "If you can catch it, you can catch it!",
+            "enText": "Hehehe! That was a cinch! ♪ Let's see<n>her try to\ncatch me now!",
             "nextBlock": 20,
+            "origClipLength": 95,
+            "voiceIdx": 3,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -2062281601294431289
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 1823106364311954444
+                }
+            ],
             "pathId": 4161026245614305517,
             "blockIdx": 19
         },
@@ -206,8 +456,29 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……ん、何の騒ぎだ？",
-            "enText": "… what's the fuss?",
+            "enText": "What's going on here?",
             "nextBlock": 21,
+            "origClipLength": 58,
+            "voiceIdx": 20,
+            "voiceSheetId": "051018001",
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -5333597783945576520
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 1140462437139813622
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 3336319821291689217
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 8197460495246966453
+                }
+            ],
             "pathId": -5778649818306620372,
             "blockIdx": 20
         },
@@ -215,8 +486,29 @@
             "jpName": "先生A",
             "enName": "Teacher A",
             "jpText": "エアグルーヴさん、いいところに！\r\n彼女は補習から逃げているんです……！",
-            "enText": "Air Groove, in the right place! She's \nrunning away from her make-up class…!",
+            "enText": "Oh, Air Groove! Am I glad to see you!<n>This young\nlady is trying to weasel her<n>way out of attending\nher supplementary<n>classes.",
             "nextBlock": 22,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -2071343260130355764
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -235728197120530412
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 803883277712584128
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4540099096178978817
+                }
+            ],
             "pathId": -6049447573651443006,
             "blockIdx": 21
         },
@@ -224,8 +516,29 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "えっ……ウソ！？　やだ！！",
-            "enText": "What… lie? No!",
+            "enText": "Huh?! No way! No, no, noooo!",
             "nextBlock": 23,
+            "origClipLength": 61,
+            "voiceIdx": 17,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -7807144255716473182
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -5274582609265813681
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -8535020302198159522
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4925045149292194884
+                }
+            ],
             "pathId": 9031814951908020486,
             "blockIdx": 22
         },
@@ -233,8 +546,29 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ほう、なるほど。\r\n余裕を見せたのが運の尽きだったな。",
-            "enText": "Oh, I see. It's a shame I didn't \ngive you more time.",
+            "enText": "Oh, I see. What a stroke of luck that you<n>decided\nto stop here.",
             "nextBlock": 24,
+            "origClipLength": 80,
+            "voiceIdx": 7,
+            "voiceSheetId": "051018001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 2419659259099363259
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -4333319442554796187
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6699482827428378046
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -9204177232242425155
+                }
+            ],
             "pathId": -7875540188579480428,
             "blockIdx": 23
         },
@@ -242,8 +576,29 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "やだ～～！！　やだやだやだ～～！！\r\n放して！！　放してよ～～～っ！！",
-            "enText": "Yada~! No, no, no, no, no, no, \nno! Let me go! Let me go!",
+            "enText": "Nooooo! I don't wanna! Let me go!<n>LEMME\nGOOO!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": 63,
+            "voiceSheetId": "051044001",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 2456154396269133049
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 1168515172716987114
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -4425810944215643952
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 7763329927754726383
+                }
+            ],
             "pathId": 1911783827328989269,
             "blockIdx": 24
         }

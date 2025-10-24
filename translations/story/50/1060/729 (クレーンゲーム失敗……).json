@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "VGYU7HC4G5DNIO35XGWZVQSNDCBF5YHZ",
+    "version": 6,
+    "bundle": "6L2MIF7KMDYVTNXPGVJLWLHIXAJZOULR",
     "type": "story",
     "storyId": "501060729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "あー……。\r\nまあ、ドンマイ？",
-            "enText": "Uh…… Well, don't you?",
+            "enText": "Daaang... Well, gotta keep your chin up,<n>right?",
             "nextBlock": 2,
             "origClipLength": 64,
+            "voiceIdx": 17,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "……かっこ悪いとこみせたな",
-                    "enText": "…… showed you how uncool it is.",
+                    "enText": "Well, this is embarrassing...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "……かっこ悪いとこみせたね",
-                    "enText": "…… showed you the uncool part.",
+                    "enText": "Well, this is embarrassing...",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
-                    "origLen": 96,
-                    "pathId": -2558380238810783549
-                },
-                {
                     "origLen": 89,
                     "pathId": -7016203618109225670
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -2558380238810783549
                 }
             ],
             "pathId": -8636797316905269252,
@@ -41,17 +44,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いやいや、そんなことないって！",
-            "enText": "No, no, no, no, no, no!",
+            "enText": "No, no, no. It's really not a big deal!",
             "nextBlock": 3,
             "origClipLength": 64,
+            "voiceIdx": 151,
+            "voiceSheetId": "051060001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 9065782430572089469
-                },
                 {
                     "origLen": 89,
                     "pathId": 6206533057800222187
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 9065782430572089469
                 }
             ],
             "pathId": -1814204323175286090,
@@ -61,17 +66,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "簡単に取れちゃったら、ゲーセンだって\r\n商売あがったりなわけだし。",
-            "enText": "If it were that easy, the arcade \nwould be out of business.",
+            "enText": "If it were easy, arcades would go out of<n>business.",
             "nextBlock": 4,
             "origClipLength": 88,
+            "voiceIdx": 3,
+            "voiceSheetId": "051060001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -2950761489281716929
-                },
                 {
                     "origLen": 108,
                     "pathId": 2956844563807799462
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2950761489281716929
                 }
             ],
             "pathId": -5214311373297580104,
@@ -81,17 +88,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "気にしないで、ラーメンでも食べて帰ろ！",
-            "enText": "Never mind, just grab some ramen and go home!",
+            "enText": "Don't worry about it. Why don't we grab<n>some\nramen on the way home?",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": 91,
+            "voiceSheetId": "051060001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -3251698886239943264
-                },
                 {
                     "origLen": 89,
                     "pathId": 47393710076875481
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3251698886239943264
                 }
             ],
             "pathId": -6726858351474236863,
@@ -101,22 +110,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": 209736633816170781
-                },
                 {
                     "origLen": 89,
                     "pathId": 556711275790273265
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 209736633816170781
                 }
             ],
             "pathId": -2819379058736720641,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555062
+    ]
 }

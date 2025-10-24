@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "7WCSTYYI2SRXIWVEXUPYJQEKU67CWZHQ",
+    "version": 6,
+    "bundle": "Z5VOWCXM5XXEJMCRQH7UXURYDZ6OHFIP",
     "type": "story",
     "storyId": "801019002",
     "title": "エモのためなら雨の中でも！",
+    "enTitle": "Heavy Romance",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "窓の外を眺めていると、雨の中を走る\r\nアグネスデジタルの姿が目に入った。",
-            "enText": "I looked out of the window and saw Agnes \nDigital running in the rain.",
+            "enText": "I happen to look outside the window and<n>notice\nAgnes Digital running in the rain.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1783765821887023192,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "はっ……はっ……。\r\nデジたんファイトっ……！",
-            "enText": "Haha… haha… Digi-tan fight…!",
+            "enText": "<i>Huff... Puff...</i> You got this, Digitan!",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "voiceIdx": 58,
+            "voiceSheetId": "051019001",
             "pathId": 8618268822575404275,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "いくぞ、もう1周ぅ～～～～～！",
-            "enText": "Here we go, one more round: ～～～～～!",
+            "enText": "Here I go! One more laaap!",
             "nextBlock": 4,
+            "origClipLength": 54,
+            "voiceIdx": 11,
+            "voiceSheetId": "051019001",
             "pathId": -5261265455980432936,
             "blockIdx": 3
         },
@@ -36,8 +46,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "30分後――廊下を歩いていると……。",
-            "enText": "Half an hour later - I'm walking \ndown the corridor and I see…",
+            "enText": "Thirty minutes later, while I'm walking<n>down the\nhallway...",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1529279394582033315,
             "blockIdx": 4
         },
@@ -45,13 +58,30 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ふぃ～、走った走った。",
-            "enText": "Fwiw, I ran and ran.",
+            "enText": "Phew, that was a good run.",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "voiceIdx": 59,
+            "voiceSheetId": "051019001",
             "choices": [
                 {
                     "jpText": "雨の中お疲れ様",
-                    "enText": "Thank you for your hard work in the rain",
+                    "enText": "It must've been tough running in the rain.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -7186324921648866742
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4744896036367111073
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 3848994563104741363
                 }
             ],
             "pathId": 9164769230163453252,
@@ -61,8 +91,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "おっとあなたは……。\r\nフヒヒ、甘いですね！　だからこそですよ♪",
-            "enText": "Oops you are… Hoo-hee, that's \nsweet! That's why… ♪",
+            "enText": "Oh, it's you... Uehehe! Of course you'd<n>think that,\nnoob! Little do you know, I<n>was out there <i>because</i>\nit was raining! ♪",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 30,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 2590420782936581549
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3540795527432615890
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 71569441416224190
+                }
+            ],
             "pathId": -3850560293866842413,
             "blockIdx": 6
         },
@@ -70,28 +117,45 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "天気予報によると、あたしが出るレースも雨！\r\nだったら同じ環境で練習した方がいいかと！",
-            "enText": "According to the weather forecast, it's \ngoing to rain in the race I'm running! So I \nthought it would be better to train in the \nsame environment!",
+            "enText": "The weather forecast says it's going to<n>rain during\nmy race, so I figured I should<n>practice under the\nsame conditions!",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "無理すると風邪ひくぞ",
-                    "enText": "Don't push yourself, you'll catch a cold.",
+                    "enText": "You'll catch a cold if you push yourself too\nhard.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "無理すると風邪ひくよ",
-                    "enText": "Don't push yourself, you'll catch a cold.",
+                    "enText": "You'll catch a cold if you push yourself too\nhard.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "真剣なんだな！",
-                    "enText": "You're serious!",
+                    "enText": "Talk about being hardcore!",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "真剣なんだね！",
-                    "enText": "You're serious!",
+                    "enText": "Talk about being hardcore!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -5602502049763018647
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2768128757164480582
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2776410989667379480
                 }
             ],
             "pathId": 1735958069632519954,
@@ -101,28 +165,45 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "天気予報によると、あたしが出るレースも雨！\r\nだったら同じ環境で練習した方がいいかと！",
-            "enText": "According to the weather forecast, it's \ngoing to rain in the race I'm running! So I \nthought it would be better to train in the \nsame environment!",
+            "enText": "The weather forecast says it's going to<n>rain during\nmy race, so I figured I should<n>practice under the\nsame conditions!",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "無理すると風邪ひくぞ",
-                    "enText": "Don't push yourself, you'll catch a cold.",
+                    "enText": "You'll catch a cold if you push yourself too\nhard.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "無理すると風邪ひくよ",
-                    "enText": "Don't push yourself, you'll catch a cold.",
+                    "enText": "You'll catch a cold if you push yourself too\nhard.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "真剣なんだな！",
-                    "enText": "You're serious!",
+                    "enText": "Talk about being hardcore!",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "真剣なんだね！",
-                    "enText": "You're serious!",
+                    "enText": "Talk about being hardcore!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 5027211280800590761
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3085688447207062061
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5711716805590105094
                 }
             ],
             "pathId": 7469662008899535434,
@@ -132,8 +213,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ノンノン♪　雨も悪路も風邪すらも、\r\nデジたんの情熱を止められはしないのですっ！",
-            "enText": "No, no, no. Neither rain, nor bad roads, nor \nwindchill can stop Digi-Tan's passion!",
+            "enText": "Tsk, tsk! I'm no hothouse flower! ♪ No<n>rain,\nbeat-up tracks, or cold's gonna<n>stop my burning\npassion!",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "voiceIdx": 3,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 3368501638950331801
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -6404725892610997725
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -4877863616393980152
+                }
+            ],
             "pathId": 4691256419205809411,
             "blockIdx": 9
         },
@@ -141,8 +239,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "それに、晴れでも雨でも走るのはダート！\r\n練習しておいて損はないでしょう？",
-            "enText": "Besides, sun or rain, it's dirt! What's not \nto like about a bit of practice?",
+            "enText": "And come rain or shine, my next race is<n>still on\ndirt, so I've got nothing to lose<n>from practicing.",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5503595059415601305
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1212479111258115190
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5221380655153730546
+                }
+            ],
             "pathId": -7092696475413052056,
             "blockIdx": 10
         },
@@ -150,8 +265,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ふひひ、どんな状況のダートでも、\r\nベストな瞬間は見逃しませんよぉ～♪",
-            "enText": "No matter what the conditions on the dirt, \nyou'll never miss the best moment…",
+            "enText": "Guehehe! I'd sooner die than miss out on<n>the best\nmoment in a race, no matter<n>what kind of dirt\ntrack I'm running on! ♪",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": 61,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2154252277144245861
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3659980292750676914
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -4357050634977988928
+                }
+            ],
             "pathId": -6633822343475118141,
             "blockIdx": 11
         },
@@ -159,8 +291,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かに悪環境でのトレーニングをすることで、\r\nあらゆる状況に適応しやすくなるだろう。",
-            "enText": "It is true that training in adverse \nconditions makes it easier to adapt \nto any situation.",
+            "enText": "Agnes Digital does have a point.<n>Training in poor\nconditions makes it<n>easier to adapt to all kinds of\nsituations.",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7666177784775858225
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -4284310210804817944
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4877679061504986127
+                }
+            ],
             "pathId": 484065748024515214,
             "blockIdx": 12
         },
@@ -168,8 +317,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "もちろん！\r\n絶対に手を抜きたくないので……！",
-            "enText": "Of course! We never want \nto cut corners, so…!",
+            "enText": "But of course! I don't ever wanna cut<n>corners!",
             "nextBlock": 14,
+            "origClipLength": 60,
+            "voiceIdx": 9,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3030692182328984046
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8325330491657126537
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 5227787021544078499
+                }
+            ],
             "pathId": 6425385562353112166,
             "blockIdx": 13
         },
@@ -177,13 +343,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "爛々と光る瞳からは激情が見て取れた。\r\nストイックに勝利を目指す彼女は、\nウマ娘の鑑と言えるだろう……。",
-            "enText": "Her eyes are glowing with passion. She is \nthe epitome of a horse girl, stoic and \ndetermined to win…",
+            "enText": "Her gleaming eyes are full of passion.<n>With such\nan unwavering drive to win,<n>she's an exemplary\nUmamusume.",
             "nextBlock": 15,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "応援するよ！！",
-                    "enText": "We're behind you!",
+                    "enText": "I'm cheering for you!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -771419940137168088
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4145344247340245249
                 }
             ],
             "pathId": 4097364433719431955,
@@ -193,13 +372,26 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ありがとうございますっ！\r\n悪環境でも尊みを見逃さないよう精進します♪",
-            "enText": "Thank you very much! I'll do my \nbest not to miss the preciousness \neven in a bad environment.",
+            "enText": "Thank you so much! I strive to capture<n>every\nglimpse of lovely perfection with<n>my eyes no\nmatter how poor the<n>conditions! ♪",
             "nextBlock": 16,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051019001",
             "choices": [
                 {
                     "jpText": "ん？",
-                    "enText": "Hmm?",
+                    "enText": "Uh... What are you talking about?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -6030615879493325473
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 5671841156023907289
                 }
             ],
             "pathId": -5712817960905577327,
@@ -209,8 +401,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "雨の中を走るウマ娘ちゃんたち……。\r\n彼女たちは互いへの感情と泥にまみれ――",
-            "enText": "The Uma Musume girls… run in the rain. \nThe girls are covered in mud and \nfeelings for each other.",
+            "enText": "The sight of Umas running in the rain,<n>their hearts\nconnected with burning<n>emotions and their\nsweaty forms<n>splattered with mud...",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "voiceIdx": 2,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6510922271287206147
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -1849417086717980132
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 580090096214426641
+                }
+            ],
             "pathId": -7800064780490240546,
             "blockIdx": 16
         },
@@ -218,8 +427,25 @@
             "jpName": "アグネスデジタル",
             "enName": "Agnes Digital",
             "jpText": "ウヒョオオオ！！　重バ場で繰り広げられる\r\n重々☆ロマンス！！　たまりませんなぁ～♪",
-            "enText": "Whoo-hoo-hoo! A heavy romance \nin a heavy bar! I love it!",
+            "enText": "Uwooooah! It's the heaviest of heavy<n>romances,\nplaying out on the drenched<n>racetrack! My\nmouth's watering just<n>thinking about it! ♪",
             "nextBlock": -1,
+            "origClipLength": 72,
+            "voiceIdx": 7,
+            "voiceSheetId": "051019001",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5454170847541327245
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -1784780359086488073
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -3596952758702230046
+                }
+            ],
             "pathId": 3732637518845237411,
             "blockIdx": 17
         }

@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "DGRATXH62KJAKWQXR47AKZ77JLAXVH5T",
+    "version": 6,
+    "bundle": "CDGNYTS6CHEJT6KV2OCL4WV6OALXOCJ3",
     "type": "story",
     "storyId": "501050728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ふーん、ホントに取れるとは\r\n思わなかった。",
-            "enText": "Hmmm, I didn't think I could really get it.",
+            "enText": "Wow, I didn't expect you to actually get<n>one.",
             "nextBlock": 2,
             "origClipLength": 73,
+            "voiceIdx": 8,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": 4400841363976989798
+                    "pathId": 5895984731110084307
                 },
                 {
                     "origLen": 84,
-                    "pathId": 5895984731110084307
+                    "pathId": 4400841363976989798
                 }
             ],
             "pathId": 5290502605286282617,
@@ -29,9 +32,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "つか、いらないって言ってんのに、\r\n押しつけてくるし。",
-            "enText": "I told them I didn't want it, but \nthey kept pushing it on me.",
+            "enText": "Why're you giving it to me? I told you I<n>don't\nwant it.",
             "nextBlock": 3,
             "origClipLength": 80,
+            "voiceIdx": 21,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 99,
@@ -39,11 +44,11 @@
                 },
                 {
                     "origLen": 91,
-                    "pathId": 3969595564092274672
+                    "pathId": -6566407159202505083
                 },
                 {
                     "origLen": 91,
-                    "pathId": -6566407159202505083
+                    "pathId": 3969595564092274672
                 }
             ],
             "pathId": -7148611179081689117,
@@ -53,9 +58,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……言っとくけど、バッグにはつけないから。\r\nそれでもいいなら、もらっとく。",
-            "enText": "… I'll tell you, I won't wear it on my \nbag. If you still want it, I'll take it.",
+            "enText": "Look, I'm not gonna put it on my bag. If<n>you're\nreally fine with that, I'll take it.",
             "nextBlock": 4,
             "origClipLength": 94,
+            "voiceIdx": 19,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 198,
@@ -63,11 +70,11 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": 5678531434944458868
+                    "pathId": -2673534050769755043
                 },
                 {
                     "origLen": 105,
-                    "pathId": -2673534050769755043
+                    "pathId": 5678531434944458868
                 }
             ],
             "pathId": -1971301106508831690,
@@ -77,9 +84,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
@@ -87,16 +96,15 @@
                 },
                 {
                     "origLen": 72,
-                    "pathId": 162048112662623253
+                    "pathId": 837635102356236951
                 },
                 {
                     "origLen": 72,
-                    "pathId": 837635102356236951
+                    "pathId": 162048112662623253
                 }
             ],
             "pathId": 2810505189353444370,
             "blockIdx": 4
         }
-    ],
-    "modified": 1662157673
+    ]
 }

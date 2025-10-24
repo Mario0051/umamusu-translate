@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "ULGYTPZ26TNBMU6PAM7JCL6XZY3HBNKF",
+    "version": 6,
+    "bundle": "RPWSU5APJLFGW77LQSON3GMJGPP3UR62",
     "type": "story",
     "storyId": "501010704",
     "title": "レイニー・ピックアップ！",
+    "enTitle": "Rainy Rescue",
     "text": [
         {
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさん、今日もセンキュー！\r\nまた明日までグッバイです！！",
-            "enText": "Thanks again today, trainer! See you \ntomorrow, good bye!",
+            "enText": "Thanks for everything today, Trainer!<n>See ya\ntomorrow!",
             "nextBlock": 2,
             "origClipLength": 66,
+            "voiceIdx": 12,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 77,
-                    "pathId": 2215342947070158841
+                    "pathId": 7197956286416052374
                 },
                 {
                     "origLen": 77,
-                    "pathId": 7197956286416052374
+                    "pathId": 2215342947070158841
                 }
             ],
             "pathId": -7117384427495309336,
@@ -29,17 +32,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そうタイキシャトルと別れて、\r\n自室に戻る道中のこと――",
-            "enText": "So I said goodbye to the Tiki Shuttle on my \nway back to my room.",
+            "enText": "I part ways with Taiki and start walking<n>back to\nmy place. But the next<n>moment...",
             "nextBlock": 3,
             "origClipLength": 92,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": 3688769086512923008
+                    "pathId": 1468825480972424250
                 },
                 {
                     "origLen": 102,
-                    "pathId": 1468825480972424250
+                    "pathId": 3688769086512923008
                 }
             ],
             "pathId": -1022102366718691298,
@@ -49,9 +54,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ポツ、ポツ――）",
-            "enText": "(POTUS, POTUS―)",
+            "enText": "<i>Plip, plop...</i>",
             "nextBlock": 4,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8218438812189479111,
             "blockIdx": 3
         },
@@ -59,9 +66,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "雨が降り出した。\r\n……だがあいにく、傘も持っていない。",
-            "enText": "It started to rain. It is…… but \nunfortunately, I don't have an umbrella.",
+            "enText": "It starts to rain. ...Unfortunately, I don't<n>have an\numbrella on me.",
             "nextBlock": 5,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7917897122451569873,
             "blockIdx": 4
         },
@@ -69,9 +78,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "急いで帰らなければ――",
-            "enText": "I have to get home as soon as possible.",
+            "enText": "I'd better hurry back...",
             "nextBlock": 6,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4887720116754740694,
             "blockIdx": 5
         },
@@ -79,9 +90,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさーん！！",
-            "enText": "Trainer!",
+            "enText": "Traineeer!",
             "nextBlock": 7,
             "origClipLength": 51,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "pathId": -4133374357620581199,
             "blockIdx": 6
         },
@@ -89,17 +102,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "よかった！　間に合いマシタ！",
-            "enText": "Thank God! We made it!",
+            "enText": "Phew! Caught ya just in time!",
             "nextBlock": 8,
             "origClipLength": 112,
+            "voiceIdx": 58,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -6229883624706439499
-                },
                 {
                     "origLen": 65,
                     "pathId": 3858440476824371180
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -6229883624706439499
                 }
             ],
             "pathId": -6679925913728233263,
@@ -109,24 +124,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "傘、持ってきましたヨ！\r\nこれでトレーナーさん、濡れまセン！",
-            "enText": "I brought an umbrella! Now \nyour trainer won't get wet!",
+            "enText": "I brought ya an umbrella! This oughta<n>keep ya\ndry!",
             "nextBlock": 9,
             "origClipLength": 64,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "……傘、差してないみたいだけど",
-                    "enText": "…… umbrella, I don't think \nshe's holding it up.",
+                    "enText": "Shouldn't you open it?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 12,
-                    "pathId": -8444953650709639652
-                },
-                {
                     "origLen": 75,
                     "pathId": -5490567472453378009
+                },
+                {
+                    "origLen": 12,
+                    "pathId": -8444953650709639652
                 }
             ],
             "pathId": -7536244320909648186,
@@ -136,17 +153,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ウップス！　忘れてマシタ！\r\nワタシ、あわてんぼうさんデスネ！",
-            "enText": "Ups! I forgot! I'm so frazzled!",
+            "enText": "Whoops! Gosh, I'm such a scatterbrain!",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 528281860241742014
-                },
                 {
                     "origLen": 76,
                     "pathId": -6601486090322255443
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 528281860241742014
                 }
             ],
             "pathId": 3568424351248730106,
@@ -156,17 +175,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、それでは一緒に帰りまショウ！",
-            "enText": "Well then, let's go home together!",
+            "enText": "Hehe, all right! Let's head back<n>together!",
             "nextBlock": 11,
             "origClipLength": 56,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 15,
-                    "pathId": -8180449728383216895
-                },
                 {
                     "origLen": 67,
                     "pathId": -7121833129797577888
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -8180449728383216895
                 }
             ],
             "pathId": -880514405159866640,
@@ -176,17 +197,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そしてタイキシャトルが\r\n持ってきてくれた傘に入りながら、\n自室へと向かった。",
-            "enText": "Then I went to my room, under the umbrella \nthat Taikishattle had brought for me.",
+            "enText": "Taiki brings me under her umbrella, and<n>we walk\nto my place together.",
             "nextBlock": 12,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 7383291780021648804
-                },
                 {
                     "origLen": 86,
                     "pathId": 5144546255409361614
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 7383291780021648804
                 }
             ],
             "pathId": -7024349966918629307,
@@ -196,24 +219,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエーイ！　トレーナーさん、無事でしたネ！\r\nこれでひと安心デス！",
-            "enText": "Yay! Trainer, you're safe! I'm so relieved!",
+            "enText": "Yay, we made it back safe and sound!<n>What a\nrelief!",
             "nextBlock": 13,
             "origClipLength": 66,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "助かったよ",
-                    "enText": "Thanks for saving my life.",
+                    "enText": "Thank you.",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 104,
-                    "pathId": -2728867788123298111
-                },
-                {
                     "origLen": 128,
                     "pathId": -6506556940541910092
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2728867788123298111
                 }
             ],
             "pathId": 6278390734237540318,
@@ -223,17 +248,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "エヘヘッ！　ユアー・ウェルカム！",
-            "enText": "Ahem! Your welcome!",
+            "enText": "Hehe! You're welcome!",
             "nextBlock": 14,
             "origClipLength": 55,
+            "voiceIdx": 4,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -1777250982483168245
-                },
                 {
                     "origLen": 67,
                     "pathId": 8727844193795316482
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -1777250982483168245
                 }
             ],
             "pathId": 1628123948100612540,
@@ -243,17 +270,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、あの時トレーナーさんに言われて\r\n折り畳み傘を買ったのは正解デシタ。",
-            "enText": "It was a good thing I bought a folding \numbrella at the trainer's suggestion.",
+            "enText": "Heh—guess buyin' that foldin' umbrella<n>ya showed\nme was the right choice!",
             "nextBlock": 15,
             "origClipLength": 69,
+            "voiceIdx": 5,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": -4401508653442779929
-                },
                 {
                     "origLen": 80,
                     "pathId": 6618988994333782556
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -4401508653442779929
                 }
             ],
             "pathId": 2847091127243929868,
@@ -263,17 +292,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そう言われて玄関に立てかけた傘を見ると――",
-            "enText": "When she told me that, I looked at the \numbrella propped up on the front porch…",
+            "enText": "I look at the umbrella propped up by<n>the\nentrance.",
             "nextBlock": 16,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 69,
-                    "pathId": 4290077599821269089
+                    "pathId": 7667864069031250458
                 },
                 {
                     "origLen": 69,
-                    "pathId": 7667864069031250458
+                    "pathId": 4290077599821269089
                 }
             ],
             "pathId": -838992569795781258,
@@ -283,17 +314,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "その傘は以前、彼女と、\r\nショッピングモールで買った傘だった。",
-            "enText": "It was the umbrella she and I had bought at a \nshopping mall.",
+            "enText": "It's the same one we bought together at<n>the mall.",
             "nextBlock": 17,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 6376059101731528971
-                },
                 {
                     "origLen": 76,
                     "pathId": -8896910304196913167
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 6376059101731528971
                 }
             ],
             "pathId": 3293799795065304899,
@@ -303,39 +336,41 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ、トレーナーさんの\r\n役に立てたようでなによりデス！",
-            "enText": "Hahaha, I'm glad I could be \nof help to your trainer!",
+            "enText": "Haha, I'm glad I got some use out of it!",
             "nextBlock": 18,
             "origClipLength": 64,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "迎えに来てくれてありがとう",
-                    "enText": "Thanks for picking me up.",
+                    "enText": "I appreciate you helping me out.",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "あの時はしぶしぶ買ってたけどね",
-                    "enText": "I was reluctant to buy it then.",
+                    "enText": "You weren't so eager to buy it back then.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "貸しが出来ちゃったな",
-                    "enText": "You owe me.",
+                    "enText": "I owe you one.",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "貸しが出来ちゃったね",
-                    "enText": "You owe me.",
+                    "enText": "I owe you one.",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": 4656155157045466778
+                    "pathId": 6044205685154549141
                 },
                 {
                     "origLen": 75,
-                    "pathId": 6044205685154549141
+                    "pathId": 4656155157045466778
                 }
             ],
             "pathId": -9187863910975091961,
@@ -345,39 +380,41 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ、トレーナーさんの\r\n役に立てたようでなによりデス！",
-            "enText": "Hahaha, I'm glad I could be \nof help to your trainer!",
+            "enText": "Haha, I'm glad I got some use out of it!",
             "nextBlock": 19,
             "origClipLength": 64,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "迎えに来てくれてありがとう",
-                    "enText": "Thanks for picking me up.",
+                    "enText": "I appreciate you helping me out.",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "あの時はしぶしぶ買ってたけどね",
-                    "enText": "I was reluctant to buy it then.",
+                    "enText": "You weren't so eager to buy it back then.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "貸しが出来ちゃったな",
-                    "enText": "You owe me.",
+                    "enText": "I owe you one.",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "貸しが出来ちゃったね",
-                    "enText": "You owe me.",
+                    "enText": "I owe you one.",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": 6283028678297250292
+                    "pathId": -994016051079537680
                 },
                 {
                     "origLen": 75,
-                    "pathId": -994016051079537680
+                    "pathId": 6283028678297250292
                 }
             ],
             "pathId": -1454895251444954083,
@@ -387,17 +424,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！　お気になさらずデス！",
-            "enText": "Oh! Don't mind if I do!",
+            "enText": "Oh, you betcha! Don't worry 'bout a<n>thing!",
             "nextBlock": 20,
             "origClipLength": 54,
+            "voiceIdx": 21,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 2,
-                    "pathId": 230396584075358015
-                },
                 {
                     "origLen": 65,
                     "pathId": 5246383361680019610
+                },
+                {
+                    "origLen": 2,
+                    "pathId": 230396584075358015
                 }
             ],
             "pathId": 6896115506887083706,
@@ -407,17 +446,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさんはワタシのために\r\nいつでも頑張ってくれてマス。",
-            "enText": "The trainer is always working hard for me.",
+            "enText": "You're always workin' so hard for my<n>sake,\nTrainer.",
             "nextBlock": 21,
             "origClipLength": 65,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 5989740532668290977
-                },
                 {
                     "origLen": 76,
                     "pathId": 151871350127542476
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5989740532668290977
                 }
             ],
             "pathId": -8909077760774507659,
@@ -427,17 +468,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だからワタシもトレーナーさんのために\r\nいろいろしたいと思ってマシタ！",
-            "enText": "That's why I want to do things \nfor my trainer, too!",
+            "enText": "So that's why I wanna do whatever I can<n>to return\nthe favor!",
             "nextBlock": 22,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 5370315842629578144
-                },
                 {
                     "origLen": 78,
                     "pathId": -3239960713445059883
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 5370315842629578144
                 }
             ],
             "pathId": 8543233215407364977,
@@ -447,17 +490,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、今日はトレーナーさんを助けられて\r\nとてもハッピー！　サイコーの日デス！",
-            "enText": "I'm so happy I was able to help my trainer \ntoday! It's a great day!",
+            "enText": "Hehe, helpin' ya out today has made me<n>awful\nhappy! What a great day!",
             "nextBlock": 23,
             "origClipLength": 71,
+            "voiceIdx": 61,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -7387547778112885116
-                },
                 {
                     "origLen": 82,
                     "pathId": 814135578866732455
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -7387547778112885116
                 }
             ],
             "pathId": 5657462122423836943,
@@ -467,17 +512,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そうにこやかな笑顔を見せた\r\nタイキシャトルだった。",
-            "enText": "The smiling Taikishattle was the one who \nshowed us this.",
+            "enText": "Taiki Shuttle shoots me a warm smile.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": -8735261288686923180
+                    "pathId": 214270809280203016
                 },
                 {
                     "origLen": 72,
-                    "pathId": 214270809280203016
+                    "pathId": -8735261288686923180
                 }
             ],
             "pathId": -6919244638679057042,
@@ -487,17 +534,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハ……それはすみませんデシタ。",
-            "enText": "Ahahaha…… sorry about that deshita.",
+            "enText": "Haha... Sorry 'bout that.",
             "nextBlock": 25,
             "origClipLength": 56,
+            "voiceIdx": 14,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 2199364079766313800
-                },
                 {
                     "origLen": 67,
                     "pathId": 9023986417527965256
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2199364079766313800
                 }
             ],
             "pathId": 7796418980271198958,
@@ -507,17 +556,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だけど傘があると便利ですネ。\r\nワタシ、ちょっと今日見直しマシタ。",
-            "enText": "But it is convenient to have an umbrella. I \nam reviewing it a little bit today.",
+            "enText": "Umbrellas sure are handy though.<n>Today's been a\nreal eye-opener.",
             "nextBlock": 26,
             "origClipLength": 66,
+            "voiceIdx": 9,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -2734526696199729550
-                },
                 {
                     "origLen": 77,
                     "pathId": -3819937707010473867
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -2734526696199729550
                 }
             ],
             "pathId": 8573939839575884218,
@@ -527,17 +578,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、次の雨の日が楽しみデス。",
-            "enText": "I'm looking forward to the next rainy day.",
+            "enText": "I can't wait till it rains again!",
             "nextBlock": 27,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": 1086623063028176624
-                },
                 {
                     "origLen": 66,
                     "pathId": -2908888478266069898
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 1086623063028176624
                 }
             ],
             "pathId": -1543341688814955975,
@@ -547,17 +600,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "もしトレーナーさんが困ってたら、\r\nワタシ、迎えに来てあげマスヨ！",
-            "enText": "If your trainer is in trouble, \nI'll come get you!",
+            "enText": "If ya ever find yourself in a fix, I'll come<n>pick ya\nup, Trainer!",
             "nextBlock": 28,
             "origClipLength": 66,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 7158277671445827365
-                },
                 {
                     "origLen": 77,
                     "pathId": 1353420600179895151
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 7158277671445827365
                 }
             ],
             "pathId": 7558745440211755368,
@@ -567,17 +622,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そう元気よく宣言する\r\nタイキシャトルだった。",
-            "enText": "So cheerfully proclaimed the Taiki Shuttle.",
+            "enText": "Taiki Shuttle beams brightly as she<n>makes her\npromise.",
             "nextBlock": -1,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": -2180486904373512729
+                    "pathId": 7735746905922108111
                 },
                 {
                     "origLen": 71,
-                    "pathId": 7735746905922108111
+                    "pathId": -2180486904373512729
                 }
             ],
             "pathId": 5393339018338581010,
@@ -587,17 +644,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！　貸し1つデスカ？",
-            "enText": "Oh! Do I owe you one?",
+            "enText": "Oh! Sayin' ya owe me a favor?",
             "nextBlock": 30,
             "origClipLength": 52,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -7694276604101152782
-                },
                 {
                     "origLen": 63,
                     "pathId": 1238655475407495498
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -7694276604101152782
                 }
             ],
             "pathId": 1774236406744707566,
@@ -607,17 +666,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "アハハッ、ラッキー！\r\nでは次の雨の日、その貸しを返してクダサイ！",
-            "enText": "Hahaha, lucky me! Well, next rainy day, \nyou'll owe me that one!",
+            "enText": "Haha, it's my lucky day! Well, you can<n>pay me\nback next time it rains!",
             "nextBlock": 31,
             "origClipLength": 66,
+            "voiceIdx": 1,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -84336070451688
-                },
                 {
                     "origLen": 77,
                     "pathId": 2702709015911816240
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -84336070451688
                 }
             ],
             "pathId": -8925821263810890325,
@@ -627,17 +688,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "今度はユーがワタシを迎えに来てくださいネ。\r\nアー・ユー・オールライト？",
-            "enText": "Now you should come and get \nme. Are you all right?",
+            "enText": "All ya gotta do is come and pick me up.<n>That all\nright?",
             "nextBlock": 32,
             "origClipLength": 68,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": -2531736546330988692
-                },
                 {
                     "origLen": 79,
                     "pathId": -9050565092801409846
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2531736546330988692
                 }
             ],
             "pathId": -4998698401079880665,
@@ -647,17 +710,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そういたずらっぽく微笑む\r\nタイキシャトルだった。",
-            "enText": "The Taikishattle was smiling mischievously.",
+            "enText": "Taiki Shuttle shoots me a mischievous<n>grin.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 2534004948001457800
+                    "pathId": -5254408375140119849
                 },
                 {
                     "origLen": 72,
-                    "pathId": -5254408375140119849
+                    "pathId": 2534004948001457800
                 }
             ],
             "pathId": -3619970764859304822,
@@ -665,19 +730,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "ウェル～……気にしなくてもいいデスヨ～。",
-            "enText": "Wel～…… don't worry about it desuyo～.",
+            "enText": "ウェル～……気にしなくてもいいデスヨ～。",
             "nextBlock": 34,
             "origClipLength": 58,
+            "voiceIdx": 34,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 5007394682876833517
-                },
                 {
                     "origLen": 69,
                     "pathId": -5961115754359955829
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 5007394682876833517
                 }
             ],
             "pathId": -3044464859983107347,
@@ -685,19 +752,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "だってワタシ、いつもお世話になってマス！\r\nだから2人の間に貸し借りはナシデス！",
-            "enText": "Because I am always indebted to you! So we \ndon't lend or borrow between us!",
+            "enText": "だってワタシ、いつもお世話になってマス！\nだから2人の間に貸し借りはナシデス！",
             "nextBlock": 35,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": 6248554465556714005
-                },
                 {
                     "origLen": 82,
                     "pathId": 1074057553079797378
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 6248554465556714005
                 }
             ],
             "pathId": -6450443056992466655,
@@ -705,19 +774,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "あ、でも――",
-            "enText": "Oh, but―",
+            "enText": "あ、でも――",
             "nextBlock": 36,
             "origClipLength": 48,
+            "voiceIdx": 30,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 2938939414813646830
-                },
                 {
                     "origLen": 59,
                     "pathId": -6086925530595011172
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 2938939414813646830
                 }
             ],
             "pathId": 5212008374073753383,
@@ -725,19 +796,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "どうしても貸しを返したいというのなら、\r\n受け付けなくもアリマセン。",
-            "enText": "If you really want to return \nthe loan, we may accept it.",
+            "enText": "どうしても貸しを返したいというのなら、\n受け付けなくもアリマセン。",
             "nextBlock": 37,
             "origClipLength": 67,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 15,
-                    "pathId": -1820081482692372730
-                },
                 {
                     "origLen": 78,
                     "pathId": -7530930290527782001
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -1820081482692372730
                 }
             ],
             "pathId": 4155734872623991846,
@@ -745,19 +818,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "フフッ、そうですね～……では～……。",
-            "enText": "Huh, yes -…… - ……",
+            "enText": "フフッ、そうですね～……では～……。",
             "nextBlock": 38,
             "origClipLength": 56,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": -7513063413536997912
-                },
                 {
                     "origLen": 67,
                     "pathId": 8388232560103726367
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -7513063413536997912
                 }
             ],
             "pathId": 5323844336033949920,
@@ -765,19 +840,21 @@
         },
         {
             "jpName": "タイキシャトル",
-            "enName": "Taiki Shuttle",
+            "enName": "タイキシャトル",
             "jpText": "また今度、楽しいお出かけに行きマショウ？\r\nそれでチャラです♪",
-            "enText": "Let's go on a fun outing again sometime, \nshall we? And that's it.",
+            "enText": "また今度、楽しいお出かけに行きマショウ？\nそれでチャラです♪",
             "nextBlock": 39,
             "origClipLength": 65,
+            "voiceIdx": 4,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": -5334871457582156302
-                },
                 {
                     "origLen": 76,
                     "pathId": 2368324143104574975
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -5334871457582156302
                 }
             ],
             "pathId": 4355755896032958693,
@@ -787,22 +864,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "タイキシャトルは嬉しそうな表情で\r\nそうお願いしてきたのだった。",
-            "enText": "The Taikishattle asked me to do so with a \nhappy expression on her face.",
+            "enText": "タイキシャトルは嬉しそうな表情で\nそうお願いしてきたのだった。",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
-                    "pathId": -2112621331624857748
+                    "pathId": 2477756618620543657
                 },
                 {
                     "origLen": 76,
-                    "pathId": 2477756618620543657
+                    "pathId": -2112621331624857748
                 }
             ],
             "pathId": 7053387637539650568,
             "blockIdx": 39
         }
-    ],
-    "modified": 1657555248
+    ]
 }

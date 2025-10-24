@@ -1,20 +1,24 @@
 {
-    "version": 4,
-    "bundle": "WYKMYJZHMNVH35QLZAYFHQK3BJ4JSV5W",
+    "version": 6,
+    "bundle": "QOBH3RQ2PDYDOYWZH6WBN6F5KKSWBC6I",
     "type": "story",
     "storyId": "041010004",
     "title": "プリーズ、マイトレーナー",
+    "enTitle": "Lonesome No More",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "会議が長引き、タイキシャトルとの\r\nトレーニング時間を過ぎてしまった……！",
-            "enText": "The meeting lasted so long, \nthat Taiki Shuttle's training time had come to an end…!",
+            "enText": "My meeting ran over, and now I'm late for<n>my training session with\nTaiki Shuttle!",
             "nextBlock": 2,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "急いで向かわないと……！",
-                    "enText": "I have to hurry…!",
+                    "enText": "I've got to hurry!",
                     "nextBlock": 2
                 }
             ],
@@ -25,8 +29,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして向かったトレーニングコースで、\r\nタイキシャトルは、やけに落ち込んだ様子で佇んでいた……。",
-            "enText": "And so, I headed to the training course. \nTaiki Shuttle was standing there and looked really depressed…",
+            "enText": "I arrive at the training course to find Taiki<n>standing alone, looking\nutterly dejected.",
             "nextBlock": 3,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": 6711750191898164149
+                },
+                {
+                    "origLen": 172,
+                    "pathId": -716980468803257217
+                }
+            ],
             "pathId": 2084811630573325342,
             "blockIdx": 2
         },
@@ -34,18 +51,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "うぅ……。\r\nうぅぅうぅ～……！",
-            "enText": "Uu… \nUuuuUuu~…!",
+            "enText": "<i>Sob...</i>",
             "nextBlock": 4,
+            "origClipLength": 112,
+            "voiceIdx": 0,
+            "voiceSheetId": "041010004",
             "choices": [
                 {
                     "jpText": "タイキ、遅くなってすまない！",
-                    "enText": "Taiki, sorry I'm so late!",
+                    "enText": "Sorry I'm late, Taiki!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "タイキ、遅くなってごめん！",
-                    "enText": "Taiki, sorry I'm so late!",
+                    "enText": "Sorry I'm late, Taiki!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4155116485620933793
+                },
+                {
+                    "origLen": 172,
+                    "pathId": 2279253237717465754
                 }
             ],
             "pathId": -7619772277517545358,
@@ -55,8 +85,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あっ……！！",
-            "enText": "Ah…!!",
+            "enText": "...!",
             "nextBlock": 5,
+            "origClipLength": 27,
+            "voiceIdx": 1,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 6,
+                    "pathId": -4755617904272876000
+                }
+            ],
             "pathId": -6389010232479607650,
             "blockIdx": 4
         },
@@ -64,8 +103,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ウエェェェェェン！！\r\nトレーナーさぁぁぁーーーん！！",
-            "enText": "Uwaaaaaaaaaah!! \nTrainer-saaaaaaaaaaan!!",
+            "enText": "Wahhh! Traineeer!",
             "nextBlock": 6,
+            "origClipLength": 178,
+            "voiceIdx": 2,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3189361047226568896
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -6546270903216260606
+                }
+            ],
             "pathId": 7185020896767229393,
             "blockIdx": 5
         },
@@ -73,8 +125,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ドドーーン！！）",
-            "enText": "(fieldaaaaaam!!)",
+            "enText": "<i>Thud!</i>",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6268761865389835618,
             "blockIdx": 6
         },
@@ -82,8 +137,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……涙ながらのハグは、\r\n凄まじいタックルにも似ていた。",
-            "enText": "…The tearful hug she gave me, \nwas more like an intense tackle. ",
+            "enText": "Her tearful hug is akin to a crushing tackle.",
             "nextBlock": 8,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1177752016197637366,
             "blockIdx": 7
         },
@@ -91,18 +149,27 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "グスッ、グスッ……。",
-            "enText": "Hicc, hic…",
+            "enText": "<i>Sob...</i>",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "voiceIdx": 3,
+            "voiceSheetId": "041010004",
             "choices": [
                 {
                     "jpText": "落ち着いたか……？",
-                    "enText": "Have you calmed down a bit…?",
+                    "enText": "Feeling better?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "落ち着いた……？",
-                    "enText": "Have you calmed down a bit…?",
+                    "enText": "Feeling better?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -5491031909284125393
                 }
             ],
             "pathId": -703938961258720967,
@@ -112,8 +179,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イェース……トレーナーさん、\r\nびっくりさせてソーリーです。",
-            "enText": "Yeah… Trainer-san, \nI'm sorry for surprising you like that.",
+            "enText": "Yes... Sorry for breaking down on ya like<n>that, Trainer.",
             "nextBlock": 10,
+            "origClipLength": 160,
+            "voiceIdx": 4,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1573358573357149681
+                }
+            ],
             "pathId": 7725688362849438665,
             "blockIdx": 9
         },
@@ -121,8 +197,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシ、ロンリーはホントにダメで……。\r\n寂しくて寂しくて、すぐ泣いてしまうのデース……。",
-            "enText": "I'm, really bad at being lonely… I just get more and more \ndepressed, and can't help but start crying…",
+            "enText": "I just can't handle flyin' solo. I get so<n>lonely that the tears start\nflowing nonstop.",
             "nextBlock": 11,
+            "origClipLength": 269,
+            "voiceIdx": 5,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 160,
+                    "pathId": 1208158764750993683
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -5021375768715418137
+                }
+            ],
             "pathId": 4633999810246203315,
             "blockIdx": 10
         },
@@ -130,8 +219,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "今日も、フレンズがトレーニングしてて、\r\nトークしてくれるうちはよかったのデスガ……。",
-            "enText": "Today, while I was training with my friends, \nI was completely fine when we were talking…",
+            "enText": "Everything was fine while all my friends<n>were here training and I had\npeople to talk<n>to...",
             "nextBlock": 12,
+            "origClipLength": 219,
+            "voiceIdx": 6,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 48,
+                    "pathId": -7321235556161177169
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -7860456804810351409
+                }
+            ],
             "pathId": -3728398745897301693,
             "blockIdx": 11
         },
@@ -139,8 +241,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だんだん、みんな帰ってしまって……。\r\nワタシ、取り残されて……。トレーナーさんもいなくて……。",
-            "enText": "But one by one, everyone started heading home… \nI was left behind… Trainer-san wasn't here either…",
+            "enText": "But eventually, everybody else went<n>home, and I was left all on my\nlonesome.<n>And you were nowhere to be found...",
             "nextBlock": 13,
+            "origClipLength": 274,
+            "voiceIdx": 7,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -8387256258521738068
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 7554942189069426118
+                }
+            ],
             "pathId": -1472131890407352225,
             "blockIdx": 12
         },
@@ -148,8 +263,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "うぅ……グスッ……！！",
-            "enText": "Uu… hicc…!!",
+            "enText": "<i>Sob...</i>",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "voiceIdx": 8,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8055481493722990292
+                }
+            ],
             "pathId": 1482078917705593768,
             "blockIdx": 13
         },
@@ -157,8 +281,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "いつも友だちに囲まれている子だとは思っていたが、\r\nその反面、かなり重度の寂しがり屋だったようだ……。",
-            "enText": "She was constantly surrounded by her friends \nnormally, but it seemed that she became considerably \nlonely when left on her own…",
+            "enText": "It's hard to tell since she's always<n>surrounded by friends, but it seems\nshe<n>gets lonely pretty easily.",
             "nextBlock": 15,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 286,
+                    "pathId": 1038419372105417454
+                }
+            ],
             "pathId": 8378444112192833038,
             "blockIdx": 14
         },
@@ -166,8 +299,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "グスッ、グス……オゥ？",
-            "enText": "Hicc, hic… oh?",
+            "enText": "<i>Sob...</i> Oh?",
             "nextBlock": 16,
+            "origClipLength": 124,
+            "voiceIdx": 9,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": -4166350751757203138
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5434929137136000474
+                }
+            ],
             "pathId": -2244145067165627739,
             "blockIdx": 15
         },
@@ -175,13 +321,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……ソーリー。たくさん泣いたので、\r\nハングリーになってしまいまシタ。",
-            "enText": "…Sorry. I cried alot, \nbut now it looks like that made me really hungry.",
+            "enText": "Sorry. Guess all that crying made me<n>hungry.",
             "nextBlock": 17,
+            "origClipLength": 184,
+            "voiceIdx": 10,
+            "voiceSheetId": "041010004",
             "choices": [
                 {
                     "jpText": "おいしいものでも食べに行こうか",
-                    "enText": "Let's go get something good to eat",
+                    "enText": "Let's get something good to eat.",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -4502085960760868448
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 2590627838366642397
                 }
             ],
             "pathId": -2360493879906548526,
@@ -191,8 +350,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "遅れてしまってトレーニングができなかった\r\nお詫びに、タイキシャトルをファミレスへと連れて行くことにした。",
-            "enText": "Since I was late and wasn't there for her training, as an \napology, I took Taiki Shuttle with me to a family restaurant.",
+            "enText": "To make up for missing her training<n>session, I decide to treat Taiki to\na meal.",
             "nextBlock": 18,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5947039325889874158
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 8825037688825473118
+                }
+            ],
             "pathId": 4301888546351685243,
             "blockIdx": 17
         },
@@ -200,8 +372,25 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オーウ、ファミリーレストラン！！",
-            "enText": "Oh, a family restaurant!!",
+            "enText": "Ooh, a sit-down restaurant!",
             "nextBlock": 19,
+            "origClipLength": 92,
+            "voiceIdx": 11,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 7254599002982284646
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7483612497254795809
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2574553680646428506
+                }
+            ],
             "pathId": -907593090474737781,
             "blockIdx": 18
         },
@@ -209,18 +398,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "メニューもたくさん！　ドリンクもたくさん！！\r\nワタシ、ここ大好きデース！！",
-            "enText": "Lots on the menu! Lots of drinks!! \nI really like this place!!",
+            "enText": "Look at all the food and drinks to choose<n>from! It's like I've died and\ngone to<n>heaven!",
             "nextBlock": 20,
+            "origClipLength": 215,
+            "voiceIdx": 12,
+            "voiceSheetId": "041010004",
             "choices": [
                 {
                     "jpText": "なんでも好きなのを頼んでいいぞ",
-                    "enText": "Go ahead and order whatever you want",
+                    "enText": "Order anything you like.",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "なんでも好きなのを頼んでいいよ",
-                    "enText": "Go ahead and order whatever you want",
+                    "enText": "Order anything you like.",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7020216844131161581
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1400109369881581774
                 }
             ],
             "pathId": 5606299282658570633,
@@ -230,8 +432,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "リアリィ！？\r\nトレーナーさん、ファットボディですね～！",
-            "enText": "Really?! Trainer-san, \nyou're kind of a fatty aren't you?",
+            "enText": "Really?! Trainer, you're as givin' as the day<n>is long!",
             "nextBlock": 21,
+            "origClipLength": 139,
+            "voiceIdx": 13,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 8883692850562568140
+                }
+            ],
             "pathId": 2752226024830208661,
             "blockIdx": 20
         },
@@ -239,8 +450,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……オウ、もしかして今のだとシツレイです？\r\nソーリー、ア～……フトッパラ、ですネ！",
-            "enText": "…Oh, was that a rude way to put it? \nSorry, um… a real glutton!",
+            "enText": "Oh, did that not come across? Sorry! I just<n>meant... you're really\ngenerous!",
             "nextBlock": 22,
+            "origClipLength": 288,
+            "voiceIdx": 14,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4663519340762985303
+                }
+            ],
             "pathId": 6974812963557898244,
             "blockIdx": 21
         },
@@ -248,8 +468,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "なににしまショーカ……！　ステーキ？　ハンバーグ？\r\nスペシャルデラックスパフェ……？！",
-            "enText": "What should I get…?! Steak? \nHamburger? Special deluxe parfait…?!",
+            "enText": "What should I go with? Steak? A<n>hamburger? Or maybe the special\ndeluxe<n>parfait?",
             "nextBlock": 23,
+            "origClipLength": 203,
+            "voiceIdx": 15,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -330250603936330428
+                }
+            ],
             "pathId": -2802995196190466295,
             "blockIdx": 22
         },
@@ -257,8 +486,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "…………全部にしマース！！",
-            "enText": "…I'll get all of them!!",
+            "enText": "...On second thought, I'll take 'em all!",
             "nextBlock": 24,
+            "origClipLength": 100,
+            "voiceIdx": 16,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 6278405902893951262
+                }
+            ],
             "pathId": 7558763018961328025,
             "blockIdx": 23
         },
@@ -266,8 +504,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "タイキシャトルが満足いくまで\r\nごちそうしてあげた。",
-            "enText": "I let her eat until she \nwas completely satsified.",
+            "enText": "I let Taiki keep ordering until her stomach<n>is sufficiently satisfied.",
             "nextBlock": 25,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -4576113229115114626
+                }
+            ],
             "pathId": 913692455283520124,
             "blockIdx": 24
         },
@@ -275,8 +522,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……薄くなった財布のことは、\r\nいったん考えないようにしよう。",
-            "enText": "…For now, I'll ignore the fact that \nmy wallet has gotten alot thinner.",
+            "enText": "...It's probably best not to dwell on how<n>light my wallet has become.",
             "nextBlock": 26,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 1772213405279817285
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8105255320069497801
+                }
+            ],
             "pathId": 8417468669383032712,
             "blockIdx": 25
         },
@@ -284,8 +544,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ぷはー！！　センキュー、トレーナーさん！\r\nお腹いっぱい、ソー・ハッピーでーす！！",
-            "enText": "Puhaa!! Thank you, Trainer-san! \nI'm so happy, now that I'm full!!",
+            "enText": "Whew! Thank ya, Trainer! I'm so full—and<n>so happy!",
             "nextBlock": 27,
+            "origClipLength": 244,
+            "voiceIdx": 17,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7379063644139714257
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6901061281178985348
+                }
+            ],
             "pathId": -7854608616097723547,
             "blockIdx": 26
         },
@@ -293,8 +566,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "でもやっぱり、ニホンのステーキは\r\nちょこーっとスモールですネ～。",
-            "enText": "But, well, Japan's steak is a \nlittle on the small side, isn't it?",
+            "enText": "But Japanese steaks are a little on the<n>small side...",
             "nextBlock": 28,
+            "origClipLength": 179,
+            "voiceIdx": 18,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2993574922044308659
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6628643939149901367
+                }
+            ],
             "pathId": -7679149810458317596,
             "blockIdx": 27
         },
@@ -302,8 +588,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシがファミリーと食べていたステーキは、\r\nこの2倍……ノー、3倍は分厚かったデース！",
-            "enText": "The steak I've eaten with my \nfamily is twice… no, 3 times as thick!",
+            "enText": "The steaks I used to eat with my family<n>were twice—no, three times as\nbig!",
             "nextBlock": 29,
+            "origClipLength": 244,
+            "voiceIdx": 19,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": 2734244465218992196
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7093379834659601751
+                }
+            ],
             "pathId": 7782052423735264731,
             "blockIdx": 28
         },
@@ -311,8 +610,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……懐かしいデース。ファミリーやフレンズたちと、\r\nトークしながら食べましたネー……。",
-            "enText": "…How nostalgic. I used to talk \nalot with my friends and family while eating…",
+            "enText": "That sure takes me back. I always loved<n>talkin' with my family and\nfriends over a<n>good meal.",
             "nextBlock": 30,
+            "origClipLength": 234,
+            "voiceIdx": 20,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6962451728938743475
+                },
+                {
+                    "origLen": 199,
+                    "pathId": -984568781916622392
+                }
+            ],
             "pathId": 4971700831649168801,
             "blockIdx": 29
         },
@@ -320,8 +632,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "みんなに……会いたいデース……。",
-            "enText": "Everyone… I want to see them again…",
+            "enText": "I miss them all so much...",
             "nextBlock": 31,
+            "origClipLength": 97,
+            "voiceIdx": 21,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 1710187801306941744
+                }
+            ],
             "pathId": 8425760640549951690,
             "blockIdx": 30
         },
@@ -329,18 +650,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "タイキシャトルがしょんぼりとうなだれる。寂しがり屋な\r\n彼女のことだ、ホームシックの辛さはきっと相当なものだろう……。",
-            "enText": "Taiki Shuttle slowly became more dejected. For someone \nwho gets lonely easily like her, the bitterness of \nbeing home sick must be pretty severe…",
+            "enText": "Taiki hangs her head sadly. Considering<n>how easily she gets lonely,\nthe<n>homesickness must be particularly hard on<n>her.",
             "nextBlock": 32,
+            "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "君が寂しくならないように、傍にいるよ",
-                    "enText": "So you don't get lonely, I'll be here",
+                    "enText": "I'll be here for you so you don't feel lonely.",
                     "nextBlock": 32
                 },
                 {
                     "jpText": "貴方が寂しくならないように、傍にいるね",
-                    "enText": "So you don't get lonely, I'll be here",
+                    "enText": "I'll be here for you so you don't feel lonely.",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -4863461015292716871
+                },
+                {
+                    "origLen": 192,
+                    "pathId": 7486359926156176874
                 }
             ],
             "pathId": 5090428099900485025,
@@ -350,8 +684,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……！！\r\nトレーナーさん……！！",
-            "enText": "…!! \nTrainer-san…!!",
+            "enText": "<i>Gasp!</i> Oh, Trainer!",
             "nextBlock": 33,
+            "origClipLength": 103,
+            "voiceIdx": 22,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5828535532878812016
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6987975117230366723
+                }
+            ],
             "pathId": 5777772834304699486,
             "blockIdx": 32
         },
@@ -359,8 +706,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……センキュー！！\r\nセンキュー・ベリー・マッチ！！",
-            "enText": "…Thank you!! \nThank you very much!!",
+            "enText": "Thank ya! Thank ya very much!",
             "nextBlock": 34,
+            "origClipLength": 113,
+            "voiceIdx": 23,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8702751174162813290
+                }
+            ],
             "pathId": -3708167829058608959,
             "blockIdx": 33
         },
@@ -368,8 +724,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシ、まだ帰りまセーン！\r\nトゥインクル・シリーズで勝つまでは！！",
-            "enText": "I'm not going home any time soon! \nAt least not until I win the Twinkle Series!!",
+            "enText": "I'm not going home yet! Not till I win the<n>Twinkle Series!",
             "nextBlock": 35,
+            "origClipLength": 174,
+            "voiceIdx": 24,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 5262813410215504323
+                }
+            ],
             "pathId": 3772221193458506981,
             "blockIdx": 34
         },
@@ -377,8 +742,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "大好きなファミリー、フレンズたち、\r\nみんなワタシを応援してくれマシタ。",
-            "enText": "For the family and friends I love, \nwho all cheered me on.",
+            "enText": "My precious family and friends are rootin'<n>for me.",
             "nextBlock": 36,
+            "origClipLength": 171,
+            "voiceIdx": 25,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7102493195394623776
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -176979589520996558
+                }
+            ],
             "pathId": 5815722109685965554,
             "blockIdx": 35
         },
@@ -386,8 +764,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシが勝つと、ハッピースマイル、\r\n見せてくれマシタ！",
-            "enText": "When I win, they always \nshow me their happy smiles!",
+            "enText": "I love seeing their happy smiles every time<n>I win!",
             "nextBlock": 37,
+            "origClipLength": 142,
+            "voiceIdx": 26,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 6828747427774018605
+                }
+            ],
             "pathId": 3625233109152849177,
             "blockIdx": 36
         },
@@ -395,8 +782,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "みんなのハッピースマイルが、マイ・フェイバリット！\r\nワタシにとって1番のハッピーでーす！",
-            "enText": "Seeing everyone with happy smiles is my favorite! \nFor me, that's the thing that makes me the happiest!",
+            "enText": "Seeing everybody smile is my favorite<n>thing in the whole, wide world!\nNothin'<n>makes me happier!",
             "nextBlock": 38,
+            "origClipLength": 229,
+            "voiceIdx": 27,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": 5299888925935525614
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2490240876147537675
+                }
+            ],
             "pathId": 8073376867858412609,
             "blockIdx": 37
         },
@@ -404,8 +804,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だからワタシ……\r\n寂しくっても、頑張りマース！！",
-            "enText": "That's why… even if I get lonely, \nI'm going to do my best!!",
+            "enText": "So I won't let a little loneliness stop me<n>from giving it my all!",
             "nextBlock": 39,
+            "origClipLength": 146,
+            "voiceIdx": 28,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 5072175178770974019
+                }
+            ],
             "pathId": 3939936908382413156,
             "blockIdx": 38
         },
@@ -413,13 +822,22 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさんと一緒なら、頑張れマース！！",
-            "enText": "With Trainer-san here, I can keep doing my best!!",
+            "enText": "With you by my side, I can take on the<n>world!",
             "nextBlock": 40,
+            "origClipLength": 108,
+            "voiceIdx": 29,
+            "voiceSheetId": "041010004",
             "choices": [
                 {
                     "jpText": "よし、一緒に頑張ろう！！",
-                    "enText": "Yeah, let's both do our best!!",
+                    "enText": "Let's do this—you and me!",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 7023371203274810173
                 }
             ],
             "pathId": -5247931843724324049,
@@ -429,8 +847,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イェーース！！\r\n一緒にみんなをハッピーにしちゃいまショー！",
-            "enText": "Yes!! Let's make them show \nus their happy smiles, together!",
+            "enText": "Yes! We'll make everybody<n>happy—together!",
             "nextBlock": 41,
+            "origClipLength": 173,
+            "voiceIdx": 30,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 5580685866449653502
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 5512843537927874931
+                }
+            ],
             "pathId": 8293540905228423825,
             "blockIdx": 40
         },
@@ -438,8 +869,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして、気持ちも新たに\r\nタイキシャトルと勝利を目指すことになったのだった……！",
-            "enText": "And with these renewed feelings, \nTaiki Shuttle and I would aim for victory…!",
+            "enText": "And so, with our spirits renewed, we set<n>our sights on victory!",
             "nextBlock": 42,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -5342142645648577143
+                }
+            ],
             "pathId": -6105639703658861297,
             "blockIdx": 41
         },
@@ -447,8 +887,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……が。",
-            "enText": "…however.",
+            "enText": "However...",
             "nextBlock": 43,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -2367773164175974670
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1250103797155339696
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -509584673823286934
+                }
+            ],
             "pathId": -4427646198150237398,
             "blockIdx": 42
         },
@@ -456,8 +913,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あぁっ！　あそこにドーベルがいマース！！",
-            "enText": "Ahhh! That's Dober over there!!",
+            "enText": "Oh, look! I see Dober over there!",
             "nextBlock": 44,
+            "origClipLength": 100,
+            "voiceIdx": 31,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -6580045337093516578
+                }
+            ],
             "pathId": 7347886739152846197,
             "blockIdx": 43
         },
@@ -465,8 +931,17 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ハウディ、マイフレーーーンド！！",
-            "enText": "Howdy, my frieeeeeeeeend!!",
+            "enText": "Howdy, friend!",
             "nextBlock": 45,
+            "origClipLength": 108,
+            "voiceIdx": 32,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 2287122156579958314
+                }
+            ],
             "pathId": 776176811473929908,
             "blockIdx": 44
         },
@@ -474,8 +949,21 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "え？　なに……？",
-            "enText": "Eh? What…?",
+            "enText": "Huh? What?",
             "nextBlock": 46,
+            "origClipLength": 50,
+            "voiceIdx": 33,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": -8573888694071119557
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6618981300347406562
+                }
+            ],
             "pathId": 4431609869340026831,
             "blockIdx": 45
         },
@@ -483,8 +971,21 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ドーベル～～～～！！",
-            "enText": "Doberrrrrrr~~~!!",
+            "enText": "Dobeeer!",
             "nextBlock": 47,
+            "origClipLength": 70,
+            "voiceIdx": 34,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -2817273424344197213
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4413794382149412056
+                }
+            ],
             "pathId": 278667323062114644,
             "blockIdx": 46
         },
@@ -492,8 +993,33 @@
             "jpName": "メジロドーベル",
             "enName": "Mejiro Dober",
             "jpText": "ちょっ、きゃあ！？",
-            "enText": "Wai- Kyaa?!",
+            "enText": "Wha—gyah!",
             "nextBlock": 48,
+            "origClipLength": 54,
+            "voiceIdx": 35,
+            "voiceSheetId": "041010004",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 6262856908138105393
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 6623999113425163733
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1168913750178346663
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6828765576519842706
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3009265025570584381
+                }
+            ],
             "pathId": 644477067254724360,
             "blockIdx": 47
         },
@@ -501,8 +1027,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ドシーーーーン！！）",
-            "enText": "(Baaaaaaaaam!!)",
+            "enText": "<i>Crash!</i>",
             "nextBlock": 49,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7689588200385973810,
             "blockIdx": 48
         },
@@ -510,8 +1039,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……タイキシャトルには、\r\nまだまだ課題が多そうなのだった。",
-            "enText": "…looks like Taiki Shuttle still \nhas a long, long way to go.",
+            "enText": "It seems we still have a lot of work to do.",
             "nextBlock": 50,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 9058304726304272720,
             "blockIdx": 49
         },
@@ -519,12 +1051,13 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ、ソーリー☆",
-            "enText": "Oh, sorry~☆",
+            "enText": "Oh, sorry! ☆",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": 36,
+            "voiceSheetId": "041010004",
             "pathId": 8617663485571344742,
             "blockIdx": 50
         }
-    ],
-    "humanTl": true,
-    "modified": 1673053213
+    ]
 }

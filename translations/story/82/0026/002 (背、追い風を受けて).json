@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "KDPC4AYJZ4EYKDJWMEJFWQKBFDITFZTN",
+    "version": 6,
+    "bundle": "UDK6CKUALYGMYLFQQJ3HZNBAYLQI5T3E",
     "type": "story",
     "storyId": "820026002",
     "title": "背、追い風を受けて",
+    "enTitle": "Wind at My Back",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある休日。\r\n河川敷を歩いていると――",
-            "enText": "One holiday. I was walking \nalong the riverbank.",
+            "enText": "I'm walking by the river on my day off,<n>when...",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6440122998716019937,
             "blockIdx": 1
         },
@@ -18,8 +22,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "ぜぇっ……ぜぇっ……づがれだ～～。",
-            "enText": "Zeke… Zeke… Zegara da~!",
+            "enText": "<i>Huff... huff... wheeze...</i> I'm beat!",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "voiceIdx": 58,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 3583173438617694211
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5646633348411124402
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6043654521390863550
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1081195792156495586
+                }
+            ],
             "pathId": -6208117369822185885,
             "blockIdx": 2
         },
@@ -27,18 +52,39 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いったん休憩しよっか。\r\nお互いレース近いんだし、無茶は厳禁。",
-            "enText": "Let's take a break. We are both close to the \nrace and we mustn't be reckless.",
+            "enText": "How about we take a break? We've both<n>got\nraces coming up, so we can't be<n>overworking\nourselves.",
             "nextBlock": 4,
+            "origClipLength": 85,
+            "voiceIdx": 47,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "頑張ってるな",
-                    "enText": "You're doing great.",
+                    "enText": "You two sure are working hard.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "頑張ってるね",
-                    "enText": "You're doing great.",
+                    "enText": "You two sure are working hard.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5023192218723000391
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8665415537234776333
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -9069822750599211002
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -627402892170183832
                 }
             ],
             "pathId": -876515609703561085,
@@ -48,8 +94,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いやぁ、それがさ……さっきまでは\r\nこんな予定じゃなかったんだけど――",
-            "enText": "Well, it's just that… wasn't supposed to be \nlike this until just now—",
+            "enText": "Well, I wasn't exactly planning to get so<n>carried\naway, but then...",
             "nextBlock": 5,
+            "origClipLength": 90,
+            "voiceIdx": 34,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7051992182168219960
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3684006119791087040
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1643617982634812636
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5526319276348468793
+                }
+            ],
             "pathId": 1498255303445059339,
             "blockIdx": 4
         },
@@ -57,8 +124,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ふぅ～、今日はあがりっと。\r\n次走が強敵相手だからって、\nちょっと追い込みすぎたか～……。",
-            "enText": "I'm done for the day. I think I pushed her a \nbit too hard because her next race is \nagainst a strong opponent…",
+            "enText": "Phew! I think that'll do it for today. I<n>know I'm up\nagainst some real<n>speedsters in my next race, but\nI don't<n>want to overdo it...",
             "nextBlock": 6,
+            "origClipLength": 103,
+            "voiceIdx": 59,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 147,
+                    "pathId": 5680634020021746959
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -2340711198918362812
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6840355291255607570
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 1799923538209200200
+                }
+            ],
             "pathId": 1631826356120361319,
             "blockIdx": 5
         },
@@ -66,8 +154,21 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "ん……この声は――",
-            "enText": "… This voice is—",
+            "enText": "Hm? That voice...",
             "nextBlock": 7,
+            "origClipLength": 56,
+            "voiceIdx": 30,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7547733214671314232
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -6099586185289287558
+                }
+            ],
             "pathId": 54232157694752531,
             "blockIdx": 6
         },
@@ -75,8 +176,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "やはり、ネイチャさんでしたか。\r\nもしや寮へお戻りですか。",
-            "enText": "It's you, Natya! Have you returned \nto your dormitory?",
+            "enText": "I knew it was you, Nature. Are you<n>returning to\nthe dorm?",
             "nextBlock": 8,
+            "origClipLength": 82,
+            "voiceIdx": 42,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -6650144744328558783
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -2500841970618594067
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 3073852930859302725
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 916681623483666197
+                }
+            ],
             "pathId": 7578406578180068134,
             "blockIdx": 7
         },
@@ -84,8 +206,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "たははー。軽く走ったら汗かいちゃって……\r\n自主練とか、慣れんことするもんじゃないね。",
-            "enText": "Ta-ha-ha. I went for a light run and broke a \nsweat… Self-discipline is not something you \nshould get used to.",
+            "enText": "Ahaha, yeah. Can you believe it? All this<n>sweat\nfrom a light jog... That's what I get<n>for trying to\ndo solo training for once.",
             "nextBlock": 9,
+            "origClipLength": 101,
+            "voiceIdx": 14,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 9105467488941003605
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 2502654876535242609
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1174666054588991716
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 7627292335386195111
+                }
+            ],
             "pathId": 2817615064003886742,
             "blockIdx": 8
         },
@@ -93,8 +236,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "……なるほど。\r\nですが、入寮は許可できません。",
-            "enText": "… I see. But we can't allow you \nto stay in the dormitory.",
+            "enText": "...I see. Well, I regret to say that I cannot<n>let you\nreturn to the dorm.",
             "nextBlock": 10,
+            "origClipLength": 76,
+            "voiceIdx": 79,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2713718821715211546
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3163847653964104773
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -6592669899234603682
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 3254592848277868475
+                }
+            ],
             "pathId": 8829162714811964971,
             "blockIdx": 9
         },
@@ -102,8 +266,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "え？　……なんで？",
-            "enText": "What? Why…?",
+            "enText": "Huh? How come?",
             "nextBlock": 11,
+            "origClipLength": 56,
+            "voiceIdx": 20,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -3217938121489934372
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8366526425828240209
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7952241367025228474
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7791775712304306028
+                }
+            ],
             "pathId": 4330100488770350292,
             "blockIdx": 10
         },
@@ -111,8 +296,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "それは、その……。\r\nのっぴきならない事情がありまして。",
-            "enText": "It's that… I'm in a very \ndifficult situation.",
+            "enText": "You see, we are in the middle of a...<n>situation.",
             "nextBlock": 12,
+            "origClipLength": 81,
+            "voiceIdx": 54,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4801464678421535300
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 51167663968757878
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -5037772297219949836
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2925280248902807205
+                }
+            ],
             "pathId": -6603306332236942315,
             "blockIdx": 11
         },
@@ -120,8 +326,33 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "イクノー！　ターボ腹ペコ～～っ！\r\nもう待てないぞー！",
-            "enText": "Ick no! I'm turbo hungry~! \nI can't wait any longer!",
+            "enText": "Ikunoooo! I'm STARVING! I can't wait<n>any longer!",
             "nextBlock": 13,
+            "origClipLength": 90,
+            "voiceIdx": 17,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -1131460176158511725
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8692480590040017473
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -939602188365656869
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3331378112311268183
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 6801811914907127976
+                }
+            ],
             "pathId": -8948881862097542260,
             "blockIdx": 12
         },
@@ -129,8 +360,41 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "って、ネイチャだ～～！？",
-            "enText": "And that's Nature~!",
+            "enText": "Hang on. Nature?!",
             "nextBlock": 14,
+            "origClipLength": 60,
+            "voiceIdx": 31,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 145,
+                    "pathId": -5168157300305626269
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2923671624473954039
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -415260504716283077
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 1972110910439740595
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -3995693020827334561
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3306409712182228866
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 6888783280578993010
+                }
+            ],
             "pathId": 2146941147878132169,
             "blockIdx": 13
         },
@@ -138,8 +402,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "……！\r\n待った甲斐がありましたね、ターボさん。",
-            "enText": "…! It was worth the wait, wasn't it, Turbo?",
+            "enText": "It looks like the wait was well worth it,<n>Turbo.",
             "nextBlock": 15,
+            "origClipLength": 76,
+            "voiceIdx": 0,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 417144902756453860
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5302593495997151173
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -829645607484086034
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -6949358613132295612
+                }
+            ],
             "pathId": 4582139768764231691,
             "blockIdx": 14
         },
@@ -147,8 +432,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "む！？　待った“貝”……？\r\nターボ、貝はホタテが好きだぞ！",
-            "enText": "No! Wait, \"shellfish\"…? Turbo, \nshellfish love scallops!",
+            "enText": "Hm?! The wait was <i>whale</i> worth it?!<n>When it comes\nto seafood, I'm a fan of<n>scallops myself!",
             "nextBlock": 16,
+            "origClipLength": 84,
+            "voiceIdx": 7,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 4054454218101990119
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -895877134734896900
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -6025490281978211034
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -8814577421628079032
+                }
+            ],
             "pathId": 3652322112071448869,
             "blockIdx": 15
         },
@@ -156,8 +462,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "ええ……貝のようにジッと待ってましたよね？\r\nネイチャさんと併走するために。ずっと。",
-            "enText": "Yes… you waited like a clam, didn't you? To \nrun with Nature. All the way.",
+            "enText": "Ah yes, I see you had a <i>whale</i> of a time<n>waiting\npatiently to have a run with<n>Nature.",
             "nextBlock": 17,
+            "origClipLength": 99,
+            "voiceIdx": 37,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 214400759216734595
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 8339693739601836576
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1806284758572092539
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -555828859986650435
+                }
+            ],
             "pathId": -3765842482752277782,
             "blockIdx": 16
         },
@@ -165,8 +492,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "おおっ……そーだ！　ホタテみたく待ってた！\r\nネイチャ、勝負だぁ～っ！",
-            "enText": "Oh… yes! I've been waiting for you like a \nscallop! Nature, let's play!",
+            "enText": "Yep, that's right! I was waiting like a<n>beached\nwhale! And now it's time to<n>race, Nature!",
             "nextBlock": 18,
+            "origClipLength": 90,
+            "voiceIdx": 87,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -530167025286767745
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2274050607138502915
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8510429801833475031
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 3344170599545113136
+                }
+            ],
             "pathId": -8999398675693978929,
             "blockIdx": 17
         },
@@ -174,8 +522,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いやだから、今アタシ自主練から戻っ――\r\nうぅっ……そんな目で見ないでってぇ～～。",
-            "enText": "I've just come back from a practice session \n… and don't look at me like that.",
+            "enText": "Uh, no, I was about to head back to<n>the—gahhh!\nDon't give me those<n>goo-goo eyes!",
             "nextBlock": 19,
+            "origClipLength": 98,
+            "voiceIdx": 28,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -1538678126373309196
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 4911042847713352294
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -6152363894533877208
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7932292587854416270
+                }
+            ],
             "pathId": 1953572464130327293,
             "blockIdx": 18
         },
@@ -183,8 +552,45 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "――で、今に至るわけよ。\r\nまぁ、いい調整になったけどね。",
-            "enText": "—And here we are. Well, it's \nbeen a good adjustment.",
+            "enText": "Aaand that's how I ended up in this here<n>situation.\nTo be fair, this has been some<n>good extra training\nfor me so far.",
             "nextBlock": 20,
+            "origClipLength": 82,
+            "voiceIdx": 85,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 2028367215014187757
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6897519790308770530
+                },
+                {
+                    "origLen": 162,
+                    "pathId": 4179591019980319810
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -509141635328330055
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 972308693101160947
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 5807181677354603459
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -9036734726884300350
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -6535241326309761962
+                }
+            ],
             "pathId": -7767510532103390687,
             "blockIdx": 19
         },
@@ -192,8 +598,29 @@
             "jpName": "ツインターボ",
             "enName": "Twin Turbo",
             "jpText": "よぉーし！　こっちも調整かんりょーだ！\r\nネイチャ、戻るぞーー！！",
-            "enText": "Alright! We're ready to adjust too! \nNature, we're coming back!",
+            "enText": "Yup! It's been great for me too! In fact...<n>I'm all\ndone! Let's go home!",
             "nextBlock": 21,
+            "origClipLength": 88,
+            "voiceIdx": 98,
+            "voiceSheetId": "051066001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5705360872404071183
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1480172401145559812
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7923203810807083197
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1018479599876585178
+                }
+            ],
             "pathId": -3101285656737827002,
             "blockIdx": 20
         },
@@ -201,8 +628,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……は！？　今度は戻るの！？\r\nちょ、相変わらずターボ全開だな！？",
-            "enText": "What about…! Now you're going back! Hey, \nyou're still going full turbo!",
+            "enText": "...What?! We're going back already?! Do<n>you\nalways turbo boost through your<n>training like\nthat?!",
             "nextBlock": 22,
+            "origClipLength": 88,
+            "voiceIdx": 27,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2132616335856023313
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 7146261502447259503
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -1368741953953125102
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 324721260196422899
+                }
+            ],
             "pathId": -1227126271530770591,
             "blockIdx": 21
         },
@@ -210,8 +658,33 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "おいおい、また寮の前に誰かいるじゃん？\r\n今度は一体なに～～……。",
-            "enText": "Hey, there's someone in front of \nthe dormitory again, isn't there? \nWhat is it this time~…",
+            "enText": "Oh, geez... Now there's someone else in<n>front of\nthe dorm. What's the deal this<n>time?",
             "nextBlock": 23,
+            "origClipLength": 88,
+            "voiceIdx": 21,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -2190020451118943302
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -5440872467835603450
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -5728977498247569994
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -3752580388064863622
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -1106678598374067588
+                }
+            ],
             "pathId": -2597503530915674249,
             "blockIdx": 22
         },
@@ -219,22 +692,72 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……って、ボランティアの時の\r\nちびっ子たちじゃん！　え、どういうこと！？",
-            "enText": "That's… the little ones from the volunteer \nwork! What do you mean?",
+            "enText": "...Hold up! You're the kids from where I<n>volunteer!\nNow what's going on here?!",
             "nextBlock": 24,
+            "origClipLength": 93,
+            "voiceIdx": 26,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -8656175694478751569
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -6285227963734874032
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 3328367255738920931
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -6062710756502122604
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -8487911847414403511
+                }
+            ],
             "pathId": 2994171334204604739,
             "blockIdx": 23
         },
         {
             "jpName": "ウマ娘の子どもたち",
-            "enName": "Horsegirl Children",
+            "enName": "Umamusume Kids",
             "jpText": "せーのっ！　よーこそ！\r\n『ネイチャおねーちゃん応援パーティー』へ！",
-            "enText": "Yes! Welcome! Welcome to the \nNature-onna-chan Cheering Party!",
+            "enText": "Three, two, one! Welcome to the \"Go<n>Nature\"\nparty!",
             "nextBlock": 25,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "応援パーティー？",
-                    "enText": "Cheering party?",
+                    "enText": "\"Go Nature\" party?",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 7322691929836767787
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6429870417500593048
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2561240881730728088
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1823079539393913620
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2157527623732774420
                 }
             ],
             "pathId": 6561950949613094523,
@@ -242,10 +765,35 @@
         },
         {
             "jpName": "元気なウマ娘の少女",
-            "enName": "Energetic Horsegirl",
+            "enName": "Energetic Young Umamusume",
             "jpText": "あのね！　おねーちゃん、つぎのレース\r\nすっごいはやい子たちと走るってきいたの！",
-            "enText": "Hey! I heard that you're going to run the \nnext race with some really fast kids!",
+            "enText": "Um, so... We heard that you're gonna<n>run against\nreal fast racers in your next<n>race!",
             "nextBlock": 26,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 2315027336697623031
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2756726388287999739
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3888632385645450007
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 751155202080600492
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -5314263915341191344
+                }
+            ],
             "pathId": -8989244449851865407,
             "blockIdx": 25
         },
@@ -253,8 +801,49 @@
             "jpName": "マチカネタンホイザ",
             "enName": "Matikanetannhauser",
             "jpText": "だから、応援したいって……みんな、\r\n頑張ってパーティーの準備したんだよねっ。",
-            "enText": "That's why we wanted to support … everyone \nwho worked so hard to prepare for the party.",
+            "enText": "The kids all wanted to show you their<n>support, so\nthey set up this party for<n>you!",
             "nextBlock": 27,
+            "origClipLength": 95,
+            "voiceIdx": 0,
+            "voiceSheetId": "051062001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -7938444430081198124
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 480360153131318308
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 9058587655405804502
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 8856835938185518807
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 471224611791224175
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 6982018833693353522
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 2350867815299325323
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 3642683711488632917
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6364495800906493529
+                }
+            ],
             "pathId": 3695754242651888612,
             "blockIdx": 26
         },
@@ -262,8 +851,29 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "パーティー……準備……\r\nじゃあ、さっきの入寮禁止って――",
-            "enText": "Party… Preparation… So, the ban on \ndormitories that you mentioned earlier—",
+            "enText": "For me? Hold on... Is this why you<n>stopped me\nfrom going to the dorms<n>before?",
             "nextBlock": 28,
+            "origClipLength": 82,
+            "voiceIdx": 30,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -7683752734201029947
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 3166399259607531160
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1305392450359941781
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 45453397090754397
+                }
+            ],
             "pathId": -6834375414030833826,
             "blockIdx": 27
         },
@@ -271,8 +881,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "ふっ……足止めの協力を。\r\n私たちも、この子たちと同じ気持ちですから。",
-            "enText": "Phew… Help us stall. We feel \nthe same as they do.",
+            "enText": "Heh, indeed it was. The two of us<n>offered to\ndistract you and buy them<n>more time. After all,\nwe also wish to<n>support you.",
             "nextBlock": 29,
+            "origClipLength": 90,
+            "voiceIdx": 0,
+            "voiceSheetId": "051063001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8797198631491154975
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 4947239348959751385
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -382893227782051814
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 740381884753863984
+                }
+            ],
             "pathId": -5459698778464404573,
             "blockIdx": 28
         },
@@ -280,8 +911,29 @@
             "jpName": "イクノディクタス",
             "enName": "Ikuno Dictus",
             "jpText": "ネイチャさん……私たちは知っています。\r\nレースに向け、日々努力を続けていることを。",
-            "enText": "Ms. Nature… we know. We know that \nyou are working hard every day \nto get ready for the race.",
+            "enText": "Nature, we know how hard you've been<n>working\nevery day in the lead-up to your<n>race.",
             "nextBlock": 30,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -2177085193129723565
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 6202379197899602526
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6682932716126461021
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7313667756311192243
+                }
+            ],
             "pathId": 5412997100799982385,
             "blockIdx": 29
         },
@@ -289,8 +941,29 @@
             "jpName": "マチカネタンホイザ",
             "enName": "Matikanetannhauser",
             "jpText": "そうそう！　次のレースの出走表見て、\r\n『こりゃ～無理だ～』なんて笑ってたけどさ。",
-            "enText": "Oh, yes! I was laughing when I saw \nthe next race on the list.",
+            "enText": "Yep! You might've laughed and said you<n>didn't\nstand a chance when you saw the<n>racer list, but\nyou can't trick us!",
             "nextBlock": 31,
+            "origClipLength": 98,
+            "voiceIdx": 38,
+            "voiceSheetId": "051062001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 5672118541518956637
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7835670774693141546
+                },
+                {
+                    "origLen": 208,
+                    "pathId": 1178268748649554567
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 3998064397185426662
+                }
+            ],
             "pathId": -1553669483829782672,
             "blockIdx": 30
         },
@@ -298,18 +971,47 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "待って……ちょっと、理解が……ってか、\r\n今までの自主練、バレて……え、ええ～……。",
-            "enText": "Wait… I don't understand… I mean, I've \nbeen practicing on my own… and I've \nbeen exposed… yeah… yeah…",
+            "enText": "Hang on, I'm kinda having trouble<n>processing all\nthis... So you guys knew I<n>was practicing on my\nown? Oh, geez...",
             "nextBlock": 32,
+            "origClipLength": 99,
+            "voiceIdx": 84,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "いい友だちだな",
-                    "enText": "You're a good friend.",
+                    "enText": "You've got some great friends.",
                     "nextBlock": 32
                 },
                 {
                     "jpText": "いい友だちだね",
-                    "enText": "You're a good friend.",
+                    "enText": "You've got some great friends.",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -7098251155177282699
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -4820783832327611624
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5836972786687585613
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -2389024556295387501
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4229538512440664547
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -2689946715750953932
                 }
             ],
             "pathId": -100963504533227687,
@@ -319,8 +1021,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "…………はぁ～～っ。\r\nいいって言うか、物好きでしょ。",
-            "enText": "… haha! I'm not saying it's \ngood, but you like things.",
+            "enText": "<i>Siiiiigh...</i> I don't know if you should call<n>them\n\"great\" or just plain \"nosy.\"",
             "nextBlock": 33,
+            "origClipLength": 80,
+            "voiceIdx": 4,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 7905252523417257943
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4080963157384627994
+                }
+            ],
             "pathId": -2645096129406885576,
             "blockIdx": 32
         },
@@ -328,8 +1043,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "アタシのために、ここまでするとかさ。\r\nこんなことされたら、アタシだって……。",
-            "enText": "I don't know why they would go to \nsuch lengths for me. If they did \nthis to me, I'd go to…",
+            "enText": "But still, I can't believe you did all this<n>for me.\nSeeing all this...",
             "nextBlock": 34,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4048538306121137834
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7181957923576938186
+                }
+            ],
             "pathId": 5027532691603753719,
             "blockIdx": 33
         },
@@ -337,8 +1065,25 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……勝つぞって、思っちゃうじゃん！\r\nガラにもなくさぁぁ～～っ……もぉぉ～～っ！",
-            "enText": "You'd think we'd win…! You'd \nthink we'd win… too!",
+            "enText": "Even I can't help thinking I've gotta win!<n>And\nthat's totally not like me! Gahhhh!",
             "nextBlock": 35,
+            "origClipLength": 97,
+            "voiceIdx": 36,
+            "voiceSheetId": "051060001",
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 5302337408528899477
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 8082075772915146890
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2302935656274567501
+                }
+            ],
             "pathId": 6359966591766476818,
             "blockIdx": 34
         },
@@ -346,8 +1091,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "恨み節とは裏腹に、笑顔を浮かべて\r\nパーティーへ向かうナイスネイチャ。\n応援で、ますます気合いが入ったようだ。",
-            "enText": "Despite her grumblings, Nice Nature's face \nwore a smile as she headed to the party. The \nsupport seemed to get her more fired up.",
+            "enText": "Despite her disgruntled complaints, Nice<n>Nature\nsmiles and joins the party. It<n>looks like the extra\nsupport has<n>motivated her even more.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -2523760681239820834
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2132081556485732099
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 8179589796802349945
+                }
+            ],
             "pathId": 662966655397762020,
             "blockIdx": 35
         }

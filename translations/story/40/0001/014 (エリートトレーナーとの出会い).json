@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "PKX6REJENBKKSUVABC2UZ4KQOMMLGYZ4",
+    "version": 6,
+    "bundle": "OQL3AAELDYJJPKA5A67WVOWWHJZR6XQA",
     "type": "story",
     "storyId": "400001014",
     "title": "エリートトレーナーとの出会い",
+    "enTitle": "Encounter with an Elite Trainer",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある朝、ポストに投函されていた\r\nチラシをふと見てみると――",
-            "enText": "One morning, I saw a flyer in the mailbox.",
+            "enText": "One morning, a flyer in my mailbox<n>catches my\neye.",
             "nextBlock": 2,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5974396650194502720,
             "blockIdx": 1
         },
@@ -19,13 +22,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "『駅前水族館、グランドオープン！』\r\n『癒しの空間をご提供いたします』",
-            "enText": "Grand Opening of the Station Aquarium! We \nwill provide you with a healing space.",
+            "enText": "\"Aquarium Grand Opening!\" \"Right next<n>to the\nstation! A tranquil space perfect<n>for relaxation!\"",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "<chrname>のいい息抜きになるかな",
-                    "enText": "Would be a nice break for <chrname>.",
+                    "enText": "This might be a nice change of pace for\n<chrname>.",
                     "nextBlock": 3
                 }
             ],
@@ -36,9 +41,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "せっかくなので誘いに行こう……そう考え、\r\nチラシを持って、彼女を探しに行った。",
-            "enText": "I thought, \"Since I'm here, let's \ngo ask her out…… so I took the flyer \nand went looking for her.",
+            "enText": "I don't want to let this opportunity pass<n>us by. I\ngrab the flyer and go looking for<n>her.",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8753890660038355417,
             "blockIdx": 3
         },
@@ -46,18 +53,20 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、最も可能性の高い\r\nトレーニングコースへやって来たのだが……。",
-            "enText": "Thus, we came to the most \nlikely training course. ……",
+            "enText": "The first place I check is the training<n>track, but...",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いないな……",
-                    "enText": "Not here: ……",
+                    "enText": "(She's not here...)",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "いないみたい……",
-                    "enText": "I don't think she's there: ……",
+                    "enText": "(She's not here...)",
                     "nextBlock": 5
                 }
             ],
@@ -68,9 +77,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "担当ウマ娘は残念ながら見当たらず、今度\r\n誘うことにしよう、と立ち去りかけると――",
-            "enText": "Unfortunately, I couldn't find your horse \ngirl, so I was about to walk away and say, \n\"I'll ask her out next time…",
+            "enText": "Unfortunately, my trainee isn't around. I<n>decide\nto invite her next time I see her<n>and turn to leave.",
             "nextBlock": 6,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5246333297703049486,
             "blockIdx": 5
         },
@@ -78,9 +89,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "おぉっ……！　なんてことだ。\r\nあのウマ娘、以前とは走りのキレが違う！",
-            "enText": "Oh ……! Oh my god. That Uma Musume is not as \nsharp as she used to run!",
+            "enText": "Whoa... Look at her go! It's like she's not<n>even the\nsame Umamusume!",
             "nextBlock": 7,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -926468745478171076,
             "blockIdx": 6
         },
@@ -88,9 +101,11 @@
             "jpName": "ベテラントレーナーB",
             "enName": "Veteran Trainer B",
             "jpText": "まだ専用トレーニングを受け始めて\r\n間もないはずなのに、あの成長ぶり……\nやはり、レベルが違うわね。",
-            "enText": "She hasn't even been in dedicated training \nfor a short time, but she's grown so much.…… \nI knew she was on a different level.",
+            "enText": "That special training program's doing<n>wonders for\nher. She's barely even<n>started, but it's like she's\nalready on a<n>whole new level.",
             "nextBlock": 8,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4459375431257733416,
             "blockIdx": 7
         },
@@ -98,13 +113,15 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "桐生院【きりゅういん】トレーナー……！！",
-            "enText": "Kiryuin [Kiryuin] trainer ……!",
+            "enText": "Look! It's Trainer Kiryuin!",
             "nextBlock": 9,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "桐生院",
-                    "enText": "Kiryuin"
+                    "enText": ""
                 }
             ],
             "pathId": 7678247049442842975,
@@ -114,45 +131,49 @@
             "jpName": "",
             "enName": "",
             "jpText": "なにやら、人だかりができている。\r\n思わずその中心を覗いてみると……。",
-            "enText": "There was a crowd of people. I looked into \nthe center of it and found ……",
+            "enText": "A crowd of people has formed nearby. I<n>find\nmyself following their line of sight,<n>where I see...",
             "nextBlock": 10,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -753217676751421347,
             "blockIdx": 9
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "お疲れ様です、ミーク。\r\nよい走りでした。",
-            "enText": "Good job, Meek. It was a good run.",
+            "enText": "Great work, Meek. You ran really well<n>today.",
             "nextBlock": 11,
             "origClipLength": 68,
+            "voiceIdx": 127,
+            "voiceSheetId": "059004001",
             "coloredText": [
                 {
                     "jpText": "ミーク",
-                    "enText": "Meek."
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 222,
-                    "pathId": -7004418554428768703
-                },
-                {
                     "origLen": 156,
                     "pathId": 6340457769781923612
+                },
+                {
+                    "origLen": 222,
+                    "pathId": -7004418554428768703
                 },
                 {
                     "origLen": 97,
                     "pathId": 8556364786267248272
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 4298245130204490246
-                },
-                {
                     "origLen": 89,
                     "pathId": 7378759026360788168
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4298245130204490246
                 }
             ],
             "pathId": 313977188234505082,
@@ -160,31 +181,33 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "でも、ラストで少々集中が途切れましたね。\r\n今の貴方なら、もっと加速できるはずです。",
-            "enText": "But you lost focus a little in the last part. \nI am sure you can accelerate more now.",
+            "enText": "Still, you lost focus a bit at the end. If<n>you hadn't,\nI think you could have gone<n>even faster.",
             "nextBlock": 12,
             "origClipLength": 72,
+            "voiceIdx": 34,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -7407805323661977715
-                },
                 {
                     "origLen": 156,
                     "pathId": 2052579095133084429
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7407805323661977715
                 },
                 {
                     "origLen": 21,
                     "pathId": 8503150984890150642
                 },
                 {
-                    "origLen": 140,
-                    "pathId": 2309964648833024610
-                },
-                {
                     "origLen": 134,
                     "pathId": 2772856367848943640
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 2309964648833024610
                 }
             ],
             "pathId": -6597542471584152793,
@@ -192,27 +215,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "最後まで気持ちを途切れさせないことを\r\n意識しましょう。大丈夫、貴方ならできます！",
-            "enText": "Be aware that you must not lose heart until \nthe end. Don't worry, you can do it!",
+            "enText": "Try to concentrate right up until the<n>finish line. I\nknow you can do it!",
             "nextBlock": 13,
             "origClipLength": 71,
+            "voiceIdx": 10,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 1126150650264183745
-                },
                 {
                     "origLen": 156,
                     "pathId": -8020116258836810617
                 },
                 {
-                    "origLen": 151,
-                    "pathId": 155610174088143302
+                    "origLen": 80,
+                    "pathId": 1126150650264183745
                 },
                 {
                     "origLen": 134,
                     "pathId": -8905931987695964341
+                },
+                {
+                    "origLen": 151,
+                    "pathId": 155610174088143302
                 }
             ],
             "pathId": -8629623325609074856,
@@ -222,25 +247,27 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……はい、トレーナー。\r\nがんばります。……むん。",
-            "enText": "…… Yes, trainer. I will do my best.…… mun.",
+            "enText": "Thank you, Trainer. I'll do my best...<n>Hmph.",
             "nextBlock": 14,
             "origClipLength": 61,
+            "voiceIdx": 11,
+            "voiceSheetId": "052001001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -5099231083990439059
-                },
                 {
                     "origLen": 156,
                     "pathId": -9140748136720614751
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 4551331869417159122
+                    "origLen": 89,
+                    "pathId": -5099231083990439059
                 },
                 {
                     "origLen": 134,
                     "pathId": 3526908050651723635
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4551331869417159122
                 }
             ],
             "pathId": 2389369762971533372,
@@ -248,31 +275,33 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Average Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "彼女が、数多くの優駿ウマ娘を育て上げた\r\n名門トレーナー一族“桐生院家”の後継……。",
-            "enText": "She is the successor to the Kiryuin family, \nthe famous family of trainers who have raised \nnumerous Yusun Uma Musume. ……",
+            "enText": "That's Aoi Kiryuin... Did you know she's<n>the heir\nto the Kiryuin family? They've<n>raised more\nsuperstar runners than I can<n>count...",
             "nextBlock": 15,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": -3362635213038518401
                 },
                 {
-                    "origLen": 93,
-                    "pathId": 6773693299427769352
-                },
-                {
                     "origLen": 156,
                     "pathId": 633666761976024671
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -8985619966762611657
+                    "origLen": 93,
+                    "pathId": 6773693299427769352
                 },
                 {
                     "origLen": 134,
                     "pathId": 3455030704307320649
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8985619966762611657
                 }
             ],
             "pathId": 8322164910280593456,
@@ -280,33 +309,35 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Average Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "前期ライセンス試験のトップ合格者、\r\n『桐生院　葵』【きりゅういん　あおい】\nトレーナー……！",
-            "enText": "The top passer of the first semester \nlicensing exam, \"Kiryuin Aoi\" [Kiryuin \nAoi] Trainer ……!",
+            "enText": "Right! She got the top score on the<n>first-term\nlicense exam, too!",
             "nextBlock": 16,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "桐生院　葵",
-                    "enText": "Kiryuin Aoi"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -329569354994826987
-                },
                 {
                     "origLen": 156,
                     "pathId": 4710432202324435417
                 },
                 {
                     "origLen": 89,
-                    "pathId": 9142706820486755133
+                    "pathId": -329569354994826987
                 },
                 {
                     "origLen": 134,
                     "pathId": 5002451818588448356
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 9142706820486755133
                 }
             ],
             "pathId": -2113344028571015816,
@@ -314,33 +345,35 @@
         },
         {
             "jpName": "中堅トレーナーB",
-            "enName": "Average Trainer B",
+            "enName": "Skilled Trainer B",
             "jpText": "担当ウマ娘のハッピーミークも、\r\n以前はあまりぱっとしなかったが……\n著しい成長を遂げているな……！",
-            "enText": "Happy Meek, your horse girl, was not so \nimpressive in the past.…… She's grown up \nremarkably: ……!",
+            "enText": "Happy Meek didn't used to be anything<n>to write\nhome about, but recently she's<n>been making\namazing progress!",
             "nextBlock": 17,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "ハッピーミーク",
-                    "enText": "Happy Meek"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 150,
-                    "pathId": 5241832238174753122
-                },
                 {
                     "origLen": 156,
                     "pathId": -6244382072217202128
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -8088639093611736550
+                    "origLen": 150,
+                    "pathId": 5241832238174753122
                 },
                 {
                     "origLen": 134,
                     "pathId": 6537637688682961467
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8088639093611736550
                 }
             ],
             "pathId": -6626136685788799537,
@@ -350,25 +383,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやら注目を集めているのは、\r\n桐生院トレーナーと担当ウマ娘・\nハッピーミークのコンビのようだ……。",
-            "enText": "Apparently, it is the duo of Kiryuin trainer \nand your horse girl, Happy Meek, that is \nattracting the most attention. Happy Meek. ……",
+            "enText": "It seems that Trainer Kiryuin and her<n>trainee\nHappy Meek are the ones<n>attracting all the\nattention.",
             "nextBlock": 18,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 1986400818692367862
-                },
                 {
                     "origLen": 26,
                     "pathId": 7501086584438223451
                 },
                 {
-                    "origLen": 23,
-                    "pathId": 281837419605803974
+                    "origLen": 26,
+                    "pathId": 1986400818692367862
                 },
                 {
                     "origLen": 22,
                     "pathId": -1945363057276004138
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 281837419605803974
                 }
             ],
             "pathId": 2284029291262856713,
@@ -376,41 +411,45 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あれっ……？　あの、すみません！！\r\nもしかして、貴方は……！！",
-            "enText": "Oh, is that ……? Excuse me! Are you ……?",
+            "enText": "Hm? Ah! Excuse me! Are you...?",
             "nextBlock": 19,
             "origClipLength": 65,
+            "voiceIdx": 53,
+            "voiceSheetId": "059004001",
             "pathId": 4112027557264893716,
             "blockIdx": 18
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "やっぱり！\r\n<username>トレーナー！",
-            "enText": "I knew it! Trainer <username>!",
+            "enText": "I knew it! You're\nTrainer<n><username>!",
             "nextBlock": 20,
             "origClipLength": 70,
+            "voiceIdx": 68,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "え、俺？",
-                    "enText": "Oh, me?",
+                    "enText": "Huh? Me?",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "え、私？",
-                    "enText": "Oh, me?",
+                    "enText": "Huh? Me?",
                     "nextBlock": 20
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 4506941241109205660
-                },
-                {
                     "origLen": 156,
                     "pathId": -1944862321130627203
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4506941241109205660
                 }
             ],
             "pathId": 7705931598309481571,
@@ -418,23 +457,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "はい！　あ、すみません急に……！\r\nでも私、貴方のことがずっと……！",
-            "enText": "Yes! Oh, sorry to so suddenly……! \nBut I've been thinking about \nyou all the way back to ……!",
+            "enText": "That's right! I'm sorry, this must be quite<n>sudden,\nbut... I've always admired you!",
             "nextBlock": 21,
             "origClipLength": 67,
+            "voiceIdx": 4,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 101,
                     "pathId": -9082477848401233573
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -2092585419763520873
-                },
-                {
                     "origLen": 156,
                     "pathId": -4796870660241954986
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2092585419763520873
                 }
             ],
             "pathId": 6848821179907155252,
@@ -444,29 +485,31 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……トレーナー。\r\n…………この人は？",
-            "enText": "…… trainer.……… Who is this person?",
+            "enText": "Trainer... Who is this?",
             "nextBlock": 22,
             "origClipLength": 57,
+            "voiceIdx": 20,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 159,
                     "pathId": 2492706565322377700
                 },
                 {
-                    "origLen": 171,
-                    "pathId": 1477029468238122321
-                },
-                {
                     "origLen": 156,
                     "pathId": 4773495043772836012
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 9201962999300763884
+                    "origLen": 171,
+                    "pathId": 1477029468238122321
                 },
                 {
                     "origLen": 134,
                     "pathId": -2771261160773526821
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 9201962999300763884
                 }
             ],
             "pathId": 2664439277106648920,
@@ -474,31 +517,33 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あぁっ！　ごめんなさいミーク、\r\n急に置いて行ってしまって……！",
-            "enText": "Aah! Sorry, Meek, for leaving \nyou so suddenly. ……!",
+            "enText": "Ah! I'm sorry, Meek! I just ran off, didn't<n>I?",
             "nextBlock": 23,
             "origClipLength": 65,
+            "voiceIdx": 31,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": 991657914717711875
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 6587652181635348983
-                },
-                {
                     "origLen": 156,
                     "pathId": 5968384715363764461
                 },
                 {
-                    "origLen": 96,
-                    "pathId": 6198946898294330322
+                    "origLen": 60,
+                    "pathId": 6587652181635348983
                 },
                 {
                     "origLen": 134,
                     "pathId": 679426238131286477
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 6198946898294330322
                 }
             ],
             "pathId": 2693745718998406585,
@@ -506,27 +551,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ふぅ……取り乱してすみませんでした。\r\n改めて――",
-            "enText": "Phew…… sorry for the distraction. Once again―",
+            "enText": "<i>Phew...</i> Sorry, I didn't mean to scare<n>everyone.\nLet's try this again, shall we?",
             "nextBlock": 24,
             "origClipLength": 61,
+            "voiceIdx": 60,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 134,
-                    "pathId": -1208891146931218648
-                },
                 {
                     "origLen": 156,
                     "pathId": -155002154347321293
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -7222320494520259479
+                    "origLen": 134,
+                    "pathId": -1208891146931218648
                 },
                 {
                     "origLen": 134,
                     "pathId": -3743622635460741252
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -7222320494520259479
                 }
             ],
             "pathId": 64710792424251566,
@@ -534,15 +581,17 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "初めまして、桐生院葵と申します！\r\n貴方と同じ、学園所属のトレーナーです。",
-            "enText": "Nice to meet you, my name is Aoi Kiryuin! \nLike you, I am a trainer at the school.",
+            "enText": "It's a pleasure to meet you! My name is<n>Aoi\nKiryuin. I'm a Tracen Academy<n>trainer, just like\nyou.",
             "nextBlock": 25,
             "origClipLength": 69,
+            "voiceIdx": 42,
+            "voiceSheetId": "059004001",
             "coloredText": [
                 {
                     "jpText": "桐生院葵",
-                    "enText": "Kiryuin Aoi"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -551,20 +600,20 @@
                     "pathId": -2392610769516884102
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -5117971199654988993
-                },
-                {
                     "origLen": 156,
                     "pathId": 6007218634542644271
                 },
                 {
-                    "origLen": 223,
-                    "pathId": -9002861539027198836
+                    "origLen": 89,
+                    "pathId": -5117971199654988993
                 },
                 {
                     "origLen": 134,
                     "pathId": -1822436719502355206
+                },
+                {
+                    "origLen": 223,
+                    "pathId": -9002861539027198836
                 }
             ],
             "pathId": -483322161961192807,
@@ -572,27 +621,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "こちらは、担当のハッピーミークです。\r\nミーク、ご挨拶してもらえますか？",
-            "enText": "This is Happy Meek, who is in charge. Meek, \ncould you say hello?",
+            "enText": "And this is my trainee, Happy Meek.<n>Meek, do\nyou want to say hello?",
             "nextBlock": 26,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 8777704716632464058
-                },
                 {
                     "origLen": 156,
                     "pathId": 6191345199383167549
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 1494019084787766682
+                    "origLen": 50,
+                    "pathId": 8777704716632464058
                 },
                 {
                     "origLen": 134,
                     "pathId": -276451893690042198
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 1494019084787766682
                 }
             ],
             "pathId": 5398189365498628490,
@@ -602,35 +653,37 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……ハッピーミークです。\n…………こんにちは。",
-            "enText": "…… Happy Meek. Hello …………",
+            "enText": "Hello... I'm Happy Meek...",
             "nextBlock": 27,
             "origClipLength": 60,
+            "voiceIdx": 42,
+            "voiceSheetId": "052001001",
             "coloredText": [
                 {
                     "jpText": "ハッピーミーク",
-                    "enText": "Happy Meek"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
-                    "origLen": 134,
-                    "pathId": 1826789549608349144
-                },
-                {
                     "origLen": 156,
                     "pathId": 1648307153583189621
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 1826789549608349144
                 },
                 {
                     "origLen": 30,
                     "pathId": 3548054520591407116
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 6041235749456157469
-                },
-                {
                     "origLen": 134,
                     "pathId": 6321980834301559496
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6041235749456157469
                 }
             ],
             "pathId": 3156395348800127559,
@@ -638,27 +691,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あの……<username>トレーナーは\r\nご存じでないかもしれませんが……。",
-            "enText": "Um…… trainer <username> \nin case you didn't know……",
+            "enText": "Um, you may not be aware of this, but...",
             "nextBlock": 28,
             "origClipLength": 70,
+            "voiceIdx": 54,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -3174785988390632369
-                },
                 {
                     "origLen": 156,
                     "pathId": 8535497219211924172
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -2804522400332565527
+                    "origLen": 89,
+                    "pathId": -3174785988390632369
                 },
                 {
                     "origLen": 134,
                     "pathId": -1395527371402112171
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -2804522400332565527
                 }
             ],
             "pathId": 4051088604441406152,
@@ -666,27 +721,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "実は、私と貴方のトレセン学園配属時期って、\r\nほぼ同時だったんです。",
-            "enText": "As a matter of fact, we were assigned to the \ntraining center school at about the same time.",
+            "enText": "...You and I were actually assigned to<n>Tracen\nAcademy at almost the same<n>time.",
             "nextBlock": 29,
             "origClipLength": 67,
+            "voiceIdx": 4,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -887378528346873723
-                },
                 {
                     "origLen": 156,
                     "pathId": 4281195830134141910
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 8886330813165119233
+                    "origLen": 89,
+                    "pathId": -887378528346873723
                 },
                 {
                     "origLen": 134,
                     "pathId": 4816441796044230811
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 8886330813165119233
                 }
             ],
             "pathId": 3979996468979402348,
@@ -694,27 +751,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "それで私、勝手ながら貴方に、\r\n同期……のような親近感を抱いてしまって。",
-            "enText": "So I selfishly felt a sense of kinship with \nyou, just like synchronization ……",
+            "enText": "Maybe this is weird, but I've always felt<n>closer to\nyou because of that.",
             "nextBlock": 30,
             "origClipLength": 68,
+            "voiceIdx": 2,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": 1505538341080999278
-                },
                 {
                     "origLen": 156,
                     "pathId": -4265472644758579005
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -8386466143531088209
+                    "origLen": 77,
+                    "pathId": 1505538341080999278
                 },
                 {
                     "origLen": 134,
                     "pathId": -1777709753977682081
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -8386466143531088209
                 }
             ],
             "pathId": 8452360008497654518,
@@ -722,27 +781,29 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "いずれお話してみたい、と思っていたんです。",
-            "enText": "I was thinking that I would like to talk to \nyou at some point.",
+            "enText": "So I really hoped I'd have the chance to<n>speak\nwith you someday.",
             "nextBlock": 31,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -5024726660637167481
-                },
                 {
                     "origLen": 156,
                     "pathId": -1430905518604976870
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -6142513132469295433
+                    "origLen": 40,
+                    "pathId": -5024726660637167481
                 },
                 {
                     "origLen": 134,
                     "pathId": 2687191609955788396
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -6142513132469295433
                 }
             ],
             "pathId": -8139808903730887243,
@@ -752,25 +813,27 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 32,
             "origClipLength": 48,
+            "voiceIdx": 34,
+            "voiceSheetId": "052001001",
             "animData": [
-                {
-                    "origLen": 91,
-                    "pathId": 2107128254684549728
-                },
                 {
                     "origLen": 156,
                     "pathId": 9222591297402331534
                 },
                 {
-                    "origLen": 137,
-                    "pathId": 2379621943768544278
+                    "origLen": 91,
+                    "pathId": 2107128254684549728
                 },
                 {
                     "origLen": 134,
                     "pathId": -2420676454581200035
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 2379621943768544278
                 }
             ],
             "pathId": -4962130628075318371,
@@ -778,34 +841,36 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "もしよろしければ、今後も意見交換など\r\nさせていただけないでしょうか？",
-            "enText": "If you are willing, I would like to continue \nto exchange opinions with you.",
+            "enText": "Would you mind meeting up again in the<n>future?\nI'm sure we can learn a lot from<n>each other.",
             "nextBlock": 33,
             "origClipLength": 67,
+            "voiceIdx": 52,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "もちろんです",
-                    "enText": "Of course.",
+                    "enText": "I'd love to!",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 4575172692790229764
-                },
-                {
                     "origLen": 156,
                     "pathId": 8195494217077863043
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -7287483385408127699
+                    "origLen": 89,
+                    "pathId": 4575172692790229764
                 },
                 {
                     "origLen": 134,
                     "pathId": 7707211706582713534
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -7287483385408127699
                 }
             ],
             "pathId": -9022373234137384554,
@@ -813,31 +878,33 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……！　ありがとうございます！\r\n光栄です。",
-            "enText": "……! Thank you! I am honored.",
+            "enText": "Thank you so much! It's an honor.",
             "nextBlock": 34,
             "origClipLength": 59,
+            "voiceIdx": 12,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 6916802090082569874
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -6178079068469363195
-                },
-                {
                     "origLen": 156,
                     "pathId": 6705295944403533313
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -6761867233238545697
+                    "origLen": 89,
+                    "pathId": -6178079068469363195
                 },
                 {
                     "origLen": 134,
                     "pathId": 4952783200689440875
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -6761867233238545697
                 }
             ],
             "pathId": 7810238187090812349,
@@ -847,25 +914,27 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "………………。",
-            "enText": "……………",
+            "enText": "...",
             "nextBlock": 35,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -2919577400813048073
-                },
                 {
                     "origLen": 156,
                     "pathId": -6056960873079201534
                 },
                 {
-                    "origLen": 154,
-                    "pathId": -7059333156361360888
+                    "origLen": 89,
+                    "pathId": -2919577400813048073
                 },
                 {
                     "origLen": 134,
                     "pathId": -4142497673840736459
+                },
+                {
+                    "origLen": 154,
+                    "pathId": -7059333156361360888
                 }
             ],
             "pathId": 5340145695048938543,
@@ -873,31 +942,33 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "って……あの、ミーク？\r\nあまりじろじろ見ては失礼ですよ……？",
-            "enText": "I mean... um…… Meek? \nIt's rude to stare too much……?",
+            "enText": "Um, Meek? It's rude to stare, you know.",
             "nextBlock": 36,
             "origClipLength": 65,
+            "voiceIdx": 30,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 107,
                     "pathId": 5439736421919443294
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 1408977529932376300
-                },
-                {
                     "origLen": 156,
                     "pathId": -7739750885117954188
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 3312836929454860887
+                    "origLen": 89,
+                    "pathId": 1408977529932376300
                 },
                 {
                     "origLen": 134,
                     "pathId": -3730731714968709320
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 3312836929454860887
                 }
             ],
             "pathId": -7894819821069476838,
@@ -907,33 +978,35 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……あ。\r\n……すみません。",
-            "enText": "…… Oh. Sorry ……",
+            "enText": "Ah... Excuse me.",
             "nextBlock": 37,
             "origClipLength": 54,
+            "voiceIdx": 24,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 107,
                     "pathId": -8607910291651060882
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 8113678902042993073
-                },
-                {
                     "origLen": 156,
                     "pathId": 4352930066116720064
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8113678902042993073
                 },
                 {
                     "origLen": 30,
                     "pathId": -5594448199678006881
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -1377545021579009492
-                },
-                {
                     "origLen": 134,
                     "pathId": -8884816074875229288
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1377545021579009492
                 }
             ],
             "pathId": 1621415674943684072,
@@ -943,13 +1016,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "だがハッピーミークの視線は、\r\n今なおこちらに注がれ続けている。\r\nその先をたどってみると――",
-            "enText": "But Happy Meek's gaze is still \nfixed on us. I followed it…",
+            "enText": "Despite Trainer Kiryuin's words, Happy<n>Meek\nkeeps staring at me... or, more<n>specifically, at\nsomething in my hand.",
             "nextBlock": 38,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "もしかして、このチラシ？",
-                    "enText": "Perhaps this flyer?",
+                    "enText": "Are you interested in this flyer?",
                     "nextBlock": 38
                 }
             ],
@@ -959,24 +1034,24 @@
                     "pathId": -1764716702645926427
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 3609910534912081633
-                },
-                {
                     "origLen": 156,
                     "pathId": -7390196663191911799
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3609910534912081633
                 },
                 {
                     "origLen": 84,
                     "pathId": 3067419649009725839
                 },
                 {
-                    "origLen": 165,
-                    "pathId": 5377865755925553062
-                },
-                {
                     "origLen": 134,
                     "pathId": -6557190402670299057
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 5377865755925553062
                 }
             ],
             "pathId": 8794617931644806818,
@@ -984,20 +1059,22 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "えっ……水族館のチラシ、ですか？\r\nミーク、ずっとこれを見ていたの……？",
-            "enText": "What…… aquarium flyer, sir? Meek, have you \nbeen looking at this the whole time ……?",
+            "enText": "Huh... Is that an aquarium flyer? Meek,<n>have you\nbeen looking at this the whole<n>time?",
             "nextBlock": 39,
             "origClipLength": 68,
+            "voiceIdx": 26,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "……行きたいのか？",
-                    "enText": "Do you want to go to ……?",
+                    "enText": "Do you... want to go check it out?",
                     "nextBlock": 39
                 },
                 {
                     "jpText": "……行きたいの？",
-                    "enText": "Do you want to go to ……?",
+                    "enText": "Do you... want to go check it out?",
                     "nextBlock": 39
                 }
             ],
@@ -1007,24 +1084,24 @@
                     "pathId": 8782245168156639282
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 4497081031955910843
-                },
-                {
                     "origLen": 156,
                     "pathId": -5778731049330083146
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 4497081031955910843
                 },
                 {
                     "origLen": 84,
                     "pathId": 3349086720634503709
                 },
                 {
-                    "origLen": 165,
-                    "pathId": -5557977536663148696
-                },
-                {
                     "origLen": 134,
                     "pathId": 6492506393893170543
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -5557977536663148696
                 }
             ],
             "pathId": -5242815668810450042,
@@ -1034,33 +1111,35 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……えっ。",
-            "enText": "…… eh.",
+            "enText": "...Huh?",
             "nextBlock": 40,
             "origClipLength": 48,
+            "voiceIdx": 26,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 93,
                     "pathId": 8781399963371513775
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 2019878316416568256
-                },
-                {
                     "origLen": 156,
                     "pathId": -7377959502892037991
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2019878316416568256
                 },
                 {
                     "origLen": 20,
                     "pathId": -6961341183818113840
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 5823074658851858177
-                },
-                {
                     "origLen": 134,
                     "pathId": 6273396396382023164
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5823074658851858177
                 }
             ],
             "pathId": 5239618193547111359,
@@ -1070,37 +1149,39 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……おお。……クラゲ、ゆらゆら。\r\n……おぉぉ～。",
-            "enText": "…… Oh.…… Jellyfish, shimmering.…… oh.",
+            "enText": "Wow... The jellyfish are so wavy... ",
             "nextBlock": 41,
             "origClipLength": 71,
+            "voiceIdx": 7,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 35,
                     "pathId": -4690738367439329820
                 },
                 {
-                    "origLen": 36,
-                    "pathId": -3929983792567396109
-                },
-                {
                     "origLen": 35,
                     "pathId": 1184920662939408175
                 },
                 {
-                    "origLen": 22,
-                    "pathId": 7344491778763810464
+                    "origLen": 36,
+                    "pathId": -3929983792567396109
                 },
                 {
                     "origLen": 22,
                     "pathId": 4944303427097786090
                 },
                 {
-                    "origLen": 102,
-                    "pathId": -7852126767193148240
+                    "origLen": 22,
+                    "pathId": 7344491778763810464
                 },
                 {
                     "origLen": 102,
                     "pathId": -3190555897259096416
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7852126767193148240
                 }
             ],
             "pathId": 6444706831139929168,
@@ -1108,23 +1189,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ふふ……ミーク、楽しそう。\r\n水族館、好きだったんだ。",
-            "enText": "Huh…… Meek, looks like fun. \nI loved the aquarium.",
+            "enText": "Hehe... She's really having a great time. I<n>never\nknew Meek liked aquariums so<n>much.",
             "nextBlock": 42,
             "origClipLength": 62,
+            "voiceIdx": 0,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 118,
                     "pathId": 6554355606429462383
                 },
                 {
-                    "origLen": 117,
-                    "pathId": 3361957752547411658
-                },
-                {
                     "origLen": 156,
                     "pathId": -6863141887585433217
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 3361957752547411658
                 }
             ],
             "pathId": -702175802535278025,
@@ -1132,11 +1215,13 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "でも……私まで一緒に来てしまって、\r\nよかったのかな……？",
-            "enText": "But…… was it a good thing \nthat I came along too ……?",
+            "enText": "But... are you sure <i>I</i> should be here?",
             "nextBlock": 43,
             "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "どういうことですか？",
@@ -1150,12 +1235,12 @@
                     "pathId": 313851792134036335
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -2301251760685266130
-                },
-                {
                     "origLen": 156,
                     "pathId": -7489708201238155495
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2301251760685266130
                 }
             ],
             "pathId": -8258109031665033720,
@@ -1163,19 +1248,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あ、いえ。桐生院家の教え……\r\n『トレーナー白書』にも、\n『ウマ娘には適度な休息を』とありました。",
-            "enText": "Oh, no. The teachings of the Kiryuin family…… \nIn the \"Trainer's White Paper\" I have read, \n\"Uma-Musume needs a proper rest.\"",
+            "enText": "I just... Well, the Trainer's<n>Handbook—that is, the\nteachings of the<n>Kiryuin family—states that\n\"Umamusume<n>must be given appropriate rest.\"",
             "nextBlock": 44,
             "origClipLength": 76,
+            "voiceIdx": 50,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 2766991374266893448
-                },
                 {
                     "origLen": 156,
                     "pathId": -2971005717121057857
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2766991374266893448
                 }
             ],
             "pathId": 2603923325366055510,
@@ -1183,19 +1270,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ただそれはウマ娘のみに任せ、\r\nのびのびと気を抜かせてやるべきとのこと\nだったので……。",
-            "enText": "However, she said that we should leave it \nonly to the Uma Musume and let them relax and \ntake it easy. ……",
+            "enText": "It also says the trainer is supposed to<n>leave the\nUmamusume to her own<n>devices during rest\nperiods. That way<n>she can truly relax.",
             "nextBlock": 45,
             "origClipLength": 73,
+            "voiceIdx": 79,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -5683637764341244302
-                },
                 {
                     "origLen": 156,
                     "pathId": 5201786513886664524
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5683637764341244302
                 }
             ],
             "pathId": 62377697218871651,
@@ -1203,19 +1292,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "私が同行してよかったんでしょうか？\r\n気が張って休めないのでは……？",
-            "enText": "Am I right to accompany you? I thought you \nwere too preoccupied to rest. ……?",
+            "enText": "So is it all right for me to accompany<n>her? I\nwouldn't be causing her stress,<n>would I?",
             "nextBlock": 46,
             "origClipLength": 67,
+            "voiceIdx": 54,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 4380967440723902263
-                },
                 {
                     "origLen": 156,
                     "pathId": 6811942288230243305
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4380967440723902263
                 }
             ],
             "pathId": 4298026034354116234,
@@ -1225,17 +1316,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやら、真面目な桐生院トレーナーは\r\n家の教えに沿わない事を危惧しているようだ。\nしかし――",
-            "enText": "Apparently, the serious Kiryuin trainer is \nconcerned about not following the teachings \nof the house. However―",
+            "enText": "Trainer Kiryuin—ever the serious type—is<n>worried\nabout neglecting her family's<n>teachings.\nHowever...",
             "nextBlock": 47,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 156,
-                    "pathId": -1878254404042928597
+                    "pathId": -8985754204479837375
                 },
                 {
                     "origLen": 156,
-                    "pathId": -8985754204479837375
+                    "pathId": -1878254404042928597
                 }
             ],
             "pathId": 6179844247609001946,
@@ -1245,29 +1338,31 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……あ。\r\n……このヒトデ、トレーナーみたい。",
-            "enText": "…… Oh.…… this starfish looks like a trainer.",
+            "enText": "Ah...! This starfish looks just like my<n>trainer...",
             "nextBlock": 48,
             "origClipLength": 60,
+            "voiceIdx": 7,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 21,
-                    "pathId": 7252731814446846464
+                    "pathId": 8291206195862432830
                 },
                 {
                     "origLen": 21,
-                    "pathId": 8291206195862432830
+                    "pathId": 7252731814446846464
                 },
                 {
                     "origLen": 129,
                     "pathId": -7697049720606984417
                 },
                 {
-                    "origLen": 138,
-                    "pathId": -1653296113403691545
-                },
-                {
                     "origLen": 201,
                     "pathId": -5062020072472781034
+                },
+                {
+                    "origLen": 138,
+                    "pathId": -1653296113403691545
                 }
             ],
             "pathId": 5202212815246782296,
@@ -1277,21 +1372,23 @@
             "jpName": "ハッピーミーク",
             "enName": "Happy Meek",
             "jpText": "……あとで教えよ。\r\n…………ふふふふ。",
-            "enText": "…… I'll tell you later.……… Hmmm.",
+            "enText": "...I'll tell her later... Ehehe.",
             "nextBlock": 49,
             "origClipLength": 58,
+            "voiceIdx": 1,
+            "voiceSheetId": "052001001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -4562733014050346361
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -1783655132139549757
-                },
-                {
                     "origLen": 201,
                     "pathId": 7206083676455899719
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1783655132139549757
                 }
             ],
             "pathId": 5030257531720998604,
@@ -1301,32 +1398,34 @@
             "jpName": "",
             "enName": "",
             "jpText": "思うに、ハッピーミークは――",
-            "enText": "I think Happy Meek is―",
+            "enText": "When I look at Happy Meek...",
             "nextBlock": 50,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "一緒に来られて喜んでいますよ",
-                    "enText": "I'm glad you could come with us.",
+                    "enText": "I think she's happy you're here.",
                     "nextBlock": 50
                 }
             ],
             "animData": [
                 {
-                    "origLen": 128,
-                    "pathId": -2723794345653443088
-                },
-                {
                     "origLen": 156,
                     "pathId": -7930823822707008824
                 },
                 {
-                    "origLen": 26,
-                    "pathId": -8851327187358441238
+                    "origLen": 128,
+                    "pathId": -2723794345653443088
                 },
                 {
                     "origLen": 31,
                     "pathId": -9103487759197766915
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -8851327187358441238
                 }
             ],
             "pathId": 1359023907729851498,
@@ -1334,26 +1433,28 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "えっ……そうなのですか？",
-            "enText": "What…… is that so?",
+            "enText": "Really? Do you think so?",
             "nextBlock": 51,
             "origClipLength": 52,
+            "voiceIdx": 20,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "担当と距離を縮めるのも大事だと思います",
-                    "enText": "I think it's important to get closer to the \nperson in charge.",
+                    "enText": "It's important to get to know your trainee.",
                     "nextBlock": 51
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 589283693354148533
-                },
-                {
                     "origLen": 156,
                     "pathId": 7377755421279942553
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 589283693354148533
                 }
             ],
             "pathId": -8236966200541212471,
@@ -1361,23 +1462,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "距離を……。",
-            "enText": "Distance to ……",
+            "enText": "Get to know her, huh...",
             "nextBlock": 52,
             "origClipLength": 48,
+            "voiceIdx": 78,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 100,
                     "pathId": -4845313917318344073
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 832303507941444340
-                },
-                {
                     "origLen": 156,
                     "pathId": -5574771230785511900
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 832303507941444340
                 }
             ],
             "pathId": 89201982042108214,
@@ -1385,23 +1488,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "そういえば、私……ミークが水族館を\r\n好きだなんて、今日まで知りませんでした。",
-            "enText": "You know, I…… didn't know Meek liked \naquariums until today.",
+            "enText": "Come to think of it, I didn't even realize<n>she liked\naquariums until today.",
             "nextBlock": 53,
             "origClipLength": 70,
+            "voiceIdx": 88,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -989445537676827130
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -6034463673288639111
-                },
-                {
                     "origLen": 156,
                     "pathId": 5035199697760706506
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6034463673288639111
                 }
             ],
             "pathId": 4357509075978921927,
@@ -1409,23 +1514,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "私……まだあの子のこと、\r\n全然わかってあげられてない……？",
-            "enText": "I…… still don't understand her at all. ……?",
+            "enText": "Maybe... I still don't really understand<n>her at all...",
             "nextBlock": 54,
             "origClipLength": 64,
+            "voiceIdx": 110,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 123,
                     "pathId": 3921192604837934873
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -1899880115367468629
-                },
-                {
                     "origLen": 156,
                     "pathId": -471432492102698337
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1899880115367468629
                 }
             ],
             "pathId": -4270898543959570826,
@@ -1435,21 +1542,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして水族館を桐生院トレーナーたちと\r\n堪能したのち、学園に戻り、\nハッピーミークを寮まで送り届けた。",
-            "enText": "After enjoying the aquarium with the Kiryuin \ntrainers, we returned to the school. After \nenjoying the aquarium with the Kiryuin \ntrainers, we returned to the school and \ndropped Happy Meek off at her dormitory.",
+            "enText": "After enjoying the aquarium with Trainer<n>Kiryuin,\nwe all return to the academy<n>and see Happy\nMeek back to the dorms.",
             "nextBlock": 55,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 32,
                     "pathId": -5896842766652928039
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 6400755862770964459
-                },
-                {
                     "origLen": 156,
                     "pathId": 8194757922393551263
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6400755862770964459
                 }
             ],
             "pathId": 4221072471343782969,
@@ -1457,19 +1566,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……今日はありがとうございました、\r\n<username>トレーナー。",
-            "enText": "……Thank you for your time \ntoday, trainer <username>.",
+            "enText": "Thank you,\nTrainer<n><username>.",
             "nextBlock": 56,
             "origClipLength": 67,
+            "voiceIdx": 52,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 4205593490370435135
-                },
                 {
                     "origLen": 156,
                     "pathId": -9052726321957199118
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4205593490370435135
                 }
             ],
             "pathId": -3551500857352104207,
@@ -1477,26 +1588,28 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "お誘いいただいたこともですが……\r\n素晴らしい教えをくださったことも。",
-            "enText": "I am grateful for your invitation, \nbut also for…… the wonderful teaching \nyou have given me.",
+            "enText": "Not only did you invite me on a<n>wonderful day\nout, you also taught me<n>an important lesson.",
             "nextBlock": 57,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "教え……？",
-                    "enText": "Teaching ……?",
+                    "enText": "I did?",
                     "nextBlock": 57
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -7836208364596608226
-                },
-                {
                     "origLen": 156,
                     "pathId": 5487463678087432531
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7836208364596608226
                 }
             ],
             "pathId": -5551554139223993727,
@@ -1504,23 +1617,25 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "はい。『担当ウマ娘のことをよく知るべし』\r\nとは、『トレーナー白書』のかなり始めに\n記されている事ではありましたが――",
-            "enText": "Yes, I am. \"You should get to know your \nhorsegirls well,\" was written at the \nvery beginning of the \"Trainer's White \nPaper. \"Know your horsegirls well\" was \nwritten in the very beginning of the \n\"Trainer's White Paper.",
+            "enText": "Yes. Learning all you can about your<n>trainee is\npractically point one of the<n>Trainer's Handbook.",
             "nextBlock": 58,
             "origClipLength": 73,
+            "voiceIdx": 80,
+            "voiceSheetId": "059004001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 8263038027809902613
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 2109205694485275937
-                },
-                {
                     "origLen": 156,
                     "pathId": 3324150052617785781
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2109205694485275937
                 }
             ],
             "pathId": 5367142796674205360,
@@ -1528,19 +1643,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "私、それは『身体能力についてよく把握せよ』\r\nという意味なのだろうと思っていたんです。",
-            "enText": "I thought it meant, \"Get a good grasp of your \nphysical capabilities.",
+            "enText": "I always thought that meant having a<n>good grasp\nof their physical capabilities.",
             "nextBlock": 59,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -1321074824361671386
-                },
                 {
                     "origLen": 156,
                     "pathId": -4624916656794573458
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1321074824361671386
                 }
             ],
             "pathId": -8434811756802941753,
@@ -1548,26 +1665,28 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "でも……今日、貴方と話したおかげで、\r\n本当の意味がわかった気がしました。",
-            "enText": "But thanks to…… talking to you today, I think \nI understand the true meaning.",
+            "enText": "But thanks to our conversation, I feel<n>like now I\nunderstand what it really<n>means.",
             "nextBlock": 60,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "そんなに大したことは……",
-                    "enText": "Not such a big deal: ……",
+                    "enText": "I didn't do anything special...",
                     "nextBlock": 60
                 }
             ],
             "animData": [
                 {
-                    "origLen": 75,
-                    "pathId": 6081607005849664434
-                },
-                {
                     "origLen": 156,
                     "pathId": 5424227567434861953
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 6081607005849664434
                 }
             ],
             "pathId": -1660591666114081597,
@@ -1575,19 +1694,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ふふっ、ご謙遜を。",
-            "enText": "Phew, I am humbled.",
+            "enText": "Hehe. No need to be so humble.",
             "nextBlock": 61,
             "origClipLength": 50,
+            "voiceIdx": 3,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": -8045000286420881435
-                },
                 {
                     "origLen": 156,
                     "pathId": -4368045498523837593
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8045000286420881435
                 }
             ],
             "pathId": 4494141022093797121,
@@ -1595,19 +1716,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "秋川理事長が貴方に一目置かれている理由、\r\nわかったような気がします。",
-            "enText": "I think I understand why Chancellor Akikawa \nis so admired by you.",
+            "enText": "I think I understand why you caught the<n>director's\nattention now.",
             "nextBlock": 62,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -6291545174795105945
-                },
                 {
                     "origLen": 156,
                     "pathId": -9037928040691004955
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6291545174795105945
                 }
             ],
             "pathId": -973972190995728643,
@@ -1615,19 +1738,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "担当へと真摯に、懸命に注ぐ眼差し……\r\nそれこそ、貴方のトレーナーとしての\n強味なのですね。",
-            "enText": "The sincere and hard work you put into your \nwork…… is your strength as a trainer.",
+            "enText": "You sincerely care about your<n>trainee—not just as\na racer, but as an<n>individual. That's where you\nreally shine<n>as a trainer.",
             "nextBlock": 63,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -8824771884356223049
-                },
                 {
                     "origLen": 156,
                     "pathId": 810863619701319608
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8824771884356223049
                 }
             ],
             "pathId": 1228203289678036404,
@@ -1635,19 +1760,21 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……私も、貴方に置いていかれぬよう\r\nもっと精進して参ります！",
-            "enText": "…… I'll try my best not to leave you behind!",
+            "enText": "Well, I'll just have to work harder. I can't<n>have you\nleaving me behind!",
             "nextBlock": 64,
             "origClipLength": 65,
+            "voiceIdx": 5,
+            "voiceSheetId": "059004001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -8726268286233514621
-                },
                 {
                     "origLen": 156,
                     "pathId": -8423771817722351815
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8726268286233514621
                 }
             ],
             "pathId": -9117187745319697373,
@@ -1657,22 +1784,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "――その後、桐生院トレーナーと育成論に\r\nついて話しながら、トレーナー寮への帰路を\n辿ったのだった。",
-            "enText": "―After that, I talked with the Kiryuin \ntrainer about the theory of training, and \nmade my way back to the trainer's dormitory. \nand talked with the Kiryuin trainer about the \ntheory of training.",
+            "enText": "Trainer Kiryuin and I make our way back<n>to the\ntrainer dorm, talking about<n>training theory all the\nway.",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 25,
-                    "pathId": 3129964985629430832
+                    "pathId": 3430383670095453373
                 },
                 {
                     "origLen": 25,
-                    "pathId": 3430383670095453373
+                    "pathId": 3129964985629430832
                 }
             ],
             "pathId": -7954920084512178723,
             "blockIdx": 64
         }
-    ],
-    "modified": 1661711800
+    ]
 }

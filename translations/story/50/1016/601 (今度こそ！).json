@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "CXUM4ANDE22WMRQOOPO7BSHZRHHIYCEI",
+    "version": 6,
+    "bundle": "2TRXG3JA5GJC2DWAJ377KPBSQZMFILXX",
     "type": "story",
     "storyId": "501016601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "そろそろ、\r\n誰かの影を踏むのも飽きてきたな。",
-            "enText": "It's about time I got tired of stepping on \nsomeone's shadow.",
+            "enText": "I'm getting tired of stepping on other<n>people's\nshadows.",
             "nextBlock": 2,
             "origClipLength": 75,
+            "voiceIdx": 79,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 86,
-                    "pathId": -8363325195464037520
+                    "pathId": 660772585016988401
                 },
                 {
                     "origLen": 86,
-                    "pathId": 660772585016988401
+                    "pathId": -8363325195464037520
                 }
             ],
             "pathId": -6384865790520598559,
@@ -29,24 +32,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "流れを変えてくる。\r\n……今なら、できる気がする。",
-            "enText": "They will turn the tide. I feel \nlike I can do it now at ……",
+            "enText": "The tide's about to change. ...I can win<n>now. I\nknow it.",
             "nextBlock": 3,
             "origClipLength": 77,
+            "voiceIdx": 5,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "きっとできる！",
-                    "enText": "You can do it!",
+                    "enText": "I'm sure you can!",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 62,
-                    "pathId": 5704306243669304135
-                },
-                {
                     "origLen": 88,
                     "pathId": -3760996412599000310
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 5704306243669304135
                 }
             ],
             "pathId": -210076284543276824,
@@ -56,17 +61,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "ふっ……そうだな。\r\nすべての影を追い越し――",
-            "enText": "Phew…… I guess so. Passing all the shadows―",
+            "enText": "Hmph... That's right. I'll pass all those<n>shadows,\nand...",
             "nextBlock": 4,
             "origClipLength": 75,
+            "voiceIdx": 0,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -2298351471930808426
-                },
                 {
                     "origLen": 86,
                     "pathId": -7425928288910545646
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2298351471930808426
                 }
             ],
             "pathId": -5870063419831338328,
@@ -76,22 +83,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "ブッちぎってくる！",
-            "enText": "I'm going to blow it out of the sky!",
+            "enText": "I'll tear 'em all to shreds!",
             "nextBlock": -1,
             "origClipLength": 56,
+            "voiceIdx": 63,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 5773192511249271660
-                },
                 {
                     "origLen": 67,
                     "pathId": 3122338538608637286
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 5773192511249271660
                 }
             ],
             "pathId": -7306177518096406312,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555056
+    ]
 }

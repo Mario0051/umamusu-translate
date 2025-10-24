@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "W42WGDXZZAO5YIXXSIPQXPUXZC4EKRDL",
+    "version": 6,
+    "bundle": "U5BRNRAGZPPN7IY66VSSIBH5MVJFH6EB",
     "type": "story",
     "storyId": "501026722",
     "title": "頭痛で憂鬱",
+    "enTitle": "Migraine Blues",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "業務の息抜きにと、屋上で休んでいると……。",
-            "enText": "I was resting on the rooftop to take \na break from my work…",
+            "enText": "I'm on the rooftop taking a break from<n>work when\nI see Mihono Bourbon.",
             "nextBlock": 2,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 77,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 21,
-                    "pathId": 6800386130761983469
+                    "pathId": -2691549158906724777
                 },
                 {
                     "origLen": 21,
-                    "pathId": -2691549158906724777
+                    "pathId": 6800386130761983469
                 }
             ],
             "pathId": -4317758119592365842,
@@ -33,18 +36,20 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "マスター……こんにちは……。\r\nきぐう、ですね……。",
-            "enText": "Master… Hello… \nKigu, right?…",
+            "enText": "Hello, Trainer... Fancy meeting... you<n>here...",
             "nextBlock": 3,
             "origClipLength": 78,
+            "voiceIdx": 57,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "……元気ないな？",
-                    "enText": "… You're not well, are you?",
+                    "enText": "You seem a little off...",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "……元気ないね？",
-                    "enText": "… You're not well, are you?",
+                    "enText": "You seem a little off...",
                     "nextBlock": 3
                 }
             ],
@@ -54,12 +59,12 @@
                     "pathId": -5519076242254128271
                 },
                 {
-                    "origLen": 97,
-                    "pathId": 8328054570148590295
-                },
-                {
                     "origLen": 89,
                     "pathId": -8301177365280852159
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8328054570148590295
                 }
             ],
             "pathId": -964879562603564432,
@@ -69,9 +74,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……はい。\r\nバッドステータス『頭痛』が発生中。",
-            "enText": "… Yes. Bad status 'headache' \nin progress.",
+            "enText": "Indeed. I am currently afflicted by a<n>headache.",
             "nextBlock": 4,
             "origClipLength": 76,
+            "voiceIdx": 60,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 87,
@@ -79,11 +86,11 @@
                 },
                 {
                     "origLen": 87,
-                    "pathId": -7935776418398676772
+                    "pathId": 5476542654842875135
                 },
                 {
                     "origLen": 87,
-                    "pathId": 5476542654842875135
+                    "pathId": -7935776418398676772
                 }
             ],
             "pathId": 372859793984341561,
@@ -93,21 +100,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ですが……心配は無用です。\r\n多少ズキズキする程度で、生活に支障は――",
-            "enText": "But don't worry about… It's \njust a little throbbing, but it won't \ninterfere with your life.",
+            "enText": "But do not worry. It is only throbbing a<n>little and\ndoes not impact my normal<n>activi—",
             "nextBlock": 5,
             "origClipLength": 90,
+            "voiceIdx": 35,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 5311437650299391904
                 },
                 {
-                    "origLen": 44,
-                    "pathId": -3431456018527818746
-                },
-                {
                     "origLen": 101,
                     "pathId": 2702625331998076956
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -3431456018527818746
                 }
             ],
             "pathId": 7720669880807920708,
@@ -117,17 +126,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "つっ――……さ、更に……\r\n先程頭痛薬を……水で、ゴクゴクしました。",
-            "enText": "I just gulped down some… headache \nmedicine with some… water.",
+            "enText": "Ngh... And I consumed some painkillers<n>with\nplenty of water earlier.",
             "nextBlock": 6,
             "origClipLength": 89,
+            "voiceIdx": 108,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 1600090112924313607
-                },
                 {
                     "origLen": 100,
                     "pathId": -455658871530632922
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 1600090112924313607
                 }
             ],
             "pathId": 4553037430578601884,
@@ -137,24 +148,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "あとは、きょうしつで……じゅぎょうを……\r\nうける……あいだに……かいふく、して……。",
-            "enText": "Then, you can… recover and… take \nthe… class in the classroom.",
+            "enText": "I'm sure I will... recover... during this...<n>class...",
             "nextBlock": 7,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ここ、屋上だけど！？",
-                    "enText": "I'm on the roof!",
+                    "enText": "Um, this is the rooftop...",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 93,
-                    "pathId": -6664400826707405843
-                },
-                {
                     "origLen": 112,
                     "pathId": -7743783719044847776
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -6664400826707405843
                 }
             ],
             "pathId": -7012590235709226147,
@@ -164,17 +177,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……はっ。",
-            "enText": "… haha.",
+            "enText": "...Oh.",
             "nextBlock": 8,
             "origClipLength": 51,
+            "voiceIdx": 110,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": -4990593837890653215
-                },
                 {
                     "origLen": 62,
                     "pathId": 7408129949728848688
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -4990593837890653215
                 }
             ],
             "pathId": -6793416116885328690,
@@ -184,22 +199,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやら薬が効かない程、ひどい頭痛らしい。\r\n対処を考えた方がよさそうだ……。",
-            "enText": "Apparently, the headache is so bad that the \nmedication is not working. I'd better think \nabout how to deal with it…",
+            "enText": "Her headache seems so bad that the<n>painkillers\nare ineffective. I better think<n>of another way to\ndeal with it.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
-                    "pathId": 9158393079597026082
+                    "pathId": -1945444110046874261
                 },
                 {
                     "origLen": 106,
-                    "pathId": -1945444110046874261
+                    "pathId": 9158393079597026082
                 }
             ],
             "pathId": -2852379981983143238,
             "blockIdx": 8
         }
-    ],
-    "modified": 1657444313
+    ]
 }

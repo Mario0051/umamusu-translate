@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "4TKVA47JXGZPBHB3ZQVJKUDEOKNSAW5I",
+    "version": 6,
+    "bundle": "HDQIF4BJ7ZOBEZELB4H4T6HGNL4L6MET",
     "type": "story",
     "storyId": "501014713",
     "title": "お大事に！",
+    "enTitle": "Get Well Soon!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トレーニング中にエルコンドルパサーが\r\nケガをしたので、保健室に連れてきた。",
-            "enText": "During training, El Condor Pacer was injured, \nso I brought her to the infirmary.",
+            "enText": "El Condor Pasa gets injured during<n>training, so I\nbring her to the infirmary.",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": -8798267884610575761
+                    "pathId": 5416116444737137136
                 },
                 {
                     "origLen": 80,
-                    "pathId": 5416116444737137136
+                    "pathId": -8798267884610575761
                 }
             ],
             "pathId": -854422182621730134,
@@ -29,17 +32,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "もー。\r\nトレーナーさんは心配しすぎデスよー。",
-            "enText": "Mooo. The trainer worries too much.",
+            "enText": "Oh, come on. You're worrying too much,<n>Trainer.",
             "nextBlock": 3,
             "origClipLength": 60,
+            "voiceIdx": 21,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 764558212933863735
-                },
                 {
                     "origLen": 71,
                     "pathId": -7586134838561690391
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 764558212933863735
                 }
             ],
             "pathId": -4082574776341457293,
@@ -49,17 +54,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "このくらいのケガ、\r\nなんてことないデスってばー！",
-            "enText": "This is nothing to worry about!",
+            "enText": "Something like this is no big deal!",
             "nextBlock": 4,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -7851750747968475438
-                },
                 {
                     "origLen": 72,
                     "pathId": -7735689232146586830
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7851750747968475438
                 }
             ],
             "pathId": 4587191394252926673,
@@ -69,29 +76,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "お薬をささっともらえれば、\r\nすぐにトレーニングに戻れますデース！",
-            "enText": "A quick dose of medicine and you'll be back \nto training in no time!",
+            "enText": "I just need a little medicine, and I can<n>get right\nback to training!",
             "nextBlock": 5,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "休養が1番の薬",
-                    "enText": "Rest is the best medicine",
+                    "enText": "You know, rest is the strongest medicine.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "根性で早く治そう！",
-                    "enText": "Let's gut it and fix it fast!",
+                    "enText": "Let's hurry up and muscle through it!",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 39,
-                    "pathId": 7406472489597682348
-                },
-                {
                     "origLen": 77,
                     "pathId": -6079496507450726945
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 7406472489597682348
                 }
             ],
             "pathId": -2954593580114798601,
@@ -101,17 +110,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ん～、デスよね……。",
-            "enText": "Hmmm… desu, right? ……",
+            "enText": "Hm... I guess that's true...",
             "nextBlock": 6,
             "origClipLength": 51,
+            "voiceIdx": 34,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 12,
-                    "pathId": 8419241229279007273
-                },
                 {
                     "origLen": 62,
                     "pathId": 2639361817176963340
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 8419241229279007273
                 }
             ],
             "pathId": 4089599219690451662,
@@ -121,24 +132,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "でもでも、ケガに響かないような、\r\nトレーニングとかないデスか？",
-            "enText": "But is there any kind of training that won't \naffect my injury?",
+            "enText": "But isn't there some kind of training I<n>can do\nwithout affecting my injury?",
             "nextBlock": 7,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "そんなにトレーニングがしたいの？",
-                    "enText": "Do you really want to train that badly?",
+                    "enText": "You really want to train that bad, huh?",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": 2317542865825669378
-                },
-                {
                     "origLen": 76,
                     "pathId": -5479756200766416171
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 2317542865825669378
                 }
             ],
             "pathId": 7893328839490780666,
@@ -148,24 +161,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "当然！　魚に水が必要なように、\r\nエルにはトレーニングが必要不可欠なのデス！",
-            "enText": "Of course! Just as a fish needs water, Elle \nneeds training!",
+            "enText": "Of course! I need training like a fish<n>needs water!",
             "nextBlock": 8,
             "origClipLength": 69,
+            "voiceIdx": 3,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "悪化したらもっと休むことになる",
-                    "enText": "If it gets worse, you'll get more rest.",
+                    "enText": "But if your injury gets worse, you're going to\nneed to rest even more.",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 32,
-                    "pathId": -106240750652461161
-                },
-                {
                     "origLen": 80,
                     "pathId": 1356846093149163157
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -106240750652461161
                 }
             ],
             "pathId": -8162263039922976355,
@@ -175,17 +190,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "それは、いやデスけど……ぐぬぬっ。",
-            "enText": "That's, no desu, but…… gnu.",
+            "enText": "I definitely don't want that... Ugh...",
             "nextBlock": 9,
             "origClipLength": 65,
+            "voiceIdx": 35,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 529359937241046158
-                },
                 {
                     "origLen": 84,
                     "pathId": -1600850281023109786
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 529359937241046158
                 }
             ],
             "pathId": -6667888577137920581,
@@ -195,17 +212,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "……わかりました。でも、治ったらすぐに、\r\nトレーニングに行きますデスよ。",
-            "enText": "……I understand. But as soon as I'm healed, \nI'm going to go to training.",
+            "enText": "All right, I get it. But as soon as I'm<n>better, I'm\njumping back into the ring.",
             "nextBlock": 10,
             "origClipLength": 69,
+            "voiceIdx": 60,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -8272185300298254363
-                },
                 {
                     "origLen": 80,
                     "pathId": -8440602748553765729
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -8272185300298254363
                 }
             ],
             "pathId": 3793752733393194291,
@@ -215,17 +234,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しっかりと休養を取った\r\nエルコンドルパサーは、数日のうちに\nトレーニングを再開できるまでになった。",
-            "enText": "After a good rest, Elcon Dolpasser was able \nto resume training within a few days. to be \nable to resume training.",
+            "enText": "After a few days of rest, El Condor Pasa<n>is ready\nto get back to training.",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 88,
-                    "pathId": 5853812179616704513
+                    "pathId": -3780800600266294713
                 },
                 {
                     "origLen": 88,
-                    "pathId": -3780800600266294713
+                    "pathId": 5853812179616704513
                 }
             ],
             "pathId": 6830079314989264855,
@@ -235,17 +256,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "根性！　任せてください！\r\n根性はエルの十八番デース！！",
-            "enText": "Guts! I'll take care of it! Guts is Elle's \nnumber eighteen!",
+            "enText": "Leave it to me! Gutsy moves are my<n>specialty!",
             "nextBlock": 12,
             "origClipLength": 63,
+            "voiceIdx": 9,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -1791550034293393428
-                },
                 {
                     "origLen": 74,
                     "pathId": -8026511216324860688
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -1791550034293393428
                 }
             ],
             "pathId": -4957143545932225925,
@@ -255,17 +278,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "うぅぅぅーーん！\r\nアグアンタテッ！　エルなら出来ますデース！",
-            "enText": "Uhhhhhh! Aguan tate! Elle can do it!",
+            "enText": "Urgh! Aguántate, El! You can do this!",
             "nextBlock": 13,
             "origClipLength": 65,
+            "voiceIdx": 10,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 7768488068387657838
-                },
                 {
                     "origLen": 76,
                     "pathId": 7697467788036661257
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 7768488068387657838
                 }
             ],
             "pathId": -6284323689759985642,
@@ -275,17 +300,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "かけ声とともに動き出そうとした\r\nエルコンドルパサーであったが――",
-            "enText": "El Condor Pacer was about to make her move \nwhen she heard the call.",
+            "enText": "El Condor Pasa hypes herself up and<n>tries to\nmove, but...",
             "nextBlock": 14,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 77,
-                    "pathId": -7315662402709832944
+                    "pathId": -7882655330506236359
                 },
                 {
                     "origLen": 77,
-                    "pathId": -7882655330506236359
+                    "pathId": -7315662402709832944
                 }
             ],
             "pathId": 5592646925613605882,
@@ -295,17 +322,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "……痛たっ！？",
-            "enText": "…… Ouch!",
+            "enText": "Ouch!",
             "nextBlock": 15,
             "origClipLength": 67,
+            "voiceIdx": 28,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -3504809220525752121
-                },
                 {
                     "origLen": 79,
                     "pathId": -6268135376465509503
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3504809220525752121
                 }
             ],
             "pathId": -736246948089027110,
@@ -315,17 +344,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "そんなぁ！？　エルの根性が、\r\n足りないというのデスか……！？",
-            "enText": "Oh, no! Is Elle's guts not enough for you, ……?",
+            "enText": "Really?! My <i>muscles</i> are failing me now?!",
             "nextBlock": 16,
             "origClipLength": 65,
+            "voiceIdx": 23,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 3237138255355988520
-                },
                 {
                     "origLen": 76,
                     "pathId": 547552648443228637
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 3237138255355988520
                 }
             ],
             "pathId": 1733934464615395895,
@@ -335,21 +366,23 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "うぅ……エルションボリ。",
-            "enText": "Ugh…… el shonbori.",
+            "enText": "Ugh... I can't do this.",
             "nextBlock": 17,
             "origClipLength": 52,
+            "voiceIdx": 60,
+            "voiceSheetId": "051014001",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": 1207383207486246348
                 },
                 {
-                    "origLen": 62,
-                    "pathId": -1525161601452782896
-                },
-                {
                     "origLen": 63,
                     "pathId": 929105201631209054
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1525161601452782896
                 }
             ],
             "pathId": 435884307544418568,
@@ -359,9 +392,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "根性ではどうにもならなかったようだ。\r\nこの日は大事を取って、休養に充てた。",
-            "enText": "It seems that guts did not help. She took the \nday off to rest.",
+            "enText": "It seems like spirit and muscles alone<n>aren't\ngetting her anywhere. She uses<n>the day for some\nmuch needed rest.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
@@ -369,11 +404,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": 1633598680508565869
+                    "pathId": 1042627662364950661
                 },
                 {
                     "origLen": 80,
-                    "pathId": 1042627662364950661
+                    "pathId": 1633598680508565869
                 }
             ],
             "pathId": 4106844948765990348,
@@ -383,17 +418,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "根性！　任せてください！\r\n根性はエルの十八番デェェェス！！",
-            "enText": "Guts! I'll take care of it! \nGuts is Elle's specialty!",
+            "enText": "Leave it to me! Gutsy moves are my<n>specialty!",
             "nextBlock": 19,
             "origClipLength": 64,
+            "voiceIdx": 9,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": -74434939516981981
-                },
                 {
                     "origLen": 75,
                     "pathId": -8371627529145836220
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -74434939516981981
                 }
             ],
             "pathId": -7519722509866164278,
@@ -403,17 +440,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "うぅぅぅーーん！　アグアンタテッ！\r\nエルなら出来るはずデェェェス！",
-            "enText": "Uhhhhhh! Aguantate! Elle could do it!",
+            "enText": "Urgh! Aguántate, El! You can do this!",
             "nextBlock": 20,
             "origClipLength": 67,
+            "voiceIdx": 10,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -7836353226335226848
-                },
                 {
                     "origLen": 78,
                     "pathId": 5469119557581797564
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7836353226335226848
                 }
             ],
             "pathId": -39657152812531172,
@@ -423,17 +462,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして、かけ声とともに動き出した\r\nエルコンドルパサーは――",
-            "enText": "And with a call to arms, El Condor \nPacer was on the move.",
+            "enText": "El Condor Pasa hypes herself up and<n>tries to\nmove...",
             "nextBlock": 21,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": 6068002724863130918
+                    "pathId": 2035224509547920506
                 },
                 {
                     "origLen": 75,
-                    "pathId": 2035224509547920506
+                    "pathId": 6068002724863130918
                 }
             ],
             "pathId": 6967457021638877477,
@@ -443,17 +484,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "あらっ？　痛みが引いたような……。",
-            "enText": "Oops? The pain seems to have subsided. ……",
+            "enText": "Oh? The pain is gone...",
             "nextBlock": 22,
             "origClipLength": 56,
+            "voiceIdx": 26,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -5145846178814381795
-                },
                 {
                     "origLen": 67,
                     "pathId": 8133121326360519960
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5145846178814381795
                 }
             ],
             "pathId": -4429218078143576684,
@@ -463,17 +506,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "おぉ！　エストゥペンドッ！\r\n根性でよくなっちゃいましたデース！",
-            "enText": "Oh! Estupendous! My guts got better desu!",
+            "enText": "Oh! Estupendo! I muscled through it!",
             "nextBlock": 23,
             "origClipLength": 65,
+            "voiceIdx": 0,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -933299637036300549
-                },
                 {
                     "origLen": 76,
                     "pathId": -3788806031571708797
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -933299637036300549
                 }
             ],
             "pathId": -6028789968176369911,
@@ -483,17 +528,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "よーし、この調子ならすぐに、\r\nトレーニングできちゃいそうデース！",
-            "enText": "Okay, at this rate, I'll \nbe able to train soon!",
+            "enText": "All right, I can finish up training like this<n>no\nproblem!",
             "nextBlock": 24,
             "origClipLength": 66,
+            "voiceIdx": 11,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": -1218516059103195099
-                },
                 {
                     "origLen": 77,
                     "pathId": -7807065979431093390
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -1218516059103195099
                 }
             ],
             "pathId": 8733334740054676298,
@@ -503,22 +550,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "驚異の回復力を見せたエルコンドルパサーは、\r\nその翌日にはトレーニングを\n再開できるにまで回復したのであった。",
-            "enText": "El Condor Pacer showed amazing resilience \nand recovered enough to resume training \nthe next day. She was able to resume \ntraining the next day.",
+            "enText": "El Condor Pasa shows incredible<n>resilience and is\nready to get back to<n>training the next day.",
             "nextBlock": -1,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": 2802693560175628404
+                    "pathId": 2917300469159212266
                 },
                 {
                     "origLen": 91,
-                    "pathId": 2917300469159212266
+                    "pathId": 2802693560175628404
                 }
             ],
             "pathId": -3757376058662726662,
             "blockIdx": 24
         }
-    ],
-    "modified": 1657555055
+    ]
 }

@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "OEZEPUSLX2E43MPJD2NJ2EDIYZEMPQA3",
+    "version": 6,
+    "bundle": "SYOWAUUBE7MBVDDWFM4IGU64J6RVKGRC",
     "type": "story",
     "storyId": "501046522",
     "title": "お肌の調子が……",
+    "enTitle": "Skin Troubles",
     "text": [
         {
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "うう～ん、\r\nどうしてもうまくいかないよぉ……。",
-            "enText": "Ummm, I just can't get it to work. ……",
+            "enText": "Oh no... Why can't I get this right?!",
             "nextBlock": 2,
             "origClipLength": 76,
+            "voiceIdx": 35,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": 5269082247109940306
+                    "pathId": -1998090845044031341
                 },
                 {
                     "origLen": 87,
-                    "pathId": -1998090845044031341
+                    "pathId": 5269082247109940306
                 }
             ],
             "pathId": -8490685924746887191,
@@ -29,17 +32,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ウマドルたるもの、肌荒れなんて絶対ダメ！\r\nなんとかごまかさないといけないのに……。",
-            "enText": "As an Umadol, skin irritation is a definite \nno-no! I had to cover it up somehow. ……",
+            "enText": "A respectable Umadol can't let herself<n>break out\nlike this! I have cover this up<n>somehow...",
             "nextBlock": 3,
             "origClipLength": 99,
+            "voiceIdx": 17,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -1826013150813966175
-                },
                 {
                     "origLen": 110,
                     "pathId": 1258308773149633213
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1826013150813966175
                 }
             ],
             "pathId": 1022370423714642560,
@@ -49,21 +54,23 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "あれ……？\r\nそういえば今、何時だっけ？",
-            "enText": "Was that ……? Come to think \nof it, what time is it?",
+            "enText": "Wait... What time is it?",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": 30,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 75,
                     "pathId": -4515806375130817377
                 },
                 {
-                    "origLen": 55,
-                    "pathId": 3950145411820269217
-                },
-                {
                     "origLen": 82,
                     "pathId": -922249810579480463
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3950145411820269217
                 }
             ],
             "pathId": 3930055942756631711,
@@ -73,21 +80,23 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "きゃーっ！？\r\n遅刻、遅刻～っ！？",
-            "enText": "Kyaaa! Late, late～!",
+            "enText": "Eek! I'm late!",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": 104,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 78,
                     "pathId": -3377015291918180856
                 },
                 {
-                    "origLen": 54,
-                    "pathId": -5785658479791447654
-                },
-                {
                     "origLen": 78,
                     "pathId": 3272056798306572237
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -5785658479791447654
                 }
             ],
             "pathId": 7574750407252550873,
@@ -97,9 +106,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "肌荒れをメイクで隠そうとするも、\r\nうまくいかないスマートファルコンであった。",
-            "enText": "Smart Falcon tries to cover up her rough skin \nwith makeup, but it does not work.",
+            "enText": "Smart Falcon's attempt to cover up her<n>irritated\nskin is unsuccessful.",
             "nextBlock": -1,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
@@ -107,16 +118,15 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": -6955642416191199107
+                    "pathId": 4910187413644480256
                 },
                 {
                     "origLen": 106,
-                    "pathId": 4910187413644480256
+                    "pathId": -6955642416191199107
                 }
             ],
             "pathId": 774908444287043185,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555061
+    ]
 }

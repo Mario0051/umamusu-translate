@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "T7KCWLGQDQ7KCRLV6P4PRP7K4RTGHPLF",
+    "version": 6,
+    "bundle": "X3IZSMOMBDMKWMELHLQ24M7MWZ5FL6UB",
     "type": "story",
     "storyId": "501032523",
     "title": "人助けから得たもの？",
+    "enTitle": "What Is There to Gain from Helping\\nOthers?",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日のこと、\r\nアグネスタキオンに連れられ\nやって来たのは――",
-            "enText": "One day, Agnes Tachyon brought me here.",
+            "enText": "One day, Agnes Tachyon brings me to a<n>certain\nplace...",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7258781700804647028,
             "blockIdx": 1
         },
@@ -18,13 +22,26 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "いやぁ、いい天気だねぇ。\r\nそれじゃあさっそく始めようか！",
-            "enText": "It's a beautiful day, isn't\nit? So let's get started!",
+            "enText": "Wow! It's a beautiful day, isn't it? Well<n>then, let's\nget started!",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "voiceIdx": 5,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "ここはどこ？",
-                    "enText": "Where am I?",
+                    "enText": "Where are we?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -4874091911478431766
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 4351616508822755575
                 }
             ],
             "pathId": -2806839866064274694,
@@ -34,8 +51,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "今日はここで実験をしようかと思ってね。\r\nなーに難しいことじゃない。",
-            "enText": "I thought I'd do an experiment here\ntoday. It's not difficult.",
+            "enText": "I thought we'd do an experiment here<n>today.\nDon't worry, it won't be difficult.",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "voiceIdx": 37,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 1394504250732426166
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 6304001899494993398
+                }
+            ],
             "pathId": 8580319596499136815,
             "blockIdx": 3
         },
@@ -43,8 +73,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "とりあえず、君の限界を教えてくれ。\r\n本当の実験はそこからだ。",
-            "enText": "In the meantime, tell me what\nyour limits are. That's where\nthe real experiment begins.",
+            "enText": "First, show me your limits. That's where<n>the real\nexperiment begins.",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2442780104989559165
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 736730447887321741
+                }
+            ],
             "pathId": 7455162242610969905,
             "blockIdx": 4
         },
@@ -52,8 +95,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "さぁ、私はゆっくり君について行くから\r\n君は全力で走ってごらん！",
-            "enText": "Now, I'm going to follow you slowly, and\nyou're going to run as fast as you can!",
+            "enText": "I'll slow down to your pace and run<n>alongside you,\nso try to go as fast as you<n>can!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "voiceIdx": 90,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4625887847039867615
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -3438545915734608162
+                }
+            ],
             "pathId": -8571511919910036184,
             "blockIdx": 5
         },
@@ -61,8 +117,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "アグネスタキオンに言われるまま\r\n砂浜を走った。",
-            "enText": "I ran along the beach as Agnes\nTachyon had told me to.",
+            "enText": "I run along the beach according to<n>Agnes\nTachyon's instructions.",
             "nextBlock": 7,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -6626108713575717160
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 1503027855148358628
+                }
+            ],
             "pathId": -7439250432331641473,
             "blockIdx": 6
         },
@@ -70,8 +139,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "1時間……2時間……体は段々と重くなり、\r\n踏みしめるように走っていると――",
-            "enText": "1 hour…2 hours… body\nbecame heavier and heavier,\nand as I ran to step—",
+            "enText": "One hour passes... Then another... My<n>body gets\nheavier and heavier as my feet<n>crash into the sand\nwith each step.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4617120604101659598,
             "blockIdx": 7
         },
@@ -79,8 +151,11 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "！　トレーナー君、足元！",
-            "enText": "Trainer! Trainer, at your feet!",
+            "enText": "Trainer! Watch your step!",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "voiceIdx": 31,
+            "voiceSheetId": "051032001",
             "pathId": 613465999336558168,
             "blockIdx": 8
         },
@@ -88,8 +163,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "後ろの方を走っていたアグネスタキオンの\r\n声で足元を見る。そこには――……。",
-            "enText": "I'm not sure if it's a good idea, but it's\na good idea. There it is—…",
+            "enText": "After hearing Agnes Tachyon's voice<n>from behind\nme, I look down at my feet.<n>There I see...",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1597240373077373617,
             "blockIdx": 9
         },
@@ -97,8 +175,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……ウニ！？\r\nダメだ、避け切れない――！",
-            "enText": "… sea urchin! No, I can't avoid it—!",
+            "enText": "...A sea urchin?! It's too late, I can't<n>avoid it!",
             "nextBlock": 11,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5180197928109410664,
             "blockIdx": 10
         },
@@ -106,8 +187,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "……トレーナー君、目を開けたまえ。",
-            "enText": "… Trainer, open your eyes.",
+            "enText": "Trainer, open your eyes.",
             "nextBlock": 12,
+            "origClipLength": 56,
+            "voiceIdx": 55,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": -2383792026262599804
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -9074963717070641462
+                }
+            ],
             "pathId": 2282727998038398097,
             "blockIdx": 11
         },
@@ -115,8 +209,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "目を開けると、ウニはすぐ横にあった。\r\nどうやら寸前のところでアグネスタキオンが\n手を引いてくれたらしい。",
-            "enText": "When I opened my eyes, the sea urchin\nwas right next to me. Apparently,\nAgnes Tachyon had pulled me out of\nthe way just in time.",
+            "enText": "I open my eyes to find the urchin is right<n>next to\nme. It seems Agnes Tachyon had<n>pulled me away\njust in time.",
             "nextBlock": 13,
+            "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 8177735228670653022
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -5077972701387990753
+                }
+            ],
             "pathId": 8491913609988446476,
             "blockIdx": 12
         },
@@ -124,13 +231,26 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "はーまったく、君は危なっかしいな。\r\n実験以外のことでケガはやめてくれたまえ。",
-            "enText": "Oh, my God, you are so dangerous. Please\ndon't hurt yourself doing anything other\nthan experiments.",
+            "enText": "Geez! You're quite the hazard. I need<n>you to\nrefrain from getting injured<n>outside of\nexperiments.",
             "nextBlock": 14,
+            "origClipLength": 70,
+            "voiceIdx": 19,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "ありがとう！",
                     "enText": "Thank you!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 7722682577047129411
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 29274699147261357
                 }
             ],
             "pathId": 6427584739918655443,
@@ -140,8 +260,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "これは貸しだよ。咄嗟だったから、\r\n私の心拍数がムダに上がって――……。",
-            "enText": "You owe me this one. It was a spur of the\nmoment thing, so my heart rate went up\nunnecessarily…",
+            "enText": "You owe me now! It happened so<n>quickly, my\nheart rate skyrocketed...",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7482563909665144386
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 8895599429275096966
+                }
+            ],
             "pathId": 2520169315632194292,
             "blockIdx": 14
         },
@@ -149,8 +282,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "……ん？　いや、待てよ。",
-            "enText": "… Hmm? No, wait.",
+            "enText": "...Hm? No, wait!",
             "nextBlock": 16,
+            "origClipLength": 52,
+            "voiceIdx": 50,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -8178452238659863109
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 5246800477194993517
+                }
+            ],
             "pathId": 6256867246759672872,
             "blockIdx": 15
         },
@@ -158,8 +304,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "あの瞬間の感覚……もしや、今研究している\r\n肉体改造に役立つのでは……？",
-            "enText": "The sensation of that moment… could\nbe useful for the body modification I'm\ncurrently studying…?",
+            "enText": "The feeling in that moment... Perhaps<n>it'll be\nuseful for the body modification<n>I'm currently\nresearching...",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2939261177943908225
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -677202837374318472
+                }
+            ],
             "pathId": -4720518976795093884,
             "blockIdx": 16
         },
@@ -167,8 +326,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ククッ！　いい仕事をしたね、トレーナー君！\r\nすぐに研究室に戻るぞ！",
-            "enText": "Quack! Nice work, Mr. Trainer! We'll be\nback in the lab soon!",
+            "enText": "Heh-heh! Nice work, Trainer! Let's hurry<n>back to\nthe laboratory!",
             "nextBlock": 18,
+            "origClipLength": 67,
+            "voiceIdx": 2,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 81955694422361136
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -8837555859389181441
+                }
+            ],
             "pathId": 8368745184922416876,
             "blockIdx": 17
         },
@@ -176,8 +348,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "あの一瞬……\r\n忘れないうちに、しっかりと残しておかねば！",
-            "enText": "That one moment:… I've got to make\nsure I leave it behind before I forget!",
+            "enText": "I must make a record of that moment<n>before I\nforget!",
             "nextBlock": 19,
+            "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 549084077273753776
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4992737288971456803
+                }
+            ],
             "pathId": -4694372175129909646,
             "blockIdx": 18
         },
@@ -185,8 +370,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "咄嗟の動きから何かを得た\r\nアグネスタキオンの走りは、その日から\n格段に磨きがかかったのだった……！",
-            "enText": "Agnes Tachyon got something from the\nspur-of-the-moment move, and from\nthat day on, her running became much\nmore polished…",
+            "enText": "Agnes Tachyon seems to have gained<n>something\nfrom her spur-of-the-moment<n>action. Her running\nimproves<n>significantly from that day!",
             "nextBlock": -1,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -6862208110105362129
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 769856143914716009
+                }
+            ],
             "pathId": -1969710009296975447,
             "blockIdx": 19
         }

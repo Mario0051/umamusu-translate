@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "EPR7J6J6UBVP6LQIUEH3RP6FVS3376GY",
+    "version": 6,
+    "bundle": "BNGVMM22CXX4Q2GJ3M2UOA3XJJDTRQHV",
     "type": "story",
     "storyId": "501011714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニング中にグラスワンダーが倒れた。\r\n慌てて保健室に連れてきたが――",
-            "enText": "Grass Wonder collapsed during training. We \nrushed her to the infirmary, but―",
+            "enText": "Grass Wonder collapses during training.<n>I rush her\nto the infirmary.",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4627312633587295054,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……不甲斐ないところをお見せしました。",
-            "enText": "…… for your disappointment.",
+            "enText": "I apologize for that embarrassing<n>display.",
             "nextBlock": 3,
             "origClipLength": 57,
+            "voiceIdx": 24,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "体調は朝から悪かったの？",
-                    "enText": "Were you feeling sick this morning?",
+                    "enText": "Were you not feeling well this morning?",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
                     "origLen": 90,
-                    "pathId": -1799264790658487507
+                    "pathId": -1361462025728128919
                 },
                 {
                     "origLen": 90,
-                    "pathId": -1361462025728128919
+                    "pathId": -1799264790658487507
                 }
             ],
             "pathId": -3211231256586688330,
@@ -46,17 +51,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……はい。トレーニングの間だけ\r\n耐えればいいと、黙っていました。",
-            "enText": "…… Yes. I kept my mouth shut, thinking \nI could just tolerate it for the \nduration of the training.",
+            "enText": "...I wasn't. But I thought I could push<n>through it\nfor a single training session.",
             "nextBlock": 4,
             "origClipLength": 66,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 1501339728212882438
-                },
                 {
                     "origLen": 77,
                     "pathId": -6963221938064635223
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 1501339728212882438
                 }
             ],
             "pathId": -2004368908051358274,
@@ -66,17 +73,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "それがこんなことになるなんて――\r\nしばらくトレーニングは中断ですよね……。",
-            "enText": "I can't believe that's what happened― \ntraining is suspended for a while. ……",
+            "enText": "I didn't expect this... Training will have<n>to be put\non hold for the foreseeable<n>future, won't it?",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -7337489950899015024
-                },
                 {
                     "origLen": 80,
                     "pathId": -6822853381210646766
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -7337489950899015024
                 }
             ],
             "pathId": 7864639855717577577,
@@ -86,29 +95,31 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……トレーナーさんは、\r\nどうぞお仕事にお戻りください。",
-            "enText": "…… trainers, please go back to work.",
+            "enText": "Trainer... please see to your work.",
             "nextBlock": 6,
             "origClipLength": 63,
+            "voiceIdx": 57,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "治るまでここ見てるよ",
-                    "enText": "I'll be watching here until I get better.",
+                    "enText": "I'll be here until you're back on your feet.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "少し休んですぐに取り戻そう！",
-                    "enText": "We'll get some rest and get it right back!",
+                    "enText": "Once you're rested, we can get right back to it!",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": 8993755074299878729
-                },
-                {
                     "origLen": 74,
                     "pathId": -2736507741715898803
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8993755074299878729
                 }
             ],
             "pathId": 5764223711355929213,
@@ -118,18 +129,20 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……。\r\n放っておいては、くれないんですね。",
-            "enText": "…… They won't leave you alone, will they?",
+            "enText": "You're really not going to leave, are<n>you?",
             "nextBlock": 7,
             "origClipLength": 59,
+            "voiceIdx": 66,
+            "voiceSheetId": "051011001",
             "choices": [
                 {
                     "jpText": "トレーナーだからな",
-                    "enText": "I'm a trainer.",
+                    "enText": "I'm your trainer, aren't I?",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "トレーナーだからね",
-                    "enText": "I'm a trainer.",
+                    "enText": "I'm your trainer, aren't I?",
                     "nextBlock": 7
                 }
             ],
@@ -140,11 +153,11 @@
                 },
                 {
                     "origLen": 70,
-                    "pathId": 3513233524733385392
+                    "pathId": -3707121574164544208
                 },
                 {
                     "origLen": 70,
-                    "pathId": -3707121574164544208
+                    "pathId": 3513233524733385392
                 }
             ],
             "pathId": 703441539593710523,
@@ -154,21 +167,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "――っ。そう……ですか。\r\nわかりました。",
-            "enText": "―. So ……? I understand.",
+            "enText": "Yes... Yes, I suppose you're right.",
             "nextBlock": 8,
             "origClipLength": 58,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 8225806152994374514
                 },
                 {
-                    "origLen": 36,
-                    "pathId": -8408065909657369264
-                },
-                {
                     "origLen": 69,
                     "pathId": -1053341827921827449
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8408065909657369264
                 }
             ],
             "pathId": -7302545534081527178,
@@ -178,9 +193,11 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "それと、その。\r\n……すみません。",
-            "enText": "And, um. I'm sorry ……",
+            "enText": "And, um. ...Sorry about this.",
             "nextBlock": 9,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 59,
@@ -188,11 +205,11 @@
                 },
                 {
                     "origLen": 67,
-                    "pathId": -3990849622992173933
+                    "pathId": -3372683269813292744
                 },
                 {
                     "origLen": 67,
-                    "pathId": -3372683269813292744
+                    "pathId": -3990849622992173933
                 }
             ],
             "pathId": -5055602920561242715,
@@ -202,21 +219,23 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "こんな不甲斐ない姿を\r\nお見せしてしまって……。",
-            "enText": "I'm sorry to show you such an unworthy \nappearance. ……",
+            "enText": "You shouldn't have to see me in such a<n>miserable\nstate.",
             "nextBlock": 10,
             "origClipLength": 60,
+            "voiceIdx": 54,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 8876500773725615705
                 },
                 {
-                    "origLen": 43,
-                    "pathId": 4089022793783892256
-                },
-                {
                     "origLen": 71,
                     "pathId": -2169480412114800984
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4089022793783892256
                 }
             ],
             "pathId": 3589904866194281760,
@@ -226,17 +245,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "落ち込むグラスワンダーの体調が治るまで、\r\n保健室で一緒に時間を過ごした。",
-            "enText": "They spent time together in the \ninfirmary until Grass Wonder's \ndepressed condition healed.",
+            "enText": "I spend time in the infirmary with a<n>depressed\nGrass Wonder until she feels<n>better.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": -6994760858581350877
+                    "pathId": 2659587990812492945
                 },
                 {
                     "origLen": 80,
-                    "pathId": 2659587990812492945
+                    "pathId": -6994760858581350877
                 }
             ],
             "pathId": -6726557773958238213,
@@ -246,9 +267,11 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……わかりました。\r\nご心配いただき、ありがとうございます。",
-            "enText": "I understand…… Thank you for your concern.",
+            "enText": "All right. Thank you for your concern.",
             "nextBlock": 12,
             "origClipLength": 64,
+            "voiceIdx": 49,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
                     "origLen": 30,
@@ -256,11 +279,11 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": 5691409935266129787
+                    "pathId": -1324932877701816997
                 },
                 {
                     "origLen": 75,
-                    "pathId": -1324932877701816997
+                    "pathId": 5691409935266129787
                 }
             ],
             "pathId": 2089856113945294540,
@@ -270,17 +293,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "変わらず不安そうなグラスワンダーを、\r\nひとまずは1人にすることにした……。",
-            "enText": "We decided to leave Grass Wonder, \nwho still looks as anxious as ever, \nalone for the time being. ……",
+            "enText": "Grass Wonder seemed a little on edge,<n>so I give\nher some time alone to<n>recuperate.",
             "nextBlock": 13,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": 220962272494873622
+                    "pathId": 6707818546022928837
                 },
                 {
                     "origLen": 80,
-                    "pathId": 6707818546022928837
+                    "pathId": 220962272494873622
                 }
             ],
             "pathId": -6499033190886732801,
@@ -290,17 +315,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……っ。どうして。こんなところで、\r\n足踏みしている時間はないのに――",
-            "enText": "…… Why? We don't have time \nto stand on our feet here.",
+            "enText": "I don't have time to be just sitting here...<n>Why did\nthis have to happen?",
             "nextBlock": 14,
             "origClipLength": 67,
+            "voiceIdx": 64,
+            "voiceSheetId": "051011001",
             "animData": [
                 {
-                    "origLen": 24,
-                    "pathId": -1021234205039107994
+                    "origLen": 13,
+                    "pathId": 839149619980680241
                 },
                 {
-                    "origLen": 24,
-                    "pathId": 839149619980680241
+                    "origLen": 13,
+                    "pathId": -1021234205039107994
                 }
             ],
             "pathId": 4195595975640743658,
@@ -310,9 +337,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "保健室の扉の向こうから、\r\nグラスワンダーのそんな声が聞こえてきた。",
-            "enText": "From behind the door of the infirmary, I \nheard Grass Wonder's voice.",
+            "enText": "I hear how upset she is, even from the<n>other side\nof the infirmary's door.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6325016914953434162,
             "blockIdx": 14
         },
@@ -320,17 +349,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "……まあ、ふふっ。\r\nトレーナーさんったら。",
-            "enText": "…… Well, phew. What a trainer.",
+            "enText": "Goodness me. Hehe. Oh, Trainer.",
             "nextBlock": 16,
             "origClipLength": 59,
+            "voiceIdx": 5,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 7210007602817013458
-                },
                 {
                     "origLen": 70,
                     "pathId": -655478392495836438
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7210007602817013458
                 }
             ],
             "pathId": -4213861429871574529,
@@ -340,17 +371,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "すみません。同じことを考えていたもので、\r\nつい笑ってしまいました。",
-            "enText": "I am sorry. I was thinking the same thing.",
+            "enText": "Pardon me. We seem to be so in sync<n>that I\ncouldn't help but laugh.",
             "nextBlock": 17,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -5828289038502248416
-                },
                 {
                     "origLen": 78,
                     "pathId": 7141466606310265171
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -5828289038502248416
                 }
             ],
             "pathId": 7374114053747276704,
@@ -360,17 +393,19 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "ありがとうございます。気合いを入れて、\r\nすぐ元気になってみせますね♪",
-            "enText": "Thank you very much. I'll get back into the \nswing of things and get well soon.",
+            "enText": "Thank you so much. I'll commit myself to<n>recovery\nand be back to full strength in<n>no time. ♪",
             "nextBlock": 18,
             "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051011001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -3711931728296605493
-                },
                 {
                     "origLen": 78,
                     "pathId": -1599595607560879985
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3711931728296605493
                 }
             ],
             "pathId": 2174228157500957641,
@@ -380,22 +415,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "ケガを治すのに時間はかかってしまったが、\r\nその後グラスワンダーは宣言通り\nすぐに遅れを取り戻したのだった。",
-            "enText": "It took some time for the injury to heal, but \nafter that Grass Wonder, as she declared She \nsoon made up for the delay.",
+            "enText": "Grass Wonder's recovery takes a while.<n>But once\nshe's back on her feet, she<n>remains true to her\nword and makes up<n>for lost time.",
             "nextBlock": -1,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": -4912568692180578240
+                    "pathId": -7076866538921321054
                 },
                 {
                     "origLen": 91,
-                    "pathId": -7076866538921321054
+                    "pathId": -4912568692180578240
                 }
             ],
             "pathId": 6602755433041566776,
             "blockIdx": 18
         }
-    ],
-    "modified": 1657555055
+    ]
 }

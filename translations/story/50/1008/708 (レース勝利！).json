@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "F7DJPV62IS5RSJZ6H5EFQKUE4T67DWTP",
+    "version": 6,
+    "bundle": "VWKXF5SCNHCZ6A2X6XF24GJRH3QEQFJT",
     "type": "story",
     "storyId": "501008708",
     "title": "レース勝利！",
+    "enTitle": "Victory!",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "――勝ったッ！！",
-            "enText": "—I won!",
+            "enText": "I won!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 6,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 8940999613532849426
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4081485464363763090
+                }
+            ],
             "pathId": 2831905662011419440,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "勝ったぞ、トレーナー！！\r\n1着を掴み取ったんだ！！",
-            "enText": "We won, trainer! You grabbed first place!",
+            "enText": "I won, Trainer! I took first place!",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "voiceIdx": 56,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8577646092851991788
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -2957084067988729047
+                }
+            ],
             "pathId": -344805971063507682,
             "blockIdx": 2
         },
@@ -27,28 +54,41 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "しっかり目に焼き付けただろーな！\r\n最高にカッコいい……俺の姿を！",
-            "enText": "I hope you got a good look at me! I'm the \ncoolest… you'll ever see!",
+            "enText": "I hope you got a good look at just how<n><i>awesome</i> I\nwas!",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "ああ、今夜は盛大に乾杯しよう！",
-                    "enText": "Yeah, we're gonna have a big toast tonight!",
+                    "enText": "I sure did. Let's celebrate tonight over dinner!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "うん、今夜は盛大に乾杯しよう！",
-                    "enText": "Yeah, we're gonna have a big toast tonight!",
+                    "enText": "I sure did. Let's celebrate tonight over dinner!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "次のレースでも魅せてくれ！",
-                    "enText": "Let's see what you can do in the next race!",
+                    "enText": "I hope you're just as cool in the next race too!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "次のレースでも魅せてね！",
-                    "enText": "Let's see you in the next race!",
+                    "enText": "I hope you're just as cool in the next race too!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -5273686477996281258
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3507776830351559297
                 }
             ],
             "pathId": 3625224829947821741,
@@ -58,28 +98,41 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "しっかり目に焼き付けただろーな！\r\n最高にカッコいい……俺の姿を！",
-            "enText": "I hope you got a good look at me! I'm the \ncoolest… you'll ever see!",
+            "enText": "I hope you got a good look at just how<n><i>awesome</i> I\nwas!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "ああ、今夜は盛大に乾杯しよう！",
-                    "enText": "Yeah, we're gonna have a big toast tonight!",
+                    "enText": "I sure did. Let's celebrate tonight over dinner!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "うん、今夜は盛大に乾杯しよう！",
-                    "enText": "Yeah, we're gonna have a big toast tonight!",
+                    "enText": "I sure did. Let's celebrate tonight over dinner!",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "次のレースでも魅せてくれ！",
-                    "enText": "Let's see what you can do in the next race!",
+                    "enText": "I hope you're just as cool in the next race too!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "次のレースでも魅せてね！",
-                    "enText": "Let's see you in the next race!",
+                    "enText": "I hope you're just as cool in the next race too!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -5842176453234651974
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4606867387519939473
                 }
             ],
             "pathId": 4648145119885045843,
@@ -89,8 +142,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "勝利の美酒ってヤツか！\r\nうんうん、イカした響きだな！",
-            "enText": "It's a victory drink! Yeah, \nyeah, that sounds cool!",
+            "enText": "A victory feast, huh? Sounds wicked!",
             "nextBlock": 6,
+            "origClipLength": 80,
+            "voiceIdx": 38,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2715492639390872135
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8333132630444198077
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -4392984292620933250
+                }
+            ],
             "pathId": 5627174300847051541,
             "blockIdx": 5
         },
@@ -98,8 +168,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "けどよ……。\r\nひとつ言っとくぜ、トレーナー。",
-            "enText": "But hey… I'll tell \nyou one thing, trainer.",
+            "enText": "But... I should tell you something.",
             "nextBlock": 7,
+            "origClipLength": 75,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 7993585543319161857
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 8421214875030669636
+                }
+            ],
             "pathId": 3906337543474549508,
             "blockIdx": 6
         },
@@ -107,13 +190,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "こんくらいでハデに喜んでちゃあ、\r\n体がいくつあっても足りねーぞ？",
-            "enText": "You can't have too many bodies if \nyou're too happy about this.",
+            "enText": "If you're gonna get this excited every<n>time I win,\nyou're gonna tire yourself out<n>pretty quick.",
             "nextBlock": 8,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ど、どういう意味？",
-                    "enText": "What do you mean?",
+                    "enText": "Wh-what do you mean?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8559133718159265578
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -5222391349148280656
                 }
             ],
             "pathId": -2613653493380285152,
@@ -123,8 +219,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ふふん……この勝利も、\r\n単なる通過点に過ぎねーってこった。",
-            "enText": "Hmmm… This victory \nis just a passing phase.",
+            "enText": "Heheh... I mean that I've got a ton more<n>wins\ncoming.",
             "nextBlock": 9,
+            "origClipLength": 84,
+            "voiceIdx": 3,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 5278681154462705082
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2173389553880255484
+                }
+            ],
             "pathId": -4686394445349526082,
             "blockIdx": 8
         },
@@ -132,8 +241,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "カッコよさを磨く道に――\r\n終わりなんざ、ねぇんだからよ！",
-            "enText": "There's no end in sight to \nthe road to coolness!",
+            "enText": "Y'know, there's no end on the road to<n>cool!",
             "nextBlock": 10,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 7105671169222998362
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -5048851874980162516
+                }
+            ],
             "pathId": 6518508895357631927,
             "blockIdx": 9
         },
@@ -141,8 +263,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "俺はどこまでも走り続けてやるぜ！\r\nエンジン吹かして、アクセル全開でなッ！！",
-            "enText": "I'm going to keep driving! I'm \ngoing to keep driving!",
+            "enText": "I've taken my first step, so now it's time<n>to put the\npedal to the metal!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -4097252988907026398
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5587261723518019050
+                }
+            ],
             "pathId": 3975205710647129220,
             "blockIdx": 10
         },
@@ -150,8 +285,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おいおい、トレーナー。\r\nなーに当然のこと言ってやがんだ。",
-            "enText": "Hey, hey, hey, trainer. What the \nhell are you talking about?",
+            "enText": "C'mon, Trainer. That goes without sayin'!",
             "nextBlock": 12,
+            "origClipLength": 82,
+            "voiceIdx": 21,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8349915845582312338
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1849994206940873887
+                }
+            ],
             "pathId": -8207927973061047460,
             "blockIdx": 11
         },
@@ -159,18 +307,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "こっからは、俺の独壇場だぜ！\r\nイカした走りで勝ちまくってやらぁ！",
-            "enText": "From here on out, it's all about \nme! I'm going to ride like a man \nand I'm going to win!",
+            "enText": "This track belongs to me from now on!<n>I'm gonna\nrun like hell and win 'em all!",
             "nextBlock": 13,
+            "origClipLength": 88,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "すごい自信だな！",
-                    "enText": "That's a lot of confidence!",
+                    "enText": "I love that confidence!",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "すごい自信だね！",
-                    "enText": "That's a lot of confidence!",
+                    "enText": "I love that confidence!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7351983116271783672
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 5496881494042475921
                 }
             ],
             "pathId": 3898545239246854753,
@@ -180,8 +341,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ま、自分への誓いみてーなモンさ。\r\nもし俺が負けちまったら――",
-            "enText": "Well, it's kind of like a vow \nto myself. If I lose…",
+            "enText": "It's more like a promise to myself. After<n>all, if I\nlose...",
             "nextBlock": 14,
+            "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 2932976584534254691
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 230128348503365073
+                }
+            ],
             "pathId": 8410858859215325633,
             "blockIdx": 13
         },
@@ -189,8 +363,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "アンタや応援してくれてるヤツら、\r\n全員の期待を裏切ることになる。",
-            "enText": "I'll be failing you and everyone \nwho's been supporting me.",
+            "enText": "I'd be letting you and everyone else<n>rootin' for me\ndown.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -1178256739039623657
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3665684668702435354
+                }
+            ],
             "pathId": 1478463268665050635,
             "blockIdx": 14
         },
@@ -198,8 +385,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そんなダセぇザマは、\r\n絶対に晒したくねぇからな！",
-            "enText": "I don't want to be exposed \nto that kind of nonsense!",
+            "enText": "And there's no way I'm gonna do<n>somethin' lame\nlike that!",
             "nextBlock": 16,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 8589291516591452387
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -9087478838356794715
+                }
+            ],
             "pathId": -2418510540310901054,
             "blockIdx": 15
         },
@@ -207,8 +407,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "楽しみにしてろよ、トレーナー！\r\n俺はずっと……カッコよくあり続けるぜッ！！",
-            "enText": "Looking forward to it, trainer! \nI'll always be… cool!",
+            "enText": "So don't worry, Trainer! I'm always gonna<n>keep\nbein' cool!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": 10,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 3590963510398970972
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7379538690031007872
+                }
+            ],
             "pathId": -7205207179758750492,
             "blockIdx": 16
         }

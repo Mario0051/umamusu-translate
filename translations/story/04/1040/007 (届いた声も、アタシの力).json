@@ -1,21 +1,35 @@
 {
-    "version": 4,
-    "bundle": "D24NJ7A7Q2V74U2JWK7SN24XAWS7FYN4",
+    "version": 6,
+    "bundle": "D4PNAO4FIFDB42RPCGW33JKVC2CL3FP3",
     "type": "story",
     "storyId": "041040007",
     "title": "届いた声も、アタシの力",
+    "enTitle": "Star Power",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "へぇー、ここが合宿所か。いい感じじゃない。\r\n雰囲気あるし。撮影にだって使えそう！",
-            "enText": "Whoa, is this the training camp? It got a good feeling. This \natmosphere too. It looks like it can be used for shooting!",
+            "enText": "Oh? So this is camp, huh? Not bad. Kinda<n>got a nice vibe to it. I bet\nit'd make for a<n>good photo shoot location!",
             "nextBlock": 2,
+            "origClipLength": 275,
+            "voiceIdx": 0,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "夏合宿へようこそ、ゴールドシチー！",
-                    "enText": "Welcome to the summer camp, Gold City!",
+                    "enText": "Welcome to summer training camp!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -7805760983058376931
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 6526844366534240784
                 }
             ],
             "pathId": -7023962056210169043,
@@ -25,22 +39,48 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うん。途中参加になったけど、ま、取り返すし？",
-            "enText": "Mm-hmm. I joined you in the middle of it, \nwell, I've got to take my time back.",
+            "enText": "Yep. Fashionably late, but, we can make<n>up for lost time, yeah?",
             "nextBlock": 3,
+            "origClipLength": 164,
+            "voiceIdx": 1,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6232368981366791771
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3371510320807211177
+                }
+            ],
             "pathId": 4619661829601174252,
             "blockIdx": 2
         },
         {
             "jpName": "シチーのマネージャー",
-            "enName": "City's Manager",
+            "enName": "Gold City's Manager",
             "jpText": "お疲れ様です、トレーナーさん。\r\n仕事が押して、送り届けるのが遅れてごめんなさい。",
-            "enText": "Thank you for your hard work, Trainer-san. I’m sorry the delivery \narrived late, our work got pushed.",
+            "enText": "Hello, Trainer. I'm sorry she couldn't be<n>here earlier—schedules didn't\nquite work<n>out.",
             "nextBlock": 4,
+            "origClipLength": 173,
+            "voiceIdx": 2,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "大事にお預かりします",
-                    "enText": "I’ll take care of her",
+                    "enText": "No worries. Just glad she could make it.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -6197303917252202966
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -6862074656001674017
                 }
             ],
             "pathId": 1517162761755188840,
@@ -50,13 +90,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "それじゃ、荷物置いて着替えてくるから。",
-            "enText": "Well then, I’ll leave my luggage and change my clothes.",
+            "enText": "Right, I'm gonna drop my stuff off and get<n>changed.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "voiceIdx": 3,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "20分後、ビーチに集合で！",
-                    "enText": "Let’s meet at the beach 20 minutes later!",
+                    "enText": "See you on the beach in twenty!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -846599112785329139
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -4815973537118471623
                 }
             ],
             "pathId": 5554671934916773235,
@@ -66,17 +119,35 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "はい？　10分で行きますけどー？\r\n現役モデルの身支度の速さ、舐めんなよ。",
-            "enText": "Yes? I’ll be there in 10 minutes? Don’t underestimate \nthe preparation speed of a model.",
+            "enText": "Excuuuse me? I'll be ready in ten. Don't<n>underestimate how fast\nmodels can get<n>changed.",
             "nextBlock": 6,
+            "origClipLength": 217,
+            "voiceIdx": 4,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4344880554157443462
+                }
+            ],
             "pathId": -7723950256325674054,
             "blockIdx": 5
         },
         {
             "jpName": "シチーのマネージャー",
-            "enName": "City's Manager",
+            "enName": "Gold City's Manager",
             "jpText": "シチー！\n日焼けにだけは気をつけるのよ！",
-            "enText": "City! Just watch out for sunburn!",
+            "enText": "City! Make sure to wear plenty of<n>sunscreen, okay?",
             "nextBlock": 7,
+            "origClipLength": 108,
+            "voiceIdx": 5,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8661317779584155119
+                }
+            ],
             "pathId": 2337577296028255430,
             "blockIdx": 6
         },
@@ -84,8 +155,17 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "はいはい、わかってるってば！",
-            "enText": "Yeah-yeah, I got it, you know!",
+            "enText": "Yeah, yeah, don't need to tell me twice!",
             "nextBlock": 8,
+            "origClipLength": 113,
+            "voiceIdx": 6,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -2458054020114090134
+                }
+            ],
             "pathId": -526665392788789719,
             "blockIdx": 7
         },
@@ -93,8 +173,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして、ゴールドシチーの夏合宿が始まった。",
-            "enText": "In this way, the summer training camp of Gold City began.",
+            "enText": "And with that, Gold City's summer training<n>begins.",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6269401094877438602,
             "blockIdx": 8
         },
@@ -102,26 +185,61 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "今日はみんなで料理すんの？　は？\nほとんどやったことないんだけど。ちょっと、無理無理無理！",
-            "enText": "Are we all cooking today? Huh? I have never cooked \nbefore. Wait, I can’t! I can’t! I can’t!",
+            "enText": "We're all supposed to cook today? Huh?<n>I've barely ever held a pan.\nWhoa, nope,<n>nope, nope!",
             "nextBlock": 10,
+            "origClipLength": 276,
+            "voiceIdx": 7,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -6325982774851892468
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7600935510361258782
+                }
+            ],
             "pathId": -4255621410190046650,
             "blockIdx": 9
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "大丈夫だっての！　落ち着きなさいな。\r\nへぇ、そんなに慌てる顔、初めて見たわ。ふふっ。",
-            "enText": "It will be okay! Just calm down. Eh, I’ve never \nseen such a panicked face before. Hehe.",
+            "enText": "You'll be fine! Just calm down. You know,<n>I've never seen you in such\na panic before.<n>Hehe.",
             "nextBlock": 11,
+            "origClipLength": 243,
+            "voiceIdx": 8,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -647678489772109928
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1611559550968498491
+                }
+            ],
             "pathId": 4758533563104857340,
             "blockIdx": 10
         },
         {
             "jpName": "ウマ娘B",
-            "enName": "Horsegirl B",
+            "enName": "Umamusume B",
             "jpText": "シチーちゃん！　今日も朝から元気よく、行ってみよー！",
-            "enText": "City-chan! Let’s go again, all lively from the morning!",
+            "enText": "City! C'mon, it's a beautiful morning for<n>training!",
             "nextBlock": 12,
+            "origClipLength": 132,
+            "voiceIdx": 9,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": 8191856280913151676
+                }
+            ],
             "pathId": 5998528692811160910,
             "blockIdx": 11
         },
@@ -129,8 +247,17 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "あ～……ダル。早朝練習だけは……ないわ。マジ、ないわ……。",
-            "enText": "Ah~… sleep. I don’t have to practice early \nin the morning. Seriously, not possible…",
+            "enText": "Ughhh, I'm so done. Anything but early<n>mornings... Nope, not\nhappening.",
             "nextBlock": 13,
+            "origClipLength": 375,
+            "voiceIdx": 10,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 425,
+                    "pathId": 2535077702307201349
+                }
+            ],
             "pathId": 8515061990008312659,
             "blockIdx": 12
         },
@@ -138,17 +265,35 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "じゃあ、もう1本走ろう！　次はアタシが勝つけどね！",
-            "enText": " Then, let’s run 1 more time! But, this time I’ll win!",
+            "enText": "All right, one more race! And this time I'm<n>winning!",
             "nextBlock": 14,
+            "origClipLength": 140,
+            "voiceIdx": 11,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 6611671229033848883
+                }
+            ],
             "pathId": -5821963905393671932,
             "blockIdx": 13
         },
         {
             "jpName": "ウマ娘C",
-            "enName": "Horsegirl C",
+            "enName": "Umamusume C",
             "jpText": "……面白い。私は負けやしないぞ。\r\n高級にんじん3本賭けてもいい。",
-            "enText": "…Interesting. I won’t lose. You can bet 3 high-grade carrots.",
+            "enText": "You're on, but I'm not losing. I'll bet you<n>three premium carrots.",
             "nextBlock": 15,
+            "origClipLength": 184,
+            "voiceIdx": 12,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 226,
+                    "pathId": 6389499026303647884
+                }
+            ],
             "pathId": -7687696614309179403,
             "blockIdx": 14
         },
@@ -156,8 +301,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "言ってくれるじゃん！　乗った！",
-            "enText": "That’s my line! I’m in!",
+            "enText": "Someone's feeling feisty! I'm in!",
             "nextBlock": 16,
+            "origClipLength": 79,
+            "voiceIdx": 13,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1858025044644116734
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7770369281561119981
+                }
+            ],
             "pathId": 6730293708361037689,
             "blockIdx": 15
         },
@@ -165,8 +323,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "夕食後、ゴールドシチーに声をかけられた。\n話がしたいようなので、一緒にビーチへとやって来た。",
-            "enText": "After dinner, I was asked to meet outside by Gold City. We came \nto the beach together because she wanted to talk.",
+            "enText": "After dinner, Gold City comes up to me<n>and says she wants to talk\noutside.",
             "nextBlock": 17,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 247203541329355227
+                },
+                {
+                    "origLen": 229,
+                    "pathId": -7970789399488255355
+                }
+            ],
             "pathId": -1742419592099036883,
             "blockIdx": 16
         },
@@ -174,8 +345,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……アタシさ、この合宿は諦めてたんだよね。\n仕事仕事で、結局不参加なのかなって。",
-            "enText": "…You know I, before I gave up on this training camp. I had more \nwork and work, I wondered if I would ever participate.",
+            "enText": "You know, I'd just about given up on<n>coming here. With work and\nmore work, it<n>wasn't looking like I could make it.",
             "nextBlock": 18,
+            "origClipLength": 266,
+            "voiceIdx": 14,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -7638043737623575190
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 4480705722383800233
+                }
+            ],
             "pathId": -241114463944971910,
             "blockIdx": 17
         },
@@ -183,18 +367,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でも、アンタと一緒にスケジュール組んで、\r\nマネジとも正面から話し合って。そしたら、こうやって参加できた。",
-            "enText": "But, I made a fitting schedule with you and talked to the \nmanager. Then, I was able to participate in this way.",
+            "enText": "But, you helped me figure out a schedule,<n>and I told my manager how\nI feel... And,<n>well, here I am.",
             "nextBlock": 19,
+            "origClipLength": 280,
+            "voiceIdx": 15,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "よかったな！",
-                    "enText": "It was good!",
+                    "enText": "Glad it worked out!",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "よかったね！",
-                    "enText": "It was good!",
+                    "enText": "Glad it worked out!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 879117661140514573
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4792052935756454210
                 }
             ],
             "pathId": -3756147066856583671,
@@ -204,18 +401,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うん、よかった。本当に。……前までのアタシだと、\r\n参加できないことにイラついて、文句言うだけだったと思う。",
-            "enText": "Mm-hmm, it was good. Really… I think the me from \nbefore, would just have complained about being \nfrustrated that she could not participate.",
+            "enText": "Yeah, me too. Really, I am... Before, I<n>probably would've just gotten\npissed and<n>complained about it.",
             "nextBlock": 20,
+            "origClipLength": 293,
+            "voiceIdx": 16,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "すごい成長だ！",
-                    "enText": "You’ve grown so much!",
+                    "enText": "<i>Sniff.</i> They grow up so fast!",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "すごい成長だね！",
-                    "enText": "You’ve grown so much!",
+                    "enText": "<i>Sniff.</i> They grow up so fast!",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -6688416142511476032
+                },
+                {
+                    "origLen": 229,
+                    "pathId": 7008491370209732695
                 }
             ],
             "pathId": 6990609456923755693,
@@ -225,8 +435,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うっっっざ！　驚きすぎ！\nけどま……アンタには感謝してるよ。",
-            "enText": "Popo! Too stiff! But well… I’m grateful to you.",
+            "enText": "Oh my gosh! Can you not?! But, well... I'm<n>thankful, you know.",
             "nextBlock": 21,
+            "origClipLength": 240,
+            "voiceIdx": 17,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 9197456698803456711
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -2063584541577504287
+                }
+            ],
             "pathId": 8373290989835138449,
             "blockIdx": 20
         },
@@ -234,8 +457,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "途中参加でも、中身は濃いし。\r\n他のウマ娘がどんな子か、知ることもできたしさ。",
-            "enText": "Even if I participated in the middle, I learned a lot. I was also \nable to know what the other horse girls are like.",
+            "enText": "I got here late, but you've kept me busy,<n>and I've gotten a chance to\nknow the<n>others.",
             "nextBlock": 22,
+            "origClipLength": 190,
+            "voiceIdx": 18,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 193,
+                    "pathId": 7249869308317472266
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 3667088442103273400
+                }
+            ],
             "pathId": 1325633545479111858,
             "blockIdx": 21
         },
@@ -243,8 +479,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "“知らない一面”、たくさん見れた。\r\nアタシも、イメージだけで他人を見てたんだな……。",
-            "enText": "I was able to see a lot of the “unknown side to others” . I \nrealized I was also looking at the others just by their image…",
+            "enText": "No one's quite what they seem, are they? I<n>guess I was judging others\nby what was on<n>the surface, too.",
             "nextBlock": 23,
+            "origClipLength": 223,
+            "voiceIdx": 19,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -1139876787408561733
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -7212818028465929625
+                }
+            ],
             "pathId": -7193969954551732658,
             "blockIdx": 22
         },
@@ -252,8 +501,17 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "そういえば、もうすぐ近所で祭りがあるんだって。行ってみない？\n色んな人の色んな顔、見てみたくなったし！",
-            "enText": "Come to think of it, there’s a festival in the \nneighborhood soon. Would you like to go? I want \nto see the faces of all kinds of people!",
+            "enText": "Oh yeah, apparently there's going to be<n>like a festival nearby. Want\nto check it<n>out? I bet we'll see a lot of different faces!",
             "nextBlock": 24,
+            "origClipLength": 308,
+            "voiceIdx": 20,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -2405495815862915511
+                }
+            ],
             "pathId": 4909882667879905004,
             "blockIdx": 23
         },
@@ -261,8 +519,21 @@
             "jpName": "女の子",
             "enName": "Girl",
             "jpText": "あーっ、シチーだー！　きれー！",
-            "enText": "Woah, it’s City! Beautiful!",
+            "enText": "Hey, it's City! She's so pretty!",
             "nextBlock": 25,
+            "origClipLength": 120,
+            "voiceIdx": 21,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 4205253129855048017
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4708336979948408173
+                }
+            ],
             "pathId": -4836267248579317003,
             "blockIdx": 24
         },
@@ -270,17 +541,43 @@
             "jpName": "ファン",
             "enName": "Fan",
             "jpText": "あっ、あのっ。お、応援してます！",
-            "enText": "Ah, Umm. I’m cheering for you!",
+            "enText": "I, um... I-I'm a big fan!",
             "nextBlock": 26,
+            "origClipLength": 102,
+            "voiceIdx": 22,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4118697091567104156
+                },
+                {
+                    "origLen": 166,
+                    "pathId": -2190372701210326935
+                }
+            ],
             "pathId": 9004578017896596439,
             "blockIdx": 25
         },
         {
             "jpName": "屋台のおばさん",
-            "enName": "Elder Stallkeepster",
+            "enName": "Stall Staff",
             "jpText": "ほら、これ持ってきな。美味いから！",
-            "enText": "Here, take this. It’s delicious!",
+            "enText": "Here, take one. They're delicious!",
             "nextBlock": 27,
+            "origClipLength": 87,
+            "voiceIdx": 23,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 7570746679490018145
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 6619387171734738009
+                }
+            ],
             "pathId": 8425727288896055815,
             "blockIdx": 26
         },
@@ -288,8 +585,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシチーは人気者だ。\n声をかけてくる人たちに、手慣れた様子で笑顔を返す。",
-            "enText": "Gold City sure is popular. She returned a smile to the people who \ncalled her out, in a familiar manner. ",
+            "enText": "She's popular, all right. You can tell she's<n>used to the attention by the\nway she<n>smiles at the people who come up to her.",
             "nextBlock": 28,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -3173185269853654264
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -4358062079067321072
+                }
+            ],
             "pathId": 404180929845564441,
             "blockIdx": 27
         },
@@ -297,8 +607,21 @@
             "jpName": "男の子",
             "enName": "Boy",
             "jpText": "シチー、がんばってね。",
-            "enText": "City, good luck.",
+            "enText": "City, you're the best.",
             "nextBlock": 29,
+            "origClipLength": 86,
+            "voiceIdx": 24,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -416926730717910262
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 3124538624567117815
+                }
+            ],
             "pathId": -6971960809564565609,
             "blockIdx": 28
         },
@@ -306,8 +629,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ありがとう。レースも見てくれるとマジで嬉しいよ。",
-            "enText": "Thank you. You watching the race makes me really happy.",
+            "enText": "Thanks. I'd be really happy if you'd watch<n>me race too.",
             "nextBlock": 30,
+            "origClipLength": 129,
+            "voiceIdx": 25,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -7930752730802376077
+                },
+                {
+                    "origLen": 165,
+                    "pathId": -3297634075763483074
+                }
+            ],
             "pathId": -8362664584189059300,
             "blockIdx": 29
         },
@@ -315,18 +651,27 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……はは、予想以上に顔が割れてるし。ウケる。",
-            "enText": "…Ehehe, my face is cracked more than I expected. How hilarious.",
+            "enText": "...Heh, didn't think so many people would<n>recognize me here. Kinda\nfunny.",
             "nextBlock": 31,
+            "origClipLength": 165,
+            "voiceIdx": 26,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "頑張ってる証拠だな",
-                    "enText": "That’s proof that you’re working hard",
+                    "enText": "The fruits of your labor.",
                     "nextBlock": 31
                 },
                 {
                     "jpText": "頑張ってる証拠だよ",
-                    "enText": "That’s proof that you’re working hard",
+                    "enText": "The fruits of your labor.",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -1294201501479820586
                 }
             ],
             "pathId": -7114106035682055281,
@@ -336,13 +681,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "モデルとレース、どっちの頑張りを見てのことだかね。\nアタシはあくまでも、レースの実力だけを見てもらいたいし。",
-            "enText": "Model and race, I wonder which one of those efforts you are \nwatching. Although, I only want you to see my racing abilities.",
+            "enText": "Which labor—modeling or racing? Hard to<n>tell which one they're\ntalking about. All I<n>really want people to notice is my running.",
             "nextBlock": 32,
+            "origClipLength": 281,
+            "voiceIdx": 27,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "モデル活動も、レースに貢献するはずだよ",
-                    "enText": "Modelling should also contribute to the race",
+                    "enText": "Maybe your modeling can help your running.",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8467506415474060665
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6728028390610731564
                 }
             ],
             "pathId": 9105329461678114378,
@@ -352,13 +710,22 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "はぁ？　まっさかぁ。",
-            "enText": "Huh? No way.",
+            "enText": "Huh? As if.",
             "nextBlock": 33,
+            "origClipLength": 88,
+            "voiceIdx": 28,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "走って確かめよう！",
-                    "enText": "Let’s run and check it out!",
+                    "enText": "Why don't you go for a run and find out?",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 7183361681911185117
                 }
             ],
             "pathId": -3842129247200922312,
@@ -368,8 +735,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "走って、って……おい、今からかよ！？",
-            "enText": "Run, hey, you mean right now!?",
+            "enText": "Go for a run? Wait, like now?!",
             "nextBlock": 34,
+            "origClipLength": 143,
+            "voiceIdx": 29,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -5375700169815522622
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6746130118321522985
+                }
+            ],
             "pathId": -3858141929027846211,
             "blockIdx": 33
         },
@@ -377,18 +757,35 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "なんで、祭りを抜けてまでここを走るわけ……！？\nわかんない、マジ、意味わかんない……！",
-            "enText": "Why should I run here until the end of the festival…!? I don’t \nknow, seriously, I don’t know what it means…!",
+            "enText": "Sooo why exactly did you drag me out of<n>the festival for this? I swear,\nI am <i>never</i><n>going to get you.",
             "nextBlock": 35,
+            "origClipLength": 243,
+            "voiceIdx": 30,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "それじゃあタイムを計るぞ",
-                    "enText": "Well then, I’ll take the time",
+                    "enText": "Come on, I'll time you.",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "それじゃあタイムを計るよ",
-                    "enText": "Well then, I’ll take the time",
+                    "enText": "Come on, I'll time you.",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5671488525879224857
+                },
+                {
+                    "origLen": 294,
+                    "pathId": 2634225513531324027
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 700386801188747509
                 }
             ],
             "pathId": 4299951734374754214,
@@ -398,13 +795,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "話聞けよっ。\nはいはい、わかった。じゃあ、行く。よーい……。",
-            "enText": "Listen to me. Yeah-yeah, I got it. Then I will go. Steady…",
+            "enText": "Hello?! Ugh, fine, whatever. Okay, here I<n>go...",
             "nextBlock": 36,
+            "origClipLength": 266,
+            "voiceIdx": 31,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "スタート！",
-                    "enText": "GO!",
+                    "enText": "And... start!",
                     "nextBlock": 36
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4927952023021651529
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6549903586738077445
                 }
             ],
             "pathId": -5341231466429011791,
@@ -414,8 +824,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシチーは、砂場を一気に駆け抜けた！",
-            "enText": "Gold City ran through the sand at once!",
+            "enText": "She kicks up a sandstorm across the beach!",
             "nextBlock": 37,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5212366870984538655
+                }
+            ],
             "pathId": 797984944300220503,
             "blockIdx": 36
         },
@@ -423,13 +842,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ふぅ……。タイムは？　……うん、そんなもんでしょ。",
-            "enText": "Phew… What is the time?…Mm-hmm, so that’s it.",
+            "enText": "Phew... My time? Yep, about what I<n>expected.",
             "nextBlock": 38,
+            "origClipLength": 186,
+            "voiceIdx": 32,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "次は声援を思い出しながら走ってみよう",
-                    "enText": "Next time, let’s run while remembering the cheering",
+                    "enText": "Now go again, but hear your fans cheering you\non.",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8945065526439392608
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2205582850665192790
                 }
             ],
             "pathId": -7656473596627268489,
@@ -439,8 +871,17 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "は～？　変わるわけないと思うけど。\r\nともかく、行ってくる！",
-            "enText": "Huh~? I don’t think anything will change. Anyway, I’m going!",
+            "enText": "Huh? As if that's gonna change anything.<n>Whatever, here goes.",
             "nextBlock": 39,
+            "origClipLength": 217,
+            "voiceIdx": 33,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -3762172260621909560
+                }
+            ],
             "pathId": 8709783404835292323,
             "blockIdx": 38
         },
@@ -448,17 +889,20 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシチーは先程と同じように駆け出した。",
-            "enText": "Gold City ran the same as before.",
+            "enText": "She gives it another go, but this time...",
             "nextBlock": 40,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "シチー、頑張れ！",
-                    "enText": "City, you can do it!",
+                    "enText": "City, you're the best!",
                     "nextBlock": 40
                 },
                 {
                     "jpText": "シチー、頑張って！",
-                    "enText": "City, you can do it!",
+                    "enText": "City, you're the best!",
                     "nextBlock": 40
                 }
             ],
@@ -469,8 +913,11 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "は！？　ああ、トレーナー……うっざ……。\nでも……そういえば、祭りでも……。",
-            "enText": "Huh? Ah, Trainer… like that. But… speaking \nof which, at the festival…",
+            "enText": "Huh? Ugh, don't you ever get tired? Oh<n>wait, back at the festival...",
             "nextBlock": 41,
+            "origClipLength": 321,
+            "voiceIdx": 34,
+            "voiceSheetId": "061040003",
             "pathId": -8530127495060311993,
             "blockIdx": 40
         },
@@ -478,8 +925,21 @@
             "jpName": "男の子",
             "enName": "Boy",
             "jpText": "シチー、がんばってね。",
-            "enText": "City, good luck. ",
+            "enText": "City, you're the best.",
             "nextBlock": 42,
+            "origClipLength": 86,
+            "voiceIdx": 35,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -4589121762812360547
+                },
+                {
+                    "origLen": 225,
+                    "pathId": 3294156236554739936
+                }
+            ],
             "pathId": -1271632913229158141,
             "blockIdx": 41
         },
@@ -487,8 +947,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "………………。\n……よしっ！",
-            "enText": " …… Alright!",
+            "enText": "...I got this!",
             "nextBlock": 43,
+            "origClipLength": 113,
+            "voiceIdx": 36,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4344610035440892562
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4101725143392505999
+                }
+            ],
             "pathId": 7991113471432379136,
             "blockIdx": 42
         },
@@ -496,8 +969,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシチーは、更に加速した。\r\nそして――",
-            "enText": "Gold City accelerated further. And thenー",
+            "enText": "Something lights a fire under her feet,<n>and...",
             "nextBlock": 44,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1259295132198210678,
             "blockIdx": 43
         },
@@ -505,8 +981,11 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ゴォーー……ルッ……！",
-            "enText": "GOAL…!",
+            "enText": "Done!",
             "nextBlock": 45,
+            "origClipLength": 80,
+            "voiceIdx": 37,
+            "voiceSheetId": "061040003",
             "pathId": 8699382780949807200,
             "blockIdx": 44
         },
@@ -514,8 +993,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "結果は……この合宿における最高のレコードタイム。",
-            "enText": "The result is… the best record time in this training camp.",
+            "enText": "She sets a new personal best for the<n>summer.",
             "nextBlock": 46,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 345,
+                    "pathId": -6860656510481108261
+                }
+            ],
             "pathId": -8148396860889528015,
             "blockIdx": 45
         },
@@ -523,18 +1011,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "はぁっ、はぁっ……ふーっ。アンタの声が聞こえた後……\r\n子どもの声援、思い出した……。そしたら、脚が前に出て……。",
-            "enText": "*Pant*… *Pant*… After I heard your voice. I remembered the \ncheering of the children. And then, my legs moved forward…",
+            "enText": "<i>Pant, pant...</i> Phew. You reminded me of<n>that kid from the festival, and\nthen my<n>legs... they just, like, surged ahead.",
             "nextBlock": 47,
+            "origClipLength": 429,
+            "voiceIdx": 38,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "ファンの力だな",
-                    "enText": "That’s the power of the fans",
+                    "enText": "The power of fans.",
                     "nextBlock": 47
                 },
                 {
                     "jpText": "ファンの力だね",
-                    "enText": "That’s the power of the fans",
+                    "enText": "The power of fans.",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 597937174582666097
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 8712113794846792654
                 }
             ],
             "pathId": 239932823526053361,
@@ -544,8 +1045,17 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "さらに踏み込むための力になるってこと？\r\nじゃあ、じゃあさ……。",
-            "enText": "You mean that power is going to help me \nstep further? Then, then you see…",
+            "enText": "What, like they give me the power to go<n>that extra distance? Well, in\nthat case...",
             "nextBlock": 48,
+            "origClipLength": 259,
+            "voiceIdx": 39,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 657108286851471051
+                }
+            ],
             "pathId": 8518363503277793471,
             "blockIdx": 47
         },
@@ -553,13 +1063,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "もしも、モデルとしての顔で集めたファンを、\r\nレースにつれて来れたなら――",
-            "enText": "If you could bring the fans who gathered \nin the face of a model to the raceー",
+            "enText": "What if I... take all the fans of my<n>modeling work, and get them to\ncome to<n>my races?",
             "nextBlock": 49,
+            "origClipLength": 184,
+            "voiceIdx": 40,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "大声援間違いなし！",
-                    "enText": "There’s no doubt about it!",
+                    "enText": "The stands will be roaring for you!",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4323507659677598214
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2574556992986363131
                 }
             ],
             "pathId": -8757517698264215062,
@@ -569,8 +1092,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うっわー、不純な動機！　ファンを利用するってわけ。\r\nアンタ、優しいふりして計算高いね。",
-            "enText": "Ahaha wow, such impure motives! You’re going to use the fans. You \npretend to be kind but you sure are calculating.",
+            "enText": "Geez, manipulative much? Using my fans<n>like that. I <i>knew</i> there was\nan evil<n>mastermind behind the mask.",
             "nextBlock": 50,
+            "origClipLength": 318,
+            "voiceIdx": 41,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2327182845909243670
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 3312289034040844984
+                }
+            ],
             "pathId": 65158670911473750,
             "blockIdx": 49
         },
@@ -578,8 +1114,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でも……ははっ、面白い。モデルのアタシしか知らないファンに、\r\n走りを見せつけてやれるし。",
-            "enText": "But… haha, how interesting. I can show off my \nrun to the fans who only know me as a model.",
+            "enText": "But... Heh. I like it. Most of my fans only<n>know me as a model, and\nnow I can show<n>them what I'm like on the turf.",
             "nextBlock": 51,
+            "origClipLength": 251,
+            "voiceIdx": 42,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7146483723086699153
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -1453635049621790677
+                }
+            ],
             "pathId": 2006529848564008619,
             "blockIdx": 50
         },
@@ -587,18 +1136,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "キレイなだけの人形じゃない、すごいウマ娘だって！",
-            "enText": "That I’m not just a pretty doll, but an amazing horse girl!",
+            "enText": "Then they'll see I'm not just some pretty<n>doll—I'm a champion!",
             "nextBlock": 52,
+            "origClipLength": 124,
+            "voiceIdx": 43,
+            "voiceSheetId": "061040003",
             "choices": [
                 {
                     "jpText": "両方の道を走る効果は大きいな",
-                    "enText": "The effect of running on both paths is great",
+                    "enText": "Run two roads, you get double the mileage.",
                     "nextBlock": 52
                 },
                 {
                     "jpText": "両方の道を走る効果は大きいね",
-                    "enText": "The effect of running on both paths is great",
+                    "enText": "Run two roads, you get double the mileage.",
                     "nextBlock": 52
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 180,
+                    "pathId": -8128928798958034498
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 4789215550093090151
                 }
             ],
             "pathId": 1591702902966148790,
@@ -608,8 +1170,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……はいはい。ノセられとくよ。\n勝つためには、アンタの力が必要みたいだし。",
-            "enText": "…Yeah-yeah. I’ll be sure to follow. In order \nto win, It seems I need your power.",
+            "enText": "...Okay, okay, you got me on board. If I<n>want to win, I'll need you\nanyway.",
             "nextBlock": 53,
+            "origClipLength": 213,
+            "voiceIdx": 44,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 6310576623990838910
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8370605705642005798
+                }
+            ],
             "pathId": 5423554382327690186,
             "blockIdx": 52
         },
@@ -617,12 +1192,23 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "だから……よろしく、トレーナー。アタシの相棒。",
-            "enText": "That’s why… Glad to have you here, Trainer. My partner.",
+            "enText": "So, uh... Let's keep it up, yeah? Partner.",
             "nextBlock": -1,
+            "origClipLength": 176,
+            "voiceIdx": 45,
+            "voiceSheetId": "061040003",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 8162148495645011326
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 1832131117794394024
+                }
+            ],
             "pathId": -8540861729443171070,
             "blockIdx": 53
         }
-    ],
-    "humanTl": true,
-    "modified": 1673053215
+    ]
 }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "NJM62FSQCTCN543ZLHXN4FE7RM5RHCPN",
+    "version": 6,
+    "bundle": "XPYIARTZM6KXYJDQ5IZ527JNFPORWTQG",
     "type": "story",
     "storyId": "041007006",
     "title": "ゴルシと一緒に平和を守れ！？",
+    "enTitle": "Golshi Saves the Day!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある休日のこと。\r\n公園の前を通りかかったところ――",
-            "enText": "It was a holiday. I was passing by a park.",
+            "enText": "I'm walking through the park on my day<n>off. It's so peaceful today...",
             "nextBlock": 2,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8791635768199771601,
             "blockIdx": 1
         },
@@ -18,18 +22,27 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "――伏せろっ！！",
-            "enText": "—Get down!",
+            "enText": "Hit the deck!",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "voiceIdx": 0,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "い、いきなりなんだ！？",
-                    "enText": "What's going on?",
+                    "enText": "Whoa, what's going on?!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "い、いきなり何っ！？",
-                    "enText": "What's going on?",
+                    "enText": "Whoa, what's going on?!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 1332610739068266218
                 }
             ],
             "pathId": -7157015048839609714,
@@ -39,8 +52,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "突然のゴールドシップの叫び声に、\r\n思わずたじろいでしまった。",
-            "enText": "The sudden cry of Goldship made me flinch.",
+            "enText": "I flinch instinctively at the sound of Gold<n>Ship's voice.",
             "nextBlock": 4,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 4422869161005382933
+                }
+            ],
             "pathId": -5888410998863379020,
             "blockIdx": 3
         },
@@ -48,8 +70,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おいオマエ、ぼんやりしてると巻き込まれっぞ！\r\nデンジャー！　デンジャー！",
-            "enText": "Hey, man, you don't want to get caught in\nthe middle of all this! Danger! Danger!",
+            "enText": "You there! Don't just stand<n>around—trouble's coming! Danger!\nDanger!",
             "nextBlock": 5,
+            "origClipLength": 143,
+            "voiceIdx": 1,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -6894248174703954069
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 8970792703952221042
+                }
+            ],
             "pathId": 983376348708372270,
             "blockIdx": 4
         },
@@ -57,8 +92,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "くっ、どうやらここら一帯に安息の場はないみたいだな……！",
-            "enText": "Damn, looks like there's no resting place around here…!",
+            "enText": "Darn, we can't stop now. This whole place<n>is about to blow...",
             "nextBlock": 6,
+            "origClipLength": 140,
+            "voiceIdx": 2,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1268509287255001908
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 2125036117519570993
+                }
+            ],
             "pathId": -8435648362365282390,
             "blockIdx": 5
         },
@@ -66,8 +114,21 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "ゴルシ姉ちゃん、これ以上は進めないよ！\r\nジャングルジムの砦に帰ろう！",
-            "enText": "Sister Gorci, we can't go any further!\nLet's go back to Jungle Jim's fort!",
+            "enText": "Cap'n Golshi, our advance is halted!<n>Permission to return to jungle\ngym base!",
             "nextBlock": 7,
+            "origClipLength": 162,
+            "voiceIdx": 3,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -4556767156563882432
+                },
+                {
+                    "origLen": 187,
+                    "pathId": -1374783692877692273
+                }
+            ],
             "pathId": 8296091908080070368,
             "blockIdx": 6
         },
@@ -75,8 +136,21 @@
             "jpName": "男の子B",
             "enName": "Boy B",
             "jpText": "だけど、砦に帰るまでにはあの溶岩の砂場を渡らないと……！",
-            "enText": "But we have to cross that lava sandbox\nto get back to the fort…!",
+            "enText": "Wait, we'd have to cross the hot lava<n>sandbox to get back!",
             "nextBlock": 8,
+            "origClipLength": 157,
+            "voiceIdx": 4,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6597520992783488723
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -4543046993014209923
+                }
+            ],
             "pathId": -6901702237190370459,
             "blockIdx": 7
         },
@@ -84,8 +158,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "なあに任せろ！　トレーナーもついてこい！\r\nいざとなったら、アタシのゴルゴル流拳法が大地を割るぜ……！",
-            "enText": "Hey, I got this! Trainers, follow me! If it comes to it, my\nGorgon Style Kempo will break the earth…!",
+            "enText": "Just follow me! You too, Trainer! When<n>we're backed into a lava\ncorner, my<n>Goldy-Gold Kenpo can blast a way<n>through!",
             "nextBlock": 9,
+            "origClipLength": 255,
+            "voiceIdx": 5,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -5958909884017731888
+                }
+            ],
             "pathId": -6288092293694134612,
             "blockIdx": 8
         },
@@ -93,8 +176,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どうやらゴールドシップは、子どもたちと遊んでいるらしい。\r\n気付けば自分も巻き込まれる形になってしまった……。",
-            "enText": "Apparently, Goldship is playing with her children. I found\nmyself getting involved in this…",
+            "enText": "It's nice to see Gold Ship playing with the<n>kids, but she's roped me\ninto the game<n>now...",
             "nextBlock": 10,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -8839622881311406257
+                }
+            ],
             "pathId": -3686061643078786956,
             "blockIdx": 9
         },
@@ -102,13 +194,22 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "おいトレーナー！　そこは溶岩地帯だろっ！\r\nどこ見て歩いてやがんだ！",
-            "enText": "Hey, trainer! You're in a lava field!\nWhat the hell are you looking at?",
+            "enText": "Watch it, Trainer! That's a lava zone! Your<n>goose almost got roasted!",
             "nextBlock": 11,
+            "origClipLength": 136,
+            "voiceIdx": 6,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "ごめん、わからない……",
-                    "enText": "Sorry, I don't understand…",
+                    "enText": "Sorry, I don't know the rules...",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -5743742217182440489
                 }
             ],
             "pathId": 8312442161713449869,
@@ -118,13 +219,22 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "見ようとすんじゃねえ、感じろ！\r\nドントシンクフィール！　アタシのトレーナーだろ！？",
-            "enText": "Don't try to see it. Feel it! Don't\nthink feel! You're my trainer!",
+            "enText": "You're missing all of the heavenly glory!<n>Don't think, feeeel! My\ntrainer should<n>know better!",
             "nextBlock": 12,
+            "origClipLength": 187,
+            "voiceIdx": 7,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "な、なるほど！？",
-                    "enText": "Oh, I see!",
+                    "enText": "R-right... Got it!",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 47,
+                    "pathId": -2247895413328849512
                 }
             ],
             "pathId": -4128474068639687385,
@@ -134,8 +244,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "さあ行くぞオマエら！\r\n殿はこのゴルシちゃんが務めてやる！",
-            "enText": "Let's go, you guys! I'll take care of her, Gorshin!",
+            "enText": "Let's do this, guys! Move ahead, I'll handle<n>the rear!",
             "nextBlock": 13,
+            "origClipLength": 139,
+            "voiceIdx": 8,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 55,
+                    "pathId": 548409372247330717
+                }
+            ],
             "pathId": 3924604696017294707,
             "blockIdx": 12
         },
@@ -143,8 +262,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "アタシに背中は任せやがれ……ってな！",
-            "enText": "I'll take care of your back…!",
+            "enText": "I'll lead you all to victory... Cool, huh?",
             "nextBlock": 14,
+            "origClipLength": 103,
+            "voiceIdx": 9,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 8228209570987833550
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -8406177915652452545
+                }
+            ],
             "pathId": -8567275465729931676,
             "blockIdx": 13
         },
@@ -152,8 +284,21 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "すげー！　かっけえよゴルシ姉ちゃん！",
-            "enText": "Oh, my God! You're so cool, Sister Gorci!",
+            "enText": "Wooow! You're the greatest, Cap'n Golshi!",
             "nextBlock": 15,
+            "origClipLength": 114,
+            "voiceIdx": 10,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": 4907082804587030534
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 3684566834434627114
+                }
+            ],
             "pathId": 1539762787546458019,
             "blockIdx": 14
         },
@@ -161,8 +306,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうしてノリノリのゴールドシップと子どもたちに連れられ、\r\n砂場を渡ることになったが――",
-            "enText": "And so, accompanied by a giddy Goldship and\nthe children, we crossed the sandbox.",
+            "enText": "Gold Ship heroically leads the children<n>and me across the vast\nsandbox. But then...",
             "nextBlock": 16,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 1402956341790127814
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -3503881161887757904
+                }
+            ],
             "pathId": 5815388594608609571,
             "blockIdx": 15
         },
@@ -170,8 +328,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "ぐわあーーーーーーっ！",
-            "enText": "Awwww!",
+            "enText": "Gaaaagh!",
             "nextBlock": 17,
+            "origClipLength": 74,
+            "voiceIdx": 11,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -7284919367025438182
+                }
+            ],
             "pathId": 7199815968292238982,
             "blockIdx": 16
         },
@@ -179,8 +346,17 @@
             "jpName": "男の子B",
             "enName": "Boy B",
             "jpText": "ゴ、ゴルシ姉ちゃん！？",
-            "enText": "Go, Sister Gorsi!",
+            "enText": "C-Cap'n Golshi?!",
             "nextBlock": 18,
+            "origClipLength": 59,
+            "voiceIdx": 12,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 2896917613507628664
+                }
+            ],
             "pathId": -3822903010037969702,
             "blockIdx": 17
         },
@@ -188,8 +364,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "砂場の真ん中で、突然ゴールドシップが倒れた！",
-            "enText": "In the middle of the sandbox, Goldship suddenly collapsed!",
+            "enText": "Gold Ship has suddenly collapsed in the<n>sand!",
             "nextBlock": 19,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6901374071873297775
+                }
+            ],
             "pathId": 2639778075505204312,
             "blockIdx": 18
         },
@@ -197,8 +382,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "ぐっ、アタシはもうダメみてえだ……。\r\nまさかこんなところで撃たれちまうなんて……。",
-            "enText": "I don't think I'm going to make it…\nI never thought I'd be shot here…",
+            "enText": "Urk, looks like this is it for me... We were<n>almost home free, but they\ngot me...",
             "nextBlock": 20,
+            "origClipLength": 277,
+            "voiceIdx": 13,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 330,
+                    "pathId": 21755720238523921
+                }
+            ],
             "pathId": 5494254421167322528,
             "blockIdx": 19
         },
@@ -206,8 +400,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "オマエら、アタシがいなくても……強く生きやがれ……！\r\n――がくっ。",
-            "enText": "You guys, even if I'm not here… live\nstrong…! —I can't believe it.",
+            "enText": "Listen, you've got to go on without me...<n>You have to... live! ...Ugh.",
             "nextBlock": 21,
+            "origClipLength": 268,
+            "voiceIdx": 14,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 298,
+                    "pathId": 3372761282157560354
+                }
+            ],
             "pathId": 8495723805980788786,
             "blockIdx": 20
         },
@@ -215,8 +418,17 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "そんな……目を覚ましてよ、ゴルシ姉ちゃん！",
-            "enText": "Oh, no… Wake up, Sister Gorsuch!",
+            "enText": "No... Please wake up, Cap'n Golshi!",
             "nextBlock": 22,
+            "origClipLength": 148,
+            "voiceIdx": 15,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": -8274667426185308698
+                }
+            ],
             "pathId": 4693304606932728149,
             "blockIdx": 21
         },
@@ -224,8 +436,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "――犯行現場は密室、凶器は見つからない。\r\n容疑者全員にアリバイがある。",
-            "enText": "—The crime scene is a locked room, the murder weapon was never\nfound. All suspects have alibis.",
+            "enText": "The scene of the crime was locked down,<n>and no murder weapon\nfound. Every single<n>suspect has an alibi...",
             "nextBlock": 23,
+            "origClipLength": 183,
+            "voiceIdx": 16,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -737901313305551919
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -1862445230767225506
+                }
+            ],
             "pathId": 8687855231937923455,
             "blockIdx": 22
         },
@@ -233,22 +458,44 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "このままじゃこの事件は迷宮入りだ。\r\nだけど心配すんな……この名探偵ゴルシちゃんに任せやがれ！",
-            "enText": "If you don't, this case will go cold. But don't worry…\nlet this great detective Gorsuch-chan handle it!",
+            "enText": "With nothing to go on, this case might go<n>cold. But don't you worry!\nCrime never<n>escapes the great Sherlock Golshi!",
             "nextBlock": 24,
+            "origClipLength": 276,
+            "voiceIdx": 17,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -6498135672919017618
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 305092854611459948
+                }
+            ],
             "pathId": 4504871219357204892,
             "blockIdx": 23
         },
         {
             "jpName": "男の子たち",
-            "enName": "Male Child",
+            "enName": "Boys",
             "jpText": "出たーっ！　名探偵ゴルシだーっ！",
-            "enText": "There it is! It's Detective Gorce!",
+            "enText": "It's really her! Sherlock Golshi!",
             "nextBlock": 25,
+            "origClipLength": 101,
+            "voiceIdx": 18,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "（推理モノになった！？）",
-                    "enText": "（It's a mystery now!)",
+                    "enText": "(Now she's a famous detective?!)",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -785309624785432402
                 }
             ],
             "pathId": -2923579741378337819,
@@ -258,8 +505,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "むっ！　むむっ！　むむむっ！\r\n――IQ564万のエメラルド色の脳細胞が、ゴルッと閃いたぜ。",
-            "enText": "Mwah! Mmm! Mmm! Mmm! —5,640,000 emerald brain cells with an IQ\nof 5,640,000 flashed in my mind.",
+            "enText": "Hm? Hmm! Hmmm?! My bedazzling brain<n>cells of a 5,640,000 IQ\nhave just burst<n>into action!",
             "nextBlock": 26,
+            "origClipLength": 234,
+            "voiceIdx": 19,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -1402432090810438031
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 5246745114785214890
+                }
+            ],
             "pathId": -2734971461429315122,
             "blockIdx": 25
         },
@@ -267,8 +527,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "アタシを撃った犯人は……オマエだおいてめえこのヤローッ！",
-            "enText": "The person who shot me is… you, you bastard!",
+            "enText": "The offender who shot me was... You, ya<n>dirty ol' rotten jerk head!",
             "nextBlock": 27,
+            "origClipLength": 182,
+            "voiceIdx": 20,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": 7661442998837384664
+                }
+            ],
             "pathId": -5120089711131571213,
             "blockIdx": 26
         },
@@ -276,8 +545,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシップがこちらを指さした！\r\nどう返事しようかと困っていると――",
-            "enText": "Goldship was pointing at me! I was at a loss as to what to say.",
+            "enText": "She's pointing at me! What should I do...",
             "nextBlock": 28,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -8411700183094110014
+                }
+            ],
             "pathId": -8340686328669774593,
             "blockIdx": 27
         },
@@ -285,8 +563,21 @@
             "jpName": "男の子B",
             "enName": "Boy B",
             "jpText": "なにか言い返さないと負けちゃうよ！",
-            "enText": "If you don't say something back, you'll lose!",
+            "enText": "You gotta say somethin' back or you'll<n>lose!",
             "nextBlock": 29,
+            "origClipLength": 74,
+            "voiceIdx": 21,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4859431505843415638
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 7294173272355231844
+                }
+            ],
             "pathId": -5222059820651626011,
             "blockIdx": 28
         },
@@ -294,8 +585,21 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "そうだそうだ、ゴルシ姉ちゃんのトレーナーってやつなんだろ？\r\nおもしれーとこ見せてくれよ！",
-            "enText": "Yeah, yeah, that's right. You're my sister Gorci's\ntrainer, right? Show me something cool!",
+            "enText": "Yeah, yeah! You're Golshi's trainer for a<n>reason. Do something funny!",
             "nextBlock": 30,
+            "origClipLength": 184,
+            "voiceIdx": 22,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4731498527361832719
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -3545178357546384663
+                }
+            ],
             "pathId": -5476375517483329535,
             "blockIdx": 29
         },
@@ -303,18 +607,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なるほど……振り回されるばかりじゃなくて、この子たちのように\r\nなにも考えず全力でノってあげればいいのかも……！？",
-            "enText": "I see… Instead of just being pushed around,\nmaybe we should be like these kids and give it\nour all without thinking…!",
+            "enText": "I get it... I can't let her steer the ship all<n>the time. I need to be like\nthese kids and<n>go with the flow!",
             "nextBlock": 31,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "その通りだ、ここにいる全員覚悟しろ……！",
-                    "enText": "That's right, everyone here, brace yourselves…!",
+                    "enText": "You caught me! But I'll have the last laugh!",
                     "nextBlock": 31
                 },
                 {
                     "jpText": "その通り、ここにいる全員覚悟なさい……！",
-                    "enText": "That's right, everyone here, prepare yourselves…!",
+                    "enText": "You caught me! But I'll have the last laugh!",
                     "nextBlock": 31
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": -8878397494422883961
                 }
             ],
             "pathId": 5508502306029566106,
@@ -324,8 +637,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "くっ、正体を現しやがったな……！\r\n頭から30本生えてる紫色の触角がなによりの証拠だぜ！",
-            "enText": "Damn, you've revealed yourself to me…! I've got 30 purple\nantennae growing out of my head as proof!",
+            "enText": "Agh, so this is your true form! Those thirty<n>purple tentacles sprouting\nfrom your head<n>prove it!",
             "nextBlock": 32,
+            "origClipLength": 197,
+            "voiceIdx": 23,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1070726608255891963
+                }
+            ],
             "pathId": -3011585020527552313,
             "blockIdx": 31
         },
@@ -333,8 +655,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "だけど、今のアタシらじゃアイツには敵わねえ！\r\n引くぞオマエらーっ！",
-            "enText": "But we're no match for her now! We're pulling out, you guys!",
+            "enText": "But what now? I can't take on this villain in<n>my current form! Everyone,\nretreat!",
             "nextBlock": 33,
+            "origClipLength": 161,
+            "voiceIdx": 24,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3945748867236376403
+                }
+            ],
             "pathId": -3719274142541370193,
             "blockIdx": 32
         },
@@ -342,8 +673,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "はぁ……はぁ……！\r\nまさかここまで追いかけてくるとはな……！",
-            "enText": "Haha… haha…! I didn't think\nyou'd follow me this far…!",
+            "enText": "<I>Huff... huff... wheeze...</I> How did you follow<n>me all the way here?",
             "nextBlock": 34,
+            "origClipLength": 205,
+            "voiceIdx": 25,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7083429720831156299
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3322633232706242074
+                }
+            ],
             "pathId": 6937614050697089174,
             "blockIdx": 33
         },
@@ -351,18 +695,27 @@
             "jpName": "男の子B",
             "enName": "Boy B",
             "jpText": "どうしよう……追い詰められちゃった……！？",
-            "enText": "What should I do?… I'm trapped…!",
+            "enText": "What now... We're cornered!",
             "nextBlock": 35,
+            "origClipLength": 98,
+            "voiceIdx": 26,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "年貢の納め時だ……！",
-                    "enText": "It's time to pay the tribute…!",
+                    "enText": "Time to pay the piper!",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "年貢の納め時よ……！",
-                    "enText": "It's time to pay your dues…!",
+                    "enText": "Time to pay the piper!",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 606718515576903405
                 }
             ],
             "pathId": -2306461768462895511,
@@ -372,8 +725,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "いや、追い詰めたのは果たしてどっちかな――！？",
-            "enText": "No, I wonder which one of us is the one who cornered her—!",
+            "enText": "Hmph, like I have any money... But I do<n>have this!",
             "nextBlock": 36,
+            "origClipLength": 156,
+            "voiceIdx": 27,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4362522117337766568
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1241185254394110311
+                }
+            ],
             "pathId": -2197660352293346078,
             "blockIdx": 35
         },
@@ -381,8 +747,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "わたしはウマ娘の神、ゴルーシア。\r\n心優しきあなたたちに、力を授けましょう。",
-            "enText": "I am Golusia, the God of the Horse Girls. I\ngive you, kind-hearted people, strength.",
+            "enText": "I am the great Umamusume goddess,<n>Golshaea. I see kind hearts in\nneed of aid<n>and bestow unto you my power.",
             "nextBlock": 37,
+            "origClipLength": 257,
+            "voiceIdx": 28,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": -1061260265136134606
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -1455816372830820562
+                }
+            ],
             "pathId": -7608185987641052477,
             "blockIdx": 36
         },
@@ -390,8 +769,17 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "1年に100度、奇跡を起こすっていうゴルーシアだ！",
-            "enText": "A hundred times a year, a miracle happens in Gorussia!",
+            "enText": "It's Golshaea. She only grants 100 miracles<n>a year!",
             "nextBlock": 38,
+            "origClipLength": 136,
+            "voiceIdx": 29,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -1449779036336205890
+                }
+            ],
             "pathId": 8172416094735103405,
             "blockIdx": 37
         },
@@ -399,8 +787,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "よっしゃあ！　これでオマエらにも湧いてきたはずだぜ！\r\nウマ娘神パワーがよ……！",
-            "enText": "Yeah! Now you're getting it too! You've\ngot the power of the gods!…!",
+            "enText": "I can feel it! You all sense it too, don't<n>you? It's the power of the\ngoddess!",
             "nextBlock": 39,
+            "origClipLength": 203,
+            "voiceIdx": 30,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -9200368613617489889
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 3959979103924303642
+                }
+            ],
             "pathId": -789937583878094215,
             "blockIdx": 38
         },
@@ -408,18 +809,27 @@
             "jpName": "男の子A",
             "enName": "Boy A",
             "jpText": "ほ、ほんとだ！\r\n今なら負ける気がしない……！",
-            "enText": "It's true! I don't think I can lose now…!",
+            "enText": "Whoa, it's true! We can win this time!",
             "nextBlock": 40,
+            "origClipLength": 133,
+            "voiceIdx": 31,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "まさか……ウマ娘神パワーだと！？",
-                    "enText": "Don't tell me it's… Uma Musume God Power!",
+                    "enText": "What have you done? Curse your goddess\npower!",
                     "nextBlock": 40
                 },
                 {
                     "jpText": "まさか……ウマ娘神パワーですって！？",
-                    "enText": "Don't tell me it's… Uma Musume God Power!",
+                    "enText": "What have you done? Curse your goddess\npower!",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 165,
+                    "pathId": 5387050176175117591
                 }
             ],
             "pathId": -1998024497582068380,
@@ -429,8 +839,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "ああそうだ！\r\n今のアタシたちの戦闘能力は564万……！",
-            "enText": "Oh yeah! Our current fighting capacity is 5.64 million…!",
+            "enText": "It's flowing through us! Our combined<n>power level is over 5,640,000!",
             "nextBlock": 41,
+            "origClipLength": 209,
+            "voiceIdx": 32,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5049006378982517951
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 1823288086938699868
+                }
+            ],
             "pathId": -4578282406398322659,
             "blockIdx": 40
         },
@@ -438,13 +861,22 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "オマエなんかに負けるはずがねえ！\r\n覚悟しろ！　ゴルシちゃんの仇――ッ！",
-            "enText": "There's no way I'm losing to you! Prepare yourself! I'm\ngoing to avenge you, Gorshin!",
+            "enText": "You'll never complete your evil plan,<n>villain! Prepare to taste... the\nGolshi<n>Revenginator!",
             "nextBlock": 42,
+            "origClipLength": 219,
+            "voiceIdx": 33,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "ぐわああーっ！",
-                    "enText": "Geez!",
+                    "enText": "Nooooo!",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 123982540589478634
                 }
             ],
             "pathId": 7770603210197568883,
@@ -454,8 +886,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ドサッ！）",
-            "enText": "(Thud! )",
+            "enText": "<I>Collapse!</I>",
             "nextBlock": 43,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -2705534302023169330
+                }
+            ],
             "pathId": 3032643783438329321,
             "blockIdx": 42
         },
@@ -463,8 +904,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "正義は――勝つ！！",
-            "enText": "Justice will prevail!",
+            "enText": "Justice has been... served!",
             "nextBlock": 44,
+            "origClipLength": 98,
+            "voiceIdx": 34,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 6968755310050756227
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7568296818566414244
+                }
+            ],
             "pathId": -6334799110984285729,
             "blockIdx": 43
         },
@@ -472,8 +926,17 @@
             "jpName": "男の子B",
             "enName": "Boy B",
             "jpText": "やったぁーっ！　流石ゴルシ姉ちゃんだ！",
-            "enText": "Yay! That's my sister Gorci!",
+            "enText": "You did it! You're the awesomest, Golshi!",
             "nextBlock": 45,
+            "origClipLength": 106,
+            "voiceIdx": 35,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -4999170270123820360
+                }
+            ],
             "pathId": 6053900135239620752,
             "blockIdx": 44
         },
@@ -481,8 +944,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "全くわけがわからなかったけれど……\r\nゴールドシップのノリについていくのは、案外楽しかった。",
-            "enText": "I had no idea what was going on, but…\nit was fun to follow Goldship's groove.",
+            "enText": "Another day where I'm not really sure what<n>happened... But it was\nsurprisingly fun to<n>go along with Gold Ship's goofy games.",
             "nextBlock": 46,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": 5359789118071266350
+                }
+            ],
             "pathId": -9035332296125571485,
             "blockIdx": 45
         },
@@ -490,8 +962,21 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "いやあーっ！　やり遂げたやり遂げた！",
-            "enText": "Oh, no! We did it! We did it!",
+            "enText": "Woooo! We pulled through okay!",
             "nextBlock": 47,
+            "origClipLength": 129,
+            "voiceIdx": 36,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 33,
+                    "pathId": 888353149773769899
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 8418038139692146216
+                }
+            ],
             "pathId": 6002433210801712768,
             "blockIdx": 46
         },
@@ -499,8 +984,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "公園の平和は守られたし、犯人は見つかったし、\r\nゴルシちゃんは神になったし、世界から争いはなくなったし！",
-            "enText": "The peace in the park has been preserved, the\nculprit has been found, Gorsuch-chan has become\na god, and the world is free of conflict!",
+            "enText": "We protected the park, caught the<n>criminal, turned me into a god,\n<I>and</I><n>achieved world peace!",
             "nextBlock": 48,
+            "origClipLength": 245,
+            "voiceIdx": 37,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -357551173254186794
+                }
+            ],
             "pathId": -6425471232127669289,
             "blockIdx": 47
         },
@@ -508,18 +1002,27 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "あとついでに花が咲いて木々は生い茂り、\r\n鳥たちもハミングを唄ったからな！　流石ゴルシ様だぜ～！",
-            "enText": "Oh, and by the way, the flowers are blooming, the trees are\ngrowing, and the birds are humming! That's Master Gorci for you!",
+            "enText": "Not to mention the flowers bloomed, the<n>trees grew lush, and the\nbirds sang<n>beautifully! I even impress myself!",
             "nextBlock": 49,
+            "origClipLength": 237,
+            "voiceIdx": 38,
+            "voiceSheetId": "061007002",
             "choices": [
                 {
                     "jpText": "子どもたちも喜んでたな",
-                    "enText": "The kids were happy to see you.",
+                    "enText": "Plus those kids sure had a lot of fun.",
                     "nextBlock": 49
                 },
                 {
                     "jpText": "子どもたちも喜んでたね",
-                    "enText": "The kids were happy to see you.",
+                    "enText": "Plus those kids sure had a lot of fun.",
                     "nextBlock": 49
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5175937810871296535
                 }
             ],
             "pathId": -8211006055937468038,
@@ -529,8 +1032,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "当たり前だろ、アタシがコンマ1秒たりとも\r\nつまんねーことなんてするはずねえからな！",
-            "enText": "Of course not, because I wouldn't do anything\nboring for even one tenth of a second!",
+            "enText": "How could they not? I don't ever let<n>boredom strike, even for a split\nsecond!",
             "nextBlock": 50,
+            "origClipLength": 173,
+            "voiceIdx": 39,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 37,
+                    "pathId": 792933306185967663
+                }
+            ],
             "pathId": 104586919547317916,
             "blockIdx": 49
         },
@@ -538,8 +1050,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "それに、今日のオマエのノリも悪くなかったぜ！",
-            "enText": "Besides, you weren't bad at all today!",
+            "enText": "And you know, you weren't too bad at it<n>yourself!",
             "nextBlock": 51,
+            "origClipLength": 150,
+            "voiceIdx": 40,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 4305908196008100449
+                }
+            ],
             "pathId": 8156140057563900486,
             "blockIdx": 50
         },
@@ -547,8 +1068,17 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今日で少しだけ、ゴールドシップについていけるように\r\nなった気がする……！",
-            "enText": "Today, I feel like I can keep up with\nGoldship a little better…!",
+            "enText": "I think I got a little better at keeping up<n>with Gold Ship today!",
             "nextBlock": 52,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": 4205807147248769929
+                }
+            ],
             "pathId": -6188758649374281467,
             "blockIdx": 51
         },
@@ -556,8 +1086,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "あっそうだ、昨日校庭に描いたナスカの地上絵の続き描こーっと！",
-            "enText": "Oh, yes, I'm going to continue painting the Nazca terrestrial\npainting I did in the schoolyard yesterday!",
+            "enText": "I just remembered. I should finish those<n>Nazca lines I started drawing\nin the school<n>garden!",
             "nextBlock": 53,
+            "origClipLength": 128,
+            "voiceIdx": 41,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7425024388184434586
+                }
+            ],
             "pathId": 667456111694854347,
             "blockIdx": 52
         },
@@ -565,8 +1104,17 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "オマエもついてこいよっ！　3秒後に集合な！　じゃ！",
-            "enText": "You, follow me! I'll see you in three seconds! Bye!",
+            "enText": "You should come with! Meet in three secs!<n>Bye!",
             "nextBlock": 54,
+            "origClipLength": 128,
+            "voiceIdx": 42,
+            "voiceSheetId": "061007002",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 7362093191398782717
+                }
+            ],
             "pathId": -2062485598086375096,
             "blockIdx": 53
         },
@@ -574,8 +1122,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "………………。\r\nやっぱり、ついていけるようになるのはもう少し先かもしれない！",
-            "enText": "… After all, it may be\na little while before I can keep up!",
+            "enText": "...It might be a while longer until I can fully<n>keep up though.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8805651318120953642,
             "blockIdx": 54
         }

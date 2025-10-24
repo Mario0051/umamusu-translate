@@ -1,25 +1,29 @@
 {
-    "version": 4,
-    "bundle": "3HHJ6AHLD4SYGRQRUQGQ5S6UPXBQB4PX",
+    "version": 6,
+    "bundle": "VAZH5YRQDWOEEYXIHXC6NI7KXNEMHHPD",
     "type": "story",
     "storyId": "400000008",
     "title": "コンティニュー",
+    "enTitle": "Try Again",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "（ジリリリリ……）",
-            "enText": "(Jiririri…)",
+            "enText": "<i>Rrrrring!</i>",
             "nextBlock": 2,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "はっ……なんだ、夢か",
-                    "enText": "Ha… so it was a dream.",
+                    "enText": "Huh?! Oh, it was just a dream...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "はっ……なんだ、夢ね",
-                    "enText": "Ha…, I see, it was a dream.",
+                    "enText": "Huh?! Oh, it was just a dream...",
                     "nextBlock": 2
                 }
             ],
@@ -30,12 +34,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "今日は大切なレースの日。夢のことは忘れて、\r\n早く<chrname>のところへ行こう――",
-            "enText": "Today is the big race day. Let's forget the\ndreams and meet up with <chrname> quickly.",
+            "enText": "There's an important race today. I need<n>to forget\nabout that dream and go see<n>\n<chrname> right away...",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8760813359455161494,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "FQNL5IZ34COFHP2Z5NNPBTZMVE2YBS6U",
+    "version": 6,
+    "bundle": "VNZWO53JU73WOCZEJ5QKFORQNAOPCGJU",
     "type": "story",
     "storyId": "501010515",
     "title": "TO THE NO.1！",
+    "enTitle": "To the Top!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "翌日にレースを控えた、ある日の夜遅く。\r\n暗くなったコースで走り続ける、\nタイキシャトルを見つけた。",
-            "enText": "Late one night before a race the next day. I \nfound Taiki Shattle running on the darkened \ntrack. I found Taiki Shattle running on a \ndarkened track.",
+            "enText": "One evening before a race, I find Taiki<n>Shuttle\nrunning on the track.",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7011974360334940966,
             "blockIdx": 1
         },
@@ -19,17 +22,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "……ゲート、オープン……。\r\nスリー、トゥー、ワン……。",
-            "enText": "…… gates, open…… Three, Two, One. ……",
+            "enText": "The gates are open. Three, two, one...",
             "nextBlock": 3,
             "origClipLength": 77,
+            "voiceIdx": 35,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": 2561441626678423394
+                    "pathId": 1491016927245458410
                 },
                 {
                     "origLen": 74,
-                    "pathId": 1491016927245458410
+                    "pathId": 2561441626678423394
                 }
             ],
             "pathId": 5203440668773432077,
@@ -39,24 +44,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ゲット・レディ……ゲット・セット――",
-            "enText": "Get Ready…… Get Set―",
+            "enText": "On your mark, get set...",
             "nextBlock": 4,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "タイキシャトル、何を……",
-                    "enText": "Taiki Shuttle, what ……",
+                    "enText": "Why are you—",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 43,
-                    "pathId": -2635108781960612081
-                },
-                {
                     "origLen": 67,
                     "pathId": 5835089721180836599
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -2635108781960612081
                 }
             ],
             "pathId": 464367777046016205,
@@ -69,14 +76,16 @@
             "enText": "Go!",
             "nextBlock": 5,
             "origClipLength": 52,
+            "voiceIdx": 95,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 3355346983766730758
+                    "pathId": -5098529135157306038
                 },
                 {
                     "origLen": 58,
-                    "pathId": -5098529135157306038
+                    "pathId": 3355346983766730758
                 }
             ],
             "pathId": -1733788128438206758,
@@ -86,9 +95,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……名前を呼ぶも届きはせず、\r\n彼女は自らの合図で走り出した。",
-            "enText": "Calling her name…… did not reach her, and she \nstarted running on her own signal.",
+            "enText": "She takes off running on her own signal,<n>giving no\nindication that she heard me.",
             "nextBlock": 6,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8739879460445029817,
             "blockIdx": 5
         },
@@ -96,9 +107,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "走っては止まり、少し悩むとまた走り出す。\r\nそれを一心不乱に繰り返すタイキシャトル。",
-            "enText": "She runs, stops, worries a little, and then \nstarts running again. The Taiki Shuttle \nrepeats this single-mindedly.",
+            "enText": "Taiki runs in fits and starts, with some<n>\ndeliberating in between. She does this<n>several\ntimes with intense concentration.",
             "nextBlock": 7,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8412093203720823757,
             "blockIdx": 6
         },
@@ -106,9 +119,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "しばらく観客席から、\r\n彼女の走りを眺めていた。",
-            "enText": "I watched her run from the \nbleachers for a while.",
+            "enText": "I take a seat and observe her for a while.",
             "nextBlock": 8,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4620292702818359456,
             "blockIdx": 7
         },
@@ -116,17 +131,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フーッ……もうタイムアップ！\r\n残念デス！",
-            "enText": "Whew…… time's up already! Too bad!",
+            "enText": "Phew... Time's up already? Darn it!",
             "nextBlock": 9,
             "origClipLength": 58,
+            "voiceIdx": 59,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 72,
-                    "pathId": 1740838885945098053
-                },
                 {
                     "origLen": 69,
                     "pathId": 3589662481478246445
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 1740838885945098053
                 }
             ],
             "pathId": -1544910072425256965,
@@ -136,17 +153,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ンンン？　そちらにオワスは……\r\nトレーナーさん！",
-            "enText": "Nnnn? Owas over there…… trainer!",
+            "enText": "Oh? Well, look who it is! Howdy,<n>Trainer!",
             "nextBlock": 10,
             "origClipLength": 61,
+            "voiceIdx": 30,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 6054254874668576729
+                    "pathId": 2902669798394965014
                 },
                 {
                     "origLen": 72,
-                    "pathId": 2902669798394965014
+                    "pathId": 6054254874668576729
                 }
             ],
             "pathId": -5609117798017585680,
@@ -156,24 +175,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "もしかして見てたんデスカ？\r\n声をかけてくれたらよかったノニ！",
-            "enText": "Did you happen to see me? You should have \ncalled out to me!",
+            "enText": "Were ya watchin' me just now? Why<n>didn't ya say\nanything?",
             "nextBlock": 11,
             "origClipLength": 65,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "集中してたみたいだったから",
-                    "enText": "She seemed so focused.",
+                    "enText": "I didn't want to interrupt.",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 44,
-                    "pathId": 2729991523553969106
-                },
-                {
                     "origLen": 76,
                     "pathId": 8324559845188003935
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 2729991523553969106
                 }
             ],
             "pathId": 1827345505353896132,
@@ -183,17 +204,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オウ、ソーリー！　軽く走るつもりが\r\n夢中になってしまいマシタ！",
-            "enText": "Oh, sorry! I thought I was going for a light \nrun, but I got carried away!",
+            "enText": "Oh, my bad! It was supposed to be a<n>light run, but\nI got carried away!",
             "nextBlock": 12,
             "origClipLength": 65,
+            "voiceIdx": 24,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 5399406767952941091
-                },
                 {
                     "origLen": 76,
                     "pathId": 7905779117979588670
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 5399406767952941091
                 }
             ],
             "pathId": -7822468459156203194,
@@ -203,17 +226,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "やっぱり走るのは楽しいデスネ～！\r\nトレーナーさんも一緒にどうデスカ！？",
-            "enText": "Running is fun after all! How \nabout joining us, trainer?",
+            "enText": "Running is just so fun, it's hard to stop!<n>Wanna\njoin me for a bit?",
             "nextBlock": 13,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 2770066520298302485
-                },
                 {
                     "origLen": 79,
                     "pathId": -6842813432309044844
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2770066520298302485
                 }
             ],
             "pathId": 3047197452265884956,
@@ -223,29 +248,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "汗を流してリフレッシュ！\r\nご飯もおいしく食べられマース！",
-            "enText": "Sweat it out and refresh yourself! And you'll \nget a good meal too!",
+            "enText": "Workin' up a good sweat is a surefire<n>way to\nrevitalize yourself! And food<n>always tastes better\nafterward too!",
             "nextBlock": 14,
             "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "もう帰宅時間だぞ",
-                    "enText": "It's time to go home.",
+                    "enText": "It's about time to head back.",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "もう帰宅時間だよ",
-                    "enText": "It's time to go home.",
+                    "enText": "It's about time to head back.",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 15,
-                    "pathId": -9042076594697964581
-                },
-                {
                     "origLen": 74,
                     "pathId": 1044543415285903549
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -9042076594697964581
                 }
             ],
             "pathId": 685027624956877526,
@@ -255,17 +282,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさんがいれば、\r\nまだ残ってても怒られまセーン！",
-            "enText": "If you have a trainer, she won't get mad at \nyou if you stay behind!",
+            "enText": "I'm not gonna get in trouble if you're<n>with me!",
             "nextBlock": 15,
             "origClipLength": 63,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": -7201585250754799779
-                },
                 {
                     "origLen": 74,
                     "pathId": 804651061466768991
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7201585250754799779
                 }
             ],
             "pathId": 6789876679814271872,
@@ -275,17 +304,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "この時間は誰もいませんから、\r\n思いっきり走れマスヨ！",
-            "enText": "No one is around at this time of the day, so \nyou can run as fast as you want!",
+            "enText": "Nobody's around this late, so it's the<n>perfect time\nto cut loose!",
             "nextBlock": 16,
             "origClipLength": 62,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 6038024342634173673
-                },
                 {
                     "origLen": 73,
                     "pathId": 3900909676851607209
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6038024342634173673
                 }
             ],
             "pathId": -989174275698971562,
@@ -295,24 +326,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "なので……トレーナーさん、\r\nワタシをもっと走らせてくだサーイ。",
-            "enText": "So…… trainer, please let me run more.",
+            "enText": "Please, Trainer? I wanna keep goin'.",
             "nextBlock": 17,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "レースに備えてもう休んだ方が……",
-                    "enText": "You should rest now to prepare \nfor the race: ……",
+                    "enText": "But you need to rest for the race ahead...",
                     "nextBlock": 17
                 }
             ],
             "animData": [
                 {
-                    "origLen": 55,
-                    "pathId": 4667835931497877219
-                },
-                {
                     "origLen": 76,
                     "pathId": -2604454507703784731
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 4667835931497877219
                 }
             ],
             "pathId": 3996674265121376886,
@@ -322,17 +355,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だからこそ、デス。",
-            "enText": "That's why des.",
+            "enText": "That race is why I gotta run.",
             "nextBlock": 18,
             "origClipLength": 50,
+            "voiceIdx": 151,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 61,
-                    "pathId": -3402799999261343135
+                    "pathId": -1091094223013096904
                 },
                 {
                     "origLen": 61,
-                    "pathId": -1091094223013096904
+                    "pathId": -3402799999261343135
                 }
             ],
             "pathId": -1469835717264959663,
@@ -342,17 +377,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "この服は、勝つために作られた服……\r\nワタシの勝ちたい気持ちの証なんデース。",
-            "enText": "These clothes are made to win.…… They are a \ntestament to Watashi's desire to win.",
+            "enText": "This is a winner's outfit. It represents my<n>grit and\ngumption to win.",
             "nextBlock": 19,
             "origClipLength": 69,
+            "voiceIdx": 84,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 84,
-                    "pathId": 8926717978566495649
-                },
                 {
                     "origLen": 80,
                     "pathId": 4504969096212642094
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8926717978566495649
                 }
             ],
             "pathId": -9046323434015259531,
@@ -362,17 +399,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だから……こうして着ていると、\r\n心と体が震えて、叫びだしマス。",
-            "enText": "So…… when I wear it like this, my heart and \nbody tremble and I start screaming.",
+            "enText": "When I wear it, my heart and body get<n>the\nshakes, and I wanna shout for<n>everybody to\nhear...",
             "nextBlock": 20,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -7014854266351339346
-                },
                 {
                     "origLen": 76,
                     "pathId": -4928790530456059636
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7014854266351339346
                 }
             ],
             "pathId": 2106272737504831065,
@@ -382,17 +421,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "絶対に負けられないと。",
-            "enText": "She said she would never lose.",
+            "enText": "\"I ain't gonna lose—no way, no how!\"",
             "nextBlock": 21,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": 6520970901262766773
-                },
                 {
                     "origLen": 63,
                     "pathId": 8353482347192068074
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6520970901262766773
                 }
             ],
             "pathId": 1257248042998632224,
@@ -402,17 +443,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フフッ、トレーナーさんがワタシを強くして\r\nくれるから、ワタシ欲張りになりマシタ！",
-            "enText": "My trainer is making me stronger, so I'm \ngetting greedy!",
+            "enText": "Hehe. It's 'cause you've gone and<n>toughened me\nup, Trainer. Now I'm<n>gettin' greedy for victory!",
             "nextBlock": 22,
             "origClipLength": 71,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 1536713681801361251
-                },
                 {
                     "origLen": 82,
                     "pathId": 8471751205778718425
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 1536713681801361251
                 }
             ],
             "pathId": -3210280080470923412,
@@ -422,34 +465,36 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "負けたくない気持ちでいっぱいデス！\r\n責任とってくだサーイ！",
-            "enText": "I don't want to lose! Please take \nresponsibility!",
+            "enText": "I can't lose now! You gotta take<n>responsibility for\nthis feeling!",
             "nextBlock": 23,
             "origClipLength": 64,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "あと少しだけなら",
-                    "enText": "If only for a few more minutes.",
+                    "enText": "Okay, we can stay for a little bit.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "大丈夫だ、必ず勝たせる！",
-                    "enText": "Don't worry, we'll make sure you win!",
+                    "enText": "I'll make sure you win, so don't worry!",
                     "nextBlock": 26
                 },
                 {
                     "jpText": "大丈夫、必ず勝たせるよ！",
-                    "enText": "Don't worry, we'll make sure you win!",
+                    "enText": "I'll make sure you win, so don't worry!",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 38,
-                    "pathId": 1131237714289493210
-                },
-                {
                     "origLen": 75,
                     "pathId": 1862602786945717946
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 1131237714289493210
                 }
             ],
             "pathId": 8756720541855981272,
@@ -459,34 +504,36 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "負けたくない気持ちでいっぱいデス！\r\n責任とってくだサーイ！",
-            "enText": "I don't want to lose! Please take \nresponsibility!",
+            "enText": "I can't lose now! You gotta take<n>responsibility for\nthis feeling!",
             "nextBlock": 24,
             "origClipLength": 64,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "あと少しだけなら",
-                    "enText": "If only for a few more minutes.",
+                    "enText": "Okay, we can stay for a little bit.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "大丈夫だ、必ず勝たせる！",
-                    "enText": "Don't worry, we'll make sure you win!",
+                    "enText": "I'll make sure you win, so don't worry!",
                     "nextBlock": 26
                 },
                 {
                     "jpText": "大丈夫、必ず勝たせるよ！",
-                    "enText": "Don't worry, we'll make sure you win!",
+                    "enText": "I'll make sure you win, so don't worry!",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 38,
-                    "pathId": -6259533386946305674
-                },
-                {
                     "origLen": 75,
                     "pathId": 4546473453473106854
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -6259533386946305674
                 }
             ],
             "pathId": 6403503825474955069,
@@ -496,17 +543,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "――オウ、リアリー！？\r\nワタシ、とっても嬉しいデス！",
-            "enText": "―Oh, Leary! I'm so happy!",
+            "enText": "Oh, really?! Yahoo!",
             "nextBlock": 25,
             "origClipLength": 62,
+            "voiceIdx": 27,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 107,
-                    "pathId": 4528701017653551121
-                },
                 {
                     "origLen": 73,
                     "pathId": 5877821238438721340
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 4528701017653551121
                 }
             ],
             "pathId": 658037074792880109,
@@ -516,17 +565,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "もう暗いですけど……\r\nワタシ、まだまだ走れマスカラ！",
-            "enText": "It's already dark, but…… \nI can still run, Mascara!",
+            "enText": "It's already so dark out... but that's not<n>gonna\nstop me!",
             "nextBlock": 28,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -3630873541048099141
-                },
                 {
                     "origLen": 73,
                     "pathId": -6183922673311800922
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3630873541048099141
                 }
             ],
             "pathId": -8497390928372025281,
@@ -536,17 +587,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "プロミス、デスネ。\r\nセンキュー、トレーナーさん！",
-            "enText": "Promise, desne. Sencu, trainer!",
+            "enText": "Sounds like a promise! Thank ya, Trainer!",
             "nextBlock": 27,
             "origClipLength": 61,
+            "voiceIdx": 12,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -5853889636029198045
-                },
                 {
                     "origLen": 72,
                     "pathId": -864992256562640320
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5853889636029198045
                 }
             ],
             "pathId": -6780780257298520372,
@@ -556,17 +609,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "だったら……ワタシも約束しマス！",
-            "enText": "Then I promise to…… too!",
+            "enText": "Hm... How 'bout I make a promise of my<n>own?",
             "nextBlock": 28,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 18,
-                    "pathId": 8331067931894949051
-                },
                 {
                     "origLen": 66,
                     "pathId": 4093252153768331792
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 8331067931894949051
                 }
             ],
             "pathId": 7515161819120504711,
@@ -576,17 +631,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシ、絶対に勝ちマス。\r\n誰が相手でも、負けるつもりはありまセン。",
-            "enText": "I will definitely win. No matter who the \nopponent is, I have no intention of losing.",
+            "enText": "I promise I'll always win. I won't lose, no<n>matter\nwho I'm up against.",
             "nextBlock": 29,
             "origClipLength": 67,
+            "voiceIdx": 117,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 5332343525430560522
-                },
                 {
                     "origLen": 78,
                     "pathId": 6217375944365106074
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 5332343525430560522
                 }
             ],
             "pathId": -2963176131014938173,
@@ -596,17 +653,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "勝ち続けて、必ずイチバンになりマス！\r\n一緒に頑張りまショウ、トレーナーさん！",
-            "enText": "Keep winning and we will be number one! We \nwill do our best together, trainer!",
+            "enText": "I'll keep rackin' up victories till I make it<n>to the\ntop! So let's make sure we're<n>locked and loaded,\nTrainer!",
             "nextBlock": 30,
             "origClipLength": 70,
+            "voiceIdx": 2,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 3622291522288973331
-                },
                 {
                     "origLen": 81,
                     "pathId": -6155924176388747514
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3622291522288973331
                 }
             ],
             "pathId": 4909263446148293784,
@@ -616,22 +675,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうしてタイキシャトルと、\r\n改めてイチバンになることを誓ったのだった。",
-            "enText": "Thus, she and Taiki Shuttle vowed once again \nto be first in the race.",
+            "enText": "Taiki Shuttle and I vow to reach the top<n>together.",
             "nextBlock": -1,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": -2128645199871731556
+                    "pathId": 7494255493665722766
                 },
                 {
                     "origLen": 80,
-                    "pathId": 7494255493665722766
+                    "pathId": -2128645199871731556
                 }
             ],
             "pathId": -2664177609062146956,
             "blockIdx": 30
         }
-    ],
-    "modified": 1657555055
+    ]
 }

@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "MQGKB5Q2HENCTWUKRSXEBE5LMJ7UQMOK",
+    "version": 6,
+    "bundle": "NILONDEYYLUTVD5T2DZQ3J3YRWJP4KRN",
     "type": "story",
     "storyId": "501040741",
     "title": "今度こそ負けない！",
+    "enTitle": "No More Losing!",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ。\r\nまた、負けたの？　アタシ……。",
-            "enText": "… Did you lose again? Atashi…",
+            "enText": "Did I just lose... again?",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": 60,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -6850162293651637336
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -2695727027492293618
+                }
+            ],
             "pathId": -2643830379184855151,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "なんで？　もう周りの声とか、\r\nリミッターかかってないのに。",
-            "enText": "Why? I don't have a limiter on me anymore.",
+            "enText": "Why? I'm not holding myself back by<n>caring about\nwhat other people think<n>anymore.",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -1920719025379302505
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7103226769543800864
+                }
+            ],
             "pathId": -3402603740357849132,
             "blockIdx": 2
         },
@@ -27,28 +54,45 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "全部自分で、走ってるのに。\r\nこれじゃ楽しくないじゃん……！",
-            "enText": "All by myself, even though I'm running. \nThis isn't fun…!",
+            "enText": "I'm running just for me, and... and it<n>blows!",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "voiceIdx": 51,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "それでも君は走るんだろ？",
-                    "enText": "But you're still going to run, right?",
+                    "enText": "But you'll keep on running, right?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "それでも貴方は走るんだよね？",
-                    "enText": "But you're still going to run, right?",
+                    "enText": "But you'll keep on running, right?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "全部、君次第だ",
-                    "enText": "It's all up to you.",
+                    "enText": "It's all up to you now.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "全部、貴方次第だよ",
-                    "enText": "It's all up to you.",
+                    "enText": "It's all up to you now.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 3574596273998149650
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -9187285361769493725
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2598751902837242269
                 }
             ],
             "pathId": -3589713761056890716,
@@ -58,28 +102,45 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "全部自分で、走ってるのに。\r\nこれじゃ楽しくないじゃん……！",
-            "enText": "All by myself, even though I'm running. \nThis isn't fun…!",
+            "enText": "I'm running just for me, and... and it<n>blows!",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "voiceIdx": 51,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "それでも君は走るんだろ？",
-                    "enText": "But you're still going to run, right?",
+                    "enText": "But you'll keep on running, right?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "それでも貴方は走るんだよね？",
-                    "enText": "But you're still going to run, right?",
+                    "enText": "But you'll keep on running, right?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "全部、君次第だ",
-                    "enText": "It's all up to you.",
+                    "enText": "It's all up to you now.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "全部、貴方次第だよ",
-                    "enText": "It's all up to you.",
+                    "enText": "It's all up to you now.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -7997436698319649647
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1096977917304504901
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3205382340033626095
                 }
             ],
             "pathId": 243774121888994652,
@@ -89,8 +150,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……決まってる。\r\nアタシはもう、選んだんだ。",
-            "enText": "… It's obvious. I've \nalready made my choice.",
+            "enText": "Of course. I already made my decision.",
             "nextBlock": 6,
+            "origClipLength": 75,
+            "voiceIdx": 3,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -6422849363819283371
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -5603517716183233761
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1577369517475009680
+                }
+            ],
             "pathId": 2712295831742744392,
             "blockIdx": 5
         },
@@ -98,18 +176,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "何回負けたって関係ない。\r\nどんなにダサくても、勝つまでやる……！",
-            "enText": "It doesn't matter how many times you \nlose. No matter how lame it is, we'll \ndo it until we win…!",
+            "enText": "I don't care how many times I lose. No<n>matter how\nlame I look, I'll keep at it<n>until I win!",
             "nextBlock": 7,
+            "origClipLength": 88,
+            "voiceIdx": 69,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "君はその執念をちゃんと抱えてる",
-                    "enText": "You've got that obsession right.",
+                    "enText": "It's that determination that's always with you.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "貴方はその執念をちゃんと抱えてる",
-                    "enText": "You've got that obsession right.",
+                    "enText": "It's that determination that's always with you.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3679000893257920334
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -4138329669036454227
                 }
             ],
             "pathId": -7657736699669890226,
@@ -119,8 +210,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 8,
+            "origClipLength": 50,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -4120818563143157734
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -4050235863178520874
+                }
+            ],
             "pathId": -4266809662350955105,
             "blockIdx": 7
         },
@@ -128,8 +232,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "わかってんじゃん。\r\nそうだよ、アタシは勝ちたいんだ。",
-            "enText": "You know what I mean. Yes, I want to win.",
+            "enText": "You know it. I want to win.",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "voiceIdx": 9,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1816153647245111995
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -4906640153826897545
+                }
+            ],
             "pathId": 1176877747416069062,
             "blockIdx": 8
         },
@@ -137,8 +254,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ただアタシが、そうしたいから。\r\n走っていたいから……！",
-            "enText": "Just because I want to. Because \nI want to run…!",
+            "enText": "Because I want to keep running. That's<n>all there is\nto it!",
             "nextBlock": -1,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -2900789130510597048
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1802045943566908957
+                }
+            ],
             "pathId": -4015717256530178780,
             "blockIdx": 9
         },
@@ -146,13 +276,30 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 11,
+            "origClipLength": 50,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "楽しめないから、やめる？",
-                    "enText": "Stop because you don't enjoy it?",
+                    "enText": "So, do you want to give up because you're not\nhaving fun?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4071100465404053265
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3102833840716650385
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 7363709539993738441
                 }
             ],
             "pathId": 4544048163778483967,
@@ -162,8 +309,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "それは絶対ない！\r\nアンタもわかってんでしょ！？",
-            "enText": "That will never happen! You know \nwhat I'm talking about!",
+            "enText": "No way! You already know that!",
             "nextBlock": 12,
+            "origClipLength": 76,
+            "voiceIdx": 16,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 8259187735780915763
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5689645420382058990
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3784095464734395968
+                }
+            ],
             "pathId": 8493362704667634824,
             "blockIdx": 11
         },
@@ -171,8 +335,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "負けたら、悔しくてムカつくよ。\r\nけどそれがレースなんだ。",
-            "enText": "When I lose, I get frustrated and \npissed off. But that's racing.",
+            "enText": "Losing sucks. It's frustrating, but that's<n>how racing\nworks.",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6258674243464514960
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3874161339301401086
+                }
+            ],
             "pathId": 5496500892033422602,
             "blockIdx": 12
         },
@@ -180,8 +357,11 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アタシの選んだレースなんだ。\r\nだから絶対やめない！",
-            "enText": "It's the race I chose. That's \nwhy I will never stop!",
+            "enText": "And I chose to race, so I'm not giving up!",
             "nextBlock": 14,
+            "origClipLength": 78,
+            "voiceIdx": 51,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "ならやることはひとつだな",
@@ -194,6 +374,16 @@
                     "nextBlock": 14
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 7342731786496626577
+                },
+                {
+                    "origLen": 141,
+                    "pathId": 8023324975034957202
+                }
+            ],
             "pathId": -6092375807725445538,
             "blockIdx": 13
         },
@@ -201,8 +391,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……トレーナー、反省会やろ。\r\n今まで負けたレース全部振り返るよ。",
-            "enText": "… trainer, you're a reflective person. \nI'll look back at all the races I've lost.",
+            "enText": "Trainer, let's have a review session. I<n>want to go\nthrough every race I couldn't<n>win.",
             "nextBlock": 15,
+            "origClipLength": 88,
+            "voiceIdx": 68,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5301284736998313399
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4535160028022300945
+                }
+            ],
             "pathId": 5553198879558079956,
             "blockIdx": 14
         },
@@ -210,8 +413,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ダサい走りしてんの、見たくないけど。\r\n走り抜くだけじゃ、もう満足できないから！",
-            "enText": "I don't want to see you running lame. I just \ncan't get enough of running through it!",
+            "enText": "It's going to be so cringe watching<n>myself, but I\nneed to do more than just<n>run!",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "voiceIdx": 72,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 9169533401015640889
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 3147944312892292448
+                }
+            ],
             "pathId": -7733214730162876869,
             "blockIdx": 15
         }

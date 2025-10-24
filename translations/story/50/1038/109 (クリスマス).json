@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "HL3DFK7QGKFEMO3NVKT2FZBVE2F22HQF",
+    "version": 6,
+    "bundle": "T4KVXN6AFKHTE3ZRZIPKKF3O3225JQZA",
     "type": "story",
     "storyId": "501038109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "クリスマスを数日後に控えたある日。\r\nいつも通りのトレーニングを終えたあと……。",
-            "enText": "One day a few days before Christmas. After \nfinishing my training as usual, I went to ……",
+            "enText": "As the holidays approach, we're finishing<n>our\nusual training when I tell Curren<n>Chan I want to\nshow her something.",
             "nextBlock": 2,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4007658515641731385,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『スプリンターズS』で見事1着をとった\r\nカレンチャンへのプレゼントを、\n遅くなったが用意していた。それは――",
-            "enText": "I had prepared a present for Curren Chan, \nthe winner of the \"Sprinter's S.\" I had \nprepared a gift for Curren Chan, even \nthough it was late. It was…",
+            "enText": "It's a little late, but I've bought her a<n>present for\ngetting first place in the<n>Sprinters Stakes.",
             "nextBlock": 3,
             "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6076864585215755750,
             "blockIdx": 2
         },
@@ -29,18 +34,20 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "『ヴィセ・ノワール\r\nクリスマス限定ディナーチケット』……？",
-            "enText": "'Vise Noir Christmas Limited \nEdition Dinner Tickets' ……?",
+            "enText": "Reservations for Visee Noir's limited<n>holiday\ndinner course?",
             "nextBlock": 4,
             "origClipLength": 84,
+            "voiceIdx": 20,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "ああ",
-                    "enText": "Ah!",
+                    "enText": "That's right.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "うん",
-                    "enText": "yeah",
+                    "enText": "That's right.",
                     "nextBlock": 4
                 }
             ],
@@ -50,12 +57,12 @@
                     "pathId": 8381112274026842340
                 },
                 {
-                    "origLen": 136,
-                    "pathId": -5564465980020461109
-                },
-                {
                     "origLen": 181,
                     "pathId": 1180861033903529152
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -5564465980020461109
                 }
             ],
             "pathId": 4546470833156748306,
@@ -65,21 +72,23 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "すご～い！\r\nそのレストラン、超有名なところだよね？",
-            "enText": "Amazing! That restaurant \nis very famous, right?",
+            "enText": "That's totally amazing! This restaurant is<n>super\nfamous!",
             "nextBlock": 5,
             "origClipLength": 78,
+            "voiceIdx": 8,
+            "voiceSheetId": "051038001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 2753565356536914790
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 367090889950738864
-                },
-                {
                     "origLen": 89,
                     "pathId": -7867243864508557685
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 367090889950738864
                 }
             ],
             "pathId": 2670439447186853525,
@@ -89,17 +98,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "クリスマス時期になると\r\nウマスタでいつも話題になってるもん。",
-            "enText": "It's always talked about in Umasta around \nChristmas time.",
+            "enText": "It's all over Umastagram every winter.",
             "nextBlock": 6,
             "origClipLength": 85,
+            "voiceIdx": 9,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": 613960154042757208
-                },
                 {
                     "origLen": 96,
                     "pathId": 2459332667458522936
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 613960154042757208
                 }
             ],
             "pathId": -3032589306981231848,
@@ -109,24 +120,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "超がつくほどのプレミアチケット！\r\nどうやって手に入れたの？",
-            "enText": "Superbly premier tickets! \nHow did you get them?",
+            "enText": "It's so hard to get reservations here! How<n>did you\nmanage this?",
             "nextBlock": 7,
             "origClipLength": 84,
+            "voiceIdx": 52,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "まあ、色々……",
-                    "enText": "Well, various ……",
+                    "enText": "I have my ways...",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 75,
-                    "pathId": -276468622685802896
-                },
-                {
                     "origLen": 95,
                     "pathId": 8979402332295816909
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -276468622685802896
                 }
             ],
             "pathId": 4390679144304627440,
@@ -136,17 +149,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "徹底的にウマスタのトレンドをリサーチし、\r\n最終的に秋川理事長のツテを頼り、\n手に入れたチケット……。",
-            "enText": "After thoroughly researching the trends \nin Umasta, and finally relying on the \ncontacts of Chancellor Akikawa, we were \nable to obtain tickets for the event \nat . I obtained the ticket ……",
+            "enText": "I spent a long time researching trends on<n>\nUmastagram and then used Director<n>Akikawa's\nconnections to get the<n>reservations.",
             "nextBlock": 8,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 123,
-                    "pathId": -3015919998524971532
-                },
                 {
                     "origLen": 122,
                     "pathId": -3199318047301099293
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -3015919998524971532
                 }
             ],
             "pathId": -5938457747969081369,
@@ -156,17 +171,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……いっぱい考えてくれたんだね。\r\nありがとう、お兄ちゃん♪",
-            "enText": "You thought a lot about…… \nThank you, big brother… ♪",
+            "enText": "...You really thought hard about this for<n>me.\nThank you. ♪",
             "nextBlock": 9,
             "origClipLength": 84,
+            "voiceIdx": 12,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -5871599678791837043
-                },
                 {
                     "origLen": 95,
                     "pathId": 7389316144634441640
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -5871599678791837043
                 }
             ],
             "pathId": 6266171532103080702,
@@ -176,17 +193,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……いっぱい考えてくれたんだね。\r\nありがとう、お姉ちゃん♪",
-            "enText": "You thought a lot about…… Thanks, sis.Â",
+            "enText": "...You really thought hard about this for<n>me.\nThank you. ♪",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 12,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 6409155550386345637
-                },
                 {
                     "origLen": 95,
                     "pathId": -3964054833511469121
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 6409155550386345637
                 }
             ],
             "pathId": -2200320057254988756,
@@ -196,9 +215,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "カレンチャンも喜んでくれたようだ。\r\n何枚かあるので、同室のアドマイヤベガなど\n友人を誘ってもらえればと――",
-            "enText": "Curren Chan seemed pleased with it. \nI have several copies, including Admire \nVega in the same room. I hope you \nwill invite your friends―",
+            "enText": "Curren Chan seems happy. The<n>reservation is for\nmultiple people, so I<n>thought she could bring her\nroommate,<n>Admire Vega, or some other friends.",
             "nextBlock": 11,
             "origClipLength": 115,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "友だちと楽しんでおいで",
@@ -209,17 +230,17 @@
             "coloredText": [
                 {
                     "jpText": "アドマイヤベガ",
-                    "enText": "Admire Vega"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
                     "origLen": 126,
-                    "pathId": 5997173486531632283
+                    "pathId": -4216275492976156850
                 },
                 {
                     "origLen": 126,
-                    "pathId": -4216275492976156850
+                    "pathId": 5997173486531632283
                 }
             ],
             "pathId": 2133468131793746419,
@@ -229,17 +250,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "友だちと……？",
-            "enText": "Friends and ……?",
+            "enText": "...My friends?",
             "nextBlock": 12,
             "origClipLength": 54,
+            "voiceIdx": 110,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 2756987824173374948
-                },
                 {
                     "origLen": 65,
                     "pathId": -2137583414401060766
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2756987824173374948
                 }
             ],
             "pathId": 5319551716825797809,
@@ -249,13 +272,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……お兄ちゃんと、じゃなくて？",
-            "enText": "…… with your brother, not?",
+            "enText": "Not you?",
             "nextBlock": 13,
             "origClipLength": 64,
+            "voiceIdx": 78,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "それは……",
-                    "enText": "It can be found at ……",
+                    "enText": "Well...",
                     "nextBlock": 14
                 }
             ],
@@ -266,11 +291,11 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": -5858726846678288964
+                    "pathId": 3335110032791112094
                 },
                 {
                     "origLen": 75,
-                    "pathId": 3335110032791112094
+                    "pathId": -5858726846678288964
                 }
             ],
             "pathId": -8723855997613464355,
@@ -280,13 +305,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……お姉ちゃんと、じゃなくて？",
-            "enText": "…… with your sister, not?",
+            "enText": "Not you?",
             "nextBlock": 14,
             "origClipLength": 64,
+            "voiceIdx": 78,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "それは……",
-                    "enText": "It can be found at ……",
+                    "enText": "Well...",
                     "nextBlock": 14
                 }
             ],
@@ -297,11 +324,11 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": -3240268482781686726
+                    "pathId": -3564046007152704806
                 },
                 {
                     "origLen": 75,
-                    "pathId": -3564046007152704806
+                    "pathId": -3240268482781686726
                 }
             ],
             "pathId": -8179407151678976301,
@@ -311,21 +338,23 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……。",
-            "enText": "……",
+            "enText": "...",
             "nextBlock": 15,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 68,
                     "pathId": 1249359500216176126
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -4602542344178333898
-                },
-                {
                     "origLen": 59,
                     "pathId": -4026907203898457521
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -4602542344178333898
                 }
             ],
             "pathId": -6614406271029361988,
@@ -335,13 +364,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "ヤダッ！\r\nカレン、行かない。",
-            "enText": "No, no, no, no, no, no, no, no, no, no, no, \nno! Curren, I'm not going.",
+            "enText": "No way! I'm not going!",
             "nextBlock": 16,
             "origClipLength": 64,
+            "voiceIdx": 19,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "えっ",
-                    "enText": "What's up?",
+                    "enText": "What?",
                     "nextBlock": 16
                 }
             ],
@@ -351,12 +382,12 @@
                     "pathId": -2577507541220053878
                 },
                 {
-                    "origLen": 23,
-                    "pathId": 6073805514401401553
-                },
-                {
                     "origLen": 75,
                     "pathId": -2628188756052424283
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6073805514401401553
                 }
             ],
             "pathId": -8654849609184904596,
@@ -366,17 +397,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "珍しく、カレンチャンがはっきりと\r\nノーを突き付けてきた……。",
-            "enText": "Unusually, Curren Chan has \ncome out clearly no. ……",
+            "enText": "It's unusual for Curren Chan to refuse<n>something\nso vehemently...",
             "nextBlock": 17,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
-                    "pathId": 7014319537792340867
+                    "pathId": -8258592685368129458
                 },
                 {
                     "origLen": 96,
-                    "pathId": -8258592685368129458
+                    "pathId": 7014319537792340867
                 }
             ],
             "pathId": 3766701714743537055,
@@ -386,17 +419,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お兄ちゃん、ズルしてる。",
-            "enText": "Big brother, you're cheating.",
+            "enText": "You don't get it.",
             "nextBlock": 18,
             "origClipLength": 60,
+            "voiceIdx": 15,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": 5491477495086782007
-                },
                 {
                     "origLen": 71,
                     "pathId": -4110343623435348441
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 5491477495086782007
                 }
             ],
             "pathId": -2150252952805822826,
@@ -406,17 +441,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お姉ちゃん、ズルしてる。",
-            "enText": "Sis, you're cheating.",
+            "enText": "You don't get it.",
             "nextBlock": 19,
             "origClipLength": 60,
+            "voiceIdx": 15,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -2432481755624332955
-                },
                 {
                     "origLen": 71,
                     "pathId": 1660930934934266390
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -2432481755624332955
                 }
             ],
             "pathId": -7478253090431457575,
@@ -426,17 +463,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "カレンのためにがんばって、\r\n考えて行動してくれたのはありがとう。\nその気持ちは、もちろんうれしいよ？",
-            "enText": "Thank you for doing your best for Curren, for \nthinking and acting on her behalf. I'm glad \nyou feel that way, of course.",
+            "enText": "And don't get me wrong, I'm really<n>grateful.\nThank you for being so<n>thoughtful and doing\nsomething like this<n>for me.",
             "nextBlock": 20,
             "origClipLength": 111,
+            "voiceIdx": 35,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 2610337532547067160
-                },
                 {
                     "origLen": 122,
                     "pathId": -7072611907863918448
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 2610337532547067160
                 }
             ],
             "pathId": -2886861735767331004,
@@ -446,17 +485,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "でも……\r\nカレンが1番うれしいことじゃない。",
-            "enText": "But…… isn't the one Curren is happiest about.",
+            "enText": "But... this isn't what would make me<n>happiest.",
             "nextBlock": 21,
             "origClipLength": 75,
+            "voiceIdx": 17,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -3607187596061062060
-                },
                 {
                     "origLen": 86,
                     "pathId": 4014042095231798498
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3607187596061062060
                 }
             ],
             "pathId": -1436901231383645543,
@@ -466,21 +507,23 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "わかってるくせに、\r\nわざと目を逸らしてるでしょ。",
-            "enText": "You know what I'm talking about, but you're \ndeliberately looking away.",
+            "enText": "Deep down, you know that, don't you?<n><i>Don't\nyou?</i>",
             "nextBlock": 22,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 81,
                     "pathId": 9197650571730693261
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 2138176384312170502
-                },
-                {
                     "origLen": 88,
                     "pathId": 4696184161616213045
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2138176384312170502
                 }
             ],
             "pathId": -1526988797389078787,
@@ -490,13 +533,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "大人だもんね、お兄ちゃんは。",
-            "enText": "You're an adult, big brother.",
+            "enText": "And here I thought adults were<n>supposed to be\n<i>smart.</i>",
             "nextBlock": 23,
             "origClipLength": 63,
+            "voiceIdx": 78,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "……!",
+                    "enText": "...!",
                     "nextBlock": 24
                 }
             ],
@@ -506,12 +551,12 @@
                     "pathId": 4326449170235332003
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -1784566181402437226
-                },
-                {
                     "origLen": 74,
                     "pathId": -3174269789675934754
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1784566181402437226
                 }
             ],
             "pathId": -3922886268415914854,
@@ -521,13 +566,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "大人だもんね、お姉ちゃんは。",
-            "enText": "You're an adult, sister.",
+            "enText": "And here I thought adults were<n>supposed to be\n<i>smart.</i>",
             "nextBlock": 24,
             "origClipLength": 63,
+            "voiceIdx": 78,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "……!",
+                    "enText": "...!",
                     "nextBlock": 24
                 }
             ],
@@ -537,12 +584,12 @@
                     "pathId": 4947535420288297087
                 },
                 {
-                    "origLen": 75,
-                    "pathId": 8943166942457645718
-                },
-                {
                     "origLen": 74,
                     "pathId": -3614401603170291527
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8943166942457645718
                 }
             ],
             "pathId": -2444151271480513606,
@@ -552,17 +599,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……だからチケットは受け取らない。\r\n今はねっ？",
-            "enText": "I don't accept tickets because \nof…… Now, right?",
+            "enText": "...In any case, I can't accept this gift. Not<n>now,\nanyway.",
             "nextBlock": 25,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": -910156841852437419
-                },
                 {
                     "origLen": 87,
                     "pathId": 7611379046075807288
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -910156841852437419
                 }
             ],
             "pathId": 237457810849783294,
@@ -572,17 +621,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "まだ期限あるみたいだし、カレンが\r\nもう少し大人になるまで待っててほしいの。",
-            "enText": "It sounds like you still have a deadline, \nand I'd like you to wait until Curren \nis a little older.",
+            "enText": "They don't expire for a while, so wait<n>until I'm\nmore of a smart adult too, 'kay?",
             "nextBlock": 26,
             "origClipLength": 94,
+            "voiceIdx": 70,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": 5437404682717140339
-                },
                 {
                     "origLen": 105,
                     "pathId": 6239030150663960224
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5437404682717140339
                 }
             ],
             "pathId": 5780482710885069875,
@@ -592,17 +643,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "その代わり――",
-            "enText": "Instead―",
+            "enText": "Instead...",
             "nextBlock": 27,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -420365043300139210
-                },
                 {
                     "origLen": 65,
                     "pathId": -4892836090345967902
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -420365043300139210
                 }
             ],
             "pathId": -2714747454242997763,
@@ -612,17 +665,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――迎えたクリスマス当日。",
-            "enText": "―Christmas Day arrived.",
+            "enText": "We decide to celebrate the holidays a<n>few days\nlater. When the day comes...",
             "nextBlock": 28,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 36,
-                    "pathId": 515042979022204926
+                    "pathId": 8061754750827466458
                 },
                 {
                     "origLen": 36,
-                    "pathId": 8061754750827466458
+                    "pathId": 515042979022204926
                 }
             ],
             "pathId": -1465888823858747909,
@@ -632,17 +687,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お兄ちゃん、こっちこっち～♪",
-            "enText": "Big brother, this way, this way～♪",
+            "enText": "Big Bro! This way! ♪",
             "nextBlock": 29,
             "origClipLength": 63,
+            "voiceIdx": 56,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 112,
-                    "pathId": 1432199464248254957
-                },
                 {
                     "origLen": 108,
                     "pathId": -5634048290846402800
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 1432199464248254957
                 }
             ],
             "pathId": -2467355428128316891,
@@ -652,17 +709,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お姉ちゃん、こっちこっち～♪",
-            "enText": "Sis, this way, this way～♪",
+            "enText": "Big Sis! This way! ♪",
             "nextBlock": 30,
             "origClipLength": 63,
+            "voiceIdx": 56,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 112,
-                    "pathId": 6344908037612676987
-                },
                 {
                     "origLen": 108,
                     "pathId": -418741465992446755
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 6344908037612676987
                 }
             ],
             "pathId": 2387458412658603757,
@@ -672,21 +731,23 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "向こうにね、クリスマス限定\r\nケーキが出てるの！",
-            "enText": "Over there, they have a limited edition \nChristmas cake!",
+            "enText": "They're selling seasonal cakes over<n>there!",
             "nextBlock": 31,
             "origClipLength": 76,
+            "voiceIdx": 53,
+            "voiceSheetId": "051038001",
             "animData": [
                 {
                     "origLen": 85,
                     "pathId": 4164412776965746638
                 },
                 {
-                    "origLen": 57,
-                    "pathId": 7403298121390584718
-                },
-                {
                     "origLen": 87,
                     "pathId": 2641578794537361635
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 7403298121390584718
                 }
             ],
             "pathId": 6704864058790093924,
@@ -696,13 +757,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "カレン食べたーい♪",
-            "enText": "I want to eat Curren!",
+            "enText": "I really want one! ♪",
             "nextBlock": 32,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "寄ってみようか",
-                    "enText": "Let's stop by.",
+                    "enText": "Let's go check it out.",
                     "nextBlock": 32
                 }
             ],
@@ -712,12 +775,12 @@
                     "pathId": -8391782043183174619
                 },
                 {
-                    "origLen": 38,
-                    "pathId": 5907026814884532911
-                },
-                {
                     "origLen": 67,
                     "pathId": 3492735598049136862
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 5907026814884532911
                 }
             ],
             "pathId": -1651672288391367266,
@@ -727,17 +790,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "うんっ♪",
-            "enText": "♪ Yeah. ♪",
+            "enText": "Yay! ♪",
             "nextBlock": 33,
             "origClipLength": 50,
+            "voiceIdx": 75,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -6601624645070316155
-                },
                 {
                     "origLen": 61,
                     "pathId": 4213575376478280812
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -6601624645070316155
                 }
             ],
             "pathId": 2461708208227383982,
@@ -747,29 +812,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "カレンチャンの要望で、\r\nイルミネーションの輝く街中を\n歩いていた。しかし……。",
-            "enText": "At Curren Chan's request, I was walking \nthrough the city's illuminated streets. But ……",
+            "enText": "At Curren Chan's request, we walk<n>through the\ntown decorated with lights.<n>But...",
             "nextBlock": 34,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "本当にこれだけでいいのか？",
-                    "enText": "Are you sure this is all you want?",
+                    "enText": "Is this really enough?",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "本当にこれだけでいいの？",
-                    "enText": "Are you sure this is all you want?",
+                    "enText": "Is this really enough?",
                     "nextBlock": 34
                 }
             ],
             "animData": [
                 {
                     "origLen": 108,
-                    "pathId": -4958128936939381977
+                    "pathId": 8248395947677990769
                 },
                 {
                     "origLen": 108,
-                    "pathId": 8248395947677990769
+                    "pathId": -4958128936939381977
                 }
             ],
             "pathId": -8083732837767693778,
@@ -779,17 +846,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "これだけって……\r\nクリスマスデートしてるんだよ？\nけっこう大したことだと思うけどな。",
-            "enText": "So much for…… Christmas dates, right? I think \nit's a pretty big deal.",
+            "enText": "Why wouldn't it be? We're celebrating<n>the\nholidays with a <i>date!</i> I think this is<n>more than\nenough of  a present.",
             "nextBlock": 35,
             "origClipLength": 101,
+            "voiceIdx": 30,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": 4819847418367621406
-                },
                 {
                     "origLen": 112,
                     "pathId": -2652713719839368260
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4819847418367621406
                 }
             ],
             "pathId": 6875041669921703605,
@@ -799,17 +868,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……まあ、今はまだ、\r\nお兄ちゃんにその意識がなくてもいいかな。",
-            "enText": "…… Well, I hope your brother doesn't need \nthat awareness just yet.",
+            "enText": "...Although, I suppose it's okay that you<n>keep\nthinking of this as just another<n>hangout.",
             "nextBlock": 36,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 6523569873446726743
-                },
                 {
                     "origLen": 97,
                     "pathId": 5895560271124303997
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 6523569873446726743
                 }
             ],
             "pathId": 3210165195672701240,
@@ -819,17 +890,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……まあ、今はまだ、\r\nお姉ちゃんにその意識がなくてもいいかな。",
-            "enText": "…… Well, I hope your sister doesn't need that \nawareness just yet.",
+            "enText": "...Although, I suppose it's okay that you<n>keep\nthinking of this as just another<n>hangout.",
             "nextBlock": 37,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 7244084665490899954
-                },
                 {
                     "origLen": 97,
                     "pathId": 71288203630014908
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 7244084665490899954
                 }
             ],
             "pathId": 5846295028779350133,
@@ -839,17 +912,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "カレンもしばらくは子どもで\r\nいるつもりだもん。",
-            "enText": "Curren plans to stay a child for a while.",
+            "enText": "I wanna be a kid for a little bit longer<n>anyway.",
             "nextBlock": 38,
             "origClipLength": 76,
+            "voiceIdx": 0,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -6494524632083976135
-                },
                 {
                     "origLen": 87,
                     "pathId": 2283770313473710555
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -6494524632083976135
                 }
             ],
             "pathId": -6959572220211310513,
@@ -859,17 +934,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "だ・か・ら～……。",
-            "enText": "Duh… that's why～……",
+            "enText": "Soooo!",
             "nextBlock": 39,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 7530230518711041890
-                },
                 {
                     "origLen": 67,
                     "pathId": -6278705028727801696
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 7530230518711041890
                 }
             ],
             "pathId": -1472239061883301441,
@@ -879,17 +956,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "まだまだ大人扱いしないで、\r\nい～っぱい甘やかしてねっ♪",
-            "enText": "Don't treat me like an adult yet, please \nspoil me a lot.",
+            "enText": "Don't treat me too much like an adult<n>yet. I still\nwant you to spoil me! ♪",
             "nextBlock": 40,
             "origClipLength": 81,
+            "voiceIdx": 74,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 4,
-                    "pathId": 3933961064320337348
-                },
                 {
                     "origLen": 92,
                     "pathId": 2866657182562046531
+                },
+                {
+                    "origLen": 4,
+                    "pathId": 3933961064320337348
                 }
             ],
             "pathId": -8945739167110620186,
@@ -899,17 +978,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "カレンチャンにたっぷり甘えられ、\r\nクリスマスの夜は過ぎていった……。",
-            "enText": "Christmas night passed with plenty of \npampering from Curren Chan. ……",
+            "enText": "And so, Curren Chan spends the rest of<n>the night\nmaking me spoil her.",
             "nextBlock": -1,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -4329633698574389199
-                },
                 {
                     "origLen": 28,
                     "pathId": -5891656822332652996
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -4329633698574389199
                 }
             ],
             "pathId": 578529363369563322,
@@ -919,17 +1000,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "ん～……いい眺め！\r\nけっこうキレイに見えるね？",
-            "enText": "Hmmm……… nice view! Looks \npretty neat, doesn't it?",
+            "enText": "<i>Sigh...</i> What a beautiful view! Don't you<n>think so?",
             "nextBlock": 42,
             "origClipLength": 76,
+            "voiceIdx": 7,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 121,
-                    "pathId": -6571548719929293430
-                },
                 {
                     "origLen": 119,
                     "pathId": 4381292446291182553
+                },
+                {
+                    "origLen": 121,
+                    "pathId": -6571548719929293430
                 }
             ],
             "pathId": 1496668101712296423,
@@ -939,17 +1022,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "通常のトレーニングをこなした後、\r\nカレンチャンの要望で\n夜景の見える丘まで足を伸ばしていた。",
-            "enText": "After our regular training session, at Curren \nChan's request, we had ventured up to the \nhills with a night view.",
+            "enText": "After our normal training, Curren Chan<n>asks me to\nwalk up a hill with her to see<n>the nighttime\ncityscape.",
             "nextBlock": 43,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 117,
-                    "pathId": -5390512157694427015
+                    "pathId": 545411888946436918
                 },
                 {
                     "origLen": 117,
-                    "pathId": 545411888946436918
+                    "pathId": -5390512157694427015
                 }
             ],
             "pathId": -5511869236903845427,
@@ -959,17 +1044,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……夜景を見てると、\r\nいろいろ考えちゃうよね。",
-            "enText": "……When I look at the night view, I think \nabout many things.",
+            "enText": "...The view at night really gets you<n>thinking.",
             "nextBlock": 44,
             "origClipLength": 76,
+            "voiceIdx": 74,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": 1034498272684379399
-                },
                 {
                     "origLen": 87,
                     "pathId": 5771614707196548692
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 1034498272684379399
                 }
             ],
             "pathId": -5569324787561696185,
@@ -979,17 +1066,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "あの明かりひとつひとつに、\r\n誰かがいて……。",
-            "enText": "Every single one of those lights, \nthere is someone at ……",
+            "enText": "There's someone on the other end of<n>every single\none of those lights...",
             "nextBlock": 45,
             "origClipLength": 75,
+            "voiceIdx": 84,
+            "voiceSheetId": "051038001",
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": 8817662789782285325
+                    "pathId": 2972337979582123696
                 },
                 {
                     "origLen": 26,
-                    "pathId": 2972337979582123696
+                    "pathId": 8817662789782285325
                 }
             ],
             "pathId": 7851826040050634592,
@@ -999,9 +1088,11 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "――でもその中には、まだ\r\nカレンを知らない人たちもいるの。",
-            "enText": "―But some of them don't even know Curren yet.",
+            "enText": "And some of them don't even know who<n>I am yet.",
             "nextBlock": 46,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -932426038494287853,
             "blockIdx": 45
         },
@@ -1009,9 +1100,11 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "世界中の明かり全部がカワイイで灯るまで、\r\nカレンは歩みを止められないな。",
-            "enText": "Curren won't stop until all the lights in the \nworld are lit up with kawaii.",
+            "enText": "I can't stop until all of the lights in the<n>world shine\nwith cuteness.",
             "nextBlock": 47,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8704761917515699236,
             "blockIdx": 46
         },
@@ -1019,17 +1112,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『カワイイで灯る』の意味はよく\r\nわからないが……クリスマスでも、\n彼女のストイックさは変わらないようだ。",
-            "enText": "I'm not sure what \"kawaii de lite\" means.…… \neven at Christmas. I'm not sure what \"kawaii \nde lite\" means, but it seems that her \nstoicism is the same even at Christmas.",
+            "enText": "I'm not sure what \"shine with cuteness\"<n>means...\nbut even on the holidays, she's<n>thinking about her\ngoals.",
             "nextBlock": 48,
             "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 158,
-                    "pathId": -1354690917783214058
-                },
                 {
                     "origLen": 164,
                     "pathId": 7235611702981373592
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -1354690917783214058
                 }
             ],
             "pathId": 2549508888577972575,
@@ -1039,24 +1134,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "それに……お兄ちゃんに意地を\r\n張っちゃうようじゃ、カレンもまだ未熟。",
-            "enText": "Besides, Curren is still immature if she is \ngoing to be so stubborn with her…… brother.",
+            "enText": "But... I've got a long way to go before<n>that. I\nmean, I'm still pushing you around<n>all the time.",
             "nextBlock": 49,
             "origClipLength": 90,
+            "voiceIdx": 14,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "意地って……",
-                    "enText": "Meaning ……",
+                    "enText": "What do you mean?",
                     "nextBlock": 50
                 }
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": 4320532647274798782
-                },
-                {
                     "origLen": 101,
                     "pathId": 6561987132450951115
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 4320532647274798782
                 }
             ],
             "pathId": 4003588005231981935,
@@ -1066,24 +1163,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "それに……お姉ちゃんに意地を\r\n張っちゃうようじゃ、カレンもまだ未熟。",
-            "enText": "Besides, Curren is still immature if she is \ngoing to be so stubborn with her…… sister.",
+            "enText": "But... I've got a long way to go before<n>that. I\nmean, I'm still pushing you around<n>all the time.",
             "nextBlock": 50,
             "origClipLength": 90,
+            "voiceIdx": 14,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "意地って……",
-                    "enText": "Meaning ……",
+                    "enText": "What do you mean?",
                     "nextBlock": 50
                 }
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": -3073944760110406781
-                },
-                {
                     "origLen": 101,
                     "pathId": 1748857308543100308
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -3073944760110406781
                 }
             ],
             "pathId": 6559933254659358889,
@@ -1093,17 +1192,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "『クリスマスチケット』のこと……\r\nごめんね？",
-            "enText": "The \"Christmas Ticket\" thing…… Sorry?",
+            "enText": "Like... with the holiday reservations you<n>gave me.\nSorry for rejecting them.",
             "nextBlock": 51,
             "origClipLength": 75,
+            "voiceIdx": 143,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": -5081943946192611763
-                },
                 {
                     "origLen": 86,
                     "pathId": 676661682077985377
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5081943946192611763
                 }
             ],
             "pathId": -1053447147127058910,
@@ -1113,17 +1214,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "カレンのこと、いっぱい考えてくれたの、\r\n本当にうれしかったんだよ。",
-            "enText": "I was really happy that you thought \nso much about Curren.",
+            "enText": "You put a lot of thought into that gift,<n>and I was\nreally happy.",
             "nextBlock": 52,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -7522906993115583481
-                },
                 {
                     "origLen": 100,
                     "pathId": 9205505118518440521
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -7522906993115583481
                 }
             ],
             "pathId": 4435035471628774237,
@@ -1133,13 +1236,15 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "でも……やっぱりズルいもん。",
-            "enText": "But…… is still cheating.",
+            "enText": "But... I still think you messed up on the<n>details.",
             "nextBlock": 53,
             "origClipLength": 63,
+            "voiceIdx": 17,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "いいよ",
-                    "enText": "All right.",
+                    "enText": "It's okay.",
                     "nextBlock": 53
                 }
             ],
@@ -1149,12 +1254,12 @@
                     "pathId": -1966358144286521456
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -1489581976336862025
-                },
-                {
                     "origLen": 74,
                     "pathId": 406273267799931243
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1489581976336862025
                 }
             ],
             "pathId": -5843020667765271561,
@@ -1164,18 +1269,20 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……怒ってないの？",
-            "enText": "You're not mad at ……?",
+            "enText": "You mean you're not mad?",
             "nextBlock": 54,
             "origClipLength": 56,
+            "voiceIdx": 76,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "意地を張ってもらえるのは特権だろう",
-                    "enText": "It would be a privilege to \nhave them be stubborn.",
+                    "enText": "I feel kind of privileged that you can push me\naround.",
                     "nextBlock": 54
                 },
                 {
                     "jpText": "意地を張ってもらえるのは特権でしょ",
-                    "enText": "It's a privilege to be able to be stubborn.",
+                    "enText": "I feel kind of privileged that you can push me\naround.",
                     "nextBlock": 54
                 }
             ],
@@ -1185,12 +1292,12 @@
                     "pathId": -6856698264328765113
                 },
                 {
-                    "origLen": 75,
-                    "pathId": 3782054673901661987
-                },
-                {
                     "origLen": 67,
                     "pathId": -1843343764034517927
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3782054673901661987
                 }
             ],
             "pathId": -914753116217185405,
@@ -1200,21 +1307,23 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……！",
-            "enText": "……!",
+            "enText": "...!",
             "nextBlock": 55,
             "origClipLength": 48,
+            "voiceIdx": 111,
+            "voiceSheetId": "051038001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -6345580129616827817
                 },
                 {
-                    "origLen": 35,
-                    "pathId": -3865506705363172709
-                },
-                {
                     "origLen": 59,
                     "pathId": 3785369777717761386
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -3865506705363172709
                 }
             ],
             "pathId": -8647611846781172650,
@@ -1224,17 +1333,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……あーあ。\r\nカレン、やっぱりまだ未熟だなぁ。",
-            "enText": "…… Ahhhh. Curren, I guess I'm still immature.",
+            "enText": "Ugh... I really do have a long way to go.",
             "nextBlock": 56,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": 8723868165206574785
-                },
                 {
                     "origLen": 87,
                     "pathId": -4544167662727772202
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 8723868165206574785
                 }
             ],
             "pathId": 6324125756405517289,
@@ -1244,24 +1355,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お兄ちゃんに、\r\nドキッとさせられちゃった。",
-            "enText": "My brother made me so excited.",
+            "enText": "You made my heart skip a beat for a<n>second\nthere.",
             "nextBlock": 57,
             "origClipLength": 73,
+            "voiceIdx": 74,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "えっ",
-                    "enText": "What's up?",
+                    "enText": "What?",
                     "nextBlock": 58
                 }
             ],
             "animData": [
                 {
-                    "origLen": 90,
-                    "pathId": -6562216024725447372
-                },
-                {
                     "origLen": 84,
                     "pathId": -7650404180864625007
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6562216024725447372
                 }
             ],
             "pathId": 7094777755628818037,
@@ -1271,24 +1384,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "お姉ちゃんに、\r\nドキッとさせられちゃった。",
-            "enText": "My sister made me so excited.",
+            "enText": "You made my heart skip a beat for a<n>second\nthere.",
             "nextBlock": 58,
             "origClipLength": 73,
+            "voiceIdx": 74,
+            "voiceSheetId": "051038001",
             "choices": [
                 {
                     "jpText": "えっ",
-                    "enText": "What's up?",
+                    "enText": "What?",
                     "nextBlock": 58
                 }
             ],
             "animData": [
                 {
-                    "origLen": 90,
-                    "pathId": 4551901734833587400
-                },
-                {
                     "origLen": 84,
                     "pathId": 2099771987808499206
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 4551901734833587400
                 }
             ],
             "pathId": -4879487680681149975,
@@ -1298,17 +1413,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "えへへっ……。",
-            "enText": "Hehehe. ……",
+            "enText": "Ehehe...",
             "nextBlock": 59,
             "origClipLength": 76,
+            "voiceIdx": 4,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": -5044383331525790751
-                },
                 {
                     "origLen": 91,
                     "pathId": -757236644853681095
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -5044383331525790751
                 }
             ],
             "pathId": 2913480193427317650,
@@ -1318,17 +1435,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "もっともっとカワイイを極めて、\r\nとびきり素敵なカレンにならなくちゃね。",
-            "enText": "I must become more and more kawaii, and \nbecome a very nice Curren.",
+            "enText": "I'm gonna master cuteness and become<n>an even\nmore wonderful me.",
             "nextBlock": 60,
             "origClipLength": 91,
+            "voiceIdx": 9,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -1804649281819942264
-                },
                 {
                     "origLen": 102,
                     "pathId": -429061002014662684
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1804649281819942264
                 }
             ],
             "pathId": -2138324724984806377,
@@ -1338,17 +1457,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "うん、やっぱり今年はこれでいいの。\r\nお兄ちゃんとおしゃべりする時間、\n好きだもん。でもね……。",
-            "enText": "Yeah, I knew this was the year to do it. I \nlike to spend time talking with my brother. I \nlike to spend time chatting with my brother. \nBut you know… ……",
+            "enText": "Yeah. I think that's good for this year. I<n>love all\nthe time I get to spend talking<n>to you. But, you\nknow...",
             "nextBlock": 61,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": 7858924339607138103
-                },
                 {
                     "origLen": 118,
                     "pathId": -5662074319743357186
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 7858924339607138103
                 }
             ],
             "pathId": -5443828318942107461,
@@ -1358,17 +1479,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "うん、やっぱり今年はこれでいいの。\r\nお姉ちゃんとおしゃべりする時間、\n好きだもん。でもね……。",
-            "enText": "Yeah, I knew this was the year to do it. I \nlike to spend time chatting with my sister. I \nlike to spend time chatting with my brother. \nBut you know… ……",
+            "enText": "Yeah. I think that's good for this year. I<n>love all\nthe time I get to spend talking<n>to you. But, you\nknow...",
             "nextBlock": 62,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": 3459568774761451221
-                },
                 {
                     "origLen": 118,
                     "pathId": 402152793058809580
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 3459568774761451221
                 }
             ],
             "pathId": 5327453894232479300,
@@ -1378,17 +1501,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "カレンが、ほしいものは全部\r\n手に入れる子だってもうわかってるでしょ？\n来年は……。",
-            "enText": "You already know Curren is the \ngirl who gets everything she wants. \nNext year, she'll be at ……",
+            "enText": "I'm the kind of girl who gets whatever<n>she wants,\nright? So next year...",
             "nextBlock": 63,
             "origClipLength": 99,
+            "voiceIdx": 52,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": -3830104664573278022
-                },
                 {
                     "origLen": 110,
                     "pathId": -2217130841259308119
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3830104664573278022
                 }
             ],
             "pathId": 776451317726853080,
@@ -1398,24 +1523,26 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "クリスマスもいっしょにいたいって、\r\n言わせてみせるから。",
-            "enText": "I will make you say, \"I want \nto be with you at Christmas.",
+            "enText": "I'm gonna make you say you wanna<n>spend the\nholidays with me too.",
             "nextBlock": 64,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "……!",
+                    "enText": "...!",
                     "nextBlock": 64
                 }
             ],
             "animData": [
                 {
-                    "origLen": 79,
-                    "pathId": -2508673705124455522
-                },
-                {
                     "origLen": 93,
                     "pathId": -6294934932526910928
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2508673705124455522
                 }
             ],
             "pathId": 4907918922345198568,
@@ -1425,17 +1552,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "……ふっ。",
-            "enText": "…… phew.",
+            "enText": "...Pft.",
             "nextBlock": 65,
             "origClipLength": 51,
+            "voiceIdx": 3,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 5052721510677198403
-                },
                 {
                     "origLen": 62,
                     "pathId": -2599423169920810216
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5052721510677198403
                 }
             ],
             "pathId": -62163900557085252,
@@ -1445,17 +1574,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "えへ、楽しみにしててね？\r\nお兄ちゃんっ♪",
-            "enText": "Hehe, look forward to it, okay? Big brother!",
+            "enText": "Ehe. Just you wait. ♪",
             "nextBlock": 66,
             "origClipLength": 72,
+            "voiceIdx": 0,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": 6943913097823205260
-                },
                 {
                     "origLen": 83,
                     "pathId": -5392537032712139786
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 6943913097823205260
                 }
             ],
             "pathId": 7054537518632636101,
@@ -1465,17 +1596,19 @@
             "jpName": "カレンチャン",
             "enName": "Curren Chan",
             "jpText": "えへ、楽しみにしててね？\r\nお姉ちゃんっ♪",
-            "enText": "Hehe, look forward to it, okay? Sis!",
+            "enText": "Ehe. Just you wait. ♪",
             "nextBlock": 67,
             "origClipLength": 72,
+            "voiceIdx": 0,
+            "voiceSheetId": "051038001",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": -4788252925710012779
-                },
                 {
                     "origLen": 83,
                     "pathId": -4435484174560185211
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -4788252925710012779
                 }
             ],
             "pathId": -4744715878898947714,
@@ -1485,22 +1618,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後もしばらく星を見ながら、\r\nいつまでもカレンチャンと\nおしゃべりをしていた……。",
-            "enText": "After that, I chatted with Curren \nChan forever while looking at \nthe stars for a while. ……",
+            "enText": "We stay put a little while longer, looking<n>at the\nstars and talking endlessly to each<n>other.",
             "nextBlock": -1,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 34,
-                    "pathId": 3240580529377223713
+                    "pathId": 8233755887818108726
                 },
                 {
                     "origLen": 34,
-                    "pathId": 8233755887818108726
+                    "pathId": 3240580529377223713
                 }
             ],
             "pathId": -1734825062139304028,
             "blockIdx": 67
         }
-    ],
-    "modified": 1657555059
+    ]
 }

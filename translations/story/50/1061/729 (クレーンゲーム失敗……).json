@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "MBWNT6INRYFNX4JEPF4VIDNUMMPP75SF",
+    "version": 6,
+    "bundle": "MFRFPEV7DAVOZAJAXCN24DCCSJYH6WAB",
     "type": "story",
     "storyId": "501061729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "な、なんですって……！？",
-            "enText": "What the heck is…?",
+            "enText": "Wh-what are you doing?!",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 66,
+            "voiceSheetId": "051061001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry…",
+                    "enText": "I'm sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry…",
+                    "enText": "I'm sorry...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8610508141261633307
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1411448026510095038
                 }
             ],
             "pathId": -2651024664083631204,
@@ -30,8 +44,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "もうっ、このへっぽこ！\r\n謝ったって何も解決しないじゃない！",
-            "enText": "Come on, you little punk! Apologizing isn't \ngoing to solve anything!",
+            "enText": "Ugh, you dummy! Apologizing  won't fix<n>anything!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "voiceIdx": 16,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 7624687759306282694
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 5516282755117761186
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8029366358968936566
+                }
+            ],
             "pathId": -8115182148717109240,
             "blockIdx": 2
         },
@@ -39,18 +70,35 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "あなたがキングのために努力した経験は、\r\n今後に活かすことにしなさい。いいわね？",
-            "enText": "The work you've done for King will be put \nto good use in the future. Is that clear?",
+            "enText": "Take this experience as a lesson so you<n>can do\nbetter next time for your king.<n>Understand?",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "voiceIdx": 18,
+            "voiceSheetId": "051061001",
             "choices": [
                 {
                     "jpText": "……そうだな",
-                    "enText": "… I guess.",
+                    "enText": "Yes...",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "……そうだね",
-                    "enText": "… Yeah.",
+                    "enText": "Yes...",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2722732981514735017
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -8644829977933575756
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6716526271420653243
                 }
             ],
             "pathId": -5232485077907632978,
@@ -60,8 +108,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ふんっ、この程度で落ち込むと思わないで。\r\n私は気持ちの切り替えだって一流よっ……！",
-            "enText": "Don't expect me to be depressed about this. \nI'm top notch at changing my mind…!",
+            "enText": "Hmph. But don't you worry. A tiny<n>failure like this\nwon't get me down. A<n>first-rate Umamusume\nknows how to<n>rebound!",
             "nextBlock": 5,
+            "origClipLength": 99,
+            "voiceIdx": 3,
+            "voiceSheetId": "051061001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": 9002991292211428693
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 1645979891839885814
+                }
+            ],
             "pathId": 7208116596071802285,
             "blockIdx": 4
         },
@@ -69,8 +130,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "A disappointing result…",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -6312523400696108686
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -6290462040612409185
+                }
+            ],
             "pathId": -2772168483386247777,
             "blockIdx": 5
         }

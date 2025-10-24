@@ -1,33 +1,36 @@
 {
-    "version": 5,
-    "bundle": "ROIVSNO3Y45MIX5SIFZUMJWJQ4FQQTXV",
+    "version": 6,
+    "bundle": "XVASGQBMY5O2OAIEAMONXUOY3RKMGDOL",
     "type": "story",
     "storyId": "501026312",
     "title": "天皇賞（春）の後に・『嬉しい』",
+    "enTitle": "After the Tenno Sho (Spring): Joy",
     "text": [
         {
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……ッ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 2,
             "origClipLength": 50,
+            "voiceIdx": 111,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": 6330999329330607866
-                },
                 {
                     "origLen": 61,
                     "pathId": -3257540752211609359
                 },
                 {
                     "origLen": 61,
-                    "pathId": -6686168370826105564
+                    "pathId": 6330999329330607866
                 },
                 {
                     "origLen": 61,
                     "pathId": -1567865284833283535
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -6686168370826105564
                 }
             ],
             "pathId": -2146089536813326983,
@@ -37,25 +40,27 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "はぁ……はぁ……っ。",
-            "enText": "Haha… haha…",
+            "enText": "<i>Pant... Pant...</i>",
             "nextBlock": 3,
             "origClipLength": 58,
+            "voiceIdx": 111,
+            "voiceSheetId": "051030001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 7232701235205482167
+                },
                 {
                     "origLen": 69,
                     "pathId": -4442992147335047585
                 },
                 {
                     "origLen": 69,
-                    "pathId": 7232701235205482167
+                    "pathId": 445723932093363621
                 },
                 {
                     "origLen": 15,
                     "pathId": -5650207001773926961
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 445723932093363621
                 }
             ],
             "pathId": -23868011884336200,
@@ -65,37 +70,39 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……はぁ……はぁ……。",
-            "enText": "… haha… haha…",
+            "enText": "<i>Huff... Puff...</i>",
             "nextBlock": 4,
             "origClipLength": 117,
+            "voiceIdx": 58,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": -8161608575514228354
-                },
                 {
                     "origLen": 42,
                     "pathId": 2174256190771451725
                 },
                 {
-                    "origLen": 16,
-                    "pathId": 1230345323411530413
+                    "origLen": 42,
+                    "pathId": -8161608575514228354
                 },
                 {
                     "origLen": 16,
                     "pathId": 8511590196439460869
                 },
                 {
+                    "origLen": 16,
+                    "pathId": 1230345323411530413
+                },
+                {
                     "origLen": 163,
                     "pathId": -7076750771358612445
                 },
                 {
-                    "origLen": 173,
-                    "pathId": -837087787936823704
-                },
-                {
                     "origLen": 175,
                     "pathId": -3532551138774679723
+                },
+                {
+                    "origLen": 173,
+                    "pathId": -837087787936823704
                 }
             ],
             "pathId": -235828817087500363,
@@ -105,21 +112,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……勝った……！",
-            "enText": "… won…!",
+            "enText": "...I won!",
             "nextBlock": 5,
             "origClipLength": 55,
+            "voiceIdx": 112,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 17,
                     "pathId": 1621239414089983218
                 },
                 {
-                    "origLen": 46,
-                    "pathId": -5744530836677859169
-                },
-                {
                     "origLen": 67,
                     "pathId": -4682980787149782264
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -5744530836677859169
                 }
             ],
             "pathId": -7192014717556647966,
@@ -129,17 +138,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ウワァアアアアア――！）",
-            "enText": "(Whoa, whoa, whoa, whoa! )",
+            "enText": "Wooooo!",
             "nextBlock": 6,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 21,
-                    "pathId": -7080032439030951637
+                    "pathId": 640278784957300782
                 },
                 {
                     "origLen": 21,
-                    "pathId": 640278784957300782
+                    "pathId": -7080032439030951637
                 }
             ],
             "pathId": -2207750006120356602,
@@ -149,29 +160,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "結果を報告します。マックイーンさんと\nライスさんに、勝利しました。",
-            "enText": "Here are the results. I defeated \nMs. McQueen and Ms. Rice.",
+            "enText": "Reporting results. I have defeated both<n>McQueen\nand Rice.",
             "nextBlock": 7,
             "origClipLength": 88,
+            "voiceIdx": 5,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "すごい！",
-                    "enText": "Awesome!",
+                    "enText": "That was amazing!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "すごいよ！",
-                    "enText": "It's amazing!",
+                    "enText": "That was amazing!",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 120,
-                    "pathId": 6320480201657696381
-                },
-                {
                     "origLen": 126,
                     "pathId": -8301590992998106086
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 6320480201657696381
                 }
             ],
             "pathId": 2210756104678583264,
@@ -181,17 +194,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ありがとうございます……！\nそれで、その……マスター……。",
-            "enText": "Thank you…! So, that \n… master…",
+            "enText": "Thank you very much! Now, um...<n>Trainer...",
             "nextBlock": 8,
             "origClipLength": 82,
+            "voiceIdx": 13,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 8691828718144325950
-                },
                 {
                     "origLen": 93,
                     "pathId": -2812422483480034678
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8691828718144325950
                 }
             ],
             "pathId": -878831706951683387,
@@ -201,29 +216,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "と、どこか途方に暮れたような顔で\nこちらを見た。まさか、どこか不調が……？",
-            "enText": "She looked at me with a somewhat lost \nlook on her face. Don't tell me there's \nsomething wrong with…?",
+            "enText": "She looks at me with a vaguely lost<n>expression. I\ncan't help but worry about<n>her health.",
             "nextBlock": 9,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ど、どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "A-are you all right?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "ど、どうしたの？",
-                    "enText": "What's wrong with you?",
+                    "enText": "A-are you all right?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
                     "origLen": 106,
-                    "pathId": 8692754964590975430
+                    "pathId": 532992474415644146
                 },
                 {
                     "origLen": 106,
-                    "pathId": 532992474415644146
+                    "pathId": 8692754964590975430
                 }
             ],
             "pathId": -8537037776115069402,
@@ -233,24 +250,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "自制しなければ、今にも\n走り出してしまいそうです。",
-            "enText": "If I don't control myself, I'll \nstart running at any moment.",
+            "enText": "I feel as though I might run off at any<n>moment if I\nfail to restrain myself.",
             "nextBlock": 10,
             "origClipLength": 77,
+            "voiceIdx": 84,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "――えっ",
-                    "enText": "—Whoa.",
+                    "enText": "Huh?",
                     "nextBlock": 10
                 }
             ],
             "animData": [
                 {
-                    "origLen": 69,
-                    "pathId": -9086930715716896481
-                },
-                {
                     "origLen": 88,
                     "pathId": 5536171010913000210
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -9086930715716896481
                 }
             ],
             "pathId": -6241145772841084298,
@@ -260,21 +279,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "もしくは、こう……\n飛び跳ねてしまいそうな……。",
-            "enText": "Or, you can go to… like this… \nwhich will make you jump.",
+            "enText": "Or perhaps... leap around...",
             "nextBlock": 11,
             "origClipLength": 76,
+            "voiceIdx": 79,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 87,
                     "pathId": -8820097700965357646
                 },
                 {
-                    "origLen": 62,
-                    "pathId": -5775284997865550632
-                },
-                {
                     "origLen": 87,
                     "pathId": -4972775277416461872
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -5775284997865550632
                 }
             ],
             "pathId": -4399435428880379893,
@@ -284,21 +305,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "コントロールがききません。\n早急にメンテナンスが必要です。",
-            "enText": "I can't control it. Maintenance is \nrequired as soon as possible.",
+            "enText": "System controls are not working.<n>Emergency\nmaintenance required.",
             "nextBlock": 12,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -973638306717240470
                 },
                 {
-                    "origLen": 120,
-                    "pathId": -5342998386514418197
-                },
-                {
                     "origLen": 93,
                     "pathId": -5583770095859032520
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -5342998386514418197
                 }
             ],
             "pathId": 2595258830243834421,
@@ -308,17 +331,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "焦った様子のミホノブルボンに、\n思わず笑ってしまう。",
-            "enText": "I couldn't help but laugh at the impatient \nlook on Mihono Bourbon's face.",
+            "enText": "Seeing Mihono Bourbon's panicked<n>demeanor, I\ncan't help but burst out<n>laughing.",
             "nextBlock": 13,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 110,
-                    "pathId": -7496941169056204027
-                },
                 {
                     "origLen": 89,
                     "pathId": -7011759746342277185
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -7496941169056204027
                 }
             ],
             "pathId": -5514572514558390378,
@@ -328,29 +353,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……？\n反応の意図がわかりません、マスター。",
-            "enText": "…? I do not understand the intent \nof your response, Master.",
+            "enText": "I don't understand your reaction.",
             "nextBlock": 14,
             "origClipLength": 73,
+            "voiceIdx": 21,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "きっと嬉しいんだ",
-                    "enText": "I'm sure she's happy.",
+                    "enText": "What you're feeling right now is happiness.",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "きっと嬉しいんだね",
-                    "enText": "You must be very happy.",
+                    "enText": "What you're feeling right now is happiness.",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 23,
-                    "pathId": -4475626122870167064
-                },
-                {
                     "origLen": 84,
                     "pathId": 7880839957780409345
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -4475626122870167064
                 }
             ],
             "pathId": 5338850241951805799,
@@ -360,17 +387,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "『嬉しい』ですか？",
-            "enText": "\"Happy\"?",
+            "enText": "\"Happiness\"?",
             "nextBlock": 15,
             "origClipLength": 56,
+            "voiceIdx": 26,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": -8880534096451315254
-                },
                 {
                     "origLen": 67,
                     "pathId": -229393628646950569
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -8880534096451315254
                 }
             ],
             "pathId": 5608126924177684974,
@@ -380,17 +409,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "多くのウマ娘は、勝ったら『嬉しく』\n負けたら『悔しく』なると、\nかいつまんで教えた。",
-            "enText": "I told her that most of the girls were happy \nwhen they won and frustrated when they lost.",
+            "enText": "I tell her how most people feel happy<n>when they\nwin and frustrated when they<n>lose.",
             "nextBlock": 16,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 117,
-                    "pathId": 1746821546674493014
-                },
                 {
                     "origLen": 110,
                     "pathId": 3404381958945253159
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 1746821546674493014
                 }
             ],
             "pathId": -2144882576709035274,
@@ -400,17 +431,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "勝ったら『嬉しく』、負けたら『悔しく』……\n新しいナレッジです。",
-            "enText": "When you win, you're happy. When you lose, \nyou're disappointed… New Knowledge.",
+            "enText": "Winning creates \"happiness.\" Losing<n>creates\n\"frustration.\" New knowledge<n>acquired.",
             "nextBlock": 17,
             "origClipLength": 86,
+            "voiceIdx": 8,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -3912976973595495347
-                },
                 {
                     "origLen": 97,
                     "pathId": -6456206048532881815
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3912976973595495347
                 }
             ],
             "pathId": -8852490233337067512,
@@ -420,17 +453,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "これは『嬉しい』に当たるのですね。",
-            "enText": "This is a 'happy' thing to do, isn't it?",
+            "enText": "My current state seems to correspond<n>with\n\"happiness.\"",
             "nextBlock": 18,
             "origClipLength": 67,
+            "voiceIdx": 38,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 2,
-                    "pathId": 6710083136544536179
-                },
                 {
                     "origLen": 78,
                     "pathId": -6634241768877572734
+                },
+                {
+                    "origLen": 2,
+                    "pathId": 6710083136544536179
                 }
             ],
             "pathId": 8516215142982302558,
@@ -440,17 +475,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "ミホノブルボンは、確かめるように\n胸に手を当てた。",
-            "enText": "Mihono Bourbon put her hand on \nher chest as if to make sure.",
+            "enText": "Mihono Bourbon places a hand on her<n>chest, as if\nto physically check her<n>emotions.",
             "nextBlock": 19,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": 5978043026662520915
-                },
                 {
                     "origLen": 93,
                     "pathId": 5301194653940085023
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 5978043026662520915
                 }
             ],
             "pathId": -8625178247172404872,
@@ -460,17 +497,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "『嬉しい』は『心地よい』です。\nいえ、それだけではなく――",
-            "enText": "Happy\" is \"comfortable\". \nNo, it's not just that.",
+            "enText": "\"Happiness\" is comforting. But it's not<n>just that...",
             "nextBlock": 20,
             "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 94,
-                    "pathId": 8977948265729148069
-                },
                 {
                     "origLen": 96,
                     "pathId": 1625931902176541756
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8977948265729148069
                 }
             ],
             "pathId": 5764218471857594527,
@@ -480,17 +519,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "『勝ちたい』がこらえきれないほど\n膨らんでいます。",
-            "enText": "The \"I want to win\" is swelling to the point \nthat I can't contain it.",
+            "enText": "My \"desire to win\" is also growing at an<n>\nexponential rate.",
             "nextBlock": 21,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -5744587144257240060
-                },
                 {
                     "origLen": 88,
                     "pathId": 153878805840609057
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5744587144257240060
                 }
             ],
             "pathId": 8578705809769744355,
@@ -500,17 +541,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "マスター、私は……\nさらなる強者との戦いを望みます。",
-            "enText": "Master, I wish to… fight \nwith even stronger men.",
+            "enText": "Trainer, I... I want to compete against<n>even\nstronger opponents.",
             "nextBlock": 22,
             "origClipLength": 78,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 15,
-                    "pathId": 4549687365699105676
-                },
                 {
                     "origLen": 89,
                     "pathId": -6821411586887481628
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 4549687365699105676
                 }
             ],
             "pathId": -2444206181347756560,
@@ -520,24 +563,26 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "例えば……\n“トウカイテイオー”との戦いを……！",
-            "enText": "For example… fights against \n\"Tokai Teio.\"…!",
+            "enText": "For example... Tokai Teio!",
             "nextBlock": 23,
             "origClipLength": 76,
+            "voiceIdx": 15,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "…!",
+                    "enText": "...!",
                     "nextBlock": 23
                 }
             ],
             "animData": [
                 {
-                    "origLen": 63,
-                    "pathId": 1220489420214992163
-                },
-                {
                     "origLen": 87,
                     "pathId": 4375327472161890950
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 1220489420214992163
                 }
             ],
             "pathId": 969412496100031770,
@@ -547,17 +592,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "確かに、今のミホノブルボンであれば、\n競り合える相手かもしれない。",
-            "enText": "It's true that the current Mihono Bourbon \nmight be able to compete with her.",
+            "enText": "As she is now, Mihono Bourbon could<n>certainly\nrival Tokai Teio.",
             "nextBlock": 24,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 4429226481677144820
+                    "pathId": -603470539021826172
                 },
                 {
                     "origLen": 99,
-                    "pathId": -603470539021826172
+                    "pathId": 4429226481677144820
                 }
             ],
             "pathId": 4979447263431571148,
@@ -567,24 +614,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "トウカイテイオーは現在ケガの療養中。\r\n回復後、出走しそうなレースを考えると――",
-            "enText": "Tokai Teio is currently recuperating from an \ninjury. Considering the races she is likely \nto run once she recovers…",
+            "enText": "Tokai Teio's currently recovering from an<n>injury,\nso I try to think of the race she'll<n>most likely enter\nafter healing.",
             "nextBlock": 25,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "――『ジャパンカップ』だ！",
-                    "enText": "— \"Japan Cup\"!",
+                    "enText": "Then our next stop is the Japan Cup!",
                     "nextBlock": 25
                 }
             ],
             "animData": [
                 {
                     "origLen": 108,
-                    "pathId": -6172142188171929862
+                    "pathId": 6860807141618174247
                 },
                 {
                     "origLen": 108,
-                    "pathId": 6860807141618174247
+                    "pathId": -6172142188171929862
                 }
             ],
             "pathId": 1674996671177716692,
@@ -594,9 +643,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "はい……！",
-            "enText": "Yes…!",
+            "enText": "Understood!",
             "nextBlock": 26,
             "origClipLength": 51,
+            "voiceIdx": 73,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 16,
@@ -604,11 +655,11 @@
                 },
                 {
                     "origLen": 62,
-                    "pathId": 6611299112593960162
+                    "pathId": -3466755277888756120
                 },
                 {
                     "origLen": 62,
-                    "pathId": -3466755277888756120
+                    "pathId": 6611299112593960162
                 }
             ],
             "pathId": -9100975068602972512,
@@ -618,25 +669,27 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あれが……“ミホノブルボン”……！",
-            "enText": "That's… \"Mihono Bourbon\"…!",
+            "enText": "So that's Mihono Bourbon!",
             "nextBlock": 27,
             "origClipLength": 67,
+            "voiceIdx": 112,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": 7154567873307187129
-                },
                 {
                     "origLen": 14,
                     "pathId": 3918401064201108216
                 },
                 {
-                    "origLen": 93,
-                    "pathId": 4327184208068159286
+                    "origLen": 14,
+                    "pathId": 7154567873307187129
                 },
                 {
                     "origLen": 94,
                     "pathId": -4719884655386058146
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4327184208068159286
                 }
             ],
             "pathId": -1077765639228246790,
@@ -646,28 +699,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、新たな戦いの火蓋は切られた。\r\n『ジャパンカップ』に向け\nトレーニングに励む日々が始まる！",
-            "enText": "And so, a new battle has begun. The days of \ntraining for the \"Japan Cup\" begin!",
+            "enText": "And so, a new battle begins. We put our<n>all into\ndaily training once more as we<n>head for the Japan\nCup!",
             "nextBlock": -1,
             "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "ジャパンカップ",
-                    "enText": "Japan Cup"
+                    "enText": ""
                 }
             ],
             "animData": [
                 {
                     "origLen": 30,
-                    "pathId": 5988698327045185570
+                    "pathId": 5741224992563117595
                 },
                 {
                     "origLen": 30,
-                    "pathId": 5741224992563117595
+                    "pathId": 5988698327045185570
                 }
             ],
             "pathId": -8070186324898371876,
             "blockIdx": 27
         }
-    ],
-    "modified": 1657444295
+    ]
 }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "YX3I7TEDKTAPYURBAK2T72SXEGDF76IB",
+    "version": 6,
+    "bundle": "3MPSNGN6YXUGA4WWA4H32ORWD225GWHK",
     "type": "story",
     "storyId": "501017103",
     "title": "夏合宿（2年目）スタート！",
+    "enTitle": "Summer Camp (Year 2) Begins!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "今日から実力向上のための\r\n『夏合宿』が始まる――",
-            "enText": "Today is the start of the \"summer camp\" to \nimprove our abilities.",
+            "enText": "Today is the start of summer camp,<n>where the\nUmamusume train to improve<n>their skills.",
             "nextBlock": 2,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2039971404116096574,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "のだが……。",
-            "enText": "but you can find it at ……",
+            "enText": "Or at least, it should be...",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6274459169066972657,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "――シンボリルドルフはまだ、学園にいた。",
-            "enText": "―Symbol Rudolph was still at the school.",
+            "enText": "But Symboli Rudolf still hasn't left the<n>academy.",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": -9099386513969678236
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 536482104464123054
+                }
+            ],
             "pathId": -242766225366831288,
             "blockIdx": 3
         },
@@ -36,23 +56,36 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "さて、ヒシアマゾンにフジキセキ。\r\n報告を頼む。",
-            "enText": "Well, Hsiamazon and Fujikiseki. \nPlease report back to me.",
+            "enText": "Hishi Amazon and Fuji Kiseki. Your<n>status reports,\nif you please.",
             "nextBlock": 5,
+            "origClipLength": 60,
+            "voiceIdx": 39,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "（あれは……美浦寮と栗東寮の寮長）",
-                    "enText": "(That's…… Miho and Ritto dorm heads)",
+                    "enText": "(If I recall correctly... they're the Miho and Ritto\ndorm leaders.)",
                     "nextBlock": 5
                 }
             ],
             "coloredText": [
                 {
                     "jpText": "ヒシアマゾン",
-                    "enText": "hysterea-amazon"
+                    "enText": ""
                 },
                 {
                     "jpText": "フジキセキ",
-                    "enText": "wisteria periwinkle"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5085156326869140354
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 2287909046787528774
                 }
             ],
             "pathId": 4677782046335616944,
@@ -62,12 +95,41 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "美浦の子たちはさっきの便で\r\nみんな出発したよ。",
-            "enText": "All the kids from Mipura left \non the flight just now.",
+            "enText": "The Miho Dorm folks are all accounted<n>for. They\nwere on the bus that just<n>departed.",
             "nextBlock": 6,
+            "origClipLength": 60,
+            "voiceIdx": 47,
+            "voiceSheetId": "051012001",
             "coloredText": [
                 {
                     "jpText": "美浦",
-                    "enText": "Miura"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -3905986177067541069
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -642159898760017612
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 1110290642584910589
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -6515371322831935144
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2690491249162219754
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 7820386822741287158
                 }
             ],
             "pathId": -5260768808071941097,
@@ -77,12 +139,33 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "栗東寮も、今朝の体調不良者を除いて\r\n全員出発済です。",
-            "enText": "All of the students in the Ritto dormitory \nhave already departed, with the exception of \nthose who were not feeling well this morning.",
+            "enText": "All of the Ritto Dormitory residents have<n>left as\nwell. Aside from one who<n>reported being sick this\nmorning.",
             "nextBlock": 7,
+            "origClipLength": 62,
+            "voiceIdx": 3,
+            "voiceSheetId": "051005001",
             "coloredText": [
                 {
                     "jpText": "栗東寮",
-                    "enText": "Ritto Dormitory"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 5831337029951309758
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -2866126866995837100
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 6243564743912671377
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 3279402810668023223
                 }
             ],
             "pathId": -1081279315989414064,
@@ -92,8 +175,37 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "承知した。\r\n体調不良者のケアは手筈通りに？",
-            "enText": "Noted. Care for the sick as arranged?",
+            "enText": "Excellent. I trust the unwell student is<n>receiving\nappropriate treatment?",
             "nextBlock": 8,
+            "origClipLength": 59,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 255268655936385696
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 199243426132599418
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 9149525238850781650
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 4369542437854804815
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7843348569557122230
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2410332274656342468
+                }
+            ],
             "pathId": 3008135652526750387,
             "blockIdx": 7
         },
@@ -101,8 +213,29 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "はい、先生方に預けています。",
-            "enText": "Yes, I leave it with the teachers.",
+            "enText": "Indeed. I've left her in the faculty's care.",
             "nextBlock": 9,
+            "origClipLength": 54,
+            "voiceIdx": 37,
+            "voiceSheetId": "051005001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 7087965290624111490
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5594356281889092715
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -732811883588327166
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -2088224511269614658
+                }
+            ],
             "pathId": 4102886040129084930,
             "blockIdx": 8
         },
@@ -110,8 +243,29 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "では、万事整ったね。\r\nご苦労、君たちも出発してくれ。",
-            "enText": "Well then, everything is in order. Thank you \nvery much for your efforts.",
+            "enText": "Then we are all set. Thank you both for<n>your hard\nwork. You may join the rest of<n>the students.",
             "nextBlock": 10,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -862572322991754519
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 3427273261809966812
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 3008901650898588815
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 3629359038137480489
+                }
+            ],
             "pathId": -1938940714080410662,
             "blockIdx": 9
         },
@@ -119,8 +273,37 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "おうっ、会長も遅れるなよ！",
-            "enText": "Oooh, don't be too late Chairman!",
+            "enText": "Got it. Don't be late now, Prez!",
             "nextBlock": 11,
+            "origClipLength": 53,
+            "voiceIdx": 5,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 3763521933781181556
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 28026711190320034
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3234895945073131053
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3963691576956015417
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 924482882166392854
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 3942559936186491150
+                }
+            ],
             "pathId": 8136206428581650806,
             "blockIdx": 10
         },
@@ -128,8 +311,29 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "さて、待たせたねトレーナー君。",
-            "enText": "Well, sorry to keep you waiting, trainer.",
+            "enText": "Now then, Trainer. I'm sorry to have kept<n>you\nwaiting.",
             "nextBlock": 12,
+            "origClipLength": 54,
+            "voiceIdx": 55,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 2261131081231074559
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6872357336593329349
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 933215333661578097
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -860871002758435402
+                }
+            ],
             "pathId": 6726559129522868122,
             "blockIdx": 11
         },
@@ -137,18 +341,31 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "では我々も最終確認を済ませて\r\n出発しようか。",
-            "enText": "So, let's do our final checks and get going.",
+            "enText": "Once we finish our final checks, we can<n>depart\nourselves.",
             "nextBlock": 13,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "陣頭指揮は執らないんだな",
-                    "enText": "You don't lead the charge.",
+                    "enText": "Not leading from the front today?",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "陣頭指揮は執らないんだね",
-                    "enText": "You don't lead the charge.",
+                    "enText": "Not leading from the front today?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -1480972432530937833
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3421120633788163364
                 }
             ],
             "pathId": -201069376271877865,
@@ -158,8 +375,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "何、今頃エアグルーヴが完全遂行\r\nしているだろう。",
-            "enText": "What, Airgroove would have done it by now.",
+            "enText": "I believe Air Groove has that well in<n>hand.",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "voiceIdx": 38,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 1044389771948888007
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 7602881918914452295
+                }
+            ],
             "pathId": -8705117764673865505,
             "blockIdx": 13
         },
@@ -167,13 +397,26 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "それに、残念ながら不参加と\r\nなってしまった子の様子も見ておきたい。",
-            "enText": "Besides, we would like to see how the \nchildren who unfortunately did not \nparticipate are doing.",
+            "enText": "And besides, I want to check in on the<n>student\nwho had to stay behind.",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "けど、開始に遅れない？",
-                    "enText": "But won't you be late to start?",
+                    "enText": "But what if you miss the start of camp?",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -8765896903084421118
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8430843633609350143
                 }
             ],
             "pathId": 6148902784067071573,
@@ -183,8 +426,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "その点は秘策がある。\r\n時にトレーナー君。",
-            "enText": "I have a secret plan for that. \nSometimes, Ms. Trainer.",
+            "enText": "I have a plan to avoid that. Incidentally...",
             "nextBlock": 16,
+            "origClipLength": 58,
+            "voiceIdx": 80,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -5005747675451180980
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 6812791275421808613
+                }
+            ],
             "pathId": 6187486391466637352,
             "blockIdx": 15
         },
@@ -192,13 +448,26 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "“スーパーカー”という響きに、\r\n憧れはお持ちかな？",
-            "enText": "Do you have a yearning for \nthe sound of \"supercars\"?",
+            "enText": "Do the words \"Hot Rod\" sound familiar<n>to you?",
             "nextBlock": 17,
+            "origClipLength": 61,
+            "voiceIdx": 2,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "（なぜか嫌な予感がする……）",
-                    "enText": "(Why do I have a bad feeling about this ……)",
+                    "enText": "(I have a bad feeling about this...)",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 478135985237534602
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -5434135171527950838
                 }
             ],
             "pathId": -1037633850947561745,
@@ -208,8 +477,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "その予感は的中し――",
-            "enText": "And my hunch was right.",
+            "enText": "And that feeling was dead on.",
             "nextBlock": 18,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -6004372538058215552
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 7644780676408996851
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1000027035144691797
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -2568909804033406793
+                }
+            ],
             "pathId": -6348403019049693052,
             "blockIdx": 17
         },
@@ -217,8 +507,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ブォンブォオオンッ！！　……キキーッ！）",
-            "enText": "(Bwoombooooon!!!!!!!!!!!!!!!!!!!!!!!) \n(…… kikey!)",
+            "enText": "<i>VROOOOOM! Screeeeech!</i>",
             "nextBlock": 19,
+            "origClipLength": 152,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 1304972559437774751
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -7139991265296890613
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 5860132439941560298
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -2983513450615832471
+                }
+            ],
             "pathId": -8077226086016289125,
             "blockIdx": 18
         },
@@ -226,8 +537,37 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "――送迎ありがとう、マルゼンスキー。\r\nおかげで無事、開始時間に間に合った。",
-            "enText": "―Thanks for the transportation, \nMarzenski. Thanks to you, I made \nit safely to the start time.",
+            "enText": "Thank you for driving us, Maruzensky. If<n>not for\nyou, we wouldn't have made it in<n>time.",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": 7799215008903342670
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -5833556391791526218
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -3806404150371037712
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7189771329713565594
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 5663058068101154425
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6503160959843823977
+                }
+            ],
             "pathId": 3397690828451513163,
             "blockIdx": 19
         },
@@ -235,8 +575,37 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ううん、いいのよ。\r\nドライブ楽しかったわぁ♪",
-            "enText": "No, it's okay. I enjoyed the drive.",
+            "enText": "No sweat! I'm always up to take my baby<n>out for a\nspin!",
             "nextBlock": 21,
+            "origClipLength": 60,
+            "voiceIdx": 1,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -647384075910780657
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -69335272151937974
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1430661571517512489
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5011866240488019640
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1222171735887040225
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -7614705488190376486
+                }
+            ],
             "pathId": 2712686535770195707,
             "blockIdx": 20
         },
@@ -244,8 +613,37 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフの秘策とは、\r\nマルゼンスキーの愛車でかっ飛ばし、\n合宿所に向かうことだった……。",
-            "enText": "Symbol Rudolph's secret plan was \nto drive Marzenski's car to the training \ncamp. Marzenski's car and headed \nfor the training camp. ……",
+            "enText": "Symboli Rudolf's \"plan\" turned out to be<n>asking\nMaruzensky to drive us to the<n>campsite in her\nprized sports car.",
             "nextBlock": 22,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 8835520329922045977
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 8860769900940699306
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1434147082880012709
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 5007905640544286355
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 1535259789457805750
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2702118197667125749
+                }
+            ],
             "pathId": -4859165694325064896,
             "blockIdx": 21
         },
@@ -253,8 +651,37 @@
             "jpName": "",
             "enName": "",
             "jpText": "しかし噂には聞いていたが、\r\nマルゼンスキーの運転は……ちょっと、\nいやだいぶ大逃げ型だった。",
-            "enText": "However, as I had heard rumors, Marzenski's \ndriving was a little…… or rather, much more \nof a runaway type.",
+            "enText": "Unfortunately, Maruzensky has a bit of a<n>\nreputation for being a wild driver... A<n>reputation\nthat's well deserved.",
             "nextBlock": 23,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": 8488442629858552522
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5942105211531660663
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4785303905357084842
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 6481004366152590120
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1697360152118049069
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -1744183641505470926
+                }
+            ],
             "pathId": 1348652801457223287,
             "blockIdx": 22
         },
@@ -262,8 +689,37 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ところでルドルフ……。",
-            "enText": "By the way, Rudolph ……",
+            "enText": "Say, Rudolf?",
             "nextBlock": 24,
+            "origClipLength": 52,
+            "voiceIdx": 52,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -8572662628910899941
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 5706731974457301673
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5963575827652667098
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -5353665316921021313
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 3252452313692446352
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -3626980312861020049
+                }
+            ],
             "pathId": -5422533483532747437,
             "blockIdx": 23
         },
@@ -271,8 +727,37 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あなたのトレーナーさん、\r\nかなり衰弱してるけど平気かしら？",
-            "enText": "Your trainer is looking a little frail.",
+            "enText": "Your trainer's looking a little pale. Is<n>everything\ngood?",
             "nextBlock": 25,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -5353428694697805141
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7235157447394625294
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 9144465689426084627
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 643985309213198059
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -7925427236128527808
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 7671671232479160998
+                }
+            ],
             "pathId": -4832062115701519747,
             "blockIdx": 24
         },
@@ -280,8 +765,37 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "何、君のテクニックに\r\n酔いしれてしまったのだろう。",
-            "enText": "What, I must have been intoxicated \nby your technique.",
+            "enText": "Of course. I imagine your driving often<n>leaves\npeople too amazed to speak.",
             "nextBlock": 26,
+            "origClipLength": 61,
+            "voiceIdx": 0,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8905587690086363937
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 1112298132318604097
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7566037406278646641
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3478503736082430452
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7085841897506374020
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4407977784805754605
+                }
+            ],
             "pathId": 6856311483198070924,
             "blockIdx": 25
         },
@@ -289,18 +803,47 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "どうだトレーナー君、マルゼンスキーの\r\n運転は痛快無比だろう。",
-            "enText": "What do you think, trainer, \nabout Marzenski's driving?",
+            "enText": "Isn't that right, Trainer? Aren't<n>Maruzensky's skills\nin a league of their<n>own?",
             "nextBlock": 27,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "あ、ああ……",
-                    "enText": "Oh, oh ……",
+                    "enText": "They're, uh, certainly something...",
                     "nextBlock": 27
                 },
                 {
                     "jpText": "う、うん……",
-                    "enText": "Umm, yeah ……",
+                    "enText": "They're, uh, certainly something...",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2264675061460222999
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 271915930370824092
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5071873706053601809
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8993790638249002645
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7962872861299059363
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -3082294036979115510
                 }
             ],
             "pathId": 1557007975375298943,
@@ -310,13 +853,42 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "お気に召したのならば、\r\n帰りも彼女に――",
-            "enText": "If you like her, she can take you home―",
+            "enText": "If you'd like, I could also ask her to drive<n>us back\nas w—",
             "nextBlock": 28,
+            "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "い、いいです！",
-                    "enText": "Yes, yes!",
+                    "enText": "N-no thanks, I'm good!",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 2819193829878457021
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -373797455176239063
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4010287784317555183
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 8439261443730845542
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8755804358362927595
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 6350902859647204508
                 }
             ],
             "pathId": -8345574047604851774,
@@ -326,11 +898,39 @@
             "jpName": "",
             "enName": "",
             "jpText": "何はともあれ、\r\n夏合宿が始まった……！",
-            "enText": "Anyhow, summer camp has begun ……!",
+            "enText": "Speed bumps aside, summer camp finally<n>begins.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 9210941085783146777
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -8674923093724795024
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4880845859556301653
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7848736657250998371
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3453521132094107205
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -5830745729167505210
+                }
+            ],
             "pathId": 7498155811736740049,
             "blockIdx": 28
         }
-    ],
-    "modified": 1657554476
+    ]
 }

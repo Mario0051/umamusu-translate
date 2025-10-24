@@ -1,21 +1,35 @@
 {
-    "version": 4,
-    "bundle": "Z4HTHVHUSICJSEJSOYOMKXUBQFYBAYQP",
+    "version": 6,
+    "bundle": "FTF7BNFO2EE3VOPWFMAC5LTHREDWEARG",
     "type": "story",
     "storyId": "501041729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なんとっ！？\r\nトレーナーさんが失敗を……！？",
-            "enText": "What's this!? \nTrainer has made a……mistake!?",
+            "enText": "What?! Trainer, you... failed?!",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "voiceIdx": 36,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "面目ない……",
-                    "enText": "I'm ashamed…",
+                    "enText": "I truly apologize...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -7036664823362664547
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -6835177393111006765
                 }
             ],
             "pathId": 1741316163592971902,
@@ -25,8 +39,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いえ、犬も歩けば何とやらと聞きますし！",
-            "enText": "No, no, there's a saying that says you'll \nsucceed one day if you just try!",
+            "enText": "It's fine. They say there are bumps on<n>every road!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": 50,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5457856350877803095
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3052006513818042916
+                }
+            ],
             "pathId": 7748912473880802757,
             "blockIdx": 2
         },
@@ -34,8 +61,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "私もバクシン中に考え事をして、電柱に\r\nぶつかったことが何度もありますので……！",
-            "enText": "I've hit telephone poles while thinking \nabout Bakushin quite a few times before…!",
+            "enText": "I've bumped into many telephone poles<n>from too\nmuch thinking in Bakushin<n>mode, so it's okay!",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "voiceIdx": 14,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6367075407731843798
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2631892472926669420
+                }
+            ],
             "pathId": 8019607173627854902,
             "blockIdx": 3
         },
@@ -43,8 +83,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "達人だろうと、時には失敗するもの！\r\n改めて、教訓にさせていただきます……！",
-            "enText": "Sometimes, even the gurus fail! \nOnce again, let this be a lesson to you…!",
+            "enText": "Even the greatest experts have their<n>share of bad\nluck! I will take this<n>experience as a lesson!",
             "nextBlock": 5,
+            "origClipLength": 94,
+            "voiceIdx": 62,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 5457131446714662105
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6906938290601471666
+                }
+            ],
             "pathId": 8688808570464678196,
             "blockIdx": 4
         },
@@ -52,12 +105,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "That was a disappointing result……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5578812253336153471
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6786117445830669847
+                }
+            ],
             "pathId": -150354844436613369,
             "blockIdx": 5
         }
-    ],
-    "humanTl": true,
-    "modified": 1683732695
+    ]
 }

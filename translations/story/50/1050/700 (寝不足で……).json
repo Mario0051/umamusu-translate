@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "4C5VXCLV23AJWFIGXAHPFMAELXZHJDXF",
+    "version": 6,
+    "bundle": "PXNXCKFBXROZ2SVQUBITWB5TECIQ5OJL",
     "type": "story",
     "storyId": "501050700",
     "title": "寝不足で……",
+    "enTitle": "Sleep Deprived",
     "text": [
         {
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ふぁ……。",
-            "enText": "Huh…",
+            "enText": "<i>Yawn...</i>",
             "nextBlock": 2,
+            "origClipLength": 76,
+            "voiceIdx": 105,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "眠れてないのか？",
-                    "enText": "You haven't slept?",
+                    "enText": "Didn't get enough sleep?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "眠れてないの？",
-                    "enText": "Not sleeping?",
+                    "enText": "Didn't get enough sleep?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -26570399830202844
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -8557782982015200293
                 }
             ],
             "pathId": 8935377568396603606,
@@ -30,18 +44,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "別に……ちょっと寝つきが悪かっただけ。",
-            "enText": "Not really… I just had \na little trouble sleeping.",
+            "enText": "No... It's just been hard falling asleep<n>lately.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "大丈夫か！？無理するなよ！？",
-                    "enText": "Are you okay? Take it easy!",
+                    "enText": "Are you okay?! Don't overwork yourself!",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "大丈夫！？無理しないようにね！？",
-                    "enText": "Are you okay! Don't overdo it!",
+                    "enText": "Are you okay?! Don't overwork yourself!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -2641112692012618099
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 7436310549671174298
                 }
             ],
             "pathId": -7300322291639035380,
@@ -51,8 +78,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや、大げさ……！\r\nんな血相変えないでよ。",
-            "enText": "No, exaggeration…! Don't \nbe such a bleeding heart.",
+            "enText": "Geez, no need to freak out! And quit<n>babying me.",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "voiceIdx": 21,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2857241089001468727
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -1028721401064449139
+                }
+            ],
             "pathId": -6765751041212512075,
             "blockIdx": 3
         },
@@ -60,8 +100,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "こんなのよくあるし……気分悪かったり、\r\nムカムカしてると、眠れないことがあるだけ。",
-            "enText": "This happens all the time and… \nI just can't sleep when I'm feeling \nbad or sick to my stomach.",
+            "enText": "It happens a lot, anyway. Either I'm not<n>feeling so\nhot or I'm pissed off about<n>something and can't\nsleep.",
             "nextBlock": 5,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -612319341431936951
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2656160825767445315
+                }
+            ],
             "pathId": 6730940572273440807,
             "blockIdx": 4
         },
@@ -69,8 +122,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……あーもう、なんでこんなこと話して……。\r\n調子狂うな、ホント……。",
-            "enText": "… Oh my god, why are you talking about \nthis… Don't go crazy, really…",
+            "enText": "...Ugh, why are we even talking about<n>this? Talk\nabout kicking me while I'm<n>already down.",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4791983721188392977
+                },
+                {
+                    "origLen": 208,
+                    "pathId": -1640931578512828501
+                }
+            ],
             "pathId": -1069949846661844890,
             "blockIdx": 5
         },
@@ -78,8 +144,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタタイシンは寝不足なようだ……。\r\nあまり無理をさせないようにしよう。",
-            "enText": "Narita Taishin doesn't seem to be sleeping \nwell… Let's not push her too hard.",
+            "enText": "Narita Taishin seems deprived of sleep...<n>I should\ngo easy on her.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4816650716123520193
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3136818069474014301
+                }
+            ],
             "pathId": -3635724731884364983,
             "blockIdx": 6
         }

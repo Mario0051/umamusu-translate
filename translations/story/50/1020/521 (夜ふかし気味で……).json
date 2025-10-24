@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "WCOWHLYLZRZKICHVTYYZ5CNVG7KV5DLY",
+    "version": 6,
+    "bundle": "JR4DIFLKVRPFWPDBIOX7NV7J6AKNYDQM",
     "type": "story",
     "storyId": "501020521",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トレーナー室へ向かう途中、\r\nセイウンスカイと鉢合わせした――",
-            "enText": "On her way to the trainer's office, she ran \ninto Seiun Sky.",
+            "enText": "While on my way to the office, I bump<n>into Seiun\nSky.",
             "nextBlock": 2,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
-                    "pathId": -587155651844132510
+                    "pathId": -3320906633120127324
                 },
                 {
                     "origLen": 96,
-                    "pathId": -3320906633120127324
+                    "pathId": -587155651844132510
                 }
             ],
             "pathId": -8653140344130034917,
@@ -29,17 +32,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……ふわぁ～。",
-            "enText": "…… Wow!",
+            "enText": "<i>Yawn...</i>",
             "nextBlock": 3,
             "origClipLength": 87,
+            "voiceIdx": 62,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": 5878395589514575510
-                },
                 {
                     "origLen": 98,
                     "pathId": -5563449008302541285
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 5878395589514575510
                 }
             ],
             "pathId": -2032549193606064632,
@@ -49,29 +54,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "うぅん……眠い～。",
-            "enText": "Ummm…… sleepy～!",
+            "enText": "Hmn... So sleepy...",
             "nextBlock": 4,
             "origClipLength": 59,
+            "voiceIdx": 21,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "昼寝しすぎなんじゃないか？",
-                    "enText": "Maybe you've been napping too much.",
+                    "enText": "Maybe you're napping too much.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "昼寝しすぎなんじゃない？",
-                    "enText": "Maybe you've been napping too much.",
+                    "enText": "Maybe you're napping too much.",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": 151109048384782216
-                },
-                {
                     "origLen": 70,
                     "pathId": -8183968465120289180
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 151109048384782216
                 }
             ],
             "pathId": 4664129644927462288,
@@ -81,17 +88,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "そうじゃないってば～。\n最近、寝る前にチェス大会の動画を\n見るのにハマっちゃってさぁ。",
-            "enText": "That's not what I meant! Lately, I've been \naddicted to watching videos of chess \ntournaments before going to bed.",
+            "enText": "C'mon, drop that already. I've just been<n>kind of\nobsessed with watching chess<n>tournament videos\nlate into the night.",
             "nextBlock": 5,
             "origClipLength": 101,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 4264790377633913984
-                },
                 {
                     "origLen": 112,
                     "pathId": 426041576415274862
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4264790377633913984
                 }
             ],
             "pathId": 8273759980932612371,
@@ -101,17 +110,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "私ならこう攻めるなぁ……とか、\nその手があったか～とか面白くなっちゃって。",
-            "enText": "It was interesting to see how I would \nattack…… and how I could do that.",
+            "enText": "They're fun and make me think about<n>what I\nwould have done. Plus I can learn<n>new strategies\ntoo.",
             "nextBlock": 6,
             "origClipLength": 93,
+            "voiceIdx": 38,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": 9129825834756945176
-                },
                 {
                     "origLen": 104,
                     "pathId": -8588329730835696886
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 9129825834756945176
                 }
             ],
             "pathId": 171172772227296758,
@@ -121,17 +132,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "すごい攻防だったな～。\n私もいつか手合わせしてみたいよ。",
-            "enText": "That was a great offense and defense! \nI'd love to have a hand-to-hand \ncombat sometime too.",
+            "enText": "The matches are so intense. I'd love to<n>play in one\nsomeday.",
             "nextBlock": 7,
             "origClipLength": 81,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -4306115873559239338
-                },
                 {
                     "origLen": 92,
                     "pathId": 5830321401537793102
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -4306115873559239338
                 }
             ],
             "pathId": -2026220552595372347,
@@ -141,17 +154,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ふあぅ～あ……。\n今は無理だけど……。",
-            "enText": "Hmmm… ah……… I can't do it right \nnow, but you can go to ……",
+            "enText": "<i>Yawn...</i> I couldn't manage a match right<n>now\nthough...",
             "nextBlock": 8,
             "origClipLength": 78,
+            "voiceIdx": 105,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 6350882155319447627
-                },
                 {
                     "origLen": 89,
                     "pathId": 8655209666991512252
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 6350882155319447627
                 }
             ],
             "pathId": 5472526978467963867,
@@ -161,22 +176,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "いつか夢見るチェス対決の前に、\n睡魔に負けそうなセイウンスカイだった。",
-            "enText": "Seiunsky was about to lose sleep before the \nchess match she dreamed of one day.",
+            "enText": "Seiun Sky dreams of a chess showdown,<n>but it\nlooks like the sandman already has<n>her in\ncheckmate.",
             "nextBlock": -1,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 136,
-                    "pathId": -2558025993228763405
-                },
                 {
                     "origLen": 101,
                     "pathId": 8973978643614339353
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -2558025993228763405
                 }
             ],
             "pathId": 7749726843462758447,
             "blockIdx": 8
         }
-    ],
-    "modified": 1657555057
+    ]
 }

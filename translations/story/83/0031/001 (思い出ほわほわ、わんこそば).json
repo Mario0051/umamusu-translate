@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "H4WVHIWTGPO4WYVCPEM25QCC3FX5B2PL",
+    "version": 6,
+    "bundle": "AE5ETFYGPKGX7LQPQP6W4SUJSWMT3AE5",
     "type": "story",
     "storyId": "830031001",
     "title": "思い出ほわほわ、わんこそば",
+    "enTitle": "Cozy Memories of Wanko Soba",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "昼食をとりにカフェテリアに向かったところ、\r\nメニュー表をぼーっと眺めている\nユキノビジンが目に入った。",
-            "enText": "When I went to the cafeteria for \nlunch, I saw Yukinovidin staring \nblankly at the menu list.",
+            "enText": "After arriving at the cafeteria for lunch, I<n>notice\nYukino Bijin staring<n>absentmindedly at the menu.",
             "nextBlock": 2,
+            "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ずいぶん熱心に見てるな",
-                    "enText": "You're looking at it very intently.",
+                    "enText": "You're really burning a hole into that menu\nthere.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ずいぶん熱心に見てるね",
-                    "enText": "You're looking at it very intently.",
+                    "enText": "You're really burning a hole into that menu\nthere.",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -5001868181821790546
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 4904919037093259664
                 }
             ],
             "pathId": -6789803812081026655,
@@ -30,8 +44,21 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "へっ！？\r\nいや、そンなわけじゃ……！",
-            "enText": "Huh? No, not like that…!",
+            "enText": "Huh?! That's not what I'm try'n to do!",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": 25,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 524328073909672892
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5710102642125848528
+                }
+            ],
             "pathId": 3364179184093507542,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "限定メニューに『大盛そば』ってあったンで\r\n地元のわんこそばを思い出してしまって――",
-            "enText": "There was a limited menu item called \n\"Large Soba,\" which reminded me of \nthe local soba noodles.",
+            "enText": "There's an extra large soba on the menu<n>for a\nlimited time only, and it r'minded<n>me of the\nwanko soba back home...",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "voiceIdx": 0,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 2819538256783619041
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4449049693579174713
+                }
+            ],
             "pathId": 8883616952836716193,
             "blockIdx": 3
         },
@@ -48,8 +88,29 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "わんこそば……だと……！？",
-            "enText": "Wanko soba… is…!",
+            "enText": "Did you say... wanko soba?!",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": 27,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 8920254198335270602
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -4973377631599283161
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -6126700996168017358
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -5995692918333235260
+                }
+            ],
             "pathId": 6967306458434803600,
             "blockIdx": 4
         },
@@ -57,13 +118,34 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "確か、故郷は盛岡だったな。\r\nということは本場か…………ごくり。",
-            "enText": "I'm pretty sure my hometown is Morioka. So \nthat's the real place… Gokuri.",
+            "enText": "If I remember correctly, you're from<n>Morioka,\nright? The birthplace of wanko<n>soba... <i>Gulp...</i>",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "voiceIdx": 110,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "（目がすごくギラギラしてる……）",
-                    "enText": "(Her eyes are so glittery…)",
+                    "enText": "(She looks like she's about to explode...)",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8898846715114507822
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3691871651927608159
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 1469358345133756681
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 7526710533438740535
                 }
             ],
             "pathId": -774347253644965048,
@@ -73,8 +155,41 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "こらこらオグリ！\r\nおふたりさんビックリしとるやろ！",
-            "enText": "Hey, hey, Oguri! You two scared \nthe hell out of me!",
+            "enText": "Cool it, Oguri! You're scarin' 'em!",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "voiceIdx": 101,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 9157738439945909912
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 2003676797656812404
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 3275061680875150351
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 1282476198420675329
+                },
+                {
+                    "origLen": 331,
+                    "pathId": 4631881121780843782
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 8078508955695572701
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -798368129521528778
+                }
+            ],
             "pathId": -728228203628843154,
             "blockIdx": 6
         },
@@ -82,8 +197,41 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "すまない、わんこそばが気になってしまって\r\n……よければ話を聞かせてくれないか？",
-            "enText": "Sorry, I'm just curious about the \nwanker. … If you don't mind, I'd \nlike to talk to you about it.",
+            "enText": "Sorry, I just can't stop thinking about<n>wanko\nsoba... Could you tell me more<n>about the real\ndeal?",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "voiceIdx": 24,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -123307835223746234
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -1005245907558101615
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6463815833367646052
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 4343068489152693464
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 8065935617332151094
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -6086572141999500125
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5007718813981125558
+                }
+            ],
             "pathId": -5977592284382898010,
             "blockIdx": 7
         },
@@ -91,13 +239,34 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "あたしでよければ……っていっても、\r\nお給仕くらいしかやったことないンですけど。",
-            "enText": "If it's okay with me, I can go to… but I've \nonly worked as a waiter.",
+            "enText": "Gee whillikers, sure... But I'm no<n>afici'nado, mind\nyou. I've only ever been<n>on refill duty.",
             "nextBlock": 9,
+            "origClipLength": 97,
+            "voiceIdx": 81,
+            "voiceSheetId": "051029001",
             "choices": [
                 {
                     "jpText": "お給仕って、わんこそばをお椀に入れる係？",
-                    "enText": "What do you mean by \"serving\"? Are you in \ncharge of putting wanko soba into bowls?",
+                    "enText": "Refill duty? You mean dishing out more noodles\neach time the customer's bowl is empty?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -5761848594160445944
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1246625591471127483
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1326641922551556284
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4533771886540563097
                 }
             ],
             "pathId": 5076818470664968629,
@@ -107,8 +276,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "はい、楽しいですよ～。『はいどんどん』\r\n『はいじゃんじゃん』っておそば入れて――",
-            "enText": "Yes, it's fun! \"Here you go!\" \"Here you go!\" \n\"Here you go!\" \"Here you go!",
+            "enText": "Righty-roo! It's quite fun. You pour in a<n>bite-sized\nserving of soba and say<n>\"heeere ya go\" or \"heeere\nit comes.\"",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "voiceIdx": 48,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 7504334599001658447
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -598628766218141603
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 9153722144414885769
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -3455909258164815770
+                }
+            ],
             "pathId": -7411032420637313407,
             "blockIdx": 9
         },
@@ -116,8 +306,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "初めは慣れなくて、お店のおばちゃんに\r\n助けてもらってばかりでしたけどね。",
-            "enText": "At first, I had a hard time getting \nused to it and had to ask for help \nfrom the lady at the store.",
+            "enText": "I wasn't great at the start, so the lady at<n>the\nrestaurant had to keep helping me<n>out.",
             "nextBlock": 11,
+            "origClipLength": 93,
+            "voiceIdx": 14,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4748310192462398045
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2278881711279791708
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1319540980733298522
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -6401836123223565532
+                }
+            ],
             "pathId": -4604983454234960009,
             "blockIdx": 10
         },
@@ -125,8 +336,29 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "いい話を聞かせてもらった……これからは\r\nユキノに頼めばわんこそばが食べられるのか。",
-            "enText": "I was told a good story… From now on, I can \neat wanko soba if I ask Yukino?",
+            "enText": "That's all fascinating... So, Yukino, if I<n>ask you for\nsome wanko soba, will you<n>serve some up?",
             "nextBlock": 12,
+            "origClipLength": 99,
+            "voiceIdx": 74,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -8030305444903781288
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4753191487147570864
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 9004857128990130663
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 2448920716229767134
+                }
+            ],
             "pathId": 4160663620708059718,
             "blockIdx": 11
         },
@@ -134,8 +366,41 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "んなわけあるかーい！\r\nお給仕だけって言うとったやろが！",
-            "enText": "Of course not! You said you'd only serve!",
+            "enText": "As if, ya doink head! She just said she<n>was only a\nrefiller!",
             "nextBlock": 13,
+            "origClipLength": 81,
+            "voiceIdx": 63,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -5376207498529463567
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -5201343550142400956
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -8862452226859890661
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 6847651787494744040
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -2470709203124133181
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -8307222973431495711
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 8155663647636785166
+                }
+            ],
             "pathId": 4737293398616484985,
             "blockIdx": 12
         },
@@ -143,8 +408,33 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "あはは、あたしはお出しできませンけど、\r\n盛岡のわんこそばはほんとに美味しいですよ！",
-            "enText": "Haha, I can't serve it, but the wanko soba \nin Morioka is really good!",
+            "enText": "Ahaha, I can't make it m'self, but the<n>wanko soba\nfrom Morioka's really tasty!",
             "nextBlock": 14,
+            "origClipLength": 99,
+            "voiceIdx": 1,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -7124697559211226733
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5300564718501860827
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4644311804858642992
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1285489536041310023
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -3588606712304694216
+                }
+            ],
             "pathId": 1408252995764103460,
             "blockIdx": 13
         },
@@ -152,23 +442,44 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "他にも食べものや楽しいもの、\r\nいっぱいあるンで、ぜひ来てくださいね～。",
-            "enText": "There are lots of other things to eat and \nhave fun, so please come and visit us!",
+            "enText": "We've got lotsa other foods 'n fun things<n>too, so\nyou should definitely visit!",
             "nextBlock": 15,
+            "origClipLength": 91,
+            "voiceIdx": 91,
+            "voiceSheetId": "051029001",
             "choices": [
                 {
                     "jpText": "たとえばどんなもの？",
-                    "enText": "What kind of things, for example?",
+                    "enText": "What kind of things?",
                     "nextBlock": 16
                 },
                 {
                     "jpText": "わんこそばが食べたくなってきたな",
-                    "enText": "I'm getting a hankering for some wanko soba.",
+                    "enText": "Now I want some wanko soba too.",
                     "nextBlock": 27
                 },
                 {
                     "jpText": "わんこそばが食べたくなってきた",
-                    "enText": "I'm starting to feel like eating wanko soba.",
+                    "enText": "Now I want some wanko soba too.",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 4007615901309266715
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -6250237558639197609
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 7049897521544426109
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6123430169308347983
                 }
             ],
             "pathId": -6774530011074685760,
@@ -178,23 +489,44 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "他にも食べものや楽しいもの、\r\nいっぱいあるンで、ぜひ来てくださいね～。",
-            "enText": "There are lots of other things to eat and \nhave fun, so please come and visit us!",
+            "enText": "We've got lotsa other foods 'n fun things<n>too, so\nyou should definitely visit!",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "voiceIdx": 91,
+            "voiceSheetId": "051029001",
             "choices": [
                 {
                     "jpText": "たとえばどんなもの？",
-                    "enText": "What kind of things, for example?",
+                    "enText": "What kind of things?",
                     "nextBlock": 16
                 },
                 {
                     "jpText": "わんこそばが食べたくなってきたな",
-                    "enText": "I'm getting a hankering for some wanko soba.",
+                    "enText": "Now I want some wanko soba too.",
                     "nextBlock": 27
                 },
                 {
                     "jpText": "わんこそばが食べたくなってきた",
-                    "enText": "I'm starting to feel like eating wanko soba.",
+                    "enText": "Now I want some wanko soba too.",
                     "nextBlock": 27
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3909391613863244980
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3469012761348293957
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3377551114950155259
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -509686419110858096
                 }
             ],
             "pathId": 4989523037941285892,
@@ -204,8 +536,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "そうですねぇ～。有名なのは、\r\n『盛岡さんさ踊り』ってお祭りでしょうか？",
-            "enText": "That's right. The most famous festival is \n\"Morioka Sansa Odori\", right?",
+            "enText": "Well, let's see... There's a famous festival<n>called\nthe Morioka Sansa Odori.",
             "nextBlock": 17,
+            "origClipLength": 91,
+            "voiceIdx": 79,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 4596648341561689288
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 506250470381999870
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 177341645658174364
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 7155501243911307305
+                }
+            ],
             "pathId": 2383529087504334474,
             "blockIdx": 16
         },
@@ -213,18 +566,39 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "太鼓を叩いたり、笛を吹いたり、踊ったり\r\nして、みんなで通りをパレードするンです！",
-            "enText": "Everyone parades down the street playing \ndrums, blowing flutes, and dancing!",
+            "enText": "It's got taiko drums, flutes, and people<n>danc'n\ndown the street in a p'rade!",
             "nextBlock": 18,
+            "origClipLength": 98,
+            "voiceIdx": 74,
+            "voiceSheetId": "051029001",
             "choices": [
                 {
                     "jpText": "それって準備が大変じゃないか？",
-                    "enText": "Isn't that a lot of preparation?",
+                    "enText": "That must take a heck of a lot of prep work.",
                     "nextBlock": 18
                 },
                 {
                     "jpText": "それって準備が大変じゃない？",
-                    "enText": "Isn't that a lot of preparation?",
+                    "enText": "That must take a heck of a lot of prep work.",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 8451482590794832421
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 399040310274500349
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 1091486797511019004
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2288760765990829665
                 }
             ],
             "pathId": -1007490906231583644,
@@ -234,8 +608,33 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "むしろ、いろいろ鍛えられて\r\nいい経験になりました！",
-            "enText": "Rather, it's been a great experience, \ntraining me in many ways!",
+            "enText": "Yeah, but all that prep made for a darn<n>good\nworkout, so I actually  enjoyed it!",
             "nextBlock": 19,
+            "origClipLength": 78,
+            "voiceIdx": 50,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 6201716421840505700
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 915881107635795512
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 7851071369691700737
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 229681364239188708
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2011914676561861793
+                }
+            ],
             "pathId": 476090146199657511,
             "blockIdx": 18
         },
@@ -243,8 +642,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "地元のみんなも孫みたいによくしてくれて\r\n準備するの、すンごく楽しかったです。",
-            "enText": "The local people treated me like a \ngrandchild, and it was a lot of fun \npreparing for the event.",
+            "enText": "Everyone in town treated me super<n>kindly, like I\nwas their granddaughter. It<n>was a lotta fun help'n\nout with the<n>preparations!",
             "nextBlock": 20,
+            "origClipLength": 95,
+            "voiceIdx": 75,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 5730499253551284856
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 4910870875573014977
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -425361828599142255
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -4333602146610267143
+                }
+            ],
             "pathId": -3078505154908735098,
             "blockIdx": 19
         },
@@ -252,8 +672,33 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ええ地元やなぁ。\r\nオグリんとこもそんな感じやったっけ？",
-            "enText": "It's a nice hometown. Was Oguri's \nplace like that too?",
+            "enText": "Sounds like a real nice place. Is that<n>what your\nhometown's like too, Oguri?",
             "nextBlock": 21,
+            "origClipLength": 81,
+            "voiceIdx": 8,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -897121231375736280
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 4168641991356406796
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8417713401047909869
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -148177408996404756
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6595466876086744088
+                }
+            ],
             "pathId": 5541791251408913415,
             "blockIdx": 20
         },
@@ -261,8 +706,41 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ああ。私も笠松音頭をトメさんたちに\r\n教わった……みんな元気にしているだろうか？",
-            "enText": "Oh. I also learned the Kasamatsu Ondo from \nTomes… I hope everyone is doing well.",
+            "enText": "Yeah. I remember when Tome and the<n>others\ntaught me the Kasamatsu Ondo<n>dance... I hope\neveryone's doing okay.",
             "nextBlock": 22,
+            "origClipLength": 97,
+            "voiceIdx": 37,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 146,
+                    "pathId": 265252756343678001
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -1548074097374795413
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 5800312949986136148
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5064784119262869276
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -9058340209888023383
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -2099430540335076030
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -3484606703025932877
+                }
+            ],
             "pathId": 4337088075346137205,
             "blockIdx": 21
         },
@@ -270,8 +748,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "あたしも故郷が恋しくなってきちゃいました。\r\n……今度お手紙でも書こうかな。",
-            "enText": "I'm starting to miss my hometown too. I'm \nthinking of writing a letter to her…",
+            "enText": "I miss my hometown too... Maybe I'll<n>write\never'one sometime.",
             "nextBlock": 23,
+            "origClipLength": 94,
+            "voiceIdx": 0,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 4278932669624045666
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -494264646842470982
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 772157855227292048
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3828896928843921333
+                }
+            ],
             "pathId": 2035078948665627267,
             "blockIdx": 22
         },
@@ -279,8 +778,33 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "どうせならいいお便りを書きたいし、\r\nトレーニングがんばらないとですね！",
-            "enText": "I want to write a good letter anyway, \nand I need to train hard!",
+            "enText": "I want to send a letter filled with good<n>news, so\nI'll hafta train hard!",
             "nextBlock": 24,
+            "origClipLength": 91,
+            "voiceIdx": 10,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -9001464097038301628
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6557055584429743444
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6680929469269394133
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 3742064305736786176
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8067412936311141092
+                }
+            ],
             "pathId": -2180549100924045057,
             "blockIdx": 23
         },
@@ -288,8 +812,33 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "同感だ。そのためにはまず、\r\n充分に腹ごしらえをしないとな。",
-            "enText": "I agree. But first, we need to \nmake sure we're well fed.",
+            "enText": "Same. But to train hard, first I have to<n>sufficiently\nfill my belly.",
             "nextBlock": 25,
+            "origClipLength": 84,
+            "voiceIdx": 47,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8321425994557565971
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 4503037051109987409
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5944107258934821067
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -5798607965538591350
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4568760413977647696
+                }
+            ],
             "pathId": -7544612581083973335,
             "blockIdx": 24
         },
@@ -297,8 +846,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "故郷への想いは、\r\nトレーニングのモチベーションにつながる――",
-            "enText": "The thought of home motivates \nme to train harder.",
+            "enText": "Their love for their hometowns helps<n>motivate\nthem to train harder.",
             "nextBlock": 26,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1658545113439893632
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 3376173611459849781
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -223330372979448772
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -8219053280674340220
+                }
+            ],
             "pathId": 5774876953507372122,
             "blockIdx": 25
         },
@@ -306,8 +876,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "オグリキャップの腹の音を聞きながら、\r\n再確認したのだった。",
-            "enText": "As she listened to the sound of Oguri-cap's \nstomach, she reaffirmed her belief.",
+            "enText": "I'm made doubly aware of this once<n>when I hear\nOguri Cap's stomach<n>grumbling.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8104642280107589249
+                },
+                {
+                    "origLen": 137,
+                    "pathId": -7028877789398954525
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 7697617967651308187
+                },
+                {
+                    "origLen": 115,
+                    "pathId": -8822580063893903390
+                }
+            ],
             "pathId": -2248246057720743308,
             "blockIdx": 26
         },
@@ -315,8 +906,37 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "奇遇だな、私もだ……！",
-            "enText": "Odd, me too…!",
+            "enText": "What a coincidence! Me too!",
             "nextBlock": 28,
+            "origClipLength": 59,
+            "voiceIdx": 7,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": 269538985939702483
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -4075556646273329051
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -578827169121098293
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 8833241405444251716
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 6728963843044952588
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 754901932332533671
+                }
+            ],
             "pathId": 1745556802195277639,
             "blockIdx": 27
         },
@@ -324,8 +944,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "あ、近くにわんこそばのお店があるンで、\r\nご紹介しましょうか？",
-            "enText": "Oh, there's a soba noodle store nearby. \nShall I introduce it to you?",
+            "enText": "Oh, there's a wanko soba rest'rant round<n>here.\nD'ya want me to take ya there?",
             "nextBlock": 29,
+            "origClipLength": 85,
+            "voiceIdx": 87,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5998591026103643467
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -1062722148599306655
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 551475869986770973
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 2361884782054286902
+                }
+            ],
             "pathId": 4141734169241498235,
             "blockIdx": 28
         },
@@ -333,8 +974,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "地元でお給仕を教えてくれたおばちゃんが\r\n出してるお店なンで、味は保証しますよ～！",
-            "enText": "This restaurant is run by a local \nwoman who taught me how to serve, \nso I can vouch for the taste!",
+            "enText": "It's owned by the lady who showed me<n>the ropes\nas a refiller back home, so I<n>can vouch for the\nqual'ty and flavors!",
             "nextBlock": 30,
+            "origClipLength": 98,
+            "voiceIdx": 3,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 3117052140436081217
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1920858129326150968
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2161249816501963003
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4856963438007897663
+                }
+            ],
             "pathId": 8161662422123536669,
             "blockIdx": 29
         },
@@ -342,8 +1004,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "んん～！　あいかわらず、\r\nおばちゃんのおそばはうンめぇなぁ～。",
-            "enText": "Hmm~! As usual, Obaachan's \nsoba is delicious!",
+            "enText": "Mmm! Jinkies, her soba always hits the<n>spot!",
             "nextBlock": 31,
+            "origClipLength": 86,
+            "voiceIdx": 59,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -5247132301411534879
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -1860184312369116065
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -664827655709523874
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -6300522050572251115
+                }
+            ],
             "pathId": -6495321800254529855,
             "blockIdx": 30
         },
@@ -351,8 +1034,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ああ……。\r\nいつまでも食べていられそうだ……！",
-            "enText": "Oh… I could eat this forever…!",
+            "enText": "Yeah... I could go on eating this<n>forever...",
             "nextBlock": 32,
+            "origClipLength": 76,
+            "voiceIdx": 47,
+            "voiceSheetId": "051006001",
             "pathId": 6905258106166620977,
             "blockIdx": 31
         },
@@ -360,8 +1046,29 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……はぁ、これが本場の味か。",
-            "enText": "… Huh, so this is the real taste.",
+            "enText": "Ahhh... So this is what authentic wanko<n>soba\ntastes like.",
             "nextBlock": 33,
+            "origClipLength": 63,
+            "voiceIdx": 59,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -740504341125943863
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8280508722658806067
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5789374701138763813
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -2122331039466498896
+                }
+            ],
             "pathId": 7067825149441977573,
             "blockIdx": 32
         },
@@ -369,17 +1076,63 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "あ、おそば少なくなってきましたね。\r\nおばちゃん、あたし手伝いましょうか？",
-            "enText": "Oh, we're running low on soba, aren't we? \nCan I help you, Obaachan?",
+            "enText": "Oh, looks like you're runn'n short on<n>refills.\nWouldja like me to lend a hand<n>with the serving?",
             "nextBlock": 34,
+            "origClipLength": 93,
+            "voiceIdx": 53,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -1402115089899716216
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7886265643080267547
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 762884143022112236
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6037945700697243845
+                }
+            ],
             "pathId": -8889865832568129818,
             "blockIdx": 33
         },
         {
             "jpName": "お店のおばちゃん",
-            "enName": "",
+            "enName": "Older Shopkeeper Lady",
             "jpText": "いいンかい、ユキノちゃん？\r\nお客さんとして来てくれたのに……。",
-            "enText": "Are you sure, Yukino? You're \nhere as a guest…",
+            "enText": "Wouldja, Yukino? I know you're here as<n>a\ncustomer 'n all, but...",
             "nextBlock": 35,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -3554460498435871050
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8887812453902856237
+                },
+                {
+                    "origLen": 280,
+                    "pathId": 7465460170675462020
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6348118216920690685
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6708313147387769996
+                }
+            ],
             "pathId": -5132414180737107402,
             "blockIdx": 34
         },
@@ -387,8 +1140,33 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "はい！\r\nお給仕はまかせてください！",
-            "enText": "Yes, sir! I'll take care of the serving!",
+            "enText": "Sure! Leave the refill'n to me!",
             "nextBlock": 36,
+            "origClipLength": 68,
+            "voiceIdx": 80,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 1467466484732295889
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 6468751657755247071
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 3469957327870867032
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 6232469941408280735
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 5377387718006324218
+                }
+            ],
             "pathId": -774928849856273686,
             "blockIdx": 35
         },
@@ -396,8 +1174,29 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "はいどんどん！\r\nはいじゃんじゃん！",
-            "enText": "Keep it coming! Yes!",
+            "enText": "Heeere ya go! Heeere it comes!",
             "nextBlock": 37,
+            "origClipLength": 68,
+            "voiceIdx": 92,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -8140730150075238149
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 2582385372883427739
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -4328342902892255534
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -5765863638025270340
+                }
+            ],
             "pathId": 366427611667111357,
             "blockIdx": 36
         },
@@ -405,35 +1204,131 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "相変わらずバケモン級の胃袋やな、オグリ。\r\n食い放題とはいえ、悪い気してきたわ……。",
-            "enText": "You still have the stomach of a monster, \nOguri. Even though it's all you can eat, I'm \nstarting to feel bad…",
+            "enText": "I swear, Oguri, you've got a black hole in<n>place of\nyour stomach. I know it's<n>all-you-can-eat here,\nbut go easy on<n>'em, will ya?",
             "nextBlock": 38,
+            "origClipLength": 99,
+            "voiceIdx": 14,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 182,
+                    "pathId": -3899115562362131992
+                },
+                {
+                    "origLen": 153,
+                    "pathId": -4398617246428086411
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -8046179392482699777
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -1325851973851667625
+                }
+            ],
             "pathId": 4520975452825693236,
             "blockIdx": 37
         },
         {
             "jpName": "お店のおばちゃん",
-            "enName": "",
+            "enName": "Older Shopkeeper Lady",
             "jpText": "大丈夫ですよ～。たくさん食べて、\r\n満足してもらうのが喜びですから。",
-            "enText": "It's okay. It's my pleasure to have you eat \na lot and be satisfied.",
+            "enText": "S'no problem at all! Seeing my customers<n>eat'n\nplenty and leav'n satisfied is what<n>makes me\nhappy.",
             "nextBlock": 39,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2638426011654564307
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 2151001876892880571
+                },
+                {
+                    "origLen": 196,
+                    "pathId": 8365274724749814199
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 8806063439005552767
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 4626115188172298966
+                }
+            ],
             "pathId": 6734813194126855013,
             "blockIdx": 38
         },
         {
             "jpName": "お店のおばちゃん",
-            "enName": "",
+            "enName": "Older Shopkeeper Lady",
             "jpText": "ユキノちゃんもほんとにありがとう。\r\nもう一人前のお給仕さんだねぇ～。",
-            "enText": "Thank you so much, Yukino-chan. You're a \nfull-fledged waiter now!",
+            "enText": "Thanks, Yukino! Why, you're a bona fide<n>refill'r\nnow!",
             "nextBlock": 40,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 4903004872264498481
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -9200022573762066774
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 7466844099799300201
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -690813893525380690
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8037660496839752411
+                }
+            ],
             "pathId": 4088578925897171799,
             "blockIdx": 39
         },
         {
             "jpName": "お店のおばちゃん",
-            "enName": "",
+            "enName": "Older Shopkeeper Lady",
             "jpText": "昔はちっちゃい体でお盆運んで、みんな\r\nはらはらしながら見守ってたンだけど……。",
-            "enText": "I used to carry a tray with my tiny body, \nand everyone watched me with trepidation…",
+            "enText": "You use to be just a tiny kid carry'n<n>around the\nserv'n tray. Everyone'd be so<n>worried watch'n ya.",
             "nextBlock": 41,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 4033460389953590209
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 5181432746932429104
+                },
+                {
+                    "origLen": 160,
+                    "pathId": -8010587606577903910
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 6997559076336052108
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 7095552146733493641
+                }
+            ],
             "pathId": -4373486730341133991,
             "blockIdx": 40
         },
@@ -441,8 +1336,33 @@
             "jpName": "ユキノビジン",
             "enName": "Yukino Bijin",
             "jpText": "お、おばちゃんってばも～！",
-            "enText": "Oh, my auntie!",
+            "enText": "Awww, c'mon now! Shucks.",
             "nextBlock": 42,
+            "origClipLength": 61,
+            "voiceIdx": 4,
+            "voiceSheetId": "051029001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -6053828061629993185
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4447054082432329536
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 6183038387352088594
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 8710403029601414316
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 5375270702850187927
+                }
+            ],
             "pathId": -7080057067186689293,
             "blockIdx": 41
         },
@@ -450,8 +1370,29 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後、オグリキャップが満腹になるまで\r\nユキノビジンは給仕を続けた……。\nある意味、いいトレーニングになっただろう。",
-            "enText": "After that, Yukino Bijin continued to serve \nuntil Oguri Cap was full… In a way, it \nwould have been a good training.",
+            "enText": "Yukino Bijin continues refilling Oguri<n>Cap's bowl\nuntil she's full... I guess this<n>ended up being a\ngood training session<n>for everyone.",
             "nextBlock": -1,
+            "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 14,
+                    "pathId": 6876825176016415073
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 3131090615527863409
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -1965421259587042104
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 8590452967872108746
+                }
+            ],
             "pathId": 2715943707142776314,
             "blockIdx": 42
         }

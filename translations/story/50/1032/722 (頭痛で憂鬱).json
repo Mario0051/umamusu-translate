@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "7IUCEPNASONA4CXSQ4WNM34JOFHQK4ZS",
+    "version": 6,
+    "bundle": "ZQWDNAN37EDJTI5HT67FOUJDU4XCIAME",
     "type": "story",
     "storyId": "501032722",
     "title": "頭痛で憂鬱",
+    "enTitle": "Migraine Blues",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーナー室で、\r\n書類仕事をしていると――",
-            "enText": "I'm in the trainer's office,\ndoing paperwork.",
+            "enText": "I'm in my office doing paperwork when...",
             "nextBlock": 2,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 838664249825237425,
             "blockIdx": 1
         },
@@ -18,18 +22,31 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "うー……。\r\nトレーナーくーん、助けておくれよ～。",
-            "enText": "Woo… Trainer, please help me!",
+            "enText": "Uuugh... Trainer, I need your help.",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "voiceIdx": 17,
+            "voiceSheetId": "051032001",
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
-                    "enText": "What's going on?",
+                    "enText": "What's the matter?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What's the matter?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 131,
+                    "pathId": -710621997234442974
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -6768928909207718146
                 }
             ],
             "pathId": 3664262744653355193,
@@ -39,8 +56,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "頭がガンガンするんだよ～。\r\nまともに思考が働かないんだ。",
-            "enText": "My head is all over the place!\nI can't think straight.",
+            "enText": "My head is pounding... I can't think<n>straight.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "voiceIdx": 108,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2672513953476899432
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7717518757325838117
+                }
+            ],
             "pathId": 2579372224199663800,
             "blockIdx": 3
         },
@@ -48,8 +78,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "なぁ、君は私の助手だろ？\r\nこの痛み、どうにかしておくれよ～。",
-            "enText": "Hey, you're my assistant, right? Can you\nplease do something about this pain?",
+            "enText": "You're my assistant. You have to do<n>something\nabout this pain...",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "voiceIdx": 15,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5786150514876584535
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -5458890415123098760
+                }
+            ],
             "pathId": 3405472974505197604,
             "blockIdx": 4
         },
@@ -57,8 +100,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "あたたた……声を出すのもつらいぞ。\r\nこれじゃ、まともに研究も出来ない……。",
-            "enText": "It's hard to even speak out…\nI can't even do proper research\nwith this…",
+            "enText": "Aaah... It even hurts just to speak.<n>There's no way\nI can do proper research<n>like this...",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "voiceIdx": 18,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3696147818987675431
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -5653506543718721758
+                }
+            ],
             "pathId": 7729419121667585474,
             "blockIdx": 5
         },
@@ -66,8 +122,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "痛み止めも作れないじゃないか。\r\nはぁ～……もうダメだ……。",
-            "enText": "You can't even make painkillers. Huh.\n… I'm screwed…",
+            "enText": "I can't even make any painkillers. <i>Sigh...</i><n>It's\nhopeless...",
             "nextBlock": 7,
+            "origClipLength": 64,
+            "voiceIdx": 60,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -1875317679498009373
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 6719706151692292370
+                }
+            ],
             "pathId": -8867472797196319070,
             "blockIdx": 6
         },
@@ -75,8 +144,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "アグネスタキオンは、とてもつらそうだ。\r\nどうにかしてあげた方がいいだろう。",
-            "enText": "Agnes Tachyon looks like she's in a lot of\npain. We'd better do something about it.",
+            "enText": "Agnes Tachyon looks terrible. I should<n>do\nsomething to help her.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2804327691678004659
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 414877572026317829
+                }
+            ],
             "pathId": 8585956374059084967,
             "blockIdx": 7
         }

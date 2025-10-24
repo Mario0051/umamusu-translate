@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "6DDIN6MJON3VBSL5WNUWGFDE72TPUCZW",
+    "version": 6,
+    "bundle": "MHIHQGWHYZU6SUWIXAV3LELWJ3JGAHCD",
     "type": "story",
     "storyId": "801025002",
     "title": "静けさを嗜む",
+    "enTitle": "A Taste of Silence",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "夜の学園内を歩いていると、\r\nどこからともなく、よい香りが漂ってきた――",
-            "enText": "As I walked through the school at \nnight, I could smell a delicious \naroma coming from nowhere.",
+            "enText": "While I'm walking around the academy<n>at night, I\nnotice a fragrant aroma<n>wafting toward me.",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7791512094308092662,
             "blockIdx": 1
         },
@@ -18,8 +22,25 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "――――ふぅ。",
-            "enText": "— Phew.",
+            "enText": "Phew...",
             "nextBlock": 3,
+            "origClipLength": 49,
+            "voiceIdx": 59,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -515833546150146632
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3147331207611119771
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 6973140564220572371
+                }
+            ],
             "pathId": 1646809096446454531,
             "blockIdx": 2
         },
@@ -27,18 +48,35 @@
             "jpName": "",
             "enName": "",
             "jpText": "香りは彼女の近くから漂っているようだった。\r\nこれは……コーヒーの香りだ。",
-            "enText": "The scent seemed to waft from her vicinity. \nThis is the scent of… coffee.",
+            "enText": "Before long, I recognize it as the smell<n>of coffee.\nUpon investigating, I realize<n>it's coming from\nManhattan Cafe.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……もうすぐ門限だが、大丈夫か？",
-                    "enText": "… It's almost curfew, are you OK?",
+                    "enText": "It's almost curfew, you know.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "……もうすぐ門限だけど、大丈夫？",
-                    "enText": "… It's almost curfew, are you OK?",
+                    "enText": "It's almost curfew, you know.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 821521917467213590
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4467510420939785631
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 7171398543331367297
                 }
             ],
             "pathId": 1651762655659011529,
@@ -48,28 +86,45 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……飲み終わりました。\r\n寮に戻ろうとしていたところです。",
-            "enText": "I've finished my… drink. I was just \nabout to go back to my dorm.",
+            "enText": "...I know. I'm just finishing up my drink<n>before I\nhead back.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
             "choices": [
                 {
                     "jpText": "リラックスタイムだったのか？",
-                    "enText": "Was it relaxation time?",
+                    "enText": "Were you trying to relax?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "リラックスタイムだったのかな？",
-                    "enText": "Was it relaxation time?",
+                    "enText": "Were you trying to relax?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "こんな暗い所にひとりでも、怖くないんだな",
-                    "enText": "You're not afraid of being alone \nin this dark place, are you?",
+                    "enText": "You're not scared being in the dark all alone?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "こんな暗い所にひとりでも、怖くないんだね",
-                    "enText": "You're not afraid of being alone \nin this dark place, are you?",
+                    "enText": "You're not scared being in the dark all alone?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": -8740812287553103784
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6947358378663901119
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 5968718529867480423
                 }
             ],
             "pathId": 5474348681634822991,
@@ -79,28 +134,45 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……飲み終わりました。\r\n寮に戻ろうとしていたところです。",
-            "enText": "I've finished my… drink. I was just \nabout to go back to my dorm.",
+            "enText": "...I know. I'm just finishing up my drink<n>before I\nhead back.",
             "nextBlock": 6,
+            "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
             "choices": [
                 {
                     "jpText": "リラックスタイムだったのか？",
-                    "enText": "Was it relaxation time?",
+                    "enText": "Were you trying to relax?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "リラックスタイムだったのかな？",
-                    "enText": "Was it relaxation time?",
+                    "enText": "Were you trying to relax?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "こんな暗い所にひとりでも、怖くないんだな",
-                    "enText": "You're not afraid of being alone \nin this dark place, are you?",
+                    "enText": "You're not scared being in the dark all alone?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "こんな暗い所にひとりでも、怖くないんだね",
-                    "enText": "You're not afraid of being alone \nin this dark place, are you?",
+                    "enText": "You're not scared being in the dark all alone?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 1667622750223137661
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 2530614843926980832
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -148953896790669720
                 }
             ],
             "pathId": 2479668286722890375,
@@ -110,18 +182,31 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……コーヒーを飲んでいました。",
-            "enText": "I had a cup of… coffee.",
+            "enText": "Yes... I was drinking coffee.",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "voiceIdx": 0,
+            "voiceSheetId": "051025001",
             "choices": [
                 {
                     "jpText": "いい香りだったな",
-                    "enText": "That smelled good.",
+                    "enText": "It smelled amazing.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "いい香りだったよ",
-                    "enText": "It smelled so good.",
+                    "enText": "It smelled amazing.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 2278999417242926500
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 4872373274261731295
                 }
             ],
             "pathId": 2953289969006237270,
@@ -131,8 +216,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……グアテマラのフルシティローストで\r\nいいものが入ったので……。",
-            "enText": "We've got a good one in… a full \ncity roast from Guatemala…",
+            "enText": "I came across some decent Guatemala<n>full city\nroast that piqued my interest...",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "voiceIdx": 2,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -405399565003699173
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 5783628932907196973
+                }
+            ],
             "pathId": 4186511317718023751,
             "blockIdx": 7
         },
@@ -140,18 +238,31 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "今日は……香りを楽しもうと思い、\r\n飲んでいました。",
-            "enText": "Today I thought I would enjoy \nthe… aroma and had a drink.",
+            "enText": "And I just really felt like enjoying its<n>aroma today.",
             "nextBlock": 9,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "夜にコーヒー飲むと眠れなくないか？",
-                    "enText": "Isn't it hard to sleep when \nyou drink coffee at night?",
+                    "enText": "Isn't it hard to sleep after drinking coffee so\nlate?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "夜にコーヒー飲むと眠れなくない？",
-                    "enText": "Do you have trouble sleeping when \nyou drink coffee at night?",
+                    "enText": "Isn't it hard to sleep after drinking coffee so\nlate?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6195210332643833573
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 2876977085499230837
                 }
             ],
             "pathId": 4801785643425098541,
@@ -161,8 +272,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……落ち着いて、眠りやすくなります。\r\n人それぞれだと……思います。",
-            "enText": "… calms you down and makes it easier to \nsleep. I think it depends on the person…",
+            "enText": "No. It calms me and makes sleeping<n>easier.\nCoffee affects people<n>differently...",
             "nextBlock": 10,
+            "origClipLength": 67,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -792566259380848853
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2695201766502709199
+                }
+            ],
             "pathId": -1821749287220506125,
             "blockIdx": 9
         },
@@ -170,8 +294,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……夜に飲む方が、リラックスできます。\r\n……好きに飲むのが、気楽でいいです。",
-            "enText": "… It is more relaxing to drink in the \nevening… It is easier to drink as you like.",
+            "enText": "I find it more relaxing to drink at night.<n>It lets me\ntake the time to savor it...",
             "nextBlock": 11,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -5160257966294837584
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -1347234108091321966
+                }
+            ],
             "pathId": 1895031892355695929,
             "blockIdx": 10
         },
@@ -179,8 +316,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……寮に、帰ります。",
-            "enText": "I'm going back to my dorm…",
+            "enText": "...I'm going back to the dorms.",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "voiceIdx": 44,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1812158853045578373
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2933398429508989515
+                }
+            ],
             "pathId": 6882511874624374552,
             "blockIdx": 11
         },
@@ -188,8 +338,25 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "静かで、落ち着くので……。",
-            "enText": "It's quiet, it's calm and it's…",
+            "enText": "No... It's quiet and calm...",
             "nextBlock": 13,
+            "origClipLength": 53,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4247389450697491632
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1777901158266001045
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2865601332458825690
+                }
+            ],
             "pathId": -2520072194128256832,
             "blockIdx": 12
         },
@@ -197,18 +364,31 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……ゆっくりしたいときには、\r\nここにいます……。",
-            "enText": "… If you want to relax, we are here…",
+            "enText": "I come here when I want to relax...",
             "nextBlock": 14,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "もう少し明るい場所でもいいんじゃないか",
-                    "enText": "You could do with a bit more light.",
+                    "enText": "Wouldn't somewhere brighter be better?",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "もう少し明るい場所でもいいんじゃない",
-                    "enText": "You could do with a bit more light.",
+                    "enText": "Wouldn't somewhere brighter be better?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8494391513054429398
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 8302199402014382693
                 }
             ],
             "pathId": 2194215101674291426,
@@ -218,8 +398,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……暗い方が、集中しやすいです。\r\n香り……味……温度……音……感じやすい。",
-            "enText": "The darker the… the easier it is to \nconcentrate. Smell… Taste… Temperature… \nSound … is easier to feel.",
+            "enText": "It's easier for me to focus in the dark. I<n>feel more\nattuned to scents and flavors...<n>temperatures and\nsounds.",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5644381652495479021
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 3659473947048769924
+                }
+            ],
             "pathId": -684401810727542065,
             "blockIdx": 14
         },
@@ -227,8 +420,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "そうして感じやすい方が、\r\nコーヒーは……美味しいです。",
-            "enText": "The more likely you are to feel that way, \nthe better the coffee will… taste.",
+            "enText": "When my senses are sharpened, coffee<n>tastes\nmore delicious.",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8699392671579111588
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6773764699925433519
+                }
+            ],
             "pathId": 7336531282787094958,
             "blockIdx": 15
         },
@@ -236,8 +442,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "それに考えごとも……考えないことも……\r\n暗い方が……しやすいです。",
-            "enText": "And it's easier to… think and \nnot … think when it's dark.",
+            "enText": "And it's easier both to think... and not to<n>think in\nthe dark.",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 2035707702469210461
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -1164786074331448737
+                }
+            ],
             "pathId": -707554210233940703,
             "blockIdx": 16
         },
@@ -245,8 +464,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……寮に、帰ります。",
-            "enText": "I'm going back to my dorm…",
+            "enText": "...I'm going back to the dorms.",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "voiceIdx": 44,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -7452311168553000498
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -2666631566553257030
+                }
+            ],
             "pathId": 6047803821847273095,
             "blockIdx": 17
         }

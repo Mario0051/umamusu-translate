@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "PM7RAHVDJ2KYWCKKO74MXAK4F2FXT3DJ",
+    "version": 6,
+    "bundle": "74ZAERJNTSEINMCICJPSK3CHUKQAGRRU",
     "type": "story",
     "storyId": "501009519",
     "title": "気になるウワサ",
+    "enTitle": "A Curious Rumor",
     "text": [
         {
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "うー……最近、肩とか頭が重たいのよね。\r\n……まさかあのウワサ、本当なのかしら。",
-            "enText": "Woo…… my shoulders and head have been heavy \nlately.…… I wonder if those rumors are true.",
+            "enText": "Ngh... My shoulders have been aching<n>lately... I\nguess that rumor really is true.",
             "nextBlock": 2,
             "origClipLength": 71,
+            "voiceIdx": 35,
+            "voiceSheetId": "051009001",
             "choices": [
                 {
                     "jpText": "ウワサって？",
-                    "enText": "What's the rumor?",
+                    "enText": "What rumor?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 82,
-                    "pathId": 55817804000158065
+                    "pathId": -1201458549599288712
                 },
                 {
                     "origLen": 82,
-                    "pathId": -1201458549599288712
+                    "pathId": 55817804000158065
                 }
             ],
             "pathId": 1044367275554498851,
@@ -36,17 +39,19 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "その……最近、出るんですって。\r\n……夜のコースに、幽霊が。",
-            "enText": "That…… she's been going out lately. On the…… \ncourse of the night, ghosts.",
+            "enText": "Um... They say there's, uh... a ghost that<n>shows up\nat the track at night.",
             "nextBlock": 3,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 42,
-                    "pathId": 2419774830043598535
-                },
                 {
                     "origLen": 75,
                     "pathId": -7952425791273605030
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 2419774830043598535
                 }
             ],
             "pathId": 1314807574718877073,
@@ -56,17 +61,19 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "言っとくけど！　こ、怖くなんてないわよ。\r\n幽霊なんているわけないんだからっ！",
-            "enText": "I'm telling you! I'm not scared. \nGhosts don't exist!",
+            "enText": "B-but I'm not scared, obviously! I don't<n>believe in\nghosts!",
             "nextBlock": 4,
             "origClipLength": 70,
+            "voiceIdx": 19,
+            "voiceSheetId": "051009001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -3811479550579125193
-                },
                 {
                     "origLen": 81,
                     "pathId": -2296031883489629644
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -3811479550579125193
                 }
             ],
             "pathId": 7355952727474464226,
@@ -76,17 +83,19 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "でも……実際、夜ここで自主トレしてるし……\r\n調子も悪いし……き、気になるのよ。",
-            "enText": "But…… in fact, I'm training myself here at \nnight…… and I'm in a bad mood…… and I'm \nconcerned about it.",
+            "enText": "Still... I have been doing some solo<n>training at\nnight, and I've been feeling<n>out of it... S-so it's\nbeen on my mind.",
             "nextBlock": 5,
             "origClipLength": 71,
+            "voiceIdx": 61,
+            "voiceSheetId": "051009001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 3644201836357953907
-                },
                 {
                     "origLen": 82,
                     "pathId": 7963656409699211751
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3644201836357953907
                 }
             ],
             "pathId": 9034964864089609037,
@@ -96,22 +105,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "ずっと怯えていたせいか、\r\nダイワスカーレットは\n調子を崩してしまったようだ……。",
-            "enText": "Perhaps because she was frightened \nthe whole time, Daiwa Scarlet seems \nto have fallen out of shape. ……",
+            "enText": "It sounds like it really did get to her. She<n>seems a\nbit under the weather...",
             "nextBlock": -1,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 124,
-                    "pathId": -7718127715226173056
-                },
                 {
                     "origLen": 82,
                     "pathId": -2751060586361146233
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -7718127715226173056
                 }
             ],
             "pathId": -7670386685128541548,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657176601
+    ]
 }

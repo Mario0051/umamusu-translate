@@ -1,25 +1,32 @@
 {
-    "version": 4,
-    "bundle": "7M2LIOOOYUUV2FPNGINMJVHDF7UWE4SQ",
+    "version": 6,
+    "bundle": "QIUHSHAXFTBG7IIY4ZQWTVBI4MAMAODO",
     "type": "story",
     "storyId": "041061004",
     "title": "覚悟と宣言",
+    "enTitle": "Make a Statement",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "前日から降り続いていた雨も午後には上がり、いよいよ、\r\nキングヘイローの出走する模擬レースが始まろうとしていた。",
-            "enText": "The rain that had been falling yesterday stopped in the \nafternoon, and it was finally time for King Halo's mock race.",
+            "enText": "After hours and hours of rain stretching<n>well into the afternoon, the\nclouds finally<n>clear away, signaling the start of the<n>scrimmage.",
             "nextBlock": 2,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2364913790499043968,
             "blockIdx": 1
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "おおっ、賑わってますね～！　そりゃそうか。\r\nあのグラスワンダーが出走するんですし！",
-            "enText": "Ohh, it's pretty crowded! Well that-s to be expected I guess. \nThat Grass Wonder is gonna be participating!",
+            "enText": "Wow, this place is packed with people! I'm<n>not surprised\nthough—Grass Wonder's<n>going to be racing today!",
             "nextBlock": 3,
+            "origClipLength": 210,
+            "voiceIdx": 0,
+            "voiceSheetId": "041061004",
             "pathId": 1850227528345189291,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "雨のせいでコースの状態はよくないが……\r\nまあ、グラスならものともしないだろうな。……おっ、来たぞ！",
-            "enText": "The track condition isn't very good cause of the rain… Well, if \nit's Grass Wonder it shouldn't be a problem. Oh, here she comes!",
+            "enText": "The track doesn't look too good after all<n>that rain... but I'm sure this is\nnothing for<n>Grass.",
             "nextBlock": 4,
+            "origClipLength": 274,
+            "voiceIdx": 1,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 197,
+                    "pathId": -765958750748160365
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7130289545730984042
+                }
+            ],
             "pathId": -4855245612507850918,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "おはようございます～、キングちゃん。\n今日はよろしくお願いいたしますね。",
-            "enText": "Good morning. King-chan～. \nGood luck out there today.",
+            "enText": "Hello, King! Let's have a good race today. ",
             "nextBlock": 5,
+            "origClipLength": 161,
+            "voiceIdx": 2,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -9200254497830423814
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -196661663826250768
+                }
+            ],
             "pathId": 7331300891224524380,
             "blockIdx": 4
         },
@@ -45,8 +78,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "胸を借りる権利をあげるわ、グラスさん！\n一流の走りを見せてあげる！",
-            "enText": "I'll give you the right to challenge me. Grass-san! \nI'll show you the running of a first-class!",
+            "enText": "I'll give you the honor of facing me, Grass!<n>I'll show you what a\nfirst-rate running style<n>looks like!",
             "nextBlock": 6,
+            "origClipLength": 173,
+            "voiceIdx": 3,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4175919250201397067
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 358548979678720498
+                },
+                {
+                    "origLen": 185,
+                    "pathId": -1086176511955454783
+                }
+            ],
             "pathId": -833879974480827524,
             "blockIdx": 5
         },
@@ -54,18 +104,39 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……あなた、また来たのね。",
-            "enText": "…You came again, huh.",
+            "enText": "…So, you're here again.",
             "nextBlock": 7,
+            "origClipLength": 92,
+            "voiceIdx": 4,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "君が走ると聞いたから",
-                    "enText": "I heard you'd be running.",
+                    "enText": "Yeah, I came to see you participate.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "貴方が走るって聞いたから",
-                    "enText": "I heard you were running.",
+                    "enText": "Yeah, I came to see you participate.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 112559493832203939
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4907346887331224837
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 1247380829450824209
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3440068722358727636
                 }
             ],
             "pathId": -7408992579446579523,
@@ -75,8 +146,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ふーん……。\n思った以上に頑固だったのね、あなた。",
-            "enText": "Hmm… \nYou're more rebellious than I thought.",
+            "enText": "Hmm... You're more stubborn than I<n>expected.",
             "nextBlock": 8,
+            "origClipLength": 156,
+            "voiceIdx": 5,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4545773643540363939
+                },
+                {
+                    "origLen": 168,
+                    "pathId": -7263545244691881037
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6722914982187343799
+                }
+            ],
             "pathId": 8436920935848635365,
             "blockIdx": 7
         },
@@ -84,8 +172,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……まあ、いいわ！　そんなにキングの走りが見たいなら、\r\n何度でも魅了してあげる。おーっほっほっほっほ！",
-            "enText": "…Well, fine. If you want to see King run so badly I'll \nentertain you as many times as you like! Ohhohoho!",
+            "enText": "...I don't mind though. If that's how badly<n>you want to watch me run,\nthen I'll give<n>you a show! Ohohoho!",
             "nextBlock": 9,
+            "origClipLength": 277,
+            "voiceIdx": 6,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -2612219247213641795
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -7834001965094391915
+                }
+            ],
             "pathId": -5922947102149157752,
             "blockIdx": 8
         },
@@ -93,18 +194,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いやー、お嬢様は相変わらずですね～。",
-            "enText": "Well, the princess is the same as ever～.",
+            "enText": "Looks like King's doing just fine.",
             "nextBlock": 10,
+            "origClipLength": 142,
+            "voiceIdx": 7,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "君もキングヘイローの応援に来たのか？",
-                    "enText": "Did you come to cheer on King Halo too?",
+                    "enText": "Did you come here to support King too?",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "貴方もキングヘイローの応援に来たの？",
-                    "enText": "Are you here to support King Halo too?",
+                    "enText": "Did you come here to support King too?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": 7085686593795488990
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 637059622933670456
                 }
             ],
             "pathId": 3438067434651529317,
@@ -114,8 +228,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "にゃはは、そんなんじゃないよー。\r\nちょっと空き時間が出来たから、暇つぶしに来ただけー。",
-            "enText": "Nyahaha, it's not like that～. \nI was just free, so I came to kill some time.",
+            "enText": "Nyahaha, nah. I didn't have much to do<n>today, so I'm just here to kill\nsome time.",
             "nextBlock": 11,
+            "origClipLength": 231,
+            "voiceIdx": 8,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 5441365173243725517
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 1150896792720157293
+                }
+            ],
             "pathId": -179535544263824784,
             "blockIdx": 10
         },
@@ -123,8 +250,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "それより、始まるみたいだよ～。よそ見してたってバレたら\r\n拗ねられそうだし、しっかり見てあげたほうがいいんじゃない？",
-            "enText": "That aside, it looks like it's starting～. We'll \nprobably get scorned if we don't pay attention. \nso wouldn't it be better to watch properly?",
+            "enText": "Anyway, looks like the race is starting.<n>You better pay close\nattention. If she finds<n>out you weren't properly looking, she'll<n>get all\nupset.",
             "nextBlock": 12,
+            "origClipLength": 290,
+            "voiceIdx": 9,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 102598211515888699
+                },
+                {
+                    "origLen": 301,
+                    "pathId": -1171841134234375887
+                }
+            ],
             "pathId": 864483794270138070,
             "blockIdx": 11
         },
@@ -132,17 +272,43 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "道を開けなさい！　キングが通るわっ！！",
-            "enText": "Clear the way! King is coming through!!",
+            "enText": "Clear the way! I'm coming through!",
             "nextBlock": 13,
+            "origClipLength": 87,
+            "voiceIdx": 10,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 814440712222933297
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 8461483418742493606
+                }
+            ],
             "pathId": -1534693210520458554,
             "blockIdx": 12
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "おっ、キングヘイロー、前に来ましたね！\n母親同様、力の要るコースは得意なのかな？",
-            "enText": "Oh, King Halo came again! Is she good at \ncourses that require power like her mother?",
+            "enText": "Whoa, King Halo's charging to the front!<n>Maybe she's good at races\nthat require<n>power, just like her mother?",
             "nextBlock": 14,
+            "origClipLength": 204,
+            "voiceIdx": 11,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4236897025308687438
+                },
+                {
+                    "origLen": 215,
+                    "pathId": 6172289452974427821
+                }
+            ],
             "pathId": 1185331779403591171,
             "blockIdx": 13
         },
@@ -150,8 +316,21 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "さて、どうだろうな……そうと決めつけるのは早計だろう。\r\nもう少し様子を見ないとな。",
-            "enText": "Well, who knows… it's too early to say right now \nWe'll have to watch a bit more-",
+            "enText": "Who knows. It's too early to say for sure<n>yet. Let's keep watching.",
             "nextBlock": 15,
+            "origClipLength": 226,
+            "voiceIdx": 12,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7540124606414907485
+                },
+                {
+                    "origLen": 237,
+                    "pathId": 6653337418436399526
+                }
+            ],
             "pathId": 4323709117238866000,
             "blockIdx": 14
         },
@@ -159,8 +338,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "はあ……はあ……！\n私は、一流として……結果を残すのっ……！",
-            "enText": "Ha… Ha…! \nI, have to leave results… as a first class…!",
+            "enText": "<i>Pant, pant...</i> I will... prove that... I'm<n>first-rate!",
             "nextBlock": 16,
+            "origClipLength": 206,
+            "voiceIdx": 13,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3452406830840864734
+                },
+                {
+                    "origLen": 169,
+                    "pathId": -4867742180770627076
+                }
+            ],
             "pathId": 1040580493130281445,
             "blockIdx": 15
         },
@@ -168,8 +360,33 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "お～、キングにしては珍しい展開だね。選抜レースの時\r\n集団に埋もれちゃったのが、なんだかんだでこたえたのかな～？",
-            "enText": "Oh, this is a rare development for King. During the selection \nrace she was buried in the group, I wonder what changed～?",
+            "enText": "Oooh, this is new from King. I guess she<n>doesn't wanna get stuck\nagain in the<n>middle of the pack like at the tryouts.",
             "nextBlock": 17,
+            "origClipLength": 351,
+            "voiceIdx": 14,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3708821043873523010
+                },
+                {
+                    "origLen": 315,
+                    "pathId": 6708196288230302778
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5240043107339362910
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6277043461571606051
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -9129948392730093394
+                }
+            ],
             "pathId": -4557452259224920111,
             "blockIdx": 16
         },
@@ -177,8 +394,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "けど、ちょ～っとフォームが崩れてるなぁ。力みすぎってやつだね。\r\nやる気がありすぎてがんじがらめなのは、いつものことだけどさ。",
-            "enText": "But her form is kinda breaking. Like she's putting \ntoo much strength into it. Her being too motivated \nand hard-working isn't anything new though.",
+            "enText": "But her body's stiffening up under all that<n>energy she's putting in.\nThis always<n>happens to her whenever she gets too<n>pent up about\nsomething.",
             "nextBlock": 18,
+            "origClipLength": 362,
+            "voiceIdx": 15,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3436916668719095257
+                },
+                {
+                    "origLen": 205,
+                    "pathId": 317149670604902871
+                }
+            ],
             "pathId": 5817222754188022098,
             "blockIdx": 17
         },
@@ -186,17 +416,35 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "もったいないな……。\r\n少しは自由に走ればいいのに。",
-            "enText": "What a waste… \nShe should just run a little freely.",
+            "enText": "Ah, what a shame. If only she learned to<n>relax and run more freely...",
             "nextBlock": 19,
+            "origClipLength": 159,
+            "voiceIdx": 16,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": 7327493302940481022
+                }
+            ],
             "pathId": 6999600175016086141,
             "blockIdx": 18
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "直線……！　きたっ、グラスワンダーだ！！",
-            "enText": "Straight line…! Here she comes. it's Grass Wonder!",
+            "enText": "It's the final stretch! Look, Grass Wonder's<n>coming!",
             "nextBlock": 20,
+            "origClipLength": 103,
+            "voiceIdx": 17,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -5899639437835280537
+                }
+            ],
             "pathId": 1731391869291015328,
             "blockIdx": 19
         },
@@ -204,8 +452,21 @@
             "jpName": "グラスワンダー",
             "enName": "Grass Wonder",
             "jpText": "むぅぅぅぅぅぅぅっ！",
-            "enText": "Nghhhhh!",
+            "enText": "Hnnngh!",
             "nextBlock": 21,
+            "origClipLength": 58,
+            "voiceIdx": 18,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -3352797194070652463
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -100675311028447017
+                }
+            ],
             "pathId": -4958938131504843600,
             "blockIdx": 20
         },
@@ -213,8 +474,17 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "なんて力強い……！！　足元の悪さを感じさせない走りだな！！\r\nキングとの差がどんどん開いていくぞ……！",
-            "enText": "What strong power!! She's running in a way that \nstops her from putting the stress on her legs!! \nThe gap with King just keeps widening…!",
+            "enText": "She's a force to be reckoned with! I don't<n>see a hint of weakness in\nher gait! The gap<n>between her and King is rapidly increasing!",
             "nextBlock": 22,
+            "origClipLength": 241,
+            "voiceIdx": 19,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 252,
+                    "pathId": -4973259265355996043
+                }
+            ],
             "pathId": 7254111870471559573,
             "blockIdx": 21
         },
@@ -222,8 +492,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "んー……。主役はグラスちゃんになっちゃったかー。",
-            "enText": "Ngh. Looks like Grass-chan ended up being the star.",
+            "enText": "Hmm... Looks like Grass ended up being<n>the star of today's show.",
             "nextBlock": 23,
+            "origClipLength": 135,
+            "voiceIdx": 20,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -6649595097903283990
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -8023352015438973728
+                }
+            ],
             "pathId": -6171793326224853643,
             "blockIdx": 22
         },
@@ -231,8 +514,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして、レース終了後……。",
-            "enText": "Then, after the race…",
+            "enText": "And so, the race comes to an end. ",
             "nextBlock": 24,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -9133127161033956872
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 5057449200951583409
+                }
+            ],
             "pathId": -2978294693693628213,
             "blockIdx": 23
         },
@@ -240,8 +536,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "さすがグラスワンダーだったな。",
-            "enText": "As expected of Grass Wonder.",
+            "enText": "I always knew Grass Wonder would win.",
             "nextBlock": 25,
+            "origClipLength": 85,
+            "voiceIdx": 21,
+            "voiceSheetId": "041061004",
             "pathId": -6974622356755505429,
             "blockIdx": 24
         },
@@ -249,17 +548,23 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "今はスカウトを受けていないらしいが……\r\n次回の選抜レース後は是非、彼女と話したいものだ。",
-            "enText": "It seems she's not accepting scouts right now but… \nNext Selection Race she's absolutely someone I'd want to talk to.",
+            "enText": "It doesn't look like she's accepting any<n>scouting offers right now, but\nI'd love to<n>have a chat with her at the next tryouts.",
             "nextBlock": 26,
+            "origClipLength": 217,
+            "voiceIdx": 22,
+            "voiceSheetId": "041061004",
             "pathId": 7326429213472029777,
             "blockIdx": 25
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "ですね！　キングヘイローの方は……まあ、これでそろそろ\r\n現実的な視点を持てるようになったんじゃないでしょうか。",
-            "enText": "Right! As for King Halo… well, I suspect she'll \nstart taking a more realistic perspective soon.",
+            "enText": "Me too! As for King Halo... well, I'm sure<n>she got a reality check after\nseeing today's<n>results.",
             "nextBlock": 27,
+            "origClipLength": 243,
+            "voiceIdx": 23,
+            "voiceSheetId": "041061004",
             "pathId": 510095724486135435,
             "blockIdx": 26
         },
@@ -267,8 +572,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "はあ……はあ……。\n…………っ！",
-            "enText": "Ha… Ha… \n…Ngh!",
+            "enText": "<i>Pant, pant...</i>",
             "nextBlock": 28,
+            "origClipLength": 194,
+            "voiceIdx": 24,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -432876493094259700
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 6519111991391996975
+                }
+            ],
             "pathId": 2747659622260570225,
             "blockIdx": 27
         },
@@ -276,8 +594,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "おーっほっほっほ！　次こそはトップを譲らないわ！\r\n覚悟しておきなさい、キングの走りはこの程度じゃないんだから！",
-            "enText": "Ohhohoho! I won't give up first next time! \nPrepare yourself, this isn't all there is to King's running!",
+            "enText": "Ohohoho! Next time will be different! Get<n>ready everyone, because\nyou all haven't<n>even seen my best yet!",
             "nextBlock": 29,
+            "origClipLength": 310,
+            "voiceIdx": 25,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 44,
+                    "pathId": -7174478216794185724
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8050403217112153484
+                }
+            ],
             "pathId": 2439083586597287834,
             "blockIdx": 28
         },
@@ -285,8 +616,17 @@
             "jpName": "",
             "enName": "",
             "jpText": "相変わらずの宣言に、トレーナーたちが呆れ顔を彼女に向ける。",
-            "enText": "As usual, the trainers turn their dismayed faces towards her.",
+            "enText": "The other trainers turn to her with a look<n>of exasperation on their\nfaces as she<n>flaunts her usual demeanor.",
             "nextBlock": 30,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 7168171463666149600
+                }
+            ],
             "pathId": 2855832326840015895,
             "blockIdx": 29
         },
@@ -294,8 +634,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "そうよ、私に注目なさい！　そして、しっかり覚えておくといいわ！\r\n私はキングヘイロー、一流のウマ娘よ！",
-            "enText": "That's right! Pay attention to me and remember this well! \nI'm King Halo, the first-class horse girl!",
+            "enText": "That's right, pay careful attention!<n>Remember my words—I am King\nHalo, the<n>first-rate racer!",
             "nextBlock": 31,
+            "origClipLength": 337,
+            "voiceIdx": 26,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 7239140444317409426
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1832531550236802783
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2233189253847513613
+                }
+            ],
             "pathId": -1637798994200664027,
             "blockIdx": 30
         },
@@ -303,8 +660,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "負けても、悔しくても、呆れられても、彼女は“一流”を\r\n名乗り続ける事をやめない。それが、己に強いた覚悟だから。",
-            "enText": "No matter how much she loses. how frustrated she gets, or how \ndisappointed. she continues to call herself \"first-class\". \nBecause, that's the strength of her will.",
+            "enText": "Regardless of the defeats,<n>disappointments, or ridicule, her endless<n>\ncommitment pushes her to the finish line.",
             "nextBlock": 32,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 150,
+                    "pathId": -2335633371970403146
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -4518789582309704612
+                }
+            ],
             "pathId": 8702847166751044868,
             "blockIdx": 31
         },
@@ -312,18 +682,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "ならば、彼女のトレーナーに相応しい覚悟は――！",
-            "enText": "Then, her trainer should carry the same will!",
+            "enText": "If commitment is what she wants to see,<n>then there's only one thing\nfor me to do!",
             "nextBlock": 33,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "そして俺こそが、一流トレーナーだ！",
-                    "enText": "And, I'm the first-class trainer!",
+                    "enText": "And I am a first-rate trainer!",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "そして私こそが、一流トレーナーよ！",
-                    "enText": "And, I'm a first-class trainer!",
+                    "enText": "And I am a first-rate trainer!",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 8641590565602525829
+                },
+                {
+                    "origLen": 130,
+                    "pathId": 821647921507419108
                 }
             ],
             "pathId": 1800245657120581883,
@@ -333,8 +716,25 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "……はあ？",
-            "enText": "…Ha?",
+            "enText": "What?",
             "nextBlock": 34,
+            "origClipLength": 69,
+            "voiceIdx": 27,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1043535219108806375
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3147551440309758671
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5510953735014743380
+                }
+            ],
             "pathId": -3518921995105572107,
             "blockIdx": 33
         },
@@ -342,18 +742,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "へ？",
-            "enText": "Eh?",
+            "enText": "Huh?",
             "nextBlock": 35,
+            "origClipLength": 25,
+            "voiceIdx": 28,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "だから一流ウマ娘をスカウトする！",
-                    "enText": "That's why I'll scout a first-class horsegirl!",
+                    "enText": "That's why I want to scout a first-rate racer!",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "だから一流ウマ娘をスカウトします！",
-                    "enText": "That's why I'll scout a first-class horsegirl!",
+                    "enText": "That's why I want to scout a first-rate racer!",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 8453589383605736657
                 }
             ],
             "pathId": 5410032378751671295,
@@ -361,10 +770,19 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "えーっと……君、大丈夫？\nここにはグラスワンダーはいないわよ？",
-            "enText": "Umm… are you okay? \nGrass Wonder isn't here y'know?",
+            "enText": "Umm... are you okay? Did you mistake her<n>for Grass Wonder?",
             "nextBlock": 36,
+            "origClipLength": 208,
+            "voiceIdx": 29,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -6322426519854162501
+                }
+            ],
             "pathId": 6780544934279838764,
             "blockIdx": 35
         },
@@ -372,13 +790,22 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "というか、君の目の前には、\nキングヘイローしかいないんだが……？",
-            "enText": "Which would mean… \nThe only one in front of your eyes is King Halo?",
+            "enText": "You do realize the person in front of you is<n>King Halo, right?",
             "nextBlock": 37,
+            "origClipLength": 176,
+            "voiceIdx": 30,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "大丈夫です！彼女であってます！",
-                    "enText": "That's right! She is!",
+                    "enText": "That's right! I'm here for King Halo and no one\nelse!",
                     "nextBlock": 37
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -2857760446331627501
                 }
             ],
             "pathId": 3267409072101323625,
@@ -388,8 +815,17 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "（ざわざわ……）",
-            "enText": "(Chattering…)",
+            "enText": "<i>Murmur...</i>",
             "nextBlock": 38,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 220,
+                    "pathId": -2888171333794083671
+                }
+            ],
             "pathId": -4931518881095050630,
             "blockIdx": 37
         },
@@ -397,8 +833,17 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……ちょっと、あなた。",
-            "enText": "…Wait, you.",
+            "enText": "...Hey, you. ",
             "nextBlock": 39,
+            "origClipLength": 60,
+            "voiceIdx": 31,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 2326055229872218074
+                }
+            ],
             "pathId": 1174366455612999253,
             "blockIdx": 38
         },
@@ -406,8 +851,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "あなたには、このキングが生まれ持った圧倒的な才能をより高め、\r\nこの世界に示すという固い決意はあるかしら。",
-            "enText": "Do you have the iron will to prove King's overwhelming \nbirth-given talent to the world.",
+            "enText": "Are you sure you have what it takes to<n>push the boundaries of my\noverwhelming<n>talent?",
             "nextBlock": 40,
+            "origClipLength": 270,
+            "voiceIdx": 32,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -8083499239492897240
+                },
+                {
+                    "origLen": 282,
+                    "pathId": -4795879876071889033
+                }
+            ],
             "pathId": 6678336326762080950,
             "blockIdx": 39
         },
@@ -415,13 +873,30 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "そしてキングと共に無数の勝利を重ね、一流のウマ娘\r\n“キングヘイロー”の名を轟かせる覚悟はあるのかしら！？",
-            "enText": "And do you have the determination to rack up countless \nvictories, and make the name \"King Halo\" roar!?",
+            "enText": "Are you sure you're ready to become an<n>unstoppable force and\nspread my name<n>around the world?",
             "nextBlock": 41,
+            "origClipLength": 273,
+            "voiceIdx": 33,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "ある！！",
-                    "enText": "I do!!",
+                    "enText": "Yes!",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6855357646731783177
+                },
+                {
+                    "origLen": 285,
+                    "pathId": -7545992560580459317
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -4006088392967244598
                 }
             ],
             "pathId": -7273093360593754805,
@@ -431,8 +906,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……なら、決まりね。\nこの場にいる全員、お聞きなさい！",
-            "enText": "…Then, it's decided. \nEveryone here, listen up!",
+            "enText": "...Very well.\nEveryone here—listen up!",
             "nextBlock": 42,
+            "origClipLength": 212,
+            "voiceIdx": 34,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 1994790860815206930
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3922776717999192812
+                }
+            ],
             "pathId": 1847295726624346102,
             "blockIdx": 41
         },
@@ -440,8 +928,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "今、“一流のキングヘイロー”は、\nこの“一流のトレーナー”と組むと決めたわ！",
-            "enText": "Just now, the first-class King Halo has \ndecided to pair up with this first-class trainer!",
+            "enText": "From this day forward, I, the first-rate King<n>Halo, will join hands with\nthis first-rate<n>trainer!",
             "nextBlock": 43,
+            "origClipLength": 189,
+            "voiceIdx": 35,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3634808666891316078
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -5941650637246481137
+                }
+            ],
             "pathId": -629269666238358092,
             "blockIdx": 42
         },
@@ -449,8 +950,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "私たちはトゥインクル・シリーズに出て、あらゆるレースに\r\n勝利する。あなたたちはその栄光の旅路をぼけっと見てらっしゃい！",
-            "enText": "We'll enter the Twinkle Series, bringing victory to \nevery race. And you'll all watch that glorious journey in awe!",
+            "enText": "Get ready because we're going to take the<n>Twinkle Series by storm\nand win every<n>race! Better grab a pair of sunglasses so<n>you don't get\nblinded by our glory!",
             "nextBlock": 44,
+            "origClipLength": 307,
+            "voiceIdx": 36,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 1017255634428415570
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3135926337055210429
+                }
+            ],
             "pathId": 542666907457510797,
             "blockIdx": 43
         },
@@ -458,8 +972,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……さあ、契約よ。\n来なさい、トレーナー！",
-            "enText": "…Now, it's a contract. \nCome with me, trainer!",
+            "enText": "Come, Trainer. We have documents to<n>sign!",
             "nextBlock": 45,
+            "origClipLength": 188,
+            "voiceIdx": 37,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -9210004298160381250
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8574754380874555342
+                }
+            ],
             "pathId": 8492185398894230605,
             "blockIdx": 44
         },
@@ -467,8 +994,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……あなた、どうしてあんなことを？",
-            "enText": "…You. why would you do such a thing?",
+            "enText": "...Honestly, why on earth did you do that?",
             "nextBlock": 46,
+            "origClipLength": 155,
+            "voiceIdx": 38,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1350862315137507306
+                },
+                {
+                    "origLen": 195,
+                    "pathId": -4555979442711804862
+                }
+            ],
             "pathId": 3894305868759254858,
             "blockIdx": 45
         },
@@ -476,8 +1016,17 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "みんなが見ている前で『一流』だなんて。\r\nそうすることで何を背負うことになるか、本当にわかってるの？",
-            "enText": "To shout you're a \"first-class\" while everyone is watching. \nDo you really understand what you're taking on by doing that?",
+            "enText": "Do you truly understand what calling<n>yourself \"first-rate\" in front of\neveryone is<n>going to do?",
             "nextBlock": 47,
+            "origClipLength": 233,
+            "voiceIdx": 39,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -2723615071402013068
+                }
+            ],
             "pathId": 3769112540226758017,
             "blockIdx": 46
         },
@@ -485,18 +1034,27 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "『大口をたたいたおバカ』だって、後ろ指さされて、笑われて。\r\nでも、1度口にしたことは取り消せないのよ？",
-            "enText": "To be called a fool with a big mouth, pointed at behind your \nback, laughed at. But, you can't take back what you've said.",
+            "enText": "People are going to laugh at you and<n>make fun of you behind your\nback. The<n>world will crush your shoulders. But you<n>can't take those\nwords back.",
             "nextBlock": 48,
+            "origClipLength": 299,
+            "voiceIdx": 40,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "だから、本当の一流になるしかないよな",
-                    "enText": "That's why I have no choice but to become a real first-class.",
+                    "enText": "Then I've got no choice but to truly become\nfirst-rate.",
                     "nextBlock": 48
                 },
                 {
                     "jpText": "だから、本当の一流になるしかないよね",
-                    "enText": "That's why I have no choice but to become a real first-class.",
+                    "enText": "Then I've got no choice but to truly become\nfirst-rate.",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 311,
+                    "pathId": 6198207520142508082
                 }
             ],
             "pathId": -1764111332612509522,
@@ -506,8 +1064,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……ふんっ、ばっかじゃないの！　あなたってば思った以上に\r\n頑固だし、思った以上に不器用だったのね！",
-            "enText": "…Hmph, aren't you stupid! You're more rebellious \nand more clumsy than I expected!",
+            "enText": "Heh, what a dummy. You're more stubborn<n>and clumsy than I could've\never imagined!",
             "nextBlock": 49,
+            "origClipLength": 263,
+            "voiceIdx": 41,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6168887292742575664
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4409990255152990069
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6529115246501928439
+                }
+            ],
             "pathId": 1506543243845289010,
             "blockIdx": 48
         },
@@ -515,8 +1090,17 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……ま、私は嫌いじゃないけど。",
-            "enText": "…Well, I don't hate it though.",
+            "enText": "...But I guess it's not a bad thing.",
             "nextBlock": 50,
+            "origClipLength": 110,
+            "voiceIdx": 42,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 60,
+                    "pathId": 7324780984072728642
+                }
+            ],
             "pathId": -414605437640798817,
             "blockIdx": 49
         },
@@ -524,8 +1108,17 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ヴー、ヴー）",
-            "enText": "(Bzz! Bzz!)",
+            "enText": "<i>Bzzz... Bzzz...</i>",
             "nextBlock": 51,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1906065015008254555
+                }
+            ],
             "pathId": -4323447869033234608,
             "blockIdx": 50
         },
@@ -533,13 +1126,22 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……また、お母さまね。\n…………………………。",
-            "enText": "…It's, mother again.",
+            "enText": "Ah, it's Mother again...",
             "nextBlock": 52,
+            "origClipLength": 145,
+            "voiceIdx": 43,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "一緒に宣言しよう",
-                    "enText": "Let's declare it together.",
+                    "enText": "We should make a statement together.",
                     "nextBlock": 52
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 210,
+                    "pathId": -6376179497964871386
                 }
             ],
             "pathId": -292388128868501972,
@@ -549,13 +1151,26 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "えっ……宣言？　なんて？",
-            "enText": "Eh?…Declare? What?",
+            "enText": "Huh? A statement?",
             "nextBlock": 53,
+            "origClipLength": 132,
+            "voiceIdx": 44,
+            "voiceSheetId": "041061004",
             "choices": [
                 {
                     "jpText": "『一流の私たちを見てなさい』って",
-                    "enText": "\"Watch us, we're first-class.\"",
+                    "enText": "\"Watch us be first-rate!\" ",
                     "nextBlock": 53
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": 6040556899617596386
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 9050470114306307240
                 }
             ],
             "pathId": 6839038806107003,
@@ -565,8 +1180,25 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "……ふふっ。\n私、そういうのも嫌いじゃないわ！",
-            "enText": "…Ufufu. \nI don't hate that sort of thing either!",
+            "enText": "...Hehe. Now that's what I like to hear!",
             "nextBlock": 54,
+            "origClipLength": 159,
+            "voiceIdx": 45,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6306265592697826982
+                },
+                {
+                    "origLen": 171,
+                    "pathId": 9018847352001421261
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5484672434730874673
+                }
+            ],
             "pathId": 7243285542555051038,
             "blockIdx": 53
         },
@@ -574,8 +1206,21 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "じゃあ……電話、取るわよ。\r\n準備はいいわね？　せー、のっ……！",
-            "enText": "Then, I'm gonna pick up now. \nYou're ready right? One, two…!",
+            "enText": "All right, I'm going to answer now. Are you<n>ready? On three! One,\ntwo...",
             "nextBlock": 55,
+            "origClipLength": 214,
+            "voiceIdx": 46,
+            "voiceSheetId": "041061004",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6510099475387958687
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 1056085447491996363
+                }
+            ],
             "pathId": -5056052026430470015,
             "blockIdx": 54
         },
@@ -583,8 +1228,17 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、キングヘイローと\n一流の証明を目指す日々が始まるのだった。",
-            "enText": "And so, my days of aiming \nto prove I'm first-class with King Halo began.",
+            "enText": "And so, my pursuit of first-rate greatness<n>with King Halo officially\nbegins.",
             "nextBlock": 56,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": 6601994048533837715
+                }
+            ],
             "pathId": -6192345589511182483,
             "blockIdx": 55
         },
@@ -592,12 +1246,13 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "もしもしお母さま？　私、帰らないから。それより紹介して\r\nあげるわ、よく聞きなさい。この人が――私のトレーナーよ！",
-            "enText": "Hello? Mother. I'm not coming home. That aside \nlet me introduce you, listen well. This person is my trainer!",
+            "enText": "Hello, Mother? I have an announcement to<n>make. No, I'm not going\nhome. In fact, let<n>me introduce my new trainer to you!",
             "nextBlock": -1,
+            "origClipLength": 345,
+            "voiceIdx": 47,
+            "voiceSheetId": "041061004",
             "pathId": 7726712989294456831,
             "blockIdx": 56
         }
-    ],
-    "humanTl": true,
-    "modified": 1712266081
+    ]
 }

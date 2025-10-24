@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "I3P3TKIL44DR5H5RIJ6TBO2ZWZRZ5AIW",
+    "version": 6,
+    "bundle": "CDKMIIDVUUUUITOZW2WQXAI6KQ4GIAZZ",
     "type": "story",
     "storyId": "501030508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ライスシャワーとトレーニングを\r\nしていたのだが、どうにも動きが悪い……。",
-            "enText": "I've been working out with a Rice Shower, \nbut I can't seem to move…",
+            "enText": "Something about the way Rice Shower is<n>moving\nwhile she trains seems off...",
             "nextBlock": 2,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6374563417883960052,
             "blockIdx": 1
         },
@@ -18,18 +22,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "はぁっ、はぁ……。",
-            "enText": "Hah, hah…",
+            "enText": "<i>Huff, puff.</i>",
             "nextBlock": 3,
+            "origClipLength": 92,
+            "voiceIdx": 58,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "調子が悪いのか？",
-                    "enText": "What's wrong with you?",
+                    "enText": "Are you feeling all right?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "調子が悪いの？",
-                    "enText": "What's wrong with you?",
+                    "enText": "Are you feeling all right?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 2830887778482673054
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -756672117551173928
                 }
             ],
             "pathId": -3261080112170002809,
@@ -39,8 +56,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ご、ごめんなさい……お兄さま。\r\n前のレースで張り切り過ぎちゃったかも……。",
-            "enText": "I'm sorry… brother. I think I may have \noverstretched myself in the last race…",
+            "enText": "S-sorry... I think I pushed myself too<n>hard in the\nlast race...",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": 24,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -7485280380755109423
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -5222443457041770176
+                }
+            ],
             "pathId": 6423435042632752021,
             "blockIdx": 3
         },
@@ -48,8 +78,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ご、ごめんなさい……お姉さま。\r\n前のレースで張り切り過ぎちゃったかも……。",
-            "enText": "I'm sorry… sister. I think I may have \noverstretched myself in the last race…",
+            "enText": "S-sorry... I think I pushed myself too<n>hard in the\nlast race...",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "voiceIdx": 24,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 8457461189704761951
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 8768591317338566969
+                }
+            ],
             "pathId": -5208980985491382844,
             "blockIdx": 4
         },
@@ -57,8 +100,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "えっと、でも……大丈夫だから！\r\nお兄さまは心配しないで……！",
-            "enText": "Um, but… is fine! Don't worry \nabout your brother…!",
+            "enText": "Um, but... I'm fine! No need to worry<n>about me!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2513984612203245819
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -1022949061566840593
+                }
+            ],
             "pathId": -319041004388313112,
             "blockIdx": 5
         },
@@ -66,8 +122,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "えっと、でも……大丈夫だから！\r\nお姉さまは心配しないで……！",
-            "enText": "Um, but… is fine! Don't worry \nabout your sister…!",
+            "enText": "Um, but... I'm fine! No need to worry<n>about me!",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2036545172363432890
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -5895851238403530035
+                }
+            ],
             "pathId": -4370536603546786241,
             "blockIdx": 6
         },
@@ -75,8 +144,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "レースの疲れが残っているようだ。\r\n無理をさせているのかもしれない。\n気をつけなければ……。",
-            "enText": "I think she's still tired from the \nrace. Maybe I'm pushing her too hard. \nI have to be careful…",
+            "enText": "It looks like she's still tired from her last<n>race. I\nmight be pushing her too hard, so<n>I'd better keep\nan eye on her.",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -642636251576691562
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1106888101766677396
+                }
+            ],
             "pathId": -2576755561854507830,
             "blockIdx": 7
         }

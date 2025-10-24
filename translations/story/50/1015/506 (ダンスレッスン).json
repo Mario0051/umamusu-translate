@@ -1,27 +1,32 @@
 {
-    "version": 5,
-    "bundle": "REJWNJ4X6FOU5CREEELULNDP66MXS7GZ",
+    "version": 6,
+    "bundle": "MOCTRUMA3TB4MX62PAJQCBROB64ZOOQL",
     "type": "story",
     "storyId": "501015506",
     "title": "ダンスレッスン",
+    "enTitle": "Dance Lesson",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーナー室に向かう途中で、黄色い声と……\n聞き覚えのある声が聞こえてきた。",
-            "enText": "On my way to the trainer's office, I heard a \nyellow voice and…… a familiar voice.",
+            "enText": "On the way to my office, I hear a shrill<n>voice—one\nthat I recognize.",
             "nextBlock": 2,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8979410617296055221,
             "blockIdx": 1
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "――くっ、やるなフジ先輩。",
-            "enText": "―Damn, you're good, Fuji-senpai.",
+            "enText": "Ngh! Impressive, Fuji.",
             "nextBlock": 3,
             "origClipLength": 61,
+            "voiceIdx": 18,
+            "voiceSheetId": "051015001",
             "pathId": 4766126771730515841,
             "blockIdx": 2
         },
@@ -29,18 +34,20 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふっ、オペラオーこそ！\n正直、私も魅了されてしまったよ。",
-            "enText": "Phew, Opera O is the one! I have to admit, I \nwas mesmerized too.",
+            "enText": "Heh, you as well, Opera O! Your<n>performance\nmoved me to my core.",
             "nextBlock": 4,
             "origClipLength": 82,
+            "voiceIdx": 74,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "な、何かのイベント中か？",
-                    "enText": "Hey, are you in the middle of some event?",
+                    "enText": "Uh, is there a show going on?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "な、何かのイベント中？",
-                    "enText": "Hey, are you in the middle of some event?",
+                    "enText": "Uh, is there a show going on?",
                     "nextBlock": 4
                 }
             ],
@@ -51,19 +58,19 @@
                 },
                 {
                     "origLen": 121,
-                    "pathId": 703637593490298824
-                },
-                {
-                    "origLen": 121,
                     "pathId": 3818323515757385142
                 },
                 {
-                    "origLen": 123,
-                    "pathId": 7272646065346607117
+                    "origLen": 121,
+                    "pathId": 703637593490298824
                 },
                 {
                     "origLen": 123,
                     "pathId": -6349267135272520583
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 7272646065346607117
                 }
             ],
             "pathId": -6186918753449870964,
@@ -71,15 +78,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ダンスの練習……\nいや、ダンスバトル中さ！",
-            "enText": "Dance practice…… No, we're in \nthe middle of a dance battle!",
+            "enText": "Yes, dance practice—no! Dare I say, a<n>dance\nbattle!",
             "nextBlock": 5,
             "origClipLength": 72,
+            "voiceIdx": 108,
+            "voiceSheetId": "051015001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": -2385401700914527803
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -7175422748994016598
                 },
                 {
                     "origLen": 52,
@@ -87,15 +100,11 @@
                 },
                 {
                     "origLen": 83,
-                    "pathId": -7175422748994016598
+                    "pathId": -8657696138940982870
                 },
                 {
                     "origLen": 50,
                     "pathId": 3884439799319495542
-                },
-                {
-                    "origLen": 83,
-                    "pathId": -8657696138940982870
                 }
             ],
             "pathId": 1026291884870512252,
@@ -103,27 +112,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "課題曲に輝き（独自解釈）を加えた、\nボクの『煌めきのオペラダンス』と……！",
-            "enText": "I've added some sparkle (my own \ninterpretation) to the challenge piece with \nmy \"Sparkling Opera Dance\" and ……!",
+            "enText": "I have added my own personal flair to<n>the\nassigned piece, to create my one<n>and only\nOperatic Dance of Brilliance!",
             "nextBlock": 6,
             "origClipLength": 93,
+            "voiceIdx": 15,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 138,
-                    "pathId": 8105866432575936116
-                },
                 {
                     "origLen": 138,
                     "pathId": -1416195055788258913
                 },
                 {
-                    "origLen": 104,
-                    "pathId": 1119054191569638510
+                    "origLen": 138,
+                    "pathId": 8105866432575936116
                 },
                 {
                     "origLen": 104,
                     "pathId": 336932890400540433
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1119054191569638510
                 }
             ],
             "pathId": 966751132757550568,
@@ -133,25 +144,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "指定された振り付けを守りつつ魅せる、\n私の『表現力のダンス』！",
-            "enText": "My \"Dance of Expression\" that captivates \nwhile adhering to the designated choreography!",
+            "enText": "And I, on the other hand, have<n>maintained the\noriginal choreography in<n>my Dance of Mighty\nExpression!",
             "nextBlock": 7,
             "origClipLength": 85,
+            "voiceIdx": 3,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 138,
-                    "pathId": -7355088385618163201
-                },
                 {
                     "origLen": 138,
                     "pathId": -3944565925760365145
                 },
                 {
-                    "origLen": 76,
-                    "pathId": -6077833965933705655
+                    "origLen": 138,
+                    "pathId": -7355088385618163201
                 },
                 {
                     "origLen": 72,
                     "pathId": -1017478474037961451
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6077833965933705655
                 }
             ],
             "pathId": 1982315853435645830,
@@ -159,27 +172,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "どちらが、より多くの者を歓喜させられるか。\n確かめるために、決闘を申し込んだのだよ。",
-            "enText": "Which of us can please more people? To find \nout, I challenged her to a duel.",
+            "enText": "Whose dance would sway the most<n>hearts? We\nengaged in a duel to answer<n>that very question.",
             "nextBlock": 8,
             "origClipLength": 99,
+            "voiceIdx": 9,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 8709151471247575698
+                },
                 {
                     "origLen": 65,
                     "pathId": -3868477860978873955
                 },
                 {
                     "origLen": 110,
-                    "pathId": 8709151471247575698
+                    "pathId": -1119145875385969341
                 },
                 {
                     "origLen": 89,
                     "pathId": 7726667307576561937
-                },
-                {
-                    "origLen": 110,
-                    "pathId": -1119145875385969341
                 }
             ],
             "pathId": -1438700539268527511,
@@ -189,32 +204,34 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "私もエンターテイナーの端くれ。\nその申し出に心が躍った……というわけさ♪",
-            "enText": "I am an entertainer myself. That's why I was \nso excited by the offer of ……",
+            "enText": "Since I'm an entertainer of sorts, the<n>challenge\nstruck a chord with me. ♪",
             "nextBlock": 9,
             "origClipLength": 91,
+            "voiceIdx": 80,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "それで、結果は？",
-                    "enText": "And the result?",
+                    "enText": "So, what are the results?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
                     "origLen": 102,
+                    "pathId": -1073194555671008111
+                },
+                {
+                    "origLen": 102,
                     "pathId": -2233376295934749073
                 },
                 {
                     "origLen": 102,
-                    "pathId": -1073194555671008111
+                    "pathId": 1511164530527484342
                 },
                 {
                     "origLen": 61,
                     "pathId": -921682738477185832
-                },
-                {
-                    "origLen": 102,
-                    "pathId": 1511164530527484342
                 }
             ],
             "pathId": -8129425000787673650,
@@ -222,11 +239,13 @@
         },
         {
             "jpName": "観客のウマ娘たち",
-            "enName": "",
+            "enName": "Student Spectators",
             "jpText": "――今のはフジ先輩の勝ちよ！\n――いいえ、オペラオーさんだもんっ！",
-            "enText": "―Fuji won that one! ―No, it was Ms. Opera O!",
+            "enText": "Fuji won, hands down! No, Opera O's<n>dance was\nbetter!",
             "nextBlock": 10,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 92,
@@ -234,19 +253,19 @@
                 },
                 {
                     "origLen": 99,
+                    "pathId": 7566912023526883302
+                },
+                {
+                    "origLen": 99,
                     "pathId": -3146066482254098666
                 },
                 {
                     "origLen": 99,
-                    "pathId": 7566912023526883302
+                    "pathId": -2242804637928428731
                 },
                 {
                     "origLen": 50,
                     "pathId": 7392658180741765881
-                },
-                {
-                    "origLen": 99,
-                    "pathId": -2242804637928428731
                 }
             ],
             "pathId": -8791325626907193071,
@@ -254,15 +273,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "まさか互角とは、どうしたものかな。\nこういう場合、戯曲ではペアでダンスを……。",
-            "enText": "I don't think they are evenly matched, but \nwhat the heck. In this kind of case, the play \nis a pair of dances ……",
+            "enText": "Could this be... a draw? What are we to<n>do? A\nduet would be called for at times<n>like this in a\nplay.",
             "nextBlock": 11,
             "origClipLength": 95,
+            "voiceIdx": 109,
+            "voiceSheetId": "051015001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": -7576280149175944126
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6610356786654744548
                 },
                 {
                     "origLen": 72,
@@ -270,15 +295,11 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": 6610356786654744548
+                    "pathId": -5767670915997749310
                 },
                 {
                     "origLen": 106,
                     "pathId": 2270265594260415708
-                },
-                {
-                    "origLen": 106,
-                    "pathId": -5767670915997749310
                 }
             ],
             "pathId": -172787920461915881,
@@ -286,39 +307,41 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "はっ！　そうだ……トレーナー君、踊ろう！",
-            "enText": "Ha! That's right…… trainer, let's dance!",
+            "enText": "Oh! I've got it... Trainer! To the stage!",
             "nextBlock": 12,
             "origClipLength": 71,
+            "voiceIdx": 87,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "何がどうしてそうなる！？",
-                    "enText": "What makes it so!",
+                    "enText": "Why me?!",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "何がどうしてそうなるの！？",
-                    "enText": "What makes it so!",
+                    "enText": "Why me?!",
                     "nextBlock": 12
                 }
             ],
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6880507006621123251
+                },
                 {
                     "origLen": 38,
                     "pathId": -4464119021020021248
                 },
                 {
                     "origLen": 82,
-                    "pathId": -6880507006621123251
+                    "pathId": -2810632238407844583
                 },
                 {
                     "origLen": 40,
                     "pathId": -1588018128563378007
-                },
-                {
-                    "origLen": 82,
-                    "pathId": -2810632238407844583
                 }
             ],
             "pathId": -6987378518447807925,
@@ -326,27 +349,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "よいダンスとは、魅せるだけでなく……\n見ている者の体も自然と動かしてしまうもの。",
-            "enText": "A good dance not only attracts but also…… \nnaturally moves the viewer's body.",
+            "enText": "A good dance does not only allure, it<n>entices all\nwho see it to dance along.",
             "nextBlock": 13,
             "origClipLength": 97,
+            "voiceIdx": 3,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 5329557202926846691
+                },
                 {
                     "origLen": 94,
                     "pathId": 148616631480372491
                 },
                 {
                     "origLen": 108,
-                    "pathId": 5329557202926846691
+                    "pathId": 8307301920316953385
                 },
                 {
                     "origLen": 108,
                     "pathId": 7548850083173551310
-                },
-                {
-                    "origLen": 108,
-                    "pathId": 8307301920316953385
                 }
             ],
             "pathId": 5465894811250549339,
@@ -356,25 +381,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "なるほど！　私たちのダンスを見て、\nどちらと踊りたくなったかで勝敗を決めると。",
-            "enText": "I see! They will decide who wins based on \nwhich of us they want to dance with after \nseeing us dance.",
+            "enText": "How right you are! In other words, your<n>trainer\nwill choose which of us compels<n>others to dance\nthe most.",
             "nextBlock": 14,
             "origClipLength": 95,
+            "voiceIdx": 9,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -584430312807212994
+                },
                 {
                     "origLen": 106,
                     "pathId": 7169644728044281587
                 },
                 {
                     "origLen": 106,
-                    "pathId": -584430312807212994
+                    "pathId": -6543728810783564146
                 },
                 {
                     "origLen": 68,
                     "pathId": -7534313642358342526
-                },
-                {
-                    "origLen": 106,
-                    "pathId": -6543728810783564146
                 }
             ],
             "pathId": -5243924539243233110,
@@ -382,39 +409,41 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "さあ！　『煌めきのオペラダンス』と、\n『表現力のダンス』……どちらを選ぶ！",
-            "enText": "Come on! Choose between \"Opera Dance of \nGlitter\" and \"Dance of Expression\" ……!",
+            "enText": "Precisely! Now, choose! The Operatic<n>Dance of\nBrilliance or the Dance of<n>Mighty Expression!",
             "nextBlock": 15,
             "origClipLength": 93,
+            "voiceIdx": 91,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "もちろん『煌めきのオペラダンス』",
-                    "enText": "And of course, \"Glimmering Opera Dance\".",
+                    "enText": "The Operatic Dance of Brilliance, of course.",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "……『表現力のダンス』かな！",
-                    "enText": "I guess…… 'Dance of Expression'!",
+                    "enText": "The Dance of Mighty Expression, I guess!",
                     "nextBlock": 26
                 }
             ],
             "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6495571076144723149
+                },
                 {
                     "origLen": 76,
                     "pathId": -7595327702101971356
                 },
                 {
                     "origLen": 104,
-                    "pathId": 6495571076144723149
+                    "pathId": -2265908286342291783
                 },
                 {
                     "origLen": 63,
                     "pathId": 7697097350840254397
-                },
-                {
-                    "origLen": 104,
-                    "pathId": -2265908286342291783
                 }
             ],
             "pathId": 5050369982730825573,
@@ -424,25 +453,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "テイエムオペラオーの武器は、独特な世界観。\n自分も、それに魅了された1人だ！",
-            "enText": "The weapon of TM Operao is its unique view of \nthe world. I, for one, am fascinated by it!",
+            "enText": "Consider me one of the many who's been<n>\nmesmerized by T.M. Opera O's unique<n>\nperspective!",
             "nextBlock": 16,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -7025993020434226432
+                },
                 {
                     "origLen": 106,
                     "pathId": -2242872486937184951
                 },
                 {
                     "origLen": 105,
-                    "pathId": -7025993020434226432
+                    "pathId": -4854783472976690739
                 },
                 {
                     "origLen": 105,
                     "pathId": 5755498837264123459
-                },
-                {
-                    "origLen": 105,
-                    "pathId": -4854783472976690739
                 }
             ],
             "pathId": -6933660078373536555,
@@ -450,27 +481,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "嗚呼、トレーナー君……！\nボクの魅力を理解できると思っていたよ！",
-            "enText": "Aha, Ms. Trainer ……! I knew you would \nunderstand my fascination!",
+            "enText": "My dear trainer! I knew you understood<n>my allure!",
             "nextBlock": 17,
             "origClipLength": 86,
+            "voiceIdx": 56,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -5401573496595588710
+                },
                 {
                     "origLen": 68,
                     "pathId": -9214384017090233946
                 },
                 {
                     "origLen": 97,
-                    "pathId": -5401573496595588710
+                    "pathId": 5002558604836126604
                 },
                 {
                     "origLen": 60,
                     "pathId": 5988271787944848769
-                },
-                {
-                    "origLen": 97,
-                    "pathId": 5002558604836126604
                 }
             ],
             "pathId": -303948994199753054,
@@ -478,19 +511,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "踊ろう！　そしてボクの輝きに、\nその身と心を焦がしたまえ！",
-            "enText": "Let's dance! And let my brilliance scorch \nyour body and soul!",
+            "enText": "Now let us dance! Allow my radiant<n>presence to\nignite your body and soul!",
             "nextBlock": 18,
             "origClipLength": 85,
+            "voiceIdx": 1,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": -6928951825760192228
-                },
                 {
                     "origLen": 96,
                     "pathId": -2450575977882911280
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -6928951825760192228
                 },
                 {
                     "origLen": 89,
@@ -498,11 +533,11 @@
                 },
                 {
                     "origLen": 96,
-                    "pathId": 394148892290273181
+                    "pathId": 4119418556668086188
                 },
                 {
                     "origLen": 96,
-                    "pathId": 4119418556668086188
+                    "pathId": 394148892290273181
                 }
             ],
             "pathId": 6182535557536842416,
@@ -510,26 +545,28 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "3、2、ステップ……ここで煌めきのポーズ！\nいくぞ、キラーーンッ！",
-            "enText": "Three, two, step…… here's a shimmering pause! \nHere we go, killer!",
+            "enText": "Three, two, step... Now do a shining<n>pose! Ready,\nand—sha-bliiing!",
             "nextBlock": 19,
             "origClipLength": 88,
+            "voiceIdx": 10,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "き、きらーん……！？",
-                    "enText": "Ki, Kiraan ……!",
+                    "enText": "Uh, sh-sha-bling?!",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 27,
-                    "pathId": -8796631636176934944
-                },
-                {
                     "origLen": 26,
                     "pathId": -3210365599513385714
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -8796631636176934944
                 },
                 {
                     "origLen": 32,
@@ -537,11 +574,11 @@
                 },
                 {
                     "origLen": 29,
-                    "pathId": 8485749908450486305
+                    "pathId": -526477031578783777
                 },
                 {
                     "origLen": 29,
-                    "pathId": -526477031578783777
+                    "pathId": 8485749908450486305
                 }
             ],
             "pathId": -6434393490745450876,
@@ -549,11 +586,13 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "む、それがトレーナー君の煌めきのポーズか！\nであれば、ボクはこう動こう……！",
-            "enText": "Hmmm, that's your trainer's twinkling pose! \nThen I'll move like this: ……!",
+            "enText": "Hmm, so <i>that</i> is your pose of brilliance!<n>Then... I\nshall pose like this!",
             "nextBlock": 20,
             "origClipLength": 94,
+            "voiceIdx": 8,
+            "voiceSheetId": "051015001",
             "pathId": 4283923525054995650,
             "blockIdx": 19
         },
@@ -561,34 +600,38 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "おお～！　息の合ったコンビネーション！\nこれは完敗だね。色々と♪",
-            "enText": "Oh～! A breathtaking combination! This is a \nperfect match. In so many ways… ♪",
+            "enText": "Ahh! I must admit defeat! You two are<n>completely\nin sync—on many levels. ♪",
             "nextBlock": 21,
             "origClipLength": 86,
+            "voiceIdx": 116,
+            "voiceSheetId": "051005001",
             "pathId": 8995561199339004503,
             "blockIdx": 20
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ふぅ……トレーナー君、お疲れ様。\n実りの多い決闘になったよ。",
-            "enText": "Phew…… trainer, thanks for your hard work. It \nwas a fruitful duel.",
+            "enText": "Whew... Superb, Trainer.  It was a fruitful<n>battle,\nto be sure.",
             "nextBlock": 22,
             "origClipLength": 84,
+            "voiceIdx": 127,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "そ、そう？どの辺が？",
-                    "enText": "Well, yeah? Which part?",
+                    "enText": "R-really? How so?",
                     "nextBlock": 22
                 }
             ],
             "animData": [
                 {
                     "origLen": 121,
-                    "pathId": 3303510670896261640
+                    "pathId": -1155385448049581113
                 },
                 {
                     "origLen": 121,
-                    "pathId": -1155385448049581113
+                    "pathId": 3303510670896261640
                 }
             ],
             "pathId": 209704940977987790,
@@ -596,19 +639,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "共に踊ることで、ダンスの可能性が広がる。\nあの煌めきのポーズでそう気づけた！",
-            "enText": "Dancing together expands the possibilities \nof dance. That twinkling pose made \nme realize that!",
+            "enText": "The possibilities of dance truly blossom<n>as a duet.\nYour pose of brilliance led me<n>to realize this.",
             "nextBlock": 23,
             "origClipLength": 94,
+            "voiceIdx": 2,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 3361149533065134386
-                },
                 {
                     "origLen": 105,
                     "pathId": 6569519373640774572
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 3361149533065134386
                 }
             ],
             "pathId": -7253498418316224479,
@@ -616,19 +661,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ウイニングライブは、出走した者たちで踊る。\n無論、主役は“覇王”のこのボクだが……。",
-            "enText": "Winning Live is a dance by those who \nparticipated in the race. Of course, the star \nof the show is me, the \"High King. ……",
+            "enText": "In winning concerts, we dance the dance<n>of\nrunners. And of course, as the<n>Overlord, with me\nat the center.",
             "nextBlock": 24,
             "origClipLength": 99,
+            "voiceIdx": 5,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 975773787440898245
-                },
                 {
                     "origLen": 110,
                     "pathId": 3182057045693708333
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 975773787440898245
                 }
             ],
             "pathId": 5814074532814171346,
@@ -636,19 +683,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ボクの輝きで一緒に踊る者も照らし、\n魅力を引き出すべき……それが“覇王”だと！",
-            "enText": "My brilliance should illuminate those who \ndance with me, and bring out their charms.…… \nthat's the \"High King\"!",
+            "enText": "I must shimmer with soul fire so as to<n>illuminate\nthose who accompany me<n>onstage—for the\nOverlord brings out the<n>brilliance of others!",
             "nextBlock": 25,
             "origClipLength": 95,
+            "voiceIdx": 0,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": 1734319896789237600
-                },
                 {
                     "origLen": 106,
                     "pathId": -3482959550274889150
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1734319896789237600
                 }
             ],
             "pathId": -1384940986282448878,
@@ -658,17 +707,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "自分の世界観を見せながら、\n共に踊る者を気にかけステージを作る。\nその大切さを学んだようだった。",
-            "enText": "They learned the importance of creating a \nstage that shows one's own view of the world, \nwhile at the same time paying attention to \nthose who are dancing with them. They seemed \nto have learned the importance of this.",
+            "enText": "It appears she's learned the importance<n>of\nperforming with her fellow dancers<n>while\nexpressing herself onstage.",
             "nextBlock": -1,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 118,
-                    "pathId": 4386851514982008839
+                    "pathId": -14903236174318825
                 },
                 {
                     "origLen": 118,
-                    "pathId": -14903236174318825
+                    "pathId": 4386851514982008839
                 }
             ],
             "pathId": -854490861232400441,
@@ -676,27 +727,29 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "んな！？",
-            "enText": "Nah!",
+            "enText": "What?!",
             "nextBlock": 27,
             "origClipLength": 50,
+            "voiceIdx": 4,
+            "voiceSheetId": "051015001",
             "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -7468230467028992292
+                },
                 {
                     "origLen": 36,
                     "pathId": -7823364354849506054
                 },
                 {
                     "origLen": 61,
-                    "pathId": -7468230467028992292
+                    "pathId": -4936653881616838367
                 },
                 {
                     "origLen": 62,
                     "pathId": -4720839468971076506
-                },
-                {
-                    "origLen": 61,
-                    "pathId": -4936653881616838367
                 }
             ],
             "pathId": 7049909106006182513,
@@ -706,25 +759,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "たしかにダンスは独自性も大事だが、\nまずは基礎を磨くべきだろう。",
-            "enText": "It is true that originality is important \nin dance, but first of all, the basics \nshould be polished.",
+            "enText": "Yes, originality is important, but you<n>have to\nmaster the fundamentals first.",
             "nextBlock": 28,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": 2756785580450600306
-                },
                 {
                     "origLen": 97,
                     "pathId": -594975000309711287
                 },
                 {
                     "origLen": 97,
-                    "pathId": -8331892853537988676
+                    "pathId": 2756785580450600306
                 },
                 {
                     "origLen": 97,
                     "pathId": 1593013386217320680
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8331892853537988676
                 }
             ],
             "pathId": -2423148450297456904,
@@ -734,25 +789,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "選んでいただけるとは、光栄だな。\nお手柔らかに頼むよ！",
-            "enText": "I'm honored that you chose \nme. Please go easy on me!",
+            "enText": "I'm honored that you would choose me.<n>Please,\nbe gentle!",
             "nextBlock": 29,
             "origClipLength": 80,
+            "voiceIdx": 4,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 3413644394769720763
+                },
                 {
                     "origLen": 91,
                     "pathId": -2765392062622658896
                 },
                 {
                     "origLen": 91,
-                    "pathId": 3413644394769720763
+                    "pathId": -307249284596856644
                 },
                 {
                     "origLen": 54,
                     "pathId": -8884384556592842210
-                },
-                {
-                    "origLen": 91,
-                    "pathId": -307249284596856644
                 }
             ],
             "pathId": 1839606819151710866,
@@ -762,32 +819,34 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "うん、いいステップだ！　上手だね。\nそれに……君はなかなかの策士と見た！",
-            "enText": "Yeah, nice step! You're good. And…… you look \nlike quite the schemer!",
+            "enText": "Yes, wonderful footwork! And...<n>considerably\ncunning of you as well!",
             "nextBlock": 30,
             "origClipLength": 91,
+            "voiceIdx": 38,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "策士？",
-                    "enText": "A schemer?",
+                    "enText": "Cunning?",
                     "nextBlock": 30
                 }
             ],
             "animData": [
                 {
-                    "origLen": 33,
-                    "pathId": -3367841826396640759
-                },
-                {
                     "origLen": 35,
                     "pathId": -8304243189064466156
                 },
                 {
-                    "origLen": 102,
-                    "pathId": 8554450905294760503
+                    "origLen": 33,
+                    "pathId": -3367841826396640759
                 },
                 {
                     "origLen": 102,
                     "pathId": 7806894680346650771
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8554450905294760503
                 }
             ],
             "pathId": -3858671113244595660,
@@ -797,9 +856,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ふふ、刺すような視線を感じないのかい？\n……彼女のハートに火を点けてしまったかな。",
-            "enText": "Hmmm, don't you feel the sting? I wonder if \nI've set her…… heart on fire.",
+            "enText": "Heheh. Don't tell me you don't feel that<n>piercing\ngaze. You've lit a flame inside<n>her.",
             "nextBlock": 31,
             "origClipLength": 98,
+            "voiceIdx": 74,
+            "voiceSheetId": "051005001",
             "pathId": 4132376804279731476,
             "blockIdx": 30
         },
@@ -807,27 +868,31 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "おっと――曲の終わりだ。\n楽しいひと時だったよ。それじゃあ！",
-            "enText": "Oops―end of song. It's been a good time. Bye!",
+            "enText": "Oh? The song has ended. That was a<n>joyful little\nmoment we had. For now, so<n>long!",
             "nextBlock": 32,
             "origClipLength": 84,
+            "voiceIdx": 44,
+            "voiceSheetId": "051005001",
             "pathId": -2109665103644097391,
             "blockIdx": 31
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "ふっ……見事なダンスだった。\n表現力の可能性を感じたよ。",
-            "enText": "Phew…… that was a brilliant dance. I could \nsee the potential for expression.",
+            "enText": "Hmph... Impressive. I felt the potential of<n>your\nexpressiveness.",
             "nextBlock": 33,
             "origClipLength": 81,
+            "voiceIdx": 2,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 120,
-                    "pathId": -1450677656649551144
-                },
                 {
                     "origLen": 121,
                     "pathId": -6181090231761237791
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -1450677656649551144
                 }
             ],
             "pathId": -3684535447574832971,
@@ -835,11 +900,13 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "しかし……君も素直じゃないな。",
-            "enText": "But…… you're not being honest either.",
+            "enText": "And yet... you're so timid.",
             "nextBlock": 34,
             "origClipLength": 64,
+            "voiceIdx": 21,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "え？",
@@ -853,12 +920,12 @@
                     "pathId": 7882072671048655048
                 },
                 {
-                    "origLen": 31,
-                    "pathId": -102667799319596217
-                },
-                {
                     "origLen": 75,
                     "pathId": -1684237015515557851
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -102667799319596217
                 }
             ],
             "pathId": 4405547519251741631,
@@ -866,19 +933,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "恥じらったのだろう？\n美しいボク相手では、と。",
-            "enText": "You must have been ashamed. With a beautiful \nBoku partner, I thought.",
+            "enText": "Surely, you felt too bashful to pair with<n>my\nastounding beauty.",
             "nextBlock": 35,
             "origClipLength": 75,
+            "voiceIdx": 9,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -420738357349172871
-                },
                 {
                     "origLen": 86,
                     "pathId": 9077644073702716504
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -420738357349172871
                 }
             ],
             "pathId": 7595613052377451148,
@@ -886,19 +955,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "美の頂点に立つボク相手だからね、仕方ない。\nだが……次こそ、覚悟していたまえ。",
-            "enText": "I'm up against the pinnacle of beauty, so \nthere's nothing I can do about it. But…… be \nprepared next time.",
+            "enText": "Of course, I <i>am</i> the pinnacle of<n>perfection, so you\nare quite forgiven.<n>But you must steel yourself for\nnext<n>time.",
             "nextBlock": 36,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 70,
-                    "pathId": -5497690120156324187
-                },
                 {
                     "origLen": 106,
                     "pathId": 4729956136514863543
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -5497690120156324187
                 }
             ],
             "pathId": 5859656064359855971,
@@ -906,19 +977,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "その畏怖さえ忘却するほどに\n美しいダンスで……この手を取らせてみせる！",
-            "enText": "I will make you take…… this hand \nin a dance so beautiful that even \nits awe will be forgotten!",
+            "enText": "For when you take this hand, the beauty<n>of my\ndance will have you forget all<n>those fears!",
             "nextBlock": 37,
             "origClipLength": 90,
+            "voiceIdx": 71,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 5183463656351761282
-                },
                 {
                     "origLen": 101,
                     "pathId": 4782768793197528901
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 5183463656351761282
                 }
             ],
             "pathId": -438380967322683799,
@@ -928,22 +1001,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "ダンス相手に選ばれなかったことで、\nよりダンスにやる気を見せる\nテイエムオペラオーなのであった。",
-            "enText": "The fact that she was not chosen as \na partner for the dance made her more \nmotivated for the dance. Them Opera \nO is more motivated to dance.",
+            "enText": "Not choosing T.M. Opera O as my<n>partner has\nincreased her motivation to<n>dance.",
             "nextBlock": -1,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 118,
-                    "pathId": 6221672303998743457
+                    "pathId": 5793881804752023350
                 },
                 {
                     "origLen": 118,
-                    "pathId": 5793881804752023350
+                    "pathId": 6221672303998743457
                 }
             ],
             "pathId": -6998665655064734304,
             "blockIdx": 37
         }
-    ],
-    "modified": 1657555056
+    ]
 }

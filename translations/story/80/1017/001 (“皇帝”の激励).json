@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "SITLPQCHAQC2EBQEL6M3PS3BNQXHHKSF",
+    "version": 6,
+    "bundle": "V2PSQDEIG2OSKW32KUTVYZBLYD6PIMA5",
     "type": "story",
     "storyId": "801017001",
     "title": "“皇帝”の激励",
+    "enTitle": "The Emperor's Encouragement",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>のレースが近づいてきた。\r\nこれまでに十分走り込んできたとは思う。\nだが、どうにも不安が拭えない……。",
-            "enText": "The <chrname> race is coming up. I think \nI've done enough running so far. But I \ncan't shake the feeling that I'm not going \nto be able to…",
+            "enText": "<chrname>'s race is drawing<n>near. I'm\nsure we've done enough<n>running in preparation,\nbut I can't quite<n>shake off my anxieties...",
             "nextBlock": 2,
+            "origClipLength": 123,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5624606437872487648,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "これで本当に勝てるのか？　調整はどうする？\r\n頭を悩ませていると――",
-            "enText": "Can you really win with this? How do I \nadjust? You're scratching your head.",
+            "enText": "As I fret about whether our training has<n>been\nenough to win, a certain racer<n>happens by...",
             "nextBlock": 3,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8291436805985522160,
             "blockIdx": 2
         },
@@ -27,13 +34,26 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "難しい顔をしているな。\r\nどうかしたのか？",
-            "enText": "You've got a difficult look on your face. \nWhat's wrong with you?",
+            "enText": "That's quite a stern look on your face. Is<n>\nsomething the matter?",
             "nextBlock": 4,
+            "origClipLength": 72,
+            "voiceIdx": 32,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "なんだか不安になってきて……",
-                    "enText": "I'm starting to feel a bit anxious…",
+                    "enText": "I'm just feeling nervous, that's all...",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -6863721965598118866
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -7505279409868219358
                 }
             ],
             "pathId": -4945647320986146289,
@@ -43,8 +63,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "ふふっ。\r\nその心境自体は理解できる。",
-            "enText": "Hmm. I understand the sentiment itself.",
+            "enText": "Haha. I can deeply relate to that state of<n>mind.",
             "nextBlock": 5,
+            "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -388481343008246350
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 1594558840424708820
+                }
+            ],
             "pathId": 1961697402135940939,
             "blockIdx": 4
         },
@@ -52,8 +85,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "だが、動揺した姿はあまり見せない方がいい。\r\n彼女にまで不安を抱かせたくはないだろう。",
-            "enText": "But you don't want to look too upset. You \ndon't want to make her feel uncomfortable.",
+            "enText": "However, it would be best not to display<n>your\nunease so freely, lest it make your<n>trainee anxious\nas well.",
             "nextBlock": 6,
+            "origClipLength": 101,
+            "voiceIdx": 49,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 3288202444408559655
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 4531714430355840677
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -9176934735038028399
+                }
+            ],
             "pathId": -839325689210653041,
             "blockIdx": 5
         },
@@ -61,8 +111,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "率直に、君たちは自信を持っていいと思う。\r\n走り込みの量も質も、他の子に劣っていない。",
-            "enText": "Frankly, I think you guys should be \nvery confident. The quantity and quality \nof your running is not inferior to that \nof the other children.",
+            "enText": "If you ask me, you two should have<n>confidence in\nyourselves. The number<n>and quality of your runs\nare second to<n>none.",
             "nextBlock": 7,
+            "origClipLength": 101,
+            "voiceIdx": 38,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3502509743081334511
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 5131895017538309718
+                },
+                {
+                    "origLen": 147,
+                    "pathId": 7913574061110654774
+                }
+            ],
             "pathId": -5673211069784131450,
             "blockIdx": 6
         },
@@ -70,8 +137,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "結果は自ずと出る。泰然自若として待つんだ。\r\n……なんて、言うは易し行うは難しだな。",
-            "enText": "The result will come. We just have to wait \nand see… is a lot easier said than done.",
+            "enText": "Good results will surely follow, so be<n>calm in your\nheart and rest assured. Of<n>course, I suppose this is\nmuch easier said<n>than done.",
             "nextBlock": 8,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 2902347179860888227
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 6635088686653776981
+                }
+            ],
             "pathId": 7566744777525467107,
             "blockIdx": 7
         },
@@ -79,18 +159,31 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "何か証を……そうだな、君が考えている\r\nレースに向けた調整メニューを聞かせてくれ。",
-            "enText": "I'm sure you'll be able to find some \nproof … so let me know what you \nhave in mind for the race.",
+            "enText": "There must be more I can do to reassure<n>you...\nAh, I have just the idea. Tell me<n>how you are\npreparing for your race.",
             "nextBlock": 9,
+            "origClipLength": 98,
+            "voiceIdx": 37,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "レースに向けて軽めのスピード練習中心",
-                    "enText": "Focus on light speed training \nin preparation for the race.",
+                    "enText": "We're focusing on moderate speed training.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "ハードな展開に備え、あえて重めの調整",
-                    "enText": "Heavily tuned for hard deployment",
+                    "enText": "We're training hard to prepare for the worst\ncase scenario.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -5045768623896559569
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -4610859403194148106
                 }
             ],
             "pathId": 3457162268108704798,
@@ -100,8 +193,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "体力を温存しスピード中心に、か。\r\nうん、やはりな。正攻法だ。理に適っている。",
-            "enText": "Save your strength and focus on speed, \nright? Yeah, that's right. It's the right \nway to go. It makes sense.",
+            "enText": "Focusing on speed while preserving<n>energy... I\nsee. Yes, I expected as much.<n>That's an orthodox\nand logical approach.",
             "nextBlock": 10,
+            "origClipLength": 95,
+            "voiceIdx": 38,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 3342250581559630649
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -5175397579064568442
+                }
+            ],
             "pathId": -4981948549285433279,
             "blockIdx": 9
         },
@@ -109,8 +215,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "確かに君の選んだ道はよく踏み馴らされた\r\n道だ。だからこそ不安に感じるのだろう。",
-            "enText": "It is true that the path you have \nchosen is a well trodden one. That's \nwhy you feel uneasy.",
+            "enText": "The path you have chosen is<n>well-traveled, which,\nI suppose, is<n>precisely why you feel so uneasy.",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "voiceIdx": 79,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 6266978835375410898
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4110672187608002665
+                }
+            ],
             "pathId": 4609382423841706723,
             "blockIdx": 10
         },
@@ -118,8 +237,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "だがそれは、踏み外しさえしなければ\r\n栄光に繋がる帝道だと言える。",
-            "enText": "But it is an imperial road to glory, if you \ndon't take it too far.",
+            "enText": "But worry not. Staying on that path will<n>\nundoubtedly lead to glory.",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -5714415239325013015
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 3055113492128834719
+                },
+                {
+                    "origLen": 207,
+                    "pathId": 8916471786136741128
+                }
+            ],
             "pathId": 4897722511794457554,
             "blockIdx": 11
         },
@@ -127,8 +263,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "君たちにはそこを歩み続けられる強さがある。\r\n私はそう思っているよ。自信を持ちたまえ。",
-            "enText": "You have the strength to keep going. That's \nhow I see it. Have confidence in yourselves.",
+            "enText": "I believe you two have the strength to<n>follow the\nroad you've chosen. There is<n>no need to doubt\nyourselves.",
             "nextBlock": 13,
+            "origClipLength": 101,
+            "voiceIdx": 3,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 3353701891804186279
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 8402548871448827051
+                }
+            ],
             "pathId": -2725245736212259042,
             "blockIdx": 12
         },
@@ -136,8 +285,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフの言葉を聞いて\r\n少し不安も薄れ、自信を持つことができた。",
-            "enText": "Hearing Symboli Rudolf's words made me feel a \nlittle less anxious and more confident.",
+            "enText": "Symboli Rudolf's words ease my<n>anxieties a little,\nand I feel confidence<n>welling up within me once\nmore.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -4034222326586509282
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 9101627487564983750
+                }
+            ],
             "pathId": 818053882533067914,
             "blockIdx": 13
         },
@@ -145,8 +307,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "ふむ、なるほど。不安を払拭する意味でも、\r\nしっかり走っておきたいということか……。",
-            "enText": "Hmm, I see. So you want to run \nwell to dispel your fears…",
+            "enText": "Hm, I see. So you're allaying those fears<n>of yours\nby training intensely and<n>preparing for any and all\npossibilities.",
             "nextBlock": 15,
+            "origClipLength": 99,
+            "voiceIdx": 9,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -6470488264824010708
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6279009361868060455
+                }
+            ],
             "pathId": 8788580927642004801,
             "blockIdx": 14
         },
@@ -154,8 +329,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "正攻法ではないかもしれないが……\r\n今の君たちには最適な調整だろう。",
-            "enText": "It may not be the right way to \ngo, but… would be the best adjustment \nfor you right now.",
+            "enText": "Though it may not be the most orthodox<n>\napproach, I can see how it might be the<n>best one\nfor your current situation.",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -2034191342034982541
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -8583691248877834985
+                }
+            ],
             "pathId": -3558488752132327711,
             "blockIdx": 15
         },
@@ -163,8 +351,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "無我夢中で走る中で、憂いも迷いも躊躇いも\r\n全て振り切ってしまうことが期待できる。",
-            "enText": "You can expect to shake off all \nyour worries, doubts and hesitations \nas you ride selflessly.",
+            "enText": "Once you lose yourself to the thrill of<n>the run, all\nyour fears, doubts, and<n>apprehensions will be left\nbehind in the<n>dust like forgotten sighs.",
             "nextBlock": 17,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -102886207155982309
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -5064618624450111100
+                },
+                {
+                    "origLen": 198,
+                    "pathId": 8833043574334673150
+                }
+            ],
             "pathId": -5135584756761424333,
             "blockIdx": 16
         },
@@ -172,8 +377,21 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "うん、やはり君の選択は間違っていない。\r\n自信を持って彼女を導いてあげたまえ。",
-            "enText": "Yes, you've made the right choice. You can \nlead her with confidence.",
+            "enText": "Yes, I believe you have made the right<n>choice. Go\nforth and guide your racer<n>with confidence.",
             "nextBlock": 18,
+            "origClipLength": 95,
+            "voiceIdx": 38,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 138412589727589318
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 5005437002170259657
+                }
+            ],
             "pathId": 7107470439738023655,
             "blockIdx": 17
         },
@@ -181,8 +399,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフの言葉を聞いて\r\n少し不安も薄れ、自信を持つことができた。",
-            "enText": "Hearing Symboli Rudolf's words made me feel a \nlittle less anxious and more confident.",
+            "enText": "Symboli Rudolf's words ease my<n>anxieties a little,\nand I feel confidence<n>welling up within me once\nmore.",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -2327488656114986367
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -3117291221873887079
+                }
+            ],
             "pathId": 1742942623427911139,
             "blockIdx": 18
         }

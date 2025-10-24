@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "MK52LKQ4FDYL46Z3NXW7HW7422SD6RPK",
+    "version": 6,
+    "bundle": "C4GJB4UMQTDVXILMW7DKBQGUEIOTBRQP",
     "type": "story",
     "storyId": "801037002",
     "title": "想定外への対応",
+    "enTitle": "Responding to the Unforeseen",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、買い出しにやってくると――",
-            "enText": "One day, she comes in to buy some groceries.",
+            "enText": "One day, as I'm out shopping...",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -635161291543062261,
             "blockIdx": 1
         },
@@ -18,18 +22,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "とある店の前で悩んでいる\r\nエイシンフラッシュが目についた。",
-            "enText": "I saw Eishin Flash struggling \nin front of a shop.",
+            "enText": "I notice Eishin Flash standing in front of<n>a store\nwearing a troubled expression.",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "どうかしたのか？",
-                    "enText": "What's wrong with you?",
+                    "enText": "Something the matter?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "どうかしたの？",
-                    "enText": "What's wrong?",
+                    "enText": "Something the matter?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3885384263089101191
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1374783675198556785
                 }
             ],
             "pathId": -6832913952801130319,
@@ -39,8 +56,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "シュトレンを買いに来たのですが、\nご店主の急なご都合で、臨時休業のようです。",
-            "enText": "We came here to buy stollen, but the owner \nwas closed for a short time.",
+            "enText": "I came here to buy stollen, but it seems<n>the store\nis closed because the owner<n>had to step out on\nemergency business.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5759514006862072664
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6799859061912389207
+                }
+            ],
             "pathId": -516411774274467357,
             "blockIdx": 3
         },
@@ -48,28 +78,41 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "このままでは予定に大幅な遅滞が発生……\n想定外でした。一体どうすれば――",
-            "enText": "If we don't, there will be a significant \ndelay in our schedule… We didn't expect \nthis. What can we do to…",
+            "enText": "This will cause major delays in my plans.<n>I had not\naccounted for this. What ever<n>should I do?",
             "nextBlock": 5,
+            "origClipLength": 68,
+            "voiceIdx": 35,
+            "voiceSheetId": "051037001",
             "choices": [
                 {
                     "jpText": "いっそ自分で作るのはどうだろう",
-                    "enText": "Why don't you make your own?",
+                    "enText": "Why not make it yourself?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "いっそ自分で作るのはどうかな",
-                    "enText": "Why don't you make your own?",
+                    "enText": "Why not make it yourself?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "取り扱ってる店を他に探すのはどうだろう",
-                    "enText": "How about finding another \nshop that sells it?",
+                    "enText": "I'm sure there's another store that sells it.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "取り扱ってる店を他に探すのはどうかな",
-                    "enText": "I'm not sure if you can find another \nshop that carries it.",
+                    "enText": "I'm sure there's another store that sells it.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4632994239403372378
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 765477594050892255
                 }
             ],
             "pathId": -2926572804454063044,
@@ -79,28 +122,41 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "このままでは予定に大幅な遅滞が発生……\n想定外でした。一体どうすれば――",
-            "enText": "If we don't, there will be a significant \ndelay in our schedule… We didn't expect \nthis. What can we do to…",
+            "enText": "This will cause major delays in my plans.<n>I had not\naccounted for this. What ever<n>should I do?",
             "nextBlock": 6,
+            "origClipLength": 68,
+            "voiceIdx": 35,
+            "voiceSheetId": "051037001",
             "choices": [
                 {
                     "jpText": "いっそ自分で作るのはどうだろう",
-                    "enText": "Why don't you make your own?",
+                    "enText": "Why not make it yourself?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "いっそ自分で作るのはどうかな",
-                    "enText": "Why don't you make your own?",
+                    "enText": "Why not make it yourself?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "取り扱ってる店を他に探すのはどうだろう",
-                    "enText": "How about finding another \nshop that sells it?",
+                    "enText": "I'm sure there's another store that sells it.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "取り扱ってる店を他に探すのはどうかな",
-                    "enText": "I'm not sure if you can find another \nshop that carries it.",
+                    "enText": "I'm sure there's another store that sells it.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4734525602332617230
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 9094280381712071290
                 }
             ],
             "pathId": -4653384865302268058,
@@ -110,8 +166,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "……その発想は、ありませんでした。\nですが――仰る通りですね。",
-            "enText": "… I hadn't thought of that. \nBut - you're right.",
+            "enText": "I have never thought to do that, but you<n>are quite\nright.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": 8,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -6544762867270367896
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 567145507304806397
+                }
+            ],
             "pathId": -8737410906696425536,
             "blockIdx": 6
         },
@@ -119,8 +188,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "無いなら作ればいい。幸い、味も鮮明に\n思い出せるほど此方には通っています。",
-            "enText": "If you don't have it, you can make it. \nFortunately, I've been coming here long \nenough to remember the taste very clearly.",
+            "enText": "If I cannot buy any, then I can simply<n>make some.\nThankfully, I am able to<n>recall its flavor vividly.",
             "nextBlock": 8,
+            "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 6521069074629478061
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 1786954360258513611
+                }
+            ],
             "pathId": 4612586896842509959,
             "blockIdx": 7
         },
@@ -128,8 +210,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "父と母のシュトレンのレシピを元にして、\n近似した風味を再現できるかもしれません。",
-            "enText": "You may be able to recreate a similar \nflavour based on your father and mother's \nstollen recipe.",
+            "enText": "If I use my parents' recipe as a base, it<n>should be\npossible to reproduce the<n>taste.",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "voiceIdx": 11,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -8693018519173053672
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -4161574561638263365
+                }
+            ],
             "pathId": -6457481088746911416,
             "blockIdx": 8
         },
@@ -137,8 +232,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "――助言いただき、ありがとうございます。\n早速、寮に戻って作成してみます。",
-            "enText": "—Thank you for your advice. I will \ntry to create it back at the dormitory \nas soon as possible.",
+            "enText": "Thank you for your words of advice. I<n>shall return\nto my dorm to make it at<n>once.",
             "nextBlock": -1,
+            "origClipLength": 69,
+            "voiceIdx": 12,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -3691395581818810544
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 7322603804632359060
+                }
+            ],
             "pathId": 7793168671157970812,
             "blockIdx": 9
         },
@@ -146,8 +254,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "――仰る通りですね。現状を考慮すると、\n今後のために選択肢を用意すべきです。",
-            "enText": "—Yes, you are right. Given the current \nsituation, we should be prepared with \noptions for the future.",
+            "enText": "You are quite correct. Considering the<n>current\nsituation, I should have prepared<n>alternate\nchoices.",
             "nextBlock": 11,
+            "origClipLength": 69,
+            "voiceIdx": 47,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -6738320508283526146
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -3721424878511530152
+                }
+            ],
             "pathId": 2853761917585595103,
             "blockIdx": 10
         },
@@ -155,8 +276,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "幸い、私の今現在の予定は、\n『散歩、及びシュトレンの購入』",
-            "enText": "Fortunately, my current plan is to \"go for a \nwalk and buy a stollen\".",
+            "enText": "Thankfully, my current plans consist of<n>taking a\nstroll and buying stollen along<n>the way.",
             "nextBlock": 12,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4592217134212228706
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 4825133602138116602
+                }
+            ],
             "pathId": 6077103888694051293,
             "blockIdx": 11
         },
@@ -164,8 +298,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "他のお店を探すことは、\n散歩の範疇に含まれるため、予定通りです。",
-            "enText": "The search for other shops is part of the \nwalk, so we are on schedule.",
+            "enText": "As the task of finding another store falls<n>within\nthe category of taking a stroll, my<n>plans remain\nintact.",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "voiceIdx": 6,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4704267599129580148
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 8018562558170903713
+                }
+            ],
             "pathId": -5293338379677090372,
             "blockIdx": 12
         },
@@ -173,8 +320,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "そうと決まれば、万難を排して時間内に\n別の店を見つけなければ……！",
-            "enText": "If that's the case, we'll have to find \nanother shop in time to save the day…!",
+            "enText": "I must make every effort to find another<n>store\nbefore the time frame for these<n>tasks passes!",
             "nextBlock": 14,
+            "origClipLength": 66,
+            "voiceIdx": 11,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5009707617408201306
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 6723316947389585721
+                }
+            ],
             "pathId": 3026295672406204540,
             "blockIdx": 13
         },
@@ -182,8 +342,21 @@
             "jpName": "エイシンフラッシュ",
             "enName": "Eishin Flash",
             "jpText": "――助言いただき、ありがとうございます。\n早速、他のお店を探してみます。",
-            "enText": "—Thank you for your advice. I will try to \nfind another shop as soon as possible.",
+            "enText": "Thank you for your words of advice. I<n>shall look\nfor another store at once.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": 12,
+            "voiceSheetId": "051037001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 3810687764908318227
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -4978476535553231698
+                }
+            ],
             "pathId": -8880786916729675801,
             "blockIdx": 14
         }

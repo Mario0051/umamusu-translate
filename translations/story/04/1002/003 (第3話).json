@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "DYUU7XMXNYC7BR7KIUKHQJUTV7GDYRM3",
+    "version": 6,
+    "bundle": "NQCDUNZSEO6Z77EJZATJRKT775VCACZB",
     "type": "story",
     "storyId": "041002003",
     "title": "第3話",
+    "enTitle": "O Umamusume, Why Do You Run?",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ふと立ち寄ったトレーニングコースで、\r\n今日も今日とてサイレンススズカが走っているのを見かけた。",
-            "enText": "When stopping by the Training Course today, \nI happened to spot Silence Suzuka running.",
+            "enText": "Walking past the training course some<n>days later, I spot a familiar\nfigure dashing<n>down the homestretch.",
             "nextBlock": 2,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3417756305098444354,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "トレーナーもいないようだし、自主的に走っているのだろうか。\r\nそう思い、なんとなく眺めていたのだけれど――",
-            "enText": "Since her trainer isn't here, is she doing her training \nindependently? Thinking that, I ended up watching over her.",
+            "enText": "It's Silence Suzuka. Her trainer's nowhere<n>to be seen, so I assume that\nshe's doing<n>some solo practice.",
             "nextBlock": 3,
+            "origClipLength": 131,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 569974185589984145,
             "blockIdx": 2
         },
@@ -27,18 +34,35 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はぁっ……はぁ。……あっ！？",
-            "enText": "Haaa… haa…Ah?!",
+            "enText": "<I>Huff... huff...</I>\nAh!",
             "nextBlock": 4,
+            "origClipLength": 163,
+            "voiceIdx": 0,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "大丈夫か！？",
-                    "enText": "Are you okay?!",
+                    "enText": "Are you all right?!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "大丈夫！？",
-                    "enText": "Are you okay?!",
+                    "enText": "Are you all right?!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 7648122515074082985
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 3820823927454438719
+                },
+                {
+                    "origLen": 119,
+                    "pathId": 8858770598387940807
                 }
             ],
             "pathId": -6442547640365784293,
@@ -48,8 +72,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "しゃがみこんでしまったサイレンススズカに、\r\n慌てて駆け寄った。まさかケガでもしたのだろうか……！",
-            "enText": "When Silence Suzuka stumbled, I panicked and rushed \nto her. Don't tell me she's injured…!",
+            "enText": "I rush over to the collapsed Silence Suzuka<n>to make sure she's not\nhurt.",
             "nextBlock": 5,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -5228588744114553239
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -4361769159244133124
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -5156826756445422554
+                }
+            ],
             "pathId": -4309132972261094774,
             "blockIdx": 4
         },
@@ -57,18 +98,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ……す、すみません。なんでもないです、大丈夫です……。\r\nただ……ちょっと、脚が重いだけで……。",
-            "enText": "Ah… S-sorry. It's nothing, I'm fine. It's \njust… my feet feel a little heavy…",
+            "enText": "Oh... s-sorry. I'm fine, really. My legs are<n>just... feeling a bit heavy.",
             "nextBlock": 6,
+            "origClipLength": 378,
+            "voiceIdx": 1,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "調子でも悪いのか……？",
-                    "enText": "Are you feeling out of sorts…?",
+                    "enText": "Is that really all?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "調子でも悪いの……？",
-                    "enText": "Are you feeling out of sorts…?",
+                    "enText": "Is that really all?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": -5342357950865620357
+                },
+                {
+                    "origLen": 253,
+                    "pathId": 247061498935973736
                 }
             ],
             "pathId": 771653331751636348,
@@ -78,8 +132,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "調子……そう、なんでしょうか。",
-            "enText": "Out of sorts… could that be it?",
+            "enText": "I wonder... Maybe not...",
             "nextBlock": 7,
+            "origClipLength": 160,
+            "voiceIdx": 2,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -4095374432876115949
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 908653528865877072
+                }
+            ],
             "pathId": 4030903447312252583,
             "blockIdx": 6
         },
@@ -87,8 +154,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……変なんです、私。\r\n模擬レースの後から。",
-            "enText": "…something's wrong with me. Ever since that mock race.",
+            "enText": "I've been feeling strange ever since my last<n>scrimmage race.",
             "nextBlock": 8,
+            "origClipLength": 162,
+            "voiceIdx": 3,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -8846377457496470363
+                },
+                {
+                    "origLen": 173,
+                    "pathId": -2906636707225948942
+                }
+            ],
             "pathId": 8832789992253812850,
             "blockIdx": 7
         },
@@ -96,18 +176,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "鎖がついてるみたいに、脚が重たくて。\r\nそれでも走り続けると、そのうち目の前が暗くなって……。",
-            "enText": "My legs feel heavy, as if they've been chained. As I keep \nrunning, eventually my vision starts to darken…",
+            "enText": "It feels as if there's a ball and chain<n>attached to one of my ankles.\nAnd no<n>matter how much I run, all I see is<n>darkness...",
             "nextBlock": 9,
+            "origClipLength": 315,
+            "voiceIdx": 4,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "無理しない方がいいんじゃないか……？",
-                    "enText": "You shouldn't push yourself…",
+                    "enText": "Maybe you're pushing yourself too hard.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "無理しない方がいいんじゃない……？",
-                    "enText": "You shouldn't push yourself…",
+                    "enText": "Maybe you're pushing yourself too hard.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 829213985877388685
+                },
+                {
+                    "origLen": 326,
+                    "pathId": -2459624473989207667
                 }
             ],
             "pathId": 1433757428301729266,
@@ -117,8 +210,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "無理……？　無理なんかしていません。\r\nいつもだったら、もっと走れるんです。",
-            "enText": "Pushing myself…? I'm not doing that. \nNormally, I could keep on running.",
+            "enText": "Too hard? ...I don't think so. This was<n>never a problem for me before.",
             "nextBlock": 10,
+            "origClipLength": 261,
+            "voiceIdx": 5,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 1467759719862236065
+                }
+            ],
             "pathId": 5982299823653466485,
             "blockIdx": 9
         },
@@ -126,8 +228,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……ずっと、走ってきたんです。ずっと。\r\n走ることは、私にとってすべてだったから。",
-            "enText": "…I've always been running. Always. Running is everything to me.",
+            "enText": "I used to be able to run without a care in<n>the world. It was everything\nto me.",
             "nextBlock": 11,
+            "origClipLength": 315,
+            "voiceIdx": 6,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 323,
+                    "pathId": 6946752838522097608
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 7300826578175761980
+                }
+            ],
             "pathId": -8770574162300988316,
             "blockIdx": 10
         },
@@ -135,8 +250,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "なのに、今は……っ。\r\nどうしよう、こんなの、初めてなんです。",
-            "enText": "However, now… what should I do? This is \nthe first time I've ever felt like this.",
+            "enText": "But now... What should I do? ...I've never<n>felt this way before.",
             "nextBlock": 12,
+            "origClipLength": 314,
+            "voiceIdx": 7,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 35,
+                    "pathId": 6983003085349674623
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8429965932981797762
+                }
+            ],
             "pathId": 6567869914932114488,
             "blockIdx": 11
         },
@@ -144,13 +272,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "もう走りたくないって、思うなんて。\r\nこんなの……初めて……。",
-            "enText": "I feel like 'I don't want to run anymore'… \nThis is… the first time…",
+            "enText": "I've never felt like... like... I don't even<n>want to run...",
             "nextBlock": 13,
+            "origClipLength": 281,
+            "voiceIdx": 8,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "スズカ……",
-                    "enText": "Suzuka…",
+                    "enText": "Suzuka...",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 286,
+                    "pathId": -6784196087799461362
+                },
+                {
+                    "origLen": 293,
+                    "pathId": 2711771468083075305
                 }
             ],
             "pathId": -4936801800380258798,
@@ -160,8 +301,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女は本当に苦しそうだ。\r\n何か自分にしてあげられることはないだろうか……。",
-            "enText": "It seems like she's really suffering. Is \nthere anything I can do for her…?",
+            "enText": "Her expression in no way resembles that<n>look of pure bliss I am so\nused to seeing as<n>she runs.",
             "nextBlock": 14,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 292,
+                    "pathId": -6486663538487190634
+                },
+                {
+                    "origLen": 293,
+                    "pathId": -2132901611030467214
+                }
+            ],
             "pathId": 4801673619363971146,
             "blockIdx": 13
         },
@@ -169,8 +323,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "走ることの楽しさを見失いかけている彼女に、何か――",
-            "enText": "For this girl that's lost sight of the excitement \nof running, is there anything?",
+            "enText": "I fear that she's losing sight of her ultimate<n>passion. There has to be\nsomething I can<n>do...",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 292,
+                    "pathId": 4301345151576309720
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 4876100384474952477
+                }
+            ],
             "pathId": 7374173643019288425,
             "blockIdx": 14
         },
@@ -178,8 +345,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ふぅっ……！！\r\nうん……夜に走ると、静かでいいわね……。",
-            "enText": "Huuu… Yeah… running at night is great, it's nice and quiet",
+            "enText": "Phew! A quiet course all to myself...<n>Running at night is the best.",
             "nextBlock": 16,
+            "origClipLength": 239,
+            "voiceIdx": 9,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -83631442687875339
+                },
+                {
+                    "origLen": 272,
+                    "pathId": 1300081643359530959
+                }
+            ],
             "pathId": 7294436035941598385,
             "blockIdx": 15
         },
@@ -187,8 +367,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "そういえば、今日はちょっとだけ星が明るいかしら……？",
-            "enText": "Now that I think about it, doesn't it seem \nlike the stars are brighter tonight?",
+            "enText": "And maybe it's just my imagination, but<n>the stars seem a little brighter\nthan usual<n>tonight.",
             "nextBlock": 17,
+            "origClipLength": 147,
+            "voiceIdx": 10,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 1427845930322830344
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3689390073539370918
+                }
+            ],
             "pathId": -2523371292202295501,
             "blockIdx": 16
         },
@@ -196,8 +389,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……ふふっ。この景色全部、ひとり占めね。",
-            "enText": "…hehe. This scenery, I have it all to myself",
+            "enText": "Hehe. I've got this scenery all to myself.",
             "nextBlock": 18,
+            "origClipLength": 167,
+            "voiceIdx": 11,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 64,
+                    "pathId": -8429868664192645332
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7462018135647400424
+                }
+            ],
             "pathId": 718080489545700700,
             "blockIdx": 17
         },
@@ -205,8 +411,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "そういえば、あの時……とても楽しそうに走っていた頃の\r\nサイレンススズカは、周囲の景色を楽しんでいるようだった。",
-            "enText": "That reminds me, at that time… when Silence Suzuka was happily \nrunning, she was also enjoying the scenery around her.",
+            "enText": "Come to think of it, she spoke so fondly of<n>her beautiful view that\nevening. Perhaps<n>Suzuka likes taking in the scenery?",
             "nextBlock": 19,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": 1638543949453333215
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 7400626214790787827
+                }
+            ],
             "pathId": 243882716851303196,
             "blockIdx": 18
         },
@@ -214,18 +433,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "それなら――",
-            "enText": "If that's the case…",
+            "enText": "In that case...",
             "nextBlock": 20,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "気分を変えて、違う場所で走ってみるか？",
-                    "enText": "For a change of pace, how about running in a different location?",
+                    "enText": "Would you like to try running somewhere else?",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "気分を変えて、違う場所で走ってみたら？",
-                    "enText": "For a change of pace, how about running in a different location?",
+                    "enText": "Would you like to try running somewhere else?",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 6434801946794145314
+                },
+                {
+                    "origLen": 293,
+                    "pathId": 59461884887620179
                 }
             ],
             "pathId": -3455419019860602027,
@@ -235,13 +467,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "違う場所、ですか……？",
-            "enText": "A different location…?",
+            "enText": "Somewhere else?",
             "nextBlock": 21,
+            "origClipLength": 95,
+            "voiceIdx": 12,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "そう、景色が綺麗な場所とか",
-                    "enText": "Yeah, like a place with beautiful scenery",
+                    "enText": "Yes—somewhere with a wonderful view.",
                     "nextBlock": 21
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8743896307191596033
+                },
+                {
+                    "origLen": 107,
+                    "pathId": 1189786547338636833
                 }
             ],
             "pathId": 8047696623101869005,
@@ -251,8 +496,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "景色……。",
-            "enText": "Scenery…",
+            "enText": "A wonderful view...",
             "nextBlock": 22,
+            "origClipLength": 41,
+            "voiceIdx": 13,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8058799011510354535
+                }
+            ],
             "pathId": -3979684857563925216,
             "blockIdx": 21
         },
@@ -260,18 +514,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "でも、学園の近くのそういう場所は、\r\nだいたいランニングで通い慣れてしまって……。",
-            "enText": "But, there isn't a place like that near school. \nI've visited most of the area on my runs…",
+            "enText": "Is there really such a place near the<n>academy? I feel like I'm quite\nused to all<n>the sights around here...",
             "nextBlock": 23,
+            "origClipLength": 203,
+            "voiceIdx": 14,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "それなら、俺がどこか案内するよ",
-                    "enText": "In that case, I'll show you",
+                    "enText": "I'll show you something new.",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "それなら、私がどこか案内するから",
-                    "enText": "In that case, I'll show you",
+                    "enText": "I'll show you something new.",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 191,
+                    "pathId": 1700512698271216486
                 }
             ],
             "pathId": -7082064264880740122,
@@ -281,8 +544,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……いいんですか？",
-            "enText": "…is that okay?",
+            "enText": "Will you really?",
             "nextBlock": 24,
+            "origClipLength": 89,
+            "voiceIdx": 15,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3831220880987201215
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 5087918622368905977
+                }
+            ],
             "pathId": -9178272971806365922,
             "blockIdx": 23
         },
@@ -290,8 +566,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "サイレンススズカを、景色が綺麗で\r\n思いっきり走れそうな場所まで連れて行くことにした。",
-            "enText": "I led Silence Suzuka to a place with beautiful scenery where she \ncould run to her heart's content.",
+            "enText": "Fortunately, I have just the place in mind.<n>The surroundings are awash\nwith lush<n>greenery, and there is plenty of wide-open<n>space to run.",
             "nextBlock": 25,
+            "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 28,
+                    "pathId": 4802278186011856699
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 7238362914192969204
+                }
+            ],
             "pathId": 4889828925660734921,
             "blockIdx": 24
         },
@@ -299,8 +588,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "わぁっ……。",
-            "enText": "Wow…",
+            "enText": "Wow...",
             "nextBlock": 26,
+            "origClipLength": 54,
+            "voiceIdx": 16,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5228385612681698941
+                }
+            ],
             "pathId": 6740740910220551523,
             "blockIdx": 25
         },
@@ -308,8 +606,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "電車に乗ってるうちに……空、晴れてたんですね。\r\n緑がいっぱい陽を浴びて……綺麗……。",
-            "enText": "While we were on the train, the sky seems to have cleared up. \nIt's all green and bathed in sunlight… beautiful…",
+            "enText": "The sky cleared up while we were on the<n>train. There's so much\ngreenery, bathing in<n>sunlight... It's beautiful.",
             "nextBlock": 27,
+            "origClipLength": 347,
+            "voiceIdx": 17,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 154,
+                    "pathId": -37176521123159226
+                },
+                {
+                    "origLen": 360,
+                    "pathId": -7590390390306270579
+                }
+            ],
             "pathId": 777561370439694242,
             "blockIdx": 26
         },
@@ -317,18 +628,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "それに、この道……どこへ続いているのかしら……？",
-            "enText": "That aside, this path… where does it lead…?",
+            "enText": "And this path here... Just where does it<n>lead?",
             "nextBlock": 28,
+            "origClipLength": 177,
+            "voiceIdx": 18,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "走って、確かめてきたらどうだ？",
-                    "enText": "How about running and finding out?",
+                    "enText": "Why don't you take a run and find out?",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "走って、確かめてきたら？",
-                    "enText": "How about running and finding out?",
+                    "enText": "Why don't you take a run and find out?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 185,
+                    "pathId": -3947311993220959510
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 9041827226283047506
                 }
             ],
             "pathId": -7583750212029267579,
@@ -338,8 +662,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ……。",
-            "enText": "Ah…",
+            "enText": "Oh...",
             "nextBlock": 29,
+            "origClipLength": 27,
+            "voiceIdx": 19,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 3163869517249534960
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 6388818049193700450
+                }
+            ],
             "pathId": -6497758830522344487,
             "blockIdx": 28
         },
@@ -347,8 +684,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……そうですね。行ってきます！",
-            "enText": "…That's right. I'll go and see.",
+            "enText": "...Good idea. I'll be back soon!",
             "nextBlock": 30,
+            "origClipLength": 217,
+            "voiceIdx": 20,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": -3244928643147978634
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 2813716165539341831
+                }
+            ],
             "pathId": -460555599136707002,
             "blockIdx": 29
         },
@@ -356,8 +706,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はっ、はっ、はっ……ふぅ。",
-            "enText": "Haa, haa, haa… Fuuu.",
+            "enText": "<I>Huff... huff... huff...</I>\nPhew.",
             "nextBlock": 31,
+            "origClipLength": 191,
+            "voiceIdx": 21,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3453280658306277737
+                },
+                {
+                    "origLen": 183,
+                    "pathId": 5062923143533685397
+                }
+            ],
             "pathId": 1074318319102496277,
             "blockIdx": 30
         },
@@ -365,8 +728,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（まだ、ちょっと脚が重い……でも……）",
-            "enText": "(My feet still feel a little heavy… but…)",
+            "enText": "(My legs still feel a bit heavy. But...)",
             "nextBlock": 32,
+            "origClipLength": 156,
+            "voiceIdx": 22,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 137,
+                    "pathId": -6409034492121202882
+                }
+            ],
             "pathId": -6560297757067715093,
             "blockIdx": 31
         },
@@ -374,8 +746,25 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "…………いい風。\r\nひんやりする……。",
-            "enText": "…A nice breeze. It feels cool…",
+            "enText": "...What a nice breeze. It's so cool and<n>refreshing.",
             "nextBlock": 33,
+            "origClipLength": 211,
+            "voiceIdx": 23,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 225,
+                    "pathId": 6794676557016312750
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 6242931519292401250
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3841473611025344807
+                }
+            ],
             "pathId": -763729889270387577,
             "blockIdx": 32
         },
@@ -383,8 +772,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……うん。もう少し、走ろう。",
-            "enText": "…Yeah. Let's run a little more.",
+            "enText": "Okay... I think I'll run a bit more.",
             "nextBlock": 34,
+            "origClipLength": 130,
+            "voiceIdx": 24,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 958895694865805632
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5550589172728266108
+                }
+            ],
             "pathId": -5148843141348666123,
             "blockIdx": 33
         },
@@ -392,8 +794,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はっ、はっ、はっ……。",
-            "enText": "Haa, haa, haa…",
+            "enText": "<I>Huff... huff... huff...</I>",
             "nextBlock": 35,
+            "origClipLength": 178,
+            "voiceIdx": 25,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 3320278110833690334
+                }
+            ],
             "pathId": 6861479056756997131,
             "blockIdx": 34
         },
@@ -401,8 +812,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（両足が地面を蹴る感覚……体が熱くて、風は冷たい……）",
-            "enText": "(The feeling of both feet kicking the ground… \nmy body is hot, the breeze is cool…)",
+            "enText": "(The feeling of kicking up dirt with my<n>feet... My body getting hot...\nThe cool<n>breeze...)",
             "nextBlock": 36,
+            "origClipLength": 230,
+            "voiceIdx": 26,
+            "voiceSheetId": "041002003",
             "pathId": 5219625917335363219,
             "blockIdx": 35
         },
@@ -410,8 +824,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（そうだ。こうやって走って、走っていたら、そのうち――）",
-            "enText": "(That's right. If I run like this, if I keep \nrunning like this, then eventually-)",
+            "enText": "(This is it. This feeling... Running like<n>this...)",
             "nextBlock": 37,
+            "origClipLength": 196,
+            "voiceIdx": 27,
+            "voiceSheetId": "041002003",
             "pathId": -5061180633047286355,
             "blockIdx": 36
         },
@@ -419,8 +836,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はっ、はぁっ……！！",
-            "enText": "Haa, haaa…!",
+            "enText": "<I>Huff... huff...</I>",
             "nextBlock": 38,
+            "origClipLength": 141,
+            "voiceIdx": 28,
+            "voiceSheetId": "041002003",
             "pathId": 5561651390928185894,
             "blockIdx": 37
         },
@@ -428,8 +848,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（――静かな景色に、辿り着けるの）",
-            "enText": "(-I'll finally reach that quiet scenery)",
+            "enText": "(This is my ideal scenery...)",
             "nextBlock": 39,
+            "origClipLength": 116,
+            "voiceIdx": 29,
+            "voiceSheetId": "041002003",
             "pathId": 2190515931368630870,
             "blockIdx": 38
         },
@@ -437,8 +860,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "（聞こえるのは、風の音と心臓の鼓動だけ。\r\n他に誰もいない、まっさらな……私だけの世界……！）",
-            "enText": "(With only the sound of the wind and my beating heart. With \nnobody around, a whole new… world just for me…!)",
+            "enText": "(Absolute silence. With only the sounds of<n>the wind and my own\nbeating heart. This<n>world is mine...)",
             "nextBlock": 40,
+            "origClipLength": 362,
+            "voiceIdx": 30,
+            "voiceSheetId": "041002003",
             "pathId": -3762430988100802006,
             "blockIdx": 39
         },
@@ -446,8 +872,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "そうだ、私……！！",
-            "enText": "That's right, I…!",
+            "enText": "And mine alone!",
             "nextBlock": 41,
+            "origClipLength": 116,
+            "voiceIdx": 31,
+            "voiceSheetId": "041002003",
             "pathId": -3725071383876417713,
             "blockIdx": 40
         },
@@ -455,18 +884,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はっ、はっ……はぁーーーーっ。\r\n…………ふぅっ。",
-            "enText": "Haa, haa… haaaaaaauu…Fuuu.",
+            "enText": "<I>Huff... huff... huff...</I>\nPhew.",
             "nextBlock": 42,
+            "origClipLength": 234,
+            "voiceIdx": 32,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "スッキリした顔してるな",
-                    "enText": "You look relieved",
+                    "enText": "You're looking rather refreshed.",
                     "nextBlock": 42
                 },
                 {
                     "jpText": "スッキリした顔してるね",
-                    "enText": "You look relieved",
+                    "enText": "You're looking rather refreshed.",
                     "nextBlock": 42
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": 3377305577951507067
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 6478048888725991377
                 }
             ],
             "pathId": 5173618602367445475,
@@ -476,8 +918,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……はい、スッキリしました。\r\n頭が空っぽになるまで、思いっきり走ったから。",
-            "enText": "…Yes, I am. I ran my heart out, until it emptied my mind.",
+            "enText": "Yes, very. It's been a while since I've been<n>able to just run without a\ncare.",
             "nextBlock": 43,
+            "origClipLength": 302,
+            "voiceIdx": 33,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 6277574102283779902
+                },
+                {
+                    "origLen": 314,
+                    "pathId": 2642823973744231563
+                }
+            ],
             "pathId": -7720020670988855466,
             "blockIdx": 42
         },
@@ -485,13 +940,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "おかげで……思い出せました。",
-            "enText": "Because of that…I remembered.",
+            "enText": "Thank you... It made me remember...",
             "nextBlock": 44,
+            "origClipLength": 104,
+            "voiceIdx": 34,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "思い出せた？",
-                    "enText": "You remembered?",
+                    "enText": "Remember what?",
                     "nextBlock": 44
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": 7666041852730564658
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -9167907440257493061
                 }
             ],
             "pathId": -3769428983731572475,
@@ -501,8 +969,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "小さな頃から走ってばかりいた私に、\r\nある日、両親がレースへの出走を勧めてくれたんです。",
-            "enText": "When I was little and just ran and ran, one day, \nmy parents recommended I enter a race.",
+            "enText": "I loved running like this even when I was<n>little. One day, my parents\nencouraged me<n>to try running in a race.",
             "nextBlock": 45,
+            "origClipLength": 263,
+            "voiceIdx": 35,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 52,
+                    "pathId": -3126129350767307241
+                },
+                {
+                    "origLen": 274,
+                    "pathId": 587279003745039015
+                }
+            ],
             "pathId": -2423861742900978682,
             "blockIdx": 44
         },
@@ -510,8 +991,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "走れるのならいいかな、と思って出てみたレースは、\r\n最初……すごく苦しいものに感じられました。",
-            "enText": "I entered the race thinking 'As long as I get \nto run'. At first… it was very stressful",
+            "enText": "As long as I was running, I was happy, so I<n>agreed to the race... But...\nit was really<n>tough at first.",
             "nextBlock": 46,
+            "origClipLength": 281,
+            "voiceIdx": 36,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 161,
+                    "pathId": 7971132492718795626
+                },
+                {
+                    "origLen": 242,
+                    "pathId": -7177803576903025984
+                }
+            ],
             "pathId": 4611204712818988508,
             "blockIdx": 45
         },
@@ -519,8 +1013,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "たくさんの子たちに囲まれてしまったので……\r\n騒がしくって、窮屈で。",
-            "enText": "Being surrounded by so many… it was noisy, and uncomfortable.",
+            "enText": "I was surrounded by other children... It was<n>noisy, and I felt trapped.",
             "nextBlock": 47,
+            "origClipLength": 223,
+            "voiceIdx": 37,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 231,
+                    "pathId": 8845718907482274777
+                },
+                {
+                    "origLen": 246,
+                    "pathId": -8303277469211265581
+                }
+            ],
             "pathId": 6287564672385892971,
             "blockIdx": 46
         },
@@ -528,18 +1035,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "だから……誰もいない場所まで行こうと思って、先頭に出たんです。",
-            "enText": "That's why… I thought I should go to a place \nwhere nobody was, and went out in front.",
+            "enText": "So I ran... all the way to the front, where<n>there was nobody but me.",
             "nextBlock": 48,
+            "origClipLength": 199,
+            "voiceIdx": 38,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "“大逃げ”したのか",
-                    "enText": "You 'escaped'",
+                    "enText": "So you \"ranaway\"?",
                     "nextBlock": 48
                 },
                 {
                     "jpText": "“大逃げ”したんだね",
-                    "enText": "You 'escaped'",
+                    "enText": "So you \"ranaway\"?",
                     "nextBlock": 48
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 31,
+                    "pathId": -7292848062689139867
+                },
+                {
+                    "origLen": 210,
+                    "pathId": 7760236049228511222
                 }
             ],
             "pathId": -4576215068326025512,
@@ -549,8 +1069,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はい。誰もいない、絶対に追いつけない場所まで行こうって、\r\n思いっきり走ったら……目の前がぱっと開けて。",
-            "enText": "Yes. I thought 'I have to get to a place that nobody can follow'. \nWhen I ran my hardest, suddenly my eyes were opened.",
+            "enText": "Yes. I needed to go somewhere away from<n>the others, where they\nwouldn't be able to<n>catch up with me. So I ran as fast as I<n>could... and\nsuddenly everything opened<n>up in front of me.",
             "nextBlock": 49,
+            "origClipLength": 307,
+            "voiceIdx": 39,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -4632806961941443664
+                },
+                {
+                    "origLen": 272,
+                    "pathId": -5593661614985866675
+                }
+            ],
             "pathId": -4123482926009012540,
             "blockIdx": 48
         },
@@ -558,8 +1091,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "静かな……誰もいない景色に、辿り着けたんです。",
-            "enText": "It became quiet… I reached that scenery with nobody around.",
+            "enText": "It was... quiet. And I was alone. I reached a<n>place nobody else could.",
             "nextBlock": 50,
+            "origClipLength": 179,
+            "voiceIdx": 40,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 194,
+                    "pathId": -4085982368715635839
+                },
+                {
+                    "origLen": 190,
+                    "pathId": -3652565953362813327
+                }
+            ],
             "pathId": -697151804320838497,
             "blockIdx": 49
         },
@@ -567,8 +1113,21 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……私、先頭を走りたい。",
-            "enText": "…I want to run out in front.",
+            "enText": "I... need to run in the lead.",
             "nextBlock": 51,
+            "origClipLength": 122,
+            "voiceIdx": 41,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6480519274294518300
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 752219595287210194
+                }
+            ],
             "pathId": 8190181477605359431,
             "blockIdx": 50
         },
@@ -576,8 +1135,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "もう1度、何度でもあそこに辿り着きたい。\r\nこの気持ちだけは……譲れない……！",
-            "enText": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!",
+            "enText": "...I need to reach that place, even if it's<n>just once more! I don't care\nabout anything<n>else!",
             "nextBlock": 52,
+            "origClipLength": 229,
+            "voiceIdx": 42,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 167,
+                    "pathId": 8319276991994484726
+                }
+            ],
             "pathId": -5515857675235134416,
             "blockIdx": 51
         },
@@ -585,8 +1153,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "私、担当トレーナーさんにお話ししようと思います。\r\n『逃げない走り方はできません』って。",
-            "enText": "I think I want to speak with my trainer now. \nTo say \"I can't run without Escaping\".",
+            "enText": "I think I should tell my trainer exactly how<n>I feel. That I can't run if I'm\nnot in the<n>front.",
             "nextBlock": 53,
+            "origClipLength": 269,
+            "voiceIdx": 43,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 364023756183942123
+                }
+            ],
             "pathId": -9158376722230590933,
             "blockIdx": 52
         },
@@ -594,18 +1171,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あの、それで……その。",
-            "enText": "Um, and so… um.",
+            "enText": "Um... So maybe... Would you...",
             "nextBlock": 54,
+            "origClipLength": 133,
+            "voiceIdx": 44,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "Hm?",
                     "nextBlock": 54
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's wrong?",
+                    "enText": "Hm?",
                     "nextBlock": 54
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5003698631059887849
                 }
             ],
             "pathId": -233213318638178765,
@@ -615,8 +1201,17 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……あなたも一緒に、来て頂けないでしょうか。\r\n私、話をするのがあまり得意な方ではないので……。",
-            "enText": "…do you think you can come with me? Speaking \nisn't one of my strong points…",
+            "enText": "Would you mind accompanying me when I<n>tell her? I'm not very good\nat speaking,<n>you see...",
             "nextBlock": 55,
+            "origClipLength": 331,
+            "voiceIdx": 45,
+            "voiceSheetId": "041002003",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 9117494220937710671
+                }
+            ],
             "pathId": 7731324551342331376,
             "blockIdx": 54
         },
@@ -624,13 +1219,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "い、いけませんか……？",
-            "enText": "W-would that be okay…?",
+            "enText": "S-so, please come with me.",
             "nextBlock": 56,
+            "origClipLength": 71,
+            "voiceIdx": 46,
+            "voiceSheetId": "041002003",
             "choices": [
                 {
                     "jpText": "いいよ",
-                    "enText": "Yeah",
+                    "enText": "Sure.",
                     "nextBlock": 56
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4434978895379311357
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 2911106280380859391
                 }
             ],
             "pathId": -4254766258297812653,
@@ -640,12 +1248,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "学園に戻って、サイレンススズカのトレーナーと話をしよう……！",
-            "enText": "Let's return to school, and talk to Silence Suzuka's trainer…!",
+            "enText": "And so, we return to the academy to talk<n>to Silence Suzuka's trainer...",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 40,
+                    "pathId": 2969262683500112294
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6306286161656317469
+                }
+            ],
             "pathId": 887761690183195804,
             "blockIdx": 56
         }
-    ],
-    "humanTl": true,
-    "modified": 1673053213
+    ]
 }

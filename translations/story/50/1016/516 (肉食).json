@@ -1,33 +1,36 @@
 {
-    "version": 5,
-    "bundle": "6BTDMKVXRYIPBBCKGVLIMBS5L3BLYWD7",
+    "version": 6,
+    "bundle": "NTT7V33LZ6LMP77HPWEF7YJGFZ7GF6AU",
     "type": "story",
     "storyId": "501016516",
     "title": "肉食",
+    "enTitle": "Carnivore",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ラーメン屋に行った時のこと。たまたま、\r\nナリタブライアンとビワハヤヒデを見かけた。",
-            "enText": "I was at a ramen restaurant. I happened to \nsee Naritabu Ryan and Biwa Hayahide.",
+            "enText": "I spot Narita Brian and Biwa Hayahide at<n>a ramen\nshop.",
             "nextBlock": 2,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 110,
-                    "pathId": -5626285406698139579
-                },
                 {
                     "origLen": 110,
                     "pathId": -2060938643290748124
                 },
                 {
                     "origLen": 110,
-                    "pathId": 2655513000442655167
+                    "pathId": -5626285406698139579
                 },
                 {
                     "origLen": 110,
                     "pathId": 2935006778844937038
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 2655513000442655167
                 }
             ],
             "pathId": 4074625595331110429,
@@ -37,25 +40,27 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……ごちそうさま。\r\n美味かった。",
-            "enText": "Thanks for the…… feast. It was delicious.",
+            "enText": "Ahhh, that hit the spot.",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": 46,
+            "voiceSheetId": "051016001",
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3571205625544849049
+                },
                 {
                     "origLen": 61,
                     "pathId": -6211510842169658637
                 },
                 {
                     "origLen": 78,
-                    "pathId": -3571205625544849049
+                    "pathId": -8514302995162089282
                 },
                 {
                     "origLen": 78,
                     "pathId": -1565174941884600083
-                },
-                {
-                    "origLen": 78,
-                    "pathId": -8514302995162089282
                 }
             ],
             "pathId": -1146601898172439294,
@@ -65,25 +70,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "うん、ごちそうさまでした。",
-            "enText": "Yes, thank you for the food.",
+            "enText": "Yeah, it was delicious!",
             "nextBlock": 4,
             "origClipLength": 61,
+            "voiceIdx": 46,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8028936754925447569
+                },
                 {
                     "origLen": 89,
                     "pathId": 6403871817596934428
                 },
                 {
                     "origLen": 72,
-                    "pathId": -8028936754925447569
+                    "pathId": -365272919673471696
                 },
                 {
                     "origLen": 35,
                     "pathId": 3318821129761453854
-                },
-                {
-                    "origLen": 72,
-                    "pathId": -365272919673471696
                 }
             ],
             "pathId": -3484180005722950773,
@@ -93,13 +100,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……じゃあ、私はこれで。",
-            "enText": "…… Well, I'll take it then.",
+            "enText": "...Well, I'm going to call it here.",
             "nextBlock": 5,
             "origClipLength": 60,
+            "voiceIdx": 44,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 118,
                     "pathId": -133467774513204188
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -2290440186568648327
                 },
                 {
                     "origLen": 89,
@@ -107,15 +120,11 @@
                 },
                 {
                     "origLen": 71,
-                    "pathId": -2290440186568648327
+                    "pathId": 1131088547842358645
                 },
                 {
                     "origLen": 60,
                     "pathId": 8886664377258791709
-                },
-                {
-                    "origLen": 71,
-                    "pathId": 1131088547842358645
                 }
             ],
             "pathId": -3425449479915661438,
@@ -125,13 +134,15 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "もう行くのか？\r\n食事後は少し休んだ方が……。",
-            "enText": "Are you going already? You should get some \nrest after dinner. ……",
+            "enText": "You're going already? Don't you want to<n>let your\nfood settle first?",
             "nextBlock": 6,
             "origClipLength": 75,
+            "voiceIdx": 30,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "一緒に昼ご飯？",
-                    "enText": "Lunch together?",
+                    "enText": "Having lunch together?",
                     "nextBlock": 6
                 }
             ],
@@ -142,19 +153,19 @@
                 },
                 {
                     "origLen": 86,
+                    "pathId": 1625586787221629234
+                },
+                {
+                    "origLen": 86,
                     "pathId": 603679626378553864
                 },
                 {
                     "origLen": 86,
-                    "pathId": 1625586787221629234
+                    "pathId": -3748310955691087323
                 },
                 {
                     "origLen": 131,
                     "pathId": -8865735687653040783
-                },
-                {
-                    "origLen": 86,
-                    "pathId": -3748310955691087323
                 }
             ],
             "pathId": 2441690453122043413,
@@ -164,13 +175,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……アンタか。\r\nたまたま一緒になっただけだ。",
-            "enText": "…… Anta, huh? We just happened to be together.",
+            "enText": "...Oh, it's you. No, we just happened to<n>both be\nhere.",
             "nextBlock": 7,
             "origClipLength": 75,
+            "voiceIdx": 37,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 2065503049689925605
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 5602716500099653930
                 },
                 {
                     "origLen": 71,
@@ -178,15 +195,11 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": 5602716500099653930
+                    "pathId": -2616257624774019048
                 },
                 {
                     "origLen": 86,
                     "pathId": 7626367344856051435
-                },
-                {
-                    "origLen": 86,
-                    "pathId": -2616257624774019048
                 }
             ],
             "pathId": 7678631912553433204,
@@ -194,19 +207,21 @@
         },
         {
             "jpName": "ラーメン屋の店主",
-            "enName": "Ramen Stallkeeper",
+            "enName": "Ramen Shop Owner",
             "jpText": "おっ、いらっしゃい！\r\n注文が決まったら言ってください！",
-            "enText": "Whoa, welcome! Let me know when you decide \nwhat you want to order!",
+            "enText": "Welcome! Let me know when you're<n>ready to\norder!",
             "nextBlock": 8,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 92,
-                    "pathId": 3176798603284788093
+                    "pathId": 4733706182340473431
                 },
                 {
                     "origLen": 92,
-                    "pathId": 4733706182340473431
+                    "pathId": 3176798603284788093
                 },
                 {
                     "origLen": 82,
@@ -214,11 +229,11 @@
                 },
                 {
                     "origLen": 92,
-                    "pathId": -8738683523945082611
+                    "pathId": -5398905061832602582
                 },
                 {
                     "origLen": 92,
-                    "pathId": -5398905061832602582
+                    "pathId": -8738683523945082611
                 }
             ],
             "pathId": 6840096591496081100,
@@ -226,26 +241,28 @@
         },
         {
             "jpName": "ラーメン屋の店主",
-            "enName": "Ramen Stallkeeper",
+            "enName": "Ramen Shop Owner",
             "jpText": "今なら『こだわりチャーシュー\r\nマシマシ』でご提供してますんで！",
-            "enText": "Now, we are offering \"Kochi Chashu Masimashi\"!",
+            "enText": "We've got a special on offer! The Roast<n>Pork\nMountain!",
             "nextBlock": 9,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "チャーシューマシマシ……",
-                    "enText": "Chashu Mashimashi ……",
+                    "enText": "Roast Pork Mountain...",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": -9166996625243574368
+                    "pathId": -4770624650787751628
                 },
                 {
                     "origLen": 97,
-                    "pathId": -4770624650787751628
+                    "pathId": -9166996625243574368
                 },
                 {
                     "origLen": 97,
@@ -253,11 +270,11 @@
                 },
                 {
                     "origLen": 97,
-                    "pathId": -6926284528783685333
+                    "pathId": -4708061001991009406
                 },
                 {
                     "origLen": 97,
-                    "pathId": -4708061001991009406
+                    "pathId": -6926284528783685333
                 }
             ],
             "pathId": -5658294905554125588,
@@ -267,17 +284,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "あれは美味いぞ。\r\n噛んでも噛んでも肉汁という感じだった。",
-            "enText": "That was delicious. It was like \ngravy, chew after chew.",
+            "enText": "It's delicious. Every single bite was so<n>juicy, it was\nalmost like meat broth.",
             "nextBlock": 10,
             "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 79,
-                    "pathId": -3830616064289405242
-                },
                 {
                     "origLen": 93,
                     "pathId": -2326906222919985946
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -3830616064289405242
                 },
                 {
                     "origLen": 20,
@@ -285,11 +304,11 @@
                 },
                 {
                     "origLen": 93,
-                    "pathId": -7282601225781511092
+                    "pathId": -6477988499281877585
                 },
                 {
                     "origLen": 93,
-                    "pathId": -6477988499281877585
+                    "pathId": -7282601225781511092
                 }
             ],
             "pathId": -5024603681109037615,
@@ -299,25 +318,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "少し肉に偏りすぎではないか……？\r\n載っていた野菜も、私に移していただろう。",
-            "enText": "Aren't you a little too meat biased \n……? The vegetables listed would \nhave been transferred to me.",
+            "enText": "Aren't you a bit too focused on meat?<n>You even\nput all your veggies in my<n>bowl.",
             "nextBlock": 11,
             "origClipLength": 94,
+            "voiceIdx": 34,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3456923560168269005
+                },
                 {
                     "origLen": 105,
                     "pathId": 7538146224696940964
                 },
                 {
                     "origLen": 105,
-                    "pathId": -3456923560168269005
+                    "pathId": -1834815783886172926
                 },
                 {
                     "origLen": 102,
                     "pathId": -2012464872731928961
-                },
-                {
-                    "origLen": 105,
-                    "pathId": -1834815783886172926
                 }
             ],
             "pathId": -8768397566230363848,
@@ -327,13 +348,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……気のせいだろ。",
-            "enText": "You must be imagining ……",
+            "enText": "...Did not.",
             "nextBlock": 12,
             "origClipLength": 56,
+            "voiceIdx": 50,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 82,
                     "pathId": -5715534993343072792
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8603300484879297098
                 },
                 {
                     "origLen": 27,
@@ -341,15 +368,11 @@
                 },
                 {
                     "origLen": 67,
-                    "pathId": 8603300484879297098
+                    "pathId": -43677344336073015
                 },
                 {
                     "origLen": 67,
                     "pathId": -1856603287703385793
-                },
-                {
-                    "origLen": 67,
-                    "pathId": -43677344336073015
                 }
             ],
             "pathId": -5044645908757970399,
@@ -359,9 +382,11 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "気のせいなものか、見ていたぞ。\r\nもう少し野菜もだな……！",
-            "enText": "I don't know if it's just my imagination, but \nI've been watching you. Maybe some more \nveggies too. ……!",
+            "enText": "You did too! I saw you! You need to eat<n>some\nvegetables too!",
             "nextBlock": 13,
             "origClipLength": 82,
+            "voiceIdx": 15,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 20,
@@ -369,19 +394,19 @@
                 },
                 {
                     "origLen": 93,
+                    "pathId": 7069196381129066138
+                },
+                {
+                    "origLen": 93,
                     "pathId": 4204205106145163440
                 },
                 {
                     "origLen": 93,
-                    "pathId": 7069196381129066138
+                    "pathId": 73112197598530883
                 },
                 {
                     "origLen": 126,
                     "pathId": 8789982651761020519
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 73112197598530883
                 }
             ],
             "pathId": 8866725338195202719,
@@ -389,27 +414,29 @@
         },
         {
             "jpName": "ラーメン屋の店主",
-            "enName": "Ramen Stallkeeper",
+            "enName": "Ramen Shop Owner",
             "jpText": "あっはは！　でも気に入ってもらえたなら\r\n嬉しいですよ！",
-            "enText": "Ha-ha-ha! But I'm glad you liked it!",
+            "enText": "Ahaha! As long as you enjoyed it, I'm<n>happy!",
             "nextBlock": 14,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4674553088558528628
+                },
                 {
                     "origLen": 50,
                     "pathId": 4326114362331683921
                 },
                 {
                     "origLen": 92,
-                    "pathId": 4674553088558528628
+                    "pathId": -9127726093357123351
                 },
                 {
                     "origLen": 119,
                     "pathId": -7311989429037874218
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -9127726093357123351
                 }
             ],
             "pathId": -7711487669659583194,
@@ -417,27 +444,29 @@
         },
         {
             "jpName": "ラーメン屋の店主",
-            "enName": "Ramen Stallkeeper",
+            "enName": "Ramen Shop Owner",
             "jpText": "そんなに気に入ってくれたなら\r\n追加でチャーシューのサービス、どうっすか？",
-            "enText": "If you like it so much, how about \nsome extra chashu pork?",
+            "enText": "If you liked it that much, how about<n>some extra\npork? On the house.",
             "nextBlock": 15,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 104,
-                    "pathId": -2323650223813752457
-                },
                 {
                     "origLen": 104,
                     "pathId": -5398828405412762650
                 },
                 {
                     "origLen": 104,
-                    "pathId": -24423545945443527
+                    "pathId": -2323650223813752457
                 },
                 {
                     "origLen": 104,
                     "pathId": -523171924807505704
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -24423545945443527
                 }
             ],
             "pathId": 2927136109626603276,
@@ -447,37 +476,39 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "いいのか？",
-            "enText": "Are you sure?",
+            "enText": "Really?",
             "nextBlock": 16,
             "origClipLength": 51,
+            "voiceIdx": 26,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "食べすぎだよ",
-                    "enText": "You eat too much.",
+                    "enText": "Don't you think you've had enough for now?",
                     "nextBlock": 16
                 },
                 {
                     "jpText": "お言葉に甘えたら？",
-                    "enText": "Why don't you take my word for it?",
+                    "enText": "That's a hard offer to pass up, isn't it?",
                     "nextBlock": 22
                 }
             ],
             "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 2465084112900073808
+                },
                 {
                     "origLen": 58,
                     "pathId": 7604514514758721129
                 },
                 {
                     "origLen": 62,
-                    "pathId": 2465084112900073808
+                    "pathId": 8563636289878214737
                 },
                 {
                     "origLen": 87,
                     "pathId": -5214250200579525897
-                },
-                {
-                    "origLen": 62,
-                    "pathId": 8563636289878214737
                 }
             ],
             "pathId": 4014159076516691185,
@@ -487,17 +518,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……そうだな。\r\n食いすぎると動きが鈍くなる。",
-            "enText": "…… Yes, that's right. Too \nmuch food slows them down.",
+            "enText": "...I suppose you're right. Eating too much<n>just will\njust slow me down.",
             "nextBlock": 17,
             "origClipLength": 75,
+            "voiceIdx": 38,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": 7233071393965275568
-                },
                 {
                     "origLen": 86,
                     "pathId": 1705079658953748103
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 7233071393965275568
                 },
                 {
                     "origLen": 125,
@@ -505,11 +538,11 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": 7076000085460988685
+                    "pathId": -2150126445888275270
                 },
                 {
                     "origLen": 86,
-                    "pathId": -2150126445888275270
+                    "pathId": 7076000085460988685
                 }
             ],
             "pathId": 8639949634527791074,
@@ -519,36 +552,38 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "うん、賢明な判断だと思う。\r\n君も、いい助言だ。",
-            "enText": "Yeah, I think it's a wise decision. You, too, \nare a good advisor.",
+            "enText": "Indeed. I think that's a wise decision.<n>You give\ngood advice, Trainer.",
             "nextBlock": 18,
             "origClipLength": 76,
+            "voiceIdx": 80,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "ありがとうございます……？",
-                    "enText": "Thank you. ……?",
+                    "enText": "Thanks, I think...",
                     "nextBlock": 18
                 }
             ],
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": -1683879149633271338
+                    "pathId": 4831498986770787349
                 },
                 {
                     "origLen": 87,
-                    "pathId": 4831498986770787349
+                    "pathId": -1683879149633271338
                 },
                 {
                     "origLen": 30,
                     "pathId": -4047553818590575499
                 },
                 {
-                    "origLen": 120,
-                    "pathId": -96607672864046981
-                },
-                {
                     "origLen": 87,
                     "pathId": 1095806476146690869
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -96607672864046981
                 }
             ],
             "pathId": -1761942406390989972,
@@ -558,25 +593,27 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "チッ、姉貴はいちいち\r\nお節介というか、姉貴面しすぎだ。",
-            "enText": "My sister is too meddlesome, or rather, too \nmuch of a big sister.",
+            "enText": "Tch. What a meaningless remark. You're<n>trying\ntoo hard to play the part of big<n>sister.",
             "nextBlock": 19,
             "origClipLength": 81,
+            "voiceIdx": 60,
+            "voiceSheetId": "051016001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -7470489833439896101
+                },
                 {
                     "origLen": 79,
                     "pathId": -1402354949255244127
                 },
                 {
                     "origLen": 92,
-                    "pathId": -7470489833439896101
+                    "pathId": 2912471358640496791
                 },
                 {
                     "origLen": 92,
                     "pathId": -8077586687187836246
-                },
-                {
-                    "origLen": 92,
-                    "pathId": 2912471358640496791
                 }
             ],
             "pathId": 7261648441374725914,
@@ -586,25 +623,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "そうか？\r\nだが姉なのは事実だろう――",
-            "enText": "Is that so? But it's true \nthat she's your sister―",
+            "enText": "Well, I <i>am</i> your big sister...",
             "nextBlock": 20,
             "origClipLength": 69,
+            "voiceIdx": 30,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 3201426852396059053
+                },
                 {
                     "origLen": 68,
                     "pathId": 7637033638719627668
                 },
                 {
                     "origLen": 80,
-                    "pathId": 3201426852396059053
+                    "pathId": -2934101465000429383
                 },
                 {
                     "origLen": 101,
                     "pathId": 6058405811764034142
-                },
-                {
-                    "origLen": 80,
-                    "pathId": -2934101465000429383
                 }
             ],
             "pathId": -2701706944177917148,
@@ -614,25 +653,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "おい、ブライアン！\r\n走って帰るんじゃないぞ！　ゆっくりだ！",
-            "enText": "Hey, Brian! Don't run home! Slow down!",
+            "enText": "Hey, Brian! We're not racing back! Slow<n>down!",
             "nextBlock": 21,
             "origClipLength": 84,
+            "voiceIdx": 101,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": -7541302461860244376
-                },
                 {
                     "origLen": 102,
                     "pathId": 8808529510804608343
                 },
                 {
-                    "origLen": 92,
-                    "pathId": 3001601384852040613
+                    "origLen": 102,
+                    "pathId": -7541302461860244376
                 },
                 {
                     "origLen": 95,
                     "pathId": 3831026853872848470
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 3001601384852040613
                 }
             ],
             "pathId": 2802505188142878806,
@@ -642,17 +683,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "姉妹のやり取りを微笑ましく見守りつつ、\r\nチャーシューマシマシ麺を頼んだのであった。",
-            "enText": "Smiling at the exchange between \nthe two sisters, I ordered the \nchashu mashimashi noodle soup.",
+            "enText": "As I watch the amusing exchange<n>between the\nsisters, I order myself the<n>Roast Pork Mountain.",
             "nextBlock": -1,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -8883673695522572307
+                    "pathId": 5523246655721789962
                 },
                 {
                     "origLen": 102,
-                    "pathId": 5523246655721789962
+                    "pathId": -8883673695522572307
                 }
             ],
             "pathId": -6052060863297900357,
@@ -662,17 +705,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……そうだな。\r\n食い尽くすまでだ！",
-            "enText": "…… Yeah, that's right. Until we eat it all up!",
+            "enText": "...That's what I'm talking about. Gotta<n>finish every\nlast bite!",
             "nextBlock": 23,
             "origClipLength": 68,
+            "voiceIdx": 5,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -629567030557937316
-                },
                 {
                     "origLen": 79,
                     "pathId": -3067148292196941143
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -629567030557937316
                 },
                 {
                     "origLen": 75,
@@ -680,11 +725,11 @@
                 },
                 {
                     "origLen": 79,
-                    "pathId": -4070169546885950009
+                    "pathId": 269994954574905580
                 },
                 {
                     "origLen": 79,
-                    "pathId": 269994954574905580
+                    "pathId": -4070169546885950009
                 }
             ],
             "pathId": 6276401949463268339,
@@ -694,29 +739,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "君たち、そんな無茶を……！\r\nというか、チャーシューのみでいいのか！？",
-            "enText": "You guys, such recklessness \nat ……! I mean, only chashu!",
+            "enText": "That's absurd! You're just going to eat<n>the pork\nplain?!",
             "nextBlock": 24,
             "origClipLength": 90,
+            "voiceIdx": 27,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 101,
-                    "pathId": 4971282703859059908
+                    "pathId": 3264655290482829404
                 },
                 {
                     "origLen": 101,
-                    "pathId": 3264655290482829404
+                    "pathId": 4971282703859059908
                 },
                 {
                     "origLen": 20,
                     "pathId": -406759638444665931
                 },
                 {
-                    "origLen": 137,
-                    "pathId": 552100923368584327
-                },
-                {
                     "origLen": 101,
                     "pathId": -4134794584207613043
+                },
+                {
+                    "origLen": 137,
+                    "pathId": 552100923368584327
                 }
             ],
             "pathId": 8145363514005919207,
@@ -726,13 +773,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "いける。\r\nオヤジ、チャーシューを追加でくれ。",
-            "enText": "I can do it. Dad, I'll have \nsome more chashu pork.",
+            "enText": "Why not? Hey, I'll take you up on that<n>extra pork!",
             "nextBlock": 25,
             "origClipLength": 75,
+            "voiceIdx": 80,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 144,
                     "pathId": -2034825250195969241
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4840083400913490038
                 },
                 {
                     "origLen": 58,
@@ -740,15 +793,11 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": -4840083400913490038
+                    "pathId": -9115301186861333951
                 },
                 {
                     "origLen": 86,
                     "pathId": 6409131339193638274
-                },
-                {
-                    "origLen": 86,
-                    "pathId": -9115301186861333951
                 }
             ],
             "pathId": 8562428959342056571,
@@ -758,9 +807,11 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……まったく。",
-            "enText": "…… at all.",
+            "enText": "...Geez.",
             "nextBlock": 26,
             "origClipLength": 54,
+            "voiceIdx": 21,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 144,
@@ -768,19 +819,19 @@
                 },
                 {
                     "origLen": 65,
+                    "pathId": -3456363993600505559
+                },
+                {
+                    "origLen": 65,
                     "pathId": -8122321814565235950
                 },
                 {
                     "origLen": 65,
-                    "pathId": -3456363993600505559
+                    "pathId": -7782556707830783087
                 },
                 {
                     "origLen": 47,
                     "pathId": -2412103053811690690
-                },
-                {
-                    "origLen": 65,
-                    "pathId": -7782556707830783087
                 }
             ],
             "pathId": 6327874636445374838,
@@ -790,17 +841,15 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………ふう。\r\n想像以上の大物だった。",
-            "enText": "……… wind. It was bigger than I imagined.",
+            "enText": "...Phew. That was more than I expected.",
             "nextBlock": 27,
             "origClipLength": 71,
+            "voiceIdx": 59,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 12,
                     "pathId": -5411608213888809899
-                },
-                {
-                    "origLen": 99,
-                    "pathId": -5563729270436241067
                 },
                 {
                     "origLen": 111,
@@ -808,11 +857,15 @@
                 },
                 {
                     "origLen": 99,
-                    "pathId": 5713562450645940871
+                    "pathId": -5563729270436241067
                 },
                 {
                     "origLen": 112,
                     "pathId": -7549324118709966598
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 5713562450645940871
                 }
             ],
             "pathId": -1346767685724294802,
@@ -822,29 +875,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "あの店主、お前の食べっぷりに感動して\r\n次々おかわりを持ってきたな……。",
-            "enText": "That owner was so impressed with \nhow you ate that she brought you \none refill after another. ……",
+            "enText": "The owner was so impressed with you<n>that he kept\nbringing more...",
             "nextBlock": 28,
             "origClipLength": 91,
+            "voiceIdx": 14,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 2933411593701753182
-                },
                 {
                     "origLen": 102,
                     "pathId": 1606245338166205237
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2933411593701753182
                 },
                 {
                     "origLen": 119,
                     "pathId": 7046917677100373070
                 },
                 {
-                    "origLen": 126,
-                    "pathId": 4995330723201908042
-                },
-                {
                     "origLen": 102,
                     "pathId": -2656197457140804266
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 4995330723201908042
                 }
             ],
             "pathId": 1546034156818569245,
@@ -854,29 +909,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "大丈夫か、ブライアン？\r\n明らかに適切な食事量を超えているが……。",
-            "enText": "Are you okay, Brian? You've obviously \nexceeded the appropriate amount of food, but \nyou can find out more at ……",
+            "enText": "Are you going to be okay? You've<n>clearly\nexceeded the appropriate<n>amount of food for the\nday...",
             "nextBlock": 29,
             "origClipLength": 88,
+            "voiceIdx": 157,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 7819709953291811913
+                    "pathId": 2233149304956453120
                 },
                 {
                     "origLen": 99,
-                    "pathId": 2233149304956453120
+                    "pathId": 7819709953291811913
                 },
                 {
                     "origLen": 20,
                     "pathId": -6130024776871685971
                 },
                 {
-                    "origLen": 83,
-                    "pathId": -3449461271073879836
-                },
-                {
                     "origLen": 99,
                     "pathId": 5430041392066950107
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -3449461271073879836
                 }
             ],
             "pathId": -6416132773993603501,
@@ -886,25 +943,27 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "問題ない……どうせすぐ、\r\n走って消費する……からな……。",
-            "enText": "No problem…… because…… soon, anyway, you'll \nbe running and consuming ……",
+            "enText": "It's not a problem... In any case... I'll burn<n>it off\nrunning in no time...",
             "nextBlock": 30,
             "origClipLength": 82,
+            "voiceIdx": 82,
+            "voiceSheetId": "051016001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -4511860026298754808
+                },
                 {
                     "origLen": 68,
                     "pathId": 2699528194247556665
                 },
                 {
                     "origLen": 93,
-                    "pathId": -4511860026298754808
+                    "pathId": -6151755097542522877
                 },
                 {
                     "origLen": 93,
                     "pathId": -4482283209417795795
-                },
-                {
-                    "origLen": 93,
-                    "pathId": -6151755097542522877
                 }
             ],
             "pathId": 2082018321977344502,
@@ -914,30 +973,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "チャーシューを満喫したが、食べ過ぎで\r\nやや苦しげなナリタブライアンであった……。",
-            "enText": "She enjoyed the chashu, but was somewhat \ndistressed after eating too much. ……",
+            "enText": "While Narita Brian certainly seems to<n>have had\nher fill of roast pork, she may<n>have overdone it...",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 109,
-                    "pathId": 7185727193199210527
-                },
                 {
                     "origLen": 109,
                     "pathId": -4076092020049323257
                 },
                 {
                     "origLen": 109,
-                    "pathId": 6322062322804540245
+                    "pathId": 7185727193199210527
                 },
                 {
                     "origLen": 109,
                     "pathId": -4345803468986423993
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6322062322804540245
                 }
             ],
             "pathId": -7071795016213772981,
             "blockIdx": 30
         }
-    ],
-    "modified": 1657555056
+    ]
 }

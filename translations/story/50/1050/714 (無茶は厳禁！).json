@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "YN7RUBJZQIMQP3BGPG5PXMXEF5LLL24H",
+    "version": 6,
+    "bundle": "V3UIQTOIOAXJMJFB6FPUUTNFVHHFUMJQ",
     "type": "story",
     "storyId": "501050714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタタイシンがケガをしたので\r\n保健室に連れてきた。",
-            "enText": "Narita Taishin was injured, so I \nbrought her to the infirmary.",
+            "enText": "Narita Taishin has suffered an injury, so<n>I've\nbrought her to the infirmary.",
             "nextBlock": 2,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "タイシン、大丈夫か！？",
-                    "enText": "Taishin, are you okay!",
+                    "enText": "Are you okay, Taishin?!",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "タイシン、大丈夫！？",
-                    "enText": "Taishin, you're okay!",
+                    "enText": "Are you okay, Taishin?!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -4584472371747511314
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2398370313014778532
                 }
             ],
             "pathId": -109504735322641535,
@@ -30,8 +44,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……そんなに叫ばなくても聞こえてるから。",
-            "enText": "… You don't have to yell \nso much, we can hear you.",
+            "enText": "I can hear just fine without you yelling in<n>my ear.",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6788832995063726911
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 9099000828408432542
+                }
+            ],
             "pathId": -3180256734250849663,
             "blockIdx": 2
         },
@@ -39,13 +66,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "こんなケガ、大したことない！\r\n痛みも引いてきたし、全然余裕だから。",
-            "enText": "This injury is no big deal! The pain has \nsubsided, and I'm totally comfortable.",
+            "enText": "This is nothing! It doesn't even hurt<n>anymore. I'm\ngood.",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "voiceIdx": 19,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "タイシン",
-                    "enText": "Taishin",
+                    "enText": "Taishin.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 3043720466650039539
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -8422329269789281663
                 }
             ],
             "pathId": -8791147625364046030,
@@ -55,13 +95,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "トレーニングだって、\r\n問題なくできるし――",
-            "enText": "And I can train just fine.",
+            "enText": "There's nothing wrong so I can jump<n>right back\ninto trainin—",
             "nextBlock": 5,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "タイシン！",
                     "enText": "Taishin!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2229205110247801481
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8237038194319734327
                 }
             ],
             "pathId": -8272320757659253303,
@@ -71,28 +124,41 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……な、何！？",
-            "enText": "… Hey, what!",
+            "enText": "What?!",
             "nextBlock": 6,
+            "origClipLength": 54,
+            "voiceIdx": 110,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "問題ありそうだから保健室に来たんだ",
-                    "enText": "I came to the infirmary because \nI think there's a problem.",
+                    "enText": "We're here <i>precisely</i> because something\nappears to be wrong.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "問題ありそうだから保健室に来たんだよ",
-                    "enText": "I came to the infirmary because \nyou seem to have a problem.",
+                    "enText": "We're here <i>precisely</i> because something\nappears to be wrong.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "君の熱意に応えるよ！",
-                    "enText": "Your enthusiasm will be rewarded!",
+                    "enText": "I'll support you all the way!",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "貴方の熱意に応えるよ！",
-                    "enText": "I'll respond to your enthusiasm!",
+                    "enText": "I'll support you all the way!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 6002998906466017164
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -8610065713853586803
                 }
             ],
             "pathId": -2680508049940743102,
@@ -102,28 +168,41 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……な、何！？",
-            "enText": "… Hey, what!",
+            "enText": "What?!",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "voiceIdx": 110,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "問題ありそうだから保健室に来たんだ",
-                    "enText": "I came to the infirmary because \nI think there's a problem.",
+                    "enText": "We're here <i>precisely</i> because something\nappears to be wrong.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "問題ありそうだから保健室に来たんだよ",
-                    "enText": "I came to the infirmary because \nyou seem to have a problem.",
+                    "enText": "We're here <i>precisely</i> because something\nappears to be wrong.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "君の熱意に応えるよ！",
-                    "enText": "Your enthusiasm will be rewarded!",
+                    "enText": "I'll support you all the way!",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "貴方の熱意に応えるよ！",
-                    "enText": "I'll respond to your enthusiasm!",
+                    "enText": "I'll support you all the way!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -5525070523519026754
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -6361389901660052364
                 }
             ],
             "pathId": 1804467641791589253,
@@ -133,8 +212,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "くっ……。",
-            "enText": "Damn…",
+            "enText": "Tch...",
             "nextBlock": 8,
+            "origClipLength": 51,
+            "voiceIdx": 108,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -5724587509142460641
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 6787243501399740447
+                }
+            ],
             "pathId": -2529667786174156764,
             "blockIdx": 7
         },
@@ -142,8 +234,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "でも、休んでる暇なんてない！\r\nアンタだってわかるでしょ！？",
-            "enText": "But there's no time to rest! You \nknow what I'm talking about!",
+            "enText": "We don't have the time to be resting!<n>You of all\npeople should know that!",
             "nextBlock": 9,
+            "origClipLength": 84,
+            "voiceIdx": 16,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 6425182478151947291
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 1674200169019270073
+                }
+            ],
             "pathId": -4540170740204447141,
             "blockIdx": 8
         },
@@ -151,18 +256,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "こんなんで遅れを取ってちゃ、\r\nアタシはずっと弱っちいままだ……！",
-            "enText": "If I keep falling behind like this, I'll \nalways be weak…!",
+            "enText": "If I keep getting held back like this, I'll<n>be stuck\nas a weakling forever!",
             "nextBlock": 10,
+            "origClipLength": 88,
+            "voiceIdx": 18,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "休まないとまともに走れないぞ",
-                    "enText": "You need to rest or you won't run properly.",
+                    "enText": "You need to rest or else you'll never recover.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "休まないとまともに走れないよ",
-                    "enText": "You need to rest or you won't \nbe able to run properly.",
+                    "enText": "You need to rest or else you'll never recover.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2839776885069686800
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7164159610153467413
                 }
             ],
             "pathId": -3963814266757031302,
@@ -172,8 +290,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "～～～～～っ！！",
-            "enText": "～～～～～!",
+            "enText": "...!",
             "nextBlock": 11,
+            "origClipLength": 55,
+            "voiceIdx": 4,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -5558573248512677943
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 4932057300305483488
+                }
+            ],
             "pathId": -8908535171160137026,
             "blockIdx": 10
         },
@@ -181,18 +312,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "うるさい、うるさい、うるさい！\r\n偉そうに正論ばっか言って……！！",
-            "enText": "Shut up, shut up, shut up! You're so \nright on the money…!!!!",
+            "enText": "Shut up, shut up, SHUT UP! Knock it off<n>with your\nstupid reasoning!",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "voiceIdx": 61,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "でも嘘や気休めなんて望んでないだろ？",
-                    "enText": "But you don't want any lies \nor comfort, do you?",
+                    "enText": "Would you rather I lie and only say what you\nwant to hear?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "でも嘘や気休めなんて望んでないでしょ？",
-                    "enText": "But you don't want any lies \nor comfort, do you?",
+                    "enText": "Would you rather I lie and only say what you\nwant to hear?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4090240703640275842
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 5149522010830234563
                 }
             ],
             "pathId": -12696995074033982,
@@ -202,8 +346,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "当たり前……！\r\nそんなこと言ったら許さないから！",
-            "enText": "Of course…! I won't forgive \nyou for saying that!",
+            "enText": "Hell no! I'm not some dummy who wants<n>that\nnonsense!",
             "nextBlock": 13,
+            "origClipLength": 77,
+            "voiceIdx": 73,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -3346230293698460959
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3986501106479316586
+                }
+            ],
             "pathId": 8283145393134366700,
             "blockIdx": 12
         },
@@ -211,8 +368,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……くそっ！\r\n絶対、早く治してやる……！",
-            "enText": "… Damn! Absolutely, I'll \nfix you up fast…!",
+            "enText": "Damn it! This injury'd better heal at light<n>\nspeed—or else!",
             "nextBlock": 14,
+            "origClipLength": 72,
+            "voiceIdx": 71,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -7341911218005741187
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -2280477852700128380
+                }
+            ],
             "pathId": 8196550579578642238,
             "blockIdx": 13
         },
@@ -220,8 +390,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、ほとんど不貞寝ではあったが\r\nナリタタイシンは\n休養を取ってくれたのだった。",
-            "enText": "After that, Narita Taishin took a rest, albeit \nmostly in an unfaithful sleep.",
+            "enText": "Narita Taishin agrees to go to bed,<n>albeit rather\nreluctantly.",
             "nextBlock": -1,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -4215698709098299682
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1561801087546605025
+                }
+            ],
             "pathId": 2505818142252707295,
             "blockIdx": 14
         },
@@ -229,8 +412,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ケガをしてもなお、\r\n立ち上がろうとする姿に胸を打たれた。\n全力で応援すると伝えると――",
-            "enText": "I was struck by her determination to get back \non her feet despite her injuries. I told her \nI would give her my full support.",
+            "enText": "I'm struck by the way she tries to get<n>back on her\nfeet despite her injury. I<n>reassure her that I'll\nsupport her with all<n>of my being.",
             "nextBlock": 16,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -6783481877102334001
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 3760092565168389265
+                }
+            ],
             "pathId": -6903366867734757593,
             "blockIdx": 15
         },
@@ -238,8 +434,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……あ、そ。",
-            "enText": "… Oh, yeah.",
+            "enText": "Uh... okay.",
             "nextBlock": 17,
+            "origClipLength": 81,
+            "voiceIdx": 28,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -591217769144542377
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -3928298963603707927
+                }
+            ],
             "pathId": 3532605208167954737,
             "blockIdx": 16
         },
@@ -247,8 +456,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "わかったならいいけど……。\r\nやっぱアンタ、暑苦しい。",
-            "enText": "I hope you understand… I knew it, \nAnta, you're hot and bothered.",
+            "enText": "That's good to hear, but sheesh... You're<n>so\nirritating.",
             "nextBlock": 18,
+            "origClipLength": 80,
+            "voiceIdx": 29,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 156318215897023372
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -4531807646796650514
+                }
+            ],
             "pathId": 7853391997867829397,
             "blockIdx": 17
         },
@@ -256,13 +478,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "はぁ、はぁ……！",
-            "enText": "Ha, ha…!",
+            "enText": "<i>Pant... pant...</i>",
             "nextBlock": 19,
+            "origClipLength": 97,
+            "voiceIdx": 58,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "いけいけタイシーン！！",
-                    "enText": "Ike Ike Ike Taisheen!",
+                    "enText": "You've got this, Taishiiin!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -9205523729229920241
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -2232289842844145272
                 }
             ],
             "pathId": 6861145560625559231,
@@ -272,8 +507,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ああもう、うるさい！\r\n気が散るからやめろって――",
-            "enText": "Oh, God, shut up! Stop distracting me―",
+            "enText": "Ugh, be quiet! You're making me lose<n>focu—",
             "nextBlock": 20,
+            "origClipLength": 77,
+            "voiceIdx": 36,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 8688460151769267010
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -7057597746423156318
+                }
+            ],
             "pathId": -8520157496808701774,
             "blockIdx": 19
         },
@@ -281,8 +529,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いったぁ……っ！？",
-            "enText": "What happened to…?",
+            "enText": "OUCH!",
             "nextBlock": 21,
+            "origClipLength": 56,
+            "voiceIdx": 109,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -255846549823626352
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -2329564713852802056
+                }
+            ],
             "pathId": -2232557209201030989,
             "blockIdx": 20
         },
@@ -290,8 +551,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "結局、ナリタタイシンは\r\nトレーニング中にケガを悪化させてしまい、\n休むことを余儀なくされるのだった。",
-            "enText": "In the end, Narita Taishin aggravated her \ninjury during training and was forced to \ntake a leave of absence.",
+            "enText": "As a result, Narita Taishin ends up<n>worsening her\ninjury during training and<n>is forced to rest.",
             "nextBlock": -1,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7207264148440069274,
             "blockIdx": 21
         },
@@ -299,13 +563,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "まだまだ……っ！！",
-            "enText": "Still…!",
+            "enText": "I'm just getting started!",
             "nextBlock": 23,
+            "origClipLength": 56,
+            "voiceIdx": 125,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "よーし！もっと声出してこー！！",
-                    "enText": "All right! Let's hear it!",
+                    "enText": "I can't hear you! Louder!",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 49,
+                    "pathId": -1420505848479252092
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -1340521186104422897
                 }
             ],
             "pathId": -4422578053739918495,
@@ -315,8 +592,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ったく、\r\nチケットじゃあるまいし……！",
-            "enText": "Damn, that's not a ticket…!",
+            "enText": "Tch! I'm not Ticket, you know!",
             "nextBlock": 24,
+            "origClipLength": 71,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 3242540989855313637
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 7211667143066504580
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 8428696253384686224
+                }
+            ],
             "pathId": -5818543104001113438,
             "blockIdx": 23
         },
@@ -324,8 +618,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（けど、声を出せば痛みも減るし、\r\n気合い入るのは確かだ……癪だけど――）",
-            "enText": "(But I'm sure it hurts less if I speak up and \nit gets me in the mood…)",
+            "enText": "(Then again, shouting does make it hurt<n>less, and\nI feel more fired up... This is<n>really dumb, but...)",
             "nextBlock": 25,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -6457445574384911577
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 503400205420460974
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 3353472138434520353
+                }
+            ],
             "pathId": 490043214242939297,
             "blockIdx": 24
         },
@@ -333,8 +644,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "うおおおおおッ！！",
-            "enText": "Woohoo!!!",
+            "enText": "Raaaaah!",
             "nextBlock": 26,
+            "origClipLength": 56,
+            "voiceIdx": 126,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -910284805879247227
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -8854135970982895252
+                }
+            ],
             "pathId": 4660951428495712855,
             "blockIdx": 25
         },
@@ -342,8 +666,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "見事に意地を見せたナリタタイシンは\r\nその日のトレーニングをやりきったのだった。",
-            "enText": "Showing great determination, Narita Taishin \ncompleted the day's training.",
+            "enText": "Narita Taishin shows off what she's got<n>and blasts\nthrough her training for the<n>day.",
             "nextBlock": -1,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3294277723930325615,
             "blockIdx": 26
         }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "7D5BKGN2QYCTCNR7OGCECWPHGZNR5HCI",
+    "version": 6,
+    "bundle": "6QFTN4UE7KF3NV5DK35GZORF6H73CKOB",
     "type": "story",
     "storyId": "501004307",
     "title": "日本ダービーの後に・魅力を伝える舞台",
+    "enTitle": "After the Japanese Derby: A Chance to\\nShow Off",
     "text": [
         {
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "トレーナー君、お迎えありがとー！",
-            "enText": "Trainer, thanks for having me!",
+            "enText": "Thanks for coming to see me, Trainer!",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": 13,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "しっかり楽しめたか？",
@@ -19,8 +23,18 @@
                 },
                 {
                     "jpText": "しっかり楽しめた？",
-                    "enText": "Did you have a good time? ",
+                    "enText": "Did you have a good time?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4656457351631989244
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6869875006231822527
                 }
             ],
             "pathId": -701515162840341670,
@@ -30,8 +44,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "トレーナーちゃん、お迎えありがとー！",
-            "enText": "Thanks for picking me up, trainer!",
+            "enText": "Thanks for coming to see me, Trainer!",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "voiceIdx": 13,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "しっかり楽しめたか？",
@@ -40,8 +57,18 @@
                 },
                 {
                     "jpText": "しっかり楽しめた？",
-                    "enText": "Did you have a good time? ",
+                    "enText": "Did you have a good time?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 6003912459102807158
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3269952239302748612
                 }
             ],
             "pathId": 8877532844592567035,
@@ -51,8 +78,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ええ！　だってダービーだもの、\n楽しくないわけないわ！",
-            "enText": "Yeah! I mean, it's a derby.\nHow could it not be fun?",
+            "enText": "Well, <i>duh!</i> Hehe! It's the Derby—how<n>could I <i>not</i>\nhave fun?",
             "nextBlock": 4,
+            "origClipLength": 81,
+            "voiceIdx": 1,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 3549114381764897197
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -5273689333752754622
+                }
+            ],
             "pathId": 2631631120669966911,
             "blockIdx": 3
         },
@@ -60,8 +100,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "大きな歓声をかき分けて走る最後の直線……！\n一生に一度と言わず、何度でも走りたい気分！",
-            "enText": "The final straight that you run through\nthe loud cheers: …! Feels like I want to\nrun it more than once in my lifetime!",
+            "enText": "Flying down the final stretch through all<n>those\ncheers from the crowd... I wish I<n>could do it again\nand again and again!",
             "nextBlock": 5,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 6486999602476200899
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -9162275392182053674
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 7552758558790756793
+                }
+            ],
             "pathId": -966279619360495830,
             "blockIdx": 4
         },
@@ -69,8 +126,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "こんなにも充実して走れたんだし、みんな\r\nにも伝わったんじゃないかしらあたしの魅力♪",
-            "enText": "I had such a great time running, and I\nthink everyone got the idea of my charm.",
+            "enText": "It was such a satisfying run. I think<n>everyone could\nfeel it! ♪",
             "nextBlock": 6,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": 7949516307983908146
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -6148231251112504971
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -148530740934072966
+                }
+            ],
             "pathId": -7242049776610647126,
             "blockIdx": 5
         },
@@ -78,12 +152,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "さあ、これでクラシック三冠の2戦目が\n終わったけど、次はとーぜん『菊花賞』よね？",
-            "enText": "Now that the second race of the Triple\nCrown is over, the next race is of course\nthe Kikka-sho, right?",
+            "enText": "Now that the second race of the Classic<n>Triple\nCrown is over, the Kikuka Sho<n>should be next on\nthe docket, right?",
             "nextBlock": 7,
+            "origClipLength": 98,
+            "voiceIdx": 53,
+            "voiceSheetId": "051004001",
             "coloredText": [
                 {
                     "jpText": "菊花賞",
-                    "enText": "Chrysanthemum Awards"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 2730104339143898400
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 3002563216039799083
                 }
             ],
             "pathId": 176197629379758104,
@@ -93,8 +180,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "たしかにクラシック三冠の3戦目――\n『菊花賞』を目指すのも間違いではない。",
-            "enText": "It is true that it is not wrong to\naim for Kikka-sho, the third race\nof the Classic Triple Crown.",
+            "enText": "It makes a lot of sense to go for the third<n>race of\nthe crown. The Kikuka Sho isn't a<n>bad idea.",
             "nextBlock": 8,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7480450730921160732
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2735262501923877814
+                }
+            ],
             "pathId": -2267125735764199327,
             "blockIdx": 7
         },
@@ -102,18 +202,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "だが、マルゼンスキーの走りを見せるのに\n最高の舞台が年末にある……！",
-            "enText": "But the best stage to show\noff Maruzensky's run is at\nthe end of the year: …!",
+            "enText": "However, the place where Maruzensky's<n>\nperformance will truly shine will be at<n>the end of\nthe year...",
             "nextBlock": 9,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "目標は『有馬記念』だ！",
-                    "enText": "My goal is to get to Arima Kinen!",
+                    "enText": "Our goal is the Arima Kinen!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "目標は『有馬記念』だよ！",
-                    "enText": "My goal is to get to Arima Kinen! ",
+                    "enText": "Our goal is the Arima Kinen!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -366695514282299528
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -3090667366561948668
                 }
             ],
             "pathId": -2505320993313636731,
@@ -123,13 +236,26 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "え……っ！？　ほ、本気！？",
-            "enText": "What …? Are you serious?",
+            "enText": "What? A-are you serious?",
             "nextBlock": 10,
+            "origClipLength": 61,
+            "voiceIdx": 26,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -8482527970193723243
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -5919567292880968672
                 }
             ],
             "pathId": -5544067112015374885,
@@ -139,8 +265,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……ふふっ、やっぱり君って面白い。",
-            "enText": "… Hmmm, I knew you were funny.",
+            "enText": "...Heehee. You're something else,<n>Trainer.",
             "nextBlock": 11,
+            "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 2799822086692203676
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -139331995453090271
+                }
+            ],
             "pathId": 7912327645837820340,
             "blockIdx": 10
         },
@@ -148,8 +287,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……ふふっ、やっぱりあなたって面白い。",
-            "enText": "… Hmmm, I knew you were funny. ",
+            "enText": "...Heehee. You're something else,<n>Trainer.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "voiceIdx": 0,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 539067202317660104
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -5167966216574241733
+                }
+            ],
             "pathId": -6650094449522938448,
             "blockIdx": 11
         },
@@ -157,12 +309,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "シニア級も交えた、注目度抜群の大舞台で\nあたしの走りを見せつけるってワケね。",
-            "enText": "I'm going to show off my running skills on\na big stage with a lot of attention,\nincluding the senior class.",
+            "enText": "You're saying that, with all the seniors<n>there, it'd\nbe the perfect race to show<n>off my speed, right?",
             "nextBlock": 13,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "シニア級",
-                    "enText": "Senior class"
+                    "enText": ""
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -5505659597753581675
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -4976763653033971515
                 }
             ],
             "pathId": -2453722437989615246,
@@ -172,8 +337,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "オッケー、最高に楽しそうだわ！\n挑戦しましょう、『有馬記念』に！",
-            "enText": "Okay, that sounds like a lot of fun! Let's\ngive it a shot, \"Arima Kinen\"!",
+            "enText": "Well, count me in! It sounds like a blast!<n>Let's\nshoot for the big one!",
             "nextBlock": 14,
+            "origClipLength": 88,
+            "voiceIdx": 48,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7317703152361431783
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 5071015957806589596
+                }
+            ],
             "pathId": 6325290121128652265,
             "blockIdx": 13
         },
@@ -181,44 +359,69 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "次なる目標を『有馬記念』に定め、\n『日本ダービー』の幕は閉じたのだった。",
-            "enText": "The curtain came down on the \"Japan\nDerby\" with the next goal being\nthe \"Arima Kinen\".",
+            "enText": "With our sights now set on the Arima<n>Kinen, the\ncurtain closes on the<n>Japanese Derby.",
             "nextBlock": 15,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 32,
+                    "pathId": 9047273512751610787
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 5542450084409090694
+                }
+            ],
             "pathId": -5300434538750248363,
             "blockIdx": 14
         },
         {
             "jpName": "同期のウマ娘",
-            "enName": "Contemporary Horsegirl",
+            "enName": "Umamusume Classmate",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 16,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 873581061623383715,
             "blockIdx": 15
         },
         {
             "jpName": "中堅トレーナー",
-            "enName": "Average Trainer",
+            "enName": "Skilled Trainer",
             "jpText": "最高のレースだったな。",
-            "enText": "That was the best race I've ever seen.",
+            "enText": "That was a great race.",
             "nextBlock": 17,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4582389794221187797,
             "blockIdx": 16
         },
         {
             "jpName": "同期のウマ娘",
-            "enName": "Contemporary Horsegirl",
+            "enName": "Umamusume Classmate",
             "jpText": "はい、思わず走りたくなるくらい……。",
-            "enText": "Yes, I'm so tempted to run …",
+            "enText": "Yes, it makes me want to keep running...",
             "nextBlock": 18,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2253162417788668136,
             "blockIdx": 17
         },
         {
             "jpName": "同期のウマ娘",
-            "enName": "Contemporary Horsegirl",
+            "enName": "Umamusume Classmate",
             "jpText": "……マルゼンスキーさん。",
-            "enText": "… Mr. Maruzensky.",
+            "enText": "...Maruzensky.",
             "nextBlock": -1,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4078046040087745681,
             "blockIdx": 18
         }

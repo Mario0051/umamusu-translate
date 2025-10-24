@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "YGPFPWZIJCCZF2XEXC2H2QCNLMLSYX6O",
+    "version": 6,
+    "bundle": "YKGCE3DJIONEH7O5YPIRDX733WRV27HV",
     "type": "story",
     "storyId": "501009728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ありがと。\nまさか本当に取れるとは思わなかったわ！",
-            "enText": "Thanks. I didn't think you \ncould really take it!",
+            "enText": "Thanks. I have to say, I didn't think<n>you'd really\ndo it!",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": 12,
+            "voiceSheetId": "051009001",
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": -563692695803323575
+                    "pathId": -8537089145687556152
                 },
                 {
                     "origLen": 89,
-                    "pathId": -8537089145687556152
+                    "pathId": -563692695803323575
                 }
             ],
             "pathId": -5333271111089148476,
@@ -29,17 +32,19 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ふふ、ゲームに真剣になっちゃって、\n負けず嫌いなんだから。",
-            "enText": "You're so serious about your \ngame, you hate to lose.",
+            "enText": "Hehe, you really did try hard. I guess<n>you don't\nlike to lose either.",
             "nextBlock": 3,
             "origClipLength": 82,
+            "voiceIdx": 74,
+            "voiceSheetId": "051009001",
             "animData": [
-                {
-                    "origLen": 99,
-                    "pathId": -790965048411258766
-                },
                 {
                     "origLen": 101,
                     "pathId": -3804474497728305193
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -790965048411258766
                 }
             ],
             "pathId": -1875839444703185569,
@@ -49,17 +54,19 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "ま、でも、せっかく取ってくれたし、\n一応大事にするわね。",
-            "enText": "Well, but since you took it for me, I'll take \ngood care of it.",
+            "enText": "Well, don't worry. I'll take good care of<n>it. Seeing\nas you went to all that trouble<n>and all.",
             "nextBlock": 4,
             "origClipLength": 81,
+            "voiceIdx": 3,
+            "voiceSheetId": "051009001",
             "animData": [
-                {
-                    "origLen": 117,
-                    "pathId": -5406463776988187842
-                },
                 {
                     "origLen": 93,
                     "pathId": -7380809679069330901
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -5406463776988187842
                 }
             ],
             "pathId": 6449336549360515527,
@@ -69,9 +76,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 62,
@@ -79,16 +88,15 @@
                 },
                 {
                     "origLen": 93,
-                    "pathId": 6239049499143558270
+                    "pathId": 2546626085688943300
                 },
                 {
                     "origLen": 93,
-                    "pathId": 2546626085688943300
+                    "pathId": 6239049499143558270
                 }
             ],
             "pathId": -9160225668670107306,
             "blockIdx": 4
         }
-    ],
-    "modified": 1662157285
+    ]
 }

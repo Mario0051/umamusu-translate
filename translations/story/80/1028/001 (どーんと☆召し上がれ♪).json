@@ -1,20 +1,24 @@
 {
-    "version": 4,
-    "bundle": "ZSOD5GDCCJERMRYCQ5DENAHQP4K7NFX7",
+    "version": 6,
+    "bundle": "R5NQ64MPNLNTNZZ5UAIG2ZM7N44VD3O3",
     "type": "story",
     "storyId": "801028001",
     "title": "どーんと☆召し上がれ♪",
+    "enTitle": "Eat Up ♪",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "大樹のウロの傍で、その3倍くらい大きい\r\n“何か”が置いてあるのを見つけた……。",
-            "enText": "I found \"something\" three times bigger than \nthat by the big tree uro…",
+            "enText": "When I walk past the hollowed-out<n>stump, I\nnotice two items next to it that<n>look about three\ntimes bigger than what<n>they should be.",
             "nextBlock": 2,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "これは……杵と、臼……！？",
-                    "enText": "This is a… pestle and mortar…!",
+                    "enText": "Is that a mortar and pestle?!",
                     "nextBlock": 2
                 }
             ],
@@ -25,13 +29,26 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "えへへ～♪　今から餅つきするんだよー☆\r\n寮の後輩が食べたがってたから。",
-            "enText": "I'm going to make rice cakes now☆ because my \njunior in the dorm wanted to eat them.",
+            "enText": "Hehe! ♪ I'm about to make some mochi!<n>My\ndormmates have been asking for<n>some.",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "それにしても杵と臼が大きすぎる……！",
-                    "enText": "But the pestle and mortar \nare still too big…!",
+                    "enText": "But those things are huge!",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 3708096949477344766
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 185595772595231278
                 }
             ],
             "pathId": -7409241669668388419,
@@ -41,8 +58,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ビッグなのを使えばたくさん作れるでしょ～？\r\nみんなでお腹いっぱい食べられるよー☆",
-            "enText": "If you use a big one, you can make a lot, \nright? We can all eat our fill!",
+            "enText": "Well, I figured I could make a bigger<n>batch with\nbigger tools. I want everyone<n>to have their fill and\nthen some! ☆",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "voiceIdx": 63,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4762227805756593216
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3314351521959980430
+                }
+            ],
             "pathId": 3120595847549651997,
             "blockIdx": 3
         },
@@ -50,17 +80,47 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ボーノなお餅で、み～んなハッピーっ♪\r\n大きいことはいいことなんだよ～☆",
-            "enText": "Everyone's happy with Bono's \nrice cakes… Big is good…",
+            "enText": "I can make everyone happy with my<n>buono mochi!\nThe bigger the better as<n>they say!",
             "nextBlock": 5,
+            "origClipLength": 91,
+            "voiceIdx": 61,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -5475402887262821611
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -575204865482585756
+                }
+            ],
             "pathId": -4723712317613913111,
             "blockIdx": 4
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "アケボノちゃーん！\r\nもち米、蒸しあがったよ～。",
-            "enText": "Akebono-chan! The glutinous rice \nis ready to be steamed!",
+            "enText": "Akebono! The rice is done!",
             "nextBlock": 6,
+            "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 4993238284448326362
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -838692160254524070
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 8851754531283535733
+                }
+            ],
             "pathId": -2615423078713246856,
             "blockIdx": 5
         },
@@ -68,8 +128,25 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "よーしっ！　それじゃあ始めよっか～！",
-            "enText": "Alright! Let's get started!",
+            "enText": "Great! Time to get started, then!",
             "nextBlock": 7,
+            "origClipLength": 68,
+            "voiceIdx": 5,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6370292664612233199
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7479908784832316157
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4763138326507314258
+                }
+            ],
             "pathId": 2560716102554515250,
             "blockIdx": 6
         },
@@ -77,8 +154,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ヒシアケボノは巨大な杵を持ち、\r\n他のウマ娘と一緒に餅をつき始めた。",
-            "enText": "Hishiakebono took a huge pestle and started \nto pound the rice with the other girls.",
+            "enText": "Hishi Akebono takes the enormous<n>pestle and\nbegins to make mochi with<n>some other\nUmamusume.",
             "nextBlock": 8,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 24,
+                    "pathId": -4265222969044027450
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 1333610429156344478
+                }
+            ],
             "pathId": 4962192777632755279,
             "blockIdx": 7
         },
@@ -86,8 +176,11 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "え～～～～っい！",
-            "enText": "E～～～～!",
+            "enText": "Heeeaaave!",
             "nextBlock": 9,
+            "origClipLength": 55,
+            "voiceIdx": 124,
+            "voiceSheetId": "051028001",
             "pathId": -9017855606118048625,
             "blockIdx": 8
         },
@@ -95,8 +188,11 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "よーーいしょぉ～～～～～～っ！！",
-            "enText": "Yoo-hoo! ～～～～～～!",
+            "enText": "Hooooo!",
             "nextBlock": 10,
+            "origClipLength": 72,
+            "voiceIdx": 126,
+            "voiceSheetId": "051028001",
             "pathId": 884923481119415958,
             "blockIdx": 9
         },
@@ -104,23 +200,36 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "……はぁ～～っ！　ふぅ～～っ！\r\nやっぱり、大きいとちょっと重たいね～！",
-            "enText": "… ha~! Phew~! It's a bit \nheavy when it's big!",
+            "enText": "Pheeeeew! This thing's pretty heavy!",
             "nextBlock": 11,
+            "origClipLength": 100,
+            "voiceIdx": 58,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "少し休憩したら？",
-                    "enText": "Why don't you take a break?",
+                    "enText": "Why don't you take a quick break?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "ずいぶんと力を入れてついてるしな……",
-                    "enText": "You're putting a lot of effort into this…",
+                    "enText": "You must be putting a lot of strength into that.",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "ずいぶんと力を入れてついてるしね……",
-                    "enText": "You're putting a lot of effort into this…",
+                    "enText": "You must be putting a lot of strength into that.",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": 7972926163105846274
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -5880364150465495103
                 }
             ],
             "pathId": -676014498881505696,
@@ -130,23 +239,36 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "……はぁ～～っ！　ふぅ～～っ！\r\nやっぱり、大きいとちょっと重たいね～！",
-            "enText": "… ha~! Phew~! It's a bit \nheavy when it's big!",
+            "enText": "Pheeeeew! This thing's pretty heavy!",
             "nextBlock": 12,
+            "origClipLength": 100,
+            "voiceIdx": 58,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "少し休憩したら？",
-                    "enText": "Why don't you take a break?",
+                    "enText": "Why don't you take a quick break?",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "ずいぶんと力を入れてついてるしな……",
-                    "enText": "You're putting a lot of effort into this…",
+                    "enText": "You must be putting a lot of strength into that.",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "ずいぶんと力を入れてついてるしね……",
-                    "enText": "You're putting a lot of effort into this…",
+                    "enText": "You must be putting a lot of strength into that.",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 152,
+                    "pathId": -8343744381363182342
+                },
+                {
+                    "origLen": 198,
+                    "pathId": -4989093593102770713
                 }
             ],
             "pathId": -2270874723676324407,
@@ -156,8 +278,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "そうだね、休憩しよっか～。\r\n味見もしたいしねー♪　",
-            "enText": "Yes, let's take a break! I'd \nlike to have a taste…",
+            "enText": "Yeah, that's a good idea. I wanna have a<n>nibble\nof the mochi anyways. ♪　",
             "nextBlock": 13,
+            "origClipLength": 78,
+            "voiceIdx": 47,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -6594684225882019463
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -952954426811198722
+                }
+            ],
             "pathId": -2084882148292576721,
             "blockIdx": 12
         },
@@ -165,17 +300,43 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "あっ、そこのあなたたちも食べてって～？\r\nアツアツのつきたてだよ～☆",
-            "enText": "Oh, you guys there, please eat it too! It's \nhot and freshly cooked!",
+            "enText": "Oh, hey, you guys over there! Do you<n>want some\nmochi too? It's piping hot<n>and ready to eat! ☆",
             "nextBlock": 14,
+            "origClipLength": 89,
+            "voiceIdx": 53,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 982576469759838054
+                },
+                {
+                    "origLen": 182,
+                    "pathId": -864113088449400118
+                }
+            ],
             "pathId": -4668376100116959952,
             "blockIdx": 13
         },
         {
             "jpName": "ウマ娘B",
-            "enName": "Horsegirl B",
+            "enName": "Umamusume B",
             "jpText": "えっ！　餅つきしてる！？\r\nって、食べていいの……？",
-            "enText": "What! They're making mochi! Can I eat it…?",
+            "enText": "What? You made mochi?! Can I really<n>have some?",
             "nextBlock": 15,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8977730108612356878
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5157398864924035800
+                }
+            ],
             "pathId": -8458353653392984643,
             "blockIdx": 14
         },
@@ -183,8 +344,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "うんっ、食べて食べてっ！\r\n冷めないうちにどうぞ～♪",
-            "enText": "Yeah, eat up, eat up! Don't let it get cold!",
+            "enText": "Of course! Have as much as you'd like!<n>Get 'em\nwhile they're warm! ♪",
             "nextBlock": 16,
+            "origClipLength": 78,
+            "voiceIdx": 92,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -621422532966508812
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 369354756772282228
+                }
+            ],
             "pathId": -2474229592547164949,
             "blockIdx": 15
         },
@@ -192,18 +366,31 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "あなたはなにつける～？\r\n醤油も大根おろしもあるよー♪",
-            "enText": "What do you put on it? I've got \nsoy sauce and grated radish…",
+            "enText": "Anyway, back to you! What do you want<n>on your\nmochi? We've got soy sauce and<n>grated radish! ♪",
             "nextBlock": 17,
+            "origClipLength": 80,
+            "voiceIdx": 52,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "俺もいいの？",
-                    "enText": "Can I have one?",
+                    "enText": "Wait, I get some too?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "私もいいの？",
-                    "enText": "Can I come too?",
+                    "enText": "Wait, I get some too?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -1245468491272562684
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -7840987742240421183
                 }
             ],
             "pathId": -8687702914368201543,
@@ -213,8 +400,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "もっちろんだよー！　まだまだ\r\nいっぱいつくから、たくさん食べてね～♪",
-            "enText": "Of course! There's still plenty \nto go around, so eat up!",
+            "enText": "Absolutely! We're gonna make loads<n>more\nanyway, so don't hold back! ♪",
             "nextBlock": 18,
+            "origClipLength": 90,
+            "voiceIdx": 38,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 2286051898034508704
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -4218134023642132696
+                }
+            ],
             "pathId": -4585070835126238740,
             "blockIdx": 17
         },
@@ -222,8 +422,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『味見』というには多すぎたが、\r\nヒシアケボノがついた餅は美味しかった。\nみんなに笑顔の輪が広がったのだった。",
-            "enText": "It was too much for a 'taster', but the rice \ncakes made by Hishiakebono were delicious. \nIt brought a smile to everyone's face.",
+            "enText": "The \"sample\" I get is about the size of<n>my head,\nbut Hishi Akebono's mochi<n>really is delicious.\nEveryone smiles<n>brightly as we eat together.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 594285400257807230
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 2317330834795270557
+                }
+            ],
             "pathId": -9121737353751062401,
             "blockIdx": 18
         },
@@ -231,8 +444,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "えっと、力っていうか\r\n“体重”をかけてる……感じかな～？",
-            "enText": "It's not really a force, it's \nmore like a weight…?",
+            "enText": "Hmmm, it's not so much my strength but<n>my\nweight that I'm throwing into this...",
             "nextBlock": 20,
+            "origClipLength": 82,
+            "voiceIdx": 79,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 160557279004854921
+                },
+                {
+                    "origLen": 213,
+                    "pathId": 3513945621512715675
+                }
+            ],
             "pathId": -7113831963805801134,
             "blockIdx": 19
         },
@@ -240,8 +466,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "このつき方だと、すごく弾力が出て、\r\nおいしくできるんだよ～！",
-            "enText": "This way of cooking makes it \nvery elastic and tasty!",
+            "enText": "Using your weight to pound mochi<n>makes it more\nchewy and tasty!",
             "nextBlock": 21,
+            "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 6882420548714175905
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 838147716661119418
+                }
+            ],
             "pathId": 8097245166234010780,
             "blockIdx": 20
         },
@@ -249,18 +488,31 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "大きいあたしだからできる、\r\nとっておきのつき方なんだ～♪",
-            "enText": "I'm a big girl, so I can \ndo it in the best way!",
+            "enText": "I'm pretty big, so consider this technique<n>my\nspecialty!",
             "nextBlock": 22,
+            "origClipLength": 82,
+            "voiceIdx": 84,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "なるほど、いいやり方だな",
-                    "enText": "Well, that's a good way to do it.",
+                    "enText": "I see. What a good technique!",
                     "nextBlock": 22
                 },
                 {
                     "jpText": "なるほど、いいやり方だね",
-                    "enText": "Well, that's a good way to do it.",
+                    "enText": "I see. What a good technique!",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -929885268340704468
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3345781043467118133
                 }
             ],
             "pathId": 1419981305258044145,
@@ -270,8 +522,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "そうでしょ～？\r\nやっぱり大きいことはいいことだよね～☆",
-            "enText": "Isn't it? Big is good, right?",
+            "enText": "Right? Like I always say, the bigger the<n>better! ☆",
             "nextBlock": 23,
+            "origClipLength": 81,
+            "voiceIdx": 74,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 4832458718554668026
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -4373222549255690792
+                }
+            ],
             "pathId": -3766867753585948205,
             "blockIdx": 22
         },
@@ -279,8 +544,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ヒシアケボノこだわりのつき方でできた餅は、\r\n弾力があって格別に美味しかった！",
-            "enText": "The rice cakes were made in Hishiakebono's \nown special way, and were extraordinarily \ntasty and resilient!",
+            "enText": "The mochi Hishi Akebono makes with<n>her unique\ntechnique has an incredible<n>springiness and is\nextremely delicious!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 23,
+                    "pathId": 4793971386615372325
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -4317780286821890376
+                }
+            ],
             "pathId": 6216992092867918673,
             "blockIdx": 23
         }

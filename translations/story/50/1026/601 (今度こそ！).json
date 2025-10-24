@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "MKNP23JDWAZDJ2UTYTW5KKUHMYY3T5ZB",
+    "version": 6,
+    "bundle": "ZADKGOKGFJA4M2Z2DGHIFBHO6T6FXWZI",
     "type": "story",
     "storyId": "501026601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "――……。\r\n……レースのシミュレーション完了。",
-            "enText": "—… race simulation complete.",
+            "enText": "...Race simulation complete.",
             "nextBlock": 2,
             "origClipLength": 76,
+            "voiceIdx": 10,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "結果は？",
-                    "enText": "Result.",
+                    "enText": "How'd it go?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": 3877366397842124341
+                    "pathId": -8426637650921820808
                 },
                 {
                     "origLen": 87,
-                    "pathId": -8426637650921820808
+                    "pathId": 3877366397842124341
                 }
             ],
             "pathId": 979489276511400776,
@@ -36,17 +39,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "もちろん、勝利です。\r\nマスターが喜ぶ表情まで、想定成功しました。",
-            "enText": "Of course, it was a victory. I even \nsucceeded in assuming the Master's \ndelighted expression.",
+            "enText": "I won, of course. Everything went just as<n>I\nhypothesized, right down to your<n>joyous\nexpression.",
             "nextBlock": 3,
             "origClipLength": 88,
+            "voiceIdx": 11,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 95,
-                    "pathId": 3240227839528349526
-                },
                 {
                     "origLen": 99,
                     "pathId": 6331401536269281275
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 3240227839528349526
                 }
             ],
             "pathId": 6751558867255160701,
@@ -56,22 +61,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ステータス『発奮』を確認。\r\n……今度こそ、我々に勝利を！",
-            "enText": "Confirmed status 'fuming'… \nThis time, win us over!",
+            "enText": "I am experiencing \"exhilaration.\" Victory<n>is\nguaranteed this time!",
             "nextBlock": -1,
             "origClipLength": 82,
+            "voiceIdx": 71,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 2168239647008084186
-                },
                 {
                     "origLen": 93,
                     "pathId": -2404324535873668309
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 2168239647008084186
                 }
             ],
             "pathId": 3064032612032316479,
             "blockIdx": 3
         }
-    ],
-    "modified": 1657444305
+    ]
 }

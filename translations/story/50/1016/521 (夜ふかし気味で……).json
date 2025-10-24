@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "Y7REHJIQ2BEL5PM6DKIWRUI27QSRVBUV",
+    "version": 6,
+    "bundle": "EP25ADWTONV42ZEEN7EWV55NZ27XPCBK",
     "type": "story",
     "storyId": "501016521",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "くぁ……。",
-            "enText": "Kuh ……",
+            "enText": "<i>Yawn...</i>",
             "nextBlock": 2,
             "origClipLength": 73,
+            "voiceIdx": 105,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "眠そうだな。どうかしたか？",
-                    "enText": "You look sleepy. What's wrong?",
+                    "enText": "You look sleepy. You okay?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "眠そうだね。どうかした？",
-                    "enText": "You look sleepy. What's wrong?",
+                    "enText": "You look sleepy. You okay?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": 5732731185741085648
+                    "pathId": -5689225250797636854
                 },
                 {
                     "origLen": 84,
-                    "pathId": -5689225250797636854
+                    "pathId": 5732731185741085648
                 }
             ],
             "pathId": -1627527259276501510,
@@ -41,17 +44,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……別に。\r\nここ数日、蹄鉄の整備をしているだけだ。",
-            "enText": "…… separately. Just been working on hoof \nmaintenance for the past few days.",
+            "enText": "...I'm fine. I've just been working on cleat<n>\nmaintenance for the past few days.",
             "nextBlock": 3,
             "origClipLength": 78,
+            "voiceIdx": 50,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 3219528947956700670
-                },
                 {
                     "origLen": 89,
                     "pathId": 697898677121383980
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 3219528947956700670
                 }
             ],
             "pathId": 4185252040723187833,
@@ -61,17 +66,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "両足とも、よく擦り減るからな。\r\n疎かにしては、滾るレースもできん。",
-            "enText": "Both feet get worn down a lot. If you neglect \nthem, you can't have a great race.",
+            "enText": "Both of my cleats are badly worn down. I<n>can't\ngive my all in a race if I leave them<n>in poor\ncondition.",
             "nextBlock": 4,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": -4944613896780851895
-                },
                 {
                     "origLen": 100,
                     "pathId": -4397214167899715611
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -4944613896780851895
                 }
             ],
             "pathId": 7568041490708562906,
@@ -81,17 +88,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "この渇きを癒せないくらいなら……\r\n寝ない方が、よっぽどいい。",
-            "enText": "I would much rather…… not sleep than not be \nable to quench this thirst.",
+            "enText": "I'd rather not sleep at all than be unable<n>to\nscratch that itch.",
             "nextBlock": 5,
             "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 5742963134329148404
-                },
                 {
                     "origLen": 96,
                     "pathId": 3638413508268460710
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 5742963134329148404
                 }
             ],
             "pathId": 7518120165780652765,
@@ -101,22 +110,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "勝負にこだわるあまり、\r\n連日眠れていないようだ……。",
-            "enText": "She's so focused on winning that she hasn't \nslept every night. ……",
+            "enText": "It seems she's so obsessed with<n>competing that\nshe hasn't slept in days...",
             "nextBlock": -1,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": 2013056865832534669
+                    "pathId": -1190497178657789753
                 },
                 {
                     "origLen": 91,
-                    "pathId": -1190497178657789753
+                    "pathId": 2013056865832534669
                 }
             ],
             "pathId": -3635783231646336600,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555056
+    ]
 }

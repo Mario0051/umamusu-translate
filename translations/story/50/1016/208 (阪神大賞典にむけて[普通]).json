@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "EI6CIOMCZV4LLRQDDEZTJVOJJH3B5VG6",
+    "version": 6,
+    "bundle": "G5ZEGDUPHJSZD54H7KVC7COBIZKQ7JDC",
     "type": "story",
     "storyId": "501016208",
     "title": "阪神大賞典にむけて[普通]",
+    "enTitle": "Before the Hanshin Daishoten",
     "text": [
         {
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "『阪神大賞典』芝3000の長距離。",
-            "enText": "Hanshin Grand Prize\" is a long \ndistance race of 3000 turf.",
+            "enText": "The Hanshin Daishoten is a 3000-meter<n>\nlong-distance turf race.",
             "nextBlock": 2,
             "origClipLength": 67,
+            "voiceIdx": 79,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 78,
-                    "pathId": -8562530176210318738
+                    "pathId": -2812297392660950220
                 },
                 {
                     "origLen": 78,
-                    "pathId": -2812297392660950220
+                    "pathId": -8562530176210318738
                 }
             ],
             "pathId": -4420429073569977529,
@@ -29,18 +32,20 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "『菊花賞』を思い出す。\r\nあの時とは場所も状況も違うが。",
-            "enText": "It reminds me of the Kikka-sho (Chrysanthemum \nPrize). Although the place and situation are \ndifferent from that time.",
+            "enText": "The venue and environment are<n>different, but it's\nsimilar to the Kikuka<n>Sho.",
             "nextBlock": 3,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "それに君自身も成長している",
-                    "enText": "Plus, you're growing yourself.",
+                    "enText": "Besides that, you've grown a lot since then.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "それに貴方自身も成長している",
-                    "enText": "And you're growing, too.",
+                    "enText": "Besides that, you've grown a lot since then.",
                     "nextBlock": 3
                 }
             ],
@@ -50,12 +55,12 @@
                     "pathId": -5565476281804974766
                 },
                 {
-                    "origLen": 109,
-                    "pathId": 8417696289411516175
-                },
-                {
                     "origLen": 92,
                     "pathId": -6956616854705114455
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8417696289411516175
                 }
             ],
             "pathId": -2001060122713337767,
@@ -65,21 +70,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……フン。",
-            "enText": "…… Hun.",
+            "enText": "...Hmph.",
             "nextBlock": 4,
             "origClipLength": 51,
+            "voiceIdx": 3,
+            "voiceSheetId": "051016001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -2698892177757867269
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -5584826593966745006
-                },
-                {
                     "origLen": 62,
                     "pathId": 77155376276382754
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5584826593966745006
                 }
             ],
             "pathId": 1883196486889725030,
@@ -89,17 +96,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "まあ、ここで黒星をつけて、\r\n頭打ちとは言わせんさ。",
-            "enText": "Well, let's not let the black star stop us \nfrom hitting our stride here.",
+            "enText": "Well, even if I were to lose here, I<n>wouldn't say\nI've peaked.",
             "nextBlock": 5,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": -2428575283738817409
-                },
                 {
                     "origLen": 89,
                     "pathId": -3046491916907258383
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2428575283738817409
                 }
             ],
             "pathId": -7186005630712234500,
@@ -109,22 +118,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "見とけ、トレーナー。\r\n私が勝利に食らいつく様を。",
-            "enText": "Watch me, trainer. Watch \nme eat my way to victory.",
+            "enText": "Just you watch. I'll sink my teeth into<n>victory for\nsure!",
             "nextBlock": -1,
             "origClipLength": 77,
+            "voiceIdx": 62,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": -2431785915285063916
-                },
                 {
                     "origLen": 88,
                     "pathId": 2019028818429560002
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -2431785915285063916
                 }
             ],
             "pathId": 2368838947831273504,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555056
+    ]
 }

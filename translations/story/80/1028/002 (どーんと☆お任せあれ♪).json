@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "LSHBP3ZXQ56JIKYXCISTJVOQAO5IIFLM",
+    "version": 6,
+    "bundle": "5CR3QAHKHOSMLBRJQDT6WX6AMQOMW6PT",
     "type": "story",
     "storyId": "801028002",
     "title": "どーんと☆お任せあれ♪",
+    "enTitle": "Leave It to Me ♪",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "早朝、用事があって整備中の\r\nトレーニングコースに来ていた時……。",
-            "enText": "Earlier in the morning, I had come \nto the training course, which was \nundergoing maintenance…",
+            "enText": "Early one morning, I'm heading to the<n>training\ntrack for an errand and find that<n>it's currently\nunder maintenance.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8915404910949181655,
             "blockIdx": 1
         },
@@ -18,17 +22,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ガガガガガガガ――プスンッ……！）",
-            "enText": "(Gah gah gah gah gah gah—psssssssssssss …!)",
+            "enText": "<i>Clank, clank, clank, clank, clank! Hisssss!</i>",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3270135182236666098,
             "blockIdx": 2
         },
         {
             "jpName": "整備士A",
-            "enName": "Mechanic A",
+            "enName": "Groundskeeper A",
             "jpText": "うわっ！　故障か？\r\n整地車が急に動かなくなっちまった……！",
-            "enText": "Oh, no! What's wrong? My gravel truck \nsuddenly stopped working…!",
+            "enText": "Whoa! Did it break?! The leveler<n>stopped working\nall of a sudden!",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4013288938507176202,
             "blockIdx": 3
         },
@@ -36,18 +46,31 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "……あれっ、まだ整備中？\r\nもしかしてなにかあったのー？",
-            "enText": "… Oh, it's still under maintenance? \nIs there something wrong?",
+            "enText": "Huh? They're still working on the track?<n>I wonder\nif something happened.",
             "nextBlock": 5,
+            "origClipLength": 81,
+            "voiceIdx": 32,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "トラブルがあったみたいだ",
-                    "enText": "Looks like there was trouble.",
+                    "enText": "Looks like something went wrong.",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "トラブルがあったみたいだよ",
-                    "enText": "I think there's been trouble.",
+                    "enText": "Looks like something went wrong.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5592617063348423840
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6084965691831207873
                 }
             ],
             "pathId": -4529035452575574501,
@@ -55,10 +78,27 @@
         },
         {
             "jpName": "整備士A",
-            "enName": "Mechanic A",
+            "enName": "Groundskeeper A",
             "jpText": "いや～すみません！\r\n急に整地車が故障してしまって……\nすぐに修理しますんで！",
-            "enText": "Oh no, I'm sorry! My ground clearance \ntruck suddenly broke down… We'll \nget it fixed right away!",
+            "enText": "Sorry for the delay! Our leveler<n>malfunctioned,\nbut we're going to fix it<n>up!",
             "nextBlock": 6,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": 2906465134094048938
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4357322063580971983
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -4363663590084938847
+                }
+            ],
             "pathId": 3982474602431637894,
             "blockIdx": 5
         },
@@ -66,35 +106,91 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ううんー、平気だよ～♪\r\n全然待てるからー。",
-            "enText": "No, I'm fine… I can wait.",
+            "enText": "No worries! ♪ We can wait!",
             "nextBlock": 7,
+            "origClipLength": 73,
+            "voiceIdx": 74,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6186803906895990817
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 3656353356637130475
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1135465708554719552
+                }
+            ],
             "pathId": -631252516887618293,
             "blockIdx": 6
         },
         {
             "jpName": "整備士B",
-            "enName": "Mechanic B",
+            "enName": "Groundskeeper B",
             "jpText": "もう業者呼んだ方が早くないですか？",
-            "enText": "Wouldn't it be quicker to \ncall a contractor now?",
+            "enText": "Wouldn't it be faster to call a mechanic?",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6416892894362551642
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3959336414977056881
+                }
+            ],
             "pathId": -7593388218154834604,
             "blockIdx": 7
         },
         {
             "jpName": "整備士A",
-            "enName": "Mechanic A",
+            "enName": "Groundskeeper A",
             "jpText": "今、通勤ラッシュの時間だぞ？\r\nいつ来るかわからんだろ。",
-            "enText": "It's rush hour, remember? You \ndon't know when it's coming.",
+            "enText": "It's the morning rush hour right now.<n>There's no\ntelling when they can get<n>here.",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -4787362268041986602
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 392870079456496494
+                }
+            ],
             "pathId": 9216201623922796192,
             "blockIdx": 8
         },
         {
             "jpName": "整備士B",
-            "enName": "Mechanic B",
+            "enName": "Groundskeeper B",
             "jpText": "でも、俺たちですぐ直せるかどうか……！",
-            "enText": "But let's see if we can fix it quickly…!",
+            "enText": "But there's no guarantee we'll be able to<n>fix this\nthing on our own!",
             "nextBlock": 10,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -763622351031810568
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 8992604754321564098
+                }
+            ],
             "pathId": 3959335947988042346,
             "blockIdx": 9
         },
@@ -102,8 +198,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "大丈夫だよ～！\r\nまだ時間はあるからー☆",
-            "enText": "Don't worry! There's still time!",
+            "enText": "No need to rush! There's plenty of time<n>before\nschool starts! ☆",
             "nextBlock": 11,
+            "origClipLength": 71,
+            "voiceIdx": 9,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -7332266231192114299
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 695243780445584298
+                }
+            ],
             "pathId": 711827670345306258,
             "blockIdx": 10
         },
@@ -111,17 +220,43 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "落ち着いてひとつずつ片づけていこ～？",
-            "enText": "Why don't we take it easy \nand do it one by one?",
+            "enText": "Just take a deep breath and take things<n>one at a\ntime!",
             "nextBlock": 12,
+            "origClipLength": 68,
+            "voiceIdx": 5,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -7781873510677324974
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6448505443211684140
+                }
+            ],
             "pathId": 5253868009526308006,
             "blockIdx": 11
         },
         {
             "jpName": "整備士B",
-            "enName": "Mechanic B",
+            "enName": "Groundskeeper B",
             "jpText": "……そ、そうだな。\r\nまずは整地車をどかして、\nそれから整地の続きを……。",
-            "enText": "… Yes, that's right. First we have to get \nthe clearing truck out of the way, then we \ncan continue with the clearing…",
+            "enText": "You're right. We'll need to get the<n>leveler out of\nthe way first, then<n>continue smoothing out the\nground...",
             "nextBlock": 13,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 2966524261725130125
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -866087535571956431
+                }
+            ],
             "pathId": -2861030990452107164,
             "blockIdx": 12
         },
@@ -129,8 +264,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "あたしも手伝うよー！\r\nあの車をコースから出せばいいの～？",
-            "enText": "I'll help you! How do I get \nthat car off the track?",
+            "enText": "I'll help! You want this thing off the<n>track, right?",
             "nextBlock": 14,
+            "origClipLength": 82,
+            "voiceIdx": 156,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -6360434260692232533
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 9096546009421519800
+                }
+            ],
             "pathId": 5991104330594982218,
             "blockIdx": 13
         },
@@ -138,17 +286,51 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "それとも整地を\r\n手伝ったほうがいいかなー？",
-            "enText": "Or should I help clear the ground?",
+            "enText": "Or would it be better if I give you a<n>hand with the\nleveling?",
             "nextBlock": 15,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 8049456313799730103
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2822027830141321413
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4342373446134937641
+                }
+            ],
             "pathId": 3320565856426708203,
             "blockIdx": 14
         },
         {
             "jpName": "整備士A",
-            "enName": "Mechanic A",
+            "enName": "Groundskeeper A",
             "jpText": "えっ！　気持ちはありがたいが、\r\n生徒にそんなことをさせるのは……。",
-            "enText": "What! I appreciate the sentiment, but I \ndon't want my students to do that…",
+            "enText": "You don't have to do anything! We<n>appreciate\nthe thought, but we couldn't<n>possibly make a\nstudent do all that...",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5460641271327433784
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -5473248892126211179
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7151083618595728803
+                }
+            ],
             "pathId": 5164685669340658228,
             "blockIdx": 15
         },
@@ -156,18 +338,31 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ねえねえ、手伝っても大丈夫だよね？\r\nどっちがいいと思うー？",
-            "enText": "Hey, hey, hey, it's okay if I help, right? \nWhich do you think is better?",
+            "enText": "Hey, it's all right if I give 'em a hand,<n>right? What\ndo you think I should help<n>with?",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "voiceIdx": 53,
+            "voiceSheetId": "051028001",
             "choices": [
                 {
                     "jpText": "整地車を押して移動させられる？",
-                    "enText": "Can you push a ground clearance \nvehicle to move it?",
+                    "enText": "Can you move the leveler out of the way?",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "コースを走って整地をお願い！",
-                    "enText": "Run the course and clear the ground, please!",
+                    "enText": "Help level the track by running around it!",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -2526857110986453965
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -6158879750094170290
                 }
             ],
             "pathId": 6226467066281457616,
@@ -177,8 +372,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "りょうかーい☆\r\nよーっし！　すぐよけちゃうから～。",
-            "enText": "All right! I'll be out of \nyour way in no time!",
+            "enText": "On it, boss! Okay, time to puuuush!",
             "nextBlock": 18,
+            "origClipLength": 78,
+            "voiceIdx": 148,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 694,
+                    "pathId": -4016164390778471550
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2587918908215139159
+                }
+            ],
             "pathId": -269439416532295873,
             "blockIdx": 17
         },
@@ -186,8 +394,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ぃよ～いしょ～～～～～っ！！",
-            "enText": "Iyo~isho～～～～～!",
+            "enText": "Haaaaaah!",
             "nextBlock": 19,
+            "origClipLength": 63,
+            "voiceIdx": 124,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 587957952166644679
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 4211643086952099412
+                }
+            ],
             "pathId": -6747051003588908753,
             "blockIdx": 18
         },
@@ -195,8 +416,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "地面が荒れないよう、\r\n整地車の下に鉄板をかませた。\n彼女は力いっぱい整地車を押していく……！",
-            "enText": "A steel plate was placed underneath the \ncart to prevent the ground from being \ndisturbed. She pushed the wheelbarrow \nas hard as she could…!",
+            "enText": "We set a steel plate under the leveler so<n>it\ndoesn't mess up the ground. Then,<n>Hishi Akebono\npushes it with all her<n>might!",
             "nextBlock": 20,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1978452079098116809,
             "blockIdx": 19
         },
@@ -204,8 +428,11 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ぐぎぎぎっ……！　おも……！\r\nでも、あとっ、ひと息ぃぃ……っ！",
-            "enText": "Geez…! Oh…! But, oh, just a breath…!",
+            "enText": "Nnnngh! It's so heavy! Just... a little...<n>more!",
             "nextBlock": 21,
+            "origClipLength": 100,
+            "voiceIdx": 58,
+            "voiceSheetId": "051028001",
             "pathId": -1934591220106266991,
             "blockIdx": 20
         },
@@ -213,8 +440,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "ふぅ～っ！　なんとか運べたよ～！",
-            "enText": "Phew! I managed to carry it!",
+            "enText": "Phew! I did it!",
             "nextBlock": 22,
+            "origClipLength": 65,
+            "voiceIdx": 59,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -2424309856092791868
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 4512335687054036724
+                }
+            ],
             "pathId": -3606286319619887810,
             "blockIdx": 21
         },
@@ -222,8 +462,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ヒシアケボノが整地車をコース外へ運び、\r\n時間内に整備を終えることができたのだった。",
-            "enText": "She was able to complete the work \nin time, with Hishiakebono taking \nthe car off the track.",
+            "enText": "Hishi Akebono pushes the leveler off the<n>track,\nand the workers manage to finish<n>up maintenance\non schedule.",
             "nextBlock": -1,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -1386829796939850917
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 1791987862370701829
+                }
+            ],
             "pathId": 3418767469406451803,
             "blockIdx": 22
         },
@@ -231,8 +484,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "はーいっ！\r\nすぐ終わらせちゃうから任せて～☆",
-            "enText": "Yes! I'll get it done in no time!",
+            "enText": "Sounds good! I'll be done before you<n>know it! ☆",
             "nextBlock": 24,
+            "origClipLength": 75,
+            "voiceIdx": 47,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -8304104804500944700
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -5048239540582628227
+                }
+            ],
             "pathId": -1038351798858506293,
             "blockIdx": 23
         },
@@ -240,8 +506,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "とおおおおぉ～～～っ！！",
-            "enText": "Toh-oh-oh!",
+            "enText": "Raaaaah!",
             "nextBlock": 25,
+            "origClipLength": 60,
+            "voiceIdx": 125,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 12,
+                    "pathId": 4174067591094071390
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 5739328222798765494
+                }
+            ],
             "pathId": 1182984330343468064,
             "blockIdx": 24
         },
@@ -249,17 +528,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ヒシアケボノは、整地車から外した\r\n大きなハローを持ってダートを走った。",
-            "enText": "Hishiakebono rode on the dirt with a large \nharrow which she had removed from her ground \nclearance vehicle.",
+            "enText": "Hishi Akebono runs along the track<n>carrying the\nharrow the workers removed<n>from the leveler. Her\nlaps leaves the dirt<n>behind her nice and smooth.",
             "nextBlock": 26,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5729258374104717179,
             "blockIdx": 25
         },
         {
             "jpName": "整備士Ｂ",
-            "enName": "Mechanic B",
+            "enName": "Groundskeeper B",
             "jpText": "おおっ！　なんて速さだ……！\r\n整地車より速いんじゃないか……！？",
-            "enText": "Oh! How fast is that…! I think it's \nfaster than a gravel truck…!",
+            "enText": "Wow! She's so fast! I think she might be<n>faster\nthan the leveler itself!",
             "nextBlock": 27,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3558998257655257465,
             "blockIdx": 26
         },
@@ -267,8 +552,21 @@
             "jpName": "ヒシアケボノ",
             "enName": "Hishi Akebono",
             "jpText": "整備完了ー☆　よかったねー、\r\n他の子たちが来る前にちゃんと終わって♪",
-            "enText": "I'm glad you finished before \nthe other children arrived.",
+            "enText": "It's all smoothed out! ☆ What a relief!<n>I'm glad\neverything got done before any<n>other students\narrived! ♪",
             "nextBlock": 28,
+            "origClipLength": 90,
+            "voiceIdx": 6,
+            "voiceSheetId": "051028001",
+            "animData": [
+                {
+                    "origLen": 142,
+                    "pathId": -7575115536744381070
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -7111304577168349973
+                }
+            ],
             "pathId": -1795807233409539437,
             "blockIdx": 27
         },
@@ -276,8 +574,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ヒシアケボノが整地している間に、\r\n整地車も修理され車庫へ戻っていた。\nこうして無事に整備が完了したのだった。",
-            "enText": "While Hishiakebono was levelling the ground, \nthe levelling truck was being repaired and \nreturned to the garage. This was the end of \nthe maintenance work.",
+            "enText": "While Hishi Akebono was running, the<n>mechanics\nmanaged to fix the leveler<n>and return it to the\ngarage. Thus,<n>maintenance was safely completed.",
             "nextBlock": -1,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 127,
+                    "pathId": -3131155007905837270
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -1414015438411875243
+                }
+            ],
             "pathId": 430837788283644903,
             "blockIdx": 28
         }

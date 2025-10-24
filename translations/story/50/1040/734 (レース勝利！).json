@@ -1,21 +1,39 @@
 {
-    "version": 4,
-    "bundle": "WRCGNUDMTZTMCIZIH5XYHBRDDQFQRXBH",
+    "version": 6,
+    "bundle": "QA7IVMKEK4MC5HVCSESPJJRYJU2MUSIM",
     "type": "story",
     "storyId": "501040734",
     "title": "レース勝利！",
+    "enTitle": "Victory!",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "勝った……。",
-            "enText": "Winner…",
+            "enText": "I won...",
             "nextBlock": 2,
+            "origClipLength": 52,
+            "voiceIdx": 111,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "おめでとう！",
                     "enText": "Congratulations!",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2217725320455443395
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 6023579727122710393
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -9046886651361227702
                 }
             ],
             "pathId": 6531476874637445586,
@@ -25,28 +43,45 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……なんか、変な感じだけど。\r\n気持ちの収まりどころがないっていうか。",
-            "enText": "… something, but it's weird. I don't \nknow where to put my feelings.",
+            "enText": "...Something's off, though. Like, it just<n>doesn't\n<i>feel</i> right.",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "voiceIdx": 34,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "でも勝ったのは君だ",
-                    "enText": "But you won.",
+                    "enText": "Even so, this win is yours.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "でも勝ったのは貴方だよ",
-                    "enText": "But you won.",
+                    "enText": "Even so, this win is yours.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "あえて収める必要はない",
-                    "enText": "No need to dare to fit it in.",
+                    "enText": "Maybe it doesn't have to.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "あえて収める必要はないよ",
-                    "enText": "You don't have to dare to fit it in.",
+                    "enText": "Maybe it doesn't have to.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5172059375557339530
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -6377396897007906238
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3981428163180712691
                 }
             ],
             "pathId": -3778633719038521688,
@@ -56,28 +91,45 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……なんか、変な感じだけど。\r\n気持ちの収まりどころがないっていうか。",
-            "enText": "… something, but it's weird. I don't \nknow where to put my feelings.",
+            "enText": "...Something's off, though. Like, it just<n>doesn't\n<i>feel</i> right.",
             "nextBlock": 4,
+            "origClipLength": 90,
+            "voiceIdx": 34,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "でも勝ったのは君だ",
-                    "enText": "But you won.",
+                    "enText": "Even so, this win is yours.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "でも勝ったのは貴方だよ",
-                    "enText": "But you won.",
+                    "enText": "Even so, this win is yours.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "あえて収める必要はない",
-                    "enText": "No need to dare to fit it in.",
+                    "enText": "Maybe it doesn't have to.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "あえて収める必要はないよ",
-                    "enText": "You don't have to dare to fit it in.",
+                    "enText": "Maybe it doesn't have to.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 4948854605991267948
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -1726511563796419599
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3965140215763632373
                 }
             ],
             "pathId": 8850560894554324513,
@@ -87,8 +139,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "そう……だよね。",
-            "enText": "Yes… right?",
+            "enText": "...You're right.",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "voiceIdx": 80,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 1179790572451333943
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -2851651446469562409
+                }
+            ],
             "pathId": 1393164627955807146,
             "blockIdx": 4
         },
@@ -96,8 +161,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "自分の実力で、\r\nアタシが勝ったってこと。",
-            "enText": "I won on my own merits.",
+            "enText": "I won with my own skill.",
             "nextBlock": 6,
+            "origClipLength": 72,
+            "voiceIdx": 5,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7092198414655596872
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8571216893622528008
+                }
+            ],
             "pathId": -4420926530449057996,
             "blockIdx": 5
         },
@@ -105,8 +183,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "見たか！　って気持ち、もうないけど。\r\nちゃんと走れて、よかった……。",
-            "enText": "Did you see that! I don't have that \nfeeling anymore, though. I'm glad \nI got a proper run…",
+            "enText": "Before, I would've been all like \"Hah! In<n>your\nface!\" but I don't feel that anymore.<n>I <i>am</i> glad I\nwas able to run well though...",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": 2,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 3119341803042536896
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6022745839966285020
+                }
+            ],
             "pathId": 6461932713862992946,
             "blockIdx": 6
         },
@@ -114,8 +205,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 8,
+            "origClipLength": 48,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 5392508334469361394
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 4285244565428647856
+                }
+            ],
             "pathId": 6083138632591464489,
             "blockIdx": 7
         },
@@ -123,8 +227,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でもこのまま変な感じなのは、イヤ。",
-            "enText": "But I don't want to be weird like this.",
+            "enText": "But I hate this awkward feeling.",
             "nextBlock": 9,
+            "origClipLength": 67,
+            "voiceIdx": 88,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -5885146371966628998
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 2159561120961698883
+                }
+            ],
             "pathId": -3702456206204535634,
             "blockIdx": 8
         },
@@ -132,8 +249,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "一応、嬉しいってことで……\r\n収めとこう、かな。",
-            "enText": "In the meantime, I'll just say I'm \nhappy and put it under…",
+            "enText": "I guess I'll just say I'm \"happy\" and call it<n>a day.",
             "nextBlock": -1,
+            "origClipLength": 76,
+            "voiceIdx": 5,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 2906421771926749111
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -3547015145153100271
+                }
+            ],
             "pathId": 3547696764713292964,
             "blockIdx": 9
         }

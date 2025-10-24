@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "P2HBBAGDRI63CYHKWDUQFXFM4NEMMXFL",
+    "version": 6,
+    "bundle": "FMYASNN5PQA57R6S5VQZ2L5NMB26KSZJ",
     "type": "story",
     "storyId": "801025001",
     "title": "夜の独走",
+    "enTitle": "Solo Nighttime Run",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある夜、コースの見回りをしていると――",
-            "enText": "One night, as I was making \nmy rounds of the course…",
+            "enText": "One night, as I'm patrolling the tracks...",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -9031891648209617613,
             "blockIdx": 1
         },
@@ -18,8 +22,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 3,
+            "origClipLength": 48,
+            "voiceIdx": 15,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 230161435986078739
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4214883713260919911
+                }
+            ],
             "pathId": 277601311475684169,
             "blockIdx": 2
         },
@@ -27,17 +44,20 @@
             "jpName": "",
             "enName": "",
             "jpText": "――1人のウマ娘が、黙々と走っている。\r\nいつからいたのだろうか？\n思い出せない……。",
-            "enText": "—One horse girl is running silently. How \nlong has she been there? I can't remember…",
+            "enText": "I see an Umamusume running silently<n>alone. I can't\nseem to recall how long<n>she's been out here,\ndespite patrolling<n>the area for so long.",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……まだ走るつもりかー？",
-                    "enText": "… still going to run?",
+                    "enText": "You planning to keep running?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "……まだ走るつもりー？",
-                    "enText": "… still going to run?",
+                    "enText": "You planning to keep running?",
                     "nextBlock": 4
                 }
             ],
@@ -48,13 +68,26 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 5,
+            "origClipLength": 78,
+            "voiceIdx": 15,
+            "voiceSheetId": "051025001",
             "choices": [
                 {
                     "jpText": "おーーい！",
-                    "enText": "Oooooh!",
+                    "enText": "HELLOOOOO!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -241524566048960949
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -266659917034441132
                 }
             ],
             "pathId": -3595435518332624372,
@@ -64,8 +97,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "…………うん。\r\n………………またね。",
-            "enText": "… Yeah. See you …",
+            "enText": "Yes... Goodbye.",
             "nextBlock": 6,
+            "origClipLength": 57,
+            "voiceIdx": 59,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -5695676544820540237
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -9007253627509140988
+                }
+            ],
             "pathId": 8264625484230988410,
             "blockIdx": 5
         },
@@ -73,28 +119,41 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 7,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……いつもこんなに走りこんでいるのか？",
-                    "enText": "… Are you always this good at running?",
+                    "enText": "Do you always run so much?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "……いつもこんなに走りこんでいるの？",
-                    "enText": "… Do you always do so much running?",
+                    "enText": "Do you always run so much?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "……すごい集中力だな",
-                    "enText": "… That's a hell of a lot of concentration.",
+                    "enText": "You sure are focused.",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "……すごい集中力だね",
-                    "enText": "… That's a lot of concentration!",
+                    "enText": "You sure are focused.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -7181171227206729906
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 750025509293951404
                 }
             ],
             "pathId": 5568985601440459902,
@@ -104,28 +163,41 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 8,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……いつもこんなに走りこんでいるのか？",
-                    "enText": "… Are you always this good at running?",
+                    "enText": "Do you always run so much?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "……いつもこんなに走りこんでいるの？",
-                    "enText": "… Do you always do so much running?",
+                    "enText": "Do you always run so much?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "……すごい集中力だな",
-                    "enText": "… That's a hell of a lot of concentration.",
+                    "enText": "You sure are focused.",
                     "nextBlock": 13
                 },
                 {
                     "jpText": "……すごい集中力だね",
-                    "enText": "… That's a lot of concentration!",
+                    "enText": "You sure are focused.",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 175279065499749068
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6443439468195384836
                 }
             ],
             "pathId": 6705415229901699770,
@@ -135,18 +207,31 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……追いつきたい子がいます。\r\nだから、私も……走っています。",
-            "enText": "There are children who want to … catch up \nwith me. That's why I'm running… too.",
+            "enText": "There's someone I want to catch up to...<n>so I have\nto keep running too.",
             "nextBlock": 9,
+            "origClipLength": 65,
+            "voiceIdx": 0,
+            "voiceSheetId": "051025001",
             "choices": [
                 {
                     "jpText": "目標があるってことか？",
-                    "enText": "Does that mean you have a goal?",
+                    "enText": "So you're chasing a goal, huh?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "目標があるってことかな？",
-                    "enText": "Does that mean you have a goal?",
+                    "enText": "So you're chasing a goal, huh?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -3596917388344356267
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -3233345155511616334
                 }
             ],
             "pathId": 300741645391194353,
@@ -156,8 +241,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……走り続けていると、いつも夜になります。\r\nだから……いつもこれぐらい……走ってます。",
-            "enText": "If you keep… running, it will always \nbe at night. That's why I'm always \nrunning … this much…",
+            "enText": "Night always falls while I'm running.<n>That's why... I\nalways run... this much.",
             "nextBlock": 10,
+            "origClipLength": 73,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 288808944639985805
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -627430850287231230
+                }
+            ],
             "pathId": -8645180115732441803,
             "blockIdx": 9
         },
@@ -165,8 +263,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……では。失礼します。",
-            "enText": "At… Excuse me.",
+            "enText": "...Now, if you'll excuse me.",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "voiceIdx": 44,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -825675126762887632
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6191684534738845878
+                }
+            ],
             "pathId": 8474783950233816474,
             "blockIdx": 10
         },
@@ -174,8 +285,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……彼女がトレーニングコースから\r\n去ったのを見送り、そこで、ふと気づいた。",
-            "enText": "… I watched her leave the training \ncourse and then I realised.",
+            "enText": "She leaves the track without another<n>word. As I\nwatch her go, something<n>startling strikes me.",
             "nextBlock": 12,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1915062018813510325,
             "blockIdx": 11
         },
@@ -183,8 +297,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……さっき足音、1人多かったような……。",
-            "enText": "… footsteps just now, like \nthere was one more…",
+            "enText": "Manhattan Cafe was the only one who<n>left, but\nI'm positive I heard more than<n>one set of\nfootsteps walking away...",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1634964715059839277,
             "blockIdx": 12
         },
@@ -192,8 +309,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "目の前を走っている彼女がいるから、\r\n追いつきたいと思った……それだけです。",
-            "enText": "I saw her running in front of me and I \nwanted to catch up with her… That's all.",
+            "enText": "It's nothing that special... There's just<n>someone\nalways running ahead of me,<n>and I want to catch\nup to her.",
             "nextBlock": 14,
+            "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": 5535168792385390603
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5217176655983752781
+                }
+            ],
             "pathId": -803470971708127613,
             "blockIdx": 13
         },
@@ -201,8 +331,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女の中には、明確な目標があるらしい。\r\nそれ故にあれほどの集中をみせていたようだ。",
-            "enText": "It seems that she has a clear goal in mind. \nThat's why she was so focused.",
+            "enText": "It sounds like her clear goal is what<n>drives her to\nbe so focused.",
             "nextBlock": 15,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -2874080570562886342
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -2758190611939002754
+                }
+            ],
             "pathId": -5711534005432731285,
             "blockIdx": 14
         },
@@ -210,8 +353,21 @@
             "jpName": "マンハッタンカフェ",
             "enName": "Manhattan Cafe",
             "jpText": "……もういいですよね。お友だちも行くよう\r\nなので、私も行きます……。",
-            "enText": "… is enough, isn't it? My friends \nare going and so am I…",
+            "enText": "...Are we done now? My friend has left<n>already, so\nI should go too.",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "voiceIdx": 44,
+            "voiceSheetId": "051025001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -7360223629855034487
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8989735535494056180
+                }
+            ],
             "pathId": -7204963089057635387,
             "blockIdx": 15
         },
@@ -219,8 +375,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "その時――\r\nふと、気づいた。",
-            "enText": "That's when - suddenly - I realised.",
+            "enText": "As she leaves, something startling strikes<n>me.",
             "nextBlock": 17,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7639689720770211412,
             "blockIdx": 16
         },
@@ -228,8 +387,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……今、足音、1人多かったような……。",
-            "enText": "… now, footsteps, like there \nwas one more person…",
+            "enText": "Manhattan Cafe was the only one who<n>left, but\nI'm positive I heard more than<n>one set of\nfootsteps walking away...",
             "nextBlock": -1,
+            "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1503721510386724836,
             "blockIdx": 17
         }

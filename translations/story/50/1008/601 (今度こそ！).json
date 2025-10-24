@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "7EOVOIHZTKJUVAFNSTMUIYPZSAMGUINM",
+    "version": 6,
+    "bundle": "DBCNPB3LJGW5KE3Y2HNTGB4Q53CTIDIS",
     "type": "story",
     "storyId": "501008601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "トレーナー……前のレースは負けて、\r\nダセぇ姿を見せちまったけどよ。",
-            "enText": "The trainer… lost the last race, \nand I showed my ugly face.",
+            "enText": "I lost, Trainer... I can't believe I let you<n>see me\nlooking so lame.",
             "nextBlock": 2,
+            "origClipLength": 89,
+            "voiceIdx": 57,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 722893651981418503
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6710955886690247456
+                }
+            ],
             "pathId": 4345716510479081188,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "負けっぱなしなんてのは、\r\n俺が求めるカッコよさとは無縁だ！",
-            "enText": "Losing all the time is not the \nkind of cool I'm looking for!",
+            "enText": "But losin' all the time just doesn't suit<n>how cool I\nstrive to be!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3136857023640645304
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -4855544877656230126
+                }
+            ],
             "pathId": 5802330672282315139,
             "blockIdx": 2
         },
@@ -27,18 +54,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "今回こそ、絶対に1着を取ってみせる！\r\n誰も追いつけねぇスピードでぶっちぎってな！",
-            "enText": "This time, I'm going to take first place for \nsure! I'm going to beat you with a speed that \nno one else can match!",
+            "enText": "I'll make sure I get first place next time!<n>I'll throw\ndown some speed no one can<n>keep up with!",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "ああ、ウオッカなら勝てる！",
-                    "enText": "Yeah, Vodka can win!",
+                    "enText": "I'm sure you can win, Vodka!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "うん、ウオッカなら勝てるよ！",
-                    "enText": "Yeah, Vodka can win!",
+                    "enText": "I'm sure you can win, Vodka!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 1142279658533961183
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -6684180350756151328
                 }
             ],
             "pathId": 5489085671163028885,
@@ -48,8 +88,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おう！\r\nサンキュー、トレーナー！",
-            "enText": "Ooh! Thank you, trainer!",
+            "enText": "Right! Thanks, Trainer!",
             "nextBlock": 5,
+            "origClipLength": 67,
+            "voiceIdx": 12,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7079354970447367239
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 259903946072542492
+                }
+            ],
             "pathId": -7886888679042324762,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "目ん玉かっぴらいて、よ～く見とけ！\r\nこの俺の……最高にイカした走りをッ！！",
-            "enText": "Keep your eyes peeled and watch! Watch me \ndrive the coolest… ever!",
+            "enText": "Make sure to keep your eyes wide open<n>so you\ndon't miss a moment of my glory!",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": 11,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 4661592298870031098
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -3430636862834998227
+                }
+            ],
             "pathId": -4064466725230757487,
             "blockIdx": 5
         }

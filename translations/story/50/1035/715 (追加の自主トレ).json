@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "UDIWVBRXGONMGSCH6TX2JQZBRLC6ZS43",
+    "version": 6,
+    "bundle": "4R2BUGXJM4EDEALRUGHSBBCD33XWJDLO",
     "type": "story",
     "storyId": "501035715",
     "title": "追加の自主トレ",
+    "enTitle": "Extra Training",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニング終了後……。",
-            "enText": "After the training is over, visit ……",
+            "enText": "After training...",
             "nextBlock": 2,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "お疲れ様",
-                    "enText": "that's enough for today",
+                    "enText": "Good job today.",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": 4213486796393733132
+                    "pathId": 63537350753335207
                 },
                 {
                     "origLen": 71,
-                    "pathId": 63537350753335207
+                    "pathId": 4213486796393733132
                 }
             ],
             "pathId": 8313873919088983720,
@@ -36,17 +39,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うんっ！　ありがとー！\r\nトレーナーさんもお疲れ様――",
-            "enText": "Yeah! Thanks! Thanks to the trainer, too.",
+            "enText": "Thank you! You too, Trainer!",
             "nextBlock": 3,
             "origClipLength": 80,
+            "voiceIdx": 12,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 3137992636105322547
-                },
                 {
                     "origLen": 91,
                     "pathId": 923572932104656476
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 3137992636105322547
                 }
             ],
             "pathId": 5482527780859948546,
@@ -56,17 +61,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "って……んん？　あれあれっ……？\r\nアタシ、全力でトレーニングしてたのに――",
-            "enText": "What is ……? What's that? ……? I was training \nas hard as I could…",
+            "enText": "Hm? Wait a sec... I went all out today,<n>but...",
             "nextBlock": 4,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": 930718956928105265
-                },
                 {
                     "origLen": 105,
                     "pathId": -7026038188314190150
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 930718956928105265
                 }
             ],
             "pathId": 1464108181668238148,
@@ -76,17 +83,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あんまり、お疲れ様じゃないぞーっ！？",
-            "enText": "Not much, you're not tired!",
+            "enText": "I don't really feel tired at all!",
             "nextBlock": 5,
             "origClipLength": 68,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": -528062574495464617
-                },
                 {
                     "origLen": 79,
                     "pathId": 3210602089625833673
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -528062574495464617
                 }
             ],
             "pathId": -4812944918155020735,
@@ -96,17 +105,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "きっと、今日は調子がドッカーンなんだぁ！\r\nこれなら、まだまだトレーニングできるよ！",
-            "enText": "I must be in smashing shape today! This means \nI can still train!",
+            "enText": "I guess I'm in peak condition right now!<n>That\nmeans I can do more training!",
             "nextBlock": 6,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -7348220353020911275
-                },
                 {
                     "origLen": 110,
                     "pathId": -6005253288102275068
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7348220353020911275
                 }
             ],
             "pathId": 4836842094210794471,
@@ -116,34 +127,36 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "トレーナーさん！\r\nアタシ、自主トレしてくるねーっ！",
-            "enText": "Trainer! I'm going to go train by myself!",
+            "enText": "I'm gonna do some solo practice, okay?",
             "nextBlock": 7,
             "origClipLength": 78,
+            "voiceIdx": 56,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "よし！やろう！",
-                    "enText": "Let's do it! Let's do it!",
+                    "enText": "Good idea! I'll join you!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "よし！やりましょう！",
-                    "enText": "Let's do it! Let's do it!",
+                    "enText": "Good idea! I'll join you!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "全力は後にとっておこう",
-                    "enText": "Let's save our best for later.",
+                    "enText": "You should save that energy for later.",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 51,
-                    "pathId": 1040534060981930439
-                },
-                {
                     "origLen": 89,
                     "pathId": -2316574898388053774
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 1040534060981930439
                 }
             ],
             "pathId": 7255902171096392673,
@@ -153,34 +166,36 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "トレーナーさん！\r\nアタシ、自主トレしてくるねーっ！",
-            "enText": "Trainer! I'm going to go train by myself!",
+            "enText": "I'm gonna do some solo practice, okay?",
             "nextBlock": 8,
             "origClipLength": 78,
+            "voiceIdx": 56,
+            "voiceSheetId": "051035001",
             "choices": [
                 {
                     "jpText": "よし！やろう！",
-                    "enText": "Let's do it! Let's do it!",
+                    "enText": "Good idea! I'll join you!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "よし！やりましょう！",
-                    "enText": "Let's do it! Let's do it!",
+                    "enText": "Good idea! I'll join you!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "全力は後にとっておこう",
-                    "enText": "Let's save our best for later.",
+                    "enText": "You should save that energy for later.",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 51,
-                    "pathId": -4989991977821928768
-                },
-                {
                     "origLen": 89,
                     "pathId": -2808232746616545145
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -4989991977821928768
                 }
             ],
             "pathId": 6745875608843499083,
@@ -190,17 +205,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "おーーーー！！\r\nがんばるぞーーーっ！！",
-            "enText": "Ooooooooo!!! I'll do my best!!!!",
+            "enText": "Woooo! Here we gooo!",
             "nextBlock": 9,
             "origClipLength": 71,
+            "voiceIdx": 5,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 1142617071378039624
-                },
                 {
                     "origLen": 82,
                     "pathId": 8285473278605269961
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 1142617071378039624
                 }
             ],
             "pathId": -3963589911091468659,
@@ -210,17 +227,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "まずは、トレーニングコースをダッシュだぁ！\r\n全力ッ！　全開ッ！　レッツゴーーーッ！！",
-            "enText": "First, let's dash down the training course! \nFull power! Full throttle! Let's goooooo!",
+            "enText": "To the training track at full speed!<n>Ready, set,\nBLAST OFF!",
             "nextBlock": 10,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": -5662744877522246727
-                },
                 {
                     "origLen": 112,
                     "pathId": -2425434201005113480
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -5662744877522246727
                 }
             ],
             "pathId": -6489306294504196582,
@@ -230,17 +249,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "ウイニングチケットと一緒に、\r\n追加トレー二ングを行った。",
-            "enText": "Additional training was provided along with \nthe winning ticket.",
+            "enText": "I follow Winning Ticket for some<n>supplementary\ntraining.",
             "nextBlock": -1,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -1696958696005099216
+                    "pathId": -6140869840130997255
                 },
                 {
                     "origLen": 93,
-                    "pathId": -6140869840130997255
+                    "pathId": -1696958696005099216
                 }
             ],
             "pathId": 6761979206343056853,
@@ -250,17 +271,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ハッ……！？！？\r\nな、なるほどぉ～～～！！",
-            "enText": "Ha……! I see～!",
+            "enText": "Huh?! Oh... I didn't even think of that!",
             "nextBlock": 12,
             "origClipLength": 73,
+            "voiceIdx": 31,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 3314694876340284581
-                },
                 {
                     "origLen": 84,
                     "pathId": 7123061089242438883
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 3314694876340284581
                 }
             ],
             "pathId": 915269409662755609,
@@ -270,17 +293,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "全力をとっておけば、もっと全力が出せるッ！\r\nさっすがトレーナーさん！\n気づかなかったよ～！",
-            "enText": "If you save all your energy, you \ncan give it more! Way to go, trainer! \nI didn't even notice～!",
+            "enText": "If I save my energy, I can be at even<n>fuller power\nlater! Thanks, Trainer! I'd<n>never have noticed!",
             "nextBlock": 13,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 4261881595750705403
-                },
                 {
                     "origLen": 116,
                     "pathId": 5103706972930689509
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 4261881595750705403
                 }
             ],
             "pathId": 1387221920523950662,
@@ -290,22 +315,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "今後のトレーニングのためにも、\r\nウイニングチケットを休ませた。",
-            "enText": "I rested my winnings ticket \nfor future training.",
+            "enText": "To better prepare for future training<n>sessions,\nWinning Ticket agrees to rest<n>for today.",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": 8489120819920273950
+                    "pathId": -684677793348918940
                 },
                 {
                     "origLen": 97,
-                    "pathId": -684677793348918940
+                    "pathId": 8489120819920273950
                 }
             ],
             "pathId": 1552056884808463238,
             "blockIdx": 13
         }
-    ],
-    "modified": 1657555059
+    ]
 }

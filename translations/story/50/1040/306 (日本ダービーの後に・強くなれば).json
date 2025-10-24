@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "DRWSTJHZ37IBDWQBMABV2EDWTQFB43AI",
+    "version": 6,
+    "bundle": "IMSDRW3W2EPVSYIOOE3GYI5TE6IRRJQ5",
     "type": "story",
     "storyId": "501040306",
     "title": "日本ダービーの後に・強くなれば",
+    "enTitle": "After the Japanese Derby: Stronger",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "はぁっ……はぁっ……。",
-            "enText": "Hah… Hah…",
+            "enText": "<i>Pant... pant...</i>",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "voiceIdx": 58,
+            "voiceSheetId": "051040001",
             "pathId": -105376650360527724,
             "blockIdx": 1
         },
@@ -18,8 +22,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "やった……！\nアタシが、ダービーウマ娘だ！",
-            "enText": "Yay…! I am the Derby Horse Girl!",
+            "enText": "I did it! Me! I'm the Derby champion!",
             "nextBlock": 3,
+            "origClipLength": 72,
+            "voiceIdx": 6,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 5371507933878287246
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1461951336494505361
+                }
+            ],
             "pathId": 7955712306111367778,
             "blockIdx": 2
         },
@@ -27,8 +44,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "見たかよ、これがアタシ！\nホントの“ゴールドシチー”なんだ……！",
-            "enText": "Did you see that? This is Atashi! It's the \nreal \"Gold City\"…!",
+            "enText": "Did you see that?! This is me! This is the<n>real Gold\nCity!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "voiceIdx": 1,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -6370750041251509900
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 6591980705420889269
+                }
+            ],
             "pathId": 3584356595889315573,
             "blockIdx": 3
         },
@@ -36,8 +66,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ワアアアアアッ……！！）",
-            "enText": "(Waaaaahhhh…!!!)",
+            "enText": "Wooooo!",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6535012598243291122
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7467286712546525673
+                }
+            ],
             "pathId": 1189961699454077067,
             "blockIdx": 4
         },
@@ -45,35 +88,67 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 6,
+            "origClipLength": 50,
+            "voiceIdx": 111,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 6132229958044034530
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -1405918320180890805
+                }
+            ],
             "pathId": 8398876605066402037,
             "blockIdx": 5
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "ゴールドシチー、すげー！！\n実力は本物……優勝レイ早くつけてほしい！",
-            "enText": "Gold City, wow! The power is real… I \nhope you put on your championship ray soon!",
+            "enText": "Gold City is incredible! She's the real<n>deal... I\nhope she gets to wear the<n>winner's sash soon!",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": -8945528078341631334
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -4919692816733768382
+                }
+            ],
             "pathId": -8684423436799448294,
             "blockIdx": 6
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "わかる、絶対赤いの似合うよね！　映えそう！\n最後の『菊花賞』も期待しちゃう～！",
-            "enText": "I know, it definitely looks good in red! It's \ngoing to look great! I have high hopes for \nthe last \"Kikka-sho\" too!",
+            "enText": "Right? Think of how gorgeous she'd look<n>in the\nred one! I can't wait for the Kikuka<n>Sho!",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1704294989988339381,
             "blockIdx": 7
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "ホント、モデルなのにすごい！\nカッコいいよ、シチー！！",
-            "enText": "Really, you're a model and you're \namazing! You're so cool, City!",
+            "enText": "I can't believe a model can run like that!<n>You're so\ncool, City!",
             "nextBlock": 9,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1117059343656708540,
             "blockIdx": 8
         },
@@ -81,17 +156,43 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……は？　ダービーウマ娘、なったんだけど。\nなのにレイとかモデルとか、なに――",
-            "enText": "What about…? Derby Horse Girl, I became \none. And yet, Rei, models, and what―",
+            "enText": "What? I'm a Derby champion now. Yet<n>they're still\ntalking about sashes and<n>modeling...",
             "nextBlock": 10,
+            "origClipLength": 95,
+            "voiceIdx": 15,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 166,
+                    "pathId": -4277466116327743802
+                },
+                {
+                    "origLen": 131,
+                    "pathId": 7317174809626441169
+                }
+            ],
             "pathId": -3931669676182565310,
             "blockIdx": 9
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "でも、走りもすげーんだな！",
-            "enText": "But you're a hell of a runner too!",
+            "enText": "But she's an awesome runner, too!",
             "nextBlock": 11,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 11,
+                    "pathId": 8479074957173888391
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -4923289799960407784
+                }
+            ],
             "pathId": 2485116102342178253,
             "blockIdx": 10
         },
@@ -99,8 +200,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……そういうことだったの？",
-            "enText": "… Is that what you meant?",
+            "enText": "So that's how it is?",
             "nextBlock": 12,
+            "origClipLength": 61,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -6628179903733659404
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 4608163963123723298
+                }
+            ],
             "pathId": 6900733833702375425,
             "blockIdx": 11
         },
@@ -108,8 +222,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "走り『が』じゃない、\n走り『も』……。",
-            "enText": "It's not the run 'ga', it's \nthe run 'too'…",
+            "enText": "Not that my running is great, but that it's<n>great\n\"too.\"",
             "nextBlock": 13,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1370222209661622016
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -6979237928301546235
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5428372924611722727
+                }
+            ],
             "pathId": 4244409474940924271,
             "blockIdx": 12
         },
@@ -117,8 +248,25 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "結局、越えられないってわけ？\nお人形のアタシを……！",
-            "enText": "So you can't get over it after all? \nI'll take my doll Atashi…!",
+            "enText": "This isn't a win at all. I'm still just a doll<n>to them!",
             "nextBlock": 14,
+            "origClipLength": 78,
+            "voiceIdx": 60,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8265253938010881532
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3995184687338284603
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -534709060552842317
+                }
+            ],
             "pathId": 5082802415562874453,
             "blockIdx": 13
         },
@@ -126,18 +274,35 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 15,
+            "origClipLength": 48,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "いい走り、見せたな！",
-                    "enText": "Nice run, you showed it!",
+                    "enText": "You ran great out there!",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "いい走り、見せたね！",
-                    "enText": "Nice run, you showed it!",
+                    "enText": "You ran great out there!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -8141897601361625449
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -8461028927490945191
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 18004203924704005
                 }
             ],
             "pathId": -1300825888527015513,
@@ -147,13 +312,30 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……それも、ムダなのかもね。",
-            "enText": "… Maybe that's moot, too.",
+            "enText": "So? What a waste of energy.",
             "nextBlock": 16,
+            "origClipLength": 65,
+            "voiceIdx": 88,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "……どうして？",
-                    "enText": "…Why?",
+                    "enText": "Why would you say that?",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2272840843158726102
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4407620636962241113
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 496950786981317400
                 }
             ],
             "pathId": 683993952987517538,
@@ -163,8 +345,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "『顔だけじゃなくて』\n『モデルなのに』……。",
-            "enText": "'It's not just my face,' \n'I'm a model.'…",
+            "enText": "Because they're all like, \"She's not <i>just</i><n>good\nlooking,\" or, \"She runs well, <i>for a<n>model.</i>\"",
             "nextBlock": 17,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 3058200957323619619
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6393714317657944594
+                }
+            ],
             "pathId": 953544602808606400,
             "blockIdx": 16
         },
@@ -172,8 +367,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アタシの評価には、\n絶対見た目が入ってる。",
-            "enText": "My evaluation definitely includes appearance.",
+            "enText": "No matter what they say, they always<n>have to\nmention my appearance.",
             "nextBlock": 18,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8040205742237685960
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2715704961470973142
+                }
+            ],
             "pathId": -6830362706158151990,
             "blockIdx": 17
         },
@@ -181,8 +389,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "それじゃあ……結局、\n今までと変わんねーじゃん。",
-            "enText": "Then… is no different \nthan before, after all.",
+            "enText": "It's no different than before.",
             "nextBlock": 19,
+            "origClipLength": 76,
+            "voiceIdx": 35,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 4292310883651466046
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8559298402188886222
+                }
+            ],
             "pathId": -5210008458875829874,
             "blockIdx": 18
         },
@@ -190,8 +411,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アタシはただ、\nアタシだけを、見てほしいのに……！",
-            "enText": "I just want you to look at \nme and only me…!",
+            "enText": "I just want everyone to look at me and<n>see <i>me.</i>",
             "nextBlock": 20,
+            "origClipLength": 77,
+            "voiceIdx": 18,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 7555751943073594289
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -1326968265714501496
+                }
+            ],
             "pathId": -8019274382739304674,
             "blockIdx": 19
         },
@@ -199,8 +433,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ねぇ、ダービーでコレならさ。\nもしかして、だけど……。",
-            "enText": "Hey, if this is the Derby, you \nknow. Maybe, but…",
+            "enText": "But hey, if this is what I get even when I<n>win the\nDerby, then maybe... you know...",
             "nextBlock": 21,
+            "origClipLength": 80,
+            "voiceIdx": 54,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 864342225205393456
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -7398572880181072428
+                }
+            ],
             "pathId": 2527448835019341653,
             "blockIdx": 20
         },
@@ -208,13 +455,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "これ以上は、もう――",
-            "enText": "I can't take this any more―",
+            "enText": "This is all there is.",
             "nextBlock": 22,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "『菊花賞』がまだある！",
-                    "enText": "There's still the \"Chrysanthemum Awards!\"",
+                    "enText": "There's still the Kikuka Sho!",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -3864686958368812143
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 810896050687336155
                 }
             ],
             "pathId": -3978775666046051690,
@@ -224,18 +484,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "え……？",
-            "enText": "え…?",
+            "enText": "What?",
             "nextBlock": 23,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "1番強いウマ娘になるんだ",
-                    "enText": "I'm going to be the strongest horse girl.",
+                    "enText": "You can still become the strongest of all racers.",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "1番強いウマ娘になるんだよ",
-                    "enText": "I'm going to be the strongest horse girl.",
+                    "enText": "You can still become the strongest of all racers.",
                     "nextBlock": 23
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": -416456211954414265
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 8121034929758899072
                 }
             ],
             "pathId": 6259552026373146555,
@@ -245,8 +518,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "っ！\n『菊花賞』……。",
-            "enText": "I'm not! The Chrysanthemum Prize.\"…",
+            "enText": "The Kikuka Sho...",
             "nextBlock": 24,
+            "origClipLength": 59,
+            "voiceIdx": 110,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 4392410466691663757
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6141423421099333402
+                }
+            ],
             "pathId": -1476718712332142360,
             "blockIdx": 23
         },
@@ -254,18 +540,35 @@
             "jpName": "",
             "enName": "",
             "jpText": "『菊花賞』は最も強いウマ娘が勝つと\n言われている。圧倒的な強さを見せれば、\n評価を塗り替えられるかもしれない。",
-            "enText": "It is said that the \"Kikka-sho\" will be won \nby the strongest Uma Musume. If she shows \noverwhelming strength, she may be able to \nrewrite her reputation.",
+            "enText": "They say the Kikuka Sho goes to the<n>runner with\nthe greatest strength. If she<n>shows up big there,\nshe may be able to<n>rewrite her reputation.",
             "nextBlock": 25,
+            "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "俺だってこのままは悔しい",
-                    "enText": "I'd be disappointed too if I didn't.",
+                    "enText": "I don't want things to stay like this either.",
                     "nextBlock": 25
                 },
                 {
                     "jpText": "私だってこのままは悔しい",
-                    "enText": "I'd be frustrated too if I didn't.",
+                    "enText": "I don't want things to stay like this either.",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -341890066972895643
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -7902405184226439116
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -5258526408454729376
                 }
             ],
             "pathId": 825158180209281784,
@@ -275,18 +578,35 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "え……。",
-            "enText": "E…",
+            "enText": "Uh...",
             "nextBlock": 26,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "君の強さを周りにわかってもらいたい！",
-                    "enText": "I want people to understand \nhow strong you are!",
+                    "enText": "I want people to recognize your strength!",
                     "nextBlock": 26
                 },
                 {
                     "jpText": "貴方の強さを周りにわかってもらいたい！",
-                    "enText": "I want people to understand \nhow strong you are!",
+                    "enText": "I want people to recognize your strength!",
                     "nextBlock": 26
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -55325481120510183
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 3846504240077610973
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -5491122078139872581
                 }
             ],
             "pathId": 5536169984614982634,
@@ -296,8 +616,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っ！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 27,
+            "origClipLength": 50,
+            "voiceIdx": 111,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 2045459603904212408
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 1324583607043805341
+                }
+            ],
             "pathId": -6321435600990877263,
             "blockIdx": 26
         },
@@ -305,8 +638,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……弱気になってたかも。\n大丈夫、途中でなんかやめないから。",
-            "enText": "… I might have been feeling \nvulnerable. Don't worry, I'm not \ngoing to stop on the way.",
+            "enText": "Yeah, I just... lost confidence, I guess.<n>But don't\nworry, I'm not giving up<n>halfway.",
             "nextBlock": 28,
+            "origClipLength": 84,
+            "voiceIdx": 82,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 9207438313992341582
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -3645355845012628477
+                }
+            ],
             "pathId": 8445444500078468429,
             "blockIdx": 27
         },
@@ -314,18 +660,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アンタのほうが燃えてちゃ、\nなんかダサいし。",
-            "enText": "It's kind of lame if you're the one on fire.",
+            "enText": "I can't let you be more excited about my<n>own\ncareer than I am.",
             "nextBlock": 29,
+            "origClipLength": 73,
+            "voiceIdx": 74,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "夏の間に必ず君を強くする！",
-                    "enText": "I promise I will make you stronger \nover the summer!",
+                    "enText": "We'll use this summer to make you stronger\nthan ever!",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "夏の間に必ず貴方を強くする！",
-                    "enText": "We'll definitely make you stronger \nover the summer!",
+                    "enText": "We'll use this summer to make you stronger\nthan ever!",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -2036982296536216084
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -3835195283833010991
                 }
             ],
             "pathId": 4406243171562564596,
@@ -335,8 +694,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……。\n言ったな？",
-            "enText": "… You said.",
+            "enText": "...I'll hold you to that.",
             "nextBlock": 30,
+            "origClipLength": 56,
+            "voiceIdx": 9,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -2501301506629016427
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7620982322320543208
+                }
+            ],
             "pathId": -3213709999006635794,
             "blockIdx": 29
         },
@@ -344,8 +716,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "じゃあ、アタシも約束する。\n……アンタの熱血に応えるって。",
-            "enText": "Then I promise you, too. I will respond \nto your… passion.",
+            "enText": "Okay then, I'll make a promise too, to<n>match your\nenthusiasm.",
             "nextBlock": 31,
+            "origClipLength": 82,
+            "voiceIdx": 2,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8118271383717195155
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2722595010295788728
+                }
+            ],
             "pathId": 6518674103185089298,
             "blockIdx": 30
         },
@@ -353,8 +738,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "強くなって、『菊花賞』に勝つ。\nそんで今度こそ、ホントのアタシを\n刻みつけてやる……！",
-            "enText": "I will get stronger and win the \"Kikka-sho\". \nAnd this time, I'm going to make an imprint \non the real me…!",
+            "enText": "I'm going to get stronger and win the<n>Kikuka Sho.\nI'll sear the real me into<n>everyone's minds!",
             "nextBlock": -1,
+            "origClipLength": 101,
+            "voiceIdx": 3,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -2212673116300164910
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -7001559607265751582
+                }
+            ],
             "pathId": -8832340660285891063,
             "blockIdx": 31
         }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "JCUNVQYTE3FYQNQSLBYOFDQYIGTJDBQ3",
+    "version": 6,
+    "bundle": "M2BRDZPXLIKRJKVNMPNA5H7SGMKJDUJ3",
     "type": "story",
     "storyId": "801003001",
     "title": "ボクのやり方",
+    "enTitle": "My Way, Or...",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、トレーニングコースで――",
-            "enText": "One day, on a training course—",
+            "enText": "One day, at the training track...",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4673251802008818918,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "うぅ～……あーーもーー！",
-            "enText": "Ugh~… Aaaa Moooooo!",
+            "enText": "Hrm... Gahhh!",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": 16,
+            "voiceSheetId": "051003001",
             "pathId": -514197271658591329,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あれ、キミは……？\r\nえへへ、今の声聞こえちゃった？",
-            "enText": "Hey, are you…? Did you \nhear what I just said?",
+            "enText": "Oh hey, I know you. Ehehe, did you hear<n>me just\nnow?",
             "nextBlock": 4,
+            "origClipLength": 78,
+            "voiceIdx": 14,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -8099346338748477150
+                },
+                {
+                    "origLen": 142,
+                    "pathId": -5633262598676430457
+                }
+            ],
             "pathId": 875400897298150201,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "じゃあどうせならボクの話、聞いてってよー！\r\n実はさー、マックイーンがさー。",
-            "enText": "Well, you're going to have to listen to me \nanyway! You know, McQueen…",
+            "enText": "Since you're here, lemme rant! You know<n>\nMcQueen, right?",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "voiceIdx": 53,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 3297435114293363876
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3992122075407977773
+                }
+            ],
             "pathId": -6294291683349569743,
             "blockIdx": 4
         },
@@ -45,8 +78,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "『長距離のコツは何事もキープすることです。\r\nテイオーさんもテンポ走を始めては？』って。",
-            "enText": "The trick with long distances is to keep \neverything going. Why don't you start doing \ntempo runs? She said.",
+            "enText": "She told me the trick to long-distance<n>running is\nkeeping a steady pace, then<n>suggested I try doing\ntempo runs.",
             "nextBlock": 6,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 6029425575811756950
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2273676466173899732
+                }
+            ],
             "pathId": 4915742644094528725,
             "blockIdx": 5
         },
@@ -54,18 +100,31 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "でもテンポ走なんてゆっくりすぎるよー！\r\n思いっきり走った方が絶対気持ちいいじゃん！",
-            "enText": "But tempo running is too slow! It feels \nbetter to run as fast as you can!",
+            "enText": "But running at a set pace is <i>such</i> a drag!<n>It feels\nSO much better to run as fast as I<n>can!",
             "nextBlock": 7,
+            "origClipLength": 111,
+            "voiceIdx": 16,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "自分に合う方法が1番！",
-                    "enText": "The way that works best for you is the best!",
+                    "enText": "You should run the way that best suits you!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "我慢した後に走ったらもっと気持ちいいよ",
-                    "enText": "You'll feel even better if you \nrun after you've endured.",
+                    "enText": "But think of how good it'll feel to sprint after\nholding back.",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -4937778620768168328
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -3993911712001409828
                 }
             ],
             "pathId": -65759569019311564,
@@ -75,8 +134,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "うんうん、だよね！　だよね！\r\nやっぱりやる気が出るトレーニングが1番！",
-            "enText": "Yeah, yeah, yeah! That's right! Motivational \ntraining is the best!",
+            "enText": "Yeah, you get it! The best type of<n>training really\nis the one that motivates<n>you the most!",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "voiceIdx": 9,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": -8645226772077807147
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -7392264698051578436
+                }
+            ],
             "pathId": -2581145471616125714,
             "blockIdx": 7
         },
@@ -84,8 +156,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "よーしっ、\r\nそれじゃあ全速力で1周走ってこよーっと！\nいっくぞー！　ワガハイは最強なのだー！",
-            "enText": "All right, let's go and run a lap at full \nspeed! Let's go! Waggahai is the best!",
+            "enText": "All right! Time to sprint a lap at top<n>speed! Here\ncomes the mighty Teio!",
             "nextBlock": 9,
+            "origClipLength": 106,
+            "voiceIdx": 11,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 5660097831900505129
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6020772842633654598
+                }
+            ],
             "pathId": -970183809797694990,
             "blockIdx": 8
         },
@@ -93,8 +178,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "自分のやりたいメニューの方が、\r\nやはり集中してできるようだ。",
-            "enText": "It seems to me that I can concentrate \nmore on what I want to do.",
+            "enText": "It seems that she's able to focus much<n>better on\nher running while training the<n>way she wants.",
             "nextBlock": -1,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 5795549528293282863
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -9080345032616141915
+                }
+            ],
             "pathId": 6328530874302085661,
             "blockIdx": 9
         },
@@ -102,8 +200,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あっ、そっか！　そうかもっ！\r\nテンポ走をした後に、思い切り全力ダッシュ！",
-            "enText": "Oh, I see! That's right! A tempo \nrun and then a full-on dash!",
+            "enText": "Ohhh, I getcha! Maybe you're right! An<n>all-out\nsprint after a paced run, huh?",
             "nextBlock": 11,
+            "origClipLength": 102,
+            "voiceIdx": 8,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -2119179649353077817
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7686903064743005653
+                }
+            ],
             "pathId": 6969122615112007096,
             "blockIdx": 10
         },
@@ -111,8 +222,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "単に走るだけより絶対気持ちいいかも！\r\nふふ、いいこと聞いちゃった！",
-            "enText": "It definitely feels better than just \nrunning! Hmmm, I've heard good things!",
+            "enText": "I bet that'll feel way better than just<n>running\nnormally! Hehe, what a great<n>idea!",
             "nextBlock": 12,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 3395439419091886426
+                },
+                {
+                    "origLen": 117,
+                    "pathId": 3860635401730876559
+                }
+            ],
             "pathId": -9076839809227589544,
             "blockIdx": 11
         },
@@ -120,8 +244,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "もう少しだけ、テンポ走続けてみようかなっ。\r\n相談乗ってくれてありがと！",
-            "enText": "I think I'll keep running tempo for a bit \nlonger. Thanks for the advice!",
+            "enText": "I'm gonna give this tempo running thing<n>another\nchance. Thanks for talking this<n>out with me!",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "voiceIdx": 11,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 1333716918138865300
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4453694297493604125
+                }
+            ],
             "pathId": 2676209783294298450,
             "blockIdx": 12
         }

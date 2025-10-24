@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "GEO4DSDDHOTGZKSJXPI7ILXKWRWSS2MX",
+    "version": 6,
+    "bundle": "ZHMGYF7TNV4EG6SF6TNI5VRX5Z2YJDJP",
     "type": "story",
     "storyId": "501010711",
     "title": "今度こそ負けない！",
+    "enTitle": "No More Losing!",
     "text": [
         {
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさん。\r\n最近ワタシたち、負けっぱなしデスガ――",
-            "enText": "Trainer. We've been losing a lot lately.",
+            "enText": "Trainer, about that losin' streak we've<n>been on\nlately...",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": 55,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "ごめん、力が及ばなくて……",
-                    "enText": "Sorry, I'm out of my depth. ……",
+                    "enText": "Sorry I haven't been much help...",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -3956771222835754788
+                    "pathId": 2584240490102864620
                 },
                 {
                     "origLen": 74,
-                    "pathId": 2584240490102864620
+                    "pathId": -3956771222835754788
                 }
             ],
             "pathId": -6344255699197348463,
@@ -36,17 +39,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ホワッツ？　ノーノー！\r\nトレーナーさんが謝る必要はナッシング！",
-            "enText": "Whats? No no no! No need for \nthe trainer to apologize!",
+            "enText": "What? No, no—you ain't got nothin' to<n>apologize\nfor!",
             "nextBlock": 3,
             "origClipLength": 65,
+            "voiceIdx": 20,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 29,
-                    "pathId": -4754082994872983810
-                },
                 {
                     "origLen": 76,
                     "pathId": 1087385970011111472
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -4754082994872983810
                 }
             ],
             "pathId": 5737542364467012699,
@@ -56,17 +61,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "むしろ今からが本番デス！\r\nみんな抜き去って、イチバンになりまショウ！",
-            "enText": "In fact, it's time to get down \nto business! We will overtake everyone \nand become number one!",
+            "enText": "We're just gettin' started! I'm gonna<n>blast through\nmy competition and finish<n>first!",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": -8581335985096482243
-                },
                 {
                     "origLen": 78,
                     "pathId": -4935354558511284727
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -8581335985096482243
                 }
             ],
             "pathId": 8927850752309287952,
@@ -76,17 +83,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "そのためにトレーナーさんとワタシ、\r\n2人でスリー・レッグにならないとデスヨ！",
-            "enText": "That's why my trainer and I have to become a \nthree-leg team!",
+            "enText": "The two of us gotta work together,<n>Trainer!",
             "nextBlock": 5,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 83205706527476045
-                },
                 {
                     "origLen": 81,
                     "pathId": 5824257247192839712
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 83205706527476045
                 }
             ],
             "pathId": 3148360393347378138,
@@ -96,29 +105,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "あー、ウェル～……。\r\n確かニホンゴだと、脚ミッツ……。",
-            "enText": "Ah, well～…… I believe it's \nNihongo, leg mitz ……",
+            "enText": "What is it people say here in Japan?<n>Something\nabout workin' like ya got<n>three feet?",
             "nextBlock": 6,
             "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "『二人三脚』で、少しずつ頑張ろう",
-                    "enText": "Let's work hard, little by little, on a \n\"three-legged tripod.",
+                    "enText": "Let's take it step by step like it's a three-legged\nrace.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "『二人三脚』で、一緒に鍛えなおそう",
-                    "enText": "Let's train together in \"Tripod\"!",
+                    "enText": "Let's work together like it's a three-legged race.",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 28,
-                    "pathId": -7202373224894754626
-                },
-                {
                     "origLen": 74,
                     "pathId": -8822353340583358174
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -7202373224894754626
                 }
             ],
             "pathId": 2265600358842921954,
@@ -128,17 +139,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエス、オフコース！\r\nニニンサンキャクでヴィクトリー！",
-            "enText": "Yes, off course! Victory in Ninin Sankak!",
+            "enText": "Yeah, that's it! Let's win this<n>three-legged race!",
             "nextBlock": 7,
             "origClipLength": 63,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -2568267113361310500
-                },
                 {
                     "origLen": 74,
                     "pathId": 871868288700381618
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -2568267113361310500
                 }
             ],
             "pathId": 3312999858587910212,
@@ -148,17 +161,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシとトレーナーさんのコンビで、\r\nみんなにハッピー届けまショウ！",
-            "enText": "I and my trainer will bring \nhappiness to everyone!",
+            "enText": "If we do our best side by side, I betcha<n>we can\nmake a lot of folks happy!",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 9196125550940027674
-                },
                 {
                     "origLen": 78,
                     "pathId": 6329461355282348113
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 9196125550940027674
                 }
             ],
             "pathId": -3622293457869828116,
@@ -168,17 +183,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエス、オフコース！\r\nスパルタ・トレーニング、ドントコイ！",
-            "enText": "Yes, Off Course! Spartan Training, Don't Come!",
+            "enText": "Bring it on! Make it extra tough!",
             "nextBlock": 9,
             "origClipLength": 64,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -6422688875871750275
-                },
                 {
                     "origLen": 75,
                     "pathId": -603040859052574576
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -6422688875871750275
                 }
             ],
             "pathId": -5737252765497250815,
@@ -188,17 +205,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "みんなにハッピーを届けるため、\r\nここからイチバンになるため――",
-            "enText": "To bring happiness to everyone, to be the \nbest from here",
+            "enText": "I just know everybody'll be happy once I<n>start\nwinning!",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": -8104465562182397334
-                },
                 {
                     "origLen": 76,
                     "pathId": 2819678378830439852
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -8104465562182397334
                 }
             ],
             "pathId": 5234859573830944737,
@@ -208,22 +227,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシとトレーナーさんのコンビで、\r\nもっともっと強くなりまショウ！！",
-            "enText": "Together, I and my trainer will become \nstronger and stronger!",
+            "enText": "And I'm bound to get mighty strong with<n>you\nbeside me, Trainer!",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": 11,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 297470070579429152
-                },
                 {
                     "origLen": 78,
                     "pathId": 8587453014172485597
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 297470070579429152
                 }
             ],
             "pathId": -3427224384813684052,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555055
+    ]
 }

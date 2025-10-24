@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "2WUUEVPYNBMMXVFRK5SBGQQ7I2T5NNZF",
+    "version": 6,
+    "bundle": "TCSOF2IMSGEBSPHT6GPC7WIJL4SDKI5D",
     "type": "story",
     "storyId": "501003728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "おっ、やるじゃんトレーナー！",
-            "enText": "Whoa, nice work, trainer!",
+            "enText": "Oh, nice job!",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": 113,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": -6646319720948206463
-                },
                 {
                     "origLen": 89,
                     "pathId": 8935671931602200507
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -6646319720948206463
                 }
             ],
             "pathId": -6331311052445162753,
@@ -29,13 +32,15 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ボクほどじゃないけど、\n上手なんだね。",
-            "enText": "Not as good as me, but good.",
+            "enText": "You're not as good as me, but you've<n>got some\nskill.",
             "nextBlock": 3,
             "origClipLength": 69,
+            "voiceIdx": 74,
+            "voiceSheetId": "051003001",
             "choices": [
                 {
                     "jpText": "せっかくだし、それあげるよ",
-                    "enText": "Since you're here, I'll give you that.",
+                    "enText": "Here, yours to keep.",
                     "nextBlock": 3
                 }
             ],
@@ -45,12 +50,12 @@
                     "pathId": 1324715412555792635
                 },
                 {
-                    "origLen": 87,
-                    "pathId": -2373820702880462510
-                },
-                {
                     "origLen": 89,
                     "pathId": 3547998866978843919
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -2373820702880462510
                 }
             ],
             "pathId": 7558658565512433364,
@@ -60,21 +65,23 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "えっ、いいの！？",
-            "enText": "What? It's okay!",
+            "enText": "Huh? Really?!",
             "nextBlock": 4,
             "origClipLength": 55,
+            "voiceIdx": 7,
+            "voiceSheetId": "051003001",
             "animData": [
                 {
                     "origLen": 15,
                     "pathId": -7818455135694473660
                 },
                 {
-                    "origLen": 78,
-                    "pathId": -9048868469436608486
-                },
-                {
                     "origLen": 89,
                     "pathId": 612267345055895853
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -9048868469436608486
                 }
             ],
             "pathId": 917984778909341731,
@@ -84,17 +91,19 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "わーい、ありがとっ！\n大事にするね♪",
-            "enText": "Yay, thanks! I'll take good care of it.",
+            "enText": "Yay! Thanks! My room could always use<n>more of\nthese! ♪",
             "nextBlock": 5,
             "origClipLength": 68,
+            "voiceIdx": 12,
+            "voiceSheetId": "051003001",
             "animData": [
-                {
-                    "origLen": 91,
-                    "pathId": -2898927324214430860
-                },
                 {
                     "origLen": 89,
                     "pathId": 4868724008080707004
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -2898927324214430860
                 }
             ],
             "pathId": -5589255964490614800,
@@ -104,22 +113,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 95,
-                    "pathId": -8204020207093005789
+                    "pathId": 1057163326720045448
                 },
                 {
                     "origLen": 95,
-                    "pathId": 1057163326720045448
+                    "pathId": -8204020207093005789
                 }
             ],
             "pathId": 3430623952412138526,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662155206
+    ]
 }

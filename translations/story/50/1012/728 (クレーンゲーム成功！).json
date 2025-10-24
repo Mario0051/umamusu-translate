@@ -1,26 +1,29 @@
 {
-    "version": 5,
-    "bundle": "LJGZX323TSGNXGMHVQABOSN7HJSVRGTA",
+    "version": 6,
+    "bundle": "KVH3UC4W5FEBTM76JIPPVQHB4UF5N3XJ",
     "type": "story",
     "storyId": "501012728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "よくやってくれたねえ、トレ公！\r\nありがとよ！",
-            "enText": "Nice work, Tre! Thank you!",
+            "enText": "Nice work there, Teach! Thanks!",
             "nextBlock": 2,
             "origClipLength": 75,
+            "voiceIdx": 13,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "これじゃ数が足りないな……",
-                    "enText": "That's not enough numbers. ……",
+                    "enText": "But this isn't nearly enough for your new dorm\nresidents...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "これじゃ数が足りないね……",
-                    "enText": "That's not enough numbers. ……",
+                    "enText": "But this isn't nearly enough for your new dorm\nresidents...",
                     "nextBlock": 2
                 }
             ],
@@ -31,11 +34,11 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": -9139311165577941938
+                    "pathId": 3581416195579351884
                 },
                 {
                     "origLen": 86,
-                    "pathId": 3581416195579351884
+                    "pathId": -9139311165577941938
                 }
             ],
             "pathId": -1054041710729921388,
@@ -45,9 +48,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "な～に、いいってことさ。\r\n人数分なくてもやりようはあるからね。",
-            "enText": "It's all right. Even if you don't have enough \npeople, there are ways to do it.",
+            "enText": "Nah, that's all right. I'll figure out a way<n>to make\nit work.",
             "nextBlock": 3,
             "origClipLength": 86,
+            "voiceIdx": 74,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 20,
@@ -55,11 +60,11 @@
                 },
                 {
                     "origLen": 97,
-                    "pathId": -51511838419502154
+                    "pathId": 1201924233161420894
                 },
                 {
                     "origLen": 97,
-                    "pathId": 1201924233161420894
+                    "pathId": -51511838419502154
                 }
             ],
             "pathId": 2471662493027707680,
@@ -69,9 +74,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "共用のスペースに飾るとかさ。\r\n大事なのは気持ちだからねぇ。",
-            "enText": "Or maybe they could display them in a common \nspace. It's the feeling that counts.",
+            "enText": "I could put it on display for everyone<n>instead. It's\nthe thought that counts,<n>right?",
             "nextBlock": 4,
             "origClipLength": 84,
+            "voiceIdx": 2,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 30,
@@ -79,11 +86,11 @@
                 },
                 {
                     "origLen": 95,
-                    "pathId": 7022786475121874419
+                    "pathId": 9088182974004359010
                 },
                 {
                     "origLen": 95,
-                    "pathId": 9088182974004359010
+                    "pathId": 7022786475121874419
                 }
             ],
             "pathId": -2567389636271697301,
@@ -93,17 +100,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "新入りにもバッチリ伝えとくよ。\r\nコイツはアタシの相棒からの気持ちだって！",
-            "enText": "I'll be sure to let the newcomer know exactly \nhow I feel. This guy is from my partner!",
+            "enText": "I'll be sure to let all the new residents<n>know that\nyou sent 'em over with love!",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 104,
-                    "pathId": -3141426234063524145
+                    "pathId": 3782895398483170984
                 },
                 {
                     "origLen": 104,
-                    "pathId": 3782895398483170984
+                    "pathId": -3141426234063524145
                 }
             ],
             "pathId": 8812879505933404082,
@@ -113,22 +122,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": -2052873695816222734
+                    "pathId": 8013120044374245793
                 },
                 {
                     "origLen": 72,
-                    "pathId": 8013120044374245793
+                    "pathId": -2052873695816222734
                 }
             ],
             "pathId": -2843567177987371999,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662157307
+    ]
 }

@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "CQVIHCG5WC2RXBFZERZ7EFDUJJUSXVIG",
+    "version": 6,
+    "bundle": "ZR22I6OVS4H3CZWRRITVA5QMXEYTWKHB",
     "type": "story",
     "storyId": "501013600",
     "title": "武者震い",
+    "enTitle": "Ready for a Challenge",
     "text": [
         {
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ついにレース本番。\r\n心の準備はよろしいですか？",
-            "enText": "The race is finally on. Are you ready?",
+            "enText": "It is finally my turn to race. Are you<n>ready?",
             "nextBlock": 2,
             "origClipLength": 76,
+            "voiceIdx": 55,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "とっくに！",
-                    "enText": "Long ago!",
+                    "enText": "Of course!",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": -7317432182788541821
+                    "pathId": 2767376979866477521
                 },
                 {
                     "origLen": 87,
-                    "pathId": 2767376979866477521
+                    "pathId": -7317432182788541821
                 }
             ],
             "pathId": -724559353759944981,
@@ -36,17 +39,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ええ。それでこそ私の……\r\nメジロのウマ娘のトレーナーというもの。",
-            "enText": "Yes, I am. That's what I call my…… trainer of \nhorsegirls in Mejiro.",
+            "enText": "Indeed. I'd expect nothing less of my—I<n>mean... of\nthe trainer to an Umamusume<n>from the esteemed\nMejiro family.",
             "nextBlock": 3,
             "origClipLength": 88,
+            "voiceIdx": 37,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -2464110999286571412
-                },
                 {
                     "origLen": 99,
                     "pathId": -8404025433218312404
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2464110999286571412
                 }
             ],
             "pathId": 5107569348027819533,
@@ -56,17 +61,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "フフッ！　ほどよい緊張感。\r\n体が熱くなってきましたわ……！",
-            "enText": "Phew! Just the right amount of tension. My \nbody is getting hot. ……!",
+            "enText": "Hehe! I'm getting all fired up! This is just<n>the\namount of tension I need.",
             "nextBlock": 4,
             "origClipLength": 84,
+            "voiceIdx": 0,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": 4631715099385033867
-                },
                 {
                     "origLen": 95,
                     "pathId": -1301616159891540844
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 4631715099385033867
                 }
             ],
             "pathId": -3676159359452534019,
@@ -76,22 +83,23 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "では、トレーナーさん。\r\n果たすべき夢のため……行って参ります！",
-            "enText": "Well then, trainer. I'm off to…… to fulfill \nthe dream I have to fulfill!",
+            "enText": "For the dream I must fulfill... Here I go!",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -1188405866731047336
-                },
                 {
                     "origLen": 97,
                     "pathId": 3557958576700500454
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -1188405866731047336
                 }
             ],
             "pathId": -1442159780584078539,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555055
+    ]
 }

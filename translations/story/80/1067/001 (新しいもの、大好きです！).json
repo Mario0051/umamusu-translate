@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "KWL6KVBBKB4DF4U2KAYMO6MU6WU52ZZZ",
+    "version": 6,
+    "bundle": "KWVBHHM3M2IZE2O7NXURBC4ZKSFAFX3N",
     "type": "story",
     "storyId": "801067001",
     "title": "新しいもの、大好きです！",
+    "enTitle": "I Love New Things!",
     "text": [
         {
             "jpName": "爽やかなウマ娘",
-            "enName": "Lively Classmate",
+            "enName": "Refreshed Umamusume",
             "jpText": "――くぅ～っ、爽快！\r\nやっぱお昼はメロンソーダに限るね！",
-            "enText": "—Ooooh, refreshing! I'll have a \nmelon soda for lunch any day!",
+            "enText": "Aaah, now that hits the spot! No lunch is<n>\ncomplete without some melon soda!",
             "nextBlock": 2,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -5066853398195767695
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 4342283148473540214
+                }
+            ],
             "pathId": -6686186778109877707,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "めろん、そーだ……？",
-            "enText": "Melon, yes…?",
+            "enText": "Melon soda?",
             "nextBlock": 3,
+            "origClipLength": 58,
+            "voiceIdx": 20,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 5261313772179029844
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 5110822692535093669
+                }
+            ],
             "pathId": -7120490087168803065,
             "blockIdx": 2
         },
@@ -27,8 +54,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ある日の昼下がり。カフェテリアで\r\nメロンソーダに興味を抱く\nサトノダイヤモンドを見かけた。",
-            "enText": "It's late afternoon. One afternoon, in the \ncafeteria, I saw Satono Diamond, who was \ninterested in a melon soda.",
+            "enText": "One early afternoon in the cafeteria, I<n>spot\nSatono Diamond looking very<n>interested in the\nmelon soda offered in<n>the soda fountain.",
             "nextBlock": 4,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 6362226290935747425
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -1188429683114412972
+                }
+            ],
             "pathId": 6477498934159849755,
             "blockIdx": 3
         },
@@ -36,8 +76,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "よし、私も飲んでみようっと♪\r\nメロンソーダは……これかな？",
-            "enText": "Okay, I'll have a drink too… \nMelon soda is… this?",
+            "enText": "Okay, I'll give it a taste as well. ♪ This<n>should be\nmelon soda, I presume?",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "voiceIdx": 0,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 948829908998332910
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 4483038873435652524
+                }
+            ],
             "pathId": 5862684977847298301,
             "blockIdx": 4
         },
@@ -45,17 +98,20 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして、彼女は手元のティーカップを\r\nうきうきとドリンクバーへ――",
-            "enText": "And then she took her teacup to \nthe drinks bar with gusto.",
+            "enText": "She produces a teacup and gets ready to<n>\ndispense some soda into it.",
             "nextBlock": 6,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……って、ちょっと待った！",
-                    "enText": "… wait a minute!",
+                    "enText": "Er, hang on a sec!",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "……って、ちょっと待って！",
-                    "enText": "… wait a minute!",
+                    "enText": "Er, hang on a sec!",
                     "nextBlock": 6
                 }
             ],
@@ -66,23 +122,36 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "はい？　なんでしょうか～？",
-            "enText": "Yes? What is it?",
+            "enText": "Yes? Is something the matter?",
             "nextBlock": 7,
+            "origClipLength": 61,
+            "voiceIdx": 32,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "ティーカップで飲むのか？",
-                    "enText": "Do you drink from a teacup?",
+                    "enText": "Are you really gonna drink it out of a teacup?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "ティーカップで飲むの？",
-                    "enText": "Do you drink from a teacup?",
+                    "enText": "Are you really gonna drink it out of a teacup?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "メロンソーダは初めて？",
-                    "enText": "Never had a melon soda before?",
+                    "enText": "Is this your first time trying melon soda?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2551920522689174682
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -4562681203464910389
                 }
             ],
             "pathId": 169791224040377577,
@@ -92,23 +161,36 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "はい？　なんでしょうか～？",
-            "enText": "Yes? What is it?",
+            "enText": "Yes? Is something the matter?",
             "nextBlock": 8,
+            "origClipLength": 61,
+            "voiceIdx": 32,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "ティーカップで飲むのか？",
-                    "enText": "Do you drink from a teacup?",
+                    "enText": "Are you really gonna drink it out of a teacup?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "ティーカップで飲むの？",
-                    "enText": "Do you drink from a teacup?",
+                    "enText": "Are you really gonna drink it out of a teacup?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "メロンソーダは初めて？",
-                    "enText": "Never had a melon soda before?",
+                    "enText": "Is this your first time trying melon soda?",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 3229807439198046561
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -1732987335373742871
                 }
             ],
             "pathId": 7771913167115721379,
@@ -118,8 +200,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "その通りですが……\r\nあっ、作法が間違っておりましたか？",
-            "enText": "That's right… Oh, I've got the \netiquette wrong, haven't I?",
+            "enText": "Well, yes... Oh, is this not the correct<n>way to do\nit?",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "voiceIdx": 20,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -9146127975436291957
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 8869693580109259263
+                }
+            ],
             "pathId": 8618297527785553325,
             "blockIdx": 8
         },
@@ -127,8 +222,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "では正しい作法を教えていただけますか？\r\n新しいことに挑戦するの、大好きですから！",
-            "enText": "So can you teach us the right way to do it? \nBecause I love to try new things!",
+            "enText": "Do you mind telling me the proper<n>procedure? I\njust love experiencing new<n>things!",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "voiceIdx": 53,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4820041057818530008
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -8506721217845671630
+                }
+            ],
             "pathId": -5023581802644832282,
             "blockIdx": 9
         },
@@ -136,8 +244,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "メロンソーダはグラスで飲むのが一般的だと\r\nサトノダイヤモンドに説明した。が――",
-            "enText": "I explained to Satno Diamond that melon soda \nis usually drunk in a glass. But—",
+            "enText": "I explain to Satono Diamond that usually<n>people\ndrink melon soda out of a glass.<n>However...",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -6710710594988621272
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 7226147151791464346
+                }
+            ],
             "pathId": 2461155707982919753,
             "blockIdx": 10
         },
@@ -145,8 +266,25 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "なるほど、承知いたしました！",
-            "enText": "Well, I understand!",
+            "enText": "Oh, now I understand!",
             "nextBlock": 12,
+            "origClipLength": 63,
+            "voiceIdx": 9,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 1032310338595095438
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 7986980137585826988
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -474275116983919925
+                }
+            ],
             "pathId": 5066327964167246383,
             "blockIdx": 11
         },
@@ -154,13 +292,26 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "でしたら今度、お父さまの\r\nクリスタルグラスを借りて参ります。",
-            "enText": "I'll borrow your father's crystal \nglasses next time.",
+            "enText": "I'll ask Father to borrow some of his<n>crystalware,\nthen.",
             "nextBlock": 13,
+            "origClipLength": 85,
+            "voiceIdx": 0,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "……クリスタルグラス？",
-                    "enText": "… Crystal glass?",
+                    "enText": "...Crystalware?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7517066586919601203
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1642585292105368864
                 }
             ],
             "pathId": -5160186619311017472,
@@ -170,8 +321,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "はい。海外から買いつけたもので、\r\nとっても綺麗ですから――",
-            "enText": "Yes. I bought it from abroad. \nIt's very beautiful.",
+            "enText": "Why yes. It's a wonderfully exquisite<n>collection he\nbought overseas.",
             "nextBlock": 14,
+            "origClipLength": 84,
+            "voiceIdx": 80,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -5332665126900204676
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -2411559087282504804
+                }
+            ],
             "pathId": 4407746483190373270,
             "blockIdx": 13
         },
@@ -179,18 +343,31 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "メロンソーダの色とも合いそうです♪",
-            "enText": "It seems to match the colour \nof the melon soda.",
+            "enText": "I'm sure the melon soda will just look<n>extravagant\nin it!",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "voiceIdx": 3,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "……いやいや、待った！",
-                    "enText": "… No, no, wait!",
+                    "enText": "Wait, hold on!",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "……いやいや、待って！",
-                    "enText": "… No, no, wait!",
+                    "enText": "Wait, hold on!",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 2082478881434982903
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -8607466793164741890
                 }
             ],
             "pathId": 163972233505165876,
@@ -200,8 +377,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "ええっ？",
-            "enText": "Huh?",
+            "enText": "Oh dear, is that no good either?",
             "nextBlock": 16,
+            "origClipLength": 54,
+            "voiceIdx": 32,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 3719025779000373861
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -7744282938544947413
+                }
+            ],
             "pathId": -3347231980387366037,
             "blockIdx": 15
         },
@@ -209,8 +399,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "……なんだか、サトノダイヤモンドの\r\nスケールの違いを感じる出来事だった。",
-            "enText": "… It was an event that somehow reminded me \nof the scale of Satono Diamond.",
+            "enText": "Satono Diamond really is on a whole<n>other level...",
             "nextBlock": -1,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4288427735335915100
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -1691835171066601505
+                }
+            ],
             "pathId": -6794657469642130644,
             "blockIdx": 16
         },
@@ -218,8 +421,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "はい！　うふふっ、なんだか\r\n眺めているだけでわくわくします。",
-            "enText": "Yes! I'm so excited just looking at it.",
+            "enText": "It is! Hee hee! I'm getting so excited just<n>looking\nat it!",
             "nextBlock": 18,
+            "origClipLength": 85,
+            "voiceIdx": 48,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7188796143324801338
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 3910723256683533569
+                }
+            ],
             "pathId": 8654319792275140960,
             "blockIdx": 17
         },
@@ -227,13 +443,26 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "――ところで、メロンソーダには\r\nどれくらいのメロンが入っているのでしょう？",
-            "enText": "—How much melon is in a \nmelon soda, by the way?",
+            "enText": "By the way, just how much melon is in<n>this melon\nsoda?",
             "nextBlock": 19,
+            "origClipLength": 94,
+            "voiceIdx": 52,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "え？",
-                    "enText": "Huh?",
+                    "enText": "Uh, what?",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 8576709419260408487
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4948351843810879290
                 }
             ],
             "pathId": -4558754243771775529,
@@ -243,13 +472,30 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "え？　『メロンソーダ』、なのですよね？",
-            "enText": "Huh? Melon soda, isn't it?",
+            "enText": "That can't be an odd question... After<n>all, it's\ncalled <i>melon</i> soda, correct?",
             "nextBlock": 20,
+            "origClipLength": 69,
+            "voiceIdx": 20,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "いや、これはメロンパンみたいなもので……",
-                    "enText": "No, this is like a melon pan…",
+                    "enText": "Well, it's kind of like how melon bread also\ndoesn't—",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 4535444774711588924
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -2597623842429431906
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 4867444440029592229
                 }
             ],
             "pathId": -2623913759871454884,
@@ -259,8 +505,25 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "めろんぱん……？",
-            "enText": "Melonpan…?",
+            "enText": "Melon bread?",
             "nextBlock": 21,
+            "origClipLength": 55,
+            "voiceIdx": 79,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -797769932389310469
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -9017034377271643034
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 2965506677003514983
+                }
+            ],
             "pathId": 5923175017340180839,
             "blockIdx": 20
         },
@@ -268,8 +531,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "まあ、それも初めて聞きました！\r\nその『メロンパン』？　にも\nたくさんメロンが入っているんですか！？",
-            "enText": "Well, I've never heard of that either! \nThat \"melon bread\"? Does it have \na lot of melon in it?",
+            "enText": "Oh my word! Whatever is that? Is it<n>bread filled\nto the grain with melons?",
             "nextBlock": 22,
+            "origClipLength": 110,
+            "voiceIdx": 63,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": 8286602178642362062
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -2961273282257627289
+                }
+            ],
             "pathId": 7936325390433639599,
             "blockIdx": 21
         },
@@ -277,8 +553,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "育ってきた環境の違いだろうか――\r\nなかなか伝わらず、説明するのが大変だった。",
-            "enText": "Maybe it's the difference in our upbringing \n- it's hard to get through to people and \nit's hard to explain.",
+            "enText": "I feel like I'm talking to a being raised<n>on another\nplanet. Nothing gets through<n>to Satono Diamond\nno matter how I try<n>to explain things.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -4140852583387401273
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -4784491492217148519
+                }
+            ],
             "pathId": -262848237000197986,
             "blockIdx": 22
         }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "7M2JZFLGBID42R4BJRDG36PDSBDV3ZMY",
+    "version": 6,
+    "bundle": "IAZZM3DZZG6ODQ4RU4HAPBU7FC5W6LKJ",
     "type": "story",
     "storyId": "501005700",
     "title": "寝不足で……",
+    "enTitle": "Sleep Deprived",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "休み明け。\r\nフジキセキとのミーティングのため、\nトレーナー室を訪れたところ――",
-            "enText": "After the vacations. I just visited \nthe trainer's office for a meeting \nwith Fujikiseki.",
+            "enText": "We're just coming back from break and<n>I'm\nscheduled to have a meeting with<n>Fuji Kiseki. I\nstep in my office to find...",
             "nextBlock": 2,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6699965456086271243,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……すぅ、すぅ……。",
-            "enText": "…… Soooo, soooo ……",
+            "enText": "<i>Zzz... Zzz...</i>",
             "nextBlock": 3,
             "origClipLength": 142,
+            "voiceIdx": 40,
+            "voiceSheetId": "051005001",
             "pathId": -608063132065502841,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……ん？",
-            "enText": "…… hmm?",
+            "enText": "Ngh?",
             "nextBlock": 4,
             "origClipLength": 50,
+            "voiceIdx": 30,
+            "voiceSheetId": "051005001",
             "pathId": -995589462069954932,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ト、トレーナーさん……！？\r\nもしかして私、眠って――",
-            "enText": "Tomi, trainer, ……! Maybe I fell asleep and…",
+            "enText": "T-Trainer! I was just resting my eyes, I<n>swear!",
             "nextBlock": 5,
             "origClipLength": 80,
+            "voiceIdx": 25,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "そりゃもうぐっすりと",
-                    "enText": "That's a good night's sleep.",
+                    "enText": "You can't lie to me. You were snoring.",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 126,
-                    "pathId": 7474430053235323326
-                },
-                {
                     "origLen": 188,
                     "pathId": 5199329849255193312
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 7474430053235323326
                 }
             ],
             "pathId": 1046020363573173757,
@@ -66,17 +75,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "あぁ……ごめん。\r\nお見苦しいところを見せてしまったね。",
-            "enText": "Oh…… sorry. I'm sorry I showed you the \nunflattering side of me.",
+            "enText": "<i>Sigh.</i> I'm sorry you had to see me like<n>that.",
             "nextBlock": 6,
             "origClipLength": 81,
+            "voiceIdx": 65,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 122,
-                    "pathId": -3954108529279483988
-                },
                 {
                     "origLen": 92,
                     "pathId": -8696090103196749311
+                },
+                {
+                    "origLen": 122,
+                    "pathId": -3954108529279483988
                 }
             ],
             "pathId": -8875051345699058797,
@@ -86,17 +97,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "寮の子がホームシックにかかってしまってさ。\r\n眠れるまで傍にいてあげたんだけど……ふぁ。",
-            "enText": "I had a kid in my dorm who got \nhomesick. I stayed by her side \nuntil she fell asleep.…… Huh.",
+            "enText": "One of my residents was inconsolable<n>with\nhomesickness last night, so I stayed<n>by her side\nuntil she fell asleep...<n><i>Yaaawn.</i>",
             "nextBlock": 7,
             "origClipLength": 102,
+            "voiceIdx": 105,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 103,
-                    "pathId": 2357783499119176996
-                },
                 {
                     "origLen": 113,
                     "pathId": -9162110722401451961
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 2357783499119176996
                 }
             ],
             "pathId": 3940281573044549841,
@@ -106,22 +119,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "寮の子が落ち着いて眠れた代わりに、\r\nフジキセキはよく眠れなかったようだ。",
-            "enText": "Instead of the kids in the dorms \nbeing able to sleep calmly, Fujikiseki \ndidn't seem to sleep well.",
+            "enText": "Fuji Kiseki must not have gotten enough<n>sleep\nherself because of that. She looks<n>exhausted.",
             "nextBlock": -1,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 104,
-                    "pathId": -3776234632974389810
+                    "pathId": -7301940757802139178
                 },
                 {
                     "origLen": 104,
-                    "pathId": -7301940757802139178
+                    "pathId": -3776234632974389810
                 }
             ],
             "pathId": 8184038903394750564,
             "blockIdx": 7
         }
-    ],
-    "modified": 1657555054
+    ]
 }

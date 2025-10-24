@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "KHGKM26IJCPWLRKD5OPEKAMASUEA7Z3B",
+    "version": 6,
+    "bundle": "ZIOIFCOMSMVIOIFFCML4ZTADL5ND2AEI",
     "type": "story",
     "storyId": "801021002",
     "title": "負けられん戦い！",
+    "enTitle": "A Battle I Can't Lose!",
     "text": [
         {
-            "jpName": "モノローグ",
+            "jpName": "",
             "enName": "",
             "jpText": "ある日、バーゲンセールが\r\n気になったので、1人で覗きに向かった。",
-            "enText": "One day, I was curious about a bargain sale, \nso I went alone to have a look.",
+            "enText": "One day, I decide to check out a sale<n>that caught\nmy attention.",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2737620933095006483,
             "blockIdx": 1
         },
@@ -18,8 +22,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "くっそぉぉぉぉ～！\r\nこない激しい戦いになるなんて……。",
-            "enText": "Oh, shit! I can't believe we're \nin this fierce fight…",
+            "enText": "DAMMIT! I wasn't expectin' the<n>competition to be\nthis fierce...",
             "nextBlock": 3,
+            "origClipLength": 63,
+            "voiceIdx": 15,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -2623220526650595891
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 1686051247706095738
+                }
+            ],
             "pathId": 2765347853473116347,
             "blockIdx": 2
         },
@@ -27,18 +44,31 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "家計のことを考えると、引くわけには\r\nいかんけど……この状況は――",
-            "enText": "I can't pull out of this situation because \nof my family's financial situation…",
+            "enText": "Money's tight, and I can't afford to lose<n>out on\nthese deals. B-but this...",
             "nextBlock": 4,
+            "origClipLength": 66,
+            "voiceIdx": 35,
+            "voiceSheetId": "051021001",
             "choices": [
                 {
                     "jpText": "大変そうだな",
-                    "enText": "Sounds like a lot of work.",
+                    "enText": "Looks like a war zone here.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "大変そうだね",
-                    "enText": "That sounds like a lot of work.",
+                    "enText": "Looks like a war zone here.",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1878250187013853342
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4884876269028431295
                 }
             ],
             "pathId": 4931006410574764359,
@@ -48,8 +78,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ん？　おぉ、アンタか。\r\n奇遇やな――",
-            "enText": "Hmm? Oh, it's you. What a coincidence.",
+            "enText": "Hm? Oh, it's just you. Didn't expect to<n>see ya—",
             "nextBlock": 5,
+            "origClipLength": 57,
+            "voiceIdx": 30,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 4689788438193373738
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 5323251620996691783
+                }
+            ],
             "pathId": 6547223562850826474,
             "blockIdx": 4
         },
@@ -59,6 +102,19 @@
             "jpText": "うおっと！",
             "enText": "Whoa!",
             "nextBlock": 6,
+            "origClipLength": 48,
+            "voiceIdx": 25,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 13,
+                    "pathId": -7600813120812145015
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 5499263567857459058
+                }
+            ],
             "pathId": -8086652735079925513,
             "blockIdx": 5
         },
@@ -66,23 +122,36 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "……ぬぐぐ、負けへんで～！\r\n目当てのもんを手に入れるまではぁぁぁ……！",
-            "enText": "…Nugu, don't lose~! Not until \nI get what I want…!",
+            "enText": "Grrr, I'm not backin' down! This<n>Umamusume isn't\ngoin' home till she's<n>got the goods!",
             "nextBlock": 7,
+            "origClipLength": 100,
+            "voiceIdx": 16,
+            "voiceSheetId": "051021001",
             "choices": [
                 {
                     "jpText": "人の流れを掴め！",
-                    "enText": "Get the people flowing!",
+                    "enText": "Get a grasp on the crowd's movements!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "人の流れを掴もう！",
-                    "enText": "Let's get the people flowing!",
+                    "enText": "Get a grasp on the crowd's movements!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "ライバルをよく観察しよう",
-                    "enText": "Let's take a closer look at our rivals",
+                    "enText": "Observe your rivals closely!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 8441321643468509233
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -1406600093362564515
                 }
             ],
             "pathId": 1234165317559703374,
@@ -92,23 +161,36 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "……ぬぐぐ、負けへんで～！\r\n目当てのもんを手に入れるまではぁぁぁ……！",
-            "enText": "…Nugu, don't lose~! Not until \nI get what I want…!",
+            "enText": "Grrr, I'm not backin' down! This<n>Umamusume isn't\ngoin' home till she's<n>got the goods!",
             "nextBlock": 8,
+            "origClipLength": 100,
+            "voiceIdx": 16,
+            "voiceSheetId": "051021001",
             "choices": [
                 {
                     "jpText": "人の流れを掴め！",
-                    "enText": "Get the people flowing!",
+                    "enText": "Get a grasp on the crowd's movements!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "人の流れを掴もう！",
-                    "enText": "Let's get the people flowing!",
+                    "enText": "Get a grasp on the crowd's movements!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "ライバルをよく観察しよう",
-                    "enText": "Let's take a closer look at our rivals",
+                    "enText": "Observe your rivals closely!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 5789903061747600354
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 7013258873209168239
                 }
             ],
             "pathId": -1438452536737668207,
@@ -118,8 +200,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "せ、せやな！\r\nレースん時みたく、よーく見て……。",
-            "enText": "Yes, yes! Take a good look… \njust like at the races.",
+            "enText": "Y-you're right! I gotta watch 'em just like<n>in my\nraces...",
             "nextBlock": 9,
+            "origClipLength": 61,
+            "voiceIdx": 34,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -3416161051219262213
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -6784987948194917603
+                }
+            ],
             "pathId": 7511582415298198348,
             "blockIdx": 8
         },
@@ -127,8 +222,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "今やっ！\r\n内側から回り込んで攻めるで！",
-            "enText": "Now! We'll go around the inside and attack!",
+            "enText": "Now's my chance! I'mma flank 'em from<n>the inside\nand attack 'em real good!",
             "nextBlock": 10,
+            "origClipLength": 58,
+            "voiceIdx": 5,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -4496207742405435982
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2319295476040749568
+                }
+            ],
             "pathId": 3393710711926031799,
             "blockIdx": 9
         },
@@ -136,8 +244,11 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "おりゃおりゃおりゃーっ！\r\n浪花のど根性、見せたるわーーーーー！！",
-            "enText": "Yes, yes, yes, yes! I'll show \nyou the dokozuna of Naniwa!",
+            "enText": "Take dat! Outta my way! I'll show ya<n>what an\nOsaka shopper's really like!",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "voiceIdx": 10,
+            "voiceSheetId": "051021001",
             "pathId": 7951005281001572404,
             "blockIdx": 10
         },
@@ -145,8 +256,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "はぁ、はぁ……。\r\n潰されるかと思ったわ～！",
-            "enText": "Haha, haha… I thought I was \ngoing to be crushed~!",
+            "enText": "<i>Huff... huff...</i> I thought I was gonna get<n>crushed in\nthere!",
             "nextBlock": 12,
+            "origClipLength": 70,
+            "voiceIdx": 58,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": -4944080565014283663
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 8656420580004173738
+                }
+            ],
             "pathId": 5169102891906736570,
             "blockIdx": 11
         },
@@ -154,13 +278,26 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "けど、見たやろウチの脚さばき！\r\nざっと15人抜きはしたかもしれへんな！",
-            "enText": "But you saw my legs! I think I might have \npassed about 15 people!",
+            "enText": "But how's <i>that</i> for speed?! I left about<n>fifteen\nother shoppers in the dust!",
             "nextBlock": 13,
+            "origClipLength": 68,
+            "voiceIdx": 6,
+            "voiceSheetId": "051021001",
             "choices": [
                 {
                     "jpText": "よっ“白い稲妻”！！",
-                    "enText": "Hey, White Inazuma!",
+                    "enText": "White Lightning strikes again!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2428102679425197770
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 9060114894663714705
                 }
             ],
             "pathId": 4878768514921034279,
@@ -170,8 +307,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "せやろっ？\r\nもっと褒めて褒めて～！",
-            "enText": "Isn't that right? More praise, more praise!",
+            "enText": "Ya better believe it! C'mon, lemme me<n>hear ya\nsay it again! Three cheers for<n>White Lightning!",
             "nextBlock": -1,
+            "origClipLength": 56,
+            "voiceIdx": 1,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 4873772090788590465
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 8157613976039220827
+                }
+            ],
             "pathId": -3726439735402276135,
             "blockIdx": 13
         },
@@ -179,8 +329,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ま、それも一理あるな。\r\n一旦、戦線離脱や！",
-            "enText": "Well, you've got a point. Once \nwe're out of the way!",
+            "enText": "I guess that's one way to approach it.<n>Time to\ntake a step back from the front<n>line!",
             "nextBlock": 15,
+            "origClipLength": 59,
+            "voiceIdx": 9,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -8604335744466600456
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 7384152549481661815
+                }
+            ],
             "pathId": 8246641850534453088,
             "blockIdx": 14
         },
@@ -188,8 +351,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "敵さんもこっちの動きを理解しとる……。\r\n正面から突っ込んでもはじき出されるだけや。",
-            "enText": "The enemy knows what we're doing. \n… If you run at them head-on, \nyou'll just get kicked out.",
+            "enText": "The enemy knows my movements, so<n>they'll just\nsend me flyin' if I try to dive<n>in from the front.",
             "nextBlock": 16,
+            "origClipLength": 72,
+            "voiceIdx": 15,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -5204357387111864199
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 2476358374411114988
+                }
+            ],
             "pathId": 9086353343682542773,
             "blockIdx": 15
         },
@@ -197,13 +373,26 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "特に、虎柄の服着たおばちゃん――\r\n“鉄壁のミチヨ”には注意せなアカン。",
-            "enText": "In particular, you have to watch \nout for the tiger-striped lady \n- \"Michiyo the Iron Wall\".",
+            "enText": "I gotta be extra cautious with that older<n>lady in\nthe tiger stripes. That's Iron Wall<n>Michiyo, and\nshe's trouble.",
             "nextBlock": 17,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
-                    "jpText": "“鉄壁の“……“ミチヨ”……",
-                    "enText": "\"Ironclad\"… \"Michiyo\"…",
+                    "jpText": "“鉄壁の”……“ミチヨ”……",
+                    "enText": "Iron Wall... Michiyo...",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -4028580730624584001
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4196623915294672996
                 }
             ],
             "pathId": 8922524557619241648,
@@ -213,8 +402,25 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ライバルの進路を徹底的に塞いで、絶対\r\n前に通さへん……常連の間では有名なヤツや。",
-            "enText": "She's famous amongst the… regulars for \nblocking the path of her rivals and never \nletting them through.",
+            "enText": "She shuts out all her rivals' paths so no<n>one can\nget through... All the regulars<n>know her.",
             "nextBlock": 18,
+            "origClipLength": 71,
+            "voiceIdx": 37,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 4321374018804519814
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -1162791394225006225
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8839743823620258121
+                }
+            ],
             "pathId": 6572856979802890032,
             "blockIdx": 17
         },
@@ -222,8 +428,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ミチヨを避けて、目当てに辿り着くには\r\n―――よし、このルートやな！",
-            "enText": "To avoid Michiyo and get to where we want to \ngo, we'll have to go this way.",
+            "enText": "If I wanna avoid Michiyo and get to what<n>I want...\nThen I've gotta go this way!",
             "nextBlock": 19,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -7727290860580050309
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4584887507339231852
+                }
+            ],
             "pathId": -2860364591010172431,
             "blockIdx": 18
         },
@@ -231,8 +450,21 @@
             "jpName": "タマモクロス",
             "enName": "Tamamo Cross",
             "jpText": "ほな、また行ってくるわ！\r\nウチの生きざま、目に焼きつけといて！！",
-            "enText": "Well, I'll be back! You'll see how we live!",
+            "enText": "A'ight, I'm gonna dive in! Watch and<n>learn,\nrookie!",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "voiceIdx": 10,
+            "voiceSheetId": "051021001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -702139341930442299
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3780883863438060361
+                }
+            ],
             "pathId": 49344138846418890,
             "blockIdx": 19
         }

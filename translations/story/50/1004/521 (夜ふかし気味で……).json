@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "WBLC52GFQ3TQQR6DO4DNCB6Q6CSCXGTO",
+    "version": 6,
+    "bundle": "LTRTOTTOKJBOBEMKRGQCY2MLJTY4KXF4",
     "type": "story",
     "storyId": "501004521",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "うーんっ……ふああ……。",
-            "enText": "Hmmm … ah …",
+            "enText": "Ah... ah... <i>Yawn...</i>",
             "nextBlock": 2,
+            "origClipLength": 60,
+            "voiceIdx": 105,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "眠いのか？",
@@ -19,8 +23,22 @@
                 },
                 {
                     "jpText": "眠いの？",
-                    "enText": "Are you sleepy? ",
+                    "enText": "Are you sleepy?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 5411586165673974554
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6779477185057195400
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1783668677164906379
                 }
             ],
             "pathId": 1523063557392007703,
@@ -30,8 +48,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふふっ、ちょっとね。\r\n昨日はディープなナイトだったわ。",
-            "enText": "Hmmm…sort of. It was a deep\nnight last night.",
+            "enText": "Hehe, a little bit... I had a long night<n>yesterday.",
             "nextBlock": 3,
+            "origClipLength": 81,
+            "voiceIdx": 2,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": 963936465817031017
+                },
+                {
+                    "origLen": 92,
+                    "pathId": -950067747931226903
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8268472630417296809
+                }
+            ],
             "pathId": 8497303897384600995,
             "blockIdx": 2
         },
@@ -39,8 +74,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ナウいグッズを扱ってるお店があってね。\r\nお家用のミラーボールを買ったの。",
-            "enText": "There's a store that sells some\nreally cool stuff. I bought a\nmirror ball for my house.",
+            "enText": "I went to a store that has all kinds of<n>cool stuff\nand bought a disco ball for my<n>house.",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6042318098991825823
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -1124023861100804656
+                }
+            ],
             "pathId": 7358576723967194868,
             "blockIdx": 3
         },
@@ -48,8 +96,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "おかげで、ディスコ並の\r\nミュージックフィーバーだったわ。",
-            "enText": "It was music fever on par with a disco.",
+            "enText": "Unsurprisingly, I developed a severe<n>case of disco\nfever and ended up<n>dancing all night...",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -8304083712847595787
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1694652511964975628
+                }
+            ],
             "pathId": 8790807580278207579,
             "blockIdx": 4
         },
@@ -57,8 +118,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふああ……。\r\nとはいえ、寝不足だわ～……。",
-            "enText": "Huh… I'm not sleeping well, though - …",
+            "enText": "Uuugh... I'm so sleepy...",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": 60,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 1699935005220202673
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 4527945034254393290
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 9042973316093372045
+                }
+            ],
             "pathId": 3969297812458732109,
             "blockIdx": 5
         }

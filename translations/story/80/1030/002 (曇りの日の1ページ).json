@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "4FRKDVFOVSXP2T7KFYPLJNIVU5R6Q5LU",
+    "version": 6,
+    "bundle": "7HNESAMUNWLCTTMELCKRVKA22UUO45IO",
     "type": "story",
     "storyId": "801030002",
     "title": "曇りの日の1ページ",
+    "enTitle": "A Page About Cloudy Weather",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、1人廊下を歩いていると、物憂げな\r\n顔をしたライスシャワーが目に入った。",
-            "enText": "One day, as I was walking alone \nin the corridor, I saw a languid-looking \nrice shower.",
+            "enText": "One day, while I'm walking down the<n>hallway, I\nnotice Rice Shower looking<n>rather gloomy.",
             "nextBlock": 2,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7494475990889514126,
             "blockIdx": 1
         },
@@ -18,13 +22,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "うぅ。\r\nどうしよう……どうしよう……。",
-            "enText": "Ugh. What should I do?… What should I do?…",
+            "enText": "Oh... What do I do? What do I do...",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "voiceIdx": 34,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "何かあったの？",
-                    "enText": "What's going on?",
+                    "enText": "Did something happen?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 5576054668046861842
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 6010595535928667687
                 }
             ],
             "pathId": 6715944715085339990,
@@ -34,8 +51,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ひゃあっ！？\r\n……あ、こ、こんにちは……！",
-            "enText": "Hyah!… Oh, hello there…!",
+            "enText": "Eeep! O-oh, hello!",
             "nextBlock": 4,
+            "origClipLength": 73,
+            "voiceIdx": 25,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 5160542484373397007
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -8352295057115677412
+                }
+            ],
             "pathId": -2190796945596008073,
             "blockIdx": 3
         },
@@ -43,8 +73,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あのね……天気予報で、\r\n『明日は豪雨ですよ』って言ってたの。",
-            "enText": "You know, the… weather forecast said that \nthere would be torrential rain tomorrow.",
+            "enText": "Um... Nothing happened, but... Well, the<n>weather\nforecast says there'll be heavy<n>rain tomorrow.",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "voiceIdx": 88,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 2780096762845012487
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2404712797656197298
+                }
+            ],
             "pathId": -6158632043567562796,
             "blockIdx": 4
         },
@@ -52,18 +95,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "けどライス……レースが近いから\r\n明日はいっぱい走りたいなって思って……。",
-            "enText": "But Rice… race is coming up, so I thought \nI'd run a lot tomorrow…",
+            "enText": "I was planning to train a lot tomorrow<n>since I've\ngot a race coming up, but<n>now... Oh, I don't know\nwhat to do!",
             "nextBlock": 6,
+            "origClipLength": 93,
+            "voiceIdx": 35,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "体育館を借りて走ろう！",
-                    "enText": "Let's hire a gym and run!",
+                    "enText": "Rent out the gymnasium and run there!",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "てるてる坊主を作ろう！",
-                    "enText": "Let's make a teru teru bozu!",
+                    "enText": "Make some sunshine dolls to ward off the rain!",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -8917687070738093739
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -1564557431305076761
                 }
             ],
             "pathId": 7592752332302297355,
@@ -73,8 +129,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "コースは再現できないものの、\r\n体育館を借りて直線距離で加速する\nトレーニングができると提案した。",
-            "enText": "Although the course could not be recreated, \nit was suggested that the gymnasium could be \nhired to train the athletes to accelerate in \na straight line.",
+            "enText": "It won't be the same as running on a<n>track, but I\nsuggest she train in the gym<n>so she can practice\nher acceleration in<n>straight sprints.",
             "nextBlock": 7,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -1419305015551711858
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 5674376386070591663
+                },
+                {
+                    "origLen": 180,
+                    "pathId": 4417855467753378152
+                }
+            ],
             "pathId": -4459146688949756228,
             "blockIdx": 6
         },
@@ -82,8 +155,25 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "それ、いいかも。\r\n……あっ！",
-            "enText": "That could be good… Ah!",
+            "enText": "That might just work!\n...Oh!",
             "nextBlock": 8,
+            "origClipLength": 64,
+            "voiceIdx": 31,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7416875680197968510
+                },
+                {
+                    "origLen": 148,
+                    "pathId": -6195807898516547229
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8916349078907779733
+                }
+            ],
             "pathId": -1178485131010709370,
             "blockIdx": 7
         },
@@ -91,8 +181,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "けど、それだと他の子が体育館を\r\n使えなくなっちゃうんじゃないかな……？",
-            "enText": "But wouldn't that mean that other kids \nwouldn't be able to use the gym…?",
+            "enText": "But if I rent it out for myself, doesn't<n>that mean\nnobody else will be able to<n>use the gym?",
             "nextBlock": 9,
+            "origClipLength": 91,
+            "voiceIdx": 21,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 4982637152904648297
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 6583253707626500598
+                }
+            ],
             "pathId": -6074683185980246280,
             "blockIdx": 8
         },
@@ -100,8 +203,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "他のウマ娘も誘うので、彼女たちと一緒に\r\nトレーニングすればいいと言うと、\nライスシャワーは安心したようだった。",
-            "enText": "Rice Shower seemed relieved when we \ntold her that we would invite the other \ngirls to train with us, and that she \ncould do so with them.",
+            "enText": "I suggest that she invite other<n>Umamusume to\ntrain with her, and she<n>seems much happier with\nthe idea after<n>that.",
             "nextBlock": 10,
+            "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -3864945933949547962
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -6696501919016809350
+                }
+            ],
             "pathId": -3961555249543784365,
             "blockIdx": 9
         },
@@ -109,8 +225,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……ありがとう！\r\nえへへ、楽しみだなぁ！",
-            "enText": "Thanks…! Ehehe, I'm looking forward to it!",
+            "enText": "Yeah, that makes sense! Thanks for your<n>\nsuggestion! Ehehe, I'm excited to run<n>tomorrow!",
             "nextBlock": 11,
+            "origClipLength": 72,
+            "voiceIdx": 13,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -1715350984460404046
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3375900419673374416
+                }
+            ],
             "pathId": -7240895312631936322,
             "blockIdx": 10
         },
@@ -118,8 +247,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "かくして開催されたトレーニングは、\r\n大きなトラブルもなく、無事に終了した。",
-            "enText": "The training session went \noff without a hitch.",
+            "enText": "And with that, her training session goes<n>off\nwithout a hitch.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 17,
+                    "pathId": -6489357484888940128
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -9050672192752146376
+                }
+            ],
             "pathId": 7509806957145769230,
             "blockIdx": 11
         },
@@ -127,8 +269,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "うん……！\r\nたくさん作ったら、きっと晴れるよねっ。",
-            "enText": "Yeah…! If you make lots of them, \nit will be sunny, I'm sure.",
+            "enText": "That's a great idea! I'm sure the skies will<n>clear if\nwe make a lot of them.",
             "nextBlock": 13,
+            "origClipLength": 78,
+            "voiceIdx": 9,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 7775221422489526430
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 6655224570821415571
+                }
+            ],
             "pathId": -8074513418007264806,
             "blockIdx": 12
         },
@@ -136,8 +291,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "かわいい子……作ろうね。\r\nライスは青いてるてる坊主がいいなぁ……。",
-            "enText": "Let's make a cute little… I like the blue \nteru teru bozu for rice…",
+            "enText": "Let's make really cute ones. I want to<n>make a blue\none...",
             "nextBlock": 14,
+            "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -3968977987857939192
+                },
+                {
+                    "origLen": 112,
+                    "pathId": 823006864713301261
+                }
+            ],
             "pathId": 4224976503332378918,
             "blockIdx": 13
         },
@@ -145,8 +313,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……あっ！\r\nでもでもっ、やっぱりだめだよ……。",
-            "enText": "… Ah! But still, you can't…",
+            "enText": "Oh! But... No, this won't work...",
             "nextBlock": 15,
+            "origClipLength": 76,
+            "voiceIdx": 34,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 8344003151495727883
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6520102432695333050
+                }
+            ],
             "pathId": -8062299429379980059,
             "blockIdx": 14
         },
@@ -154,18 +335,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ライスがやると、もっと大雨になっちゃう\r\nかも。だから……。",
-            "enText": "If Rice does it, it will probably rain even \nharder. So please visit…",
+            "enText": "If I make them, they'll probably just<n>bring a whole\nstorm down on us<n>instead...",
             "nextBlock": 16,
+            "origClipLength": 84,
+            "voiceIdx": 22,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "俺もいっぱい作るから、大丈夫",
-                    "enText": "I'll make lots of food too, don't worry.",
+                    "enText": "Don't worry. I'll make a whole bunch of them\ntoo.",
                     "nextBlock": 16
                 },
                 {
                     "jpText": "私もいっぱい作るから、大丈夫",
-                    "enText": "Don't worry, I make a lot too!",
+                    "enText": "Don't worry. I'll make a whole bunch of them\ntoo.",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": -6115232682607183681
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 2303279778644467879
                 }
             ],
             "pathId": 8281835711190992053,
@@ -175,8 +369,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……そっか。それなら安心だね！\r\nライス、がんばるよっ……！",
-            "enText": "… I see. That's a relief! \nI'll do my best, Rice…!",
+            "enText": "Really? What a relief! I'm sure they'll<n>work fine if\n<i>you</i> do it! I'll make the best<n>sunshine dolls I can!",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "voiceIdx": 10,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 148,
+                    "pathId": 4882108030535214881
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5013424398135305976
+                }
+            ],
             "pathId": -8635330486866603177,
             "blockIdx": 16
         },
@@ -184,8 +391,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ライスシャワーの願いが通じたのか、\r\n次の日は見事な快晴になった。",
-            "enText": "The next day was a beautiful sunny day, as \nif Rice Shower had been answered.",
+            "enText": "The skies must have heard Rice Shower's<n>pleas,\nbecause there isn't a single cloud<n>to be seen the\nnext day.",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": 3267492174826294106
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -6891799971250188822
+                }
+            ],
             "pathId": -2218837124373303797,
             "blockIdx": 17
         }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "VFK6L2EZLLJGFMZ2IFDS6P27Y4UWMAGQ",
+    "version": 6,
+    "bundle": "5BO3CTG5PSM3DROEGGO5WVWGBFP46CAL",
     "type": "story",
     "storyId": "501010520",
     "title": "収穫フェスティバル！",
+    "enTitle": "Harvest Festival",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "歩いていると、どこからか\r\n聞き覚えのある声がする気が……。",
-            "enText": "As I was walking, I thought I heard a \nfamiliar voice from somewhere ……",
+            "enText": "I hear a familiar voice while on a walk...",
             "nextBlock": 2,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8962630982832828685,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "誰かーーヘルプミーーッ！！",
-            "enText": "Somebody help me!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "enText": "Somebody help me!",
             "nextBlock": 3,
             "origClipLength": 53,
+            "voiceIdx": 36,
+            "voiceSheetId": "051010001",
             "pathId": 1441151899916814764,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "フンーーーーッ！！",
-            "enText": "Hoooooooooooooooooooooooooooooooooooooooooo!!!!",
+            "enText": "Gyaaah!",
             "nextBlock": 4,
             "origClipLength": 50,
+            "voiceIdx": 15,
+            "voiceSheetId": "051010001",
             "pathId": 8652944459902357424,
             "blockIdx": 3
         },
@@ -39,13 +46,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "助けを呼ぶ声に駆けつけてみると、\r\nタイキシャトルが、畑の蔦を引っ張っていた。",
-            "enText": "When I rushed to the scene to hear \na call for help, I found a taikishatoru \npulling ivy from the field.",
+            "enText": "I go running toward the source, only to<n>find Taiki\nShuttle in the school field<n>tugging at some vines.",
             "nextBlock": 5,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "大丈夫……？",
-                    "enText": "The great man ……?",
+                    "enText": "Are you okay?",
                     "nextBlock": 5
                 }
             ],
@@ -56,11 +65,11 @@
                 },
                 {
                     "origLen": 111,
-                    "pathId": 3972264730243138157
+                    "pathId": -6044400197678796776
                 },
                 {
                     "origLen": 111,
-                    "pathId": -6044400197678796776
+                    "pathId": 3972264730243138157
                 }
             ],
             "pathId": -6807039338921983489,
@@ -70,21 +79,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ウゥ……トレーナーさーん！\r\nヘルプミーーーーッ！！",
-            "enText": "Woo…… trainer! HELP ME!!!!!!!",
+            "enText": "Urk... Trainer! Help me out here!",
             "nextBlock": 6,
             "origClipLength": 61,
+            "voiceIdx": 36,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 21,
                     "pathId": -6820915659499103755
                 },
                 {
-                    "origLen": 62,
-                    "pathId": 5937181710740940115
-                },
-                {
                     "origLen": 72,
                     "pathId": 778278266694921044
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 5937181710740940115
                 }
             ],
             "pathId": -3785471989760422765,
@@ -94,24 +105,26 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "理事長さんにパンプキンの収穫を\r\nお願いされたんデスヨ！",
-            "enText": "The board chairman has asked \nme to harvest pumpkins!",
+            "enText": "The director asked me to harvest these<n>here\npumpkins!",
             "nextBlock": 7,
             "origClipLength": 61,
+            "voiceIdx": 34,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "カボチャの収穫……？",
-                    "enText": "Harvesting pumpkins: ……?",
+                    "enText": "Pumpkins?",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 20,
-                    "pathId": -5946288172104011246
-                },
-                {
                     "origLen": 72,
                     "pathId": -1924310209777975601
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5946288172104011246
                 }
             ],
             "pathId": -3463170440652131073,
@@ -121,17 +134,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "イエース！　ワタシの故郷は、\r\nパンプキンフェスティバルで有名なんデス！",
-            "enText": "Yes! My hometown is famous \nfor its Pumpkin Festival!",
+            "enText": "That's right! My hometown's famous for<n>our\npumpkin festival!",
             "nextBlock": 8,
             "origClipLength": 68,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -926582359749217394
-                },
                 {
                     "origLen": 79,
                     "pathId": 3738633285121042844
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -926582359749217394
                 }
             ],
             "pathId": -7367302525456804685,
@@ -141,17 +156,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "パンプキンの大きさを競ったり、\r\n抱えて走るレースがあったり！",
-            "enText": "There were races to see who could \nhold the biggest pumpkin, and there \nwere races to run with it!",
+            "enText": "It's got stuff like a biggest pumpkin<n>contest and a\nrace where ya gotta lug a<n>pumpkin with you when\nya run!",
             "nextBlock": 9,
             "origClipLength": 65,
+            "voiceIdx": 0,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": -1896165005120096016
-                },
                 {
                     "origLen": 76,
                     "pathId": 7415755135747336338
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -1896165005120096016
                 }
             ],
             "pathId": -3726166833896371033,
@@ -161,17 +178,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "野外でライブなんかもあって、歌って踊って\r\nとってもエキサイティング！",
-            "enText": "There were live performances outdoors, \nsinging and dancing, and it was very exciting!",
+            "enText": "Not to mention singin' and dancin' under<n>the\nstars! It's real exciting!",
             "nextBlock": 10,
             "origClipLength": 67,
+            "voiceIdx": 3,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 7126376919446329479
-                },
                 {
                     "origLen": 78,
                     "pathId": -4236320518195797140
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 7126376919446329479
                 }
             ],
             "pathId": -4532814598948762305,
@@ -181,29 +200,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "パンプキンと聞いて、いてもたっても\r\nいられなくて、ワタシが引き受けたのデス！",
-            "enText": "When I heard \"pumpkin\", I couldn't stay away, \nso I took the job!",
+            "enText": "Once I heard the word \"pumpkin,\" there<n>was no\nway I couldn't help!",
             "nextBlock": 11,
             "origClipLength": 70,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "祭の経験を活かせるな！",
-                    "enText": "Well, I guess I can put my festival \nexperience to good use!",
+                    "enText": "Time to put that experience to good use!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "祭の経験を活かせるね！",
-                    "enText": "I can use the experience of the festival!",
+                    "enText": "Time to put that experience to good use!",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
-                    "origLen": 52,
-                    "pathId": 5320933973369502114
-                },
-                {
                     "origLen": 81,
                     "pathId": 3211309575463100244
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 5320933973369502114
                 }
             ],
             "pathId": -2125224346041645031,
@@ -213,17 +234,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "バット……考えてみれば、パンプキン収穫の\r\n経験は、ナッシングだったのデスヨー。",
-            "enText": "Butt…… come to think of it, I had no \nexperience with pumpkin harvesting.",
+            "enText": "But now that I think about it... I've never<n>actually\nharvested a pumpkin before.",
             "nextBlock": 12,
             "origClipLength": 71,
+            "voiceIdx": 34,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -2656501002081271547
-                },
                 {
                     "origLen": 82,
                     "pathId": -4614256216824782145
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -2656501002081271547
                 }
             ],
             "pathId": 5206872476824346427,
@@ -233,17 +256,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "お祭りには毎年欠かさず\r\n参加してたのですケドネー……アハハッ。",
-            "enText": "I used to attend the festival every year \nwithout fail. ……",
+            "enText": "Even though I never missed a festival...<n>Haha.",
             "nextBlock": 13,
             "origClipLength": 65,
+            "voiceIdx": 14,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 5185133415892998887
-                },
                 {
                     "origLen": 76,
                     "pathId": -8346257630233467174
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5185133415892998887
                 }
             ],
             "pathId": 5491095281497412156,
@@ -253,29 +278,31 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "――なので、\r\nヘルプミートレーナーさーん！！",
-            "enText": "―So, helpmeet trainer!",
+            "enText": "What I'm tryin' to say is... ya gotta help<n>me out,\nTrainer!",
             "nextBlock": 14,
             "origClipLength": 60,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "勝負をしよう！",
-                    "enText": "Let's play the game!",
+                    "enText": "Let's make it a competition!",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "お手本を見せるよ",
-                    "enText": "Let me show you how it's done.",
+                    "enText": "I'll show you how it's done.",
                     "nextBlock": 18
                 }
             ],
             "animData": [
                 {
-                    "origLen": 43,
-                    "pathId": -6288272600691738062
-                },
-                {
                     "origLen": 71,
                     "pathId": 6231484837744539759
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -6288272600691738062
                 }
             ],
             "pathId": 324842621586125405,
@@ -285,17 +312,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "勝負……？\r\nという事は、つまり――",
-            "enText": "The game ……? So that means―",
+            "enText": "A competition? You mean...",
             "nextBlock": 15,
             "origClipLength": 56,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 5204923930273730874
-                },
                 {
                     "origLen": 67,
                     "pathId": -7068395991711698894
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 5204923930273730874
                 }
             ],
             "pathId": -7052638778637548347,
@@ -305,17 +334,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさんとどっちが速く収穫できるか、\r\n競おうという事デスネ！",
-            "enText": "Let's compete with the trainer to see who can \nharvest faster!",
+            "enText": "You wanna see who can harvest 'em the<n>fastest?",
             "nextBlock": 16,
             "origClipLength": 67,
+            "voiceIdx": 6,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 51,
-                    "pathId": -924230949442714025
-                },
                 {
                     "origLen": 78,
                     "pathId": 6981651554304512387
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -924230949442714025
                 }
             ],
             "pathId": -6931498562613965134,
@@ -325,17 +356,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "それなら楽しくできそうデス！\r\n負けませんヨーッ！！",
-            "enText": "Then we can have fun! I won't lose!",
+            "enText": "That sounds awful fun! I got this in the<n>bag!",
             "nextBlock": 17,
             "origClipLength": 61,
+            "voiceIdx": 11,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 4884222511827007389
-                },
                 {
                     "origLen": 72,
                     "pathId": -4405383975421847228
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 4884222511827007389
                 }
             ],
             "pathId": -921504255126258257,
@@ -345,17 +378,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後、タイキシャトルとどちらが多く\r\nカボチャを収穫できるか競うことで、\n楽しく収穫を終えたのであった。",
-            "enText": "Afterwards, they had a fun harvesting contest \nto see who could harvest the most pumpkins, \nthe Taikishattle or the Taikishattle. They \nfinished the harvest happily.",
+            "enText": "Racing to see who can harvest the most<n>\npumpkins, Taiki Shuttle and I have a fun<n>time\nclearing the whole field.",
             "nextBlock": -1,
             "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 90,
-                    "pathId": 3830948149024267776
+                    "pathId": -2894310387855882098
                 },
                 {
                     "origLen": 90,
-                    "pathId": -2894310387855882098
+                    "pathId": 3830948149024267776
                 }
             ],
             "pathId": 8361542474602250903,
@@ -365,17 +400,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "そうして、タイキシャトルと一緒にカボチャ\r\nの収穫を手伝うことになったのだが……。",
-            "enText": "That's how I ended up helping with the \npumpkin harvest with the tiki shuttle. ……",
+            "enText": "And so, I end up helping Taiki Shuttle<n>with the\npumpkin harvesting.",
             "nextBlock": 19,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": 3450984138459093034
-                },
                 {
                     "origLen": 82,
                     "pathId": 2805105821096116133
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3450984138459093034
                 }
             ],
             "pathId": -984104929082927391,
@@ -385,21 +422,23 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オオッ！　なるほどー！\r\nそうやって隙間を作るんデスネ！",
-            "enText": "Oh! I see! That's how you make a gap!",
+            "enText": "Oh, now it makes sense! You gotta clear<n>a gap so\nya can get on in there, right?",
             "nextBlock": 20,
             "origClipLength": 63,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
                 {
                     "origLen": 118,
                     "pathId": 8484514527413552718
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -376703581877342969
-                },
-                {
                     "origLen": 104,
                     "pathId": 7959515536931964344
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -376703581877342969
                 }
             ],
             "pathId": 7303659481350522287,
@@ -409,13 +448,15 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "これって、レースでも使えそうデスヨネ！\r\nさっそくトレーニングしまセンカ？",
-            "enText": "This looks like something I could \nuse in a race! Do you want to \nstart training right away?",
+            "enText": "Ya know, I just might be able to put this<n>to use\nwhen I run too! Let's go try it out<n>in training!",
             "nextBlock": 21,
             "origClipLength": 69,
+            "voiceIdx": 48,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "収穫が終わってから",
-                    "enText": "After the harvest is over.",
+                    "enText": "After we finish harvesting all these.",
                     "nextBlock": 21
                 }
             ],
@@ -425,12 +466,12 @@
                     "pathId": -8202249838190763119
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 7392908754901863463
-                },
-                {
                     "origLen": 80,
                     "pathId": 5897564283800120409
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7392908754901863463
                 }
             ],
             "pathId": -2029742801745011491,
@@ -440,17 +481,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ウゥ……ハーイ。",
-            "enText": "Uu…… hi.",
+            "enText": "Oh, right...",
             "nextBlock": 22,
             "origClipLength": 50,
+            "voiceIdx": 49,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 8795120956155255991
-                },
                 {
                     "origLen": 61,
                     "pathId": -749880513637176162
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 8795120956155255991
                 }
             ],
             "pathId": 3437467006162925531,
@@ -460,26 +503,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "2人で泥だらけになりながらカボチャを\r\n収穫したが、得るものはあったようだ。",
-            "enText": "The two of us got covered in mud while \nharvesting the pumpkins, but it seems we \ngained something.",
+            "enText": "We both get covered in mud harvesting<n>the\npumpkins, but at least it seems she<n>might have\nlearned something.",
             "nextBlock": -1,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 46,
                     "pathId": -409881544352964276
                 },
                 {
-                    "origLen": 31,
-                    "pathId": -7699964703628749596
-                },
-                {
                     "origLen": 107,
                     "pathId": 1828793458548279245
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -7699964703628749596
                 }
             ],
             "pathId": -3744769475157726451,
             "blockIdx": 22
         }
-    ],
-    "modified": 1657555055
+    ]
 }

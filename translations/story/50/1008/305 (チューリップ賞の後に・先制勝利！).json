@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "55UYR2W3ZJMQGC5R7HWQAL42WGMS4UZG",
+    "version": 6,
+    "bundle": "4GKSDE6ODUIE3BR2YXILTUSZWHEILMV7",
     "type": "story",
     "storyId": "501008305",
     "title": "チューリップ賞の後に・先制勝利！",
+    "enTitle": "After the Tulip Sho: Preliminary Victory",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よぉぉぉしっ、アイツに快勝だぁ！！",
-            "enText": "All right, we've got a good win against her!",
+            "enText": "Oh yeahhh! I beat her!",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": 6,
+            "voiceSheetId": "051008001",
             "pathId": -2981403766220267388,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ダイワスカーレットとのＧⅠ前哨戦に\r\nウオッカはまず先勝した。",
-            "enText": "Vodka won the preliminaries of the Grade I \nrace against Daiwa Scarlet.",
+            "enText": "Vodka beat Daiwa Scarlet in their first<n>G1\npreliminary race.",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -649218514867677942,
             "blockIdx": 2
         },
@@ -27,13 +34,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "これでクラシック本番に、気分よく\r\n突っ込めるぜ。どうだった、トレーナー！？",
-            "enText": "Now I can go into the classic show with a \nsmile on my face. How'd it go, trainer?",
+            "enText": "Now I can feel good about jumpin' into<n>the\nClassics. What'd ya think, Trainer?!",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "いい走りだった！",
-                    "enText": "That was a good run!",
+                    "enText": "You ran great out there!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 7081885443533891783
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 5038646622837155566
                 }
             ],
             "pathId": 1981111143128503724,
@@ -43,8 +63,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そうだろそうだろ！",
-            "enText": "I know, I know, I know!",
+            "enText": "I know, right!",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "voiceIdx": 1,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -7591538217051862262
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 5184035365536470528
+                }
+            ],
             "pathId": 4884572201977968412,
             "blockIdx": 4
         },
@@ -52,8 +85,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "でも正直焦ったぜ。アイツも、\r\n意外にパワーアップしてやがったから。",
-            "enText": "But I must admit, I was a little nervous. \nThat guy was surprisingly powerful too.",
+            "enText": "But I did panic a bit. Scarlet got a lot<n>stronger\nthan I expected.",
             "nextBlock": 6,
+            "origClipLength": 89,
+            "voiceIdx": 59,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -655748095532273014
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -8542682648677556205
+                }
+            ],
             "pathId": 1098275101085568312,
             "blockIdx": 5
         },
@@ -61,8 +107,29 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "なによ。人を持ち上げるなんて、\r\nらしくないわね。",
-            "enText": "What? It's not like you to lift people up.",
+            "enText": "What's this? Did <i>Vodka</i> just praise<n>somebody\nelse? How unlike you.",
             "nextBlock": 7,
+            "origClipLength": 77,
+            "voiceIdx": 15,
+            "voiceSheetId": "051009001",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -6056797908130110580
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 244187820850157991
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -5200506769645457246
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -275314374623953136
+                }
+            ],
             "pathId": 6443242668417760768,
             "blockIdx": 6
         },
@@ -70,8 +137,29 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よぉ、スカーレット。ま、お前も頑張っちゃ\r\nいるようだが、まだまだってこった。",
-            "enText": "Hello, Scarlet. You're doing well, \nbut you're not ready yet.",
+            "enText": "Hey, Scarlet. Looks like you've been<n>puttin' in a\nlot of effort. But you've still<n>got a ways to go.",
             "nextBlock": 8,
+            "origClipLength": 95,
+            "voiceIdx": 47,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 196,
+                    "pathId": -414825939460497302
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 3181758878427491093
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -2171580593020517002
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 4728982382859675021
+                }
+            ],
             "pathId": -8570929238386852397,
             "blockIdx": 7
         },
@@ -79,8 +167,29 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "フンっ、花を持たすのは今日だけよ！\r\nあくまでこのレースは、本番の前！",
-            "enText": "Hmph, you can only have flowers today! This \nrace is just before the real thing!",
+            "enText": "Hmph! I'll let you be the flower, but just<n>for\ntoday! After all, this is only a<n>preliminary race!",
             "nextBlock": 9,
+            "origClipLength": 90,
+            "voiceIdx": 19,
+            "voiceSheetId": "051009001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6215745041827068014
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 3815192563340956539
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -864316713270602426
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2949877891885893165
+                }
+            ],
             "pathId": -322874708389664498,
             "blockIdx": 8
         },
@@ -88,8 +197,29 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "本当の勝負は次なんだから！\r\n『桜花賞』では絶対逆転してみせる！",
-            "enText": "The real battle is next! I'll turn the tables \non you in the Sakuraba-sho!",
+            "enText": "The next race is the real one! I'll show<n>you a real\nturnaround at the Oka Sho!",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -4230535556664422187
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -2773081907057290290
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 7736462956295598331
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -7520459542799570621
+                }
+            ],
             "pathId": 7619231338384127805,
             "blockIdx": 9
         },
@@ -97,8 +227,29 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "おう、かかってこいよ。\r\n次もまた、軽くチギッてやるぜ！",
-            "enText": "Oh, come on. Next time, I'll give you a \nlittle kick in the ass!",
+            "enText": "Go ahead and try. I'll beat you again, no<n>problem!",
             "nextBlock": 11,
+            "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -3322908678685804693
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 5821207983398000183
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 8706383996272735152
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8402167956331121127
+                }
+            ],
             "pathId": -6176922391059319188,
             "blockIdx": 10
         },
@@ -106,8 +257,29 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウオッカはクールに笑い、\r\n勝者の余裕で去っていく。",
-            "enText": "Vodka smiles coolly and leaves with the \nconfidence of a winner.",
+            "enText": "Vodka gives a cool laugh and struts off<n>like a\nwinner.",
             "nextBlock": 12,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6266872732298841843
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -8350444887629431400
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 955347384684936854
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4844553840397333083
+                }
+            ],
             "pathId": 113192595567581793,
             "blockIdx": 11
         },
@@ -115,8 +287,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "あの……ウオッカの走りなんですが、\r\n少し変わりましたか？",
-            "enText": "The… vodka run, has it changed a bit?",
+            "enText": "Um... Is Vodka running a little<n>differently?",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "voiceIdx": 52,
+            "voiceSheetId": "051009001",
+            "animData": [
+                {
+                    "origLen": 168,
+                    "pathId": 3164516299641267326
+                },
+                {
+                    "origLen": 176,
+                    "pathId": 8771723802649383679
+                }
+            ],
             "pathId": -6469866569847279450,
             "blockIdx": 12
         },
@@ -124,8 +309,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "荒削りなのは相変わらずだけど、\r\n凄味が出たっていうか……。",
-            "enText": "It's still a bit rough around the edges, but \nit's gotten a lot better…",
+            "enText": "Her style is still a little rough around the<n>edges,\nbut it seems more intimidating<n>now...",
             "nextBlock": 14,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5698200358126540450
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -8902521019005809497
+                }
+            ],
             "pathId": -2158232169205706558,
             "blockIdx": 13
         },
@@ -133,18 +331,31 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "どんなトレーニングしてきたんです？",
-            "enText": "What kind of training have you been doing?",
+            "enText": "How has she been training?",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "おそらく実戦の成果だ",
-                    "enText": "Probably the result of a real battle.",
+                    "enText": "I think it's the result of how many real races\nshe's been running in.",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "おそらく実戦の成果だよ",
-                    "enText": "Probably the result of a real battle.",
+                    "enText": "I think it's the result of how many real races\nshe's been running in.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -4301202955715203379
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 3189446584474425925
                 }
             ],
             "pathId": -4270248271501566980,
@@ -154,8 +365,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウオッカは早いうちから、\r\nひるむことなくＧⅠにも挑戦してきた。",
-            "enText": "Vodka has been challenging the Grade 1s from \nearly on without hesitation.",
+            "enText": "Since the start of her career, Vodka has<n>been\ngoing after G1 races without<n>hesitation.",
             "nextBlock": 16,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8086120229884729126
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 8180946792363541106
+                }
+            ],
             "pathId": 8921017576631205545,
             "blockIdx": 15
         },
@@ -163,8 +387,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "背伸びして挑んできた成果が、\r\nレースにも現れているようだ。",
-            "enText": "It seems that the results of her efforts \nare showing in the race.",
+            "enText": "It seems the results of her stretching her<n>limits are\nstarting to show in how she<n>runs.",
             "nextBlock": 17,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -303244037470167593
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 3877760752447326580
+                }
+            ],
             "pathId": 8303770653125814286,
             "blockIdx": 16
         },
@@ -172,8 +409,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "実戦……。そう……。",
-            "enText": "Actual battle… So…",
+            "enText": "Real races, huh? I see...",
             "nextBlock": 18,
+            "origClipLength": 58,
+            "voiceIdx": 8,
+            "voiceSheetId": "051009001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 6272101072472286164
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 3918272140409817432
+                }
+            ],
             "pathId": 1158596189981329725,
             "blockIdx": 17
         },
@@ -181,8 +431,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "去年いきなりＧⅠって言いだした時は、\r\nまたアホやってると思ったけど、\nアイツなりに意味はあったんですね。",
-            "enText": "When she suddenly started on about G1s last \nyear, I thought she was being an idiot \nagain, but I guess she had her own agenda.",
+            "enText": "When she mentioned the G1 last year, I<n>thought\nshe was being stupid again, but<n>I guess there was\nsome method to her<n>madness.",
             "nextBlock": 19,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 7113957298093110725
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 7807670159665644007
+                }
+            ],
             "pathId": 5326304558974265499,
             "blockIdx": 18
         },
@@ -190,8 +453,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "まあ、ほんのちょっとですけど！",
-            "enText": "Well, just a little!",
+            "enText": "Well, only some!",
             "nextBlock": 20,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 532077785964821670
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1353982443864774824
+                }
+            ],
             "pathId": 6987302089879670355,
             "blockIdx": 19
         },
@@ -199,8 +475,21 @@
             "jpName": "ダイワスカーレット",
             "enName": "Daiwa Scarlet",
             "jpText": "……いいわ。\r\nどれほどのものか見極めてあげる。\n次の本番でね。",
-            "enText": "… Good. We'll see how good you are. \nWe'll see how good you are.",
+            "enText": "...All right, then. I'll just have to see how<n>far she's\ncome. The next race is for real.",
             "nextBlock": 21,
+            "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051009001",
+            "animData": [
+                {
+                    "origLen": 111,
+                    "pathId": -4882553099964943032
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 8459055289725407457
+                }
+            ],
             "pathId": 1886461612424592352,
             "blockIdx": 20
         },
@@ -208,8 +497,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『次の本番』――\r\nそれは当然の約束のようにも聞こえるが……。",
-            "enText": "\"The next production\" - that sounds like a \nnatural promise…",
+            "enText": "Daiwa Scarlet's words aren't just a simple<n>\npromise, but a full-blown declaration of<n>war.",
             "nextBlock": 22,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -3540154058118622578
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 6670775168592252581
+                }
+            ],
             "pathId": 8732934247849393905,
             "blockIdx": 21
         },
@@ -217,8 +519,29 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "へへっ、アイツもただのいい子ちゃんじゃ\r\nないってことか。おもしろくなって\nきやがったぜ。",
-            "enText": "Hehe, She's not just a good boy, is She? It's \ngetting interesting, isn't it?",
+            "enText": "Heh. I guess she's not just a little Goody<n>\nTwo-shoes after all. This is gettin'<n>interesting.",
             "nextBlock": 23,
+            "origClipLength": 103,
+            "voiceIdx": 2,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 22,
+                    "pathId": 6919706539812481160
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 4529839401985817637
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -801044491671176531
+                },
+                {
+                    "origLen": 161,
+                    "pathId": -6699883956673929802
+                }
+            ],
             "pathId": -7971413239468085474,
             "blockIdx": 22
         },
@@ -226,8 +549,11 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そんでトレーナー、次のレースなんだけど\r\n当然、『桜花賞』だよな？",
-            "enText": "So, trainer, what's the next race? Of course \nit's the Sakuraba-sho, right?",
+            "enText": "So, Trainer, about my next race... I'm<n>doin' the\nOka Sho, right?",
             "nextBlock": 24,
+            "origClipLength": 88,
+            "voiceIdx": 55,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "話は、そう簡単じゃない",
@@ -240,6 +566,16 @@
                     "nextBlock": 24
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -7769614022987429235
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 8167067862249198638
+                }
+            ],
             "pathId": 2824339021546798991,
             "blockIdx": 23
         },
@@ -247,8 +583,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あん？　どういうことだ？",
-            "enText": "What? What do you mean?",
+            "enText": "Huh? Whaddya mean?",
             "nextBlock": 25,
+            "origClipLength": 60,
+            "voiceIdx": 20,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5223696683481277203
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 6163894951071019671
+                }
+            ],
             "pathId": -4595100961311933822,
             "blockIdx": 24
         },
@@ -256,8 +605,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『三冠路線』と『ティアラ路線』。\r\n2つのレース形態について説明する。",
-            "enText": "There are two types of races: Triple \nCrown and Tiara. The two types of \nraces will be explained.",
+            "enText": "I explain that the Triple Crown tour and<n>Tiara\ntour cover different races.",
             "nextBlock": 26,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 45,
+                    "pathId": -2319069198504114274
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -7421915739840642416
+                }
+            ],
             "pathId": -2836052285058841588,
             "blockIdx": 25
         },
@@ -265,16 +627,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ティアラ路線の『桜花賞』に進めば、その後\r\n『オークス』『秋華賞』と歩むのが普通。",
-            "enText": "If she goes on to \"Sakurahana-sho\" \non the Tiara route, she will usually \ngo on to \"Oaks\" and \"Akka-sho.",
+            "enText": "The Oka Sho starts the Tiara, so racers<n>usually\nfollow it up with the Japanese<n>Oaks and the\nShuka Sho.",
             "nextBlock": 27,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "オークス",
-                    "enText": "oaks"
+                    "enText": ""
                 },
                 {
                     "jpText": "秋華賞",
-                    "enText": "red-light district"
+                    "enText": ""
                 }
             ],
             "pathId": 6756136725423963746,
@@ -284,12 +649,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トリプルティアラを狙うならば、三冠路線の\r\n『日本ダービー』は諦めなければならない。",
-            "enText": "If She wanted to win the Triple Tiara, She \nwould have to give up the \"Japan Derby,\" the \nTriple Crown route.",
+            "enText": "The Japanese Derby, on the other hand,<n>is part of\nthe Triple Crown. Vodka will<n>have to give up on it\nif she chooses the<n>Tiara.",
             "nextBlock": 28,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "日本ダービー",
-                    "enText": "Japan Derby"
+                    "enText": ""
                 }
             ],
             "pathId": 6077543430813538549,
@@ -299,18 +667,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "じゃあ『桜花賞』に行けば、ダービーには\r\n行けなくなるってのか！？",
-            "enText": "So if I go to Sakurahana-sho, I won't \nbe able to go to the Derby?",
+            "enText": "So if I run in the Oka Sho, I can't run in<n>the\nDerby?!",
             "nextBlock": 29,
+            "origClipLength": 88,
+            "voiceIdx": 27,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "不可能じゃないけど普通はしない",
-                    "enText": "It's not impossible, but \nit's usually not done.",
+                    "enText": "It's not impossible, but it's not common.",
                     "nextBlock": 29
                 },
                 {
                     "jpText": "不可能じゃないけど普通はしないよ",
-                    "enText": "It's not impossible, but \nit's usually not done.",
+                    "enText": "It's not impossible, but it's not common.",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 181,
+                    "pathId": -2028129461869787468
+                },
+                {
+                    "origLen": 216,
+                    "pathId": -9009860329994719295
                 }
             ],
             "pathId": -6119026433911589602,
@@ -320,8 +701,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "三冠もティアラも一生に一度しか挑戦\r\nできない。それを棒に振るレース選択は、\n普通ありえない。",
-            "enText": "The Triple Crown and the Tiara can only be \nchallenged once in a lifetime. You wouldn't \nordinarily throw that chance away.",
+            "enText": "Both the Triple Crown and the Tiara can<n>only be\nattempted once. If Vodka<n>switches around, she\nloses her shot at<n>either title.",
             "nextBlock": 30,
+            "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 2823536139000109766
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -4860304130008702535
+                }
+            ],
             "pathId": 572746990229208963,
             "blockIdx": 29
         },
@@ -329,8 +723,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "じゃあ、どうすりゃいいんだよ？",
-            "enText": "What am I supposed to do then?",
+            "enText": "Then what am I supposed to do?",
             "nextBlock": 31,
+            "origClipLength": 64,
+            "voiceIdx": 54,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2327838723198785726
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 3943421816372444164
+                }
+            ],
             "pathId": -8827463493709857459,
             "blockIdx": 30
         },
@@ -338,8 +745,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "せっかく強くなってきたアイツと\r\nクラシックでやるには、\nダービーあきらめなきゃいけねーのか？",
-            "enText": "If I want to compete in the Classic with this \nguy who's getting stronger and stronger, do \nI have to give up the Derby?",
+            "enText": "If I wanna run with Scarlet in the Classics<n>now that\nshe's stronger, that means I<n>have to give up on\nthe Derby?",
             "nextBlock": 32,
+            "origClipLength": 103,
+            "voiceIdx": 17,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -524273091780804607
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4173463295387927667
+                }
+            ],
             "pathId": -1699735319254143269,
             "blockIdx": 31
         },
@@ -347,8 +767,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うーん、うーん……。",
-            "enText": "Hmmm, hmmm…",
+            "enText": "Hmm...",
             "nextBlock": 33,
+            "origClipLength": 59,
+            "voiceIdx": 34,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 3965151535902422819
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4252998682151561122
+                }
+            ],
             "pathId": 5360415037910253351,
             "blockIdx": 32
         },
@@ -356,8 +789,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あ、そうだ。こういうのはどうだ！？",
-            "enText": "Ah, yes. How about this!",
+            "enText": "Oh, I've got it. How about this?!",
             "nextBlock": 34,
+            "origClipLength": 67,
+            "voiceIdx": 70,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 3489676063228057352
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -6063908621281156034
+                }
+            ],
             "pathId": 2311711872468291013,
             "blockIdx": 33
         },
@@ -365,13 +811,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "三冠とティアラ、6つのレースに全部出て、\r\n全部勝つってのは！？",
-            "enText": "The Triple Crown, the Tiara, running in all \nsix races and winning them all!",
+            "enText": "What if I run in all six races and win the<n>Triple\nCrown <i>and</i> Tiara?!",
             "nextBlock": 35,
+            "origClipLength": 86,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "……まず無理",
-                    "enText": "… first of all impossible",
+                    "enText": "...Not happening.",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -460852324009787324
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8716143818763902594
                 }
             ],
             "pathId": -8857381290267247763,
@@ -381,8 +840,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "うおおっ、そっか～！\r\nどうすんだよ、これ！",
-            "enText": "Oh, I see! What am I going to do with this!",
+            "enText": "Aughhh, fine! Then what now?!",
             "nextBlock": 36,
+            "origClipLength": 73,
+            "voiceIdx": 36,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -7104054137794421785
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2450355512801389996
+                }
+            ],
             "pathId": 7712811590810684896,
             "blockIdx": 35
         },
@@ -390,8 +862,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――命題は重い。\r\nライバルと戦うためにティアラ路線か、\nダービーに出るためにクラシック三冠か。",
-            "enText": "—The proposition is weighty. Compete with her \nrival in the Tiara route, or run the Derby \nin the Classic Triple Crown.",
+            "enText": "It's a big decision. Do the Tiara tour and<n>run\nagainst her rival or do the Classic<n>Triple Crown\nand run in the Derby.",
             "nextBlock": 37,
+            "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 4327944239151824349
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 2715137150631284836
+                }
+            ],
             "pathId": -5933327120705254899,
             "blockIdx": 36
         },
@@ -399,8 +884,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "正解はおそらくない。でもウオッカと\r\n2人で、答えを出さなければならない。",
-            "enText": "There is probably no right answer. But \ntogether, Vodka and I will have to come up \nwith an answer.",
+            "enText": "There's no correct choice, but Vodka<n>and I need\nto make the decision<n>together.",
             "nextBlock": 38,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 4505543652822144010
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 4408154720681985822
+                }
+            ],
             "pathId": 2217077540679763751,
             "blockIdx": 37
         },
@@ -408,8 +906,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "――トレーナー、1つ思いついたことが\r\nある。聞いてくれるか？",
-            "enText": "—Trainer, I've got an idea. \nWill you listen to me?",
+            "enText": "Trainer, I think I've got an idea. Wanna<n>hear it?",
             "nextBlock": 39,
+            "origClipLength": 85,
+            "voiceIdx": 68,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -6955397519630349926
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 3941062148031373824
+                }
+            ],
             "pathId": 2708506251018101013,
             "blockIdx": 38
         },
@@ -417,8 +928,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "やっぱ俺にはどっちも切れねえ。前なら\r\n容赦なくアイツを切ってたところだが――",
-            "enText": "I can't cut either of them. Before, I would \nhave cut her without mercy.",
+            "enText": "I don't think I can give up either. Before,<n>I\nwould've given Scarlet up without a<n>thought...",
             "nextBlock": 40,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -2719103071761011317
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -199615420085863245
+                }
+            ],
             "pathId": 5821197107311783249,
             "blockIdx": 39
         },
@@ -426,8 +950,25 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "今日のスカーレットの走りは、なんか違った。\r\n口だけじゃねえ気迫と、可能性を感じたんだ。",
-            "enText": "There was something different about Scarlet's \nrun today. She wasn't just talk, I could \nfeel her spirit and potential.",
+            "enText": "But she's runnin' differently now. She's<n>not just\ntalk anymore. I feel real<n>potential there.",
             "nextBlock": 41,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 984430649645648278
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 1864939692112565725
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 8156423070735703939
+                }
+            ],
             "pathId": -6332573111530954650,
             "blockIdx": 40
         },
@@ -435,8 +976,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "そんなアイツと、ＧⅠ本番でやりてーって\r\n気持ちが、どうしてもおさまらねえ。\nだから――",
-            "enText": "I just can't shake the feeling that I want to \nplay with that guy in a real G1 race. So…",
+            "enText": "This feelin' of wantin' to run in a real G1<n>race with\nher isn't gonna go away. So...",
             "nextBlock": 42,
+            "origClipLength": 102,
+            "voiceIdx": 15,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 666815949953418472
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 1641761751827628093
+                }
+            ],
             "pathId": 9060460815250782590,
             "blockIdx": 41
         },
@@ -444,13 +998,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "『桜花賞』から『日本ダービー』へって\r\nどうだ？　これしかねえと思うんだ。",
-            "enText": "What do you think about going from the \nSakuraba Prize to the Japan Derby? I think \nit's the only way.",
+            "enText": "How about going from the Oka Sho to<n>the\nJapanese Derby? That's what I feel<n>like I need to\ndo.",
             "nextBlock": 43,
+            "origClipLength": 93,
+            "voiceIdx": 52,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "三冠とトリプルティアラは諦める？",
-                    "enText": "Give up on the Triple Crown and Triple Tiara?",
+                    "enText": "And you're okay giving up on both the Triple\nCrown and Tiara?",
                     "nextBlock": 43
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 7051219998846368550
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4133008142011661253
                 }
             ],
             "pathId": -7814341207364361413,
@@ -460,8 +1027,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あ、あきらめるとは言ってねーよ！\r\nでも……。",
-            "enText": "Oh, I didn't say I was giving up! But…",
+            "enText": "I-I didn't say I wanna give up! But...",
             "nextBlock": 44,
+            "origClipLength": 72,
+            "voiceIdx": 50,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 7734988939013669220
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -6843063486472432649
+                }
+            ],
             "pathId": -7667734524022656101,
             "blockIdx": 43
         },
@@ -469,8 +1049,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "俺にはこれしか思いつかねえんだ！\r\n譲れねえモン、全部追いかけるには――！",
-            "enText": "This is all I can think of! If I'm going to \ngo after all the non-negotiables…!",
+            "enText": "This is the only way I can think of to go<n>after\neverythin' I want!",
             "nextBlock": 45,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 3997414127378893
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -3767319716451764747
+                }
+            ],
             "pathId": -6736275173559040966,
             "blockIdx": 44
         },
@@ -478,13 +1071,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "覚悟のこもった声。今の段階で、\r\n決断するのは早計だけど……。",
-            "enText": "A voice full of determination. At this point, \nit's too early to make a decision…",
+            "enText": "There's determination in her voice. It's<n>still too\nearly to make a decision at this<n>stage, but...",
             "nextBlock": 46,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "次は『桜花賞』にしよう",
-                    "enText": "Next time, let's make it the \nCherry Blossom Awards.",
+                    "enText": "Let's go to the Oka Sho next.",
                     "nextBlock": 46
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 7679658546453211226
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 398405280797282865
                 }
             ],
             "pathId": -4536533017627068526,
@@ -494,13 +1100,26 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "わ、わかってくれるのか、トレーナー！",
-            "enText": "Do you understand me, trainer?",
+            "enText": "You'll really let me?!",
             "nextBlock": 47,
+            "origClipLength": 68,
+            "voiceIdx": 67,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "だけど、その先はレース後に",
-                    "enText": "But more on that after the race.",
+                    "enText": "For now, but we'll have to see how things go.",
                     "nextBlock": 47
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -6078960570434019181
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -4486653387661288118
                 }
             ],
             "pathId": 8215723892201712243,
@@ -510,8 +1129,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "『桜花賞』の後で話そう、ってことか。",
-            "enText": "\"We'll talk about it after the Cherry \nBlossom Awards,\" She said.",
+            "enText": "So we'll decide the next steps after the<n>Oka Sho,\nhuh?",
             "nextBlock": 48,
+            "origClipLength": 68,
+            "voiceIdx": 47,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -7069562026347677673
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 5446526687884052289
+                }
+            ],
             "pathId": 894600385162026542,
             "blockIdx": 47
         },
@@ -519,8 +1151,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "わかった。そうしよう。\r\nそうだな……んな軽い話じゃねえし。",
-            "enText": "All right. I'll do that. Yeah… is not \nsomething to be taken lightly.",
+            "enText": "All right. Let's do that. I know it's not<n>something\nto be taken lightly.",
             "nextBlock": 49,
+            "origClipLength": 84,
+            "voiceIdx": 9,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 1689558524735050489
+                },
+                {
+                    "origLen": 42,
+                    "pathId": 3958766963396580140
+                }
+            ],
             "pathId": 4481973805943168091,
             "blockIdx": 48
         },
@@ -528,8 +1173,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "よし、でもこれで勝ち逃げはナシだ。\r\nまずは『桜花賞』でアイツとやる！",
-            "enText": "Okay, but I'm not going to run away with \nthis. First, I'll take on her at the \nSakurahana-sho!",
+            "enText": "Anyhow, I can't just quit while I'm ahead.<n>First, I'm\ngonna face Scarlet in the Oka<n>Sho!",
             "nextBlock": 50,
+            "origClipLength": 90,
+            "voiceIdx": 69,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -7734924119516816790
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 7088999317326878681
+                }
+            ],
             "pathId": 7687599001079316570,
             "blockIdx": 49
         },
@@ -537,8 +1195,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "行く道はまだ決めないことにする。\r\n全ては桜花賞の結果と、その後の覚悟次第だ。",
-            "enText": "I decided not to decide on a path yet. It all \ndepends on the result of Oka Sho and her \ndetermination after.",
+            "enText": "We decide to wait on choosing the path<n>forward\nfor now. It all depends on the<n>results of the Oka\nSho, as well as her<n>determination afterward.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 2309535551985205173
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -7131450059915373217
+                }
+            ],
             "pathId": 5306307983082846180,
             "blockIdx": 50
         }

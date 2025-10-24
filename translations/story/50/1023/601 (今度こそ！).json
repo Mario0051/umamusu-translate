@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "C2MIAQS4TWLFMIZRJB3RKG5SRCEAWFAV",
+    "version": 6,
+    "bundle": "RLRMYYE4OILHIFCUMUYAOROH54DY7DJD",
     "type": "story",
     "storyId": "501023601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "今日の天候……風速、湿度から鑑みて……\r\n……うん、これなら。",
-            "enText": "In light of today's weather…… wind speeds and \nhumidity………… yeah, I can do this.",
+            "enText": "If I take into consideration today's<n>weather, wind\nspeed, and humidity...<n>Yes, this should work.",
             "nextBlock": 2,
             "origClipLength": 85,
+            "voiceIdx": 69,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 96,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 96,
-                    "pathId": 8498136366561521600
+                    "pathId": -4996757355842616861
                 },
                 {
                     "origLen": 96,
-                    "pathId": -4996757355842616861
+                    "pathId": 8498136366561521600
                 }
             ],
             "pathId": 5870009860101508247,
@@ -33,13 +36,15 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……待たせたな、トレーナー君。\r\n理論の修正が完了した。",
-            "enText": "…… Sorry for the wait, trainer. Theory \nrevision is complete.",
+            "enText": "Sorry to keep you waiting. I've made<n>some\nrevisions to my calculations.",
             "nextBlock": 3,
             "origClipLength": 81,
+            "voiceIdx": 68,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "自信のほどは？",
-                    "enText": "How confident are you?",
+                    "enText": "Feeling confident?",
                     "nextBlock": 3
                 }
             ],
@@ -49,12 +54,12 @@
                     "pathId": 1321334102342977893
                 },
                 {
-                    "origLen": 56,
-                    "pathId": -5724636157151863245
-                },
-                {
                     "origLen": 92,
                     "pathId": 4030172121212829063
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -5724636157151863245
                 }
             ],
             "pathId": -5579454321278217378,
@@ -64,17 +69,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ふっ……それは愚問というものだ。",
-            "enText": "Phew…… that is a foolish question.",
+            "enText": "Heh... That's a silly question.",
             "nextBlock": 4,
             "origClipLength": 65,
+            "voiceIdx": 3,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 3798947946054688618
-                },
                 {
                     "origLen": 76,
                     "pathId": 7228053218841917776
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 3798947946054688618
                 }
             ],
             "pathId": -5312178041148890321,
@@ -84,17 +91,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "理論は洗練されるほど、シンプルになる。\r\n君にこれから見せてあげよう。",
-            "enText": "The more sophisticated the theory, the \nsimpler it becomes. Let me show you now.",
+            "enText": "The more refined a theory, the simpler it<n>\nbecomes. Keep your eyes on me,<n>Trainer.",
             "nextBlock": 5,
             "origClipLength": 90,
+            "voiceIdx": 74,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": -6673521767906298177
-                },
                 {
                     "origLen": 101,
                     "pathId": -8623102706533534360
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -6673521767906298177
                 }
             ],
             "pathId": -7169278293812696809,
@@ -104,26 +113,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "勝利という、究極の答えを……！",
-            "enText": "The ultimate answer: winning. ……!",
+            "enText": "I'll show you the ultimate result of my<n>\ncalculations—total victory!",
             "nextBlock": -1,
             "origClipLength": 102,
+            "voiceIdx": 119,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
-                    "origLen": 30,
-                    "pathId": -6505275759804481332
+                    "origLen": 113,
+                    "pathId": -818560747322402691
                 },
                 {
                     "origLen": 92,
                     "pathId": 4538939090303736557
-                },
-                {
-                    "origLen": 113,
-                    "pathId": -818560747322402691
                 }
             ],
             "pathId": -5013381132205146672,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555254
+    ]
 }

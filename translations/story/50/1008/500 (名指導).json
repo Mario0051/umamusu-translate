@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "MVQDG5GVLLJLEEAIADKHINKVOQTVPAR3",
+    "version": 6,
+    "bundle": "EHAHNJQWQUF3GQT773LITEY3QNGDUJ4F",
     "type": "story",
     "storyId": "501008500",
     "title": "名指導",
+    "enTitle": "Master Trainer",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "はぁっ、はぁ――！",
-            "enText": "Huh, huh—!",
+            "enText": "<i>Huff... Huff...</i>",
             "nextBlock": 2,
+            "origClipLength": 104,
+            "voiceIdx": 58,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 115,
+                    "pathId": 6636506379974917478
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 8883203615481809645
+                }
+            ],
             "pathId": 342537997325479883,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "な！　トレーナー、今のタイムどうだった？\r\n俺なりにかなり手応えあったんだよな！",
-            "enText": "Hey! Trainer, what was your time? I thought \nit was pretty good, myself!",
+            "enText": "Hey, Trainer! How was my time? I feel<n>like I did\npretty well!",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "少し休憩しよう",
-                    "enText": "Let's take a break.",
+                    "enText": "Why don't you take a little break?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "少し休憩しない？",
-                    "enText": "Why don't we take a break?",
+                    "enText": "Why don't you take a little break?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 4605360271185689618
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4219706321952510485
                 }
             ],
             "pathId": 8298432218703159683,
@@ -39,8 +66,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あん？　休憩なんていらねぇよ。\r\n俺はまだ全然イケんぜ？",
-            "enText": "Hmm? I don't need a break. \nI'm not even close.",
+            "enText": "Huh? I don't need a break. I've got<n>plenty of gas\nleft!",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "voiceIdx": 20,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 3764067631371606648
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -6439583376463811520
+                }
+            ],
             "pathId": -5766451868274936135,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "ほら！　余裕、余裕！",
-            "enText": "Come on! Plenty of room, plenty of room!",
+            "enText": "See? I've totally got this!",
             "nextBlock": 5,
+            "origClipLength": 58,
+            "voiceIdx": 91,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 1579114169796582484
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4950378521830271756
+                }
+            ],
             "pathId": -2936477767045376512,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "トレーナー……アンタは俺の走りを\r\nカッコいいって言ってくれた。",
-            "enText": "My trainer… said my running was cool.",
+            "enText": "Trainer... You said I look cool when I run.",
             "nextBlock": 6,
+            "origClipLength": 86,
+            "voiceIdx": 57,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -6149098906695093012
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -4045634731667750035
+                }
+            ],
             "pathId": 238644873512591274,
             "blockIdx": 5
         },
@@ -66,8 +132,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "でも、俺は今よりもっと速く、\r\nもっとカッコよく走れるようになりてぇんだ。",
-            "enText": "But I want to be able to run faster \nand cooler than I am now.",
+            "enText": "But I bet I can be even faster—and even<n>\ncooler—than I am now.",
             "nextBlock": 7,
+            "origClipLength": 93,
+            "voiceIdx": 70,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -7432423914168625946
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7627679422370718696
+                }
+            ],
             "pathId": 3724586211568161325,
             "blockIdx": 6
         },
@@ -75,8 +154,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "やっぱレースの時には俺の最っ高の走り、\r\nアンタに見て欲しいんだよ！",
-            "enText": "I really want you to see me at \nmy best when I'm racing!",
+            "enText": "I wanna show you the best race I've got<n>in me!",
             "nextBlock": 8,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 2659812457944040108
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 5957235891998424812
+                }
+            ],
             "pathId": -6265416830561076563,
             "blockIdx": 7
         },
@@ -84,18 +176,31 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "な、いいだろ？\r\nもう少しトレーニング、続けさせてくれ。",
-            "enText": "Hey, you know what? Let me \njust keep working out.",
+            "enText": "So c'mon! Lemme train a little longer.",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "voiceIdx": 53,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "よし、トレーニングを続けるか！",
-                    "enText": "Okay, let's keep training!",
+                    "enText": "All right! Let's keep going then!",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "よし、トレーニングを続けましょう！",
-                    "enText": "Okay, let's keep training!",
+                    "enText": "All right! Let's keep going then!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": 832977444887771910
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -6289401073944512587
                 }
             ],
             "pathId": -9212347206703645327,
@@ -105,8 +210,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "へへ、そう来なくっちゃな！",
-            "enText": "Heh, that's what I'm talking about!",
+            "enText": "Heheh. I knew you'd come around!",
             "nextBlock": 10,
+            "origClipLength": 61,
+            "voiceIdx": 11,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -2416357805616035764
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3900129308067912096
+                }
+            ],
             "pathId": -3493855253417552187,
             "blockIdx": 9
         },
@@ -114,8 +232,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "なんつーかさ、いつもはうまく言えねぇけど、\r\nこれでもアンタには感謝してんだぜ。",
-            "enText": "I can't always say it well, but \nI'm still grateful to you.",
+            "enText": "I'm not so good at sayin' it, but I really<n>do\nappreciate you.",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 2133562357207198244
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 153079469304248748
+                }
+            ],
             "pathId": -4883301603869563531,
             "blockIdx": 10
         },
@@ -123,8 +254,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "カーッ！\r\n言葉にすると一気にダサくなっちまうな！",
-            "enText": "Caw! You're so lame when you say it!",
+            "enText": "Aughhh! It sounds so lame, sayin' it out<n>loud!",
             "nextBlock": 12,
+            "origClipLength": 77,
+            "voiceIdx": 4,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": -2909528604015536944
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -492058542512596333
+                }
+            ],
             "pathId": 4506195556088478836,
             "blockIdx": 11
         },
@@ -132,8 +276,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "やっぱ今言ったこと全部忘れてくれ！\r\n絶対だかんな！",
-            "enText": "I told you to forget everything \nI just said! I promise!",
+            "enText": "Know what, forget all that! I said<n><i>nothing,</i> got it?",
             "nextBlock": 13,
+            "origClipLength": 78,
+            "voiceIdx": 36,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2190373950573115196
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -1312795132993380018
+                }
+            ],
             "pathId": 5305661177975681475,
             "blockIdx": 12
         },
@@ -141,8 +298,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "んじゃ、トラックもう1周いってくっからさ！\r\nタイムのほう、きっちり計ってくれよ？",
-            "enText": "I'm going to take another lap around \nthe track! Just make sure you get \nthe time right, okay?",
+            "enText": "Anyway, I'm gonna do one more lap!<n>Make sure\nyou time me!",
             "nextBlock": 14,
+            "origClipLength": 98,
+            "voiceIdx": 5,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -6520783012983104476
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3215957104356876580
+                }
+            ],
             "pathId": 7950652135074812763,
             "blockIdx": 13
         },
@@ -150,8 +320,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "普段はあまり口には出さないが、\r\nどうやらウオッカには信頼されているようだ。",
-            "enText": "She doesn't usually say much, but \napparently Vodka trusts her.",
+            "enText": "Though she rarely admits it to my face,<n>Vodka\nseems to trust me a lot.",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 7743267347879259805
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3105497255816725840
+                }
+            ],
             "pathId": 7981377758326221075,
             "blockIdx": 14
         }

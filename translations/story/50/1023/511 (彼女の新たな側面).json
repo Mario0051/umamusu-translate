@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "GDVJZILJOMLQ2D5Z3JXVQRX5T5WLZ3IW",
+    "version": 6,
+    "bundle": "ZUYJZG5J7WYDQK2NS3B25VKJBECKT7EW",
     "type": "story",
     "storyId": "501023511",
     "title": "彼女の新たな側面",
+    "enTitle": "A New Side",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日のトレーニング後。\r\n門限も近くなってきたので、ビワハヤヒデを\n寮の前まで送っていったところ――",
-            "enText": "One day after training. It was getting close \nto curfew, so I dropped Biwa Hayahide off I \ndropped her off in front of her dorm―",
+            "enText": "One day after training, as I'm walking<n>Biwa\nHayahide to her dorm just before<n>curfew...",
             "nextBlock": 2,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8586435872152114966,
             "blockIdx": 1
         },
@@ -19,25 +22,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "おかえり、ハヤヒデ！\r\nこんな時間に帰ってくるなんて珍しいね。",
-            "enText": "Welcome back, Hayahide! It's unusual to see \nyou back at this hour.",
+            "enText": "Welcome back, Hayahide! It's rare to see<n>you out\nand about at this late hour.",
             "nextBlock": 3,
             "origClipLength": 85,
+            "voiceIdx": 43,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -8710745565137460675
-                },
                 {
                     "origLen": 157,
                     "pathId": 951847373579334518
                 },
                 {
-                    "origLen": 96,
-                    "pathId": -5833438809563140167
+                    "origLen": 50,
+                    "pathId": -8710745565137460675
                 },
                 {
                     "origLen": 96,
                     "pathId": 5052101244927165542
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5833438809563140167
                 }
             ],
             "pathId": -1308798718054293496,
@@ -47,25 +52,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ついトレーニングに熱が入ってしまって――\r\n君は寮長の仕事か。遅くまで大変だな……。",
-            "enText": "I got a little carried away with my training \n- you're working as a dorm head, huh? It's a \nlot of work until late. ……",
+            "enText": "Yes, I was training heavily today,<n>and—ah, are\nyou speaking in your<n>capacity as dorm leader? I'm\nsorry to<n>come back so late.",
             "nextBlock": 4,
             "origClipLength": 99,
+            "voiceIdx": 37,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 3642723274072150899
+                },
                 {
                     "origLen": 111,
                     "pathId": -9203238966386213289
                 },
                 {
                     "origLen": 110,
-                    "pathId": 3642723274072150899
+                    "pathId": 4595782263471721060
                 },
                 {
                     "origLen": 81,
                     "pathId": -8925807183096061680
-                },
-                {
-                    "origLen": 110,
-                    "pathId": 4595782263471721060
                 }
             ],
             "pathId": -1889404675631880864,
@@ -75,25 +82,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "そんなことないよ。こうして頑張ってきた\r\nポニーちゃんたちを出迎えるのは楽しいしね。",
-            "enText": "That's not true. It's fun to greet the ponies \nwho have worked so hard.",
+            "enText": "Oh, not at all! I adore the chance to<n>welcome\nback my ponies after a hard<n>day's work, no matter\nthe time.",
             "nextBlock": 5,
             "origClipLength": 99,
+            "voiceIdx": 74,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -7094640314147320515
+                },
                 {
                     "origLen": 63,
                     "pathId": 9106448589112966341
                 },
                 {
                     "origLen": 110,
-                    "pathId": -7094640314147320515
+                    "pathId": -9116438529038091027
                 },
                 {
                     "origLen": 110,
                     "pathId": 1664598199981850916
-                },
-                {
-                    "origLen": 110,
-                    "pathId": -9116438529038091027
                 }
             ],
             "pathId": 6401952245311254657,
@@ -103,37 +112,39 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "――そうだ、来る途中で\r\nスイープとマーベラスを見なかったかい？",
-            "enText": "―Oh yeah, did you see Sweep and \nMarvelous on the way over?",
+            "enText": "By the by, did you happen to see Sweep<n>and\nMarvelous on your way here?",
             "nextBlock": 6,
             "origClipLength": 86,
+            "voiceIdx": 84,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "まだ帰ってきていないのか？",
-                    "enText": "You're not home yet?",
+                    "enText": "Are they not back yet?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "まだ帰ってきていないの？",
-                    "enText": "Are you back yet?",
+                    "enText": "Are they not back yet?",
                     "nextBlock": 6
                 }
             ],
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 732021777032680627
+                },
                 {
                     "origLen": 56,
                     "pathId": -1941711006196886251
                 },
                 {
                     "origLen": 97,
-                    "pathId": 732021777032680627
+                    "pathId": -5652518100488817538
                 },
                 {
                     "origLen": 97,
                     "pathId": -6653521836374157422
-                },
-                {
-                    "origLen": 97,
-                    "pathId": -5652518100488817538
                 }
             ],
             "pathId": -7087531187217926148,
@@ -143,25 +154,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "スマホに連絡を入れても返事がなくてさ。\r\n寮の中でも年少の子だから、心配でね。",
-            "enText": "I've been trying to reach her on her \nphone, but she hasn't been responding. \nI was worried because she is one of \nthe youngest kids in the dorm.",
+            "enText": "They're not answering their phones. And<n>as they\nare among our younger<n>residents, I can't help but\nfeel a bit...<n>trepidatious.",
             "nextBlock": 7,
             "origClipLength": 95,
+            "voiceIdx": 80,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 5327710478128155254
+                },
                 {
                     "origLen": 54,
                     "pathId": -6422646394486097672
                 },
                 {
                     "origLen": 106,
-                    "pathId": 5327710478128155254
+                    "pathId": 6656170448801044675
                 },
                 {
                     "origLen": 106,
                     "pathId": 8492031915858633248
-                },
-                {
-                    "origLen": 106,
-                    "pathId": 6656170448801044675
                 }
             ],
             "pathId": -2338748729014443659,
@@ -171,37 +184,39 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "急いで探した方がよさそうだな……。\r\n私も手伝おう！",
-            "enText": "I guess I better hurry up \nand find it.…… I'll help!",
+            "enText": "With good reason—we should search for<n>them\nimmediately. I'll help, of course!",
             "nextBlock": 8,
             "origClipLength": 78,
+            "voiceIdx": 79,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "俺も手伝うよ！",
-                    "enText": "I'll help!",
+                    "enText": "Me too!",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "私も手伝うよ！",
-                    "enText": "I'll help!",
+                    "enText": "Me too!",
                     "nextBlock": 8
                 }
             ],
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2184008926637405959
+                },
                 {
                     "origLen": 90,
                     "pathId": 102635346702149620
                 },
                 {
                     "origLen": 89,
-                    "pathId": -2184008926637405959
+                    "pathId": 1291895953056468194
                 },
                 {
                     "origLen": 60,
                     "pathId": -1630137594345164848
-                },
-                {
-                    "origLen": 89,
-                    "pathId": 1291895953056468194
                 }
             ],
             "pathId": -2049882896255949342,
@@ -211,25 +226,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "ありがとう、2人とも……！",
-            "enText": "Thanks, you two, ……!",
+            "enText": "My eternal gratitude to you both!",
             "nextBlock": 9,
             "origClipLength": 61,
+            "voiceIdx": 13,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 8253996198091293762
+                },
                 {
                     "origLen": 89,
                     "pathId": -1366527444228152851
                 },
                 {
                     "origLen": 72,
-                    "pathId": 8253996198091293762
+                    "pathId": 2991986080696769745
                 },
                 {
                     "origLen": 60,
                     "pathId": -4087546407162906355
-                },
-                {
-                    "origLen": 72,
-                    "pathId": 2991986080696769745
                 }
             ],
             "pathId": 4718952030626835171,
@@ -239,25 +256,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "じゃあ二手に分かれようか。\r\nハヤヒデたちは2人で探してくれ！",
-            "enText": "Then let's split up. Hayahide and the others, \nyou two look for them!",
+            "enText": "Might I suggest we split our efforts? You<n>two\nwork together in search of one, and<n>I shall look\nfor the other.",
             "nextBlock": 10,
             "origClipLength": 85,
+            "voiceIdx": 69,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7628498743053580572
+                },
                 {
                     "origLen": 50,
                     "pathId": -1441676439325140439
                 },
                 {
                     "origLen": 96,
-                    "pathId": -7628498743053580572
+                    "pathId": 3751511717850848205
                 },
                 {
                     "origLen": 97,
                     "pathId": 5443445333463904743
-                },
-                {
-                    "origLen": 96,
-                    "pathId": 3751511717850848205
                 }
             ],
             "pathId": 2997151761919521190,
@@ -267,29 +286,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "わかった。\r\n行き先の手掛かりになりそうな情報はあるか？",
-            "enText": "Okay, I've got it. Do you have any \ninformation that might give us a clue as to \nwhere we're going?",
+            "enText": "Right. Do you have any information on<n>where\nthey might be?",
             "nextBlock": 11,
             "origClipLength": 81,
+            "voiceIdx": 5,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 93,
-                    "pathId": -1756190387318055930
-                },
                 {
                     "origLen": 92,
                     "pathId": -3827995082988661638
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1756190387318055930
                 },
                 {
                     "origLen": 16,
                     "pathId": 9166583095704742709
                 },
                 {
-                    "origLen": 97,
-                    "pathId": 5606927129946337083
-                },
-                {
                     "origLen": 92,
                     "pathId": 7126787977686976988
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5606927129946337083
                 }
             ],
             "pathId": 3939151005712784467,
@@ -299,37 +320,39 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "マーベラスは『マーベラス探し☆』、\r\nスイープは『魔術の材料探し』に\n出かけたらしいけど――",
-            "enText": "Marvelous went on a \"Marvelous Hunt*\" and \nSweep went on a \"Hunt for Magic Ingredients.\"",
+            "enText": "Only that Marvelous went off on a<n>so-called\n\"marvelous search,\" and Sweep<n>set out to look for\nmagic ingredients.",
             "nextBlock": 12,
             "origClipLength": 105,
+            "voiceIdx": 79,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "行き先が絞れそうなスイープを探そう",
-                    "enText": "Let's look for sweeps that might narrow down \nwhere we're going.",
+                    "enText": "Sweep sounds easier to pin down.",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "探す場所が多そうなマーベラスを探そう",
-                    "enText": "Let's look for Marvelous, which seems like a \nlot of places to look.",
+                    "enText": "Marvelous could be anywhere, so let's try to\nfind her.",
                     "nextBlock": 41
                 }
             ],
             "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": 8363185105317268268
+                },
                 {
                     "origLen": 78,
                     "pathId": -7053789676462988656
                 },
                 {
                     "origLen": 116,
-                    "pathId": 8363185105317268268
+                    "pathId": -7871045614431801078
                 },
                 {
                     "origLen": 117,
                     "pathId": 6755217259096412911
-                },
-                {
-                    "origLen": 116,
-                    "pathId": -7871045614431801078
                 }
             ],
             "pathId": 6920867229567827665,
@@ -339,25 +362,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "魔術の材料になりそうなものといえば、\r\n候補は限られるしな。",
-            "enText": "And when it comes to potential ingredients \nfor witchcraft, the list is pretty limited.",
+            "enText": "Yes, there are a limited number of items<n>that\nmight be considered magic<n>ingredients.",
             "nextBlock": 13,
             "origClipLength": 84,
+            "voiceIdx": 34,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 8743038917603379356
+                },
                 {
                     "origLen": 95,
                     "pathId": 4819197119092319612
                 },
                 {
                     "origLen": 95,
-                    "pathId": 8743038917603379356
+                    "pathId": 4042587111925674097
                 },
                 {
                     "origLen": 57,
                     "pathId": 4532041065447772244
-                },
-                {
-                    "origLen": 95,
-                    "pathId": 4042587111925674097
                 }
             ],
             "pathId": -1958121803452927139,
@@ -367,29 +392,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "早めに彼女を見つけて、\r\nフジ君と合流しよう。",
-            "enText": "Let's find her early and \nmeet up with Ms. Fuji.",
+            "enText": "Let's take advantage of that to find<n>Sweep as\nsoon as we can and bring her<n>back.",
             "nextBlock": 14,
             "origClipLength": 75,
+            "voiceIdx": 69,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": -8232953939455019111
-                },
                 {
                     "origLen": 86,
                     "pathId": -2857360040533338727
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -8232953939455019111
                 },
                 {
                     "origLen": 78,
                     "pathId": 3325634899660886078
                 },
                 {
-                    "origLen": 47,
-                    "pathId": -2139776229985534252
-                },
-                {
                     "origLen": 86,
                     "pathId": 3712277571945133643
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -2139776229985534252
                 }
             ],
             "pathId": -8302087402996466776,
@@ -399,17 +426,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "行き違いになった時のことを考え、\r\n『帰ったら寮長の携帯に連絡するように』と\n寮のドアに張り紙を残し、探索を開始した。",
-            "enText": "In case we got separated, I left a sign on \nthe door of the dormitory saying, \"Call the \nmatron's cell phone when you get back.\" I \nleft a sign on the door of the dormitory \nsaying, \"Please call the dorm head's cell \nphone when you get back,\" and began my search.",
+            "enText": "In case they come back on their own, we<n>leave a\nnote on the door for them to call<n>the dorm\nleader, and then we depart on<n>our search.",
             "nextBlock": 15,
             "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 132,
-                    "pathId": -4919707274415370549
+                    "pathId": 3838872320157651419
                 },
                 {
                     "origLen": 132,
-                    "pathId": 3838872320157651419
+                    "pathId": -4919707274415370549
                 },
                 {
                     "origLen": 133,
@@ -417,11 +446,11 @@
                 },
                 {
                     "origLen": 132,
-                    "pathId": -4484639744144916401
+                    "pathId": 3411366788398458235
                 },
                 {
                     "origLen": 132,
-                    "pathId": 3411366788398458235
+                    "pathId": -4484639744144916401
                 }
             ],
             "pathId": 402369493611531842,
@@ -431,29 +460,31 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ダメね……これじゃない。\r\nでも、あっちは色が違うし……。",
-            "enText": "No.…… not this one. But that one is a \ndifferent color. ……",
+            "enText": "Nope, that won't work. Ooh, and this<n>one's the\nwrong color!",
             "nextBlock": 16,
             "origClipLength": 82,
+            "voiceIdx": 60,
+            "voiceSheetId": "051044001",
             "animData": [
                 {
                     "origLen": 15,
-                    "pathId": -2490453347896635014
+                    "pathId": 721889696335961143
                 },
                 {
                     "origLen": 15,
-                    "pathId": 721889696335961143
+                    "pathId": -2490453347896635014
                 },
                 {
                     "origLen": 25,
                     "pathId": 6577377324625782183
                 },
                 {
-                    "origLen": 23,
-                    "pathId": 4792473336741296760
-                },
-                {
                     "origLen": 24,
                     "pathId": 697333140712146713
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 4792473336741296760
                 },
                 {
                     "origLen": 112,
@@ -461,11 +492,11 @@
                 },
                 {
                     "origLen": 150,
-                    "pathId": -4787105255292461041
+                    "pathId": 485665005537574365
                 },
                 {
                     "origLen": 150,
-                    "pathId": 485665005537574365
+                    "pathId": -4787105255292461041
                 }
             ],
             "pathId": 157059340035058845,
@@ -475,29 +506,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "見つけたぞ、スイープ君！",
-            "enText": "I found you, Ms. Sweep!",
+            "enText": "Sweep! There you are!",
             "nextBlock": 17,
             "origClipLength": 78,
+            "voiceIdx": 77,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": 5276908641150553453
-                },
                 {
                     "origLen": 102,
                     "pathId": -4103227557177250897
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5276908641150553453
                 },
                 {
                     "origLen": 112,
                     "pathId": 8530565066574464255
                 },
                 {
-                    "origLen": 150,
-                    "pathId": -8855279669557126328
-                },
-                {
                     "origLen": 88,
                     "pathId": -3963896778120374879
+                },
+                {
+                    "origLen": 150,
+                    "pathId": -8855279669557126328
                 }
             ],
             "pathId": 3361483492955124205,
@@ -507,29 +540,31 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "ひゃああぁぁっ！？　な、なんで\r\nハヤヒデさんたちがアタシの採取場に！？",
-            "enText": "What? Why are Hayahide-san and the others in \nmy collection area?",
+            "enText": "Eeeeek! Wh-what?! What're you doing in<n>my\nfavorite gathering spot?!",
             "nextBlock": 18,
             "origClipLength": 91,
+            "voiceIdx": 25,
+            "voiceSheetId": "051044001",
             "animData": [
-                {
-                    "origLen": 103,
-                    "pathId": -3430885094326265918
-                },
                 {
                     "origLen": 102,
                     "pathId": 1188499705736734479
+                },
+                {
+                    "origLen": 103,
+                    "pathId": -3430885094326265918
                 },
                 {
                     "origLen": 20,
                     "pathId": 7685420172254253780
                 },
                 {
-                    "origLen": 75,
-                    "pathId": 3253860126487572781
-                },
-                {
                     "origLen": 102,
                     "pathId": 8887529166303499817
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 3253860126487572781
                 }
             ],
             "pathId": -6944595828233284877,
@@ -539,32 +574,34 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "フジ君に頼まれて君を探していたんだ。",
-            "enText": "I was looking for you at \nthe request of Ms. Fuji.",
+            "enText": "Looking all over for you, that's what! At<n>Fuji's\nrequest.",
             "nextBlock": 19,
             "origClipLength": 68,
+            "voiceIdx": 21,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "もうすぐ門限だし帰ろう",
-                    "enText": "It's almost curfew. Let's go home.",
+                    "enText": "You're about to miss curfew! Come on, let's go\nback to the dorm.",
                     "nextBlock": 19
                 }
             ],
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 2507403004381505106
+                },
                 {
                     "origLen": 26,
                     "pathId": -932259208928193168
                 },
                 {
                     "origLen": 79,
-                    "pathId": 2507403004381505106
+                    "pathId": 5626994537471334808
                 },
                 {
                     "origLen": 80,
                     "pathId": -7456647837807288016
-                },
-                {
-                    "origLen": 79,
-                    "pathId": 5626994537471334808
                 }
             ],
             "pathId": 1274787913606526667,
@@ -574,25 +611,27 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "うそっ！\r\nもうそんな時間！？",
-            "enText": "Damn! It's that time already!",
+            "enText": "For real? I had no idea it was so late!",
             "nextBlock": 20,
             "origClipLength": 64,
+            "voiceIdx": 26,
+            "voiceSheetId": "051044001",
             "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2869056548816821271
+                },
                 {
                     "origLen": 75,
                     "pathId": -6992928725820308519
                 },
                 {
                     "origLen": 75,
-                    "pathId": -2869056548816821271
+                    "pathId": 7345099832891745211
                 },
                 {
                     "origLen": 48,
                     "pathId": 3642573913427011988
-                },
-                {
-                    "origLen": 75,
-                    "pathId": 7345099832891745211
                 }
             ],
             "pathId": 1345061963359306694,
@@ -602,32 +641,34 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "で、でもイヤ！　材料の薬草を見つけるまで、\r\nぜーったい帰らないんだからっ！",
-            "enText": "But no! I'm not leaving \nuntil I find the herbs!",
+            "enText": "B-but, I don't care! I'm not going<n>aaanywhere\nuntil I find some medicinal<n>herbs, and that's that!",
             "nextBlock": 21,
             "origClipLength": 94,
+            "voiceIdx": 51,
+            "voiceSheetId": "051044001",
             "choices": [
                 {
                     "jpText": "（どうしたものかな……）",
-                    "enText": "(What's up with that? ……)",
+                    "enText": "(What's gotten into her?)",
                     "nextBlock": 21
                 }
             ],
             "animData": [
                 {
                     "origLen": 105,
+                    "pathId": 2359902209803229794
+                },
+                {
+                    "origLen": 105,
                     "pathId": 6073213735066384624
                 },
                 {
                     "origLen": 105,
-                    "pathId": 2359902209803229794
+                    "pathId": -8816189925879113346
                 },
                 {
                     "origLen": 52,
                     "pathId": -615735498573930980
-                },
-                {
-                    "origLen": 105,
-                    "pathId": -8816189925879113346
                 }
             ],
             "pathId": 23225691383854961,
@@ -637,25 +678,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……何か事情があるんだろう？\r\n私たちに話してはくれないか。",
-            "enText": "……What's going on with you? \nWould you mind telling us.",
+            "enText": "Is something the matter? Perhaps we can<n>help\nyou.",
             "nextBlock": 22,
             "origClipLength": 84,
+            "voiceIdx": 79,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -3994079936192268453
+                },
                 {
                     "origLen": 66,
                     "pathId": 383788450545654513
                 },
                 {
                     "origLen": 95,
-                    "pathId": -3994079936192268453
+                    "pathId": 5665959423763386971
                 },
                 {
                     "origLen": 95,
                     "pathId": 2407659709631331848
-                },
-                {
-                    "origLen": 95,
-                    "pathId": 5665959423763386971
                 }
             ],
             "pathId": -3862502657788439224,
@@ -665,25 +708,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "スイーピーは理由もなく、\r\n決まりを破る魔法少女じゃないはずだ。",
-            "enText": "Sweepy isn't supposed to be a magical girl \nwho breaks the rules for no reason.",
+            "enText": "You're not the sort of magical girl to<n>simply break\nrules for no reason, after<n>all.",
             "nextBlock": 23,
             "origClipLength": 86,
+            "voiceIdx": 74,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 9041726610400681442
+                },
                 {
                     "origLen": 50,
                     "pathId": 7288411740303669034
                 },
                 {
                     "origLen": 97,
-                    "pathId": 9041726610400681442
+                    "pathId": -6044999917456720369
                 },
                 {
                     "origLen": 97,
                     "pathId": 7443001177859231866
-                },
-                {
-                    "origLen": 97,
-                    "pathId": -6044999917456720369
                 }
             ],
             "pathId": 1591743342457189846,
@@ -693,29 +738,31 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "…………うっ！",
-            "enText": "……… Ugh!",
+            "enText": "...Urk!",
             "nextBlock": 24,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": 3813139194297042061
-                },
                 {
                     "origLen": 65,
                     "pathId": -4461730360526309409
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 3813139194297042061
                 },
                 {
                     "origLen": 58,
                     "pathId": 5707057889658168360
                 },
                 {
-                    "origLen": 38,
-                    "pathId": 2822472531700398948
-                },
-                {
                     "origLen": 65,
                     "pathId": -976606094718851459
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 2822472531700398948
                 }
             ],
             "pathId": -4708313497199638239,
@@ -725,29 +772,31 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "うぐぐぐぐ……そうよ。\r\n昨日、グランマが熱を出して――",
-            "enText": "Ugggghhhh…… yes. Yesterday, \nGramma got a fever and―",
+            "enText": "Rrrg... Fine! You're right, I'm not! But my<n>grandma\ngot a fever yesterday...",
             "nextBlock": 25,
             "origClipLength": 81,
+            "voiceIdx": 54,
+            "voiceSheetId": "051044001",
             "animData": [
-                {
-                    "origLen": 93,
-                    "pathId": 5541906495757761304
-                },
                 {
                     "origLen": 92,
                     "pathId": 4839376150346105353
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 5541906495757761304
                 },
                 {
                     "origLen": 20,
                     "pathId": -4831268327571942966
                 },
                 {
-                    "origLen": 93,
-                    "pathId": 8001932739530062463
-                },
-                {
                     "origLen": 92,
                     "pathId": 2679788002954861308
+                },
+                {
+                    "origLen": 93,
+                    "pathId": 8001932739530062463
                 }
             ],
             "pathId": 4478088962260323568,
@@ -757,25 +806,27 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "今日になっても熱が下がらないの。\r\nだから、魔法で元気になってもらいたくて。",
-            "enText": "My fever hasn't gone down even today. So I \nwanted to use magic to make her feel better.",
+            "enText": "And it won't come down, no matter what<n>I do. So I\nwanna try healing her with<n>magic.",
             "nextBlock": 26,
             "origClipLength": 94,
+            "voiceIdx": 21,
+            "voiceSheetId": "051044001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 2234656945037400422
+                },
                 {
                     "origLen": 106,
                     "pathId": -8344876978798467993
                 },
                 {
                     "origLen": 105,
-                    "pathId": 2234656945037400422
+                    "pathId": 4443074362898897589
                 },
                 {
                     "origLen": 56,
                     "pathId": 5039327420480849164
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 4443074362898897589
                 }
             ],
             "pathId": 4445040854846529300,
@@ -785,25 +836,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "だが、門限を過ぎても君が戻らないと、\r\nフジ君や寮の皆が心配する。",
-            "enText": "But when you don't come back after curfew, \nFuji-kun and everyone in the dorm are worried.",
+            "enText": "I see. But if you don't make it back to<n>the dorm\nbefore curfew, everyone's<n>going to be worried\nabout you.",
             "nextBlock": 27,
             "origClipLength": 88,
+            "voiceIdx": 86,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 8090396949917365530
+                },
                 {
                     "origLen": 60,
                     "pathId": 2469188996013312595
                 },
                 {
                     "origLen": 99,
-                    "pathId": 8090396949917365530
+                    "pathId": -5413640356057385327
                 },
                 {
                     "origLen": 99,
                     "pathId": -5936387175703094531
-                },
-                {
-                    "origLen": 99,
-                    "pathId": -5413640356057385327
                 }
             ],
             "pathId": -8260772637052182791,
@@ -813,17 +866,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "グランマにも連絡がいくかもしれない。\r\nそれは君の望むところではないだろう？",
-            "enText": "Granma may be contacted as well. That's not \nwhat you want, is it?",
+            "enText": "They may even end up calling your<n>grandmother.\nThat's certainly not what<n>you want, right?",
             "nextBlock": 28,
             "origClipLength": 94,
+            "voiceIdx": 5,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -1763575774442894478
-                },
                 {
                     "origLen": 105,
                     "pathId": 7254059552915925209
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -1763575774442894478
                 },
                 {
                     "origLen": 91,
@@ -831,11 +886,11 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": -4984740470576222176
+                    "pathId": 51799015454384037
                 },
                 {
                     "origLen": 105,
-                    "pathId": 51799015454384037
+                    "pathId": -4984740470576222176
                 }
             ],
             "pathId": -2953750868922584699,
@@ -845,29 +900,31 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "あ、当たり前よっ！",
-            "enText": "Oh, of course!",
+            "enText": "O-of course not!",
             "nextBlock": 29,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 67,
-                    "pathId": 132662178541406751
+                    "pathId": -3721884701578687012
                 },
                 {
                     "origLen": 67,
-                    "pathId": -3721884701578687012
+                    "pathId": 132662178541406751
                 },
                 {
                     "origLen": 20,
                     "pathId": 3158865630690941373
                 },
                 {
-                    "origLen": 66,
-                    "pathId": -2903457682797520806
-                },
-                {
                     "origLen": 67,
                     "pathId": -3717533166410902982
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2903457682797520806
                 }
             ],
             "pathId": 5151775553695601175,
@@ -877,25 +934,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ならば私たちにも\r\n薬草探しを協力させてもらえないか？",
-            "enText": "Then perhaps we can help you find some herbs?",
+            "enText": "Then, it sounds like you really should let<n>us assist\nin your search.",
             "nextBlock": 30,
             "origClipLength": 80,
+            "voiceIdx": 5,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 4302865555812390409
+                },
                 {
                     "origLen": 68,
                     "pathId": 5115096542815914053
                 },
                 {
                     "origLen": 91,
-                    "pathId": 4302865555812390409
+                    "pathId": 4772912796974131524
                 },
                 {
                     "origLen": 92,
                     "pathId": -878561791405169192
-                },
-                {
-                    "origLen": 91,
-                    "pathId": 4772912796974131524
                 }
             ],
             "pathId": 7172296747053833182,
@@ -905,32 +964,34 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "君からもらった情報を分析して、\r\n候補を絞れば、すぐに見つかるはずだ。",
-            "enText": "I'll analyze the information you gave me, \nnarrow down the list of candidates, and we'll \nfind them in no time.",
+            "enText": "You can give us the most relevant<n>information,\nand we'll use that to narrow<n>down potential\nharvesting locations.",
             "nextBlock": 31,
             "origClipLength": 90,
+            "voiceIdx": 0,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "早く見つけてみんなで門限を守ろう！",
-                    "enText": "Let's find them fast, and \nlet's all keep our curfew!",
+                    "enText": "Then we can find those herbs and make it back\non time!",
                     "nextBlock": 31
                 }
             ],
             "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 6550121936476283472
+                },
                 {
                     "origLen": 55,
                     "pathId": -6694937873963723244
                 },
                 {
                     "origLen": 101,
-                    "pathId": 6550121936476283472
+                    "pathId": -1496192688771065097
                 },
                 {
                     "origLen": 102,
                     "pathId": 8003726105825595189
-                },
-                {
-                    "origLen": 101,
-                    "pathId": -1496192688771065097
                 }
             ],
             "pathId": 3336232439017555869,
@@ -940,25 +1001,27 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "……わ、わかったわよ。",
-            "enText": "…… Okay, I get it.",
+            "enText": "...O-okay, fine.",
             "nextBlock": 32,
             "origClipLength": 59,
+            "voiceIdx": 49,
+            "voiceSheetId": "051044001",
             "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": -1103339624767483572
+                },
                 {
                     "origLen": 71,
                     "pathId": -2656355416287989492
                 },
                 {
                     "origLen": 70,
-                    "pathId": -1103339624767483572
+                    "pathId": -2064726976071037541
                 },
                 {
                     "origLen": 46,
                     "pathId": 718403163780052842
-                },
-                {
-                    "origLen": 70,
-                    "pathId": -2064726976071037541
                 }
             ],
             "pathId": -5434497561662355936,
@@ -968,25 +1031,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして――\r\nビワハヤヒデのおかげで、思ったよりも早く\n目当ての植物を見つけ出すことができた。",
-            "enText": "And - thanks to Biwa Hayahide - I \nwas able to find the plant I was looking \nfor sooner than I expected.",
+            "enText": "And so, thanks to Biwa Hayahide's logic<n>and\nwisdom, we locate the herbs in no<n>time at all.",
             "nextBlock": 33,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": 2131360747819860135
-                },
                 {
                     "origLen": 24,
                     "pathId": 5446252384100057112
                 },
                 {
                     "origLen": 24,
-                    "pathId": -6165378861385982738
+                    "pathId": 2131360747819860135
                 },
                 {
                     "origLen": 25,
                     "pathId": -1369096944359789412
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -6165378861385982738
                 }
             ],
             "pathId": 8098170605721968778,
@@ -996,25 +1061,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "スイープもマーベラスも、\r\n無事に見つかってよかったよ。",
-            "enText": "I'm glad Sweep and Marvelous \nwere found safe and sound.",
+            "enText": "Sweep! I'm so glad you've returned home<n>safe and\nsound!",
             "nextBlock": 34,
             "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 112,
-                    "pathId": -2612248992872277634
-                },
                 {
                     "origLen": 111,
                     "pathId": -1519854624227082080
                 },
                 {
-                    "origLen": 111,
-                    "pathId": 1609957438955542910
+                    "origLen": 112,
+                    "pathId": -2612248992872277634
                 },
                 {
                     "origLen": 114,
                     "pathId": 1206071759729544359
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 1609957438955542910
                 }
             ],
             "pathId": -8124238812170259513,
@@ -1024,25 +1091,27 @@
             "jpName": "スイープトウショウ",
             "enName": "Sweep Tosho",
             "jpText": "そ、その、今日のところは助かったわ。\r\n……それじゃ。",
-            "enText": "Well, well, thank you for saving the day. \nI'll see you at ……",
+            "enText": "Y-yeah, so, uh...<n>Thanksforyourhelptoday. Byyye!",
             "nextBlock": 35,
             "origClipLength": 80,
+            "voiceIdx": 44,
+            "voiceSheetId": "051044001",
             "animData": [
-                {
-                    "origLen": 91,
-                    "pathId": -5134929859599099209
-                },
                 {
                     "origLen": 91,
                     "pathId": 4202951178496767589
                 },
                 {
-                    "origLen": 92,
-                    "pathId": 3689931615158547139
+                    "origLen": 91,
+                    "pathId": -5134929859599099209
                 },
                 {
                     "origLen": 92,
                     "pathId": -559194863062962461
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 3689931615158547139
                 }
             ],
             "pathId": -4908326527360914356,
@@ -1052,33 +1121,35 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "おや、彼女があんなにしおらしくなるなんて、\r\nどんな魔法を使ったんだい？",
-            "enText": "Oh, what kind of magic did you use to get her \nto be so demure?",
+            "enText": "Goodness me! I don't believe I've ever<n>heard her\nsay the word \"thanks.\" What<n>manner of spell did\nyou cast on her?",
             "nextBlock": 36,
             "origClipLength": 91,
+            "voiceIdx": 20,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": -5015660164229761139
-                },
                 {
                     "origLen": 136,
                     "pathId": -7608374324235560939
                 },
                 {
-                    "origLen": 91,
-                    "pathId": -3427904246748565678
+                    "origLen": 88,
+                    "pathId": -5015660164229761139
                 },
                 {
                     "origLen": 91,
                     "pathId": 8656802100797121869
                 },
                 {
-                    "origLen": 58,
-                    "pathId": -2071347071505297540
+                    "origLen": 91,
+                    "pathId": -3427904246748565678
                 },
                 {
                     "origLen": 58,
                     "pathId": 3680775191860629935
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -2071347071505297540
                 }
             ],
             "pathId": 6071897072374874827,
@@ -1088,17 +1159,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "何も。\r\nただ、おせっかいを焼いただけだよ。",
-            "enText": "Nothing. Just being nosy, that's all.",
+            "enText": "No spell. I merely interjected myself into<n>her\npersonal affairs.",
             "nextBlock": 37,
             "origClipLength": 73,
+            "voiceIdx": 50,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": -3297082703723461981
-                },
                 {
                     "origLen": 84,
                     "pathId": 8231742723600697453
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3297082703723461981
                 },
                 {
                     "origLen": 50,
@@ -1106,11 +1179,11 @@
                 },
                 {
                     "origLen": 84,
-                    "pathId": 7994000127781131348
+                    "pathId": -84970131063489809
                 },
                 {
                     "origLen": 84,
-                    "pathId": -84970131063489809
+                    "pathId": 7994000127781131348
                 }
             ],
             "pathId": -5257373484159343093,
@@ -1120,29 +1193,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……小さい頃の妹とかぶって見えて、\r\nなんだか放っておけなくてな。",
-            "enText": "I saw her as my sister when I was…… little, \nand I just couldn't leave her alone.",
+            "enText": "She reminds me of Brian when she was<n>little. I\ncouldn't resist helping her.",
             "nextBlock": 38,
             "origClipLength": 88,
+            "voiceIdx": 74,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 2734975784861028369
-                },
                 {
                     "origLen": 99,
                     "pathId": 3750975558893223259
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 2734975784861028369
                 },
                 {
                     "origLen": 92,
                     "pathId": 6551289737136414471
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 6061199151636793543
-                },
-                {
                     "origLen": 99,
                     "pathId": -3079393021540456277
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 6061199151636793543
                 }
             ],
             "pathId": 8646538478019124259,
@@ -1152,29 +1227,31 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "なるほどね。その『おせっかい』に、\r\n私も寮のみんなも助けられているよ。",
-            "enText": "I see. Your \"nosiness\" helps \nme and everyone in the dorm.",
+            "enText": "Well, your \"interjecting,\" is always a<n>boon to me,\nas well as the whole dorm.",
             "nextBlock": 39,
             "origClipLength": 91,
+            "voiceIdx": 8,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -7544127926636569955
+                    "pathId": -8521698215988638621
                 },
                 {
                     "origLen": 102,
-                    "pathId": -8521698215988638621
+                    "pathId": -7544127926636569955
                 },
                 {
                     "origLen": 20,
                     "pathId": -2373419303825155530
                 },
                 {
-                    "origLen": 103,
-                    "pathId": 1860131429450092059
-                },
-                {
                     "origLen": 102,
                     "pathId": 7015162067654303310
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 1860131429450092059
                 }
             ],
             "pathId": 3132178527930183007,
@@ -1184,25 +1261,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "今日だってそうだ。\r\n改めて礼を言うよ、ハヤヒデ。",
-            "enText": "Even today, it's the same. I \nthank you again, Hayahide.",
+            "enText": "Today certainly has been no exception. I<n>give you\nmy thanks, Hayahide.",
             "nextBlock": 40,
             "origClipLength": 77,
+            "voiceIdx": 12,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 7356594416439584521
+                },
                 {
                     "origLen": 41,
                     "pathId": 8573707358015416008
                 },
                 {
                     "origLen": 88,
-                    "pathId": 7356594416439584521
+                    "pathId": -2724315665303034855
                 },
                 {
                     "origLen": 103,
                     "pathId": 2885476994969320848
-                },
-                {
-                    "origLen": 88,
-                    "pathId": -2724315665303034855
                 }
             ],
             "pathId": 7737218653557446902,
@@ -1212,25 +1291,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "フジキセキからの言葉が意外だったのか、\r\nビワハヤヒデは\n少しだけ照れくさそうにしていた。",
-            "enText": "Perhaps surprised by Fujikiseki's words, Biwa \nHayahide looked a little embarrassed.",
+            "enText": "The slightest blush crawls across Biwa<n>Hayahide's\nface in response to the<n>unexpected compliment\nfrom Fuji Kiseki.",
             "nextBlock": -1,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 5306714335322380562
+                },
                 {
                     "origLen": 114,
                     "pathId": -8129288782099544353
                 },
                 {
                     "origLen": 114,
-                    "pathId": 5306714335322380562
+                    "pathId": 676834367851907642
                 },
                 {
                     "origLen": 65,
                     "pathId": -4755023275705539527
-                },
-                {
-                    "origLen": 114,
-                    "pathId": 676834367851907642
                 }
             ],
             "pathId": 1189954572336509400,
@@ -1240,25 +1321,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ああ。\r\nそれは頭数の多いこちらが担当すべきだろう。",
-            "enText": "Oh. We should be in charge of that, as we \nhave more heads.",
+            "enText": "Good idea. She'll be the more difficult<n>to track,\nso considering that two heads<n>are better than\none, we should take<n>charge of finding her.",
             "nextBlock": 42,
             "origClipLength": 78,
+            "voiceIdx": 47,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 217075044815055479
+                },
                 {
                     "origLen": 89,
                     "pathId": 7296290135392103609
                 },
                 {
                     "origLen": 89,
-                    "pathId": 217075044815055479
+                    "pathId": -5554132723780824560
                 },
                 {
                     "origLen": 50,
                     "pathId": 6028965739354625304
-                },
-                {
-                    "origLen": 89,
-                    "pathId": -5554132723780824560
                 }
             ],
             "pathId": 8355514238230724329,
@@ -1268,32 +1351,34 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "まずは敷地の中でマーベラスという単語に\r\n紐づきそうな場所を洗い出すとするか。",
-            "enText": "Let's start by identifying places \non the property that might be tied \nto the word marvelous.",
+            "enText": "Let's first identify any nearby locations<n>which\ncould reasonably be described as<n>\"marvelous.\"",
             "nextBlock": 43,
             "origClipLength": 95,
+            "voiceIdx": 69,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "わかった！",
-                    "enText": "Okay, I got it!",
+                    "enText": "Good idea!",
                     "nextBlock": 43
                 }
             ],
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -4221376838973170645
+                },
                 {
                     "origLen": 107,
                     "pathId": 8509993757647492044
                 },
                 {
                     "origLen": 106,
-                    "pathId": -4221376838973170645
+                    "pathId": 4977273304434922701
                 },
                 {
                     "origLen": 120,
                     "pathId": -1673742949176987896
-                },
-                {
-                    "origLen": 106,
-                    "pathId": 4977273304434922701
                 }
             ],
             "pathId": 2178206997084043522,
@@ -1303,25 +1388,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "行き違いになった時のことを考え、\r\n『帰ったら寮長の携帯に連絡するように』と\n寮のドアに張り紙を残し、探索を開始した。",
-            "enText": "In case we got separated, I left a sign on \nthe door of the dormitory saying, \"Call the \nmatron's cell phone when you get back.\" I \nleft a sign on the door of the dormitory \nsaying, \"Please call the dorm head's cell \nphone when you get back,\" and began my search.",
+            "enText": "In case they come back on their own, we<n>leave a\nnote on the door for them to call<n>the dorm\nleader, and then we depart on<n>our search.",
             "nextBlock": 44,
             "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 133,
-                    "pathId": 6652077171151291908
-                },
                 {
                     "origLen": 132,
                     "pathId": -2618982971367400321
                 },
                 {
                     "origLen": 133,
-                    "pathId": -1495093863023736898
+                    "pathId": 6652077171151291908
                 },
                 {
                     "origLen": 132,
                     "pathId": -4275453862221836771
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -1495093863023736898
                 }
             ],
             "pathId": -3485574791514467607,
@@ -1331,25 +1418,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ステージにはいないか……。",
-            "enText": "Are you on stage or not? ……",
+            "enText": "She's not at the stage...",
             "nextBlock": 45,
             "origClipLength": 61,
+            "voiceIdx": 79,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 20,
-                    "pathId": -5319933594084162818
-                },
                 {
                     "origLen": 20,
                     "pathId": 6915925041955661646
                 },
                 {
-                    "origLen": 91,
-                    "pathId": 6353369390514489183
+                    "origLen": 20,
+                    "pathId": -5319933594084162818
                 },
                 {
                     "origLen": 111,
                     "pathId": -2889476760509752535
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 6353369390514489183
                 }
             ],
             "pathId": 5445679845058596948,
@@ -1359,21 +1448,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "三女神像の前にもいない……。\r\nとなれば屋内か？",
-            "enText": "They are not even in front of the three \ngoddess statues.…… If so, is it indoors?",
+            "enText": "Not at the Three Goddesses statue,<n>either. Could\nshe be inside somewhere?",
             "nextBlock": 46,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 104,
                     "pathId": 2572977995580872127
                 },
                 {
-                    "origLen": 104,
-                    "pathId": 3462728455186597384
-                },
-                {
                     "origLen": 116,
                     "pathId": 8200933144735281729
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 3462728455186597384
                 }
             ],
             "pathId": -7935413871799779034,
@@ -1383,21 +1474,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "校舎の中でマーベラスな場所か……\r\n音楽室あたりだろうか？",
-            "enText": "Is it a marvelous place in the school \nbuilding or around the…… music room?",
+            "enText": "Let's try to reason this out. What<n>\"marvelous\"\nplaces might we find<n>indoors? The music room,\nperhaps?",
             "nextBlock": 47,
             "origClipLength": 82,
+            "voiceIdx": 34,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 14,
                     "pathId": 2741949916891120814
                 },
                 {
-                    "origLen": 109,
-                    "pathId": -3030615402408453436
-                },
-                {
                     "origLen": 122,
                     "pathId": -4066830182817420535
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -3030615402408453436
                 }
             ],
             "pathId": -7840064742192447201,
@@ -1407,21 +1500,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "しかし誰もいない今、\r\n感銘を受けようもないはず――",
-            "enText": "But now that no one's here, there's \nno way to be impressed―",
+            "enText": "But with no one there right now, calling<n>it\n\"marvelous\" seems a bit inaccu—",
             "nextBlock": 48,
             "origClipLength": 78,
+            "voiceIdx": 35,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 80,
                     "pathId": -7682175544383597427
                 },
                 {
-                    "origLen": 109,
-                    "pathId": -300902911131690309
-                },
-                {
                     "origLen": 89,
                     "pathId": -241826776968148709
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -300902911131690309
                 }
             ],
             "pathId": 1005729849811812231,
@@ -1431,29 +1526,31 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "赤くてキレイなマーベラース☆\r\nとってもキラキラマーベラーース★",
-            "enText": "Red and beautiful marvelers☆ \nVery sparkly marvelers★★",
+            "enText": "How exquisitely red and marvelous! ☆<n>So\nmarvelously sparkly! ★",
             "nextBlock": 49,
             "origClipLength": 86,
+            "voiceIdx": 61,
+            "voiceSheetId": "051055001",
             "animData": [
                 {
                     "origLen": 144,
                     "pathId": 7369873394699644597
                 },
                 {
-                    "origLen": 145,
-                    "pathId": 430960606279735434
-                },
-                {
                     "origLen": 165,
                     "pathId": 2558583193204032944
                 },
                 {
-                    "origLen": 74,
-                    "pathId": -577833558986963098
+                    "origLen": 145,
+                    "pathId": 430960606279735434
                 },
                 {
                     "origLen": 95,
                     "pathId": -7357263370665288159
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -577833558986963098
                 }
             ],
             "pathId": -4829666150966830575,
@@ -1463,29 +1560,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "マーベラス君……！？",
-            "enText": "Marvelous Ms. Marvelous ……!",
+            "enText": "Marvelous?!",
             "nextBlock": 50,
             "origClipLength": 58,
+            "voiceIdx": 110,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 6157355919505952432
                 },
                 {
-                    "origLen": 27,
-                    "pathId": -1750293890994068414
-                },
-                {
                     "origLen": 69,
                     "pathId": 5068206937154215858
                 },
                 {
-                    "origLen": 69,
-                    "pathId": 4027115932589108197
+                    "origLen": 27,
+                    "pathId": -1750293890994068414
                 },
                 {
                     "origLen": 70,
                     "pathId": -9015422921088556981
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 4027115932589108197
                 }
             ],
             "pathId": -6689109705712598493,
@@ -1495,25 +1594,27 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "あれれ、ハヤヒデだーっ！\r\nこんなとこでどうしたの～っ☆",
-            "enText": "Oh, look, it's Hayahide! \nWhat are you doing here?",
+            "enText": "Why, if it isn't Hayahide! What brings<n>you\nhere? ☆",
             "nextBlock": 51,
             "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051055001",
             "animData": [
+                {
+                    "origLen": 92,
+                    "pathId": -6598057319766823294
+                },
                 {
                     "origLen": 92,
                     "pathId": -4457032589908690412
                 },
                 {
                     "origLen": 92,
-                    "pathId": -6598057319766823294
+                    "pathId": -4276630084978890129
                 },
                 {
                     "origLen": 52,
                     "pathId": -8497638380649157288
-                },
-                {
-                    "origLen": 92,
-                    "pathId": -4276630084978890129
                 }
             ],
             "pathId": 1090220950288763084,
@@ -1523,25 +1624,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "はぁ……。\r\nそれはこちらの台詞だ。",
-            "enText": "Huh.…… That's our line.",
+            "enText": "<i>Sigh...</i> I could ask you the same.",
             "nextBlock": 52,
             "origClipLength": 68,
+            "voiceIdx": 21,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 3847104026173130133
+                },
                 {
                     "origLen": 50,
                     "pathId": -6801319688325548494
                 },
                 {
                     "origLen": 79,
-                    "pathId": 3847104026173130133
+                    "pathId": -4855307559731396087
                 },
                 {
                     "origLen": 60,
                     "pathId": -7627071890520768069
-                },
-                {
-                    "origLen": 79,
-                    "pathId": -4855307559731396087
                 }
             ],
             "pathId": -2981651976183872206,
@@ -1551,25 +1654,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "『マーベラス探し』と聞いたが、\r\n一体、何をしていたんだ？",
-            "enText": "I heard you were \"looking for Marvelous.\" \nWhat the hell were you doing there?",
+            "enText": "I heard you were on a \"marvelous<n>search,\" but I\nstill have yet to grasp<n>what, exactly, that entails.",
             "nextBlock": 53,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 5173626255296303695
+                },
                 {
                     "origLen": 72,
                     "pathId": -5081155956886457928
                 },
                 {
                     "origLen": 93,
-                    "pathId": 5173626255296303695
+                    "pathId": 756075093317720931
                 },
                 {
                     "origLen": 94,
                     "pathId": -105620850860310055
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 756075093317720931
                 }
             ],
             "pathId": 5293947118563112192,
@@ -1579,25 +1684,27 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "うーんとね、夜の校舎を走ってると、\r\n赤い光が追いかけてくるっていう\nマーベラスなウワサがあるんだけど――",
-            "enText": "Well, there's a marvelous rumor that when \nyou're running through the school building at \nnight. There's a marvelous rumor…",
+            "enText": "Well, um, I heard a marvelous rumor that<n>if you\nrun around inside the school at<n>night, a red light\nchases you...",
             "nextBlock": 54,
             "origClipLength": 114,
+            "voiceIdx": 79,
+            "voiceSheetId": "051055001",
             "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": 4679823074835821464
+                },
                 {
                     "origLen": 125,
                     "pathId": -4453575190842371682
                 },
                 {
                     "origLen": 125,
-                    "pathId": 4679823074835821464
+                    "pathId": -6971762351920359579
                 },
                 {
                     "origLen": 102,
                     "pathId": -1705797673755543149
-                },
-                {
-                    "origLen": 125,
-                    "pathId": -6971762351920359579
                 }
             ],
             "pathId": -6545454899516648189,
@@ -1607,32 +1714,34 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "走ってみたら、ホントに赤い光が\r\n追いかけてきたから楽しくなっちゃった～☆",
-            "enText": "I ran and saw a red light really chasing me, \nso it was fun!",
+            "enText": "So I tried it, and it turns out it's true! I've<n>been\nhaving so much fun with it! ☆",
             "nextBlock": 55,
             "origClipLength": 93,
+            "voiceIdx": 2,
+            "voiceSheetId": "051055001",
             "choices": [
                 {
                     "jpText": "……もしかして幽霊？",
-                    "enText": "…… maybe a ghost?",
+                    "enText": "That... sounds a lot like a ghost.",
                     "nextBlock": 55
                 }
             ],
             "animData": [
                 {
                     "origLen": 104,
+                    "pathId": 5703641197121567502
+                },
+                {
+                    "origLen": 104,
                     "pathId": 328142651258068046
                 },
                 {
                     "origLen": 104,
-                    "pathId": 5703641197121567502
+                    "pathId": -7543764684351043450
                 },
                 {
                     "origLen": 67,
                     "pathId": 1458711163313373737
-                },
-                {
-                    "origLen": 104,
-                    "pathId": -7543764684351043450
                 }
             ],
             "pathId": 7406985445322614596,
@@ -1642,25 +1751,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ゆ、ゆゆゆ幽霊なんて非論理的なもの、\r\nこの世に存在するはずがないだろうっ！！",
-            "enText": "YU-YU-YU, ghosts are illogical things, they \ncan't exist in this world!",
+            "enText": "Th-the existence of ghosts s-simply isn't<n>\nsupported by any kind of scientific<n>evidence!",
             "nextBlock": 56,
             "origClipLength": 95,
+            "voiceIdx": 28,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -8210344295804570931
+                },
                 {
                     "origLen": 72,
                     "pathId": -8757820577238720130
                 },
                 {
                     "origLen": 106,
-                    "pathId": -8210344295804570931
+                    "pathId": -2560654614411240461
                 },
                 {
                     "origLen": 106,
                     "pathId": 1663584335595133390
-                },
-                {
-                    "origLen": 106,
-                    "pathId": -2560654614411240461
                 }
             ],
             "pathId": 972763440493481371,
@@ -1670,25 +1781,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "万が一にも存在したとしたら、\r\nどうやって対処すればいいのか――",
-            "enText": "If by any chance they do exist, how do we \ndeal with them?",
+            "enText": "But... for argument's sake, if they do<n>exist, how...\nmight one go about dealing<n>with them?",
             "nextBlock": 57,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 8656536665880161974
+                },
                 {
                     "origLen": 50,
                     "pathId": -1593859522719220041
                 },
                 {
                     "origLen": 97,
-                    "pathId": 8656536665880161974
+                    "pathId": -755615661297270058
                 },
                 {
                     "origLen": 97,
                     "pathId": -9037491767047532086
-                },
-                {
-                    "origLen": 97,
-                    "pathId": -755615661297270058
                 }
             ],
             "pathId": 3240341689789235021,
@@ -1698,25 +1811,27 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "おーい……おーい……！",
-            "enText": "Hey…… hey ……!",
+            "enText": "Hellooo? Hellooooo?",
             "nextBlock": 58,
             "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": 8426407983550713491
-                },
                 {
                     "origLen": 19,
                     "pathId": -2571967464508329272
                 },
                 {
-                    "origLen": 13,
-                    "pathId": 8690329861232246707
+                    "origLen": 19,
+                    "pathId": 8426407983550713491
                 },
                 {
                     "origLen": 13,
                     "pathId": 8679640969139319214
+                },
+                {
+                    "origLen": 13,
+                    "pathId": 8690329861232246707
                 }
             ],
             "pathId": -8504241750566653601,
@@ -1726,17 +1841,19 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "おおっ！\r\n赤い光だ～☆",
-            "enText": "Oh! It's a red light!",
+            "enText": "Oh! It's the red light! ☆",
             "nextBlock": 59,
             "origClipLength": 60,
+            "voiceIdx": 31,
+            "voiceSheetId": "051055001",
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": 8014461596820546823
+                    "pathId": 1730422410792541756
                 },
                 {
                     "origLen": 71,
-                    "pathId": 1730422410792541756
+                    "pathId": 8014461596820546823
                 }
             ],
             "pathId": -3864971044100826134,
@@ -1746,25 +1863,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ぎゃあああああっ！？",
-            "enText": "Aaahhh!",
+            "enText": "Gaaaaah!",
             "nextBlock": 60,
             "origClipLength": 58,
+            "voiceIdx": 104,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 7481785053094106353
-                },
                 {
                     "origLen": 58,
                     "pathId": -6385621611905747958
                 },
                 {
-                    "origLen": 91,
-                    "pathId": -8439311297038814806
+                    "origLen": 58,
+                    "pathId": 7481785053094106353
                 },
                 {
                     "origLen": 91,
                     "pathId": -1052386016001188235
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -8439311297038814806
                 }
             ],
             "pathId": -7570441699513139079,
@@ -1774,24 +1893,26 @@
             "jpName": "マーベラスサンデー",
             "enName": "Marvelous Sunday",
             "jpText": "わ～☆\r\nハヤヒデ、すっごいスピード～★",
-            "enText": "Wow～☆ Hayahide, you're so fast!",
+            "enText": "Whoa! ☆ You're really moving,<n>Hayahide! ★",
             "nextBlock": 61,
             "origClipLength": 71,
+            "voiceIdx": 113,
+            "voiceSheetId": "051055001",
             "choices": [
                 {
                     "jpText": "っていうか赤い光の正体って……",
-                    "enText": "I mean, what is the red light? ……",
+                    "enText": "Wait. This red light is no ghost, it's...",
                     "nextBlock": 61
                 }
             ],
             "animData": [
                 {
-                    "origLen": 33,
-                    "pathId": 1504119197482435729
-                },
-                {
                     "origLen": 82,
                     "pathId": -3585867854710540807
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 1504119197482435729
                 }
             ],
             "pathId": -3612929423408345435,
@@ -1799,19 +1920,21 @@
         },
         {
             "jpName": "警備員",
-            "enName": "",
+            "enName": "Security Guard",
             "jpText": "ごめんごめん、\r\n怖がらせちゃったみたいだね。",
-            "enText": "Sorry, sorry, I guess I scared you.",
+            "enText": "I'm so sorry. I didn't mean to scare you.",
             "nextBlock": 62,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 79,
-                    "pathId": -4535454769575055857
-                },
                 {
                     "origLen": 86,
                     "pathId": -5729605915473445551
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -4535454769575055857
                 }
             ],
             "pathId": -5570716108106485577,
@@ -1819,19 +1942,21 @@
         },
         {
             "jpName": "警備員",
-            "enName": "",
+            "enName": "Security Guard",
             "jpText": "君らも、\r\nそろそろ門限だから早く帰りなよ～？",
-            "enText": "It's almost curfew, so you guys should go \nhome soon, okay?",
+            "enText": "Shouldn't you be heading home so you<n>don't miss\ncurfew?",
             "nextBlock": 63,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 87,
-                    "pathId": -594700914833764224
-                },
                 {
                     "origLen": 86,
                     "pathId": 8698369973763040466
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -594700914833764224
                 }
             ],
             "pathId": -3114687016224447249,
@@ -1841,33 +1966,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "すまなかったな、2人とも……。",
-            "enText": "Sorry, you two. ……",
+            "enText": "I believe I owe you both an apology.",
             "nextBlock": 64,
             "origClipLength": 64,
+            "voiceIdx": 24,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 940615613683531227
+                },
                 {
                     "origLen": 91,
                     "pathId": -6917038574300953370
                 },
                 {
                     "origLen": 96,
-                    "pathId": 940615613683531227
+                    "pathId": 5212129325711660002
                 },
                 {
                     "origLen": 96,
                     "pathId": -5673841353887175869
                 },
                 {
-                    "origLen": 96,
-                    "pathId": 5212129325711660002
+                    "origLen": 25,
+                    "pathId": 679961276356647804
                 },
                 {
                     "origLen": 26,
                     "pathId": -5421472003222293533
-                },
-                {
-                    "origLen": 25,
-                    "pathId": 679961276356647804
                 }
             ],
             "pathId": 8357239660975237929,
@@ -1877,32 +2004,34 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "気が動転していたとはいえ、\r\n1人で逃げるという愚行を犯してしまった。",
-            "enText": "Even though I was upset, I committed the \nfoolish act of running away alone.",
+            "enText": "I got a little spooked, I will admit, but<n>that\ndoesn't excuse me for running off<n>by myself.",
             "nextBlock": 65,
             "origClipLength": 90,
+            "voiceIdx": 60,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "いや、気にしないで",
-                    "enText": "No, never mind.",
+                    "enText": "It's really nothing to worry about.",
                     "nextBlock": 65
                 }
             ],
             "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 7334817276765955514
+                },
                 {
                     "origLen": 102,
                     "pathId": 5209886294751521020
                 },
                 {
                     "origLen": 101,
-                    "pathId": 7334817276765955514
+                    "pathId": 127489057015534009
                 },
                 {
                     "origLen": 101,
                     "pathId": -3855138451519927623
-                },
-                {
-                    "origLen": 101,
-                    "pathId": 127489057015534009
                 }
             ],
             "pathId": -8510444852281936859,
@@ -1912,25 +2041,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "そうそう。結果的に\r\nマーベラスもスイープも無事帰ってきたしさ。",
-            "enText": "Oh yeah, and as a result, Marvelous \nand Sweep are both back safe and sound. \nAs it turns out, Marvelous and Sweep \nare both back safe and sound.",
+            "enText": "Indeed! All that matters is that our<n>combined\nefforts have brought<n>Marvelous and Sweep back\nhome safe<n>and sound.",
             "nextBlock": 66,
             "origClipLength": 86,
+            "voiceIdx": 38,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -7072435199801360491
+                },
                 {
                     "origLen": 46,
                     "pathId": -961462495236036977
                 },
                 {
                     "origLen": 97,
-                    "pathId": -7072435199801360491
+                    "pathId": 4646129648542414630
                 },
                 {
                     "origLen": 73,
                     "pathId": 3823137910050207063
-                },
-                {
-                    "origLen": 97,
-                    "pathId": 4646129648542414630
                 }
             ],
             "pathId": -3665935370546297704,
@@ -1940,25 +2071,27 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "……しかし幽霊が苦手なんて\r\nかわいらしい弱点があったんだね、ハヤヒデ。",
-            "enText": "…… but you had a cute weakness \nfor ghosts, Hayahide.",
+            "enText": "Heh. But I must admit, never in my<n>wildest dreams\nwould I have guessed<n>you were afraid of ghosts!\nHow adorable!",
             "nextBlock": 67,
             "origClipLength": 91,
+            "voiceIdx": 0,
+            "voiceSheetId": "051005001",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 3424318868196571900
+                },
                 {
                     "origLen": 52,
                     "pathId": -2702770795426610048
                 },
                 {
                     "origLen": 102,
-                    "pathId": 3424318868196571900
+                    "pathId": 7532161141996446194
                 },
                 {
                     "origLen": 102,
                     "pathId": 8337341765843195808
-                },
-                {
-                    "origLen": 102,
-                    "pathId": 7532161141996446194
                 }
             ],
             "pathId": -4495701118933905947,
@@ -1968,25 +2101,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "くっ……！\r\n仕方がないだろう！",
-            "enText": "Damn ……! We won't have a choice!",
+            "enText": "Urk! I-I mean, who isn't scared of<n>ghosts?! Ghosts\nare scary!",
             "nextBlock": 68,
             "origClipLength": 65,
+            "voiceIdx": 64,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2124999272814636883
+                },
                 {
                     "origLen": 76,
                     "pathId": -1502164505418548640
                 },
                 {
                     "origLen": 76,
-                    "pathId": 2124999272814636883
+                    "pathId": -6689549051140183300
                 },
                 {
                     "origLen": 20,
                     "pathId": 8861559165669128465
-                },
-                {
-                    "origLen": 76,
-                    "pathId": -6689549051140183300
                 }
             ],
             "pathId": 3384971319714912988,
@@ -1996,41 +2131,43 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "生態も不明、過去の事例も当てにならない！\r\nこれでは対処のしようもないじゃないか！",
-            "enText": "The ecology is unknown, and past \ncases are unreliable! We have no \nway of dealing with this!",
+            "enText": "Almost nothing is known about their<n>behavior!\nWhat are you supposed to do<n>if you see one?!",
             "nextBlock": 69,
             "origClipLength": 98,
+            "voiceIdx": 109,
+            "voiceSheetId": "051023001",
             "choices": [
                 {
                     "jpText": "今回は警備員さんだったから大丈夫だ！",
-                    "enText": "It's okay, this time it \nwas the security guard!",
+                    "enText": "But it was just a security guard, so it's fine!",
                     "nextBlock": 69
                 },
                 {
                     "jpText": "今回は警備員さんだったから大丈夫だよ！",
-                    "enText": "It's okay, this time it \nwas the security guard!",
+                    "enText": "But it was just a security guard, so it's fine!",
                     "nextBlock": 69
                 }
             ],
             "animData": [
                 {
                     "origLen": 109,
-                    "pathId": -7693826016326761638
+                    "pathId": 7299766300759882491
                 },
                 {
                     "origLen": 109,
-                    "pathId": 7299766300759882491
+                    "pathId": -7693826016326761638
                 },
                 {
                     "origLen": 99,
                     "pathId": 2478016867777348004
                 },
                 {
-                    "origLen": 110,
-                    "pathId": 4783155824499653440
-                },
-                {
                     "origLen": 109,
                     "pathId": -3532538311878263330
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4783155824499653440
                 }
             ],
             "pathId": -8948791267690080394,
@@ -2040,29 +2177,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "そ、そうだな……。\r\nおかげで今日は安眠できそうだよ……。",
-            "enText": "Yes, that's right.…… Thanks to you, I'll be \nable to get a good night's sleep today. ……",
+            "enText": "And thank goodness for that. If it were<n>anything\nelse, I don't think I'd be getting<n>any sleep tonight\nat all!",
             "nextBlock": 70,
             "origClipLength": 82,
+            "voiceIdx": 82,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -6095345563367053407
+                    "pathId": 2997332726674235142
                 },
                 {
                     "origLen": 93,
-                    "pathId": 2997332726674235142
+                    "pathId": -6095345563367053407
                 },
                 {
                     "origLen": 20,
                     "pathId": 8660258557028032459
                 },
                 {
-                    "origLen": 54,
-                    "pathId": 3123551526001551798
-                },
-                {
                     "origLen": 93,
                     "pathId": 6450720305043657003
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 3123551526001551798
                 }
             ],
             "pathId": -2214913640017904411,
@@ -2072,30 +2211,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "そう言ってため息をつくビワハヤヒデは、\r\n心の底から安堵しているようだった。",
-            "enText": "Sighing, Biwa Hayahide seemed to be relieved \nfrom the bottom of her heart.",
+            "enText": "And with that, Biwa Hayahide lets out a<n>deep sigh\nof genuine relief, slightly<n>embarrassed, but\nultimately no worse for<n>wear.",
             "nextBlock": -1,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": -7103887070686369154
-                },
                 {
                     "origLen": 13,
                     "pathId": 1900539475036862216
                 },
                 {
                     "origLen": 13,
-                    "pathId": -7438446089163262019
+                    "pathId": -7103887070686369154
                 },
                 {
                     "origLen": 13,
                     "pathId": 3062799006541631987
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -7438446089163262019
                 }
             ],
             "pathId": 6860297656725163736,
             "blockIdx": 70
         }
-    ],
-    "modified": 1662157440
+    ]
 }

@@ -1,57 +1,139 @@
 {
-    "version": 4,
-    "bundle": "BLNISNHNE2IF3PH3XGMZTV5RZAOIRDBK",
+    "version": 6,
+    "bundle": "LHXOO4ONKTY7WIF6NYMFERB5AQZYZEDS",
     "type": "story",
     "storyId": "820021001",
     "title": "夢を追い続ける限り",
+    "enTitle": "Chasing Dreams",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "桐生院トレーナーをお出かけに誘い、\r\n2人のんびりと歩いていると――",
-            "enText": "I invited my trainer Kiryuin to go out, and \nwe were walking leisurely…",
+            "enText": "I ask Trainer Kiryuin to join me for a day<n>out and\nabout, and she accepts. The two<n>of us are idly\nwalking around, when...",
             "nextBlock": 2,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6899536602485089507
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -3036516839416574115
+                }
+            ],
             "pathId": 8363958217019122195,
             "blockIdx": 1
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あら？　……あれは。",
-            "enText": "Oh? … That's.",
+            "enText": "Oh, what's this?",
             "nextBlock": 3,
+            "origClipLength": 51,
+            "voiceIdx": 30,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 53,
+                    "pathId": -4912467468839038109
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -6925378660129298581
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2690067261489250997
+                }
+            ],
             "pathId": 7533183247463821188,
             "blockIdx": 2
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "ダメだ！　そこはもっと気合いを入れて、\r\n根性で曲がり切らないと……！",
-            "enText": "No! No! That's where you have to be more \ndetermined and gutsy to make the turn…!",
+            "enText": "No good! Give it more heart, and put<n>your back\ninto it!",
             "nextBlock": 4,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 4160637957023563267
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 478000530198933676
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -678653845582552985
+                }
+            ],
             "pathId": 8591612612501120675,
             "blockIdx": 3
         },
         {
             "jpName": "ウマ娘A",
-            "enName": "Horsegirl A",
+            "enName": "Umamusume A",
             "jpText": "はっ、はい……ハァ、ハッ……。\r\nもう1度、行ってきます……！",
-            "enText": "Ha, yes… ha, ha… I'll go again…!",
+            "enText": "<i>Huff, huff, huff...</i> Y-yeah... I'll try again!",
             "nextBlock": 5,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 7014165933652495674
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6642471401613818203
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 7085402181396515899
+                }
+            ],
             "pathId": -1268579221044790915,
             "blockIdx": 4
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "頑張っていますね。\r\n……でも、アドバイスとしては。",
-            "enText": "You are doing a great job. \n… but as for advice.",
+            "enText": "She's working hard... but as far as the<n>trainer's\nadvice goes...",
             "nextBlock": 6,
+            "origClipLength": 61,
+            "voiceIdx": 79,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "『気合い』と『根性』だけでは……",
-                    "enText": "It's not enough to have \"spirit\" and \"guts\"…",
+                    "enText": "It's not just about spirit and guts, right?",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -6754306512048165527
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -6034631159008737536
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -4665711512301066164
                 }
             ],
             "pathId": 2759139929423720937,
@@ -59,42 +141,106 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "はい。トレーナー白書にも書いてあります。\r\n『それらは技術があってこそ意味を成す』と。",
-            "enText": "Yes. As the white paper on trainers says It \nsays in the White Paper: \"They are only as \ngood as the technology.",
+            "enText": "That's right. As the Trainer's Handbook<n>says:\n\"Motivation and willpower only<n>have meaning\nwhen paired with proper<n>technique.\"",
             "nextBlock": 7,
+            "origClipLength": 73,
+            "voiceIdx": 37,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 6824211106271116447
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 2105956596044672784
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -1431490050576313571
+                }
+            ],
             "pathId": -8142770633471547583,
             "blockIdx": 6
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ですが、彼のやり方に口を出すのも――",
-            "enText": "But I don't want to tell her what to do.",
+            "enText": "Still, I can't interfere with his training<n>metho—",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "voiceIdx": 86,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5229170810930586317
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 3245410009401155599
+                }
+            ],
             "pathId": 3410270297867243407,
             "blockIdx": 7
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "ったく、しっかりしてくれよな……。\r\n俺は次のレースが最後のチャンスなんだよっ。",
-            "enText": "You've got to get a grip… The next \nrace is my last chance.",
+            "enText": "C'mon! Get a hold of yourself! This next<n>race is\nmy last chance!",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -263781690218513456
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2570921267792040660
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 5180804878660829909
+                }
+            ],
             "pathId": -2860171642202073135,
             "blockIdx": 8
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "！！",
-            "enText": "We're here!",
+            "enText": "...!",
             "nextBlock": 10,
+            "origClipLength": 46,
+            "voiceIdx": 110,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "桐生院トレーナー？",
-                    "enText": "Kiryuin trainer?",
+                    "enText": "Trainer Kiryuin?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4895230162183998965
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -6100748306608717276
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5460560044438506748
                 }
             ],
             "pathId": 6470688219785692553,
@@ -102,168 +248,414 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "そこのトレーナーの方、\r\nトレーニング中に失礼します。",
-            "enText": "Excuse me, trainer, for interrupting \nyour training.",
+            "enText": "Excuse me, Trainer. Sorry to interrupt<n>you in the\nmiddle of your work.",
             "nextBlock": 11,
+            "origClipLength": 62,
+            "voiceIdx": 70,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 107,
+                    "pathId": -5009312276847235626
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -8039122673122849932
+                }
+            ],
             "pathId": -3339819046031755953,
             "blockIdx": 10
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "なんっ……え！？　桐生院トレーナー！？",
-            "enText": "What… eh! Kiryuin trainer!",
+            "enText": "Wha?! Trainer Kiryuin?!",
             "nextBlock": 12,
+            "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -5267731626751078303
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4670510321583756522
+                }
+            ],
             "pathId": 3571913804411847902,
             "blockIdx": 11
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "ええ。今の言葉の真意を聞かせてください。\r\n『最後のチャンス』とはどういうことですか？",
-            "enText": "Yes. Let me ask you what you really mean. \nWhat do you mean by 'last chance'?",
+            "enText": "Would you mind explaining to me what<n>you just\nsaid? What do you mean by<n>\"last chance?\"",
             "nextBlock": 13,
+            "origClipLength": 73,
+            "voiceIdx": 15,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 2772633124797254793
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 4177096331389327974
+                }
+            ],
             "pathId": 22941987102222221,
             "blockIdx": 12
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "ど、どうもこうも……アイツの成績が\r\n悪いせいで、俺の評価が下がってるんだよ。",
-            "enText": "I don't know what to do… Her bad grades \nare ruining my reputation.",
+            "enText": "W-well, not that it's any of your<n>business, but...\nmy evaluation scores are<n>falling because of her\nrace results!",
             "nextBlock": 14,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1677965063083101258
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8282613474566091853
+                }
+            ],
             "pathId": 1213914423366619814,
             "blockIdx": 13
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "もしトレセン学園との契約を打ち切られたら、\r\n俺の将来が――",
-            "enText": "If my contract with the school is \nterminated, my future is in jeopardy.",
+            "enText": "If my contract with Tracen Academy is<n>\nterminated, my career—",
             "nextBlock": 15,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -2776021933204727563
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3091531329551783047
+                }
+            ],
             "pathId": 1827556383972146667,
             "blockIdx": 14
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "夢へと導くべきトレーナーが、\r\nウマ娘に何を背負わせているのですか！！",
-            "enText": "The trainer who is supposed to lead us to \nour dreams, what is she putting us through?",
+            "enText": "You are a trainer who should be guiding<n>\nUmamusume towards their dreams, not<n>placing\nyour burdens on them!",
             "nextBlock": 16,
+            "origClipLength": 67,
+            "voiceIdx": 16,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 1373005426222814101
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -3787795276600934208
+                }
+            ],
             "pathId": 6810670511396210422,
             "blockIdx": 15
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "なっ……。",
-            "enText": "You can find it…",
+            "enText": "What are you—",
             "nextBlock": 17,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 2362612131248092692
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -443402881050944668
+                }
+            ],
             "pathId": 3691283091700763631,
             "blockIdx": 16
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "これが最後のチャンス？\r\n……ふざけないでください。",
-            "enText": "Is this your last chance?… \nPlease don't be silly.",
+            "enText": "You say this is your final chance? Give<n>me a\nbreak!",
             "nextBlock": 18,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -938794253969247485
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -913457667195534127
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -4885069982340536437
+                }
+            ],
             "pathId": 3972980435319914695,
             "blockIdx": 17
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "トレーナーの仕事は、自分の夢を\r\nウマ娘に押しつけることではありません。",
-            "enText": "As a trainer, your job is not to impose your \nown dreams on your horse.",
+            "enText": "A trainer should not force their own<n>dreams upon\ntheir racers.",
             "nextBlock": 19,
+            "origClipLength": 68,
+            "voiceIdx": 21,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -6712678349539983409
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -6183813069765385545
+                }
+            ],
             "pathId": -7312562297542002500,
             "blockIdx": 18
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あの子たちにとって、レースとは\r\n人生を左右する重く大きなもの……。",
-            "enText": "For them, racing is a big, heavy \nthing in their lives…",
+            "enText": "Racing is a once in a lifetime opportunity<n>that\ngreatly influences the rest of their<n>lives.",
             "nextBlock": 20,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -3231243805180759003
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -2039778838551114911
+                }
+            ],
             "pathId": -6801395136283059407,
             "blockIdx": 19
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "私たちはそれを導くために、ここにいる。",
-            "enText": "We are here to guide you through it.",
+            "enText": "That's why we're here—in order to guide<n>them.",
             "nextBlock": 21,
+            "origClipLength": 57,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 68,
+                    "pathId": 6055561470817751705
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 2371178922309297191
+                }
+            ],
             "pathId": 4015673144368357553,
             "blockIdx": 20
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "人生を預かっているのは、\r\nウマ娘ではなく……私たちの方でしょう！",
-            "enText": "It's not Uma Musume who has your \nlife in her hands, it's… us!",
+            "enText": "<i>We</i> are the ones who take responsibility<n>for <i>them,</i>\nnot the other way around!",
             "nextBlock": 22,
+            "origClipLength": 66,
+            "voiceIdx": 64,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -1759933990580767749
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 7336854271504818344
+                }
+            ],
             "pathId": -7810454639315971303,
             "blockIdx": 21
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "そ、それは……。",
-            "enText": "Yes, that's…",
+            "enText": "Th-that's...",
             "nextBlock": 23,
+            "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 4851648574805242683
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -7944124189371804985
+                }
+            ],
             "pathId": -6106427892909732035,
             "blockIdx": 22
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……トレーナーであるなら、ウマ娘の夢を\r\n一緒に背負ってあげてください。",
-            "enText": "If you are a… trainer, you can carry the \ndream of Uma Musume with you.",
+            "enText": "If you call yourself a trainer, then do<n>your part to\nsupport your trainee's<n>dreams!",
             "nextBlock": 24,
+            "origClipLength": 68,
+            "voiceIdx": 70,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -8197408066193219846
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 3079548800319115362
+                }
+            ],
             "pathId": 4919723638506073850,
             "blockIdx": 23
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "夢を追い続ける限り、\r\n最後なんて訪れはしません。",
-            "enText": "As long as you keep chasing your dreams, \nthere will never be an end.",
+            "enText": "As long as you continue to chase those<n>dreams\ntogether, there should be no<n>\"last chances.\"",
             "nextBlock": 25,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": 7321204960421699119
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -4423562085880303888
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3909432403978910269
+                }
+            ],
             "pathId": -5716286445263102246,
             "blockIdx": 24
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……きっと、貴方にも。",
-            "enText": "… I'm sure it's for you too.",
+            "enText": "Even for you.",
             "nextBlock": 26,
+            "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": 2487561179250389541
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 7606335200972231995
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 5742445484343248102
+                }
+            ],
             "pathId": -1469202765282150186,
             "blockIdx": 25
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……先ほどは、申し訳ありません。\r\nお見苦しいところを。",
-            "enText": "… Sorry about earlier. I'm \nsorry to see you go.",
+            "enText": "I'm sorry you had to witness that. I acted<n>rashly.",
             "nextBlock": 27,
+            "origClipLength": 63,
+            "voiceIdx": 14,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -530253177836687463
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2873821973535154417
+                }
+            ],
             "pathId": 223449013559703119,
             "blockIdx": 26
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "でも……どうしても\r\n黙っていられなかったんです。",
-            "enText": "But… I just couldn't keep quiet about it.",
+            "enText": "But... I couldn't just stand by and remain<n>silent.",
             "nextBlock": 28,
+            "origClipLength": 61,
+            "voiceIdx": 18,
+            "voiceSheetId": "059004001",
             "choices": [
                 {
                     "jpText": "大事なことを教えられました",
-                    "enText": "They taught me something important.",
+                    "enText": "No apologies needed. You taught me an\nimportant lesson.",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 1888089793502597102
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -3246585050491716027
                 }
             ],
             "pathId": 8462832366286339124,
@@ -271,51 +663,116 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "えっ……そ、そんな！",
-            "enText": "What?… Oh, no!",
+            "enText": "What?! H-hardly!",
             "nextBlock": 29,
+            "origClipLength": 51,
+            "voiceIdx": 20,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -7524424063566722731
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 9098745274538058283
+                }
+            ],
             "pathId": 8176524784534896272,
             "blockIdx": 28
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "<username>トレーナーは、\r\nよくご存知のことでしょう？",
-            "enText": "You know your trainer <username> \nwell, don't you?",
+            "enText": "You already knew all that, didn't you,<n>\nTrainer<n><username>?",
             "nextBlock": 30,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 3855469209049132905
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -2962419336720477212
+                }
+            ],
             "pathId": -1191909537037625319,
             "blockIdx": 29
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "見ていればわかります。\r\n貴方がどれほど、ウマ娘を思っているかは。",
-            "enText": "You can see it. I know how much \nyou care about the girls.",
+            "enText": "I can tell just by looking at you. You put<n>your\nUmamusume's needs above all else.",
             "nextBlock": 31,
+            "origClipLength": 66,
+            "voiceIdx": 0,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2683471173626334754
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -4854327674183205619
+                }
+            ],
             "pathId": 1931358881082800683,
             "blockIdx": 30
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……ですが、そう言っていただけて光栄です。",
-            "enText": "We are… and we are honoured \nto hear you say so.",
+            "enText": "...That being said, it's an honor to hear<n>you say\nthat.",
             "nextBlock": 32,
+            "origClipLength": 58,
+            "voiceIdx": 2,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -2916148717489979119
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -1409568546147100565
+                }
+            ],
             "pathId": 7465873023339214673,
             "blockIdx": 31
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "信頼している方に認められるというのは、\r\nとても心が温かくなるものなのですね。",
-            "enText": "It's very heart-warming to be recognised \nby someone you trust.",
+            "enText": "Being recognized by someone I believe<n>in warms\nmy heart greatly.",
             "nextBlock": 33,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "信頼……してくださっているんですか",
-                    "enText": "Do you trust…?",
+                    "enText": "You... believe in me?",
                     "nextBlock": 33
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2000485329599504663
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 486450588175685444
                 }
             ],
             "pathId": 2862993090050548072,
@@ -323,37 +780,89 @@
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "え……あ！？　もっ、もちろんです！\r\nあの、おかしな意味ではなくてですねっ。",
-            "enText": "Oh…? Yes, of course! You know, I \ndon't mean that in a funny way.",
+            "enText": "Huh... Oh! Y-yes! Uh... I didn't mean for<n>it to\nsound weird or anything.",
             "nextBlock": 34,
+            "origClipLength": 69,
+            "voiceIdx": 31,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8819337387652963263
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 2525333507993304461
+                }
+            ],
             "pathId": 3556292655664767418,
             "blockIdx": 33
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "同期としてとか、トレーナーとしてとか、\r\nお友だちとしてとかっ！",
-            "enText": "As a colleague, as a trainer, as a friend!",
+            "enText": "What I mean is, I believe in you as a<n>peer, as a\nfellow trainer, and as a friend!",
             "nextBlock": 35,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4738050194125788087
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -4941165463988297489
+                }
+            ],
             "pathId": 6096472339429866575,
             "blockIdx": 34
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "もちろんそれ以外でも構わなくてっ、\r\nとにかくこんな風に話ができるのが――",
-            "enText": "Of course, it doesn't matter if it's \nsomething else or not, I'm just glad we can \ntalk like this.",
+            "enText": "Of course, it doesn't have to be only<n>that. For\ninstance, being able to talk like<n>this is a si—",
             "nextBlock": 36,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -8438232145618528754
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -3305343195676707500
+                }
+            ],
             "pathId": -8058178287784015927,
             "blockIdx": 35
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "あ…………す、すみません。\r\n忘れてください……。",
-            "enText": "Oh… Sorry, sorry. Forget…",
+            "enText": "Ah... E-excuse me. Please forget I said<n>anything...",
             "nextBlock": 37,
+            "origClipLength": 61,
+            "voiceIdx": 28,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 6640401166327250974
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -4769652713650955089
+                }
+            ],
             "pathId": 2763688626716645770,
             "blockIdx": 36
         },
@@ -361,35 +870,95 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どうやら、桐生院トレーナーからの\r\n信頼は厚いようだ。",
-            "enText": "It seems that Kiryuin's trainer \nhas great faith in her.",
+            "enText": "It seems that Trainer Kiryuin has a lot of<n>faith in\nme.",
             "nextBlock": -1,
+            "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -9119690491307963663
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 270886911157763890
+                }
+            ],
             "pathId": -2300078713120043664,
             "blockIdx": 37
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "……とんでもありません。\r\n感情的に怒鳴るなど未熟者の証です。",
-            "enText": "… It's outrageous. It is a sign of \ninexperience to shout emotionally.",
+            "enText": "It's no big deal, really. Yelling like that<n>is proof\nthat I'm still immature<n>emotionally.",
             "nextBlock": 39,
+            "origClipLength": 65,
+            "voiceIdx": 14,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 8961691778606597971
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -5175570473181502339
+                }
+            ],
             "pathId": -2515466573215159140,
             "blockIdx": 38
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "いけませんね。ミークのためにも、\r\n私自身が成長しなくては……。",
-            "enText": "It's not right. For Meek's \nsake, I have to grow up…",
+            "enText": "I can't keep doing that. For Meek's sake<n>as well, I\nneed to keep growing...",
             "nextBlock": 40,
+            "origClipLength": 65,
+            "voiceIdx": 69,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5803787439815053510
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2967899526834283669
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -3070900542031037630
+                }
+            ],
             "pathId": -6746837751891656684,
             "blockIdx": 39
         },
         {
             "jpName": "桐生院トレーナー",
-            "enName": "Kiryuin Aoi",
+            "enName": "Trainer Kiryuin",
             "jpText": "先ほどのトレーナーさんにも、\r\n怒鳴ったことを謝ってきます……。",
-            "enText": "I'm going to go apologize to the \ntrainer who just yelled at me…",
+            "enText": "I should apologize to that trainer as well.",
             "nextBlock": 41,
+            "origClipLength": 65,
+            "voiceIdx": 44,
+            "voiceSheetId": "059004001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 891748537435221057
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 8324115825122475379
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -2326727542215231634
+                }
+            ],
             "pathId": 8912134846331638715,
             "blockIdx": 40
         },
@@ -397,11 +966,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "桐生院トレーナーの誠実さは、\r\nきっと相手にも伝わったことだろう。",
-            "enText": "The sincerity of the trainer must have \nrubbed off on the other side.",
+            "enText": "I'm sure Trainer Kiryuin's sincerity will<n>reach\nwhoever she's speaking to, even<n>the trainer\nbefore.",
             "nextBlock": -1,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -5999184888984527304
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -5244299847267957479
+                }
+            ],
             "pathId": -1097026303652487953,
             "blockIdx": 41
         }
-    ],
-    "modified": 1661711800
+    ]
 }

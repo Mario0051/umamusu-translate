@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "2QFTBQOIEGTS77PM3ECG36IJAGLXEPYV",
+    "version": 6,
+    "bundle": "MMK66IYHMKYTPLB764EPNR3JL6Y34GXA",
     "type": "story",
     "storyId": "501002601",
     "title": "今度こそ！",
+    "enTitle": "Not This Time!",
     "text": [
         {
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……トレーナーさん。",
-            "enText": "…… Trainer.",
+            "enText": "Trainer...",
             "nextBlock": 2,
             "origClipLength": 51,
+            "voiceIdx": 68,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 62,
-                    "pathId": -494463526080467159
+                    "pathId": -393278874537613976
                 },
                 {
                     "origLen": 62,
-                    "pathId": -393278874537613976
+                    "pathId": -494463526080467159
                 }
             ],
             "pathId": 8896050105364972960,
@@ -29,17 +32,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "私、前のレースのこと、忘れられません……。",
-            "enText": "I, for one, will never forget \nthe last race. ……",
+            "enText": "I just can't forget about that last race...",
             "nextBlock": 3,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 69,
-                    "pathId": 1518858170754849245
+                    "pathId": -4909592968332022992
                 },
                 {
                     "origLen": 69,
-                    "pathId": -4909592968332022992
+                    "pathId": 1518858170754849245
                 }
             ],
             "pathId": 8537495018329717575,
@@ -49,24 +54,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "他のウマ娘で前が見えなくなる瞬間。\r\n息が詰まるような閉塞感……。",
-            "enText": "The moment when you can't see the road ahead \nwith other horsegirl. A stifling sense of \nentrapment. ……",
+            "enText": "The moment when my view was blocked<n>by the\nother racers... I felt trapped... like<n>I was\nsuffocating.",
             "nextBlock": 4,
             "origClipLength": 66,
+            "voiceIdx": 18,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "次こそ1着をとろう！",
-                    "enText": "Let's get one next time!",
+                    "enText": "That's why we're getting first this time!",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 46,
-                    "pathId": 9163121237994188501
-                },
-                {
                     "origLen": 77,
                     "pathId": 5768158738294582997
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 9163121237994188501
                 }
             ],
             "pathId": -8425878064221126319,
@@ -76,22 +83,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "はい。必ず……！",
-            "enText": "Yes, I am. Be sure to visit ……!",
+            "enText": "Yes. Without a doubt!",
             "nextBlock": -1,
             "origClipLength": 50,
+            "voiceIdx": 73,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 24,
-                    "pathId": 6284200679247936175
-                },
                 {
                     "origLen": 61,
                     "pathId": 1798140975869666282
+                },
+                {
+                    "origLen": 24,
+                    "pathId": 6284200679247936175
                 }
             ],
             "pathId": 2910874999522215027,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555246
+    ]
 }

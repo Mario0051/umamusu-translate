@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "C7MRT6BVPFB66ZOZGVGL3INSARIVKZ7X",
+    "version": 6,
+    "bundle": "WRXHNERFUNXXUAOMQZ4ZMGF5ZFKR7NYA",
     "type": "story",
     "storyId": "801020001",
     "title": "ゆる募、ネコの捕まえ方",
+    "enTitle": "Recruiting Cat Catchers",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、散歩をしていると――",
-            "enText": "One day, I was out for a walk.",
+            "enText": "One day, while I'm out on a walk...",
             "nextBlock": 2,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3906005607959939742,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "ネコ",
             "enName": "Cat",
             "jpText": "……にゃーお。",
-            "enText": "… nyao.",
+            "enText": "Meeeooow.",
             "nextBlock": 3,
+            "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7762259418531114211,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あー、待って待って！！\r\nお願い、その毛並みをモフモフさせ――",
-            "enText": "Oh, wait, wait, wait! Please, \nlet me fluff that fur—",
+            "enText": "Gahhh! Wait, come back! C'mon, lemme<n>pet your\ngorgeous floof—",
             "nextBlock": 4,
+            "origClipLength": 68,
+            "voiceIdx": 39,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 6366165076644096792
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8696457336912537438
+                }
+            ],
             "pathId": -8365485831762255779,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "って、あぁ～……行っちゃった……。\r\nも～、走ってクタクタなんだけど――",
-            "enText": "I'm so tired of running. I'm \nexhausted from running…",
+            "enText": "Aw maaan... It's gone. Ugh, I'm pooped<n>from all\nof that running.",
             "nextBlock": 5,
+            "origClipLength": 68,
+            "voiceIdx": 60,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 5987012290639715041
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 4000562309452206788
+                }
+            ],
             "pathId": -313838234717119259,
             "blockIdx": 4
         },
@@ -45,8 +78,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "！",
-            "enText": "I'm sorry!",
+            "enText": "...!",
             "nextBlock": 6,
+            "origClipLength": 45,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 56,
+                    "pathId": -3309731857421011180
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 1351577154482624032
+                }
+            ],
             "pathId": -5048003695662697051,
             "blockIdx": 5
         },
@@ -54,8 +100,11 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……ねえねえ。今、目が合っちゃった\r\nそこの人。私からの質問でーす。",
-            "enText": "… Hey, hey, hey. We've just made eye \ncontact. I've got a question for you.",
+            "enText": "Hey, you there. Yeah, the person I'm<n>looking at\nright now. I've got a question<n>for you.",
             "nextBlock": 7,
+            "origClipLength": 67,
+            "voiceIdx": 53,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "俺？",
@@ -68,6 +117,16 @@
                     "nextBlock": 7
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -4008960287752463174
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7055697909596662742
+                }
+            ],
             "pathId": 959867637843842552,
             "blockIdx": 6
         },
@@ -75,18 +134,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "うんうん！　さっきのネコちゃん、\r\nどうやったら撫でられると思う？",
-            "enText": "Yeah, yeah! How do you think \nI can pet that cat?",
+            "enText": "Yep! Got any fail-safe plans on how I<n>can manage\nto pet that cat just now?",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "voiceIdx": 38,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "日向で待つ",
-                    "enText": "Waiting in the sun",
+                    "enText": "Just wait in a sunny spot.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "全力で追いかける！",
-                    "enText": "We'll be after you with \neverything we've got!",
+                    "enText": "Chasing it at full speed is sure to work!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 8423273757736392604
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2271402541085200055
                 }
             ],
             "pathId": -6996648221802643830,
@@ -96,8 +168,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "はっはーん。日向ぼっここそ最強。\r\nじっくりのんびり待て、ということですか。",
-            "enText": "Ha-ha-ha. Sunbathing is the best. It's all \nabout taking your time.",
+            "enText": "Hmm. Nothing beats lazing about in the<n>sun. So\nyou think I should just chill and<n>wait for it, huh?",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "voiceIdx": 9,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 492976455205635564
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -7713551416415623633
+                }
+            ],
             "pathId": -3719877800215256228,
             "blockIdx": 8
         },
@@ -105,8 +190,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ではでは私は……ふわぁ……。\r\nお休みいたします……ので……。",
-            "enText": "Well I'm… wow… I'm off to… for…",
+            "enText": "Weeelp, guess I'll just... <i>yawn...</i> have a<n>little...\nnap...",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "voiceIdx": 62,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -8608972352869952775
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 4619398249322350551
+                }
+            ],
             "pathId": -7110443561167526259,
             "blockIdx": 9
         },
@@ -114,8 +212,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ネコちゃんが来たら……。\r\n起こして…………すぅ。",
-            "enText": "When the cat comes to… Wake me up… soo.",
+            "enText": "Wake me up when the cat... comes...<n><i>Zzzzz...</i>",
             "nextBlock": 11,
+            "origClipLength": 133,
+            "voiceIdx": 40,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": -1964449260415115351
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 766276440928216061
+                }
+            ],
             "pathId": 394398371407541846,
             "blockIdx": 10
         },
@@ -123,8 +234,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして眠ってしまったセイウンスカイに\r\n代わり、ネコを待つことになったのだった。",
-            "enText": "She had to wait for the cat to replace \nthe sleeping Seiun Sky.",
+            "enText": "And so, I wait for the cat in Seiun Sky's<n>place\nwhile she snoozes away.",
             "nextBlock": 12,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -4092207265128966007
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -3655367019436835674
+                }
+            ],
             "pathId": 9087032052103145649,
             "blockIdx": 11
         },
@@ -132,8 +256,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『使えるものはどんなものでも使う』\r\nこれも1つの考え方なのかもしれない。\n……使われる方はともあれ。",
-            "enText": "It's a good idea to use whatever is \navailable… for those who use it.",
+            "enText": "It's admirable how she's using everything<n>at her\ndisposal. Or so I think in an<n>attempt to console\nmyself after being so<n>easily manipulated...",
             "nextBlock": -1,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 946696120613248171,
             "blockIdx": 12
         },
@@ -141,13 +268,26 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "わー、ありがとうございますー！\r\nじゃあ早速お願いしまーす！",
-            "enText": "Wow, thank you so much! \nLet's get on with it!",
+            "enText": "Wow, nice idea! Well, get crackin', then.",
             "nextBlock": 14,
+            "origClipLength": 64,
+            "voiceIdx": 7,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "何を？",
-                    "enText": "What?",
+                    "enText": "Get cracking on what, exactly?",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 228457636435637825
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -2671359903229847785
                 }
             ],
             "pathId": 873883576445918364,
@@ -157,8 +297,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……ん？　やだなー。あなたが\r\n追いかけると言ったんじゃないですか～。",
-            "enText": "… Hmm? I don't like it. You said \nyou were going to chase her.",
+            "enText": "Hm? Don't play dumb with me. You're<n>the one\nwho said chasing after the cat'll<n>work for sure, so\nput your money where<n>your mouth is.",
             "nextBlock": 15,
+            "origClipLength": 67,
+            "voiceIdx": 20,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 8116928514536225740
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -200684563034003300
+                }
+            ],
             "pathId": -9201048608937977812,
             "blockIdx": 14
         },
@@ -166,8 +319,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "私！　こちらでネコちゃんを捕まえる姿を、\r\n誠心誠意応援させていただきますのでっ！",
-            "enText": "Me! I'll be here to support you in catching \nthe cat with all my heart!",
+            "enText": "As for me, I'm gonna wholeheartedly<n>cheer you on\nfrom the sidelines!",
             "nextBlock": 16,
+            "origClipLength": 71,
+            "voiceIdx": 14,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 2423185379259668063
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -1333990975689524003
+                }
+            ],
             "pathId": -798010925030428152,
             "blockIdx": 15
         },
@@ -175,8 +341,21 @@
             "jpName": "ネコ",
             "enName": "Cat",
             "jpText": "……なーお？",
-            "enText": "… na-o?",
+            "enText": "Mrooow?",
             "nextBlock": 17,
+            "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -4727901933247058531
+                },
+                {
+                    "origLen": 12,
+                    "pathId": 5139422650197412888
+                }
+            ],
             "pathId": -4935128683910357621,
             "blockIdx": 16
         },
@@ -184,8 +363,21 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あ、早速そこの木の陰に！\r\nささ、がんばってー！　ふぁいおーっ！",
-            "enText": "Oh, quickly, behind that tree there! \nWell, good luck! Whoo-hoo!",
+            "enText": "Oh! It's right there in the shade of that<n>tree! You\ncan do it! Woo, go get 'em!",
             "nextBlock": 18,
+            "origClipLength": 65,
+            "voiceIdx": 63,
+            "voiceSheetId": "051020001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -2741096275804329374
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 2729681439042753214
+                }
+            ],
             "pathId": 3363088740000831239,
             "blockIdx": 17
         },
@@ -193,8 +385,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しかしネコは俊敏で捕まえるのに\r\nかなり手間取ってしまい――",
-            "enText": "But the cats are very agile and it takes a \nlot of time to catch them.",
+            "enText": "The cat proves to be far more wily than I<n>\nexpected, and it seriously gives me the<n>\nrunaround.",
             "nextBlock": 19,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": -6309964723825954481
+                },
+                {
+                    "origLen": 42,
+                    "pathId": -51380869753855612
+                }
+            ],
             "pathId": -6050152249274545906,
             "blockIdx": 18
         },
@@ -202,8 +407,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……結局捕まえられず、\r\n<chrname>にも手伝って\nもらうことになったのだった。",
-            "enText": "… In the end we couldn't catch her and had \nto ask <chrname> to help us.",
+            "enText": "I'm unable to capture it on my own, so I<n>end up\nasking <chrname> for<n>help...",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2552988092903677697,
             "blockIdx": 19
         }

@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "TQOTRBHC46KGABVBVZFXTY4HJQJR7D5O",
+    "version": 6,
+    "bundle": "QD6BGHJEG4FQKNTBUKQ54LAE3VWCZS6Y",
     "type": "story",
     "storyId": "501041524",
     "title": "学級委員長の、名に懸けて！",
+    "enTitle": "On My Title!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある昼下がり。\r\n携帯に通知が来たので、確認をしていると――",
-            "enText": "One afternoon, I get a notification on my \nphone, so I take a look, and――",
+            "enText": "One afternoon, I receive a notification<n>on my\nphone, and just as I'm about to<n>look at it...",
             "nextBlock": 2,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1947498693112493797,
             "blockIdx": 1
         },
@@ -18,12 +22,15 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "蹄鉄、発見ーーッ！！",
-            "enText": "Horseshoes: found―!!",
+            "enText": "I've found the cleat!",
             "nextBlock": 3,
+            "origClipLength": 71,
+            "voiceIdx": 1,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "え？",
-                    "enText": "Eh?",
+                    "enText": "Huh?",
                     "nextBlock": 3
                 }
             ],
@@ -34,8 +41,11 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "待った！　バクシンオー先輩――……！",
-            "enText": "Wait! Bakushin O-senpaaai―……!",
+            "enText": "Hold up! Bakushin O!",
             "nextBlock": 4,
+            "origClipLength": 68,
+            "voiceIdx": 31,
+            "voiceSheetId": "051054001",
             "pathId": 5494224889672989772,
             "blockIdx": 3
         },
@@ -43,8 +53,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ドシーン！！）",
-            "enText": "<i>(Thud!!)</i>",
+            "enText": "<i>Thud!</i>",
             "nextBlock": 5,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4022168547823454376,
             "blockIdx": 4
         },
@@ -52,8 +65,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――凄まじい衝撃が背中を襲った！",
-            "enText": "――A tremendous crash assaulted my back!",
+            "enText": "Something rams into me from behind at<n>incredible\nspeed!",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2068974380342856266,
             "blockIdx": 5
         },
@@ -61,8 +77,29 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いやぁ～！　突然の突撃、\r\n失礼しました！　トレーナーさん！",
-            "enText": "Aaaah～! I apologize for the abruptness of \nmy assault! Trainer!",
+            "enText": "Oh no! I'm so sorry for tackling you,<n>Trainer!",
             "nextBlock": 7,
+            "origClipLength": 84,
+            "voiceIdx": 59,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 124,
+                    "pathId": 5861253270675017829
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 1724715220268995612
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -4420077325880904508
+                },
+                {
+                    "origLen": 124,
+                    "pathId": -8541586277988354730
+                }
+            ],
             "pathId": 2979577653595833097,
             "blockIdx": 6
         },
@@ -70,13 +107,38 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "許してやってくれ！　先輩の正義の心が、\r\n犯人確保に燃えてるってことなんだ……！",
-            "enText": "Please forgive her! My senpai only did it \nbecause her righteous heart is burning \nto catch this criminal…!",
+            "enText": "Forgive her! Bakushin O's heart of justice<n>was\nburning with passion at the thought<n>of catching a\ncriminal!",
             "nextBlock": 8,
+            "origClipLength": 97,
+            "voiceIdx": 15,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "は、犯人って？",
-                    "enText": "Uh, criminal?",
+                    "enText": "A criminal?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -9098733146316415357
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 2696342098210021103
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -7639041634821399954
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -3188275216322254275
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -3648629975902516267
                 }
             ],
             "pathId": -4197134495504212703,
@@ -86,8 +148,33 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "我がクラスメイトの蹄鉄が、盗まれたのです！\r\n学級委員長として、見逃せません！",
-            "enText": "My classmate's horseshoe has been stolen! \nAs the class president, I cannot turn a \nblind eye!",
+            "enText": "Somebody stole one of my classmate's<n>cleats! As\nclass rep, I couldn't overlook<n>it!",
             "nextBlock": 9,
+            "origClipLength": 95,
+            "voiceIdx": 15,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -966716682178465846
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 2499769948152400145
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6786528410451118739
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1665230184476162250
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -3961982849967549630
+                }
+            ],
             "pathId": -3319402702486131175,
             "blockIdx": 8
         },
@@ -95,8 +182,33 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "同じ被害が学園中で起きてて……アタシも\r\n正義のヒーローとして、犯人を追ってるんだ！",
-            "enText": "The same thing is happening all over \nschool… I, too, as a hero of justice, am \npursuing the culprit!",
+            "enText": "These kinds of incidents keep happening<n>all over\nthe academy... I too, as a hero of<n>justice, am in\nhot pursuit of the<n>perpetrator!",
             "nextBlock": 10,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 5088897180421030001
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 7357815430510503781
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 6604062839408073283
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -5596936078230611346
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -1757458922962536352
+                }
+            ],
             "pathId": 1191206442788820101,
             "blockIdx": 9
         },
@@ -104,18 +216,39 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "蹄鉄を盗る、そのカラスを！",
-            "enText": "Stealing horseshoes, that crow!",
+            "enText": "The most dastardly ne'er-do-well! A<n>crow!",
             "nextBlock": 11,
+            "origClipLength": 61,
+            "voiceIdx": 16,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "俺、カラスに間違えられたのか……？",
-                    "enText": "Was I just mistaken for a crow…?",
+                    "enText": "...Are you telling me you mistook me for a bird\nwhen you tackled me?",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "私、カラスに間違えられたの……？",
-                    "enText": "Was I just mistaken for a crow…?",
+                    "enText": "...Are you telling me you mistook me for a bird\nwhen you tackled me?",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 5719282493805679398
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -9164772465449699895
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3922180090561317812
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -2870841820532286829
                 }
             ],
             "pathId": 3638414928059885130,
@@ -125,8 +258,29 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いやいやいやッ！　違いますよ！\r\nその携帯が、盗まれた蹄鉄に見えて……。",
-            "enText": "No, no, no! Not at all! \nThat phone, it looked like the stolen \nhorseshoe…",
+            "enText": "No, no! That's not it! Your cellphone just<n>looked\nlike the stolen cleat for a second!",
             "nextBlock": 12,
+            "origClipLength": 91,
+            "voiceIdx": 50,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 7990881107165063290
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 1797284224536528746
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4688823889065020742
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 648762533734234758
+                }
+            ],
             "pathId": 4844674700193607443,
             "blockIdx": 11
         },
@@ -134,8 +288,29 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "つい！　すっかり！\r\n犯人がカラスだと、忘れてしまったのですッ！",
-            "enText": "Just now! Compleeetely! \nI forgot that the culprit was a crow!",
+            "enText": "I was so caught up in the moment, I even<n>forgot\nthat the criminal was a crow!",
             "nextBlock": 13,
+            "origClipLength": 86,
+            "voiceIdx": 14,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 5132423099058754858
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 2925297611058469429
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -5341649705921865218
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -6574968727287447899
+                }
+            ],
             "pathId": 3734362564106170061,
             "blockIdx": 12
         },
@@ -143,8 +318,29 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "しかァーーしッ！　次こそは必ず、\r\nカラスから蹄鉄を取り戻してみせま――",
-            "enText": "Howeeeeever! Next time, without fail, I'll \nget the horseshoe back from that cro――",
+            "enText": "But next time, I'll be certain to get the<n>cleat back\nfrom that naughty bird!",
             "nextBlock": 14,
+            "origClipLength": 91,
+            "voiceIdx": 125,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1092549931808627986
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 2137087422142257858
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 5588324414405592453
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -113707462753274442
+                }
+            ],
             "pathId": 5061531912560529419,
             "blockIdx": 13
         },
@@ -152,8 +348,29 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（カァーッ！　カァーッ！）",
-            "enText": "(Kaaaaack! Caaaw!)",
+            "enText": "<i>CAW! CAW!</i>",
             "nextBlock": 15,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 7577487392796838083
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3752561194387040570
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 7558038338987239812
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 5233567727971003898
+                }
+            ],
             "pathId": -3991270707810021366,
             "blockIdx": 14
         },
@@ -161,8 +378,33 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いた！！　蹄鉄をくわえたカラス！\r\n今度こそ、学級委員長の名に懸けてッ！",
-            "enText": "There it is! A crow with a horseshoe in its \nmouth! \nThis time, in the name of the class \npresident, I shall capture you!",
+            "enText": "There it is! It's got the cleat in its mouth<n>and\neverything! This time, I swear on my<n>title as class\nrepresentative...",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "voiceIdx": 31,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 337679103313391287
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8208770391487478544
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5674372656388906474
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -3730492695176758702
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 1253626386024839973
+                }
+            ],
             "pathId": -4230913507941313021,
             "blockIdx": 15
         },
@@ -170,35 +412,123 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "逃がしませーーんッ！！",
-            "enText": "You can't escaaaaaape!!",
+            "enText": "I'm not letting you get away!",
             "nextBlock": 17,
+            "origClipLength": 59,
+            "voiceIdx": 101,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 10,
+                    "pathId": 4245083496366965628
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -5302508181355166187
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 1429252514840984455
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4150097758190089406
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6122699043776029094
+                }
+            ],
             "pathId": 2517331902688127269,
             "blockIdx": 16
         },
         {
             "jpName": "クラスメイトA",
-            "enName": "Classmate A",
+            "enName": "Classmate",
             "jpText": "蹄鉄と……あれ？\r\nこのメンコ、なくなって探してたやつだ……！",
-            "enText": "Horseshoes and… huh? \nThis menko, the one I lost and was looking \nfor…!",
+            "enText": "Wow! Thank you class rep! You got my<n>cleat\nback!",
             "nextBlock": 18,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 7367142892493392733
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 437113974848103147
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -1340640769024454348
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -5253204112521702983
+                }
+            ],
             "pathId": -3992422574123677976,
             "blockIdx": 17
         },
         {
             "jpName": "クラスメイトB",
-            "enName": "Classmate B",
+            "enName": "Biko Pegasus",
             "jpText": "ああっ！？　私の装蹄鎚もある！\r\nカラスの仕業だったんだ……！　よかったぁ！",
-            "enText": "Aahh!? There's my hoof hammer, too! \nIt was just the crows' doing…! \nThank goodness!",
+            "enText": "That crow will think twice before<n>straying from\nthe straight and narrow<n>again! With this, we have\nprotected the<n>academy's peace!",
             "nextBlock": 19,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -5269471974746734953
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 4326147382620282415
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 7071032792950814491
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -2550867885032714204
+                }
+            ],
             "pathId": -2764607571656483695,
             "blockIdx": 18
         },
         {
             "jpName": "ビコーペガサス",
-            "enName": "Biko Pegasus",
+            "enName": "Sakura Bakushin O",
             "jpText": "あのカラスは学園の大怪盗だったんだな！\r\nすごいぞ、バクシンオー先輩！",
-            "enText": "That crow was the school's great thief! \nThat's amazin', Bakushin O-senpai!",
+            "enText": "And if it does act up again, then my<n>rapid\nlegwork will set it straight as many<n>times as need\nbe!",
             "nextBlock": 20,
+            "origClipLength": 90,
+            "voiceIdx": 115,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 201704300977634541
+                },
+                {
+                    "origLen": 150,
+                    "pathId": 8215925507330754525
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -3776483171646668315
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 7902117087085036008
+                }
+            ],
             "pathId": -2769330451151136958,
             "blockIdx": 19
         },
@@ -206,26 +536,89 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "フッフッフッ！　そうでしょう！？\r\nこれが――",
-            "enText": "Fu-fu-fu! Isn't it!? \nThis is――",
+            "enText": "Everyone, feel free to keep relying on<n>me in the\nfuture!",
             "nextBlock": 21,
+            "origClipLength": 75,
+            "voiceIdx": 6,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 4622617729668496720
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -5646025169669694741
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 77692870835604399
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -6795151607138602396
+                }
+            ],
             "pathId": -1475571182020128837,
             "blockIdx": 20
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "Monologue",
             "jpText": "バクシン的、学級委員長の力ッ！",
-            "enText": "The Bakushin-esque power of the class \npresident!",
+            "enText": "The whole class is in an uproar over<n>Sakura\nBakushin O's impressive<n>achievements.",
             "nextBlock": 22,
+            "origClipLength": 64,
+            "voiceIdx": 61,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": -2408201593074136292
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5634302373629097763
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 2289092250539776707
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 2361965694840550763
+                }
+            ],
             "pathId": -8936468551592708034,
             "blockIdx": 21
         },
         {
             "jpName": "クラスメイトたち",
-            "enName": "Classmates",
+            "enName": "Sakura Bakushin O",
             "jpText": "さすが、バクシーン！\r\nさすが、私たちの学級委員長～～っ！",
-            "enText": "As expected, Bakushi―n! \nThat's our class president～～!",
+            "enText": "Agh?! Flying is totally unfair!",
             "nextBlock": 23,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 3038073679195972830
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -5844200783001984306
+                },
+                {
+                    "origLen": 140,
+                    "pathId": -3474421150167517164
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -1781552785807999052
+                }
+            ],
             "pathId": -3668351609254382779,
             "blockIdx": 22
         },
@@ -233,26 +626,89 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "さらに名声を上げた\r\nサクラバクシンオーなのであった！",
-            "enText": "Sakura Bakushinoh's fame was further \nenhanced!",
+            "enText": "Ah... I let it get away. I'll have to work<n>on my\nBakushin more...",
             "nextBlock": -1,
+            "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 242,
+                    "pathId": 3236485545282865433
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 8295193610597697614
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 39614314306182420
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 7958611064227435193
+                }
+            ],
             "pathId": 7376958739963457118,
             "blockIdx": 23
         },
         {
             "jpName": "クラスメイト",
-            "enName": "Classmate",
+            "enName": "Sakura Bakushin O",
             "jpText": "わぁ！　ありがとう、学級委員長！\r\n蹄鉄取り戻してくれて！",
-            "enText": "Whoa! Thanks, class president! \nFor getting my horseshoe back!",
+            "enText": "But backing down now would only bring<n>shame to\nmy title of class representative!<n>What should I\ndo?",
             "nextBlock": 25,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -8226123923074473848
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -3981787747367126030
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 3768192845715307109
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -307257061900092054
+                }
+            ],
             "pathId": -6682971914557410462,
             "blockIdx": 24
         },
         {
             "jpName": "ビコーペガサス",
-            "enName": "Biko Pegasus",
+            "enName": "Monologue",
             "jpText": "カラスもビックリしてたし、改心したはず！\r\nこれで学園の平和は守られたな！",
-            "enText": "Those crows were shakin' in their boots so \nbad, they must have changed their minds! \nNow we've successfully kept the peace at \nthe school!",
+            "enText": "Inspired by how she mistook my<n>cellphone for a\ncleat, we use it as a<n>decoy.",
             "nextBlock": 26,
+            "origClipLength": 93,
+            "voiceIdx": 0,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 6220527212551986086
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -9156152095908876601
+                },
+                {
+                    "origLen": 104,
+                    "pathId": 5020094026907864947
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6041869287444510098
+                }
+            ],
             "pathId": 7032890931640752432,
             "blockIdx": 25
         },
@@ -260,17 +716,59 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なんのなんの！　この程度、\r\n私の俊足をもってすればたやすいこと！",
-            "enText": "Oh no, no, this is nothing! With my superb \nswiftness, I can do this stuff without \nbreaking a sweat!",
+            "enText": "GOT IT!",
             "nextBlock": 27,
+            "origClipLength": 88,
+            "voiceIdx": 6,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2922320760573375152
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 5942944126160188738
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4181002968222381589
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -4143349199045516608
+                }
+            ],
             "pathId": 28063960030076885,
             "blockIdx": 26
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "Classmate",
             "jpText": "これからも、どんどん頼ってくださいね！",
-            "enText": "Please do keep counting on me for \nanything at all, one thing after the other!",
+            "enText": "Wow! Thank you class rep! You got my<n>cleat\nback!",
             "nextBlock": 28,
+            "origClipLength": 69,
+            "voiceIdx": 48,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 2817528915024899740
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -4540562706184137852
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 7193120764142916336
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -3870404503105887191
+                }
+            ],
             "pathId": -5523630398184164870,
             "blockIdx": 27
         },
@@ -278,8 +776,29 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "サクラバクシンオーの活躍に、\r\nクラスは大盛り上がりするのだった。",
-            "enText": "Sakura Bakushin O's class was excited by \nher success.",
+            "enText": "That crow will think twice before<n>straying from\nthe straight and narrow<n>again! With this, we have\nprotected the<n>academy's peace!",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3787013960506312795
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -7051893335167593365
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2912057011848522718
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 256515569461741920
+                }
+            ],
             "pathId": 9039462038227393883,
             "blockIdx": 28
         },
@@ -287,8 +806,29 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ふぎゃーー！？\r\n空を飛ぶなんて、卑怯なー！！",
-            "enText": "Whhaaaah―!? \nBeing able to fly isn't fair―!!",
+            "enText": "Hehe, I'm the one who should thank you<n>all! I\nlearned a valuable lesson!",
             "nextBlock": 30,
+            "origClipLength": 75,
+            "voiceIdx": 25,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 39,
+                    "pathId": 3815336841820481086
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -7023480657132198913
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 6718475197176576648
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -4337181366374303009
+                }
+            ],
             "pathId": 7808213329901738195,
             "blockIdx": 29
         },
@@ -296,22 +836,48 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "くぅ……逃がしました。\r\nもっとバクシンに磨きをかけておけば……。",
-            "enText": "Uuuugh… I missed. \nI should have polished up on my Bakushin \nmore…",
+            "enText": "It's not enough to just rely on my<n>Bakushin... It's\nalso important to devise a<n>strategy sometimes!",
             "nextBlock": 31,
+            "origClipLength": 88,
+            "voiceIdx": 64,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": 4492828232155333891
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 7430034714081587714
+                }
+            ],
             "pathId": -2507639873295859,
             "blockIdx": 30
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "Monologue",
             "jpText": "しかし、このまま引き下がっては\r\n学級委員長の名が廃ります！　どうしたら！",
-            "enText": "However, if I simply give up like this, I'll \nruin my reputation as class president! \nWhat should I do!",
+            "enText": "It appears she made a breakthrough<n>while looking\nfor a solution to the<n>problem.",
             "nextBlock": 32,
+            "origClipLength": 93,
+            "voiceIdx": 108,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "囮でおびき出そう",
-                    "enText": "We'll use traps to lure them out.",
+                    "enText": "",
                     "nextBlock": 32
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 1953194046437031517
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -9001451366887269296
                 }
             ],
             "pathId": -6353634052451682129,
@@ -321,53 +887,163 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "先ほどの『蹄鉄と携帯を見間違えた』\r\n……という発言をヒントに携帯を囮にして――",
-            "enText": "Earlier, she said \"I mistook a horseshoe for \na cell phone.\" \n…Using what she said as a hint, I set up a \nphone as a decoy――",
+            "enText": "",
             "nextBlock": 33,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 6165145834452923455
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -6167797619083094292
+                }
+            ],
             "pathId": -2798477684766009957,
             "blockIdx": 32
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "",
             "jpText": "でやぁーーっ！！",
-            "enText": "Hiyaaaaah――!!",
+            "enText": "",
             "nextBlock": 34,
+            "origClipLength": 55,
+            "voiceIdx": 125,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -2699910294145469737
+                },
+                {
+                    "origLen": 16,
+                    "pathId": -213682454361254002
+                }
+            ],
             "pathId": -8753809123878837467,
             "blockIdx": 33
         },
         {
             "jpName": "クラスメイト",
-            "enName": "Classmate",
+            "enName": "",
             "jpText": "わぁ！　ありがとう、学級委員長！\r\n蹄鉄取り戻してくれて！",
-            "enText": "Whoa! Thanks, class president! \nFor getting my horseshoe back!",
+            "enText": "",
             "nextBlock": 35,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": -6043594951332646516
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 3972469925454903126
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -748980037099127387
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 2439392017672091918
+                }
+            ],
             "pathId": -8177254131928861078,
             "blockIdx": 34
         },
         {
             "jpName": "ビコーペガサス",
-            "enName": "Biko Pegasus",
+            "enName": "",
             "jpText": "カラスもビックリしてたし、改心したはず！\r\nこれで学園の平和は守られたな！",
-            "enText": "Those crows were shakin' in their boots so \nbad, they must have changed their minds! \nNow we've successfully kept the peace at \nthe school!",
+            "enText": "",
             "nextBlock": 36,
+            "origClipLength": 93,
+            "voiceIdx": 0,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 839862202526816450
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -2152827274850305347
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -9130066572309388618
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -5387766195664897721
+                }
+            ],
             "pathId": 8878437831610972509,
             "blockIdx": 35
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "",
             "jpText": "フフ、私こそお礼を伝えたいです！\r\nとてもいい学びとなりましたからッ！",
-            "enText": "Fufu, I'd like to thank you, too! \nThis has been a great learning experience!",
+            "enText": "",
             "nextBlock": 37,
+            "origClipLength": 90,
+            "voiceIdx": 74,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -8690209066473017918
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -721859104547035011
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -7284726755593824688
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4058380387168705490
+                }
+            ],
             "pathId": -8763510046191264347,
             "blockIdx": 36
         },
         {
             "jpName": "サクラバクシンオー",
-            "enName": "Sakura Bakushin O",
+            "enName": "",
             "jpText": "バクシンだけでなく……\r\n策を講じることもまた、必要であると！",
-            "enText": "Not only must I Bakushin… \nIt's also quite necessary to work out a plan!",
+            "enText": "",
             "nextBlock": 38,
+            "origClipLength": 85,
+            "voiceIdx": 48,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -5438182327892793705
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -486838339219276816
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -5043838012212849206
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1834446319387622932
+                }
+            ],
             "pathId": 1606737246846010214,
             "blockIdx": 37
         },
@@ -375,12 +1051,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "問題が解決できなかったことを悔やみつつ、\r\n新たな発見を得られたようだった。",
-            "enText": "While she regretted that she couldn't solve \nthe problem, she seemed to have made a \nnew discovery.",
+            "enText": "",
             "nextBlock": -1,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 3824977184730043229
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 2778942341718466417
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -8075469283995451748
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 5134595875576230938
+                }
+            ],
             "pathId": 1613711966712764366,
             "blockIdx": 38
         }
-    ],
-    "modified": 1683732695,
-    "humanTl": true
+    ]
 }

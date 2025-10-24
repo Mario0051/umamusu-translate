@@ -1,37 +1,29 @@
 {
-    "version": 5,
-    "bundle": "T4EFRYZSYHH7W3QQYJAN4AZ4WRRATIVJ",
+    "version": 6,
+    "bundle": "DIEOOOSOLVQCILSD4FC24I35IPGRQIYB",
     "type": "story",
     "storyId": "010001003",
     "title": "デビュー戦の後に・めざすは日本一！",
     "text": [
         {
             "jpName": "ダイワスカーレット",
-            "enName": "",
+            "enName": "Daiwa Scarlet",
             "jpText": "はぁっ、はぁっ……はぁっ……！",
-            "enText": "Haa, haaa… hah…!",
+            "enText": "<i>Huff... huff... huff...</i>",
             "nextBlock": 2,
             "origClipLength": 119,
+            "voiceIdx": 58,
+            "voiceSheetId": "051009001",
             "choices": [
                 {
                     "jpText": "よく頑張った！",
-                    "enText": "Good work!",
+                    "enText": "Great work out there!",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "よく頑張ったね！",
-                    "enText": "You did well!",
+                    "enText": "Great work out there!",
                     "nextBlock": 2
-                }
-            ],
-            "animData": [
-                {
-                    "origLen": 176,
-                    "pathId": 3227007644403921389
-                },
-                {
-                    "origLen": 209,
-                    "pathId": 1702652823959346325
                 }
             ],
             "pathId": -2227477731264095209,
@@ -39,25 +31,15 @@
         },
         {
             "jpName": "ダイワスカーレット",
-            "enName": "",
+            "enName": "Daiwa Scarlet",
             "jpText": "ふんっ……まだまだ、満足していられないわ。\r\n1番のウマ娘になるためには、ね！",
-            "enText": "Hmph… this isn't adequate at all. \nIf I want to be the #1 horsegirl!",
+            "enText": "Hmph... This is hardly enough to satisfy<n>\nme. I need more if I'm going to become<n>\nnumber one!",
             "nextBlock": -1,
             "origClipLength": 95,
-            "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": -4979586144117168400
-                },
-                {
-                    "origLen": 123,
-                    "pathId": 1593923007864068381
-                }
-            ],
+            "voiceIdx": 19,
+            "voiceSheetId": "051009001",
             "pathId": -7773444615368399659,
             "blockIdx": 2
         }
-    ],
-    "modified": 1673055632,
-    "humanTl": true
+    ]
 }

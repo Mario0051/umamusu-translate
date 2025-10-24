@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "KZB22J7HPD4T7NFBNCWN25JRLXT7XTYP",
+    "version": 6,
+    "bundle": "XP6S5JVQIXXFPNBJVTKAQINSCFNMJHK6",
     "type": "story",
     "storyId": "501005508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウォーミングアップ中の\r\nフジキセキの様子が少しおかしい……。",
-            "enText": "Fujikiseki looks a little \nstrange during warm-up. ……",
+            "enText": "Fuji Kiseki is in the middle of her<n>warm-up for\ntoday's training session, but<n>something seems off.",
             "nextBlock": 2,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 96,
-                    "pathId": -2513762872082215279
+                    "pathId": -6249488974208437938
                 },
                 {
                     "origLen": 96,
-                    "pathId": -6249488974208437938
+                    "pathId": -2513762872082215279
                 }
             ],
             "pathId": -796025659049320519,
@@ -29,18 +32,20 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "はぁ……変だな。\r\n思ったように体が動かない……。",
-            "enText": "Huh…… that's weird. My body doesn't move like \nI thought it would. ……",
+            "enText": "<i>Huff...</i> Strange, my body's not moving<n>the way I\nwant...",
             "nextBlock": 3,
             "origClipLength": 77,
+            "voiceIdx": 60,
+            "voiceSheetId": "051005001",
             "choices": [
                 {
                     "jpText": "大丈夫か？",
-                    "enText": "Are you okay?",
+                    "enText": "Everything okay?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "Everything okay?",
                     "nextBlock": 3
                 }
             ],
@@ -50,12 +55,12 @@
                     "pathId": 7678506992065822594
                 },
                 {
-                    "origLen": 55,
-                    "pathId": -7062652687439442164
-                },
-                {
                     "origLen": 88,
                     "pathId": 2203932492948304650
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -7062652687439442164
                 }
             ],
             "pathId": -6090293590096400193,
@@ -65,21 +70,23 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "あっ、いや……なんでもないよ！\r\n心配しないで！",
-            "enText": "Oh, no…… it's nothing! Don't worry!",
+            "enText": "Oh, uh... Yes! I'm fine, and there's<n>nothing to\nworry about.",
             "nextBlock": 4,
             "origClipLength": 76,
+            "voiceIdx": 76,
+            "voiceSheetId": "051005001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 7757491219198214430
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -3289644607241064229
-                },
-                {
                     "origLen": 87,
                     "pathId": -3339607510857753018
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -3289644607241064229
                 }
             ],
             "pathId": 6533302247611891809,
@@ -89,17 +96,19 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "でも……少しだけ休憩をもらおうかな。\r\n休んだら調子もよくなると思うんだ！",
-            "enText": "But I think I'll get a little break from…… I \nthink I'll feel better after a break!",
+            "enText": "Is it all right if I take a break, though?<n>I'm sure a\nlittle rest is all I need!",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": 86,
+            "voiceSheetId": "051005001",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": -3355699459335493076
-                },
                 {
                     "origLen": 104,
                     "pathId": -2091585028914954803
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3355699459335493076
                 }
             ],
             "pathId": 3870981109421259334,
@@ -109,22 +118,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "フジキセキは疲れているように見える……。\r\n今後の予定を見直した方が良さそうだ。",
-            "enText": "Fujikiseki looks tired…… I guess I should \nreview my future plans.",
+            "enText": "Despite her bravado, I can see she's<n>exhausted. I\nshould make changes to her<n>racing schedule so\nshe can rest.",
             "nextBlock": -1,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 108,
-                    "pathId": 5099101669483945029
+                    "pathId": -4726960511098890521
                 },
                 {
                     "origLen": 108,
-                    "pathId": -4726960511098890521
+                    "pathId": 5099101669483945029
                 }
             ],
             "pathId": -8505745901993240729,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555054
+    ]
 }

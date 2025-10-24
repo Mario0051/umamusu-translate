@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "Z5FZLG3XTQPUETDA6I6K5FHQWBK6UELY",
+    "version": 6,
+    "bundle": "DYO2RYUKVAVKZKFEF3X2Q5O4VKCKFIQ6",
     "type": "story",
     "storyId": "501002107",
     "title": "バレンタイン",
+    "enTitle": "Valentine's Day",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "今日はバレンタインデー。\r\n多くのウマ娘たちが、ウキウキした様子で\nチョコレートを抱えて歩いていた。",
-            "enText": "Today is Valentine's Day. Many horsegirl \nwere walking around with chocolates with \nchocolates in their hands.",
+            "enText": "It's Valentine's Day. Many Umamusume<n>are\nmerrily walking around carrying<n>chocolates.",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3015205223618811058,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（コンコン）",
-            "enText": "(CONKNOCKING)",
+            "enText": "<i>Knock, knock</i>",
             "nextBlock": 3,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8883760787666446235,
             "blockIdx": 2
         },
@@ -29,24 +34,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "夜分遅くにすみません。\r\nチョコレートを作ってきたんですが……。",
-            "enText": "Sorry it's late at night. I've made some \nchocolates. ……",
+            "enText": "Sorry to bother you so late. But, I made<n>you some\nchocolates...",
             "nextBlock": 4,
             "origClipLength": 65,
+            "voiceIdx": 43,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "えっ？",
-                    "enText": "What?",
+                    "enText": "Oh?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 51,
-                    "pathId": -1619093942616296187
-                },
-                {
                     "origLen": 70,
                     "pathId": 760197408774497140
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -1619093942616296187
                 }
             ],
             "pathId": -8579186360591520584,
@@ -56,13 +63,15 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "どうしたんですか？",
-            "enText": "What's wrong?",
+            "enText": "Is something wrong?",
             "nextBlock": 5,
             "origClipLength": 50,
+            "voiceIdx": 30,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "そういうのは興味ないのかと……",
-                    "enText": "I thought you weren't interested \nin that kind of thing: ……",
+                    "enText": "I didn't think you were interested in this kind of\nthing.",
                     "nextBlock": 5
                 }
             ],
@@ -72,12 +81,12 @@
                     "pathId": -8113025690386510717
                 },
                 {
-                    "origLen": 25,
-                    "pathId": 1402565490938794328
-                },
-                {
                     "origLen": 61,
                     "pathId": 5702901485497165996
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 1402565490938794328
                 }
             ],
             "pathId": -1246615373574235713,
@@ -87,21 +96,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……でも、トレーナーさんには、\r\nお世話になっていますから。",
-            "enText": "I am also grateful to the trainer at ……",
+            "enText": "Well... I wanted to show my appreciation<n>for all\nyou've done for me.",
             "nextBlock": 6,
             "origClipLength": 64,
+            "voiceIdx": 86,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 6217108805752229551
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 6999800631863805899
-                },
-                {
                     "origLen": 75,
                     "pathId": -5022209918541769594
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 6999800631863805899
                 }
             ],
             "pathId": 8263477755340427111,
@@ -111,29 +122,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ただ……何を作ろうか迷ってしまって、\r\n遅くなってしまってすみません。",
-            "enText": "I just couldn't decide what to make…… Sorry \nfor the delay.",
+            "enText": "I wasn't sure what to make at first, which<n>is why\nI'm here so late. I'm really sorry.",
             "nextBlock": 7,
             "origClipLength": 67,
+            "voiceIdx": 88,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "いや、嬉しいよ。ありがとう",
-                    "enText": "No, I'm glad. Thank you.",
+                    "enText": "No, no. I really appreciate it. Thank you.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "ううん、嬉しいよ。ありがとう",
-                    "enText": "No, it's my pleasure. Thank you.",
+                    "enText": "No, no. I really appreciate it. Thank you.",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 5903332822860327280
-                },
-                {
                     "origLen": 78,
                     "pathId": -7500253624507714650
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5903332822860327280
                 }
             ],
             "pathId": 3841059808102331623,
@@ -143,21 +156,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……いつも、ありがとうございます。\r\nトレーナーさん。",
-            "enText": "Thank you…… as always. Trainer.",
+            "enText": "Thank you so much for everything,<n>Trainer.",
             "nextBlock": 8,
             "origClipLength": 62,
+            "voiceIdx": 55,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 112,
                     "pathId": -3575933688239896976
                 },
                 {
-                    "origLen": 40,
-                    "pathId": -8030303571998932133
-                },
-                {
                     "origLen": 116,
                     "pathId": -2540455229001627901
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -8030303571998932133
                 }
             ],
             "pathId": 7127790893897348495,
@@ -167,21 +182,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女から、チョコレートの包みを受け取った。",
-            "enText": "From her, I received a package of chocolates.",
+            "enText": "I take the box of chocolates she's made.",
             "nextBlock": 9,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 70,
                     "pathId": 7709361717430819676
                 },
                 {
-                    "origLen": 37,
-                    "pathId": 9147819689885316941
-                },
-                {
                     "origLen": 70,
                     "pathId": -2240156643408251890
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 9147819689885316941
                 }
             ],
             "pathId": -8398635702174892983,
@@ -191,13 +208,15 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あの……それで、中身の事なんですが。",
-            "enText": "Um…… so, about the contents.",
+            "enText": "Um... About the contents...",
             "nextBlock": 10,
             "origClipLength": 56,
+            "voiceIdx": 54,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "うん？",
-                    "enText": "Hm?",
+                    "enText": "Yes?",
                     "nextBlock": 10
                 }
             ],
@@ -208,11 +227,11 @@
                 },
                 {
                     "origLen": 68,
-                    "pathId": -4646420649609039981
+                    "pathId": 9143265830470008806
                 },
                 {
                     "origLen": 68,
-                    "pathId": 9143265830470008806
+                    "pathId": -4646420649609039981
                 }
             ],
             "pathId": -4451642594866405156,
@@ -222,21 +241,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あまり、バレンタイン\r\nチョコレートらしくないんです。",
-            "enText": "It doesn't really look like \nValentine's Day chocolates.",
+            "enText": "These aren't your typical Valentine's Day<n>\nchocolates.",
             "nextBlock": 11,
             "origClipLength": 62,
+            "voiceIdx": 35,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -4962586247195703594
                 },
                 {
-                    "origLen": 45,
-                    "pathId": -8777809677479230245
-                },
-                {
                     "origLen": 73,
                     "pathId": -2569242528176739385
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -8777809677479230245
                 }
             ],
             "pathId": -6174147678822205569,
@@ -246,17 +267,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "いつも忙しいトレーナーさんには、\r\n滋養強壮に良いチョコレートをと思い……。",
-            "enText": "I thought of…… as a good tonic chocolate for \nthe trainers who are always busy.",
+            "enText": "You're always so busy, so... I thought I<n>should\nmake some with nutritional value.",
             "nextBlock": 12,
             "origClipLength": 69,
+            "voiceIdx": 88,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -7823635714003524811
-                },
                 {
                     "origLen": 80,
                     "pathId": -3472487471817160055
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7823635714003524811
                 }
             ],
             "pathId": 6893947446227565021,
@@ -266,17 +289,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "疲労に効く野菜を\r\nチョコレートにしてみたので。",
-            "enText": "I made chocolate with vegetables \nthat help with fatigue.",
+            "enText": "So, you see, I made them using<n>vegetables that\nhelp fight off fatigue.",
             "nextBlock": 13,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -1451590688633680599
-                },
                 {
                     "origLen": 71,
                     "pathId": -5902687021630072134
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1451590688633680599
                 }
             ],
             "pathId": -4849043853103941604,
@@ -286,24 +311,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "包みを開けると、野菜チップスに\r\nチョコレートがコーティングされていた。",
-            "enText": "When I opened the package, I found vegetable \nchips coated in chocolate.",
+            "enText": "I open the box to find it filled with<n>veggie chips\ncoated with chocolate.",
             "nextBlock": 14,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "美味しそう！",
-                    "enText": "Yum!",
+                    "enText": "These look amazing!",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
                     "origLen": 79,
-                    "pathId": -7717753469046622484
+                    "pathId": -5499891317880995952
                 },
                 {
                     "origLen": 79,
-                    "pathId": -5499891317880995952
+                    "pathId": -7717753469046622484
                 }
             ],
             "pathId": -171836141578303088,
@@ -313,29 +340,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……！\r\nよかった……。",
-            "enText": "Good. ……! Thank goodness ……",
+            "enText": "You think so? Thank goodness!",
             "nextBlock": 15,
             "origClipLength": 52,
+            "voiceIdx": 7,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "そんなに心配してたのか？",
-                    "enText": "Were you that worried?",
+                    "enText": "Were you really that worried?",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "そんなに心配してたの？",
-                    "enText": "Were you that worried?",
+                    "enText": "Were you really that worried?",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 22,
-                    "pathId": -182152724250893578
-                },
-                {
                     "origLen": 63,
                     "pathId": 4139170157973607835
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -182152724250893578
                 }
             ],
             "pathId": 6707277264498548130,
@@ -345,21 +374,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ここへ来る途中、寮の談話室で、\r\nバレンタイン特集の番組が流れていたんです。",
-            "enText": "On the way here, a Valentine's \nDay special was playing in the \ncommon room of the dormitory.",
+            "enText": "I caught some of this Valentine's special<n>on the\ncommon-room TV as I left the<n>dorm.",
             "nextBlock": 16,
             "origClipLength": 69,
+            "voiceIdx": 35,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 70,
                     "pathId": -1486929251403025539
                 },
                 {
-                    "origLen": 44,
-                    "pathId": 8972299456292158146
-                },
-                {
                     "origLen": 80,
                     "pathId": -3196656662565543271
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 8972299456292158146
                 }
             ],
             "pathId": 8440786762907680063,
@@ -369,21 +400,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "そこで紹介されていたものと、\r\n用意したものが、かなり違ったので。",
-            "enText": "What was presented there was quite different \nfrom what I had prepared.",
+            "enText": "The chocolates they were showcasing<n>were really\ndifferent from mine.",
             "nextBlock": 17,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -8278489106699811051
                 },
                 {
-                    "origLen": 53,
-                    "pathId": -592210909490246451
-                },
-                {
                     "origLen": 77,
                     "pathId": -6073569750172735006
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -592210909490246451
                 }
             ],
             "pathId": 1039404274502018182,
@@ -393,17 +426,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "その……もう少し可愛らしい方が\r\nよかったのかな……とか。",
-            "enText": "Maybe that…… should have been a little \nprettier, like ……",
+            "enText": "It made me think I should've tried<n>something...\ncuter.",
             "nextBlock": 18,
             "origClipLength": 63,
+            "voiceIdx": 60,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 3879199674385309913
-                },
                 {
                     "origLen": 74,
                     "pathId": -7955357206598977363
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 3879199674385309913
                 }
             ],
             "pathId": -7572978058299165409,
@@ -413,24 +448,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "私はあまり、こういうものに詳しくないから。",
-            "enText": "I'm not really familiar with these things.",
+            "enText": "But I'm not really good at these kinds of<n>things.",
             "nextBlock": 19,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "十分素敵なチョコレートだよ",
-                    "enText": "It's nice enough chocolate.",
+                    "enText": "They look perfectly delightful.",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 33,
-                    "pathId": -9194324712530057397
-                },
-                {
                     "origLen": 69,
                     "pathId": -6000601452362049320
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -9194324712530057397
                 }
             ],
             "pathId": -1052625068885544577,
@@ -440,17 +477,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……ありがとうございます。",
-            "enText": "Thank you ……",
+            "enText": "...Thank you.",
             "nextBlock": 20,
             "origClipLength": 53,
+            "voiceIdx": 2,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -3322956781397063797
-                },
                 {
                     "origLen": 64,
                     "pathId": -5318090439291126536
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3322956781397063797
                 }
             ],
             "pathId": 6135728715848905745,
@@ -460,17 +499,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "サイレンススズカと、思い出に残る\r\nバレンタインを過ごした。",
-            "enText": "Silence Suzuka and I spent a memorable \nValentine's Day.",
+            "enText": "I spend a memorable Valentine's Day<n>with Silence\nSuzuka.",
             "nextBlock": -1,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": -5496458323408440899
+                    "pathId": -4537129102117646234
                 },
                 {
                     "origLen": 75,
-                    "pathId": -4537129102117646234
+                    "pathId": -5496458323408440899
                 }
             ],
             "pathId": 4565416006353466966,
@@ -480,21 +521,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "トレーナーさんの好きな食べ物が\r\nわからなくて……。",
-            "enText": "I couldn't figure out what the trainer's \nfavorite food was. ……",
+            "enText": "I'm not sure what kind of food you like...",
             "nextBlock": 22,
             "origClipLength": 61,
+            "voiceIdx": 35,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -3136530517321016489
                 },
                 {
-                    "origLen": 24,
-                    "pathId": -3456466710604888455
-                },
-                {
                     "origLen": 72,
                     "pathId": 8008481925648411438
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -3456466710604888455
                 }
             ],
             "pathId": -5345854590585818677,
@@ -504,17 +547,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "いちご大福にしたんです。",
-            "enText": "I made strawberry daifuku.",
+            "enText": "So I actually went with strawberry mochi.",
             "nextBlock": 23,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 4603872127359663896
-                },
                 {
                     "origLen": 63,
                     "pathId": -9031535071853763344
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 4603872127359663896
                 }
             ],
             "pathId": 3813200682878847244,
@@ -524,24 +569,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "包みを開けると、\r\nいちごと餡が丁寧に包まれた、\n雪のようないちご大福が入っていた！",
-            "enText": "When I opened the package, I found a snowy \nstrawberry daifuku, with strawberries and \nsweet bean paste carefully wrapped inside!",
+            "enText": "I open the box to see two snow-white<n>mochi,\ncarefully molded over the<n>strawberry and sweet\nbean paste within.",
             "nextBlock": 24,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "すごく美味しそう……！",
-                    "enText": "Looks so good ……!",
+                    "enText": "These look absolutely delicious!",
                     "nextBlock": 24
                 }
             ],
             "animData": [
                 {
                     "origLen": 83,
-                    "pathId": -4261369211133897750
+                    "pathId": 2448469279684016479
                 },
                 {
                     "origLen": 83,
-                    "pathId": 2448469279684016479
+                    "pathId": -4261369211133897750
                 }
             ],
             "pathId": -7131618004353382800,
@@ -551,17 +598,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ、よかった。",
-            "enText": "Oh, good.",
+            "enText": "Oh, thank goodness!",
             "nextBlock": 25,
             "origClipLength": 49,
+            "voiceIdx": 6,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": -2205226624715686046
-                },
                 {
                     "origLen": 60,
                     "pathId": -4024795190331704260
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -2205226624715686046
                 }
             ],
             "pathId": -8432973345498022853,
@@ -571,17 +620,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "その……私が1番好きなお菓子が、\r\nいちご大福なので。",
-            "enText": "I'd like to try the…… because my favorite \nconfectionery is Strawberry Daifuku.",
+            "enText": "Strawberry mochi is my number-one<n>favorite\nsweet.",
             "nextBlock": 26,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -4746908580774806468
-                },
                 {
                     "origLen": 73,
                     "pathId": 5922569570187261662
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -4746908580774806468
                 }
             ],
             "pathId": 5561298001449786743,
@@ -591,17 +642,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "より美味しく作れるかな、と思って……。",
-            "enText": "I wondered if I could make it taste better. ……",
+            "enText": "So I thought I might be able to make<n>them\nespecially good...",
             "nextBlock": 27,
             "origClipLength": 57,
+            "voiceIdx": 37,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 954100538118343867
-                },
                 {
                     "origLen": 68,
                     "pathId": 1444179844847774589
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 954100538118343867
                 }
             ],
             "pathId": -7103577881578461593,
@@ -611,24 +664,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "いちご大福は2つある。\r\nせっかくだから、一緒に味わいたい。",
-            "enText": "There are two strawberry daifuku. Since I'm \nhere, I want to taste them together.",
+            "enText": "Considering she's made two, I'd like to<n>enjoy\nthem together.",
             "nextBlock": 28,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "一緒に食べる？",
-                    "enText": "Do you want to eat with us?",
+                    "enText": "Let's have one each.",
                     "nextBlock": 28
                 }
             ],
             "animData": [
                 {
                     "origLen": 75,
-                    "pathId": 1667645154268336778
+                    "pathId": 1128369081033732782
                 },
                 {
                     "origLen": 75,
-                    "pathId": 1128369081033732782
+                    "pathId": 1667645154268336778
                 }
             ],
             "pathId": 1106937357450962865,
@@ -638,24 +693,26 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "えっ！？\r\nいえ、そういう意味じゃ……！",
-            "enText": "What? No, that's not what I meant. ……!",
+            "enText": "Huh?! Oh no... That wasn't my intention!",
             "nextBlock": 29,
             "origClipLength": 58,
+            "voiceIdx": 26,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "一緒に食べよう！",
-                    "enText": "Let's eat together!",
+                    "enText": "It's all right. Let's eat them together!",
                     "nextBlock": 29
                 }
             ],
             "animData": [
                 {
-                    "origLen": 39,
-                    "pathId": 2269819957809822834
-                },
-                {
                     "origLen": 69,
                     "pathId": -4511614780822221203
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 2269819957809822834
                 }
             ],
             "pathId": 1713051061284936440,
@@ -665,17 +722,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "えっと、その……\r\nトレーナーさんがいいなら。",
-            "enText": "Um, that…… trainer if you want.",
+            "enText": "Well... If you insist.",
             "nextBlock": 30,
             "origClipLength": 60,
+            "voiceIdx": 34,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -3383269952321383969
-                },
                 {
                     "origLen": 71,
                     "pathId": 5745188334649359363
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3383269952321383969
                 }
             ],
             "pathId": 6589503342942065044,
@@ -685,17 +744,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "彼女を誘い、2人でいちご大福をほおばった。\r\n甘酸っぱいいちごと、控えめな甘さの餡が、\n絶妙だ……！",
-            "enText": "I invited her to join me, and we both bit \ninto a bowl of strawberry daifuku. The sweet \nand sour strawberries and the moderately \nsweet red bean paste were Exquisite. ……!",
+            "enText": "We both stuff our mouths with the<n>sweets. The\nbalance of sour strawberry<n>and sweet bean paste\nis perfect!",
             "nextBlock": 31,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 136,
-                    "pathId": 7180898898212091082
-                },
                 {
                     "origLen": 148,
                     "pathId": -2993437008631251308
+                },
+                {
+                    "origLen": 136,
+                    "pathId": 7180898898212091082
                 }
             ],
             "pathId": -8186319883201962933,
@@ -705,9 +766,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ……おいしい……！",
-            "enText": "Oh…… delicious ……!",
+            "enText": "Mmm... So good!",
             "nextBlock": 32,
             "origClipLength": 51,
+            "voiceIdx": 7,
+            "voiceSheetId": "051002001",
             "pathId": -5805477476567616663,
             "blockIdx": 31
         },
@@ -715,12 +778,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "――サイレンススズカと一緒に、心温まる\r\nバレンタインデーを過ごしたのだった。",
-            "enText": "―The two spent a heartwarming Valentine's Day \ntogether with Silence Suzuka.",
+            "enText": "I spend a very heartwarming Valentine's<n>Day with\nSilence Suzuka.",
             "nextBlock": -1,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -45147170821605544,
             "blockIdx": 32
         }
-    ],
-    "modified": 1657555246
+    ]
 }

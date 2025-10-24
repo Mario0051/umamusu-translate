@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "G2X4PVIMPAW6U57SBUHVF7KT5X3QONPP",
+    "version": 6,
+    "bundle": "NPTWTN2E2EWZVSCFVGHG5TFSGIZ2L35G",
     "type": "story",
     "storyId": "501020726",
     "title": "クレーンゲームに挑戦！",
+    "enTitle": "Claw Machine!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、\r\nセイウンスカイと出かけた先で――",
-            "enText": "One day, while out with Seiun Sky…",
+            "enText": "One day, while out and about with Seiun<n>Sky...",
             "nextBlock": 2,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 84,
-                    "pathId": -6199643044877906690
+                    "pathId": 1765046029715722556
                 },
                 {
                     "origLen": 84,
-                    "pathId": 1765046029715722556
+                    "pathId": -6199643044877906690
                 }
             ],
             "pathId": -12916823151919407,
@@ -29,17 +32,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "トレーナーさん。\r\nつかぬことをお聞きするんですけど……。",
-            "enText": "Trainer. I'm going to ask you something that \nI don't get: ……",
+            "enText": "Trainer, this is a little out of the blue,<n>but...",
             "nextBlock": 3,
             "origClipLength": 82,
+            "voiceIdx": 155,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": -1661083973898263426
-                },
                 {
                     "origLen": 93,
                     "pathId": -6799754754986082673
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -1661083973898263426
                 }
             ],
             "pathId": -8306884750619515304,
@@ -52,21 +57,23 @@
             "enText": "Do you like fishing?",
             "nextBlock": 4,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いきなり何の話？",
-                    "enText": "What are you talking about all of a sudden?",
+                    "enText": "Why are you asking now?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 54,
-                    "pathId": 532707621945562248
-                },
-                {
                     "origLen": 76,
                     "pathId": 6745343568829606414
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 532707621945562248
                 }
             ],
             "pathId": 4047330672330670923,
@@ -76,17 +83,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いやいや、ただの雑談ですって。\r\nほら、ちょっと思い浮かべてみてくださいよ。",
-            "enText": "No, no, no, it's just a chat. You see, just \npicture it for a moment.",
+            "enText": "Oh, no reason—just something to talk<n>about.\nC'mon, close your eyes and<n>picture this.",
             "nextBlock": 5,
             "origClipLength": 94,
+            "voiceIdx": 90,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -4022156360985953691
-                },
                 {
                     "origLen": 105,
                     "pathId": 589992639727684681
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4022156360985953691
                 }
             ],
             "pathId": 3907955928502449506,
@@ -96,17 +105,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "目の前に池があるとして。\r\n持っている竿に集中するとして。",
-            "enText": "Suppose there is a pond in front of you. \nLet's assume that you are concentrating on \nthe rod you are holding.",
+            "enText": "There's a pond in front of you. You're<n>holding a\nfishing rod in your hands...",
             "nextBlock": 6,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": -4567950655006871012
-                },
                 {
                     "origLen": 93,
                     "pathId": -6968639724201133288
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -4567950655006871012
                 }
             ],
             "pathId": -1185980042196839406,
@@ -116,24 +127,26 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……どう？　釣れる気がしてきました？",
-            "enText": "…… How's it going? Do you feel \nlike you can catch it?",
+            "enText": "Well? Do you wanna fish now?",
             "nextBlock": 7,
             "origClipLength": 68,
+            "voiceIdx": 52,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "まあ、なんとなく……？",
-                    "enText": "Well, how about ……?",
+                    "enText": "Uh, I guess?",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 34,
-                    "pathId": -6480835436891061066
-                },
-                {
                     "origLen": 79,
                     "pathId": -2427654832081480095
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -6480835436891061066
                 }
             ],
             "pathId": -1822475188021475214,
@@ -143,17 +156,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "おお、いいお返事！　では本番いって\r\nみましょーか。大漁期待してますんで。",
-            "enText": "Oh, good answer! Well, let's go for the real \nthing! I'm expecting a big catch.",
+            "enText": "Perfect! Let's go do it for real, then! I'm<n>itching to\nreel in a big one.",
             "nextBlock": 8,
             "origClipLength": 93,
+            "voiceIdx": 7,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -7410313739388126399
-                },
                 {
                     "origLen": 104,
                     "pathId": 8655965327474310623
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -7410313739388126399
                 }
             ],
             "pathId": 8105089408635345789,
@@ -163,21 +178,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女はクレーンゲームの方を見た。\r\nウマ娘たちをモチーフにしたぬいぐるみが\n入っている。これは、もしかして……！",
-            "enText": "She looked at the crane game. A stuffed \nanimal featuring horsegirl and her friends \nwas were in it. Could this be ……!",
+            "enText": "She looks in the direction of a claw<n>machine\npacked full of Umamusume<n>plushies. Could it be...",
             "nextBlock": 9,
             "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 157,
                     "pathId": 5782621999204208482
                 },
                 {
-                    "origLen": 123,
-                    "pathId": -8924867935616589942
-                },
-                {
                     "origLen": 129,
                     "pathId": -1485584768982511244
+                },
+                {
+                    "origLen": 123,
+                    "pathId": -8924867935616589942
                 }
             ],
             "pathId": -2586497877515604963,
@@ -187,21 +204,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "大丈夫大丈夫、釣り名人の\r\nトレーナーさんなら余裕でしょ。……ね？",
-            "enText": "Don't worry, your trainer, a master \nfisherman, will have plenty of time.…… right?",
+            "enText": "This should be a cinch for an expert<n>angler like\nyou, Trainer! ...Right?",
             "nextBlock": 10,
             "origClipLength": 88,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -8853288408394791847
                 },
                 {
-                    "origLen": 121,
-                    "pathId": 4155967347903361344
-                },
-                {
                     "origLen": 99,
                     "pathId": -3091730168528636364
+                },
+                {
+                    "origLen": 121,
+                    "pathId": 4155967347903361344
                 }
             ],
             "pathId": 8938681154531929741,
@@ -211,24 +230,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "やや言いくるめられた感はあるが、\r\n担当トレーナーとしては――",
-            "enText": "I feel somewhat talked into it, but as the \ntrainer in charge…",
+            "enText": "I can almost feel her pulling my strings<n>like some\nkind of puppeteer. But I'm her<n>trainer, so...",
             "nextBlock": 11,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "や、やってみせる……！",
-                    "enText": "Ya, I'll do it. ……!",
+                    "enText": "I-I'll do my best!",
                     "nextBlock": 11
                 }
             ],
             "animData": [
                 {
                     "origLen": 96,
-                    "pathId": 5862825207159950380
+                    "pathId": -8448096793204987371
                 },
                 {
                     "origLen": 96,
-                    "pathId": -8448096793204987371
+                    "pathId": 5862825207159950380
                 }
             ],
             "pathId": 8920101056748167564,
@@ -238,22 +259,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――このゲーム、負けられない！！",
-            "enText": "―This game, you can't lose!",
+            "enText": "There's no way I can fail now!",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 34,
-                    "pathId": 4560560765373319185
-                },
                 {
                     "origLen": 76,
                     "pathId": -2131881247571675207
+                },
+                {
+                    "origLen": 34,
+                    "pathId": 4560560765373319185
                 }
             ],
             "pathId": -2050324178291976431,
             "blockIdx": 11
         }
-    ],
-    "modified": 1657555252
+    ]
 }

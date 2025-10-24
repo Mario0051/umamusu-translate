@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "6F2TJM72FDZ4B3BCYMO62XJPSBIOY2A7",
+    "version": 6,
+    "bundle": "6QSOTHP7KIPGTVAS2WQ5YJYCHOPAH46K",
     "type": "story",
     "storyId": "501014714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニング中にエルコンドルパサーが\r\nケガをしたので、保健室に連れてきた。",
-            "enText": "During training, El Condor Pacer was injured, \nso I brought her to the infirmary.",
+            "enText": "El Condor Pasa gets injured during<n>training, so I\nbring her to the infirmary.",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": -8515371411197439037
+                    "pathId": -7609760568554552372
                 },
                 {
                     "origLen": 80,
-                    "pathId": -7609760568554552372
+                    "pathId": -8515371411197439037
                 }
             ],
             "pathId": 6615648979739535619,
@@ -29,17 +32,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルにとってはこんなケガ、\r\n痛くもかゆくもないんデス！",
-            "enText": "For Elle, this kind of injury \ndoesn't even hurt!",
+            "enText": "An injury like this is nothing to the<n>world's\nstrongest racer!",
             "nextBlock": 3,
             "origClipLength": 63,
+            "voiceIdx": 3,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -7303667270814428771
-                },
                 {
                     "origLen": 74,
                     "pathId": 6683505335981146706
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -7303667270814428771
                 }
             ],
             "pathId": 3827400328138689825,
@@ -49,24 +54,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "全然へっちゃらなので、トレーナーさんは、\r\nケガが治った後の準備をお願いしますデース！",
-            "enText": "I'm totally fine, so trainers, please prepare \nfor me after my injury is healed!",
+            "enText": "There's no need for your concern! Your<n>time is\nbetter spent preparing for my<n>inevitable return to\nracing!",
             "nextBlock": 4,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "傍を離れる訳にはいかない",
-                    "enText": "I can't leave her side.",
+                    "enText": "Yeah... I'm not going anywhere.",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 44,
-                    "pathId": -6672204314311077093
-                },
-                {
                     "origLen": 84,
                     "pathId": -4379637842590835583
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -6672204314311077093
                 }
             ],
             "pathId": 2728571754940877988,
@@ -76,17 +83,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "で、デスから、トレーナーさん。\r\nエルは平気デスって！",
-            "enText": "So, Desu kara, trainer. Elle says she's fine!",
+            "enText": "B-but Trainer! I said I'm all right!",
             "nextBlock": 5,
             "origClipLength": 62,
+            "voiceIdx": 15,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 11,
-                    "pathId": -7747946117386822317
-                },
                 {
                     "origLen": 73,
                     "pathId": 3792620147479453090
+                },
+                {
+                    "origLen": 11,
+                    "pathId": -7747946117386822317
                 }
             ],
             "pathId": 8019160446256918025,
@@ -96,29 +105,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "だから、早くトレーナー室に、\r\n行った方が……いたっ。",
-            "enText": "So you'd better get to the trainer's office \nas soon as possible. ……",
+            "enText": "You should head back to your offi—Ack!<n>Ouchie.",
             "nextBlock": 6,
             "origClipLength": 62,
+            "voiceIdx": 28,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "無理してるじゃないか",
-                    "enText": "You're pushing yourself too hard.",
+                    "enText": "You're overdoing it, aren't you?",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "無理してるじゃない",
-                    "enText": "You're pushing it.",
+                    "enText": "You're overdoing it, aren't you?",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -8628600154105310298
-                },
-                {
                     "origLen": 73,
                     "pathId": -4569035941596892895
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -8628600154105310298
                 }
             ],
             "pathId": 3724534218095524927,
@@ -128,17 +139,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "無理といいますか……えーっと……。",
-            "enText": "I'm not saying it's impossible.…… uh, ……",
+            "enText": "Uhhh... well...",
             "nextBlock": 7,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": -6993711320636013710
-                },
                 {
                     "origLen": 67,
                     "pathId": 6655241375905854192
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -6993711320636013710
                 }
             ],
             "pathId": 838022939666462147,
@@ -148,29 +161,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "その、これはエルが\r\n油断しちゃったせいデスから……。",
-            "enText": "Well, this is because Elle \nlet her guard down. ……",
+            "enText": "I think I just got a little careless...",
             "nextBlock": 8,
             "origClipLength": 62,
+            "voiceIdx": 60,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "いいや、俺のミスだ",
-                    "enText": "No. My mistake.",
+                    "enText": "No, that was my fault.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "確かに、気合いが足りなかった",
-                    "enText": "I certainly wasn't enthusiastic enough.",
+                    "enText": "True. You weren't fired up enough.",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 46,
-                    "pathId": -3466878744396672877
-                },
-                {
                     "origLen": 73,
                     "pathId": 8601166534242678938
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -3466878744396672877
                 }
             ],
             "pathId": 7859603773446022013,
@@ -180,29 +195,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "その、これはエルが\r\n油断しちゃったせいデスから……。",
-            "enText": "Well, this is because Elle \nlet her guard down. ……",
+            "enText": "I think I just got a little careless...",
             "nextBlock": 9,
             "origClipLength": 62,
+            "voiceIdx": 60,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "いいえ、私のミス",
-                    "enText": "No, my mistake.",
+                    "enText": "No, that was my fault.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "確かに、気合いが足りなかった",
-                    "enText": "I certainly wasn't enthusiastic enough.",
+                    "enText": "True. You weren't fired up enough.",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 46,
-                    "pathId": 2672644115605407497
-                },
-                {
                     "origLen": 73,
                     "pathId": -3405590458558339413
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 2672644115605407497
                 }
             ],
             "pathId": -393837491899193610,
@@ -212,17 +229,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "違いますよ！　悪いのはエルなんデス！",
-            "enText": "No, sir! It's Elle who's at fault!",
+            "enText": "No way! It's my fault!",
             "nextBlock": 10,
             "origClipLength": 56,
+            "voiceIdx": 51,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 7714606828340958892
-                },
                 {
                     "origLen": 67,
                     "pathId": -8739946762440103889
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 7714606828340958892
                 }
             ],
             "pathId": 4400585314420469971,
@@ -232,17 +251,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルが弱いばかりに……！\r\nエルは、エルは――",
-            "enText": "Elle is just too weak. ……! Elle is― Elle is― \nElle is― Elle is― Elle is― Elle is weak!",
+            "enText": "I'm just weak... I'm... I'm...",
             "nextBlock": 11,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 3996836483477420415
-                },
                 {
                     "origLen": 71,
                     "pathId": -3267443437315672892
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 3996836483477420415
                 }
             ],
             "pathId": -4613421274306416352,
@@ -252,29 +273,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ぬおぉぉぉ！！　もっと強くならないと！\r\nエルはもっと強くなりたいデス！",
-            "enText": "Noooooo!!! I need to be stronger! Elle wants \nto be stronger desu!",
+            "enText": "Aaaugh! I want to get even stronger! I<n><i>need</i> to!",
             "nextBlock": 12,
             "origClipLength": 68,
+            "voiceIdx": 15,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "その前にしっかり治そうな",
-                    "enText": "Let's get you well before then.",
+                    "enText": "Let's focus on healing up first.",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "その前にしっかり治そうね",
-                    "enText": "Let's make sure you get well before then.",
+                    "enText": "Let's focus on healing up first.",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 17,
-                    "pathId": -742394276788048822
-                },
-                {
                     "origLen": 79,
                     "pathId": -5274512883295839706
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -742394276788048822
                 }
             ],
             "pathId": -5530340791320405459,
@@ -284,17 +307,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "スィ！\r\nご迷惑おかけしますデス！",
-            "enText": "Sue! Sorry for the inconvenience!",
+            "enText": "Entiendo! Sorry for all the trouble!",
             "nextBlock": 13,
             "origClipLength": 56,
+            "voiceIdx": 24,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 896304332333869271
-                },
                 {
                     "origLen": 67,
                     "pathId": -8091112153065101788
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 896304332333869271
                 }
             ],
             "pathId": -6643125634170844224,
@@ -304,17 +329,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "心意気を新たにしたエルコンドルパサーは、\r\nしっかりと休養を取り、\nケガを完治させたのであった。",
-            "enText": "Elconder Pacer, with a renewed spirit, took a \ngood rest and fully recovered from her \ninjury. She was fully healed from her injury.",
+            "enText": "After some much needed rest, El Condor<n>Pasa is\nfully recovered and overflowing<n>with\ndetermination.",
             "nextBlock": -1,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": 7775854833484552703
+                    "pathId": 3620087428189173031
                 },
                 {
                     "origLen": 87,
-                    "pathId": 3620087428189173031
+                    "pathId": 7775854833484552703
                 }
             ],
             "pathId": 8833692354378478302,
@@ -324,17 +351,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "はい……\r\n反省、内省、エル猛省……。",
-            "enText": "Yes…… reflection, introspection, \nel fiercely ……",
+            "enText": "Yes... reflection,<n>introspection—soul-searching...",
             "nextBlock": 15,
             "origClipLength": 57,
+            "voiceIdx": 22,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": -9153467254359002396
-                },
                 {
                     "origLen": 68,
                     "pathId": 5526383936209029392
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -9153467254359002396
                 }
             ],
             "pathId": -1232383203490405944,
@@ -344,24 +373,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "こんな事ではきっとパパに\r\n怒られちゃいますデス……。",
-            "enText": "I'm sure my dad will get mad \nat me for doing this desu ……",
+            "enText": "My papa's gonna be so angry about<n>this...",
             "nextBlock": 16,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "次からは気をつけよう",
-                    "enText": "I'll be careful next time.",
+                    "enText": "Just be more careful from now on.",
                     "nextBlock": 16
                 }
             ],
             "animData": [
                 {
-                    "origLen": 37,
-                    "pathId": -4777822774988518534
-                },
-                {
                     "origLen": 73,
                     "pathId": 978538078473192696
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -4777822774988518534
                 }
             ],
             "pathId": -4975896413455086236,
@@ -371,17 +402,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "はい。これからは、もっともっと慎重に、\r\nトレーニングしないとデスね……。",
-            "enText": "Yes. From now on, I have to train \nmuch more carefully. ……",
+            "enText": "Got it! I'll be hella careful during<n>training from\nnow on...",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": 73,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 2450053468082244582
-                },
                 {
                     "origLen": 80,
                     "pathId": 2151892608805376203
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 2450053468082244582
                 }
             ],
             "pathId": 1934437601667913074,
@@ -391,17 +424,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "気合いが足りない……デスか！",
-            "enText": "You're not being enthusiastic enough…… desu?",
+            "enText": "Not... fired up enough?!",
             "nextBlock": 18,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 1544999635250200872
-                },
                 {
                     "origLen": 65,
                     "pathId": -5436045472171848382
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 1544999635250200872
                 }
             ],
             "pathId": 6305438938555234229,
@@ -411,17 +446,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ぐぬぬーっ！\r\nエルとしたことがなんと情けない事を……！",
-            "enText": "Grrrrrrrrrrrrrrrrrrrrrrrrrr! What a pathetic \nthing to do with Elle. ……!",
+            "enText": "Grrr! Me?! Not fired up?!",
             "nextBlock": 19,
             "origClipLength": 63,
+            "voiceIdx": 18,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": 1015734083248582222
-                },
                 {
                     "origLen": 74,
                     "pathId": 5033756480959621815
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 1015734083248582222
                 }
             ],
             "pathId": -6859232820917334608,
@@ -431,17 +468,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "スィ・セ・プエデッ！\r\nエルはこんなものではないはずデス！",
-            "enText": "Sui se puede! Elle should not be like this!",
+            "enText": "Di que no es verdad! Say it ain't so!<n>That's not me!",
             "nextBlock": 20,
             "origClipLength": 63,
+            "voiceIdx": 9,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 7416483370009919276
-                },
                 {
                     "origLen": 74,
                     "pathId": -984078628773453329
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 7416483370009919276
                 }
             ],
             "pathId": 1150909171274391502,
@@ -451,17 +490,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "よし、気合いは十分！　トレーナーさん！\r\n今後のエルに期待してくださいデース！",
-            "enText": "Okay, I'm fired up! Trainers! Stay tuned for \nmore elle in the future, dace!",
+            "enText": "Okay! I'm fired up, Trainer! You can<n>count on me!",
             "nextBlock": 21,
             "origClipLength": 70,
+            "voiceIdx": 11,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 553165807157475315
-                },
                 {
                     "origLen": 81,
                     "pathId": 3224342001791189503
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 553165807157475315
                 }
             ],
             "pathId": -5549362386391779297,
@@ -471,22 +512,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "その宣言通り、彼女はケガを数日で治し、\r\n今まで以上にトレーニングを\n上手くこなすようになったのであった。",
-            "enText": "As she declared, she recovered from her \ninjury in a few days and began to train \nbetter than ever. She began to train better \nthan ever before.",
+            "enText": "With that declaration, she recovers from<n>her\ninjury in a few days and performs<n>better in\ntraining than ever before.",
             "nextBlock": -1,
             "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 90,
-                    "pathId": 1621298077183653047
+                    "pathId": -5271546906216134658
                 },
                 {
                     "origLen": 90,
-                    "pathId": -5271546906216134658
+                    "pathId": 1621298077183653047
                 }
             ],
             "pathId": 7031267969662286445,
             "blockIdx": 21
         }
-    ],
-    "modified": 1657555055
+    ]
 }

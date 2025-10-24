@@ -1,25 +1,32 @@
 {
-    "version": 4,
-    "bundle": "HTIYJ7KUCQEESIMJQRFZKALNT7MRUP7B",
+    "version": 6,
+    "bundle": "56KMBGM5PUOWYIIJ4RNRABE2MWYCIVYY",
     "type": "story",
     "storyId": "830029003",
     "title": "あなたにだけは絶対に",
+    "enTitle": "Only for You",
     "text": [
         {
             "jpName": "ウマ娘たち",
-            "enName": "Horsegirls",
+            "enName": "Students",
             "jpText": "キタちゃん、頑張れぇー！！\r\n逃げ切れるよーっ！！",
-            "enText": "Kita, hang in there! You can escape!",
+            "enText": "You've got this, Kita!\nKeep that lead!",
             "nextBlock": 2,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6249691939701623336,
             "blockIdx": 1
         },
         {
             "jpName": "ウマ娘たち",
-            "enName": "Horsegirls",
+            "enName": "Students",
             "jpText": "サトちゃん、もうちょっとだよ！！\r\n差して差してぇーっ！！",
-            "enText": "Sato, we're almost there! Give \nit to me, give it to me!",
+            "enText": "Sato, you're almost there! One final<n>push!\nYou can do it!",
             "nextBlock": 3,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3135648835180580877,
             "blockIdx": 2
         },
@@ -27,17 +34,49 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……すごい盛り上がりだ。どうやら、\r\nサトノダイヤモンドとキタサンブラックが\n野良レースで対決しているようだが――",
-            "enText": "… It's a lot of fun. Apparently, \nSatono Diamond and Kitasan Black \nare facing off in a wild race.",
+            "enText": "The crowd's really pumped up! It looks<n>like\nSatono Diamond and Kitasan Black<n>are facing off\nin a pick-up race.",
             "nextBlock": 4,
+            "origClipLength": 119,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6951849921834693685,
             "blockIdx": 3
         },
         {
             "jpName": "2人",
-            "enName": "Both",
+            "enName": "Kitasan Black and Satono Diamond",
             "jpText": "はぁっ、はぁっ、はぁ……。",
-            "enText": "Huh, huh, huh…",
+            "enText": "<i>Huff, huff, huff...</i>",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -4901734616256990158
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -3980691609273589529
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1675671799077050443
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 4544573047746671539
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -6320118933360513938
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 5690524349383140673
+                }
+            ],
             "pathId": -1416610445106749905,
             "blockIdx": 4
         },
@@ -45,8 +84,37 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "……～～～～っ、よし！！\r\n今回はあたしの勝ちだね、ダイヤちゃん！！",
-            "enText": "…～～～～, okay! I think I've \nwon this time, Diamond!",
+            "enText": "All right! Looks like victory was mine this<n>time,\nDia!",
             "nextBlock": 6,
+            "origClipLength": 89,
+            "voiceIdx": 11,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -1742041149189129212
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -3973556063077314327
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -883124104243337710
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -1189291947768375487
+                },
+                {
+                    "origLen": 100,
+                    "pathId": -8392019505135467689
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 8778251062765813208
+                }
+            ],
             "pathId": -8457328759789696060,
             "blockIdx": 5
         },
@@ -54,8 +122,29 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "ん～、3回走って2回負けかぁ……キタちゃん、\r\n最近どんどん速くなってきてるね。",
-            "enText": "Hmmm, three runs, two losses… \nKita-chan, you've been getting \nfaster and faster lately.",
+            "enText": "Ugh... I lost two out of our three races.<n>You've\nbeen getting faster and faster<n>lately, Kita.",
             "nextBlock": 7,
+            "origClipLength": 97,
+            "voiceIdx": 34,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 6741181051317454801
+                },
+                {
+                    "origLen": 134,
+                    "pathId": 5862697528156622011
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -5305366990069885780
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -7098099185303700068
+                }
+            ],
             "pathId": 3401005724641086299,
             "blockIdx": 6
         },
@@ -63,8 +152,29 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "えへへっ、そうかな？",
-            "enText": "Heh, I don't know.",
+            "enText": "Hehe, you think so?",
             "nextBlock": 8,
+            "origClipLength": 58,
+            "voiceIdx": 0,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 1114929876185864044
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 8820562958950800143
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 1215940095315062
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -9095390941330763016
+                }
+            ],
             "pathId": -3689525601307855792,
             "blockIdx": 7
         },
@@ -72,8 +182,29 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "でも最初の1回は、ダイヤちゃんに\r\n差されて負けちゃったから――",
-            "enText": "But the first time, I was \nbeaten by Dia-chan, so…",
+            "enText": "But during that first race, you<n>completely\noutpaced me to take the<n>win.",
             "nextBlock": 9,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 173888755912486203
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -8170363223032470509
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -6792475296460215142
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3094400078427051293
+                }
+            ],
             "pathId": 3023890220097083840,
             "blockIdx": 8
         },
@@ -81,8 +212,29 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "うんっ、もっと集中力高めないと！\r\nあたし、図書室行って\nメントレ方法調べてくる！",
-            "enText": "Yeah, I need to be more focused! \nI'm gonna go to the library and \nlook up how to do menthol!",
+            "enText": "Yeah, I need to improve my focus! I'm<n>gonna go\nto the library and look up<n>some mental training\nmethods!",
             "nextBlock": 10,
+            "origClipLength": 98,
+            "voiceIdx": 48,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 3285014923740999926
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -989288054560237872
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 6953312200432506901
+                },
+                {
+                    "origLen": 141,
+                    "pathId": -5355899383215461315
+                }
+            ],
             "pathId": -1541106803292507033,
             "blockIdx": 9
         },
@@ -90,8 +242,33 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "今日は付き合ってくれてありがと、\r\nダイヤちゃん！　じゃあっ！！",
-            "enText": "Thanks for hanging out with \nme today, Diamond! Bye!",
+            "enText": "Thanks for racing with me today, Dia! I'll<n>catch\nyou later!",
             "nextBlock": 11,
+            "origClipLength": 86,
+            "voiceIdx": 44,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": -2618817682499251744
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 4115916403875100557
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -5954489486988432208
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -2505052439984390868
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 63412247531929781
+                }
+            ],
             "pathId": 6992517267195681889,
             "blockIdx": 10
         },
@@ -99,8 +276,33 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "うん……また後でね、キタちゃん。",
-            "enText": "Yeah… I'll see you later, Kita.",
+            "enText": "Sure... I'll see you later, Kita.",
             "nextBlock": 12,
+            "origClipLength": 65,
+            "voiceIdx": 148,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -5731549249451902417
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 5969638582452331260
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4885838270051881918
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 8835274963541749603
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 9112821167589565691
+                }
+            ],
             "pathId": -7568746890686785147,
             "blockIdx": 11
         },
@@ -108,8 +310,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "…………うんっ。私も行かなきゃ！",
-            "enText": "… Yeah. I have to go too!",
+            "enText": "...Right. I need to get going myself!",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "voiceIdx": 69,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -4832776109155385323
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 8915082095495757825
+                }
+            ],
             "pathId": 3592577289740418990,
             "blockIdx": 12
         },
@@ -117,8 +332,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして、その日の夜。\r\nジムの電気が遅くまで点いていたので、\n様子を見に行くと――",
-            "enText": "And that night. The lights were on late at \nthe gym, so I went to check on her.",
+            "enText": "Later that night, noticing that the lights<n>are still\non at the gym, I drop by to see<n>what's happening.",
             "nextBlock": 14,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -2561904767458191707
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -5617983829991615136
+                }
+            ],
             "pathId": 6190627609819821545,
             "blockIdx": 13
         },
@@ -126,17 +354,20 @@
             "jpName": "？？？",
             "enName": "???",
             "jpText": "ふぅっ……ふぅっ。",
-            "enText": "Phew… Phew.",
+            "enText": "<i>Huff... Huff...</i>",
             "nextBlock": 15,
+            "origClipLength": 56,
+            "voiceIdx": 124,
+            "voiceSheetId": "051067001",
             "choices": [
                 {
                     "jpText": "君は……サトノダイヤモンド？",
-                    "enText": "Are you… Satono Diamond?",
+                    "enText": "Satono Diamond?",
                     "nextBlock": 15
                 },
                 {
                     "jpText": "貴方は……サトノダイヤモンド？",
-                    "enText": "Are you… Satono Diamond?",
+                    "enText": "Satono Diamond?",
                     "nextBlock": 15
                 }
             ],
@@ -147,8 +378,11 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "えっ？　あっ――",
-            "enText": "What? Uh…",
+            "enText": "Hm? Oh...",
             "nextBlock": 16,
+            "origClipLength": 55,
+            "voiceIdx": 26,
+            "voiceSheetId": "051067001",
             "pathId": -1718744823016280424,
             "blockIdx": 15
         },
@@ -156,8 +390,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "申し訳ございません。もう消灯時間でしたか？",
-            "enText": "I'm sorry, sir. Is it light-out \ntime already?",
+            "enText": "My apologies. Is it time for lights out<n>already?",
             "nextBlock": 17,
+            "origClipLength": 72,
+            "voiceIdx": 24,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5383095005474130549
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 1147076836812211984
+                }
+            ],
             "pathId": -2217131564124485493,
             "blockIdx": 16
         },
@@ -165,18 +412,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "消灯まではまだ少しある。\r\nだが、既にかなり遅い時間なので、\nジムに残っているのは彼女1人だけだ……。",
-            "enText": "It's still a little while until lights out. \nBut it's already pretty late, so she's the \nonly one left in the gym…",
+            "enText": "There's still a little time left. But it's<n>already very\nlate, and she's the only one<n>here...",
             "nextBlock": 18,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "まだ大丈夫だけど、頑張り過ぎてないか？",
-                    "enText": "You're still okay, but you're not \ntrying too hard, are you?",
+                    "enText": "You have time. But aren't you pushing yourself\ntoo hard?",
                     "nextBlock": 18
                 },
                 {
                     "jpText": "まだ大丈夫だけど、頑張り過ぎてない？",
-                    "enText": "I'm still okay. You're not trying too hard?",
+                    "enText": "You have time. But aren't you pushing yourself\ntoo hard?",
                     "nextBlock": 18
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -5676290779809903204
+                },
+                {
+                    "origLen": 235,
+                    "pathId": 2409316517971127855
                 }
             ],
             "pathId": 465381401383128523,
@@ -186,8 +446,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "まあ……お優しいのですね。\r\nでも、ダイヤは平気です！",
-            "enText": "Well… you're very kind. But \nI'm fine with diamonds!",
+            "enText": "Goodness, you're such a kind soul. I'm<n>fine, really!",
             "nextBlock": 19,
+            "origClipLength": 80,
+            "voiceIdx": 0,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 8575617444710100399
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 1417503449102015884
+                }
+            ],
             "pathId": -1016191229580706735,
             "blockIdx": 18
         },
@@ -195,18 +468,35 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "まだまだ、こんなものでは……\r\nライバルを、追い越せませんから。",
-            "enText": "You can't overtake your rivals \nwith this kind of… yet.",
+            "enText": "But I'm in no position to best my rival...<n>Not at\nthis level.",
             "nextBlock": 20,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "キタサンブラックのことか？",
-                    "enText": "You mean Kitasan Black?",
+                    "enText": "Do you mean Kitasan Black?",
                     "nextBlock": 20
                 },
                 {
                     "jpText": "キタサンブラックのこと？",
-                    "enText": "You mean Kitasan Black?",
+                    "enText": "Do you mean Kitasan Black?",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -1796311466908819932
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 196632639434370835
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 1159939030815462454
                 }
             ],
             "pathId": -6165666944269801447,
@@ -216,8 +506,25 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 21,
+            "origClipLength": 51,
+            "voiceIdx": 3,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3370449257735867728
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 4447643768138449170
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 6748066363951361030
+                }
+            ],
             "pathId": -8229280004148314818,
             "blockIdx": 20
         },
@@ -225,8 +532,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "……キタちゃんが初めてだったんです。\r\n『この子、私より強い』って思わされたの。",
-            "enText": "… Kita was my first. She made me think, \n\"This girl is stronger than me.",
+            "enText": "...Kita was the first Umamusume to make<n>me feel\nlike I was actually outmatched.",
             "nextBlock": 22,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -3948960285644684323
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 1061851316461160358
+                }
+            ],
             "pathId": -8193881806630539382,
             "blockIdx": 21
         },
@@ -234,8 +554,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "前だけ見ていればいい、と思っていたんです。",
-            "enText": "I thought that I only needed to look ahead.",
+            "enText": "I always thought that I only needed to<n>focus on\nwhat was in front of me.",
             "nextBlock": 23,
+            "origClipLength": 72,
+            "voiceIdx": 78,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 3112263946766924173
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7761635241495496838
+                }
+            ],
             "pathId": -9183659612977358735,
             "blockIdx": 22
         },
@@ -243,8 +576,11 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "生まれた意味を果たすため、みなさまからの\r\n期待にお応えするため……ただ、前だけを。",
-            "enText": "In order to fulfill the meaning of \nour birth and to meet your expectations… \nwe only look forward.",
+            "enText": "That if I simply kept looking ahead, I<n>could fulfill\nmy birthright and meet<n>everyone's expectations.",
             "nextBlock": 24,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8956999832803789477,
             "blockIdx": 23
         },
@@ -252,8 +588,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "でも――",
-            "enText": "But—",
+            "enText": "But then...",
             "nextBlock": 25,
+            "origClipLength": 50,
+            "voiceIdx": 86,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3541801298326619546
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1942049525229891722
+                }
+            ],
             "pathId": 6934690476749988734,
             "blockIdx": 24
         },
@@ -261,8 +610,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "キタちゃんは、そんな私の前に現れました。",
-            "enText": "Kita-chan appeared in front of me.",
+            "enText": "Ahead of me, Kita stepped into view.",
             "nextBlock": 26,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 3097309484985207552
+                },
+                {
+                    "origLen": 167,
+                    "pathId": -8260706912812621663
+                }
+            ],
             "pathId": -1493531660628780580,
             "blockIdx": 25
         },
@@ -270,8 +632,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "ずうっとまっさらだった私の視界に、\r\nあの子の姿が、初めて映ったんです。",
-            "enText": "It was the first time I saw her in my \ncompletely blank field of vision.",
+            "enText": "My field of vision had always been<n>empty, and\nyet there she was.",
             "nextBlock": 27,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 125,
+                    "pathId": -1149341872151583711
+                },
+                {
+                    "origLen": 146,
+                    "pathId": 2080542412438989631
+                }
+            ],
             "pathId": -5715043483676015080,
             "blockIdx": 26
         },
@@ -279,8 +654,29 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "だから私は、キタちゃんを追い越したい。",
-            "enText": "So I want to overtake Kita-chan.",
+            "enText": "That's why I want to surpass her.",
             "nextBlock": 28,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 156,
+                    "pathId": -2448533664961405968
+                },
+                {
+                    "origLen": 135,
+                    "pathId": -8254056560701145963
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 4530620860781266355
+                },
+                {
+                    "origLen": 15,
+                    "pathId": 8547064073019027769
+                }
+            ],
             "pathId": 8380187605798296724,
             "blockIdx": 27
         },
@@ -288,8 +684,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "真っ直ぐで、温かくて、私の前を行く子。\r\nそんな、強いキタちゃんだから……\n絶対に追い越したいんです！",
-            "enText": "She is straight, warm, and in front of me. \nSuch a strong girl, Kita… I definitely want \nto overtake her!",
+            "enText": "She's straightforward, kind, and<n>powerful. I want\nto do what it takes to<n>overtake her!",
             "nextBlock": 29,
+            "origClipLength": 111,
+            "voiceIdx": 71,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -8803761389867027130
+                },
+                {
+                    "origLen": 155,
+                    "pathId": -3750119342253518262
+                }
+            ],
             "pathId": 1081700900036867855,
             "blockIdx": 28
         },
@@ -297,18 +706,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "サトノダイヤモンドの意志の強さが、\r\nこれ以上ないほど伝わってきた。\nここは――",
-            "enText": "Satono Diamond's strength of will could not \nhave been more evident. This is where—",
+            "enText": "The sheer strength of Satono Diamond's<n>resolve is\nclear. I consider my options...",
             "nextBlock": 30,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "消灯時間まで見守る",
-                    "enText": "Watch over them until lights out.",
+                    "enText": "Stay with her until lights out.",
                     "nextBlock": 30
                 },
                 {
                     "jpText": "そっとこの場を立ち去る",
-                    "enText": "Gently leave the scene.",
+                    "enText": "Make a quiet exit.",
                     "nextBlock": 38
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": 733482959956428001
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -6770980477232035007
                 }
             ],
             "pathId": -3992471611428911792,
@@ -318,8 +740,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "消灯時刻になったら声をかけるので、\r\nそれまで好きなだけトレーニングに\n集中するよう促した。",
-            "enText": "I told them that I would call them when it \nwas time to turn off the lights and \nencouraged them to concentrate on their \ntraining as much as they wanted until then.",
+            "enText": "I encourage her to focus on training hard<n>and\npromise to tell her when it's lights<n>out.",
             "nextBlock": 31,
+            "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -8609676330545056905
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 5467264106303729063
+                }
+            ],
             "pathId": 2661486656352564909,
             "blockIdx": 30
         },
@@ -327,8 +762,25 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "よいのですか？\r\nありがとうございます……！",
-            "enText": "Is that okay? Thank you…!",
+            "enText": "Really? Thank you so very much!",
             "nextBlock": 32,
+            "origClipLength": 73,
+            "voiceIdx": 12,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 171,
+                    "pathId": -4514860457465563178
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -4406279298236786758
+                },
+                {
+                    "origLen": 139,
+                    "pathId": 5882467781816782470
+                }
+            ],
             "pathId": -2108866290565203677,
             "blockIdx": 31
         },
@@ -336,8 +788,25 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "……よしっ。\r\nまだまだ、頑張らなくっちゃ！",
-            "enText": "… Okay. I still have to work hard!",
+            "enText": "...Okay, I need to keep pushing myself!",
             "nextBlock": 33,
+            "origClipLength": 73,
+            "voiceIdx": 69,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 116,
+                    "pathId": -5948610237205312540
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 634197561168749697
+                },
+                {
+                    "origLen": 139,
+                    "pathId": -2587555132257356898
+                }
+            ],
             "pathId": -6074104662346121071,
             "blockIdx": 32
         },
@@ -345,8 +814,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうして、サトノダイヤモンドが\r\nトレーニングへと戻って行った後のこと――",
-            "enText": "And so, after Satono Diamond \nwent back to her training—",
+            "enText": "And then, after Satono Diamond returns<n>to her\ntraining...",
             "nextBlock": 34,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1653463361045311782
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -618162181248577729
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -486396712587779634
+                }
+            ],
             "pathId": 5143600465979069090,
             "blockIdx": 33
         },
@@ -354,8 +840,21 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……あら？\r\nレッグプレス機に先客が……？",
-            "enText": "… What? The leg press machine has \na customer ahead of it…?",
+            "enText": "Oh? Someone's already using the leg<n>press\nmachine...",
             "nextBlock": 35,
+            "origClipLength": 72,
+            "voiceIdx": 30,
+            "voiceSheetId": "051013001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": 1488084810320315484
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3093238521821840868
+                }
+            ],
             "pathId": -842173417459142317,
             "blockIdx": 34
         },
@@ -363,8 +862,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "ふぅっ、ふーっ……！！",
-            "enText": "Whew, whew…!",
+            "enText": "<i>Hngh... Phew!</i>",
             "nextBlock": 36,
+            "origClipLength": 59,
+            "voiceIdx": 124,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 6565967234935385147
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -9142028244758206317
+                }
+            ],
             "pathId": -88857751844680580,
             "blockIdx": 35
         },
@@ -372,8 +884,25 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "……今日は、退散すべきのようね。",
-            "enText": "… Looks like we should leave for the day.",
+            "enText": "...It appears as though I should call it a<n>day.",
             "nextBlock": 37,
+            "origClipLength": 65,
+            "voiceIdx": 2,
+            "voiceSheetId": "051013001",
+            "animData": [
+                {
+                    "origLen": 128,
+                    "pathId": -3119362651549949142
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 3704865446306481966
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -7083945575399036227
+                }
+            ],
             "pathId": -2071719330830114991,
             "blockIdx": 36
         },
@@ -381,8 +910,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後もしばらく、サトノダイヤモンドは\r\nわき目もふらず集中し続けたのだった。",
-            "enText": "For a while after that, Satono Diamond \ncontinued to concentrate on the race without \na second thought.",
+            "enText": "Without losing any focus whatsoever,<n>Satono\nDiamond continues training for a<n>while.",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7426519082900193349
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -9174051890088179972
+                },
+                {
+                    "origLen": 127,
+                    "pathId": -1634511345294374668
+                }
+            ],
             "pathId": 652122880814614967,
             "blockIdx": 37
         },
@@ -390,8 +936,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "自分は退散するので、遅くなりすぎないよう\r\n気をつけてと注意だけしておいた。",
-            "enText": "As I was leaving, I just warned her to be \ncareful not to be too late.",
+            "enText": "After warning her not to stay out too<n>late, I let\nher know that I'm leaving.",
             "nextBlock": 39,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -4078556796553627985
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 2320644882626846404
+                }
+            ],
             "pathId": 5375713243630989999,
             "blockIdx": 38
         },
@@ -399,8 +958,21 @@
             "jpName": "サトノダイヤモンド",
             "enName": "Satono Diamond",
             "jpText": "はいっ、しっかり時刻を確認して参ります。\r\nご配慮感謝いたします！",
-            "enText": "Yes, I will check the time carefully. Thank \nyou for your attention!",
+            "enText": "Yes, I'll make sure to be mindful of the<n>time.\nThank you very much for your kind<n>consideration!",
             "nextBlock": 40,
+            "origClipLength": 88,
+            "voiceIdx": 48,
+            "voiceSheetId": "051067001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3844476688579268006
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -173601092002417479
+                }
+            ],
             "pathId": 5865701179364992895,
             "blockIdx": 39
         },
@@ -408,8 +980,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、帰ろうと思ったのだが、\r\nコースの方から何やら声がしたので\n行ってみると――",
-            "enText": "After that, I was about to leave, but then I \nheard some voices coming from the course, so \nI went over there.",
+            "enText": "As I'm about to leave, I hear a voice<n>coming from\nthe racetrack. And when I<n>take a look...",
             "nextBlock": 41,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -1727574008668960225
+                },
+                {
+                    "origLen": 15,
+                    "pathId": -2707757882290868347
+                }
+            ],
             "pathId": -4321667380080639874,
             "blockIdx": 40
         },
@@ -417,8 +1002,25 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "はっ、はっ、はっ……ふぅっ！！",
-            "enText": "Ha, ha, ha… Phew!",
+            "enText": "<i>Huff, huff, huff...</i> Phew!",
             "nextBlock": 42,
+            "origClipLength": 64,
+            "voiceIdx": 59,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 85,
+                    "pathId": 9104525022524999092
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 7405348200991596082
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -6174793156754847381
+                }
+            ],
             "pathId": 5637379062135923841,
             "blockIdx": 41
         },
@@ -426,8 +1028,25 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "フォーカルポイントを意識して……うんっ。\r\nだんだんわかってきた気がする……！",
-            "enText": "Be aware of the focal point… Yeah. I think \nI'm starting to get it…!",
+            "enText": "Find a target to focus on... Yeah, I think<n>I'm\nstarting to get it!",
             "nextBlock": 43,
+            "origClipLength": 95,
+            "voiceIdx": 74,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -428910439624361691
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -1962302688151121318
+                },
+                {
+                    "origLen": 208,
+                    "pathId": -3334654222903322990
+                }
+            ],
             "pathId": 8484318126642429240,
             "blockIdx": 42
         },
@@ -435,8 +1054,21 @@
             "jpName": "キタサンブラック",
             "enName": "Kitasan Black",
             "jpText": "よし、もう1本っ！！",
-            "enText": "Okay, one more!",
+            "enText": "Okay, one more lap!",
             "nextBlock": 44,
+            "origClipLength": 58,
+            "voiceIdx": 11,
+            "voiceSheetId": "051068001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8032400641002285327
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3103387469577086084
+                }
+            ],
             "pathId": -343657536117101357,
             "blockIdx": 43
         },
@@ -444,8 +1076,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……2人の駆けてゆく未来が楽しみになる、\r\nそんな出来事だった。",
-            "enText": "It was such an event that made me look \nforward to the future of…2.",
+            "enText": "I can't wait to see what the future holds<n>for these\ntwo Umamusume racing toward<n>their dreams.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8945285141735421172,
             "blockIdx": 44
         }

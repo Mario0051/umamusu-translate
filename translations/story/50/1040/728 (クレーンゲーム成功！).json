@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "2QN7WXCFH6FOVQUHP3FU6XIHCKZWLICM",
+    "version": 6,
+    "bundle": "H6FDPVPBRGFHCTUA745XRQPGU3OBW56E",
     "type": "story",
     "storyId": "501040728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ふふっ、カワイイ。手触りもいいし、\r\nかなりいい生地、使ってんだね。",
-            "enText": "So cute. It has a nice texture. You \nmust use a very good fabric.",
+            "enText": "Heheh, it's cute. It feels so nice, it must<n>be made\nof pretty good fabric.",
             "nextBlock": 2,
             "origClipLength": 89,
+            "voiceIdx": 0,
+            "voiceSheetId": "051040001",
             "animData": [
                 {
                     "origLen": 177,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 100,
-                    "pathId": -4423243617082441524
+                    "pathId": 6553897240648574213
                 },
                 {
                     "origLen": 100,
-                    "pathId": 6553897240648574213
+                    "pathId": -4423243617082441524
                 }
             ],
             "pathId": 5467237684830374783,
@@ -33,18 +36,20 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "服の縫製もしっかりしてて、\r\nモチーフへのリスペクトもあるじゃん。",
-            "enText": "The clothes are well sewn, and you have \nrespect for the motifs.",
+            "enText": "The clothes are well-sewn. It shows their<n>respect\nfor the original model.",
             "nextBlock": 3,
             "origClipLength": 88,
+            "voiceIdx": 113,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "出来のいいぬいぐるみだよな",
-                    "enText": "It's a well-made stuffed animal, isn't it?",
+                    "enText": "It's such a well made plushie.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "出来のいいぬいぐるみだよね",
-                    "enText": "It's a well-made stuffed animal.",
+                    "enText": "It's such a well made plushie.",
                     "nextBlock": 3
                 }
             ],
@@ -55,11 +60,11 @@
                 },
                 {
                     "origLen": 99,
-                    "pathId": 8269810560303194767
+                    "pathId": -7496811939908083321
                 },
                 {
                     "origLen": 99,
-                    "pathId": -7496811939908083321
+                    "pathId": 8269810560303194767
                 }
             ],
             "pathId": 2893618375831293402,
@@ -69,9 +74,11 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ホント。実際に触ったら、尚更わかるよね。\r\nこれを作ってる人たちの想いっていうか、\n期待っていうかさ……。",
-            "enText": "Really. You can understand it even more when \nyou actually touch it. It's not so much the \nthoughts of the people who are making this, \nbut their expectations…",
+            "enText": "So true. Getting to actually hold it in my<n>hands, I\nget a sense of, like, what the<n>makers were feeling,\nor... what they<n>wanted to show.",
             "nextBlock": 4,
             "origClipLength": 114,
+            "voiceIdx": 37,
+            "voiceSheetId": "051040001",
             "animData": [
                 {
                     "origLen": 30,
@@ -79,11 +86,11 @@
                 },
                 {
                     "origLen": 125,
-                    "pathId": -2439526909543688774
+                    "pathId": 4330049683618033805
                 },
                 {
                     "origLen": 125,
-                    "pathId": 4330049683618033805
+                    "pathId": -2439526909543688774
                 }
             ],
             "pathId": 4821971573457282716,
@@ -93,9 +100,11 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……っし、アタシももっと頑張るか。",
-            "enText": "… I'll try harder, too.",
+            "enText": "Yeah. That makes me want to work<n>harder.",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": 10,
+            "voiceSheetId": "051040001",
             "animData": [
                 {
                     "origLen": 111,
@@ -103,11 +112,11 @@
                 },
                 {
                     "origLen": 78,
-                    "pathId": -6874409402077288174
+                    "pathId": -4483070398006277532
                 },
                 {
                     "origLen": 78,
-                    "pathId": -4483070398006277532
+                    "pathId": -6874409402077288174
                 }
             ],
             "pathId": -1713194492909577644,
@@ -117,9 +126,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 111,
@@ -127,16 +138,15 @@
                 },
                 {
                     "origLen": 72,
-                    "pathId": 956645834432959703
+                    "pathId": -3565620874116566009
                 },
                 {
                     "origLen": 72,
-                    "pathId": -3565620874116566009
+                    "pathId": 956645834432959703
                 }
             ],
             "pathId": -2494682298592220860,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662157591
+    ]
 }

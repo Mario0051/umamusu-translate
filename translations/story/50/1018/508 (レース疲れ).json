@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "EFOH25PXKD55XB4QOUQDPXLYYMASSNYM",
+    "version": 6,
+    "bundle": "3SQ446ATGX2UI6KRZXSZP463HWQBI73E",
     "type": "story",
     "storyId": "501018508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "はぁ……。",
-            "enText": "Huh. ……",
+            "enText": "Phew...",
             "nextBlock": 2,
             "origClipLength": 48,
+            "voiceIdx": 60,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "もしかして、疲れてる？",
-                    "enText": "Maybe you're tired?",
+                    "enText": "Feeling tired?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
-                    "origLen": 82,
-                    "pathId": -4205118364494474899
-                },
-                {
                     "origLen": 59,
                     "pathId": -6913664874162897113
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -4205118364494474899
                 }
             ],
             "pathId": 1797340892723879315,
@@ -36,17 +39,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "私を侮るなよ。\r\nこの程度で、くたびれたりするものか。",
-            "enText": "Don't underestimate me. I'm not going to get \ntired of this.",
+            "enText": "What do you take me for? That wasn't<n>nearly\nenough to exhaust me.",
             "nextBlock": 3,
             "origClipLength": 62,
+            "voiceIdx": 3,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": 4129933894633630530
-                },
                 {
                     "origLen": 78,
                     "pathId": 9089345185516489082
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 4129933894633630530
                 }
             ],
             "pathId": 4013309677358194867,
@@ -56,29 +61,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "それより、学園に戻ったら今回のレースでの\r\n問題点について話し合うからな……行け。",
-            "enText": "More importantly, when we get back to the \nacademy, we'll discuss the problems we had in \nthis race.…… Go.",
+            "enText": "Once we get back to the academy, we'll<n>analyze\nthis race. You go on ahead.",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "一緒に帰らないのか？",
-                    "enText": "Aren't you coming home with me?",
+                    "enText": "You're not coming with me?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "一緒に帰らないの？",
-                    "enText": "Aren't you coming home with me?",
+                    "enText": "You're not coming with me?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 25,
-                    "pathId": 6855644209693191250
-                },
-                {
                     "origLen": 82,
                     "pathId": -6010510148916032851
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 6855644209693191250
                 }
             ],
             "pathId": 5753521604251165567,
@@ -88,17 +95,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "私は……体を冷ましてから帰る。\r\nすぐ追いつくから、気にせず学園に戻れ。",
-            "enText": "I'm…… going to cool down and then I'm \nleaving. I'll catch up with you soon, don't \nworry, go back to the academy.",
+            "enText": "I... want to cool down a bit before<n>heading back.\nI'll catch up to you, so no<n>need to wait for me.",
             "nextBlock": 5,
             "origClipLength": 68,
+            "voiceIdx": 55,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -7630938785728332996
-                },
                 {
                     "origLen": 79,
                     "pathId": -3560521993902518238
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -7630938785728332996
                 }
             ],
             "pathId": -5282087524876747876,
@@ -108,22 +117,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女は疲れていないとは言うが、\r\nとてもそうは見えない様子だ。\n出走予定を見直すべきかもしれない。",
-            "enText": "She claims she's not tired, but she doesn't \nlook very tired. Maybe we should reevaluate \nher running schedule.",
+            "enText": "Air Groove claims she isn't tired, but her<n>behavior\nsays otherwise. It might be<n>worth adjusting her\nschedule.",
             "nextBlock": -1,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 87,
-                    "pathId": 4190604467575526967
+                    "pathId": 6515148287774719606
                 },
                 {
                     "origLen": 87,
-                    "pathId": 6515148287774719606
+                    "pathId": 4190604467575526967
                 }
             ],
             "pathId": 1085676031462570961,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555056
+    ]
 }

@@ -1,9 +1,10 @@
 {
-    "version": 4,
-    "bundle": "AML5F6LZ7HVIMXNWDOOOBNLBTGARXZHK",
+    "version": 6,
+    "bundle": "AUOKOSZHQBHUBDNJA4NQN45O7T4WCOGV",
     "type": "story",
     "storyId": "501040738",
     "title": "レース勝利！",
+    "enTitle": "Victory!",
     "text": [
         {
             "jpName": "ゴールドシチー",
@@ -11,6 +12,9 @@
             "jpText": "っしゃ！\r\nアタシの勝ちだっ！！",
             "enText": "Yes! I won!",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": 6,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "やったな！",
@@ -23,6 +27,16 @@
                     "nextBlock": 2
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 2639164105974490384
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2226383378226593285
+                }
+            ],
             "pathId": 9213360555564189320,
             "blockIdx": 1
         },
@@ -30,28 +44,41 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "やば、震えるんだけど……！\r\nめっちゃ嬉しい……！　やった！",
-            "enText": "Oh man, I'm shaking…! \nI'm so happy…! Yes!!!",
+            "enText": "I'm so happy I'm shaking! This is amazing!",
             "nextBlock": 3,
+            "origClipLength": 84,
+            "voiceIdx": 63,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "俺も同じくらい嬉しい！",
-                    "enText": "I'm just as happy!",
+                    "enText": "I'm as happy as you!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "私も同じくらい嬉しい！",
-                    "enText": "I'm just as happy!",
+                    "enText": "I'm as happy as you!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "次も勝てばもっと震えるぞ",
-                    "enText": "If we win again next time, \nwe'll tremble even more.",
+                    "enText": "You'll be shaking even more if you win next\ntime too.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "次も勝てばもっと震えるよ",
-                    "enText": "I'll be more shaken if we win next time.",
+                    "enText": "You'll be shaking even more if you win next\ntime too.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -735723736496660603
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -1215220223071073208
                 }
             ],
             "pathId": 2909941628354622335,
@@ -61,28 +88,41 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "やば、震えるんだけど……！\r\nめっちゃ嬉しい……！　やった！",
-            "enText": "Oh man, I'm shaking…! \nI'm so happy…! Yes!!!",
+            "enText": "I'm so happy I'm shaking! This is amazing!",
             "nextBlock": 4,
+            "origClipLength": 84,
+            "voiceIdx": 63,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "俺も同じくらい嬉しい！",
-                    "enText": "I'm just as happy!",
+                    "enText": "I'm as happy as you!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "私も同じくらい嬉しい！",
-                    "enText": "I'm just as happy!",
+                    "enText": "I'm as happy as you!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "次も勝てばもっと震えるぞ",
-                    "enText": "If we win again next time, \nwe'll tremble even more.",
+                    "enText": "You'll be shaking even more if you win next\ntime too.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "次も勝てばもっと震えるよ",
-                    "enText": "I'll be more shaken if we win next time.",
+                    "enText": "You'll be shaking even more if you win next\ntime too.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -4144623748989926106
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -2083223467573711333
                 }
             ],
             "pathId": -8473461709953793951,
@@ -92,13 +132,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "なに張り合ってんの？\r\nアタシのが嬉しいに決まってんじゃん！",
-            "enText": "What are you competing with me \nfor? Of course I'm happy!",
+            "enText": "Are you trying to compete with me? I'm<n>the one\nwho should be happy!",
             "nextBlock": 5,
+            "origClipLength": 84,
+            "voiceIdx": 74,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "気持ちは一緒に走ってたから！",
-                    "enText": "The feeling was we were running together!",
+                    "enText": "In my heart, we ran together!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -4560459400568973118
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 6200402389892175175
                 }
             ],
             "pathId": 1789973477471520003,
@@ -108,8 +161,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……！",
-            "enText": "…!",
+            "enText": "...!",
             "nextBlock": 6,
+            "origClipLength": 48,
+            "voiceIdx": 77,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": 680394307914111668
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 3724711367074518151
+                }
+            ],
             "pathId": -7950911076753718740,
             "blockIdx": 5
         },
@@ -117,8 +183,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "……そっか。",
-            "enText": "… I see.",
+            "enText": "...I see.",
             "nextBlock": 7,
+            "origClipLength": 52,
+            "voiceIdx": 9,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": 5901327342809033603
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 8014686105794612881
+                }
+            ],
             "pathId": 8204832447175598388,
             "blockIdx": 6
         },
@@ -126,8 +205,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "なら、今回は譲ってあげる。\r\nアンタが嬉しいと、アタシもアガるからさ！",
-            "enText": "Then I'll give it to you this time. When \nyou're happy, I'm happy too!",
+            "enText": "Well, I won't ruin it for you this time.<n>Seeing you\nhappy makes me excited!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": 56,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 743828285311557908
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -4397542418574910117
+                }
+            ],
             "pathId": 5600682968734213338,
             "blockIdx": 7
         },
@@ -135,13 +227,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "は～っ？\r\n別に震えたいわけじゃないんですけど。",
-            "enText": "Huh? I don't mean to shake.",
+            "enText": "What? It's not like I <i>want</i> to be shaking.",
             "nextBlock": 9,
+            "origClipLength": 76,
+            "voiceIdx": 101,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "そういう意味じゃなくて！",
                     "enText": "That's not what I meant!",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -8637321886918364645
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -1217764705700458334
                 }
             ],
             "pathId": -1813901580731673390,
@@ -151,8 +256,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "あは、わかってるって。\r\nもっと最高になれるってことでしょ。",
-            "enText": "Haha, I know, I know. You mean \nyou can be more awesome.",
+            "enText": "Haha, I know. You mean I'll feel even<n>more\nexcited.",
             "nextBlock": 10,
+            "origClipLength": 84,
+            "voiceIdx": 1,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 5991639005494466619
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -2942015323634201058
+                }
+            ],
             "pathId": 386050722479908742,
             "blockIdx": 9
         },
@@ -160,8 +278,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うん、そうだね。\r\nアタシ、もっと勝ちたい！",
-            "enText": "Yeah, I guess so. I want to win more!",
+            "enText": "And yeah, I think so too. I want to win<n>more!",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "voiceIdx": 56,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": -6055293081974975789
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5689520118079950051
+                }
+            ],
             "pathId": 3735983103842347760,
             "blockIdx": 10
         },
@@ -169,8 +300,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "やば、もう次が楽しみなんだけど。\r\nどこで走るか任せたよ、トレーナー！",
-            "enText": "Yikes, I'm already looking forward to the \nnext one. I leave it to you to decide where \nto run, trainer!",
+            "enText": "Wild. I'm already so excited about the<n>next race. I\nhope you'll pick me out a<n>good one!",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": 63,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 2328495144539159355
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 5825876919674640433
+                }
+            ],
             "pathId": 3215001125699132687,
             "blockIdx": 11
         }

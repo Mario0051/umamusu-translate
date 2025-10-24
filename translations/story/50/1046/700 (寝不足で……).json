@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "SCM4RTFIMHVNB46WROLSF7TFI5MOLF3G",
+    "version": 6,
+    "bundle": "7ON5RXYWQKPPT5TWQF7VDNIORJVDDQZ5",
     "type": "story",
     "storyId": "501046700",
     "title": "寝不足で……",
+    "enTitle": "Sleep Deprived",
     "text": [
         {
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "……ううぅーん。\r\nトレーナーさん、ちょっと休憩していい？",
-            "enText": "…… ugh. Trainer, can we take a break?",
+            "enText": "<i>...Groan.</i> Trainer, can we take a break?",
             "nextBlock": 2,
             "origClipLength": 82,
+            "voiceIdx": 57,
+            "voiceSheetId": "051046001",
             "choices": [
                 {
                     "jpText": "疲れが取れてないのか？",
-                    "enText": "Not tired enough?",
+                    "enText": "Are you still tired from our last session?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "疲れが取れてないの？",
-                    "enText": "Not tired enough?",
+                    "enText": "Are you still tired from our last session?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -606357635113737844
+                    "pathId": 5310182798376993060
                 },
                 {
                     "origLen": 93,
-                    "pathId": 5310182798376993060
+                    "pathId": -606357635113737844
                 }
             ],
             "pathId": -1069452253962892850,
@@ -41,17 +44,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "ううん、ちょっと寝不足気味なの。\r\n遅くまでフライヤーのコメント書いてたから。",
-            "enText": "No, I'm a little sleep deprived. I was up \nlate writing comments on the flyer.",
+            "enText": "Well, I maybe didn't get enough sleep. I<n>was up\nlate writing messages on all my<n>flyers.",
             "nextBlock": 3,
             "origClipLength": 95,
+            "voiceIdx": 14,
+            "voiceSheetId": "051046001",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -4283427342505836772
-                },
                 {
                     "origLen": 106,
                     "pathId": 4428735213366480409
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -4283427342505836772
                 }
             ],
             "pathId": -8160793147578457196,
@@ -61,17 +66,19 @@
             "jpName": "スマートファルコン",
             "enName": "Smart Falcon",
             "jpText": "一生懸命頑張るファル子もかわいいでしょ？\r\nふあぁ……じゃあ、お休みなさーい……。",
-            "enText": "Isn't Falco cute, trying so hard? Huh…… Well, \nhave a good night ……",
+            "enText": "But aren't I just the cutest when I'm<n>working so\nhard? <i>Yaaawn...</i> Anyway,<n>good night...",
             "nextBlock": 4,
             "origClipLength": 98,
+            "voiceIdx": 105,
+            "voiceSheetId": "051046001",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": 1775916946630504089
+                    "pathId": -8247812258969136016
                 },
                 {
                     "origLen": 102,
-                    "pathId": -8247812258969136016
+                    "pathId": 1775916946630504089
                 }
             ],
             "pathId": -7113616880342314094,
@@ -81,12 +88,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "熱心なのはいいが、スマートファルコンは、\r\nきちんと休んでいないようだ……。",
-            "enText": "While it's nice to be enthusiastic, Smart \nFalcon doesn't seem to be properly rested. ……",
+            "enText": "I appreciate her passion, but it seems<n>like Smart\nFalcon isn't resting properly.",
             "nextBlock": -1,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3235278532225672001,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555061
+    ]
 }

@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "4U5ICYHXXWJ56GY5NZ2V4DRUBCLM77IE",
+    "version": 6,
+    "bundle": "SMGNFRCDCCAKL5LJGEKZBHZTHW3EUCTL",
     "type": "story",
     "storyId": "501018726",
     "title": "クレーンゲームに挑戦！",
+    "enTitle": "Claw Machine!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、\r\nエアグルーヴと出かけた先で――",
-            "enText": "One day, while out with Airgroove―",
+            "enText": "One day, while I'm out and about with<n>Air\nGroove...",
             "nextBlock": 2,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": -1058311635353710279
+                    "pathId": -7072748734979589074
                 },
                 {
                     "origLen": 89,
-                    "pathId": -7072748734979589074
+                    "pathId": -1058311635353710279
                 }
             ],
             "pathId": -628264378805770300,
@@ -29,9 +32,11 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……あれは。",
-            "enText": "…… that is.",
+            "enText": "What's that?",
             "nextBlock": 3,
             "origClipLength": 52,
+            "voiceIdx": 30,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 59,
@@ -39,11 +44,11 @@
                 },
                 {
                     "origLen": 89,
-                    "pathId": 3970812136228705748
+                    "pathId": 1580247929274163971
                 },
                 {
                     "origLen": 89,
-                    "pathId": 1580247929274163971
+                    "pathId": 3970812136228705748
                 }
             ],
             "pathId": 4433216271752280420,
@@ -53,18 +58,20 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "エアグルーヴが急に足を止めた。\nその視線の先にクレーンゲームがある。\n景品は……ウマ娘のぬいぐるみだ。",
-            "enText": "Airgroove suddenly stopped. There is a crane \ngame at the end of her gaze. The prize is a…… \nhorsegirl stuffed animal.",
+            "enText": "Air Groove stops suddenly. She's looking<n>at a\nclaw machine filled with little<n>Umamusume\nplushies.",
             "nextBlock": 4,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "欲しいのか？",
-                    "enText": "You want it?",
+                    "enText": "Do you want one?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "欲しいの？",
-                    "enText": "Do you want it?",
+                    "enText": "Do you want one?",
                     "nextBlock": 4
                 }
             ],
@@ -74,12 +81,12 @@
                     "pathId": 4143349940783445437
                 },
                 {
-                    "origLen": 88,
-                    "pathId": -3008353974783629792
-                },
-                {
                     "origLen": 123,
                     "pathId": 6729252343661734073
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -3008353974783629792
                 }
             ],
             "pathId": 3091876419359879108,
@@ -89,17 +96,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "たわけ。私が欲しいわけではない。",
-            "enText": "I don't want it. I don't want it.",
+            "enText": "How foolish. As if I would want such a<n>ridiculous\nthing.",
             "nextBlock": 5,
             "origClipLength": 65,
+            "voiceIdx": 16,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 7471338807087352801
-                },
                 {
                     "origLen": 84,
                     "pathId": -3133609166316403394
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7471338807087352801
                 }
             ],
             "pathId": -4215299955530965146,
@@ -109,17 +118,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "後輩から贈り物をもらってな。\nそのお返しに好ましいか考えていたんだ。",
-            "enText": "I got a gift from a junior. I was trying to \nfigure out if I'd like it in return.",
+            "enText": "One of the younger students gave me a<n>gift the\nother day. I merely thought it<n>might make a good\nthank-you present.",
             "nextBlock": 6,
             "origClipLength": 89,
+            "voiceIdx": 79,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 1306590142995061222
-                },
                 {
                     "origLen": 126,
                     "pathId": 2195326963481897648
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 1306590142995061222
                 }
             ],
             "pathId": 1423137543044479447,
@@ -129,21 +140,23 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "彼女もまた、夢に向かい鍛錬に励む者。\n日々の癒しにひと役買ってくれそうではある。",
-            "enText": "She, too, is a person who is training \nfor her dream. She may play a role \nin healing our daily lives.",
+            "enText": "She's a hard worker who is always<n>aspiring to\nfulfill her dreams. She<n>deserves a little something\nto brighten<n>her days.",
             "nextBlock": 7,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": 7239412044153009036
                 },
                 {
-                    "origLen": 117,
-                    "pathId": -7738397582137182668
-                },
-                {
                     "origLen": 118,
                     "pathId": -7589801771649413678
+                },
+                {
+                    "origLen": 117,
+                    "pathId": -7738397582137182668
                 }
             ],
             "pathId": 3704205193954444606,
@@ -153,29 +166,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "しかし、クレーンゲームの景品では\n確実性を欠くか……これは却下だ。",
-            "enText": "But with crane game prizes, it lacks \ncertainty or…… this is rejected.",
+            "enText": "Unfortunately, there's no guarantee I<n>can even\nwin anything here... I'll have to<n>consider other\noptions.",
             "nextBlock": 8,
             "origClipLength": 88,
+            "voiceIdx": 35,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "俺が取ってくる",
-                    "enText": "I'll get it.",
+                    "enText": "I'll win one for you.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "私が取ってくるよ",
-                    "enText": "I'll get it.",
+                    "enText": "I'll win one for you.",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 71,
-                    "pathId": -718773116076369037
-                },
-                {
                     "origLen": 119,
                     "pathId": 3427765538871447542
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -718773116076369037
                 }
             ],
             "pathId": -4195188890138926709,
@@ -185,21 +200,23 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ほう、大言を吐いたな。\n面白い……その言葉、確かに聞いたぞ。",
-            "enText": "Hoh, you've got some big words. Interesting…… \nI've certainly heard those words.",
+            "enText": "Oho, big words. Very well, I'll hold you<n>to that.",
             "nextBlock": 9,
             "origClipLength": 84,
+            "voiceIdx": 7,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 91,
                     "pathId": 5686005713133297234
                 },
                 {
-                    "origLen": 96,
-                    "pathId": 3492436778729117746
-                },
-                {
                     "origLen": 106,
                     "pathId": 6164327138176685375
+                },
+                {
+                    "origLen": 96,
+                    "pathId": 3492436778729117746
                 }
             ],
             "pathId": -6316392821310827968,
@@ -209,21 +226,23 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "“女帝”のトレーナーの腕前、\nこの双眸で見届けてやろう。",
-            "enText": "I'll see with my own eyes the skill of the \n\"Empress\" trainer.",
+            "enText": "Show me a performance worthy of the<n>Empress's\ntrainer.",
             "nextBlock": 10,
             "origClipLength": 81,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": -6615578411664062097
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -5510183452524737701
-                },
-                {
                     "origLen": 93,
                     "pathId": 1585615993031394131
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -5510183452524737701
                 }
             ],
             "pathId": -5842621345322520094,
@@ -233,22 +252,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――このゲーム、負けられない！！",
-            "enText": "―This game, you can't lose!",
+            "enText": "There's no way I can fail now!",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": -2342011743939922889
+                    "pathId": 6406190058356833051
                 },
                 {
                     "origLen": 89,
-                    "pathId": 6406190058356833051
+                    "pathId": -2342011743939922889
                 }
             ],
             "pathId": -4133311626747139331,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555252
+    ]
 }

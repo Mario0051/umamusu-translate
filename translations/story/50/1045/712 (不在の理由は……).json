@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "B7EASTDPSLH3SK5UHZN54JDDJEW3CV2V",
+    "version": 6,
+    "bundle": "4ZJEHOF345KXE3ZBQGSKGRFUBG66YX26",
     "type": "story",
     "storyId": "501045712",
     "title": "不在の理由は……",
+    "enTitle": "Slacking Off",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニングに現れなかった\r\nスーパークリークを探しに行くと――",
-            "enText": "I went looking for Super Creek, who didn't \nshow up for training.",
+            "enText": "Super Creek doesn't show up for<n>training, so I\ndecide to go look for her.",
             "nextBlock": 2,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": -5365772713734036363
+                    "pathId": -5353685735052443526
                 },
                 {
                     "origLen": 97,
-                    "pathId": -5353685735052443526
+                    "pathId": -5365772713734036363
                 }
             ],
             "pathId": -3710841179349651252,
@@ -29,17 +32,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ふぅ～。これでもうボタンが\r\n外れることはありませんね～。",
-            "enText": "Phew～. Now the button will \nnever come off again.",
+            "enText": "There! That should keep those buttons<n>from\npopping off.",
             "nextBlock": 3,
             "origClipLength": 82,
+            "voiceIdx": 59,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": -6859061565393559451
-                },
                 {
                     "origLen": 93,
                     "pathId": 7587651797588553234
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -6859061565393559451
                 }
             ],
             "pathId": 2988662216291066028,
@@ -49,29 +54,31 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "他に頼まれたものはっと……。",
-            "enText": "The other things you asked \nfor are already at ……",
+            "enText": "Now then, what else did I get asked to<n>do...",
             "nextBlock": 4,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "縫い物を頼まれてたのか？",
-                    "enText": "Did she ask you to sew for her?",
+                    "enText": "Did someone ask you to do some sewing?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "縫い物を頼まれてたの？",
-                    "enText": "Did they ask you to sew for them?",
+                    "enText": "Did someone ask you to do some sewing?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 33,
-                    "pathId": 4921265162394660314
-                },
-                {
                     "origLen": 74,
                     "pathId": -6409330121787050372
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 4921265162394660314
                 }
             ],
             "pathId": -8674638390035878778,
@@ -81,17 +88,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "あら、トレーナーさん。\r\nどうしてここに……――",
-            "enText": "Hey there, trainer. How did you get here ……―",
+            "enText": "Oh, Trainer! What brings you he—",
             "nextBlock": 5,
             "origClipLength": 76,
+            "voiceIdx": 20,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": 1506998170704625778
-                },
                 {
                     "origLen": 87,
                     "pathId": -1850271362276487136
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 1506998170704625778
                 }
             ],
             "pathId": 1425509368511134060,
@@ -101,17 +110,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "……ああっ！？\r\nもうこんな時間だったんですか……！？",
-            "enText": "…… Ah! Was it that late already……!",
+            "enText": "Ahhh! When did it get so late?!",
             "nextBlock": 6,
             "origClipLength": 80,
+            "voiceIdx": 31,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": 1665614864053349451
-                },
                 {
                     "origLen": 91,
                     "pathId": 5204601603639894640
+                },
+                {
+                    "origLen": 62,
+                    "pathId": 1665614864053349451
                 }
             ],
             "pathId": 2350186627400229099,
@@ -121,29 +132,31 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "ごめんなさい、トレーナーさんっ。\r\n私ったら、つい夢中になってしまって……。",
-            "enText": "Sorry, trainer. I got carried away. ……",
+            "enText": "I'm so sorry. Silly me, getting carried<n>away like\nthis...",
             "nextBlock": 7,
             "origClipLength": 94,
+            "voiceIdx": 24,
+            "voiceSheetId": "051045001",
             "choices": [
                 {
                     "jpText": "次は気をつけてな",
-                    "enText": "Next time, be careful.",
+                    "enText": "Please be more careful next time.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "次は気をつけてね",
-                    "enText": "Be careful next time.",
+                    "enText": "Please be more careful next time.",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
                     "origLen": 105,
-                    "pathId": -6455954133262153833
+                    "pathId": 6811936984517905583
                 },
                 {
                     "origLen": 105,
-                    "pathId": 6811936984517905583
+                    "pathId": -6455954133262153833
                 }
             ],
             "pathId": 6985037615810201085,
@@ -153,17 +166,19 @@
             "jpName": "スーパークリーク",
             "enName": "Super Creek",
             "jpText": "はい……\r\n本当に、ご迷惑おかけしました。",
-            "enText": "Yes…… I really, really apologize for the \ninconvenience.",
+            "enText": "I will... I apologize for being such a<n>handful.",
             "nextBlock": 8,
             "origClipLength": 72,
+            "voiceIdx": 60,
+            "voiceSheetId": "051045001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -5566130775474755087
-                },
                 {
                     "origLen": 83,
                     "pathId": -5425462440420970697
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -5566130775474755087
                 }
             ],
             "pathId": -6880698911014697346,
@@ -173,22 +188,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "反省するスーパークリークを慰め、\r\n教室を後にした。",
-            "enText": "I consoled the remorseful Super Creek and \nleft the classroom.",
+            "enText": "I comfort Super Creek as she reflects on<n>her\nactions and we leave the classroom<n>together.",
             "nextBlock": -1,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": 6255277999944735187
+                    "pathId": 6995025846152362270
                 },
                 {
                     "origLen": 89,
-                    "pathId": 6995025846152362270
+                    "pathId": 6255277999944735187
                 }
             ],
             "pathId": -3454428480037895448,
             "blockIdx": 8
         }
-    ],
-    "modified": 1657555060
+    ]
 }

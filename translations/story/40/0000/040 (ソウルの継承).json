@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "6IYBGS5GZTL2BDJQ7XVUO25P3LBKNCXU",
+    "version": 6,
+    "bundle": "HJQYUW5WYY5UUKAM2DYNAMDTIBUPAVNE",
     "type": "story",
     "storyId": "400000040",
     "title": "ソウルの継承",
+    "enTitle": "Inspiration",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、<chrname>のところへ行くと\r\n見違えるほど顔つきが変わっていた！",
-            "enText": "One day, I met up with <chrname> and she\nlooked so different I barely recognized her!",
+            "enText": "One day when I go to see<n><chrname>,\nher expression is<n>so different that I almost don't\nrecognize<n>her!",
             "nextBlock": 2,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": 3386138014042449372
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -8476864379749703028
+                }
+            ],
             "pathId": 4029429057560221491,
             "blockIdx": 1
         },
@@ -18,12 +32,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>は覚醒した……！",
-            "enText": "<chrname> has awakened…!",
+            "enText": "<chrname> has awakened!",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 133,
+                    "pathId": -4329531478925380812
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4191171736884257680
+                }
+            ],
             "pathId": 8960483857622405177,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

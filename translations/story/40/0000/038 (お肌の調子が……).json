@@ -1,16 +1,26 @@
 {
-    "version": 4,
-    "bundle": "BUEB35K4CEDW5TUOBXGLHZ2JZ6BCRY77",
+    "version": 6,
+    "bundle": "7TZDLK4NUT2UNNO2HEAMMXYAIWD2UGXS",
     "type": "story",
     "storyId": "400000038",
     "title": "お肌の調子が……",
+    "enTitle": "Skin Troubles",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "<chrname>が洗面台の前で\r\n困った顔をしている……。",
-            "enText": "<chrname> is at the sink, looking troubled…",
+            "enText": "<chrname> looks troubled as<n>she\nstares into the mirror.",
             "nextBlock": 2,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 3155020962288884001
+                }
+            ],
             "pathId": -7112598346947975168,
             "blockIdx": 1
         },
@@ -18,12 +28,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやら、お肌の調子が悪いみたいだ……。",
-            "enText": "Apparently, her skin is not in good shape…",
+            "enText": "Her skin apparently isn't in good<n>condition.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -490871910875015103
+                }
+            ],
             "pathId": 7131726909450543316,
             "blockIdx": 2
         }
-    ],
-    "humanTl": true,
-    "modified": 1673057060
+    ]
 }

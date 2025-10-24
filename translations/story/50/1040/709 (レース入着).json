@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "QATI7PM6VJ6IDSJNRLEZ6NQ4II2GPF7X",
+    "version": 6,
+    "bundle": "YOVYXX67SP65HVMCJPXZLRI4NLDHSS6T",
     "type": "story",
     "storyId": "501040709",
     "title": "レース入着",
+    "enTitle": "Solid Showing",
     "text": [
         {
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "入着、ね。\r\nま、頑張った分の成果は出せたけど……。",
-            "enText": "Arrivals and departures, you know. Well, I \ngot what I worked hard for…",
+            "enText": "Well, I placed. I guess my hard work <i>did</i><n>pay off,\nbut...",
             "nextBlock": 2,
+            "origClipLength": 78,
+            "voiceIdx": 88,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3400799452692556047
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 2459322891228368460
+                }
+            ],
             "pathId": -1059511372110346998,
             "blockIdx": 1
         },
@@ -18,23 +32,36 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ホントは1着がよかったなんて、高望みかな？\r\n今日の結果……ぶっちゃけどう思う？",
-            "enText": "Is it too much to ask that I really wanted to \nwin first place? Today's results… What do \nyou honestly think?",
+            "enText": "Is it too ambitious of me to have wanted<n>first? Be\nhonest, what do you think<n>about today's result?",
             "nextBlock": 3,
+            "origClipLength": 97,
+            "voiceIdx": 57,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "十分すごい結果だぞ！",
-                    "enText": "That's a great enough result!",
+                    "enText": "Placing is an impressive feat too!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "十分すごい結果だよ！",
-                    "enText": "That's a great enough result!",
+                    "enText": "Placing is an impressive feat too!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "次は絶対1着を取ろう！",
-                    "enText": "Let's definitely get first place next time!",
+                    "enText": "Let's make sure we get first place next time!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -7309373926248691446
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3488891408049450259
                 }
             ],
             "pathId": 5022010954760621379,
@@ -44,23 +71,36 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ホントは1着がよかったなんて、高望みかな？\r\n今日の結果……ぶっちゃけどう思う？",
-            "enText": "Is it too much to ask that I really wanted to \nwin first place? Today's results… What do \nyou honestly think?",
+            "enText": "Is it too ambitious of me to have wanted<n>first? Be\nhonest, what do you think<n>about today's result?",
             "nextBlock": 4,
+            "origClipLength": 97,
+            "voiceIdx": 57,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "十分すごい結果だぞ！",
-                    "enText": "That's a great enough result!",
+                    "enText": "Placing is an impressive feat too!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "十分すごい結果だよ！",
-                    "enText": "That's a great enough result!",
+                    "enText": "Placing is an impressive feat too!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "次は絶対1着を取ろう！",
-                    "enText": "Let's definitely get first place next time!",
+                    "enText": "Let's make sure we get first place next time!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 108,
+                    "pathId": -3717259639199736305
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -2929268135411546247
                 }
             ],
             "pathId": 6723752650605098276,
@@ -70,13 +110,26 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "それ、マジで言ってる？\r\n勝てなかったの、ちょっと悔しいんだけど。",
-            "enText": "Are you serious about that? I didn't win, \nwhich is kind of frustrating.",
+            "enText": "Are you being serious? I'm kinda pissed I<n>didn't\nwin, not gonna lie.",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "voiceIdx": 27,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "次はきっと勝てる！",
                     "enText": "We'll win next time!",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 980965777100236323
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 542793973115582333
                 }
             ],
             "pathId": -5571347644156557186,
@@ -86,8 +139,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "ははっ、根拠もなく言い切るし。\r\nけど、そうやって信じてくれんの嬉しいかも。",
-            "enText": "Haha, and you say that without any evidence. \nBut I'm glad you believe me like that.",
+            "enText": "Haha, you sound way too confident, but<n>I'm glad\nyou have so much trust in me.",
             "nextBlock": 6,
+            "origClipLength": 94,
+            "voiceIdx": 0,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3111479453354695705
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 7022194325799512814
+                }
+            ],
             "pathId": 6539264376685112020,
             "blockIdx": 5
         },
@@ -95,8 +161,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "確かに手応えっての？\r\nアタシ結構やれるじゃんって思ったんだよね。",
-            "enText": "Surely a good response? I thought \nI could do pretty well.",
+            "enText": "You're right, the way I ran today made<n>me feel\nlike I can actually do better.",
             "nextBlock": 7,
+            "origClipLength": 88,
+            "voiceIdx": 37,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 380927357375194010
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1038221298898605260
+                }
+            ],
             "pathId": 895370898066068278,
             "blockIdx": 6
         },
@@ -104,8 +183,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "っし、気合い入った。\r\n次はもっと満足できる結果、出してみせるよ！",
-            "enText": "I'm so excited. Next time, I'll give you a \nmore satisfying result!",
+            "enText": "Okay! Now I'm pumped. I'll get it next<n>time!",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "voiceIdx": 11,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -776419232849448236
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -735071910642386582
+                }
+            ],
             "pathId": -7742972773502753993,
             "blockIdx": 7
         },
@@ -113,8 +205,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "うわっ、急に声でかいんだって。",
-            "enText": "Wow, she said, suddenly she's very loud.",
+            "enText": "Whoa, don't yell like that.",
             "nextBlock": 9,
+            "origClipLength": 64,
+            "voiceIdx": 26,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 1466179008289962826
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 6200869679034013045
+                }
+            ],
             "pathId": -4567911017640613210,
             "blockIdx": 8
         },
@@ -122,8 +227,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でも安心した。もっと上目指せるって\r\nトレーナーも思ってくれたんだ。",
-            "enText": "But I was relieved. My trainer \nthought I could aim higher.",
+            "enText": "But I'm relieved. You think I can do<n>better too.",
             "nextBlock": 10,
+            "origClipLength": 89,
+            "voiceIdx": 38,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 4522439593595516660
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8081103760001767473
+                }
+            ],
             "pathId": -8043094709958618119,
             "blockIdx": 9
         },
@@ -131,18 +249,31 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "アタシ、入着なんかじゃ満足できない。\r\n勝って、強いウマ娘って認められたいよ。",
-            "enText": "I'm not satisfied with just placing. \nI want to win and be recognized \nas a strong horse girl.",
+            "enText": "I can't be satisfied with just placing. I<n>want\neveryone to see me as a strong<n>runner.",
             "nextBlock": 11,
+            "origClipLength": 95,
+            "voiceIdx": 70,
+            "voiceSheetId": "051040001",
             "choices": [
                 {
                     "jpText": "なら練習あるのみだ！",
-                    "enText": "Then you need to practice!",
+                    "enText": "Then we'd better get straight back to\npracticing!",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "なら練習あるのみだね！",
-                    "enText": "Then I guess I'll just have to practice!",
+                    "enText": "Then we'd better get straight back to\npracticing!",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -446417900434407285
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 1381841650992538261
                 }
             ],
             "pathId": -2110376400934791085,
@@ -152,8 +283,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "でたよ熱血。けど、上等だね。\r\n泥臭かろうがなんだってやってやる。",
-            "enText": "There it is, hot blood. But it's \ngood. I'll do whatever it takes, \nno matter how muddy it may be.",
+            "enText": "There's that mad enthusiasm again... But<n>you're\nright. I'm going to keep on, no<n>matter how\ngrueling the fight.",
             "nextBlock": 12,
+            "origClipLength": 88,
+            "voiceIdx": 80,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 5250449773376786977
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4948282148827394952
+                }
+            ],
             "pathId": 4104055230317701709,
             "blockIdx": 11
         },
@@ -161,8 +305,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "そうやってアタシは、\r\nもっとすごい“アタシ”になってみせるんだ！",
-            "enText": "That's how I'm going to become a better \"me\"!",
+            "enText": "Soon enough, I'll be an even better<n>version of\nmyself!",
             "nextBlock": -1,
+            "origClipLength": 88,
+            "voiceIdx": 117,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 2631962005100996332
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 907387800755589787
+                }
+            ],
             "pathId": -2138276252152374154,
             "blockIdx": 12
         }

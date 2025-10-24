@@ -1,37 +1,40 @@
 {
-    "version": 5,
-    "bundle": "G5USFHBNCUASDTLSZ6F7OJRLQSPO6TQB",
+    "version": 6,
+    "bundle": "VIPUVWZBFUYTVCTNJZ7AAD4CHGZPZVRJ",
     "type": "story",
     "storyId": "501027729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "あぁー……。",
-            "enText": "Ahhhh ……",
+            "enText": "Aww...",
             "nextBlock": 2,
             "origClipLength": 52,
+            "voiceIdx": 21,
+            "voiceSheetId": "051027001",
             "choices": [
                 {
                     "jpText": "上手くできなくてごめん",
-                    "enText": "Sorry I didn't do it better.",
+                    "enText": "Sorry I couldn't get one.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "上手くできなくてごめんね",
-                    "enText": "Sorry I didn't do better.",
+                    "enText": "Sorry I couldn't get one.",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
-                    "origLen": 82,
-                    "pathId": 6356289574424195444
-                },
-                {
                     "origLen": 89,
                     "pathId": -6059174059761881055
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 6356289574424195444
                 }
             ],
             "pathId": -4457005305951983621,
@@ -41,21 +44,23 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "そんな……。\r\n仕方ないですよ……！",
-            "enText": "Such is the case with…… \nIt can't be helped. ……!",
+            "enText": "Oh, no... Don't worry about it!",
             "nextBlock": 3,
             "origClipLength": 68,
+            "voiceIdx": 51,
+            "voiceSheetId": "051027001",
             "animData": [
                 {
                     "origLen": 50,
                     "pathId": 571066958276547491
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 2580206479600580873
-                },
-                {
                     "origLen": 89,
                     "pathId": 729994358154026222
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 2580206479600580873
                 }
             ],
             "pathId": 1598304365474809778,
@@ -65,21 +70,23 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "あんな細いアームですし、\r\n取れないのも納得です！",
-            "enText": "With such a thin arm, it's no \nwonder it won't come off!",
+            "enText": "That machine has such a weak arm. It's<n>no wonder\nyou couldn't get anything!",
             "nextBlock": 4,
             "origClipLength": 77,
+            "voiceIdx": 38,
+            "voiceSheetId": "051027001",
             "animData": [
                 {
                     "origLen": 30,
                     "pathId": -502202162827521387
                 },
                 {
-                    "origLen": 66,
-                    "pathId": 7091863144377395205
-                },
-                {
                     "origLen": 89,
                     "pathId": -115142975441412469
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 7091863144377395205
                 }
             ],
             "pathId": 1377335741736756899,
@@ -89,21 +96,23 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "あのアームの鍛え方が足りないんです！\r\nトレーナーさんは悪くありませんよ！",
-            "enText": "I'm not training that arm hard enough! It's \nnot your trainer's fault!",
+            "enText": "It really needs to do some serious muscle<n>training!\nIt's not your fault, Trainer!",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": 15,
+            "voiceSheetId": "051027001",
             "animData": [
                 {
                     "origLen": 110,
                     "pathId": -3709288049413341478
                 },
                 {
-                    "origLen": 64,
-                    "pathId": 1710250873263114333
-                },
-                {
                     "origLen": 104,
                     "pathId": -8991197696039651802
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 1710250873263114333
                 }
             ],
             "pathId": 735220438970105259,
@@ -113,26 +122,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 124,
                     "pathId": 3089054181240511643
                 },
                 {
-                    "origLen": 96,
-                    "pathId": -7348412025911413546
-                },
-                {
                     "origLen": 89,
                     "pathId": 4897912107664533325
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -7348412025911413546
                 }
             ],
             "pathId": 1905698422903208004,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555058
+    ]
 }

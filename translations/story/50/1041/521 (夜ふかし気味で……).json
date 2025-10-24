@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "BCL6P2FDAUS3MAW3KVDCE5YFE3MQNYRN",
+    "version": 6,
+    "bundle": "4FRKNI7BW6AG5BRRMACPKISE7H6B7OJJ",
     "type": "story",
     "storyId": "501041521",
     "title": "夜ふかし気味で……",
+    "enTitle": "Night Owl",
     "text": [
         {
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "おふぁ……よう、ござい……ます……。",
-            "enText": "Gooood… mor… ning……",
+            "enText": "Goo... morn...ing... <i>Yawn</i>",
             "nextBlock": 2,
+            "origClipLength": 68,
+            "voiceIdx": 105,
+            "voiceSheetId": "051041001",
             "choices": [
                 {
                     "jpText": "眠そうだな",
-                    "enText": "You look sleepy.",
+                    "enText": "Someone's sleepy.",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "眠そうだね",
-                    "enText": "You look sleepy.",
+                    "enText": "Someone's sleepy.",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 7598282042928675064
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 1505652526129243119
                 }
             ],
             "pathId": 8534371135014233267,
@@ -30,8 +44,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ええ……ここ数日、\r\n夜が明けるまで考え事をしていまして……。",
-            "enText": "Indeed… I've been thinking until dawn for \nthe past few days…",
+            "enText": "Yeah... These past few days, I've been<n>up late\nthinking about something...",
             "nextBlock": 3,
+            "origClipLength": 85,
+            "voiceIdx": 88,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 1048837665025797737
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 3848900415722353339
+                }
+            ],
             "pathId": -743273255000454364,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "でも、おかげで思いつきましたよ……！\r\n来月の学級目標案、100個！",
-            "enText": "But because of that, I've come up with \nsomething…! \nProposed class goals for next month, 100 \nof them!",
+            "enText": "But it's helped me come up with some<n>ideas! A\nhundred proposals for next<n>month's class goals!",
             "nextBlock": 4,
+            "origClipLength": 89,
+            "voiceIdx": 2,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 1668195387468858022
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -403749165282615372
+                }
+            ],
             "pathId": -5438976873699293708,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "あとは、1つにするだけ――",
-            "enText": "Now we just need to achieve one――",
+            "enText": "Now I just need to consolidate them into<n>one...",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 8968802372318127326
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -2946531143205973266
+                }
+            ],
             "pathId": 5037745569004411,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ふわぁぁ～～～～っ……\r\nんんっ……がんばり、ます。",
-            "enText": "Yaaaaa～～～～～wn… \nNn… I'll do…'mbest.",
+            "enText": "<i>Yawn...</i> I'll do my best...",
             "nextBlock": 6,
+            "origClipLength": 78,
+            "voiceIdx": 60,
+            "voiceSheetId": "051041001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -3724828638283343111
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 1230383844864670845
+                }
+            ],
             "pathId": 5903898215637688491,
             "blockIdx": 5
         },
@@ -66,12 +132,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "学級委員長としてクラスを思うあまり、\r\nあまり眠れていないようだ……。",
-            "enText": "As class president, she cares about her \nclass so much that she doesn't seem to be \nsleeping very well…",
+            "enText": "Her dutiful nature as class representative<n>seems\nto be robbing her of her sleep.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -4172611088440554110
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 6551254888992676047
+                }
+            ],
             "pathId": 9129108874360818285,
             "blockIdx": 6
         }
-    ],
-    "humanTl": true,
-    "modified": 1683732695
+    ]
 }

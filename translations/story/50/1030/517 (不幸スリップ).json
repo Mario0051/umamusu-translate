@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "6ZTOS555UU2OI2HFJCKERJFGDDUP4W2W",
+    "version": 6,
+    "bundle": "RTYZ2DWLIEGJZNXNOZPW6QGVDZ3WIH54",
     "type": "story",
     "storyId": "501030517",
     "title": "不幸スリップ",
+    "enTitle": "An Unfortunate Slip",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "雨の日、廊下を歩いていると――",
-            "enText": "I was walking down the hallway \non a rainy day.",
+            "enText": "I'm walking down the hall on a rainy day,<n>when...",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6414966982687844036,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "濡れている個所で滑って\r\nよろめいてしまった。",
-            "enText": "I slipped on a wet spot and stumbled.",
+            "enText": "I slip on a wet spot and stumble.",
             "nextBlock": 3,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 462895405556274691,
             "blockIdx": 2
         },
@@ -27,18 +34,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "お兄さま、大丈夫！？\r\nああぁ……ライスはやっぱり……。",
-            "enText": "Brother, are you okay! Ahhh… Rice is still…",
+            "enText": "Are you okay, Big Brother?! Aaah... Of<n>course this\nwould happen.",
             "nextBlock": 4,
+            "origClipLength": 63,
+            "voiceIdx": 28,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "What do you mean?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What do you mean?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -1059123355111498834
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 5091077294026464152
                 }
             ],
             "pathId": -4242664917221477027,
@@ -48,18 +68,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "お姉さま、大丈夫！？\r\nああぁ……ライスはやっぱり……。",
-            "enText": "Sister, are you okay! Ahhh… Rice is still…",
+            "enText": "Are you okay, Big Sister?! Aaah... Of<n>course this\nwould happen.",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": 28,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "What do you mean?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What do you mean?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -3247763683120063941
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 586966958289675771
                 }
             ],
             "pathId": -5049536580090744515,
@@ -69,8 +102,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "今日は、ライスが廊下を掃除したの……。\r\nそのせいで、お兄さまが危ない目に……うぅ。",
-            "enText": "Today, Rice cleaned the hallway… \nIt put her brother in danger…",
+            "enText": "Well, I'm the one who cleaned the hall<n>today... so\nit's my fault you had such a<n>close call... <i>Sniffle...</i>",
             "nextBlock": 6,
+            "origClipLength": 72,
+            "voiceIdx": 24,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5390699695736999794
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7317887815712323015
+                }
+            ],
             "pathId": 2214271804207152630,
             "blockIdx": 5
         },
@@ -78,8 +124,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "今日は、ライスが廊下を掃除したの……。\r\nそのせいで、お姉さまが危ない目に……うぅ。",
-            "enText": "Today, Rice cleaned the hallway… It \nput her sister in danger… ugh.",
+            "enText": "Well, I'm the one who cleaned the hall<n>today... so\nit's my fault you had such a<n>close call... <i>Sniffle...</i>",
             "nextBlock": 7,
+            "origClipLength": 72,
+            "voiceIdx": 24,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -8595003419741970202
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4341699339725411213
+                }
+            ],
             "pathId": 830378210253266039,
             "blockIdx": 6
         },
@@ -87,8 +146,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ごめんなさい、ライスのせいで……！",
-            "enText": "Sorry, it's Rice's fault…!",
+            "enText": "I'm sorry! I'm to blame!",
             "nextBlock": 8,
+            "origClipLength": 56,
+            "voiceIdx": 61,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8917307675701460681
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 1349565240691829819
+                }
+            ],
             "pathId": -2331541953987755381,
             "blockIdx": 7
         },
@@ -96,8 +168,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ライスシャワーは落ち込んでしまったようだ。",
-            "enText": "The Rice-shower seemed to have \nfallen into a depression.",
+            "enText": "Rice Shower's guilt weighs heavily on her<n>heart.",
             "nextBlock": -1,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -1149433799296189140
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -2970016179731291374
+                }
+            ],
             "pathId": -3232739904092528394,
             "blockIdx": 8
         }

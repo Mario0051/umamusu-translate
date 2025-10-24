@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "LFPG5G4Q2HGLUDFLI4MAIJ3GLYJEMTPQ",
+    "version": 6,
+    "bundle": "HAT7OKPUEPT4NV7Y64GDN6GVABA4564S",
     "type": "story",
     "storyId": "501015509",
     "title": "連続出走で……",
+    "enTitle": "After Repeated Races...",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "テイエムオペラオーと、\nトレーニング中なのだが……。",
-            "enText": "I'm in training with TM Operao. ……",
+            "enText": "T.M. Opera O and I are in the middle of<n>a training\nsession, when...",
             "nextBlock": 2,
             "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 90,
@@ -19,11 +22,11 @@
                 },
                 {
                     "origLen": 89,
-                    "pathId": -6203864300081719003
+                    "pathId": 67070056421899292
                 },
                 {
                     "origLen": 89,
-                    "pathId": 67070056421899292
+                    "pathId": -6203864300081719003
                 }
             ],
             "pathId": -8754793814644968677,
@@ -31,11 +34,13 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "はぁ……はぁ……万物は、流転する……が、\nボクの輝きは不変……倦怠の沼にいても――",
-            "enText": "Ha…… ha…… all things flow and turn…… \nbut my radiance is constant…… even \nin the swamps of ennui.",
+            "enText": "<i>Huff... Puff...</i> Within the flow of an<n>ever-changing\nuniverse... my radiance is<n>immutable... even\nagainst the quagmire...<n>of fatigue...",
             "nextBlock": 3,
             "origClipLength": 98,
+            "voiceIdx": 58,
+            "voiceSheetId": "051015001",
             "choices": [
                 {
                     "jpText": "休憩を挟もう",
@@ -50,11 +55,11 @@
                 },
                 {
                     "origLen": 109,
-                    "pathId": -4824428433879189655
+                    "pathId": 5808926476635312611
                 },
                 {
                     "origLen": 109,
-                    "pathId": 5808926476635312611
+                    "pathId": -4824428433879189655
                 }
             ],
             "pathId": 8594013192162390187,
@@ -62,19 +67,21 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "否……トレーナー君、これは天が与えた試練。\n辛苦を与え、ボクを試しているのだよ。",
-            "enText": "No…… trainer, this is a test given by heaven. \nThey are testing me by giving me a hard time.",
+            "enText": "No, Trainer... Divine forces have placed<n>this trial\nbefore me. By the affliction of<n>this suffering, I am\ntested.",
             "nextBlock": 4,
             "origClipLength": 97,
+            "voiceIdx": 108,
+            "voiceSheetId": "051015001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -1426557078013487994
-                },
                 {
                     "origLen": 108,
                     "pathId": -6068082404882249790
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -1426557078013487994
                 }
             ],
             "pathId": 48246785990959908,
@@ -82,23 +89,25 @@
         },
         {
             "jpName": "テイエムオペラオー",
-            "enName": "TM Opera O",
+            "enName": "T.M. Opera O",
             "jpText": "さあ……走れ、走るんだボク！\n魂を燃やし“覇王”の威光を見せるんだ……！",
-            "enText": "Come on…… run, run, me! Let your souls burn \nand show the might of the High King. ……",
+            "enText": "Now... run! I must run! The majesty of the<n>\nOverlord must be known!",
             "nextBlock": 5,
             "origClipLength": 91,
+            "voiceIdx": 15,
+            "voiceSheetId": "051015001",
             "animData": [
                 {
                     "origLen": 98,
                     "pathId": -6198930306193653856
                 },
                 {
-                    "origLen": 85,
-                    "pathId": 8324053688274882085
-                },
-                {
                     "origLen": 102,
                     "pathId": 5547362306918953259
+                },
+                {
+                    "origLen": 85,
+                    "pathId": 8324053688274882085
                 }
             ],
             "pathId": -3929315653802248118,
@@ -108,9 +117,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "毅然とした態度をとる彼女だったが、\nかなり疲れが溜まっている……。\n今後の出走予定を見直す必要がありそうだ。",
-            "enText": "She was resolute, but she is quite \ntired…… She may need to reevaluate \nher future running schedule.",
+            "enText": "Despite so bold a resolve, her<n>exhaustion is only\nincreasing. I'll need to<n>adjust her race schedule so\nshe can get<n>some rest.",
             "nextBlock": -1,
             "origClipLength": 115,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
@@ -118,16 +129,15 @@
                 },
                 {
                     "origLen": 58,
-                    "pathId": 6015989140876876307
+                    "pathId": -8987057925483723866
                 },
                 {
                     "origLen": 58,
-                    "pathId": -8987057925483723866
+                    "pathId": 6015989140876876307
                 }
             ],
             "pathId": 7598921761637465306,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555250
+    ]
 }

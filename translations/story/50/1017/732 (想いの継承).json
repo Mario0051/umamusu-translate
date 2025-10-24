@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "4PRSK5QLUWHPPV6C43WRLMDLEU23Z4JR",
+    "version": 6,
+    "bundle": "QNE24CIFAP2V4OHJKRZHNZVJBYKXZN4J",
     "type": "story",
     "storyId": "501017732",
     "title": "想いの継承",
+    "enTitle": "Inspiration",
     "text": [
         {
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "この辺りから私を呼ぶ声が聞こえたが――",
-            "enText": "I heard a voice calling me from around here―",
+            "enText": "I thought I heard somebody calling my<n>name,\nbut...",
             "nextBlock": 2,
             "origClipLength": 69,
+            "voiceIdx": 30,
+            "voiceSheetId": "051017001",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": 5591352636914979358
+                    "pathId": -5698024678015108706
                 },
                 {
                     "origLen": 80,
-                    "pathId": -5698024678015108706
+                    "pathId": 5591352636914979358
                 }
             ],
             "pathId": -2748179919157540931,
@@ -29,17 +32,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "誰もいないのか？\r\n……空耳だったようだな。",
-            "enText": "Is anyone here? Looks like…… was an empty ear.",
+            "enText": "It seems there's nobody here. Was I<n>hearing\nthings?",
             "nextBlock": 3,
             "origClipLength": 73,
+            "voiceIdx": 35,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 6172218467023579655
-                },
                 {
                     "origLen": 84,
                     "pathId": 7188845014444181543
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 6172218467023579655
                 }
             ],
             "pathId": 6331485304319590751,
@@ -49,21 +54,23 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 4,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 76,
                     "pathId": -3232189277556403636
                 },
                 {
-                    "origLen": 20,
-                    "pathId": -5821842948102196667
-                },
-                {
                     "origLen": 62,
                     "pathId": 7133507019381871019
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -5821842948102196667
                 }
             ],
             "pathId": -5986795060363314038,
@@ -73,9 +80,11 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "三女神の像……か。",
-            "enText": "The statues of the three goddesses: ……?",
+            "enText": "Could it have been... the statue of the<n>Three\nGoddesses?",
             "nextBlock": -1,
             "origClipLength": 56,
+            "voiceIdx": 79,
+            "voiceSheetId": "051017001",
             "animData": [
                 {
                     "origLen": 20,
@@ -83,16 +92,15 @@
                 },
                 {
                     "origLen": 67,
-                    "pathId": -3537140790891157179
+                    "pathId": 8469259997642340336
                 },
                 {
                     "origLen": 67,
-                    "pathId": 8469259997642340336
+                    "pathId": -3537140790891157179
                 }
             ],
             "pathId": -6976069360459602434,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555056
+    ]
 }

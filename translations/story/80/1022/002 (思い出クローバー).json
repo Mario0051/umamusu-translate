@@ -1,25 +1,42 @@
 {
-    "version": 4,
-    "bundle": "QWSQDPVTVP3VTU5IGGSPWWJXROG7MPMW",
+    "version": 6,
+    "bundle": "RSKFYUC3XC5TCPHJYEHBZUZFQDDJDHPQ",
     "type": "story",
     "storyId": "801022002",
     "title": "思い出クローバー",
+    "enTitle": "Reminiscent Clover",
     "text": [
         {
-            "jpName": "",
+            "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、レース観戦に来たところ――",
-            "enText": "One day, I came to watch a race.",
+            "enText": "One day, while I'm watching a race...",
             "nextBlock": 2,
+            "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5290636546751746517,
             "blockIdx": 1
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "ゴ～～～～～～ルっ！\r\nデッドヒートの末、遂に勝負を制したのは――",
-            "enText": "Go～～～～～～l! After a dead heat, the winner is…",
+            "enText": "Aaand... we have our winner! Here she is,<n>the\nvictory of a truly intense dead heat!",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -4258120360040079111
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -7287591065145541825
+                }
+            ],
             "pathId": -3922428378520063401,
             "blockIdx": 2
         },
@@ -27,8 +44,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "すっごーいっ！　やっぱりレースって刺激的！\r\nそうだ、せっかくだから記念写真を――",
-            "enText": "It's amazing! Racing is so exciting! Oh, and \nwe've got to take a photo…",
+            "enText": "Fantastic! Races are so thrilling! While I<n>am here, I\nshould take a photo to<n>commemorate the\noccasion!",
             "nextBlock": 4,
+            "origClipLength": 71,
+            "voiceIdx": 7,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 98,
+                    "pathId": 6772355748242220267
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 1170457544797354082
+                }
+            ],
             "pathId": 3643135423371728317,
             "blockIdx": 3
         },
@@ -36,8 +66,11 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "あっ、そこのキミ！\r\n私の写真撮ってくれないかな？",
-            "enText": "Oh, you there! Can you take my photo?",
+            "enText": "Oh, you there! Would you be so kind as<n>to take\nmy photo?",
             "nextBlock": 5,
+            "origClipLength": 61,
+            "voiceIdx": 31,
+            "voiceSheetId": "051022001",
             "choices": [
                 {
                     "jpText": "俺？",
@@ -50,6 +83,20 @@
                     "nextBlock": 5
                 }
             ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 5829506209159728679
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 2118630648716751828
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 3341517246468227230
+                }
+            ],
             "pathId": -3210823100360545064,
             "blockIdx": 4
         },
@@ -57,17 +104,47 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "レース場が見えるように！　よろしくね～！",
-            "enText": "As you can see the racetrack! Best regards!",
+            "enText": "Yes! Please make sure you capture the<n>racetrack\nas well! Thank you!",
             "nextBlock": 6,
+            "origClipLength": 58,
+            "voiceIdx": 39,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -426557954270518215
+                },
+                {
+                    "origLen": 92,
+                    "pathId": 1084533974249667923
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8932352974755335603
+                }
+            ],
             "pathId": 6778182484787192619,
             "blockIdx": 5
         },
         {
-            "jpName": "",
+            "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして流されるままに、\r\nファインモーションの写真を撮影し――",
-            "enText": "And so I was carried along, taking \nfine motion pictures.",
+            "enText": "I can barely keep up with what's<n>happening, but I\ntake Fine Motion's<n>picture anyway.",
             "nextBlock": 7,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -7440679910794568917
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7587033360185430804
+                }
+            ],
             "pathId": 915706740658745533,
             "blockIdx": 6
         },
@@ -75,13 +152,26 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "わあっ、素敵な写真！\r\nこれは……うん、思い出クローバー3つだね！",
-            "enText": "Wow, lovely pics! This is… Yeah, \nthree memory clovers!",
+            "enText": "Goodness, what a lovely photo! This is<n>worthy of\nthree reminiscent clovers!",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "voiceIdx": 62,
+            "voiceSheetId": "051022001",
             "choices": [
                 {
                     "jpText": "思い出クローバー？",
-                    "enText": "Memory Clover?",
+                    "enText": "What are \"reminiscent clovers\"?",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 3654910700232592106
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 4137803636223136668
                 }
             ],
             "pathId": 1595790873935454014,
@@ -91,8 +181,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "私、クローバーが大好きなんだ。\r\n素敵な出来事があると、それで採点するの。",
-            "enText": "I love clover. Whenever something nice \nhappens, I grade it with it.",
+            "enText": "I adore clovers, so I use them to rate any<n>\nwonderful experiences I have.",
             "nextBlock": 9,
+            "origClipLength": 69,
+            "voiceIdx": 5,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -4093027595719455562
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -3421073146964200671
+                }
+            ],
             "pathId": -3556266814697609679,
             "blockIdx": 8
         },
@@ -100,17 +203,43 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "アイルランドに帰るまでに、\r\nこの国でもたくさんクローバーを集めたくて。",
-            "enText": "I want to collect as many clovers as I can \nin this country before I go back to Ireland.",
+            "enText": "I want to gather as many clovers as I can<n>here\nbefore I return to Ireland.",
             "nextBlock": 10,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -577526091882799389
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -317796654130462678
+                }
+            ],
             "pathId": -8419015679739463222,
             "blockIdx": 9
         },
         {
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
-            "jpText": "お城の外の自由な世界！\r\nこんな体験、なかなかできないでしょ？\nだから、たくさん写真を撮ってるんだ。",
-            "enText": "A free world outside the castle! It's not \neasy to experience something like this, is \nit? That's why we take so many photos.",
+            "jpText": "国の外、まだ見ぬ世界！\nこんな素敵な体験、忘れたくないもの♪\nだから、たくさん写真を撮っているんだ。",
+            "enText": "The world outside the castle walls is so<n>free and\nfascinating! I do not often have<n>experiences like\nthese, so I take many<n>photos when I do.",
             "nextBlock": 11,
+            "origClipLength": 77,
+            "voiceIdx": 61,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": 8083021514043480547
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -270098854837018354
+                }
+            ],
             "pathId": 6935745355552845264,
             "blockIdx": 10
         },
@@ -118,18 +247,31 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "ねっ。次はどこに行けば、\r\n素敵なシャッターチャンスに出会えると思う？",
-            "enText": "Hey! Where do you think we should go next \nfor a great photo opportunity?",
+            "enText": "Say, where do you think I should go next<n>for some\nmore lovely photo<n>opportunities?",
             "nextBlock": 12,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "最終コーナー",
-                    "enText": "Final corner",
+                    "enText": "The final corner.",
                     "nextBlock": 12
                 },
                 {
                     "jpText": "ラストの直線",
-                    "enText": "The last straight",
+                    "enText": "The final straight.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -294509558045482411
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -3835294216708109666
                 }
             ],
             "pathId": 4497782795540193480,
@@ -139,8 +281,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "そっか！　いよいよゴールが迫ってきて、\r\n仕掛けるタイミングを見計らいだすところっ！",
-            "enText": "That's it! We're getting close to \nthe finish line, and we need to \nknow when to make our move!",
+            "enText": "Ah, the spot where the goal enters the<n>racers'\nsight, and they begin to calculate<n>when to make\ntheir final move! A fine<n>suggestion!",
             "nextBlock": 13,
+            "origClipLength": 72,
+            "voiceIdx": 8,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 1417364267082809609
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -8645641581973402653
+                }
+            ],
             "pathId": 7422018630954693594,
             "blockIdx": 12
         },
@@ -148,8 +303,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "コーナーを回ってみんなの姿が見えてくるの、\r\nすごい迫力だよね！　いつも驚いちゃう！",
-            "enText": "It's so powerful, coming round the corner \nand seeing everyone! It's always amazing!",
+            "enText": "The sight of all the Umamusume<n>rounding the\ncorner is always so<n>delightfully impactful! It never\nceases to<n>take my breath away!",
             "nextBlock": 14,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5024067825070125528
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -4293009460210967750
+                }
+            ],
             "pathId": -2781640395690835504,
             "blockIdx": 13
         },
@@ -157,8 +325,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "うんっ。綺麗に写真に撮れたら、\r\n素敵な思い出になりそうだな～♪",
-            "enText": "Yes. If I can get a good picture of it, it \nwill be a great memory…",
+            "enText": "Yes, if I can take a clear shot from that<n>location,\nI'm sure it will make for a<n>wonderful memory!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": 9,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -5770019957061280260
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -5489427016229692836
+                }
+            ],
             "pathId": -747359170944030279,
             "blockIdx": 14
         },
@@ -166,8 +347,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "あぁ～！　最後の気力を振り絞って、\r\nみんな勝つために必死に走ってるところ！",
-            "enText": "Aah! We're all running for our lives, \ntrying to win with every last ounce \nof energy we have!",
+            "enText": "Ah, the looks on their faces as they<n>strive\ndesperately forward with their<n>final ounces of\nenergy!",
             "nextBlock": 16,
+            "origClipLength": 69,
+            "voiceIdx": 8,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": 1875612358850353883
+                },
+                {
+                    "origLen": 67,
+                    "pathId": -2824822856382735953
+                }
+            ],
             "pathId": 8958597046630710272,
             "blockIdx": 15
         },
@@ -175,8 +369,21 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "うん、すっごく素敵な思い出になりそう！\r\nこれは楽しみになってきたっ。",
-            "enText": "Yeah, it's going to be a great memory! I'm \nreally looking forward to it.",
+            "enText": "Surely, there is no scene more worthy of<n>being\nimmortalized! My heart is racing in<n>anticipation!",
             "nextBlock": 17,
+            "origClipLength": 67,
+            "voiceIdx": 9,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 83,
+                    "pathId": -3339247485896018162
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -4727567005993767632
+                }
+            ],
             "pathId": 5359339682355374096,
             "blockIdx": 16
         },
@@ -184,8 +391,25 @@
             "jpName": "ファインモーション",
             "enName": "Fine Motion",
             "jpText": "じゃあ、綺麗に撮れる場所を探さなくっちゃ。\r\nあっちの方がいいかなあ？",
-            "enText": "Now I have to find a place where \nI can get a good shot. Do you think \nit's better that way?",
+            "enText": "I must find a location where I can<n>capture a clear\nshot. I wonder if that<n>spot over there will be\ngood?",
             "nextBlock": -1,
+            "origClipLength": 67,
+            "voiceIdx": 35,
+            "voiceSheetId": "051022001",
+            "animData": [
+                {
+                    "origLen": 61,
+                    "pathId": 1313939466609896918
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 96270668120359388
+                },
+                {
+                    "origLen": 61,
+                    "pathId": 7352910012201819936
+                }
+            ],
             "pathId": -6398152414324462887,
             "blockIdx": 17
         }

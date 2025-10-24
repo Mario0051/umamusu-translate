@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "BAPVIBP5PE5BAEPQFV7NOM7KKJCGWFSY",
+    "version": 6,
+    "bundle": "TM4W3FNSPTOUEDM7VYDSUOYHEOZ46RBE",
     "type": "story",
     "storyId": "501040509",
     "title": "連続出走で……",
+    "enTitle": "After Repeated Races...",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーナー室で仕事をしていると、\r\n疲れた顔のゴールドシチーがやってきた。",
-            "enText": "While I was working in the trainer's office, \na tired-looking Gold City came in.",
+            "enText": "I'm working in my office when Gold City<n>enters\nlooking exhausted.",
             "nextBlock": 2,
+            "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "授業はどうしたんだ？",
-                    "enText": "What happened to class?",
+                    "enText": "Aren't you supposed to be in class?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "授業はどうしたの？",
-                    "enText": "What happened to class?",
+                    "enText": "Aren't you supposed to be in class?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -4764280896106636080
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 7499062682128311196
                 }
             ],
             "pathId": -4359116981074276849,
@@ -30,8 +44,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "休んだらちゃんと出るから、\r\nちょっとだけここに居させてくれない？",
-            "enText": "I'll get out after I rest. Can I \nstay here for a little while?",
+            "enText": "I promise I'll go to class after, so can you<n>just let\nme chill here a little?",
             "nextBlock": 3,
+            "origClipLength": 88,
+            "voiceIdx": 157,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 7142083770416152003
+                },
+                {
+                    "origLen": 73,
+                    "pathId": 7735741077103856542
+                }
+            ],
             "pathId": 2898455545017544620,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "へばってるとこ、誰にも見られたくないの。\r\n心配されんのも、見くびられんのもイヤ。",
-            "enText": "I don't want anyone to see me in a bad spot. \nI don't want to be worried, and I don't want \nto be looked down upon.",
+            "enText": "I don't want anyone to see me slipping.<n>Can't\nhave them worrying about me or<n>thinking I'm not\ngood enough.",
             "nextBlock": 4,
+            "origClipLength": 98,
+            "voiceIdx": 78,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 325857284218420984
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -3648524666361189190
+                }
+            ],
             "pathId": 8318829930338143421,
             "blockIdx": 3
         },
@@ -48,8 +88,21 @@
             "jpName": "ゴールドシチー",
             "enName": "Gold City",
             "jpText": "こんなんじゃダメってわかってんだけど……\r\nなんか気合いが入んなくって……はぁ……。",
-            "enText": "I know it's not supposed to be like \nthis, but… I'm just not feeling \nup to it… haha…",
+            "enText": "I know I can't keep on like this, but... I<n>just can't\nmuster up the motivation...<n><i>Sigh...</i>",
             "nextBlock": 5,
+            "origClipLength": 99,
+            "voiceIdx": 14,
+            "voiceSheetId": "051040001",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -3832971993186629047
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4481739636028464649
+                }
+            ],
             "pathId": 4003056392196115552,
             "blockIdx": 4
         },
@@ -57,8 +110,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ひどく疲れているようだが、\r\n最近レースが続いたのが原因だろうか。\n出走予定を見直した方がよさそうだ。",
-            "enText": "She looks very tired, but I wonder if this is \ndue to the recent string of races. Perhaps \nit is due to a series of recent races.",
+            "enText": "She must be burnt out from all the races<n>I've had\nher in. It might be better to<n>review her schedule\nlooking forward.",
             "nextBlock": -1,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 1002357065132257587
+                },
+                {
+                    "origLen": 122,
+                    "pathId": 2463962864692386469
+                }
+            ],
             "pathId": 3996204000349859122,
             "blockIdx": 5
         }

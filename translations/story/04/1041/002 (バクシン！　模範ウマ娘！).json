@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "PWP4POUUENQEJLW3L3BKQLIYZKSQDDDI",
+    "version": 6,
+    "bundle": "XPWLKLCOXZ5X7UFQWEEE6RVJLAUQ4P25",
     "type": "story",
     "storyId": "041041002",
     "title": "バクシン！　模範ウマ娘！",
+    "enTitle": "Bakushin! Model Umamusume!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今日はトレーナーたちがウマ娘の実力を見極め、スカウトを行う\r\n選抜レースの日だ。会場にたどり着き、ふと辺りを見回すと――",
-            "enText": "It's the day of the Selection Race, where the trainers scout out \nthe abilities of the horsegirls and form partnerships. \nI had just arrived at the grounds and as I looked around—",
+            "enText": "The day of tryouts arrives, and there's<n>excitement in the air as trainers\ngather in<n>hopes of scouting the latest and greatest<n>in talented\nUmamusume.",
             "nextBlock": 2,
             "origClipLength": 123,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 531082841501137380,
             "blockIdx": 1
         },
@@ -19,29 +22,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ややややややッ！！　貴方は先日のトレーナーさん！！\r\nいらしてくださったのですね！！",
-            "enText": "Hey, hey, hey! You're the trainer from the other day!! \nI'm so glad you're here!!",
+            "enText": "Ohoho! A familiar face! It's nice to see you<n>again!",
             "nextBlock": 3,
             "origClipLength": 175,
+            "voiceIdx": 0,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "調子はどうだ？",
-                    "enText": "How's it going?",
+                    "enText": "Ready for your big race?",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "調子はどう？",
-                    "enText": "How's it going?",
+                    "enText": "Ready for your big race?",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 39,
-                    "pathId": -3834425653811390585
-                },
-                {
                     "origLen": 21,
                     "pathId": 5065486481890908593
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -3834425653811390585
                 },
                 {
                     "origLen": 60,
@@ -55,17 +60,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "絶好調以外にありえませんとも！\r\n備えは常に万全！　それが学級委員長ですッ！",
-            "enText": "It's been nothing but great! Always ready, always prepared! \nThat's what makes a class president!",
+            "enText": "Ready? I was BORN ready! No one's raring<n>to go like me, the class\nrepresentative!",
             "nextBlock": 4,
             "origClipLength": 213,
+            "voiceIdx": 1,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": -7299884213893790112
-                },
                 {
                     "origLen": 34,
                     "pathId": -4452822552638765439
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -7299884213893790112
                 },
                 {
                     "origLen": 60,
@@ -79,17 +86,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "では、次のレースに出走いたしますので！！　私の優秀な姿に\r\nどうぞご期待ください！　……それはそれはご期待くださいねッ！！",
-            "enText": "Now, I'll be in the next race!! \nPlease observe my excellence! ……Don't expect anything less!!",
+            "enText": "Now then, my race is up next, so I must be<n>off! Just TRY to keep up\nwith my<n>astonishing speed! But beware... you might<n>just be blinded by\nmy EXCELLENCE!",
             "nextBlock": 5,
             "origClipLength": 297,
+            "voiceIdx": 2,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 6508088393161807373
-                },
                 {
                     "origLen": 111,
                     "pathId": -7237711847832995250
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6508088393161807373
                 },
                 {
                     "origLen": 60,
@@ -103,17 +112,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "失礼！　バクシンバクシーーーンッ！！",
-            "enText": "Now excuse me! Bakushin bakushiiin!!",
+            "enText": "Bakushin! Bakushiiin!",
             "nextBlock": 6,
             "origClipLength": 113,
+            "voiceIdx": 3,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 3602399870738248344
-                },
                 {
                     "origLen": 20,
                     "pathId": -2174499682468671931
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 3602399870738248344
                 }
             ],
             "pathId": 4529919319990653818,
@@ -121,11 +132,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "あれっ？　サクラバクシンオー、次なのか？\r\n短距離が得意の子のはずじゃ……。",
-            "enText": "Huh? Sakura Bakushin O is running next? \nI thought short distances were her forte…",
+            "enText": "That was Sakura Bakushin O, right? Did<n>she just say she's in the next\nrace? My data<n>says she specializes in sprints...",
             "nextBlock": 7,
             "origClipLength": 182,
+            "voiceIdx": 4,
+            "voiceSheetId": "041041002",
             "pathId": -6030908500099247507,
             "blockIdx": 6
         },
@@ -133,9 +146,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "長距離に出走登録しているわね。\r\nなにか考えがあるのかしら……？",
-            "enText": "She's registered to run in the long distance. \nDoes she have something up her sleeve…?",
+            "enText": "But next up is the long-distance race...<n>What is she planning?",
             "nextBlock": 8,
             "origClipLength": 152,
+            "voiceIdx": 5,
+            "voiceSheetId": "041041002",
             "pathId": 1060875090096361743,
             "blockIdx": 7
         },
@@ -143,9 +158,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして始まったレースで、サクラバクシンオーは――",
-            "enText": "That was how the race started. Sakura Bakushin O was…",
+            "enText": "With furrowed brows, the other curious<n>trainers and I look on as\nSakura Bakushin<n>O's race begins...",
             "nextBlock": 9,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4674330529504028209,
             "blockIdx": 8
         },
@@ -153,17 +170,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "参ります！！\r\nバクシンバクシーーーンッ！！",
-            "enText": "Here I go!! Bakushin bakushin!!",
+            "enText": "Here I go! Bakushin, Bakushiiin!",
             "nextBlock": 10,
             "origClipLength": 108,
+            "voiceIdx": 6,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 88,
-                    "pathId": 3718791116623991652
-                },
                 {
                     "origLen": 20,
                     "pathId": -761595114430235450
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 3718791116623991652
                 }
             ],
             "pathId": -3180069652710467461,
@@ -171,19 +190,21 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "サクラバクシンオー、軽快にハナを切った！！\r\n後続をぐんぐん引き離し、先頭に立ちます！！",
-            "enText": "Sakura Bakushin O makes a quick start!! \nShe's pulling away from the rest of the field!!",
+            "enText": "Sakura Bakushin O bursts out of the gates<n>and takes the lead! She's\npulling away<n>from the rest of the runners!",
             "nextBlock": 11,
             "origClipLength": 213,
+            "voiceIdx": 7,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 225,
-                    "pathId": 787853300315482893
-                },
                 {
                     "origLen": 20,
                     "pathId": -7514195116322876588
+                },
+                {
+                    "origLen": 225,
+                    "pathId": 787853300315482893
                 }
             ],
             "pathId": -2180480537484551624,
@@ -193,17 +214,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "まだまだぁ～！！\r\nバクシンバクシンバクシーーーーンッ！！！！",
-            "enText": "I'm not done yet! \nBakushin bakushin bakushiiiiin!!!!",
+            "enText": "There's more where that came from!<n>Bakushin, Bakushin, Bakushiiiiin!",
             "nextBlock": 12,
             "origClipLength": 127,
+            "voiceIdx": 8,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 119,
-                    "pathId": -9127910256498463803
-                },
                 {
                     "origLen": 20,
                     "pathId": -2350645714400641846
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -9127910256498463803
                 }
             ],
             "pathId": 6253645235360488540,
@@ -211,19 +234,21 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "バクシンオー先頭！　バクシンオー先頭！！\r\n恐るべき加速力！！　まさに神速の脚っ！！",
-            "enText": "Bakushin O leads! Bakushin O leads!! \nWhat fearsome acceleration! She's got lightning in her legs!",
+            "enText": "Look at her go! With that speed, she might<n>be the fastest\nUmamusume on the track<n>today!",
             "nextBlock": 13,
             "origClipLength": 214,
+            "voiceIdx": 9,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 246,
-                    "pathId": -3261610360274915310
-                },
                 {
                     "origLen": 20,
                     "pathId": 870147599206067884
+                },
+                {
+                    "origLen": 246,
+                    "pathId": -3261610360274915310
                 }
             ],
             "pathId": -8773024157425591000,
@@ -233,13 +258,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（ワァアアアアアアー！！）",
-            "enText": "(Woooooaaaaaaah!!)",
+            "enText": "Raaaah!",
             "nextBlock": 14,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "…!",
+                    "enText": "...!",
                     "nextBlock": 14
                 }
             ],
@@ -250,19 +277,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "まだレース最序盤だというのに客席が沸く。だがその異様な状況を\r\n思わず納得してしまうほど、彼女の走りは凄まじかった。",
-            "enText": "The race had barely started, and the audience already erupted. \nBut her performance was so amazing that my mind had already just \naccepted this bizarre scene.",
+            "enText": "The race has only just begun, and the<n>crowd is going wild! An unusual\nreaction to<n>say the least, but after seeing Sakura<n>Bakushin O, I\ncompletely understand.",
             "nextBlock": 15,
             "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3253182598036832345,
             "blockIdx": 14
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "と、飛ばしすぎじゃないか！？\r\n序盤からあんな……いや、しかし……！",
-            "enText": "Hey, isn't she going too early!? \nIf she goes that hard from the start of… no, but…!",
+            "enText": "Wh-what is she thinking?! She can't use<n>that much power right out of\nthe gate!<n>But... then again...",
             "nextBlock": 16,
             "origClipLength": 186,
+            "voiceIdx": 10,
+            "voiceSheetId": "041041002",
             "pathId": -5873072554541326774,
             "blockIdx": 15
         },
@@ -270,9 +301,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "素晴らしいスピードね……！\r\nここまでのスタートダッシュを見たのは、初めてだわ……！！",
-            "enText": "What amazing speed…! \nI've never seen such a fast start before…!!",
+            "enText": "What amazing speed! I've never seen<n>someone start a race off like\nthis!",
             "nextBlock": 17,
             "origClipLength": 163,
+            "voiceIdx": 11,
+            "voiceSheetId": "041041002",
             "pathId": -3306209104499431780,
             "blockIdx": 16
         },
@@ -280,9 +313,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "このまま行けば、もしかしたら……！",
-            "enText": "If she keeps going like this, maybe…!",
+            "enText": "If she can keep it up...",
             "nextBlock": 18,
             "origClipLength": 82,
+            "voiceIdx": 12,
+            "voiceSheetId": "041041002",
             "pathId": 4026958174777546680,
             "blockIdx": 17
         },
@@ -290,9 +325,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……と、皆が熱狂したのもつかの間。",
-            "enText": "…It wasn't long before excited voices surrounded me.",
+            "enText": "For a brief moment, even the veteran<n>trainers have their eyes glued to\nthe track,<n>the prospect of a new racing superstar<n>filling them with\nexcitement.",
             "nextBlock": 19,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 46,
@@ -304,11 +341,13 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "さあ、回って第4コーナー！\r\n各ウマ娘、今か今かと仕掛け時を――",
-            "enText": "They've reached the fourth corner! \nEach horsegirl is waiting for the right moment to strike—",
+            "enText": "The runners are rounding the fourth turn!<n>Their actions from this point\non will decide<n>the outcome of the race!",
             "nextBlock": 20,
             "origClipLength": 171,
+            "voiceIdx": 13,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 184,
@@ -322,17 +361,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "バクシン……バクシィィィィン……。",
-            "enText": "Bakushin… Bakushiiiin…",
+            "enText": "Bakushin... Bakushiiin...",
             "nextBlock": 21,
             "origClipLength": 139,
+            "voiceIdx": 14,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 184,
-                    "pathId": 6900049939402321817
-                },
                 {
                     "origLen": 20,
                     "pathId": -340410570053636496
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 6900049939402321817
                 }
             ],
             "pathId": 8281492810301318428,
@@ -340,19 +381,21 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "サ、サクラバクシンオーが下がっていく！？\r\nスタート時の勢いはどこへ消えたのかっ！？",
-            "enText": "S-Sakura Bakushin O is dropping back!? \nWhere has her momentum gone!?",
+            "enText": "S-Sakura Bakushin O is losing speed! Has<n>her initial energy run dry?!",
             "nextBlock": 22,
             "origClipLength": 210,
+            "voiceIdx": 15,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 239,
-                    "pathId": 987944528386809150
-                },
                 {
                     "origLen": 50,
                     "pathId": -2855873442905064938
+                },
+                {
+                    "origLen": 239,
+                    "pathId": 987944528386809150
                 }
             ],
             "pathId": -6746980970717728087,
@@ -362,17 +405,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "エネルギー切れで……つみ……ました……。",
-            "enText": "I'm out… of… energy…",
+            "enText": "Can't... keep... going... Must... slow... down.",
             "nextBlock": 23,
             "origClipLength": 170,
+            "voiceIdx": 16,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 128,
-                    "pathId": 9113930784475343015
-                },
                 {
                     "origLen": 75,
                     "pathId": 599349076662938361
+                },
+                {
+                    "origLen": 128,
+                    "pathId": 9113930784475343015
                 }
             ],
             "pathId": 5688222883373557349,
@@ -382,17 +427,19 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "あぁ～……。",
-            "enText": "Ahhh…",
+            "enText": "Ah...",
             "nextBlock": 24,
             "origClipLength": 57,
+            "voiceIdx": 17,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": 2464144720779802282
-                },
                 {
                     "origLen": 19,
                     "pathId": 3492418015148435446
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 2464144720779802282
                 }
             ],
             "pathId": 7530083544293945607,
@@ -402,9 +449,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、サクラバクシンオーはずるずると\r\n順位を下げ、12着となったのだった……。",
-            "enText": "Soon, Sakura Bakushin O slipped down the rankings and \neventually finished in 12th place…",
+            "enText": "As Sakura Bakushin O loses speed, the<n>other Umamusume pick up\ntheir pace,<n>eventually leaving her in twelfth place...",
             "nextBlock": 25,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3582603850146513482,
             "blockIdx": 24
         },
@@ -412,29 +461,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ふくぅ～、12着ッ……！\r\n不甲斐なし……！",
-            "enText": "Gahh, 12th place…! \nThe disappointment…!",
+            "enText": "Twelfth place?! TWELFTH! What a<n>disgrace...",
             "nextBlock": 26,
             "origClipLength": 168,
+            "voiceIdx": 18,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "序盤はいい走りだったけど、残念だったな",
-                    "enText": "Your start was great, too bad.",
+                    "enText": "You started out strong, too... What rotten luck.",
                     "nextBlock": 26
                 },
                 {
                     "jpText": "序盤はいい走りだったけど、残念だったね",
-                    "enText": "You started great, it's a shame.",
+                    "enText": "You started out strong, too... What rotten luck.",
                     "nextBlock": 26
                 }
             ],
             "animData": [
                 {
-                    "origLen": 99,
-                    "pathId": 2070794889064390636
-                },
-                {
                     "origLen": 15,
                     "pathId": -8516086958611516487
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 2070794889064390636
                 },
                 {
                     "origLen": 94,
@@ -448,17 +499,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いえ……今回は、みなさんが速かったですね！",
-            "enText": "No… everyone was fast this time!",
+            "enText": "No... Luck had nothing to do with it. The<n>others really gave their all,\nand it showed!",
             "nextBlock": 27,
             "origClipLength": 131,
+            "voiceIdx": 19,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 2628066112616802583
-                },
                 {
                     "origLen": 15,
                     "pathId": 3082946472404975849
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 2628066112616802583
                 },
                 {
                     "origLen": 45,
@@ -472,29 +525,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "競走相手も素直に認める、それが学級委員長！\r\nいよッ、器が大きい！！　もはや洗面器！！",
-            "enText": "Honestly acknowledging competitors is \nwhat makes a class president!! \nWah, so noble, I could be a princess!!",
+            "enText": "Nothing screams maturity like<n>acknowledging your opponents'\nstrength!<n>As expected of the dignified class<n>representative!",
             "nextBlock": 28,
             "origClipLength": 241,
+            "voiceIdx": 20,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "自分で言うのか……",
-                    "enText": "You say yourself…",
+                    "enText": "Uh... You saying that kinda ruins it...",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "自分で言うんだ……",
-                    "enText": "You say yourself…",
+                    "enText": "Uh... You saying that kinda ruins it...",
                     "nextBlock": 28
                 }
             ],
             "animData": [
                 {
-                    "origLen": 26,
-                    "pathId": -6053308109781468873
-                },
-                {
                     "origLen": 21,
                     "pathId": 2101588832776839840
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -6053308109781468873
                 },
                 {
                     "origLen": 36,
@@ -506,19 +561,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "あ、いたいた。おーい、サクラバクシンオー！\r\nちょっと話がしたいんだが、いいかな？",
-            "enText": "Oh, there you are. Hey, Sakura Bakushin O! \nCan I talk to you for a moment?",
+            "enText": "Ah, there she is. Sakura Bakushin O! I'd<n>like to have a word with you.",
             "nextBlock": 29,
             "origClipLength": 200,
+            "voiceIdx": 21,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 2449365320733229806
-                },
                 {
                     "origLen": 130,
                     "pathId": 3696688890209502882
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 2449365320733229806
                 },
                 {
                     "origLen": 36,
@@ -532,17 +589,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "話ということはスカウトですねそうですね！？\r\n待っておりました、待っておりましたともッ！",
-            "enText": "By talk you must mean scout, right? \nOf course, of course, I've been waiting!",
+            "enText": "Would those words happen to be \"I'm here<n>to scout you\"?! I was\nwondering when<n>you'd show up!",
             "nextBlock": 30,
             "origClipLength": 171,
+            "voiceIdx": 22,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -8779509829272602824
-                },
                 {
                     "origLen": 16,
                     "pathId": 5469820379239207477
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -8779509829272602824
                 },
                 {
                     "origLen": 138,
@@ -554,19 +613,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "そ、そうか、話が早くて助かるよ。結果は残念だったが、\r\n素晴らしい脚だった！　ぜひ君をスカウトさせてほしい。",
-            "enText": "Oh, I… see. Thank you for agreeing. \nShame about the result, but your pace was amazing! \nI'd love to recruit you.",
+            "enText": "W-well, that certainly saves me some time.<n>You may not have won\ntoday, but your<n>speed really impressed me. I'd love to take<n>you under\nmy wing.",
             "nextBlock": 31,
             "origClipLength": 282,
+            "voiceIdx": 23,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 99,
-                    "pathId": 8866324149305745125
-                },
                 {
                     "origLen": 30,
                     "pathId": -5574115605419813429
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 8866324149305745125
                 }
             ],
             "pathId": 596732518137786339,
@@ -574,19 +635,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "一緒に最高のスプリンターを目指そう！！\r\n君なら短距離で世界を取れるはずだっ！！",
-            "enText": "I will make you a top sprinter!! \nYou can be world class in short distance!!",
+            "enText": "I know you've got what it takes to<n>dominate every short-distance race\nout<n>there! Together, we'll make you the best<n>sprinter in the world!",
             "nextBlock": 32,
             "origClipLength": 184,
+            "voiceIdx": 24,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 223,
-                    "pathId": -3754114865702136614
-                },
                 {
                     "origLen": 16,
                     "pathId": 6713368977792814745
+                },
+                {
+                    "origLen": 223,
+                    "pathId": -3754114865702136614
                 }
             ],
             "pathId": 6085602092102066648,
@@ -596,17 +659,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ええ！　ハイッ！\r\n共に最高のスプリンターに――",
-            "enText": "Indeed! Yessir! \nLet's take on the sprinter's—",
+            "enText": "That's right! I'll be the best—",
             "nextBlock": 33,
             "origClipLength": 121,
+            "voiceIdx": 25,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -1993851620608859629
-                },
                 {
                     "origLen": 21,
                     "pathId": 6282975780920342439
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -1993851620608859629
                 },
                 {
                     "origLen": 36,
@@ -620,17 +685,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "んん？　スプリンター？",
-            "enText": "Hmm? Sprinter?",
+            "enText": "Huh? Sprinter?",
             "nextBlock": 34,
             "origClipLength": 79,
+            "voiceIdx": 26,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -6134587960673536179
-                },
                 {
                     "origLen": 22,
                     "pathId": -3536250069603436952
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -6134587960673536179
                 }
             ],
             "pathId": 9038318282899937962,
@@ -638,11 +705,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "ああ、そうだが……何か変なこと言ったか？\r\nさっきのレースからして、君の適性は明らかに短距離だろ？",
-            "enText": "Yeah… did I say something funny? Based on the race you just ran, \nyou have a clear aptitude for short distances, right?",
+            "enText": "That's right... Is there a problem? Judging<n>from that race, you're\nclearly suited to<n>shorter distances...",
             "nextBlock": 35,
             "origClipLength": 244,
+            "voiceIdx": 27,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 242,
@@ -656,17 +725,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なるほどなるほど、そういうお考えでしたか。",
-            "enText": "I see, I see. So that's what you were thinking.",
+            "enText": "I see, I see... Shorter distances, yes...",
             "nextBlock": 36,
             "origClipLength": 103,
+            "voiceIdx": 28,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": 4597580112475311842
-                },
                 {
                     "origLen": 16,
                     "pathId": -3972443963359211142
+                },
+                {
+                    "origLen": 64,
+                    "pathId": 4597580112475311842
                 }
             ],
             "pathId": -1350103563874541291,
@@ -676,17 +747,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "では、お断りさせていただきますッ！！\r\nお声がけありがとうございました！！　お帰りはあちらからッ！！",
-            "enText": "Then I'll have to decline! \nThank you for reaching out to me! The way back's over there!",
+            "enText": "Apologies, but I must decline! Thank you<n>for your interest in the\ntrainer position!<n>Now... go back from whence you came!",
             "nextBlock": 37,
             "origClipLength": 218,
+            "voiceIdx": 29,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -189556978113279757
-                },
                 {
                     "origLen": 16,
                     "pathId": 219446400241115155
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -189556978113279757
                 }
             ],
             "pathId": 2184599729722077166,
@@ -694,11 +767,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "えっ！？　あ、ちょっと……！！",
-            "enText": "Wha!? Ah, hey…!!",
+            "enText": "Huh?! B-but...",
             "nextBlock": 38,
             "origClipLength": 47,
+            "voiceIdx": 30,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 80,
@@ -712,9 +787,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しばらく戸惑っていたが、声をかけていたトレーナーは、\r\nサクラバクシンオーの勢いに気圧され、その場から去ってしまった。",
-            "enText": "Looking quite confused, the trainer who had reached out to her \nwandered away, swept up in Sakura Bakushin O's momentum.",
+            "enText": "Taken aback by her vehement dismissal,<n>the trainer stands there for a\nmoment,<n>before eventually shuffling away.",
             "nextBlock": 39,
             "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 45,
@@ -728,17 +805,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ふぅッ、残念です！！\r\nしかし別れがあれば出会いがあるというもの！",
-            "enText": "Phew, what a shame!! \nBut with every farewell comes a new encounter!",
+            "enText": "<i>Sigh...</i> What a disappointment, but oh<n>well! When one door closes,\nanother is<n>sure to open!",
             "nextBlock": 40,
             "origClipLength": 184,
+            "voiceIdx": 31,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": -3490647710829923344
-                },
                 {
                     "origLen": 20,
                     "pathId": -4517620945436494996
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -3490647710829923344
                 }
             ],
             "pathId": 2117099378778491619,
@@ -748,17 +827,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "というわけで――先ほどからずっとそちらで私を見守って\r\nいらっしゃった貴方！！　私に言いたいことがあるのではッ！？",
-            "enText": "Speaking of — you've been standing there watching me \nfor a while now! Don't you have something to say to me!?",
+            "enText": "Now then... What about you? You've seen<n>what I can do, so surely\n<i>you</i> have<n>something you'd like to say!",
             "nextBlock": 41,
             "origClipLength": 249,
+            "voiceIdx": 32,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -7473736965116300862
-                },
                 {
                     "origLen": 20,
                     "pathId": 7732335925842467556
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -7473736965116300862
                 },
                 {
                     "origLen": 60,
@@ -772,13 +853,15 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "それとも……。もしや貴方も、“スプリンターとして”\r\n私をスカウトするおつもりでしたか？",
-            "enText": "Or… were you planning to recruit me as a \"sprinter\" too?",
+            "enText": "Or... Are you going to try to recruit me as<n>a sprinter too?",
             "nextBlock": 42,
             "origClipLength": 223,
+            "voiceIdx": 33,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "えっと……",
-                    "enText": "Uhh…",
+                    "enText": "Um...",
                     "nextBlock": 42
                 }
             ],
@@ -795,17 +878,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ここで迷いなく『NO』が出ないのならば、\r\n大変心苦しいのですが、お断りせねばなりませんッ！",
-            "enText": "If you can't resolutely give me a \"NO\", then — as much as it \npains me — I must decline!",
+            "enText": "If you have to think about it, then we both<n>know the answer! As much\nas I hate to do<n>this, it's going to be a no from me!",
             "nextBlock": 43,
             "origClipLength": 184,
+            "voiceIdx": 34,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 2829503864753172329
-                },
                 {
                     "origLen": 47,
                     "pathId": -6555218618374920154
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 2829503864753172329
                 }
             ],
             "pathId": -1607809754936858583,
@@ -815,29 +900,31 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "すみません！　私、短距離だけに絞ることは\r\nどぉぉ～～～しても出来ないのですッ！！",
-            "enText": "I'm sorry! I juuuust can't seem to \nlimit myself to short distances!",
+            "enText": "I'm sorry, but I refuse to be limited to just<n>sprints! NO WAY, NO\nHOW!",
             "nextBlock": 44,
             "origClipLength": 195,
+            "voiceIdx": 35,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "どうしてそこまでこだわるんだ？",
-                    "enText": "Why are you so particular about that?",
+                    "enText": "Why are you so hung up on this?",
                     "nextBlock": 44
                 },
                 {
                     "jpText": "どうしてそこまでこだわるの？",
-                    "enText": "Why are you so particular about this?",
+                    "enText": "Why are you so hung up on this?",
                     "nextBlock": 44
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": 5893971518625711368
-                },
-                {
                     "origLen": 20,
                     "pathId": 9186845604883375180
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 5893971518625711368
                 },
                 {
                     "origLen": 36,
@@ -851,17 +938,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "それは、私が学級委員長だからですッ！！！！",
-            "enText": "That's because I am the class president!!!!",
+            "enText": "Because I am class representative!",
             "nextBlock": 45,
             "origClipLength": 120,
+            "voiceIdx": 36,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": -2514965595900291680
-                },
                 {
                     "origLen": 104,
                     "pathId": 6269091547750641381
+                },
+                {
+                    "origLen": 82,
+                    "pathId": -2514965595900291680
                 }
             ],
             "pathId": 7022745226979315221,
@@ -871,24 +960,26 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "ではここで貴方に質問です！！　スプリント戦でないGⅠレースを\r\n列挙してください！　はいどうぞッ！！",
-            "enText": "Here's a question for you! Name a G1 race \nthat is not a sprint race. Go on!",
+            "enText": "Now I have a question for YOU! Can you<n>name all the G1 races that\nAREN'T<n>sprints? Go!",
             "nextBlock": 46,
             "origClipLength": 218,
+            "voiceIdx": 37,
+            "voiceSheetId": "041041002",
             "choices": [
                 {
                     "jpText": "日本ダービー、天皇賞、有馬記念……",
-                    "enText": "Japan Derby, Tenno Sho, Arima Kinen…",
+                    "enText": "Uh, the Japanese Derby, Tenno Sho, Arima\nKinen—",
                     "nextBlock": 46
                 }
             ],
             "animData": [
                 {
-                    "origLen": 26,
-                    "pathId": -513700128784384807
-                },
-                {
                     "origLen": 20,
                     "pathId": -3876424795511721050
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -513700128784384807
                 },
                 {
                     "origLen": 36,
@@ -902,17 +993,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "はいそこまで！　……もうおわかりでしょう？",
-            "enText": "Yes, exactly! …You understand, don't you?",
+            "enText": "STOP! Starting to get the picture?",
             "nextBlock": 47,
             "origClipLength": 106,
+            "voiceIdx": 38,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -5338166404780138678
-                },
                 {
                     "origLen": 16,
                     "pathId": 3001546215637207049
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -5338166404780138678
                 }
             ],
             "pathId": -1148728470495263643,
@@ -922,17 +1015,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "いッッッッぱいあるんですよ！\r\n私が勝たなければならないレースは、短距離以外にもッ！！",
-            "enText": "There are soooo many! \nSo many more than just short distance races I need to win!!",
+            "enText": "There's loads and LOADS of races out<n>there! And I want to win all of\nthem, not<n>just the short-distance ones!",
             "nextBlock": 48,
             "origClipLength": 200,
+            "voiceIdx": 39,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 19,
-                    "pathId": 5534073002733217150
-                },
                 {
                     "origLen": 20,
                     "pathId": 4495974075371871611
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 5534073002733217150
                 },
                 {
                     "origLen": 36,
@@ -946,9 +1041,11 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "先日申し上げましたよね？\r\n私こそは学級委員長、学級委員長こそは私であると！",
-            "enText": "Didn't I tell you the other day? \nI am the class president, and the class president is me!",
+            "enText": "Remember what I said the other day? I<n>exist to be class\nrepresentative, and the<n>class representative role exists for me!",
             "nextBlock": 49,
             "origClipLength": 208,
+            "voiceIdx": 40,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 43,
@@ -962,17 +1059,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "私は、みなさんの模範になるのだとッ！",
-            "enText": "I'm going to be everyone's role model!",
+            "enText": "I want to be a model for ALL students to<n>look up to!",
             "nextBlock": 50,
             "origClipLength": 103,
+            "voiceIdx": 41,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 4985562030347423350
-                },
                 {
                     "origLen": 49,
                     "pathId": -7687258650903712198
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4985562030347423350
                 },
                 {
                     "origLen": 36,
@@ -986,17 +1085,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "『みなさんが模範とするウマ娘』、と聞いて\r\n貴方は何を思い浮かべますか？",
-            "enText": "What do you think of when you hear the \nphrase \"exemplary horsegirl\"?",
+            "enText": "And what type of runner do you think of<n>when you hear that?",
             "nextBlock": 51,
             "origClipLength": 167,
+            "voiceIdx": 42,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 52,
-                    "pathId": 4596375719388911484
-                },
                 {
                     "origLen": 29,
                     "pathId": -5236297762278789002
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 4596375719388911484
                 }
             ],
             "pathId": 4689072831157452936,
@@ -1006,17 +1107,19 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "スプリンター？　マイラー？　ステイヤー？\r\n――いいえ、その全てを兼ね備えてこそ模範！",
-            "enText": "Sprinters? Milers? Stayers? \n—No, exemplary is being all of these!",
+            "enText": "A sprinter? A miler? A stayer? No, you<n>don't think of just one. You\nthink of a<n>runner who can do it all!",
             "nextBlock": 52,
             "origClipLength": 229,
+            "voiceIdx": 43,
+            "voiceSheetId": "041041002",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": -41368468134260363
-                },
                 {
                     "origLen": 90,
                     "pathId": -2949401365976747222
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -41368468134260363
                 },
                 {
                     "origLen": 36,
@@ -1030,9 +1133,11 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "それでこそ！　学級委員長なのですッ！！",
-            "enText": "And that's why! I'm a class president!!",
+            "enText": "And THAT is the kind of runner the class<n>representative should be!",
             "nextBlock": 53,
             "origClipLength": 101,
+            "voiceIdx": 44,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 59,
@@ -1046,9 +1151,11 @@
             "jpName": "サクラバクシンオー",
             "enName": "Sakura Bakushin O",
             "jpText": "なので――すみません。私はこれにてッ！！\r\nバクシンバクシィイーーン！！",
-            "enText": "So, my apologies. I'll leave you to it!! \nBakushin bakushiiin!!",
+            "enText": "So if you'll excuse me, I have places to go,<n>people to see! Bakushin!\nBakushiiin!",
             "nextBlock": 54,
             "origClipLength": 193,
+            "voiceIdx": 45,
+            "voiceSheetId": "041041002",
             "animData": [
                 {
                     "origLen": 58,
@@ -1062,13 +1169,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "誘う前からスカウトを断られてしまった……。",
-            "enText": "I was rejected before even opening my mouth…",
+            "enText": "Before I can manage to fumble together a<n>response, Sakura Bakushin\nO is long<n>gone...",
             "nextBlock": -1,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2571210146575775508,
             "blockIdx": 54
         }
-    ],
-    "humanTl": true,
-    "modified": 1712266081
+    ]
 }

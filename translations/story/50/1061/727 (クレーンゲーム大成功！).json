@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "L2JGHCTV47PQNBZHI4TJREVJ75Y2Z6KC",
+    "version": 6,
+    "bundle": "TMTYODX4QWILNOKJ7FXHWYUXELOPVK4F",
     "type": "story",
     "storyId": "501061727",
     "title": "クレーンゲーム大成功！",
+    "enTitle": "Claw Machine: Great Success!",
     "text": [
         {
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "やるじゃない、トレーナー。\r\nクレーンゲームでも一流の腕を示したわね。",
-            "enText": "Nice work, trainer. You've shown that you're \na top-notch crane player.",
+            "enText": "Now that's what I call first-rate skill! Nice<n>job,\nTrainer.",
             "nextBlock": 2,
             "origClipLength": 90,
+            "voiceIdx": 115,
+            "voiceSheetId": "051061001",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -2474944834347038604
+                    "pathId": 3028961878176339810
                 },
                 {
                     "origLen": 102,
-                    "pathId": 3028961878176339810
+                    "pathId": -2474944834347038604
                 }
             ],
             "pathId": -3764668587716375815,
@@ -29,13 +32,15 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ふふっ。\r\n私の親衛隊がこんなに増えたわ。",
-            "enText": "Hmm. My SS has grown so much.",
+            "enText": "Hehe. Look at the new recruits to my<n>Halo Army!",
             "nextBlock": 3,
             "origClipLength": 72,
+            "voiceIdx": 74,
+            "voiceSheetId": "051061001",
             "choices": [
                 {
                     "jpText": "喜んでくれてよかった",
-                    "enText": "I'm glad you like it.",
+                    "enText": "I'm glad you're happy.",
                     "nextBlock": 3
                 }
             ],
@@ -46,11 +51,11 @@
                 },
                 {
                     "origLen": 102,
-                    "pathId": 3830775766467526275
+                    "pathId": -6883593840068534721
                 },
                 {
                     "origLen": 102,
-                    "pathId": -6883593840068534721
+                    "pathId": 3830775766467526275
                 }
             ],
             "pathId": 4201818285855798548,
@@ -60,21 +65,23 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "ええ。このくらい当然とはいえ、あなたには\r\n私から栄誉を授けられる権利をあげるわ！",
-            "enText": "Yes. Even though you deserve this much, you \ndeserve the right to be honored by me!",
+            "enText": "Of course I'm happy! Here, I'll grant you<n>the right\nto receive my compliments!",
             "nextBlock": 4,
             "origClipLength": 98,
+            "voiceIdx": 61,
+            "voiceSheetId": "051061001",
             "animData": [
                 {
                     "origLen": 19,
                     "pathId": -8973651818552046721
                 },
                 {
-                    "origLen": 114,
-                    "pathId": -2445414067934586301
-                },
-                {
                     "origLen": 118,
                     "pathId": 5693699840225003109
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -2445414067934586301
                 }
             ],
             "pathId": 4198428015204270896,
@@ -84,9 +91,11 @@
             "jpName": "キングヘイロー",
             "enName": "King Halo",
             "jpText": "さあ、キングとトレーナーの凱旋よ！\r\nおーっほっほっほっほ！！",
-            "enText": "Now for the triumphant return of our \nking and trainer! Oh-ho-ho-ho!",
+            "enText": "Now, let's make our triumphant return!<n>Ohohoho!",
             "nextBlock": 5,
             "origClipLength": 85,
+            "voiceIdx": 1,
+            "voiceSheetId": "051061001",
             "animData": [
                 {
                     "origLen": 89,
@@ -94,11 +103,11 @@
                 },
                 {
                     "origLen": 102,
-                    "pathId": -2233311991367430371
+                    "pathId": 1662727826106345318
                 },
                 {
                     "origLen": 102,
-                    "pathId": 1662727826106345318
+                    "pathId": -2233311991367430371
                 }
             ],
             "pathId": 8038579305763599077,
@@ -108,9 +117,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "――大満足の結果だった！",
-            "enText": "—That was very satisfying!",
+            "enText": "That couldn't have gone better!",
             "nextBlock": -1,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 89,
@@ -118,16 +129,15 @@
                 },
                 {
                     "origLen": 102,
-                    "pathId": -7315052222696485360
+                    "pathId": -6851517078388033491
                 },
                 {
                     "origLen": 102,
-                    "pathId": -6851517078388033491
+                    "pathId": -7315052222696485360
                 }
             ],
             "pathId": -3854980518455825537,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662157742
+    ]
 }

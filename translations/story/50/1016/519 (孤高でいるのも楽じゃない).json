@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "LH7UXEQID5QIMGRF2XEGZ5C6KET2X74R",
+    "version": 6,
+    "bundle": "UJG43A5JIKKOFO3FQJEXUA3PQ4MHNE5P",
     "type": "story",
     "storyId": "501016519",
     "title": "孤高でいるのも楽じゃない",
+    "enTitle": "It's Not Easy Being a Lone Wolf",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日の昼休み、トレーナー室で\r\n昼食をとろうとしていると……。",
-            "enText": "One day at lunchtime, I was in the trainer's \noffice about to have lunch. ……",
+            "enText": "One day, I'm about to eat lunch in my<n>office,\nwhen...",
             "nextBlock": 2,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8024276961644471046,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（――ガラガラガラッ！）",
-            "enText": "(― rattle rattle rattle!)",
+            "enText": "<i>Rattle, rattle, rattle!</i>",
             "nextBlock": 3,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 263865203852608131,
             "blockIdx": 2
         },
@@ -29,29 +34,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "チッ……ダメか。",
-            "enText": "Tsk.…… no good.",
+            "enText": "Tch! No good.",
             "nextBlock": 4,
             "origClipLength": 55,
+            "voiceIdx": 60,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "俺、ダメなの？",
-                    "enText": "Am I no good?",
+                    "enText": "Are you talking about me?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "私、ダメなの？",
-                    "enText": "Am I not good enough?",
+                    "enText": "Are you talking about me?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
                     "origLen": 66,
-                    "pathId": 6243970672790810147
+                    "pathId": -4993407380670817624
                 },
                 {
                     "origLen": 66,
-                    "pathId": -4993407380670817624
+                    "pathId": 6243970672790810147
                 }
             ],
             "pathId": -8165216003121532709,
@@ -61,17 +68,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "ダメだ。なぜここにいる……。",
-            "enText": "No good. Why are you here: ……",
+            "enText": "Yeah. Why do you have to be here?",
             "nextBlock": 5,
             "origClipLength": 63,
+            "voiceIdx": 99,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -1567166962363137859
-                },
                 {
                     "origLen": 74,
                     "pathId": 3029099146335379197
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1567166962363137859
                 }
             ],
             "pathId": -3036212068404167708,
@@ -81,24 +90,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "ここもダメとなると、\r\n残りは体育館裏くらいか……？",
-            "enText": "If not here either, the only thing left is \nthe back of the gym. ……?",
+            "enText": "If I can't stay here, the only other place<n>is behind\nthe gym...",
             "nextBlock": 6,
             "origClipLength": 78,
+            "voiceIdx": 34,
+            "voiceSheetId": "051016001",
             "choices": [
                 {
                     "jpText": "何かできることはない？",
-                    "enText": "Is there anything I can do?",
+                    "enText": "Something I can help you with?",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 51,
-                    "pathId": 8051457280523021977
-                },
-                {
                     "origLen": 89,
                     "pathId": 7001940925391147966
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 8051457280523021977
                 }
             ],
             "pathId": 1389691967192246611,
@@ -108,17 +119,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……それなら、1人にさせてくれ。",
-            "enText": "…… Then let me have one.",
+            "enText": "...You can let me be by myself.",
             "nextBlock": 7,
             "origClipLength": 65,
+            "voiceIdx": 21,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": 6397808656298551489
-                },
                 {
                     "origLen": 76,
                     "pathId": -2518525292149044328
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 6397808656298551489
                 }
             ],
             "pathId": 4182216438253226675,
@@ -128,17 +141,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "教室、広場、屋上……\r\nどこも人だらけでうるさくて敵わん……。",
-            "enText": "Classrooms, plazas, rooftops…… everywhere are \nfull of people and noisy and unbeatable ……",
+            "enText": "Classrooms, the plaza, the roof... There's<n>people\neverywhere. I can't get any<n>peace.",
             "nextBlock": 8,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 4268394551933808888
-                },
                 {
                     "origLen": 96,
                     "pathId": -7177731636240586513
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4268394551933808888
                 }
             ],
             "pathId": -8938249390027470297,
@@ -148,17 +163,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そういう事ならばと、\r\nカフェに移動しようとしたのだが――",
-            "enText": "I was about to move to the café, if that's \nwhat you mean.",
+            "enText": "Grasping the situation, I decide to move<n>myself\nto a cafe, when...",
             "nextBlock": 9,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -1260130104089253427
+                    "pathId": -7523231253743362798
                 },
                 {
                     "origLen": 93,
-                    "pathId": -7523231253743362798
+                    "pathId": -1260130104089253427
                 }
             ],
             "pathId": 798536087008297990,
@@ -168,17 +185,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（キーンコーンカーンコーン）",
-            "enText": "(Keen kettle kettle kettle kettle kettle \nkettle kettle kettle)",
+            "enText": "<i>Ding-dong, dang-dong</i>",
             "nextBlock": 10,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 74,
-                    "pathId": -5354348007029046708
+                    "pathId": -4440233601772737068
                 },
                 {
                     "origLen": 74,
-                    "pathId": -4440233601772737068
+                    "pathId": -5354348007029046708
                 }
             ],
             "pathId": -1123337859445510437,
@@ -188,22 +207,23 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………クソ。",
-            "enText": "……… Shit.",
+            "enText": "...Damn.",
             "nextBlock": -1,
             "origClipLength": 54,
+            "voiceIdx": 18,
+            "voiceSheetId": "051016001",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": -1349755164551649359
-                },
                 {
                     "origLen": 65,
                     "pathId": -990078285025975043
+                },
+                {
+                    "origLen": 14,
+                    "pathId": -1349755164551649359
                 }
             ],
             "pathId": -3866796100973174073,
             "blockIdx": 10
         }
-    ],
-    "modified": 1657555056
+    ]
 }

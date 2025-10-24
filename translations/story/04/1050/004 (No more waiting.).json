@@ -1,27 +1,32 @@
 {
-    "version": 5,
-    "bundle": "K2WIQV73LBVHYHZCH3WNPOPRTORMRKZ2",
+    "version": 6,
+    "bundle": "B7KWMJTAG4N6J5GPOS73VUX6VTE4P3Q3",
     "type": "story",
     "storyId": "041050004",
     "title": "No more waiting.",
+    "enTitle": "No More Waiting",
     "text": [
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "――そういえば、聞きました？\r\nほら、週末の模擬レースの件。",
-            "enText": "—Oh, by the way, did you hear that? \nYou see, the mock race weekend.",
+            "enText": "Hey, did you hear? You know, about the<n>scrimmage this weekend.",
             "nextBlock": 2,
             "origClipLength": 137,
+            "voiceIdx": 0,
+            "voiceSheetId": "041050004",
             "pathId": 4079582750380524269,
             "blockIdx": 1
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "ああ、ナリタタイシンが出るというやつか。\r\n今一度可能性を見極める場、と聞いたが……。",
-            "enText": "Ah, the one that Narita Taisin is leaving. A \nplace to look at the possibilities once \nagain, I hear…",
+            "enText": "Right, the one Narita Taishin's going to<n>race in. \"Another chance to\nsee what she's<n>really made of,\" was it?",
             "nextBlock": 3,
             "origClipLength": 241,
+            "voiceIdx": 1,
+            "voiceSheetId": "041050004",
             "pathId": -8994446802233593350,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウイニングチケットが連日、学園中に響く大声で\r\n触れ回ってくれたおかげで、模擬レースについては知れ渡っていた。",
-            "enText": "Thanks to Winning Ticket's loud, daily \npublicity that echoed throughout the school, \nword was out about the mock race.",
+            "enText": "Everyone at the academy knows about the<n>scrimmage thanks to\nWinning Ticket and<n>her days-long spree of shouting all around<n>\ncampus.",
             "nextBlock": 4,
             "origClipLength": 116,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8386451989807658752,
             "blockIdx": 3
         },
@@ -39,9 +46,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "だが、周囲の評判はというと――",
-            "enText": "But what about the reputation \nof those around her?",
+            "enText": "But the reactions to the big news are<n>mixed.",
             "nextBlock": 5,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5456830401388302,
             "blockIdx": 4
         },
@@ -49,9 +58,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "精緻な理論派のビワハヤヒデに、爆発力のあるウイニングチケット。\r\n他の出走者たちも、実力を上げてきている子たちばかり……。",
-            "enText": "Biwa Hayahide, an exquisite theorist, and Winning Chicken, an \nexplosive force. The other runners are all children who have \nbeen improving their abilities…",
+            "enText": "Biwa Hayahide is precise, and Winning<n>Ticket runs like a rocket. And\nit isn't just<n>them... The other racers have been training<n>just as hard.",
             "nextBlock": 6,
             "origClipLength": 313,
+            "voiceIdx": 2,
+            "voiceSheetId": "041050004",
             "pathId": -1945127561069914721,
             "blockIdx": 5
         },
@@ -59,9 +70,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "正直、結果は見えていると思うわ。……それよりあの子、\r\nまた無茶な走りをして、ケガしないといいんだけれど。",
-            "enText": "Frankly, I think we all know the \noutcome. I hope she doesn't run recklessly \nagain and get hurt.",
+            "enText": "There's no way Taishin's winning this. I just<n>hope she doesn't overdo it\nand get hurt.",
             "nextBlock": 7,
             "origClipLength": 324,
+            "voiceIdx": 3,
+            "voiceSheetId": "041050004",
             "pathId": -3388252540897969391,
             "blockIdx": 6
         },
@@ -69,24 +82,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "…………。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 8,
             "origClipLength": 42,
+            "voiceIdx": 4,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "タイシン――",
-                    "enText": "Taishin—",
+                    "enText": "Taishin?",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -8147882566485962558
-                },
-                {
                     "origLen": 135,
                     "pathId": 1589535775305972372
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8147882566485962558
                 }
             ],
             "pathId": -8642162221279505331,
@@ -96,17 +111,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "険しい顔で俯くナリタタイシンに、思わず声をかける。",
-            "enText": "I call out to Narita Taisin, who is lying \nface down with a grim look on her face.",
+            "enText": "I try approaching the glum-looking racer.",
             "nextBlock": 9,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -3787368963138899826
-                },
                 {
                     "origLen": 21,
                     "pathId": -7054677171532777106
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3787368963138899826
                 }
             ],
             "pathId": -8308401885438597308,
@@ -116,18 +133,20 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "距離も近い間柄のようだし、先程語られていたビワハヤヒデや\r\nウイニングチケットの強さを最もよく知っているのは、彼女だろう。",
-            "enText": "She is probably the one who knows \nthe strength of Biwa Hayahide and \nWinning Ticket best.",
+            "enText": "She's close with Biwa Hayahide and<n>Winning Ticket, so she probably\nknows<n>more about their much-talked-about<n>abilities than most.",
             "nextBlock": 10,
             "origClipLength": 124,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "プレッシャーを感じてるのか？",
-                    "enText": "Feeling pressure?",
+                    "enText": "You must be feeling the pressure.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "プレッシャーを感じてる？",
-                    "enText": "Feeling pressure?",
+                    "enText": "You must be feeling the pressure.",
                     "nextBlock": 10
                 }
             ],
@@ -144,17 +163,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "…………うるさい。",
-            "enText": "… noisy.",
+            "enText": "Who asked you?",
             "nextBlock": 11,
             "origClipLength": 34,
+            "voiceIdx": 5,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 181,
-                    "pathId": 3006596093531821686
-                },
                 {
                     "origLen": 81,
                     "pathId": 6743991246340284098
+                },
+                {
+                    "origLen": 181,
+                    "pathId": 3006596093531821686
                 }
             ],
             "pathId": -2539178413041092243,
@@ -164,24 +185,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なおも顔を強張らせるナリタタイシン。けれど、自分の頭の中には、\r\n映像で見た彼女の見事な末脚がまだ焼き付いていて――",
-            "enText": "Narita Taisin's face is still tense. However, the \nimage of her magnificent final leg that I had seen \non film was still burned into my mind…",
+            "enText": "She looks grim, but I still remember that<n>video—her fiery sprint down\nthe<n>homestretch.",
             "nextBlock": 12,
             "origClipLength": 120,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……位置取り争いに混ざる必要なんかない",
-                    "enText": "There's no need to get mixed up in \nthe battle for position…",
+                    "enText": "You don't need to get caught up in the fight for\nposition.",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 102,
-                    "pathId": 1641099075258454663
-                },
-                {
                     "origLen": 195,
                     "pathId": -6060904766033843680
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 1641099075258454663
                 }
             ],
             "pathId": 9214088512942118254,
@@ -191,17 +214,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "は？　……何、偉そうに。",
-            "enText": "Huh? …What, you're a big deal.",
+            "enText": "Excuse me? Who do you think you're<n>talking to?",
             "nextBlock": 13,
             "origClipLength": 89,
+            "voiceIdx": 6,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -8256459691083424127
-                },
                 {
                     "origLen": 20,
                     "pathId": 7846895238973010291
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8256459691083424127
                 }
             ],
             "pathId": -6614361957272372170,
@@ -211,29 +236,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "みっともないから、何もせずに負けろって……！？",
-            "enText": "It's disgraceful and you should lose without \ndoing anything about it…!",
+            "enText": "You mean I'm already a disgrace? So I<n>should just lose without making\na damn<n>fuss?!",
             "nextBlock": 14,
             "origClipLength": 91,
+            "voiceIdx": 7,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "違う、そうすれば勝てるからだ！",
-                    "enText": "No, because if you do, you win!",
+                    "enText": "Wait! I mean, if you don't fight, you can win!",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "違う、そうすれば勝てるからだよ！",
-                    "enText": "No, because if you do, you win!",
+                    "enText": "Wait! I mean, if you don't fight, you can win!",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 85,
-                    "pathId": -1088471832418716854
-                },
-                {
                     "origLen": 172,
                     "pathId": -8970038099711040693
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -1088471832418716854
                 }
             ],
             "pathId": 8377419021897994253,
@@ -243,24 +270,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……っ、は？",
-            "enText": "… what?",
+            "enText": "Huh?",
             "nextBlock": 15,
             "origClipLength": 65,
+            "voiceIdx": 8,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "序盤はしっかり脚をためよう",
-                    "enText": "Hold your legs tight in the \nearly stages of the race.",
+                    "enText": "Take it slow in the beginning.",
                     "nextBlock": 15
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": -1910783379027911451
-                },
-                {
                     "origLen": 20,
                     "pathId": 1620869224248032661
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -1910783379027911451
                 }
             ],
             "pathId": -8616831315617970319,
@@ -270,29 +299,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "そんなの……でもっ、ハヤヒデみたいなデカいのに\r\n差つけられまくって、逃げ切られたら……！",
-            "enText": "If a big guy like Hayahide gets a \ngap between you and her and runs away \nfrom you, you can't…!",
+            "enText": "That's insane... If I let the big runners like<n>Hayahide get ahead, I'll\nnever catch up!",
             "nextBlock": 16,
             "origClipLength": 200,
+            "voiceIdx": 9,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "末脚のキレなら、君は誰にも負けない！！",
-                    "enText": "When it comes to the sharpness of your end \nlegs, you're second to none!",
+                    "enText": "With your breakaway speed, you can overtake\nanyone!",
                     "nextBlock": 16
                 },
                 {
                     "jpText": "末脚のキレなら、貴方は誰にも負けない！！",
-                    "enText": "When it comes to the sharpness of your end \nlegs, you are second to none!",
+                    "enText": "With your breakaway speed, you can overtake\nanyone!",
                     "nextBlock": 16
                 }
             ],
             "animData": [
                 {
-                    "origLen": 177,
-                    "pathId": -9208610263314846756
-                },
-                {
                     "origLen": 20,
                     "pathId": 4109666079452628659
+                },
+                {
+                    "origLen": 177,
+                    "pathId": -9208610263314846756
                 }
             ],
             "pathId": 5730631679189768730,
@@ -302,9 +333,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "――っ……。",
-            "enText": "—…",
+            "enText": "...",
             "nextBlock": 17,
             "origClipLength": 45,
+            "voiceIdx": 10,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 89,
@@ -318,17 +351,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……アンタ、マジで、何……。\r\n意味わかんない、暑っ苦しい……。",
-            "enText": "… Anta, seriously, what… I don't \nget it, it's so hot and bitter…",
+            "enText": "I don't get it... What are <i>you</i> getting all<n>bothered for?",
             "nextBlock": 18,
             "origClipLength": 294,
+            "voiceIdx": 11,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -6429249978916719845
+                    "pathId": -8670406698914983326
                 },
                 {
                     "origLen": 102,
-                    "pathId": -8670406698914983326
+                    "pathId": -6429249978916719845
                 }
             ],
             "pathId": 4058691055635602469,
@@ -338,9 +373,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "十全に伝えられたかは、わからない。",
-            "enText": "I don't know if it was fully communicated.",
+            "enText": "I'm not sure if she really got my advice.",
             "nextBlock": 19,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8666323663108812996,
             "blockIdx": 18
         },
@@ -348,9 +385,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "それでも――レースのゲートは開く。",
-            "enText": "Still - the race gate opens.",
+            "enText": "But it's too late now—the gates are<n>opening!",
             "nextBlock": 20,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6751598223158491377,
             "blockIdx": 19
         },
@@ -358,29 +397,35 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（――ガコン！！）",
-            "enText": "(—gakon!!!)",
+            "enText": "<i>Clank!</i>",
             "nextBlock": 21,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4256772412789011486,
             "blockIdx": 20
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "おっ……ビワハヤヒデ、快調に飛ばしてるな。\r\n先頭集団の好位置につけたか。",
-            "enText": "Whoa… Biwa Hayahide, you're \nflying fast. She seems to be in a good \nposition in the lead pack.",
+            "enText": "Wow... Biwa Hayahide's off in excellent<n>form. She's got a nice\nposition in the front.",
             "nextBlock": 22,
             "origClipLength": 195,
+            "voiceIdx": 12,
+            "voiceSheetId": "041050004",
             "pathId": -7542218003892382250,
             "blockIdx": 21
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "ウイニングチケットも、顔見知りが多いレースだからか、\r\n今日は調子がよさそうですね！　終盤が楽しみだなぁ。",
-            "enText": "Winning Ticket also looks good today, perhaps because \nit's a race with a lot of familiar faces! I'm looking \nforward to the end of the race.",
+            "enText": "Winning Ticket too. Must be in a good<n>mood 'cause she knows so\nmany of the<n>racers! I can't wait to see her in the last<n>stretch!",
             "nextBlock": 23,
             "origClipLength": 232,
+            "voiceIdx": 13,
+            "voiceSheetId": "041050004",
             "pathId": 2362687245408591605,
             "blockIdx": 22
         },
@@ -388,13 +433,15 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "……あら？　ナリタタイシン、あんな後ろに……\r\nまさか、スタートにミスでもあったのかしら？",
-            "enText": "… Oh my? Narita Taishin, that \nfar back… Don't tell me there \nwas a mistake at the start?",
+            "enText": "Huh? Narita Taishin's way in back... I<n>wonder if she tripped up her\nstart.",
             "nextBlock": 24,
             "origClipLength": 270,
+            "voiceIdx": 14,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "……！",
-                    "enText": "…!",
+                    "enText": "...!",
                     "nextBlock": 24
                 }
             ],
@@ -405,9 +452,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "はっ……はっ……はっ……。",
-            "enText": "Ha… ha… ha… ha…",
+            "enText": "<i>Huff... Puff...</i>",
             "nextBlock": 25,
             "origClipLength": 90,
+            "voiceIdx": 15,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 136,
@@ -421,17 +470,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（……くそ、焦る。前がどんどん塞がれてって……\r\n壁みたいに見える……）",
-            "enText": "(… Damn, I'm in a hurry. The \nfront is getting blocked up and… \nlooks like a wall…)",
+            "enText": "(Crap, I can't take this. The front's getting<n>blocked off... It's like a\nwall.)",
             "nextBlock": 26,
             "origClipLength": 205,
+            "voiceIdx": 16,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 239,
-                    "pathId": -281758400653968580
-                },
                 {
                     "origLen": 31,
                     "pathId": -1646901595444534486
+                },
+                {
+                    "origLen": 239,
+                    "pathId": -281758400653968580
                 }
             ],
             "pathId": -1675270149484851475,
@@ -441,17 +492,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（けど――）",
-            "enText": "（But—)",
+            "enText": "(But...)",
             "nextBlock": 27,
             "origClipLength": 25,
+            "voiceIdx": 17,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 211,
-                    "pathId": 4724046743530616566
-                },
                 {
                     "origLen": 21,
                     "pathId": 3588317108005605228
+                },
+                {
+                    "origLen": 211,
+                    "pathId": 4724046743530616566
                 }
             ],
             "pathId": 2180791456413658569,
@@ -461,9 +514,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『――……位置取り争いに混ざる必要なんかない』",
-            "enText": "There's no need to get mixed up \nin the battle for position.\"",
+            "enText": "\"You don't need to get caught up in the<n>fight for position.\"",
             "nextBlock": 28,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -477,9 +532,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『――序盤はしっかり脚をためよう』",
-            "enText": "'—Steady your legs in the \nearly stages of the race.",
+            "enText": "\"Take it slow in the beginning.\"",
             "nextBlock": 29,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -493,9 +550,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『違う、そうすれば勝てるからだ！』",
-            "enText": "'No, because if you do, you'll win!'",
+            "enText": "\"Wait! I mean, if you don't fight, you can<n>win!\"",
             "nextBlock": 30,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -509,9 +568,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『違う、そうすれば勝てるからだよ！』",
-            "enText": "'No, because if you do, you'll win!",
+            "enText": "\"Wait! I mean, if you don't fight, you can<n>win!\"",
             "nextBlock": 31,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -525,9 +586,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『末脚のキレなら、君は誰にも負けない！！』",
-            "enText": "If you've got the edge in the end \ngame, you're second to none!",
+            "enText": "\"With your breakaway speed, you can<n>overtake anyone!\"",
             "nextBlock": 32,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -541,9 +604,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『末脚のキレなら、貴方は誰にも負けない！！』",
-            "enText": "When it comes to the sharpness of your end \nlegs, you are second to none!",
+            "enText": "\"With your breakaway speed, you can<n>overtake anyone!\"",
             "nextBlock": 33,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -557,9 +622,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……ったく。",
-            "enText": "… damn it.",
+            "enText": "Fine.",
             "nextBlock": 34,
             "origClipLength": 30,
+            "voiceIdx": 18,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 116,
@@ -571,11 +638,13 @@
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "きた、第4コーナー……！\r\nあ、ウイニングチケットが上がってきましたよっ！！",
-            "enText": "Here it comes, 4th corner…! \nAh, the winning ticket is up!",
+            "enText": "Here it is, the last corner! Ah, Winning<n>Ticket's coming up fast!",
             "nextBlock": 35,
             "origClipLength": 132,
+            "voiceIdx": 19,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 176,
@@ -593,17 +662,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "どぉりゃああああああああああーーーーーーッ！！\r\n全・力・ダァーーーーーーッシュ！！",
-            "enText": "All power dahhhhhh!",
+            "enText": "RAAAAAGH! FULL SPEED AHEEEAD!",
             "nextBlock": 36,
             "origClipLength": 323,
+            "voiceIdx": 20,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 144,
-                    "pathId": -7917984757057466697
-                },
                 {
                     "origLen": 20,
                     "pathId": 1643671316914092288
+                },
+                {
+                    "origLen": 144,
+                    "pathId": -7917984757057466697
                 },
                 {
                     "origLen": 410,
@@ -617,21 +688,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ふ、想定通りだよ、ウイニングチケット……！",
-            "enText": "Huh, just as I assumed, \nWinning Ticket…!",
+            "enText": "Heh, as I predicted, Winning Ticket!",
             "nextBlock": 37,
             "origClipLength": 94,
+            "voiceIdx": 21,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 144,
                     "pathId": -5488099660727408736
                 },
                 {
-                    "origLen": 61,
-                    "pathId": -593973638175592269
-                },
-                {
                     "origLen": 21,
                     "pathId": 7843821470046968548
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -593973638175592269
                 }
             ],
             "pathId": -5668054389853159829,
@@ -639,11 +712,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "ビワハヤヒデに、ウイニングチケット！\r\nやはり最後はこの二強対決か……！？",
-            "enText": "Biwa Hayahide and Winning Chicken! After \nall, the final showdown will be between \nthese two powerhouses…!",
+            "enText": "It's Biwa Hayahide and Winning Ticket!<n>Will it come down to a fight\nbetween<n>those two powerhouses?!",
             "nextBlock": 38,
             "origClipLength": 166,
+            "voiceIdx": 22,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 173,
@@ -661,9 +736,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "――！　いえ、外から……！！",
-            "enText": "I—! No, from the outside…!",
+            "enText": "Wait! From the outside!",
             "nextBlock": 39,
             "origClipLength": 84,
+            "voiceIdx": 23,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 173,
@@ -681,9 +758,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "――はぁああっ！！",
-            "enText": "—Aaahhh!",
+            "enText": "Haaaaargh!",
             "nextBlock": 40,
             "origClipLength": 36,
+            "voiceIdx": 24,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 12,
@@ -694,12 +773,12 @@
                     "pathId": 3873464780267136255
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 5852458582816961185
-                },
-                {
                     "origLen": 76,
                     "pathId": -5673425948076540361
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5852458582816961185
                 }
             ],
             "pathId": 7355484988774746134,
@@ -709,17 +788,19 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "ナリタタイシン……！？\r\nな、なんて末脚のキレなの！？",
-            "enText": "Narita Taisin…! What a \nsharpness in the end legs!",
+            "enText": "Narita Taishin?! Look at that burst of<n>speed!",
             "nextBlock": 41,
             "origClipLength": 142,
+            "voiceIdx": 25,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 169,
-                    "pathId": 8776530654448130247
-                },
                 {
                     "origLen": 21,
                     "pathId": 2858289828546037600
+                },
+                {
+                    "origLen": 169,
+                    "pathId": 8776530654448130247
                 }
             ],
             "pathId": -3876570077575809865,
@@ -729,17 +810,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（そうだ、ボケっとすんな、目ぇ逸らすな！\r\nアタシを見ろ、アタシを見ろっ！！）",
-            "enText": "（That's right, don't stand there, don't look \naway! Look at me, look at me!)",
+            "enText": "(This is it—don't lose focus! Keep your<n>eyes on me! Watch me do\nthis!)",
             "nextBlock": 42,
             "origClipLength": 168,
+            "voiceIdx": 26,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 184,
-                    "pathId": -5152657705045899972
-                },
                 {
                     "origLen": 20,
                     "pathId": 7723252504826969601
+                },
+                {
+                    "origLen": 184,
+                    "pathId": -5152657705045899972
                 }
             ],
             "pathId": -9182544558749438390,
@@ -749,17 +832,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（アタシは――レースを走るウマ娘、ナリタタイシンだ……！）",
-            "enText": "(Atashi—I'm the horse girl who runs the \nrace, Narita Taisin…!)",
+            "enText": "(I'm Narita Taishin, a trueborn racer!)",
             "nextBlock": 43,
             "origClipLength": 147,
+            "voiceIdx": 27,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 184,
-                    "pathId": 4627383998875775185
-                },
                 {
                     "origLen": 102,
                     "pathId": 6986214669613582247
+                },
+                {
+                    "origLen": 184,
+                    "pathId": 4627383998875775185
                 }
             ],
             "pathId": 4182615789529196395,
@@ -769,17 +854,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ぁああああああああっ！！",
-            "enText": "Aaaaahhhh!",
+            "enText": "Aaaaagh!",
             "nextBlock": 44,
             "origClipLength": 104,
+            "voiceIdx": 28,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": -8447223183779349977
-                },
                 {
                     "origLen": 93,
                     "pathId": 894119977729830731
+                },
+                {
+                    "origLen": 129,
+                    "pathId": -8447223183779349977
                 }
             ],
             "pathId": 7041696415914037664,
@@ -789,17 +876,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "それは、映像で見たものよりもさらに鋭さを増した……\r\n意志を胸に努力を続けた彼女が勝ち得た、確かな刃だった。",
-            "enText": "It was a solid blade that she had won by continuing \nto work hard with her… will, which was even sharper \nthan what she had seen in the video.",
+            "enText": "She's even more focused than in the<n>video... Like a blade forged from\nall her<n>willpower and perseverance, she cuts<n>straight to the front.",
             "nextBlock": 45,
             "origClipLength": 115,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 131,
-                    "pathId": -5694380877460142965
-                },
                 {
                     "origLen": 21,
                     "pathId": 9130445676440853508
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -5694380877460142965
                 }
             ],
             "pathId": -7624109958423472036,
@@ -809,9 +898,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――誰もが息を呑む程の接戦を制したのは、ナリタタイシン。\r\n次いでビワハヤヒデ、ウイニングチケットがゴールした。",
-            "enText": "—The winner of the close race that took everyone's \nbreath away was NARITA TAISHIN. Biwa Hayahide \nand Winning Ticket came in next.",
+            "enText": "Everyone holds their breath as it ends, and<n>Narita Taishin wins a close\nfinish. Following<n>her are Biwa Hayahide and Winning<n>Ticket.",
             "nextBlock": 46,
             "origClipLength": 118,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
@@ -825,9 +916,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタタイシンというウマ娘の持つ可能性を\r\n十二分に示せた、素晴らしいレースとなったのだ……。",
-            "enText": "It was a great race that more than \ndemonstrated the potential of Narita Taisin, \na horse girl…",
+            "enText": "It's more than enough to make her full<n>potential known—a truly\nstunning race.",
             "nextBlock": 47,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6678051092168169297,
             "blockIdx": 46
         },
@@ -835,9 +928,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "……どうやら、私もまだまだ修行が足りなかったようね。\r\nあなたほどのウマ娘を、見誤るだなんて――",
-            "enText": "… Apparently, I haven't had enough \ntraining yet. I can't believe I misjudged a \nhorse girl as good as you.",
+            "enText": "Well, looks like I still have some studying<n>to do. How could I misjudge\na racer like<n>her?",
             "nextBlock": 48,
             "origClipLength": 309,
+            "voiceIdx": 29,
+            "voiceSheetId": "041050004",
             "pathId": 7303975450424985040,
             "blockIdx": 47
         },
@@ -845,25 +940,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "……ぁああああああーーーーーッ！！\r\n悔しぃぃいい～～～～いッ！！",
-            "enText": "…aaaaaahhhhh!!!! I'm \nso sorry ～～～～ yikes!!!!",
+            "enText": "Aaaaagh! I looost!",
             "nextBlock": 49,
             "origClipLength": 277,
+            "voiceIdx": 30,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -3465982518063966658
-                },
                 {
                     "origLen": 20,
                     "pathId": 3116235677084554197
                 },
                 {
-                    "origLen": 87,
-                    "pathId": -7628143865809714877
+                    "origLen": 60,
+                    "pathId": -3465982518063966658
                 },
                 {
                     "origLen": 193,
                     "pathId": -3173718658138818861
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -7628143865809714877
                 }
             ],
             "pathId": -3977275387310289932,
@@ -873,25 +970,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……それ、やめて。\r\nレース直後にアンタの大声とか、マジでキツい。",
-            "enText": "… Don't do that. It's really hard, like \nAnta's loud voice right after the race.",
+            "enText": "Knock it off. I can't deal with your painful<n>whining so soon after a\nrace.",
             "nextBlock": 50,
             "origClipLength": 172,
+            "voiceIdx": 31,
+            "voiceSheetId": "041050004",
             "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -4344842258745908366
+                },
                 {
                     "origLen": 142,
                     "pathId": -7658954631848326424
                 },
                 {
                     "origLen": 20,
-                    "pathId": -4344842258745908366
+                    "pathId": -5042851999767854504
                 },
                 {
                     "origLen": 98,
                     "pathId": 5577723588169133679
-                },
-                {
-                    "origLen": 20,
-                    "pathId": -5042851999767854504
                 }
             ],
             "pathId": -7167459451455987390,
@@ -901,25 +1000,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だってだってだってッ！　――アタシ、全力だったんだよ！\r\n今日だって、いつもみたいに勝つぞーって！",
-            "enText": "Because, because, because! —I was \ngiving it my all! I was determined \nto win today like I always do!",
+            "enText": "But, but, but! I went all out! I really<n>thought I was gonna be all like,\n\"Yay, I<n>won,\" like always!",
             "nextBlock": 51,
             "origClipLength": 273,
+            "voiceIdx": 32,
+            "voiceSheetId": "041050004",
             "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3335075731691420571
+                },
                 {
                     "origLen": 89,
                     "pathId": -6682456103555102923
                 },
                 {
                     "origLen": 20,
-                    "pathId": -3335075731691420571
+                    "pathId": 7834558495563432704
                 },
                 {
                     "origLen": 456,
                     "pathId": -645218315615559523
-                },
-                {
-                    "origLen": 20,
-                    "pathId": 7834558495563432704
                 }
             ],
             "pathId": -4206334904297620990,
@@ -929,17 +1030,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "でも……それでもキミに追いつけなかったッ！！\r\n気持ちがまだメラメラ燃えてる……！！",
-            "enText": "But… still couldn't catch \nup to you! My feelings are still \nburning like crazy…!!!",
+            "enText": "But... I just couldn't keep up with you! I'm<n>still burning with\nexcitement!",
             "nextBlock": 52,
             "origClipLength": 271,
+            "voiceIdx": 33,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 94,
-                    "pathId": -2301220595722176182
-                },
                 {
                     "origLen": 98,
                     "pathId": 7276940150950695922
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2301220595722176182
                 },
                 {
                     "origLen": 280,
@@ -953,25 +1056,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だから！！　絶対絶対ぜぇっ…………たい！！\r\nまた全力でレースしよう、タイシン！！！！",
-            "enText": "So!!! Absolutely, absolutely, absolutely, \nabsolutely…!!!! Let's race as \nhard as we can again, Taishin. ！！！！",
+            "enText": "That's why! We should definitely, no,<n><i>ABSOLUTELY</i> race again with\neverything<n>we've got!",
             "nextBlock": 53,
             "origClipLength": 268,
+            "voiceIdx": 34,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 4815527665516628805
-                },
                 {
                     "origLen": 101,
                     "pathId": -513770445563098279
                 },
                 {
-                    "origLen": 335,
-                    "pathId": -1494836692155471973
+                    "origLen": 60,
+                    "pathId": 4815527665516628805
                 },
                 {
                     "origLen": 87,
                     "pathId": -964112780070499350
+                },
+                {
+                    "origLen": 335,
+                    "pathId": -1494836692155471973
                 }
             ],
             "pathId": 6836352585666871658,
@@ -981,25 +1086,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "チケット――",
-            "enText": "TICKETS—",
+            "enText": "Ticket...",
             "nextBlock": 54,
             "origClipLength": 39,
+            "voiceIdx": 35,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": -622085550611756468
-                },
                 {
                     "origLen": 101,
                     "pathId": 4902211731398678297
                 },
                 {
-                    "origLen": 266,
-                    "pathId": 6864022561151234396
+                    "origLen": 60,
+                    "pathId": -622085550611756468
                 },
                 {
                     "origLen": 21,
                     "pathId": 3722715538771832700
+                },
+                {
+                    "origLen": 266,
+                    "pathId": 6864022561151234396
                 }
             ],
             "pathId": -4164970281342342399,
@@ -1009,25 +1116,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "…………はは。\r\nうるさいからヤダよ、ばーか。",
-            "enText": "… ha. I don't \nwant to be noisy, baka.",
+            "enText": "Haha. No thanks, I can't take anymore of<n>your screaming, dummy.",
             "nextBlock": 55,
             "origClipLength": 130,
+            "voiceIdx": 36,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -49595979262074383
-                },
                 {
                     "origLen": 20,
                     "pathId": 101123734047483208
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -5152769833983931242
+                    "origLen": 89,
+                    "pathId": -49595979262074383
                 },
                 {
                     "origLen": 21,
                     "pathId": -8304659054942647354
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5152769833983931242
                 }
             ],
             "pathId": 1114155204159753467,
@@ -1037,17 +1146,19 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……我々が出走を表明した意味、どうやら伝わったかな。",
-            "enText": "…I hope you got what we meant when we \nannounced our intention to run.",
+            "enText": "I believe we've communicated our reasons<n>for wanting to help well\nenough.",
             "nextBlock": 56,
             "origClipLength": 140,
+            "voiceIdx": 37,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 222,
-                    "pathId": 2829948627109183639
-                },
                 {
                     "origLen": 21,
                     "pathId": 1755298873883447817
+                },
+                {
+                    "origLen": 222,
+                    "pathId": 2829948627109183639
                 },
                 {
                     "origLen": 120,
@@ -1065,9 +1176,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ハヤヒデ……。",
-            "enText": "Hayahide…",
+            "enText": "Hayahide...",
             "nextBlock": 57,
             "origClipLength": 36,
+            "voiceIdx": 38,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 168,
@@ -1078,12 +1191,12 @@
                     "pathId": 3698497024716381766
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -8171466071610939087
-                },
-                {
                     "origLen": 146,
                     "pathId": -6750386423631883563
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8171466071610939087
                 }
             ],
             "pathId": 4936142191993432580,
@@ -1093,29 +1206,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "力あるライバルをここで失うなど、看過できない。\r\n……つまりは、そういうことだよ。",
-            "enText": "We cannot afford to lose a powerful \ncompetitor here, for example. That's \nwhat… means.",
+            "enText": "None of us can afford to lose our most<n>powerful rivals here. We're in\nthis<n>together.",
             "nextBlock": 58,
             "origClipLength": 203,
+            "voiceIdx": 39,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 136,
                     "pathId": -2741394304692511577
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -5630826205327866540
-                },
-                {
                     "origLen": 21,
                     "pathId": -7249400443182317633
                 },
                 {
-                    "origLen": 242,
-                    "pathId": 6800270234745082160
+                    "origLen": 50,
+                    "pathId": -5630826205327866540
                 },
                 {
                     "origLen": 20,
                     "pathId": -247077133372793807
+                },
+                {
+                    "origLen": 242,
+                    "pathId": 6800270234745082160
                 }
             ],
             "pathId": 3252555446536972640,
@@ -1125,9 +1240,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……恥ずかしいヤツ。",
-            "enText": "… Embarrassing guy.",
+            "enText": "Enough with the touchy-feely talk.",
             "nextBlock": 59,
             "origClipLength": 53,
+            "voiceIdx": 40,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 115,
@@ -1149,9 +1266,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――躊躇いがちな足取りで、ナリタタイシンが\r\n歩み寄ってきてくれたのは、その後のことだった。",
-            "enText": "—It was only afterwards that Narita Taisin \nwalked up to me with a hesitant gait.",
+            "enText": "The commotion dies down, and Narita<n>Taishin hesitantly walks over to\nme.",
             "nextBlock": 60,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 60,
@@ -1173,9 +1292,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……………………あの、さ。",
-            "enText": "… Um, you know.",
+            "enText": "Um... Hey.",
             "nextBlock": 61,
             "origClipLength": 41,
+            "voiceIdx": 41,
+            "voiceSheetId": "041050004",
             "animData": [
                 {
                     "origLen": 70,
@@ -1189,24 +1310,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "結局、この間はチケットに先回りされてたし。\r\n……だから、今、言ってよ。その……アレ。",
-            "enText": "After all, I was ahead of the ticket \nthe other day… so tell me \nnow. That… thing.",
+            "enText": "So, Ticket put words in your mouth the<n>other day, but uh... If you\n<i>really,</i> um,<n>y'know... You can say it now.",
             "nextBlock": 62,
             "origClipLength": 387,
+            "voiceIdx": 42,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "……『がんどうじだぁ』？",
-                    "enText": "… \"Gando-jidaa\"?",
+                    "enText": "That I'm \"sho touuuched\"?",
                     "nextBlock": 62
                 }
             ],
             "animData": [
                 {
-                    "origLen": 144,
-                    "pathId": 2529058384717272920
-                },
-                {
                     "origLen": 233,
                     "pathId": 3205317999456656427
+                },
+                {
+                    "origLen": 144,
+                    "pathId": 2529058384717272920
                 }
             ],
             "pathId": -9149702408187829045,
@@ -1216,29 +1339,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "違うっ！！　バカ、蹴っ飛ばすよ！？\r\nそうじゃなくてっ……！！",
-            "enText": "No, no, no! You idiot, I'm gonna kick your \nass! That's not what I meant…!",
+            "enText": "NO, you idiot! I'll kick your ass! I mean,<n>whether you want to...",
             "nextBlock": 63,
             "origClipLength": 135,
+            "voiceIdx": 43,
+            "voiceSheetId": "041050004",
             "choices": [
                 {
                     "jpText": "君をスカウトさせてくれ！",
-                    "enText": "Let me scout for you!",
+                    "enText": "Yes! I want to scout you!",
                     "nextBlock": 63
                 },
                 {
                     "jpText": "貴方をスカウトさせて！",
-                    "enText": "Let me scout for you!",
+                    "enText": "Yes! I want to scout you!",
                     "nextBlock": 63
                 }
             ],
             "animData": [
                 {
-                    "origLen": 60,
-                    "pathId": 8365416609581485612
-                },
-                {
                     "origLen": 77,
                     "pathId": -7077249524652681224
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8365416609581485612
                 }
             ],
             "pathId": -7057826900228529758,
@@ -1248,17 +1373,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ぁ…………。",
-            "enText": "aa…",
+            "enText": "Ah...",
             "nextBlock": 64,
             "origClipLength": 26,
+            "voiceIdx": 44,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 7568453288681880934
-                },
                 {
                     "origLen": 20,
                     "pathId": -4112096146331729153
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7568453288681880934
                 }
             ],
             "pathId": -1935361140344735881,
@@ -1268,22 +1395,23 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……ん。……よろしく。",
-            "enText": "… regards.",
+            "enText": "Yeah... Sure.",
             "nextBlock": -1,
             "origClipLength": 113,
+            "voiceIdx": 45,
+            "voiceSheetId": "041050004",
             "animData": [
-                {
-                    "origLen": 109,
-                    "pathId": 7568201099046827251
-                },
                 {
                     "origLen": 20,
                     "pathId": -5695386361829697158
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 7568201099046827251
                 }
             ],
             "pathId": 845147858375918530,
             "blockIdx": 64
         }
-    ],
-    "modified": 1712266081
+    ]
 }

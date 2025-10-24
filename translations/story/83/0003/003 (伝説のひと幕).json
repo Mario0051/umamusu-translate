@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "FV6KHMVQF5ZFDDPWJ2BICNUNLEM75GYE",
+    "version": 6,
+    "bundle": "A2YMFUSSC42NFZLQVLYRQWQGPVYYRBSX",
     "type": "story",
     "storyId": "830003003",
     "title": "伝説のひと幕",
+    "enTitle": "Legendary Act",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トウカイテイオーの出走する\r\nエキシビションレースの観戦にきたところ――",
-            "enText": "I've just come from watching an exhibition \nrace that's being run by Tokai Teio.",
+            "enText": "I've come to watch Tokai Teio's<n>exhibition race.",
             "nextBlock": 2,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5182414891049819129,
             "blockIdx": 1
         },
@@ -18,8 +22,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "トウカイテイオーだよ～っ！\r\nこの場に立ち合えた諸君らは幸福であ～るっ！",
-            "enText": "It's Tokai Teiou! You're \nall lucky to be here!",
+            "enText": "I'm Tokai Teio! You are all blessed this<n>day to be\nup against the likes of me!",
             "nextBlock": 3,
+            "origClipLength": 91,
+            "voiceIdx": 61,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 2180780958550689024
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -6916438039065817630
+                }
+            ],
             "pathId": 4049666460901359364,
             "blockIdx": 2
         },
@@ -27,8 +44,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "1番強くて1番すごい、\r\nそれがこのボク、トウカイテイオーなのだ！",
-            "enText": "The strongest, the most amazing, \nthat's me, Tokai Teio!",
+            "enText": "Who is the best of the best and the<n>pinnacle of\nspeed?! Why, it's me! Tokai<n>Teio!",
             "nextBlock": 4,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 8934045212258668376
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4479381672214416724
+                }
+            ],
             "pathId": -1916780119512819580,
             "blockIdx": 3
         },
@@ -36,8 +66,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "伝説のひと幕を\r\n楽しんでいってくれたまえ～っ！",
-            "enText": "I hope you enjoy this legendary moment!",
+            "enText": "You will all bear witness to the first<n>chapter of my\nlegacy!",
             "nextBlock": 5,
+            "origClipLength": 76,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": 6973999419123469900
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -2699244700999884760
+                }
+            ],
             "pathId": 9172231334350911292,
             "blockIdx": 4
         },
@@ -45,26 +88,65 @@
             "jpName": "",
             "enName": "",
             "jpText": "その宣言に違わず、トウカイテイオーは\r\n悠々と勝利してみせたのだった。",
-            "enText": "True to her declaration, Tokai \nTeio won the race with ease.",
+            "enText": "True to her word, Tokai Teio wins the<n>race with\nease.",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 27,
+                    "pathId": -8175804674072742960
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -5333652215004118569
+                }
+            ],
             "pathId": -786975972890130343,
             "blockIdx": 5
         },
         {
             "jpName": "観衆",
-            "enName": "",
+            "enName": "Spectator",
             "jpText": "トウカイテイオー、\r\nなんて圧倒的な走りなんだ……！",
-            "enText": "Tokai Teio, what an overwhelming run…!",
+            "enText": "Tokai Teio just completely dominated!",
             "nextBlock": 7,
+            "origClipLength": 78,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -3643627429351591294
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -1302867528824574207
+                }
+            ],
             "pathId": -9220419354456719551,
             "blockIdx": 6
         },
         {
             "jpName": "観衆",
-            "enName": "",
+            "enName": "Spectator",
             "jpText": "こりゃあ、1番強いウマ娘ってのも\r\nあながち間違いじゃないかもな！",
-            "enText": "I guess it's not too far-fetched to say that \nshe's the strongest of the bunch!",
+            "enText": "Looks like she might just be the fastest<n>\nUmamusume after all!",
             "nextBlock": 8,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -2879111694902032717
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 3642560971486542950
+                }
+            ],
             "pathId": 1395124442568422676,
             "blockIdx": 7
         },
@@ -72,8 +154,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ふっふーん、流石ボク！\r\nラクショーだねっ♪",
-            "enText": "That's what I'm talking about! \nI'm a great guy.",
+            "enText": "Hehe! Aren't I amazing?! That was a<n>piece of\ncarrot cake! ♪",
             "nextBlock": 9,
+            "origClipLength": 73,
+            "voiceIdx": 3,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 3280615915224672102
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -8786703573999805828
+                }
+            ],
             "pathId": -3774137157328321020,
             "blockIdx": 8
         },
@@ -81,8 +176,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "鎧袖一触、か。\r\n見事な走りだったぞ、テイオー。",
-            "enText": "It's like a suit of armor. That \nwas a great run, Teio.",
+            "enText": "An easy victory, I see. That was<n>splendid, Teio.",
             "nextBlock": 10,
+            "origClipLength": 76,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 103,
+                    "pathId": -3413252191714054627
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -5112810107840342848
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -3006925863691619
+                }
+            ],
             "pathId": 5810499110057182157,
             "blockIdx": 9
         },
@@ -90,8 +202,25 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あっ、カイチョー！　観に来てくれてたの？\r\nねぇねぇ、ボクすごかったでしょ！",
-            "enText": "Hey, Kaicho! You're here to watch? \nI was amazing, wasn't I?",
+            "enText": "Oh, Prez! You came to watch me? I was<n>pretty\nawesome back there, wasn't I?",
             "nextBlock": 11,
+            "origClipLength": 94,
+            "voiceIdx": 7,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 2504546814057479867
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -2231388102048269926
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 5420697357754441713
+                }
+            ],
             "pathId": -3346465642188436133,
             "blockIdx": 10
         },
@@ -99,17 +228,51 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "ああ、流石だ。\r\n堂々たる走り、私からも賞賛の言葉を――",
-            "enText": "Oh, quintessential. A magnificent \nrun, and my compliments—",
+            "enText": "Indeed. You ran beautifully. I must offer<n>you\nsome words of prai—",
             "nextBlock": 12,
+            "origClipLength": 81,
+            "voiceIdx": 80,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 138,
+                    "pathId": 5143580091721608467
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -8567706681534787991
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -6533991824102297762
+                }
+            ],
             "pathId": 8942977591992855297,
             "blockIdx": 11
         },
         {
             "jpName": "観衆",
-            "enName": "",
+            "enName": "Spectator",
             "jpText": "すごかったぞ、トウカイテイオー！\r\nウイニングライブも楽しみにしてるからなっ！",
-            "enText": "That was great, Tokai Teio! I'm looking \nforward to seeing you on Winning Live!",
+            "enText": "That was so cool, Tokai Teio! I can't wait<n>to see\nyour winning concert!",
             "nextBlock": 13,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 381448931328977885
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -4130347021506430302
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7338349107034511942
+                }
+            ],
             "pathId": 281606632387490348,
             "blockIdx": 12
         },
@@ -117,8 +280,21 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "あ……。",
-            "enText": "Oh…",
+            "enText": "Oh, shoot...",
             "nextBlock": 14,
+            "origClipLength": 50,
+            "voiceIdx": 76,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": -1601130942215798729
+                },
+                {
+                    "origLen": 130,
+                    "pathId": -8441647185613632406
+                }
+            ],
             "pathId": 6514760532044244748,
             "blockIdx": 13
         },
@@ -126,8 +302,25 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "ごめん、カイチョー！\r\n嬉しいけど……先にやることがあるんだ！",
-            "enText": "Sorry, Kaicho! I'm glad you're here, but \nI've got… things to do first!",
+            "enText": "Sorry, Prez! I'd love to hear it, but... I've<n>gotta\ntake care of something first!",
             "nextBlock": 15,
+            "origClipLength": 85,
+            "voiceIdx": 87,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": -3124705823550319347
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 6423394603850979287
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1380544299405780103
+                }
+            ],
             "pathId": -5734619691647727703,
             "blockIdx": 14
         },
@@ -135,8 +328,25 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "わかった。先ほどのレースに劣らぬステージ、\r\n期待しているぞ。テイオー。",
-            "enText": "All right. I'm expecting a stage \nas good as the last race. Teio.",
+            "enText": "Understood. Put on a show worthy of<n>your\nperformance today, Teio.",
             "nextBlock": 16,
+            "origClipLength": 91,
+            "voiceIdx": 37,
+            "voiceSheetId": "051017001",
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 8722436440124885976
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -3554823308748890959
+                },
+                {
+                    "origLen": 131,
+                    "pathId": -4648359555923870860
+                }
+            ],
             "pathId": -2114062844961287201,
             "blockIdx": 15
         },
@@ -144,8 +354,25 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "もっちろん！\r\nちゃーんと見ててよね！",
-            "enText": "Of course! Keep an eye out for me, will you?",
+            "enText": "On it! You better keep your eyes on me!",
             "nextBlock": 17,
+            "origClipLength": 69,
+            "voiceIdx": 47,
+            "voiceSheetId": "051003001",
+            "animData": [
+                {
+                    "origLen": 129,
+                    "pathId": 7921561155370621934
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 6546280112986039751
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 836830880530844551
+                }
+            ],
             "pathId": 6622688719394440879,
             "blockIdx": 16
         },
@@ -153,8 +380,25 @@
             "jpName": "",
             "enName": "",
             "jpText": "トウカイテイオーは、\r\n軽やかなステップで観衆の視線を独り占め――",
-            "enText": "Tokai Teio, with her light step, stole all \nthe attention from the crowd.",
+            "enText": "Tokai Teio grabs the attention of the<n>audience\nwith her quick dance moves.",
             "nextBlock": 18,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 19,
+                    "pathId": 4095873669128136456
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 9192844764548024172
+                },
+                {
+                    "origLen": 19,
+                    "pathId": 4771156012517377529
+                }
+            ],
             "pathId": -4288519193674622924,
             "blockIdx": 17
         },
@@ -162,8 +406,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "ライブでも、見事に『無敗』を貫いた。",
-            "enText": "Even in live performances, they were \nbrilliantly \"undefeated.",
+            "enText": "She truly looks invincible on that stage.",
             "nextBlock": 19,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6227504050938513241,
             "blockIdx": 18
         },
@@ -171,8 +418,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "まだまだここから！\r\nこんなもんじゃ終わんないよ！",
-            "enText": "We're not done here! It doesn't \nhave to end like this!",
+            "enText": "This is barely the beginning! My legacy<n>will\ncontinue forever and ever!",
             "nextBlock": 20,
+            "origClipLength": 77,
+            "voiceIdx": 1,
+            "voiceSheetId": "051003001",
             "pathId": -2284028358977207536,
             "blockIdx": 19
         },
@@ -180,8 +430,11 @@
             "jpName": "トウカイテイオー",
             "enName": "Tokai Teio",
             "jpText": "無敗のテイオー様を、\r\nもーっと応援してよね！",
-            "enText": "You should be rooting for the undefeated \nTeio-sama more often!",
+            "enText": "So keep rooting for your favorite runner,<n>the\ninvincible Teio!",
             "nextBlock": 21,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5664215866642972644,
             "blockIdx": 20
         },
@@ -189,8 +442,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフは、そのステージを\r\n感慨深そうにしばらく眺めていた。",
-            "enText": "Symboli Rudolf looked at the stage for a \nwhile with deep emotion.",
+            "enText": "Symboli Rudolf gazes at the stage for a<n>while,\ndeeply moved.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 285,
+                    "pathId": 5399950745264954952
+                },
+                {
+                    "origLen": 207,
+                    "pathId": -6537136655430425481
+                }
+            ],
             "pathId": 6222975412584735669,
             "blockIdx": 21
         }

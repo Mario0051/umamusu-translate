@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "MI66M565WTHSZGTEI5A5MSCUHCVWOMFO",
+    "version": 6,
+    "bundle": "NZB6WUY7U4C53VDRAK4S6T3PL6OWAY4K",
     "type": "story",
     "storyId": "501012107",
     "title": "バレンタイン",
+    "enTitle": "Valentine's Day",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "バレンタイン当日。\r\nチョコレートを交換し合う生徒は多く、\n学園内はどこか楽しげな空気が漂っていた。",
-            "enText": "Valentine's Day. Many students were \nexchanging chocolates. The atmosphere in the \nschool was somewhat joyful.",
+            "enText": "It's Valentine's Day, and the atmosphere<n>is\nelectric with excitement as students<n>happily\nexchange chocolates with each<n>other.",
             "nextBlock": 2,
             "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4294326093639250239,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（コンコンッ）",
-            "enText": "(Knock-knock)",
+            "enText": "<i>Knock, knock.</i>",
             "nextBlock": 3,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7236485534279923292,
             "blockIdx": 2
         },
@@ -29,29 +34,31 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "よう、トレ公！　邪魔するよ！",
-            "enText": "Hey, Tre! I'll get out of your way!",
+            "enText": "Hey, Teach. I'm comin' in!",
             "nextBlock": 4,
             "origClipLength": 63,
+            "voiceIdx": 42,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "どうしたんだ、急に",
-                    "enText": "What's the matter, all of a sudden?",
+                    "enText": "What's with the sudden visit?",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "どうしたの、急に",
-                    "enText": "What's wrong, all of a sudden?",
+                    "enText": "What's with the sudden visit?",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": -6993715616338165462
-                },
-                {
                     "origLen": 89,
                     "pathId": 4892227616693122213
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -6993715616338165462
                 }
             ],
             "pathId": 6152037878505242628,
@@ -61,17 +68,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "どうしたもこうしたも、\r\n今日はアレしかないだろ、アレしか！",
-            "enText": "I don't care what you do, it's the only thing \nthat matters today.",
+            "enText": "Well, considering what day it is, there's<n>only one\nthing I could be here for!",
             "nextBlock": 5,
             "origClipLength": 84,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": -8401093788148237549
-                },
                 {
                     "origLen": 95,
                     "pathId": -1093942928181946985
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -8401093788148237549
                 }
             ],
             "pathId": 8609361686480120690,
@@ -81,13 +90,15 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ってわけで、ほい！　チョコレート。\r\nいつもありがとよ、トレ公！",
-            "enText": "So, hoi! Chocolate. Thanks \nfor everything, Lord Tre!",
+            "enText": "So, take this! Thanks for everything,<n>Teach!",
             "nextBlock": 6,
             "origClipLength": 86,
+            "voiceIdx": 134,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "ありがとう……！",
-                    "enText": "Thanks ……!",
+                    "enText": "Thank you!",
                     "nextBlock": 6
                 }
             ],
@@ -97,12 +108,12 @@
                     "pathId": 4003442550093398254
                 },
                 {
-                    "origLen": 60,
-                    "pathId": 9209789596014172592
-                },
-                {
                     "origLen": 97,
                     "pathId": 535914165240960624
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 9209789596014172592
                 }
             ],
             "pathId": 6803317019400664581,
@@ -112,13 +123,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "さっそく包みを開けてみると、様々な形の\r\n綺麗なチョコレートがズラリと並んでいた。",
-            "enText": "I immediately opened the package to find an \narray of beautiful chocolates in various \nshapes and sizes.",
+            "enText": "I unwrap and open the box she gives me<n>to find a\ncollection of beautiful<n>chocolates of various\nshapes and sizes.",
             "nextBlock": 7,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "すごい！",
-                    "enText": "Amazing!!!",
+                    "enText": "These look incredible!",
                     "nextBlock": 7
                 }
             ],
@@ -129,11 +142,11 @@
                 },
                 {
                     "origLen": 13,
-                    "pathId": -7906976964422704375
+                    "pathId": 2074187100150529446
                 },
                 {
                     "origLen": 13,
-                    "pathId": 2074187100150529446
+                    "pathId": -7906976964422704375
                 }
             ],
             "pathId": -2024701123525998430,
@@ -143,9 +156,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "一体どこのメーカーのものなのだろう。\r\nあまりに気になったので尋ねてみると――",
-            "enText": "I wondered which manufacturer it was from. I \nwas so curious that I asked.",
+            "enText": "I can't help but wonder where she<n>bought them\nfrom, but when I ask her<n>out of curiosity...",
             "nextBlock": 8,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3505509943153073050,
             "blockIdx": 7
         },
@@ -153,13 +168,15 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "へ？　ああ、これはアタシが作ったのさ。",
-            "enText": "Heh? Oh, I made this.",
+            "enText": "Huh? Oh, I made them.",
             "nextBlock": 9,
             "origClipLength": 69,
+            "voiceIdx": 47,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "え！？",
-                    "enText": "What?",
+                    "enText": "You <i>made</i> these?!",
                     "nextBlock": 9
                 }
             ],
@@ -169,12 +186,12 @@
                     "pathId": 7329253390149142919
                 },
                 {
-                    "origLen": 157,
-                    "pathId": 8585983824073600601
-                },
-                {
                     "origLen": 170,
                     "pathId": 8871698074027916189
+                },
+                {
+                    "origLen": 157,
+                    "pathId": 8585983824073600601
                 }
             ],
             "pathId": -7277395774566414086,
@@ -184,17 +201,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "寮の子たちにも好評で、毎年やってるうちに\r\n腕が上がっちまったみたいだね。",
-            "enText": "The kids in the dormitory love it, and I \nguess I've gotten good at it since I've been \ndoing it every year.",
+            "enText": "They're a real hit back at the dorm.<n>Guess I've\ngotten better at making 'em<n>over the years.",
             "nextBlock": 10,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 79,
-                    "pathId": 4073018924815542336
-                },
                 {
                     "origLen": 104,
                     "pathId": -7913906705571956800
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 4073018924815542336
                 }
             ],
             "pathId": -1585725546106490790,
@@ -204,17 +223,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "去年は苦労したバラの形も、\r\n今年はそれなりにうまく作れたりしてさ。",
-            "enText": "I had a hard time making roses last year, but \nthis year, I was able to make them look \nreasonably good.",
+            "enText": "I had a pretty tough time makin' the<n>rose-shaped\nones last year, but I pulled<n>through this time\naround.",
             "nextBlock": 11,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": -4698119623572503584
-                },
                 {
                     "origLen": 100,
                     "pathId": 7760192038771855256
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -4698119623572503584
                 }
             ],
             "pathId": -7536290348330599161,
@@ -224,17 +245,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "これなんかホラ……アンタとアタシの\r\n似顔絵ならぬ似顔チョコレートなのさ！",
-            "enText": "This is not a portrait of…… you and me, it's \na chocolate portrait!",
+            "enText": "And this one is... well, a chocolate<n>portrait of the\ntwo of us!",
             "nextBlock": 12,
             "origClipLength": 93,
+            "voiceIdx": 2,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 61,
-                    "pathId": -8296075460706657653
-                },
                 {
                     "origLen": 104,
                     "pathId": 7464860111559860718
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -8296075460706657653
                 }
             ],
             "pathId": -2775496385626249097,
@@ -244,24 +267,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "ヒシアマゾンの指さしたチョコレートは、\r\n確かに見覚えのある顔の形をしていた……！",
-            "enText": "The chocolate Hsiamazon pointed to was indeed \nin the shape of a familiar face: ……!",
+            "enText": "She points to the chocolate in question,<n>and when\nI look at it, I see that it really<n>does bear a striking\nresemblance to us.",
             "nextBlock": 13,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "似てる！",
-                    "enText": "They look so much alike!",
+                    "enText": "It looks just like us!",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
                     "origLen": 109,
-                    "pathId": -7409582244410187996
+                    "pathId": -6974424377252082945
                 },
                 {
                     "origLen": 109,
-                    "pathId": -6974424377252082945
+                    "pathId": -7409582244410187996
                 }
             ],
             "pathId": -4496099752814360424,
@@ -271,17 +296,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "あっはっは！　だろ？\r\n細っこい彫刻刀いくつも使って作ったからね。",
-            "enText": "Ha-ha-ha! Right? I used a number of fine \ncarving knives to make it.",
+            "enText": "Ahaha! Doesn't it just? I had to use a<n>bunch of\ntiny chisels to make it.",
             "nextBlock": 14,
             "origClipLength": 88,
+            "voiceIdx": 1,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -4113860353043897900
-                },
                 {
                     "origLen": 99,
                     "pathId": 5599568811380057846
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -4113860353043897900
                 }
             ],
             "pathId": 4034899371176231102,
@@ -291,17 +318,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "フジなんかには、チョコレート作りだと\r\n気づかなかったなんて言われてさ。",
-            "enText": "Fuji told me that she didn't realize I was \nmaking chocolate.",
+            "enText": "Fuji told me she didn't even realize it<n>was made of\nchocolate.",
             "nextBlock": 15,
             "origClipLength": 91,
+            "voiceIdx": 14,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 62,
-                    "pathId": -7635270405062341189
-                },
                 {
                     "origLen": 102,
                     "pathId": -2568942722527501339
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -7635270405062341189
                 }
             ],
             "pathId": 3919515566037372717,
@@ -311,17 +340,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "まぁ、そんなことはどうでもいいか！",
-            "enText": "Well, that's not important!",
+            "enText": "Well, not that that matters or anything!",
             "nextBlock": 16,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": -8787676373551084370
-                },
                 {
                     "origLen": 78,
                     "pathId": 1647034511449386157
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -8787676373551084370
                 }
             ],
             "pathId": -3088978052186171001,
@@ -331,17 +362,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "味は保証するよ！\r\n疲れた時にでも、食っておくれ。",
-            "enText": "I guarantee the taste! Have \nsome when you're tired.",
+            "enText": "You're gonna love how the chocolates<n>taste,\nguaranteed! If you're ever feelin'<n>tired, you can\nhave a nibble on 'em to<n>fuel yourself up.",
             "nextBlock": 17,
             "origClipLength": 77,
+            "voiceIdx": 92,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": 2472276966265566668
-                },
                 {
                     "origLen": 88,
                     "pathId": -3549433380580754101
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 2472276966265566668
                 }
             ],
             "pathId": 7622771295742919772,
@@ -351,17 +384,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "なにはともあれ、しっかり写真に\r\n収めてチョコレートを味わったのだった。",
-            "enText": "At any rate, I took a good picture and tasted \nthe chocolate.",
+            "enText": "Before I dig into the box, I make sure to<n>get a\ngood photo of the gorgeous<n>chocolates.",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -1972260224667976696
+                    "pathId": 7227811573955676159
                 },
                 {
                     "origLen": 102,
-                    "pathId": 7227811573955676159
+                    "pathId": -1972260224667976696
                 }
             ],
             "pathId": -2833040834665568969,
@@ -371,13 +406,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "さっそく包みを開けてみると、生クリームが\r\n添えられたガトーショコラが入っていた。",
-            "enText": "I quickly opened the package to find a gateau \nchocolat with fresh cream.",
+            "enText": "I unwrap and open the box she gave me<n>to find a\nchocolate gateau garnished<n>with whipped cream\ninside.",
             "nextBlock": 19,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "美味しそう！",
-                    "enText": "Yum!",
+                    "enText": "It looks delicious!",
                     "nextBlock": 19
                 }
             ],
@@ -388,11 +425,11 @@
                 },
                 {
                     "origLen": 13,
-                    "pathId": -8172968877551068442
+                    "pathId": 940834580812912932
                 },
                 {
                     "origLen": 13,
-                    "pathId": 940834580812912932
+                    "pathId": -8172968877551068442
                 }
             ],
             "pathId": 5025073203874889040,
@@ -402,17 +439,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "食べてみなよ、トレ公！",
-            "enText": "Try it, Lord Tre!",
+            "enText": "Have a taste, Teach!",
             "nextBlock": 20,
             "origClipLength": 59,
+            "voiceIdx": 92,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 531,
-                    "pathId": 6588383953448763620
-                },
                 {
                     "origLen": 162,
                     "pathId": 5057050956406430626
+                },
+                {
+                    "origLen": 531,
+                    "pathId": 6588383953448763620
                 }
             ],
             "pathId": 6802038611371012812,
@@ -422,24 +461,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "ひと口食べると、しっとりとした食感が\r\n口中に広がる。下層にはサクサクとした\nクルミが敷き詰められていた。",
-            "enText": "One bite and the moist texture will spread in \nyour mouth. The bottom layer is covered with \ncrunchy walnuts. The bottom layer was covered \nwith crispy walnuts.",
+            "enText": "I take a bite and am rewarded with the<n>cake's\nsmooth, moist texture. The<n>bottom layer of the\nslice is crammed<n>with crunchy walnuts.",
             "nextBlock": 21,
             "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "美味しい！",
-                    "enText": "Delicious!",
+                    "enText": "This is so good!",
                     "nextBlock": 21
                 }
             ],
             "animData": [
                 {
-                    "origLen": 531,
-                    "pathId": 5716252755178257806
-                },
-                {
                     "origLen": 125,
                     "pathId": -751875851494532839
+                },
+                {
+                    "origLen": 531,
+                    "pathId": 5716252755178257806
                 }
             ],
             "pathId": 533585243368875243,
@@ -449,17 +490,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "そうか……へへっ。\r\nよかったよ！",
-            "enText": "I see.…… hehe. Good for you!",
+            "enText": "Great. Hehe. I'm glad to hear it!",
             "nextBlock": 22,
             "origClipLength": 67,
+            "voiceIdx": 0,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 6935981978899923241
-                },
                 {
                     "origLen": 78,
                     "pathId": 4526855739180757188
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 6935981978899923241
                 }
             ],
             "pathId": 3860294466703729856,
@@ -469,17 +512,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "実はヒシアマ姐さん特製、低糖質\r\n低脂質の超ヘルシーガトーショコラなのさ！",
-            "enText": "In fact, it's Miss Hsiama's special, \nlow-sugar, low-fat, super healthy \ngâteau chocolat!",
+            "enText": "You'd never guess it, but this is actually<n>my\nspecial healthy chocolate gateau! It's<n>low in sugar\nand fat!",
             "nextBlock": 23,
             "origClipLength": 93,
+            "voiceIdx": 2,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": -6666339590231414905
-                },
                 {
                     "origLen": 104,
                     "pathId": -7426808462743310249
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -6666339590231414905
                 }
             ],
             "pathId": 455436146046887317,
@@ -489,17 +534,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "生クリームの代わりに豆腐、砂糖はラカント、\r\nクルミはメープルでキャラメリゼにしてね。",
-            "enText": "Substitute tofu for the whipped cream, \nlakanto for the sugar, and maple for the \ncaramelized walnuts.",
+            "enText": "I used tofu instead of fresh cream and a<n>sugar\nsubstitute instead of cane sugar. I<n>caramelized\nthe walnuts in maple syrup<n>too.",
             "nextBlock": 24,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 90,
-                    "pathId": 102912868794423247
-                },
                 {
                     "origLen": 112,
                     "pathId": 8580703269044213910
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 102912868794423247
                 }
             ],
             "pathId": 7651264255672167805,
@@ -509,9 +556,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "チョコレートは案外カロリーが高いからね。\r\nどうせなら健康的にって思ったんだ。",
-            "enText": "Chocolate has more calories than you might \nthink. I wanted to be healthy anyway.",
+            "enText": "Chocolate is surprisingly calorie dense,<n>so I\nthought it'd be better to make it<n>healthier.",
             "nextBlock": 25,
             "origClipLength": 95,
+            "voiceIdx": 47,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 16,
@@ -519,11 +568,11 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": 4632206218829435216
+                    "pathId": 2484957251440830740
                 },
                 {
                     "origLen": 106,
-                    "pathId": 2484957251440830740
+                    "pathId": 4632206218829435216
                 }
             ],
             "pathId": -3355566487393505032,
@@ -533,17 +582,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ま、なんにせよ美味いって言ってくれて、\r\nホッとしたよ。はあ～。",
-            "enText": "Well, whatever it was, I was relieved when \nshe said it was delicious. Haaah～.",
+            "enText": "Anyway, I'm just relieved that you find it<n>tasty.\nPhew...",
             "nextBlock": 26,
             "origClipLength": 86,
+            "voiceIdx": 59,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 4404908736905513377
-                },
                 {
                     "origLen": 97,
                     "pathId": -6384664609251111851
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 4404908736905513377
                 }
             ],
             "pathId": -3970569580811387225,
@@ -553,13 +604,15 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……。\r\n…………ん？",
-            "enText": "…………… hmm?",
+            "enText": "...Huh?",
             "nextBlock": 27,
             "origClipLength": 59,
+            "voiceIdx": 20,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "どうかした？",
-                    "enText": "What's wrong?",
+                    "enText": "Is something wrong?",
                     "nextBlock": 27
                 }
             ],
@@ -569,12 +622,12 @@
                     "pathId": 6711635827921490712
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -5822706460313963864
-                },
-                {
                     "origLen": 70,
                     "pathId": -3939451246356162567
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5822706460313963864
                 }
             ],
             "pathId": -2129645803392043674,
@@ -584,21 +637,23 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "え？　いや……美味いって言ってもらえて\r\nなんでアタシはホッとしてんだと思ってさ。",
-            "enText": "Eh? No, I was just wondering why you said…… \nit was delicious and why I was so relieved.",
+            "enText": "What? Hm... Well, I was just wondering<n>why I feel\nrelieved in the first place.",
             "nextBlock": 28,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -2535255112414531103
                 },
                 {
-                    "origLen": 167,
-                    "pathId": -4754995394927873607
-                },
-                {
                     "origLen": 109,
                     "pathId": 4294863695912876559
+                },
+                {
+                    "origLen": 167,
+                    "pathId": -4754995394927873607
                 }
             ],
             "pathId": 7595220071481160072,
@@ -608,9 +663,11 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "いつもは、ならどんどん食いな！　としか\r\n思わないんだけどねぇ……。",
-            "enText": "Normally, I'd just say, \"Well, then keep \neating! That's all I can think of. ……",
+            "enText": "Normally when people say they enjoy my<n>food, I\njust want them to eat as much as<n>they'd like, but\nright now I...",
             "nextBlock": 29,
             "origClipLength": 89,
+            "voiceIdx": 34,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 110,
@@ -618,11 +675,11 @@
                 },
                 {
                     "origLen": 100,
-                    "pathId": 7077281153903308552
+                    "pathId": -1946085352315199103
                 },
                 {
                     "origLen": 100,
-                    "pathId": -1946085352315199103
+                    "pathId": 7077281153903308552
                 }
             ],
             "pathId": -3267754168172922228,
@@ -632,21 +689,23 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……？\r\nんん～？　なんだいコレ！",
-            "enText": "……? Hmmm? What's this?",
+            "enText": "Ngh... Hmmm?! What the heck's going<n>on with\nme?!",
             "nextBlock": 30,
             "origClipLength": 67,
+            "voiceIdx": 35,
+            "voiceSheetId": "051012001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -5801384956689883235
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 6867431331379212623
-                },
-                {
                     "origLen": 78,
                     "pathId": 4440196897560454898
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 6867431331379212623
                 }
             ],
             "pathId": -6108133274078872494,
@@ -656,24 +715,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "なにはともあれ……\r\n随分試行錯誤を重ねてくれたようだ。\n胸が熱くなる。",
-            "enText": "At any rate…… it looks like you've done a lot \nof trial and error. It makes my heart warm.",
+            "enText": "Her sudden personal crisis aside, it's<n>clear how\nmuch work she put into<n>making a cake for me,\nand my heart<n>warms at the thought.",
             "nextBlock": 31,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "よかったら一緒に食べよう",
-                    "enText": "I'll eat with you if you like.",
+                    "enText": "Why don't we have this together?",
                     "nextBlock": 31
                 }
             ],
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -3258571361876695206
+                    "pathId": 4407891721284331569
                 },
                 {
                     "origLen": 102,
-                    "pathId": 4407891721284331569
+                    "pathId": -3258571361876695206
                 }
             ],
             "pathId": -6763326619218707532,
@@ -683,24 +744,26 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "ええ？　いやいや、そりゃあ\r\nトレ公のために作ったんだよ。",
-            "enText": "Yeah? - Yeah. No, no, no, that's right. I \nmade that for Lord Tre.",
+            "enText": "What? Why? I made that for you to eat.",
             "nextBlock": 32,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "一緒に食べたい",
-                    "enText": "I want to eat with you.",
+                    "enText": "But I want to eat it together.",
                     "nextBlock": 32
                 }
             ],
             "animData": [
                 {
-                    "origLen": 91,
-                    "pathId": -411907971697635909
-                },
-                {
                     "origLen": 93,
                     "pathId": 6654526070273840410
+                },
+                {
+                    "origLen": 91,
+                    "pathId": -411907971697635909
                 }
             ],
             "pathId": -7677676221107587654,
@@ -710,17 +773,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "な、なんだい、\r\nやけに押しが強いじゃないか。",
-            "enText": "What's the matter? You're being awfully pushy.",
+            "enText": "Th-the heck? You're kinda pushy today.",
             "nextBlock": 33,
             "origClipLength": 75,
+            "voiceIdx": 26,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": 8992408165478744820
-                },
                 {
                     "origLen": 86,
                     "pathId": -1382704284791853947
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 8992408165478744820
                 }
             ],
             "pathId": 668261487061412938,
@@ -730,17 +795,19 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……ま、たまにはこういうのも悪かないね。\r\nコーヒーでも淹れようか。",
-            "enText": "……Well, sometimes these things aren't so bad. \nLet's make some coffee.",
+            "enText": "Well, I guess it wouldn't be so bad to<n>eat\ntogether once in a while. I'll go make<n>us some\ncoffee.",
             "nextBlock": 34,
             "origClipLength": 89,
+            "voiceIdx": 74,
+            "voiceSheetId": "051012001",
             "animData": [
-                {
-                    "origLen": 48,
-                    "pathId": 7967909765734324789
-                },
                 {
                     "origLen": 100,
                     "pathId": 3864443052701686095
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 7967909765734324789
                 }
             ],
             "pathId": 7534904906158831470,
@@ -750,22 +817,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後、温かいコーヒーを淹れ、優雅な\r\nティータイムと洒落こんだのだった。",
-            "enText": "After that, we made hot coffee and enjoyed an \nelegant tea time.",
+            "enText": "We enjoy an elegant break with some<n>warm,\nfreshly-brewed coffee and<n>delicious cake.",
             "nextBlock": -1,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 156,
-                    "pathId": 1590318969966559873
-                },
                 {
                     "origLen": 164,
                     "pathId": -1020346126890039431
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 1590318969966559873
                 }
             ],
             "pathId": -1634148352490136717,
             "blockIdx": 34
         }
-    ],
-    "modified": 1657555055
+    ]
 }

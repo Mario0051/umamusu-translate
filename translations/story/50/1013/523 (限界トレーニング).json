@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "AG6SHTIV2T672HA7PXGHTKUGHHLEQOKY",
+    "version": 6,
+    "bundle": "SCU2LIS3KBRJLTKVAD745RRRXTCKKV7G",
     "type": "story",
     "storyId": "501013523",
     "title": "限界トレーニング",
+    "enTitle": "Limit Testing",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "メジロマックイーンをジムに迎えに来ると――",
-            "enText": "When she comes to pick up Medillo \nMcQueen at the gym―",
+            "enText": "I'm headed to the gym to pick up Mejiro<n>\nMcQueen.",
             "nextBlock": 2,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -9165009062063273798,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "はぁ、はぁ……。\n99……100……っ。",
-            "enText": "Huh, huh.…… 99……100……",
+            "enText": "<i>Huff... puff...</i> Ninety-nine... One<n>hundred...",
             "nextBlock": 3,
             "origClipLength": 58,
+            "voiceIdx": 58,
+            "voiceSheetId": "051013001",
             "pathId": 3694952754260445327,
             "blockIdx": 2
         },
@@ -29,17 +34,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "うぅ、全身がズキズキしますわ……。\nこれがライアンの言っていた筋肉の悲鳴……。",
-            "enText": "Ugh, my whole body is throbbing.…… This is \nthe muscle scream Ryan was talking about: ……",
+            "enText": "Urgh, my entire body is throbbing with<n>pain. This\nmust be what Ryan meant by<n>\"screaming muscles.\"",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": 29,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": 4803856710506394603
-                },
                 {
                     "origLen": 82,
                     "pathId": 6479468197260695435
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 4803856710506394603
                 }
             ],
             "pathId": 7583617728065808879,
@@ -49,13 +56,15 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ですが、休んでる暇はありません。\n次はあちらの器具で50セット――",
-            "enText": "But there is no time to rest. Next up, 50 \nsets on the apparatus over there―",
+            "enText": "However, there's no time to rest. Next, I<n>need to\ndo fifty—",
             "nextBlock": 5,
             "origClipLength": 67,
+            "voiceIdx": 69,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "大丈夫？",
-                    "enText": "Great man?",
+                    "enText": "You okay?",
                     "nextBlock": 5
                 }
             ],
@@ -65,12 +74,12 @@
                     "pathId": -4171962568015579417
                 },
                 {
-                    "origLen": 49,
-                    "pathId": 8487819557339342582
-                },
-                {
                     "origLen": 78,
                     "pathId": 6183841077929906366
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 8487819557339342582
                 }
             ],
             "pathId": -1718028334405881708,
@@ -80,21 +89,23 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "トレーナーさん……\nええ、まだ本日のノルマが残っていますから。",
-            "enText": "Trainer…… Yes, we still have today's quota.",
+            "enText": "Oh, Trainer. Yes, but I haven't met<n>today's quota\nyet.",
             "nextBlock": 6,
             "origClipLength": 65,
+            "voiceIdx": 67,
+            "voiceSheetId": "051013001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 9007114572769689813
                 },
                 {
-                    "origLen": 34,
-                    "pathId": -8642521829733477035
-                },
-                {
                     "origLen": 76,
                     "pathId": -2863705028215532749
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -8642521829733477035
                 }
             ],
             "pathId": -3373149635307613276,
@@ -104,29 +115,31 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ライアンにいただいた、筋トレメニュー。\nなんとしても最後まで達成しなければ。",
-            "enText": "Ryan gave me this muscle training menu. I \nmust accomplish it to the end at all costs.",
+            "enText": "I'm working on the muscle training<n>regimen Ryan\ngave me, you see. I must<n>finish the entire thing,\nno matter what.",
             "nextBlock": 7,
             "origClipLength": 70,
+            "voiceIdx": 64,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "でも、もう限界だ",
-                    "enText": "But I'm at my limit.",
+                    "enText": "But you've clearly already hit your limit.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "でも、もう限界だよ",
-                    "enText": "But I'm at my limit.",
+                    "enText": "But you've clearly already hit your limit.",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
-                    "origLen": 55,
-                    "pathId": 2267373545518007751
-                },
-                {
                     "origLen": 81,
                     "pathId": -3935046018155674518
+                },
+                {
+                    "origLen": 55,
+                    "pathId": 2267373545518007751
                 }
             ],
             "pathId": 7595637719655958575,
@@ -136,17 +149,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "当然です。『限界を超えるメニューを』\r\nと頼んで用意してもらったものなんですから。",
-            "enText": "Of course. I asked for a menu that would go \nbeyond my limits.",
+            "enText": "Naturally. After all, I specifically asked<n>for a\nregimen that would push me<n><i>beyond</i> my limits.",
             "nextBlock": 8,
             "origClipLength": 71,
+            "voiceIdx": 73,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 6778198223255049246
-                },
                 {
                     "origLen": 82,
                     "pathId": -2056723062693304960
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 6778198223255049246
                 }
             ],
             "pathId": 9028731489110613895,
@@ -156,17 +171,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "――目前に迫った限界すら超えられずして、\r\nメジロのウマ娘など到底名乗れませんわ！",
-            "enText": "―I can't call myself a horsegirl of Mejiro \nif I can't even cross the limit that's just \naround the corner!",
+            "enText": "If I'm unable to surpass the limit looming<n>right\nbefore my eyes, I cannot possibly<n>call myself a\nMejiro!",
             "nextBlock": 9,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": -6936041880541254601
-                },
                 {
                     "origLen": 82,
                     "pathId": 2054470120865035213
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6936041880541254601
                 }
             ],
             "pathId": 7663752351588755443,
@@ -176,17 +193,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "止めないでくださいっ！　これも勝利のため！\n1……2……3――ッ！",
-            "enText": "Don't stop me! This is for victory! 1……2……3―!",
+            "enText": "Please don't try to stop me! This is all for<n>the\npurpose of achieving victory! One...<n>two... three...",
             "nextBlock": 10,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": 8887801249519146819
-                },
                 {
                     "origLen": 85,
                     "pathId": 5908879342628520096
+                },
+                {
+                    "origLen": 75,
+                    "pathId": 8887801249519146819
                 }
             ],
             "pathId": -2412701818008947702,
@@ -196,9 +215,11 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "4……5……ふふっ、夜風が涼しい……。\n温泉もちょうどいい温度で最高でした……。",
-            "enText": "4……5…… huffing and puffing, the night breeze \nwas cool…… The hot springs were great, just \nthe right temperature. ……",
+            "enText": "Four... five... Hehe, the night wind is<n>refreshing...\nand the hot spring was the<n>perfect temperature.\nJust marvelous...",
             "nextBlock": 11,
             "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "051013001",
             "pathId": -1702808336850142072,
             "blockIdx": 10
         },
@@ -206,17 +227,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "っと、そろそろ野球中継の時間ですわね。\n普段と違うテレビ……これも旅の醍醐味です♪",
-            "enText": "Oh well, it's almost time for the baseball \ngame. A different TV…… than usual, this is \none of the best parts of the trip… ♪",
+            "enText": "Oh, it's nearly time for the baseball<n>game. This TV\nlooks old, but... this is<n>another pleasure of\ntraveling. ♪",
             "nextBlock": 12,
             "origClipLength": 72,
+            "voiceIdx": 31,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": -3650136107639836402
-                },
                 {
                     "origLen": 88,
                     "pathId": 2478360330928856243
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -3650136107639836402
                 }
             ],
             "pathId": -7007127826250025124,
@@ -226,17 +249,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "こっそりスイーツも用意しましたし、\n邪魔するものはありません。ふふっ、さあ――",
-            "enText": "I've secretly prepared some sweets \nfor you, and there's nothing to \ndisturb you. Phew, come on―",
+            "enText": "I also secretly brought some treats with<n>me, and\nthere isn't anyone here to stop<n>me. Hehe, now\nthen...",
             "nextBlock": 13,
             "origClipLength": 71,
+            "voiceIdx": 1,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 59,
-                    "pathId": 8381579118239170748
-                },
                 {
                     "origLen": 82,
                     "pathId": -1129481566873465491
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 8381579118239170748
                 }
             ],
             "pathId": 9148613970874288544,
@@ -246,9 +271,11 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "かっとばせーっ、ユ・タ・カ！\nかっとばせーっ、ユ・タ・カ～ッ！",
-            "enText": "Let's go, Yoo-tah-cah! Faster, Yoo-hoo-hoo!",
+            "enText": "Hit that ball, Yu-ta-ka! Hit that ball,<n>Yu-ta-kaaa!",
             "nextBlock": 14,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "マックイーン！",
@@ -258,12 +285,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -3658811955069151416
-                },
-                {
                     "origLen": 76,
                     "pathId": -4445767032985185344
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -3658811955069151416
                 }
             ],
             "pathId": -122956361949467916,
@@ -273,17 +300,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "――あら？\nなんだか、すごく懐かしい声が……。",
-            "enText": "―Oh? What's that very nostalgic voice at ……",
+            "enText": "Oh? I thought I just heard a familiar<n>voice.",
             "nextBlock": 15,
             "origClipLength": 60,
+            "voiceIdx": 30,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": -3061271381105738623
-                },
                 {
                     "origLen": 71,
                     "pathId": -8369173116860771836
+                },
+                {
+                    "origLen": 27,
+                    "pathId": -3061271381105738623
                 }
             ],
             "pathId": 6251343503904089187,
@@ -293,17 +322,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ここでゆっくりするのもいいですけれど……\nそういうわけにも、いきませんわね。",
-            "enText": "It would be nice to relax here, but…… that's \nnot going to happen either.",
+            "enText": "It would be nice if I could stay and relax<n>here, but\nit doesn't look like I can<n>anymore.",
             "nextBlock": 16,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -884246461329033603
-                },
                 {
                     "origLen": 81,
                     "pathId": -3429885142872948736
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -884246461329033603
                 }
             ],
             "pathId": -4132223060270042973,
@@ -313,24 +344,26 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "はっ！　ト、トレーナーさん！\n私、今どこに……。",
-            "enText": "Ha! Tomi, trainer! Where am I now ……",
+            "enText": "<i>Gasp!</i> T-Trainer! Wait... where am I?",
             "nextBlock": 17,
             "origClipLength": 61,
+            "voiceIdx": 25,
+            "voiceSheetId": "051013001",
             "choices": [
                 {
                     "jpText": "必死に筋トレしてた",
-                    "enText": "She was frantically training her muscles.",
+                    "enText": "You were in the middle of a desperate workout.",
                     "nextBlock": 17
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -1376149682251295217
-                },
-                {
                     "origLen": 103,
                     "pathId": -3060194737006596209
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -1376149682251295217
                 }
             ],
             "pathId": 7549528810200996954,
@@ -340,17 +373,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "そ、そうなんですか？\nなにやらおかしな夢を見た気がしますが……。",
-            "enText": "Oh, really? I think I had some \nkind of funny dream. ……",
+            "enText": "I-is that so? I feel I've just woken up<n>from the\nstrangest dream.",
             "nextBlock": 18,
             "origClipLength": 66,
+            "voiceIdx": 9,
+            "voiceSheetId": "051013001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -4352066329961441293
-                },
                 {
                     "origLen": 77,
                     "pathId": 6897912256134066776
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -4352066329961441293
                 }
             ],
             "pathId": 4515470132215691800,
@@ -360,17 +395,19 @@
             "jpName": "メジロマックイーン",
             "enName": "Mejiro McQueen",
             "jpText": "ともあれ……力がみなぎっています。\r\nこれで、限界を超えられた気がしますわ――！",
-            "enText": "Anyway…… is full of power. I feel like I've \ngone over the edge with this―!",
+            "enText": "In any case, I'm filled to the brim with<n>strength. I\nthink I may have surpassed my<n>limits!",
             "nextBlock": 19,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 37,
-                    "pathId": -4457536316540718014
-                },
                 {
                     "origLen": 82,
                     "pathId": 7099574700202443674
+                },
+                {
+                    "origLen": 37,
+                    "pathId": -4457536316540718014
                 }
             ],
             "pathId": -1756892804453587816,
@@ -380,22 +417,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "メジロマックイーンは本当に限界を超えて、\r\n更なる力を手に入れたようだった。",
-            "enText": "It seemed that the white meat McQueen \nhad really pushed the envelope and \ngained even more power.",
+            "enText": "She has indeed done just that. Mejiro<n>McQueen is\nlooking stronger than ever.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": -3419061515626021304
+                    "pathId": 2195326086733929995
                 },
                 {
                     "origLen": 80,
-                    "pathId": 2195326086733929995
+                    "pathId": -3419061515626021304
                 }
             ],
             "pathId": 6831814218382049600,
             "blockIdx": 19
         }
-    ],
-    "modified": 1657555249
+    ]
 }

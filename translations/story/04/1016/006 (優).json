@@ -1,21 +1,24 @@
 {
-    "version": 5,
-    "bundle": "BZVVXHK27KJVZJOJIIDYWK3K6LDMCHMW",
+    "version": 6,
+    "bundle": "UVSBJAO2HQJ2Z3RZKFLPPOCCJBY7AUZY",
     "type": "story",
     "storyId": "041016006",
     "title": "優",
+    "enTitle": "Warmth",
     "text": [
         {
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……ふぅ。\r\n今日は、ここまでか。",
-            "enText": "…… Whew. So much for today, huh?",
+            "enText": "<i>Phew...</i> That's it for today.",
             "nextBlock": 2,
             "origClipLength": 120,
+            "voiceIdx": 0,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "お疲れ様！",
-                    "enText": "Good job!",
+                    "enText": "Nice work!",
                     "nextBlock": 2
                 }
             ],
@@ -32,18 +35,20 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……ああ。",
-            "enText": "…… Oh.",
+            "enText": "Sure.",
             "nextBlock": 3,
             "origClipLength": 37,
+            "voiceIdx": 1,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "いつもより調子良かったな",
-                    "enText": "You were in better shape than usual.",
+                    "enText": "Even better than usual.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "いつもより調子良かったね",
-                    "enText": "You were in better shape than usual.",
+                    "enText": "Even better than usual.",
                     "nextBlock": 3
                 }
             ],
@@ -60,29 +65,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……まぁな。",
-            "enText": "…… Well.",
+            "enText": "I guess.",
             "nextBlock": 4,
             "origClipLength": 40,
+            "voiceIdx": 2,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "お腹空いたな",
-                    "enText": "I'm hungry.",
+                    "enText": "I'm pretty hungry.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "お腹空いたね",
-                    "enText": "I'm hungry.",
+                    "enText": "I'm pretty hungry.",
                     "nextBlock": 4
                 }
             ],
             "animData": [
                 {
-                    "origLen": 95,
-                    "pathId": -1453123600269881014
-                },
-                {
                     "origLen": 38,
                     "pathId": 5722432418420834095
+                },
+                {
+                    "origLen": 95,
+                    "pathId": -1453123600269881014
                 }
             ],
             "pathId": 1992275362223652693,
@@ -92,24 +99,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……そうだな。",
-            "enText": "…… Yes, that's right.",
+            "enText": "Me too.",
             "nextBlock": 5,
             "origClipLength": 51,
+            "voiceIdx": 3,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "ご飯ご馳走しようか",
-                    "enText": "I'll treat you to dinner.",
+                    "enText": "Wanna get some food? My treat.",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 95,
-                    "pathId": 5280755785601456202
-                },
-                {
                     "origLen": 20,
                     "pathId": -15456254327823163
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 5280755785601456202
                 }
             ],
             "pathId": 1397959863830638137,
@@ -119,17 +128,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……今日も、よく喋るな。",
-            "enText": "…… You talk a lot, today.",
+            "enText": "Still feeling chatty, huh?",
             "nextBlock": 6,
             "origClipLength": 102,
+            "voiceIdx": 4,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -2498639788075502706
-                },
                 {
                     "origLen": 67,
                     "pathId": -6838952177618759423
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -2498639788075502706
                 }
             ],
             "pathId": 7241218383064731422,
@@ -139,17 +150,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "食事はカフェテリアでとる。\r\nじゃあな。",
-            "enText": "We'll eat in the cafeteria. See you later.",
+            "enText": "I'll just hit up the cafeteria. Laters.",
             "nextBlock": 7,
             "origClipLength": 114,
+            "voiceIdx": 5,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -3933029831786455075
-                },
                 {
                     "origLen": 20,
                     "pathId": -2674631644455917666
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3933029831786455075
                 }
             ],
             "pathId": -5949812501889105295,
@@ -159,9 +172,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタブライアンは、\r\nそのままスタスタと行ってしまった……。",
-            "enText": "Naritabryan went stuttering away. ……",
+            "enText": "As briskly as I'm brushed off, Narita Brian<n>walks away.",
             "nextBlock": 8,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
@@ -175,9 +190,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタブライアンのことをよく知るために、\r\nいつもできる限り話しかけているのだが……。",
-            "enText": "I always try to talk to Narita Bryan as much \nas I can to get to know her better. ……",
+            "enText": "I'm still trying to learn more about her, so I<n>try to strike up a\nconversation whenever I<n>can...",
             "nextBlock": 9,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3317605363448793745,
             "blockIdx": 8
         },
@@ -185,9 +202,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "まだまだ、言葉のキャッチボールとはいかないようだ。",
-            "enText": "It seems that we are not quite catching on to the language yet.",
+            "enText": "But we've yet to have a real<n>back-and-forth.",
             "nextBlock": 10,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 358990036799276229,
             "blockIdx": 9
         },
@@ -195,9 +214,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そんなある日のこと、ショッピングモールへ\r\n買い物に行こうと歩いていると――",
-            "enText": "Then one day, as I was walking to the mall to go shopping…",
+            "enText": "Today, I'm on my way to the shopping mall<n>to buy some things.\nSuddenly...",
             "nextBlock": 11,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6523266619921855820,
             "blockIdx": 10
         },
@@ -205,24 +226,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……アンタか。",
-            "enText": "…… Anta.",
+            "enText": "...Oh, it's you.",
             "nextBlock": 12,
             "origClipLength": 49,
+            "voiceIdx": 6,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "ブライアンもこれから買い物？",
-                    "enText": "Brian is going shopping now too?",
+                    "enText": "Hey there. You doing some shopping too?",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 89,
-                    "pathId": 3991693272784904929
-                },
-                {
                     "origLen": 88,
                     "pathId": 2726880455091104745
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 3991693272784904929
                 }
             ],
             "pathId": -3701625023019979016,
@@ -232,17 +255,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "はぁ……面倒だが、生徒会に頼まれてな。\r\nショッピングモールへ行くところだ。",
-            "enText": "Huh.…… It's a hassle, but the student council asked me to do it. \nI'm on my way to the mall.",
+            "enText": "<i>Sigh...</i> The student council is being a pain.<n>They asked me to get\nsomething for them.",
             "nextBlock": 13,
             "origClipLength": 226,
+            "voiceIdx": 7,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -403670656045005197
-                },
                 {
                     "origLen": 91,
                     "pathId": -4318416200613714380
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -403670656045005197
                 }
             ],
             "pathId": -3051033550723144602,
@@ -252,17 +277,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どうやら目的は同じらしい。それを告げ、\r\n一緒に行こうと声をかけようとすると――",
-            "enText": "It seems that we share the same goal. I told her that and tried \nto ask her to go with me.",
+            "enText": "We're headed for the same place. This<n>could be a great chance to\nspend time<n>together. I should ask her—",
             "nextBlock": 14,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 109,
-                    "pathId": -8108403000102522092
+                    "pathId": -5803340052980498265
                 },
                 {
                     "origLen": 109,
-                    "pathId": -5803340052980498265
+                    "pathId": -8108403000102522092
                 }
             ],
             "pathId": 1736379054976056005,
@@ -272,17 +299,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……行ってしまった。",
-            "enText": "I went to ……",
+            "enText": "And she's gone...",
             "nextBlock": 15,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": -4113419601797343430
-                },
                 {
                     "origLen": 20,
                     "pathId": 765406817816150071
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -4113419601797343430
                 }
             ],
             "pathId": 752670474121305374,
@@ -292,9 +321,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "信頼を築けてきたと思っていたが、やはり走ること\r\n以外では、あまり関わりたくはないのだろうか――",
-            "enText": "I thought I was building trust, but I guess they don't really \nwant to be involved in anything other than running.",
+            "enText": "Maybe she doesn't trust me as much as I<n>thought. I guess she really\ndoesn't want to<n>do anything together besides training.",
             "nextBlock": 16,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3939779320388173810,
             "blockIdx": 15
         },
@@ -302,9 +333,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……おい。",
-            "enText": "…… Hey.",
+            "enText": "Hey.",
             "nextBlock": 17,
             "origClipLength": 35,
+            "voiceIdx": 8,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "え？",
@@ -314,12 +347,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 72,
-                    "pathId": -7392683452496427240
-                },
-                {
                     "origLen": 20,
                     "pathId": -7883317118292164416
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7392683452496427240
                 }
             ],
             "pathId": -1151613804320564447,
@@ -329,9 +362,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "どうした、早く来い。",
-            "enText": "What's up, come on, come on.",
+            "enText": "What's the holdup? Come on.",
             "nextBlock": 18,
             "origClipLength": 77,
+            "voiceIdx": 9,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 89,
@@ -345,29 +380,31 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……行くんだろう、ショッピングモール。",
-            "enText": "You're going to …… the shopping mall.",
+            "enText": "You're going to the mall too, aren't you?",
             "nextBlock": 19,
             "origClipLength": 86,
+            "voiceIdx": 10,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "あ、ああ！",
-                    "enText": "Ah, ah!",
+                    "enText": "Oh, uh, yeah!",
                     "nextBlock": 19
                 },
                 {
                     "jpText": "う、うん！",
-                    "enText": "Uh-huh!",
+                    "enText": "Oh, uh, yeah!",
                     "nextBlock": 19
                 }
             ],
             "animData": [
                 {
-                    "origLen": 98,
-                    "pathId": 5959910809078297348
-                },
-                {
                     "origLen": 82,
                     "pathId": 3669144913620594146
+                },
+                {
+                    "origLen": 98,
+                    "pathId": 5959910809078297348
                 }
             ],
             "pathId": 8195933905967698709,
@@ -377,17 +414,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……さっさとしろ。",
-            "enText": "Go to…… and get on with it.",
+            "enText": "Hurry it up then.",
             "nextBlock": 20,
             "origClipLength": 58,
+            "voiceIdx": 11,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": 7525377127243143909
-                },
                 {
                     "origLen": 82,
                     "pathId": 4439417548812977424
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 7525377127243143909
                 }
             ],
             "pathId": 2622471326131368343,
@@ -397,17 +436,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ショッピングモールに着いたのだが……\r\n目的の店が、遠目からも混雑しているのが見える。",
-            "enText": "I arrived at a shopping mall…… and could see from a distance that \nthe store I wanted was crowded.",
+            "enText": "We've arrived at the mall, but I can see<n>from a distance that the\nstores are packed.",
             "nextBlock": 21,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 142,
-                    "pathId": 8795403017013011462
-                },
                 {
                     "origLen": 10,
                     "pathId": -4811094592339711470
+                },
+                {
+                    "origLen": 142,
+                    "pathId": 8795403017013011462
                 }
             ],
             "pathId": 646857975732870850,
@@ -420,6 +461,8 @@
             "enText": "Let's go.",
             "nextBlock": 22,
             "origClipLength": 40,
+            "voiceIdx": 12,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 117,
@@ -433,9 +476,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタブライアンは混雑をものともせず、\r\n店内へと踏み入った。",
-            "enText": "Narita Bryan stepped inside the restaurant, \noblivious to the crowd.",
+            "enText": "Undaunted by the crowds, she picks a<n>store and walks right inside.",
             "nextBlock": 23,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
@@ -449,13 +494,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうして、買い物を終えたのだが――\r\n気づけばナリタブライアンとはぐれてしまっていた。",
-            "enText": "So I finished my shopping - only to find \nmyself separated from Narita Bryan.",
+            "enText": "I manage to get my shopping done, but I<n>realize Brian isn't anywhere\nto be seen...",
             "nextBlock": 24,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（しまった……！）",
-                    "enText": "(Shit! ……!)",
+                    "enText": "(Oh no! Where'd she go?)",
                     "nextBlock": 24
                 }
             ],
@@ -466,9 +513,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "探したが見つからず、仕方なく外へと出ると、\r\n辺りはすっかり夜を迎えていた。",
-            "enText": "I looked for her, but could not find her. I had no choice but to \ngo outside, but night had fallen.",
+            "enText": "I look around for her to no avail. With<n>little else to try, I head outside\nand realize<n>it's already dark out.",
             "nextBlock": 25,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7915810170366540124,
             "blockIdx": 24
         },
@@ -476,27 +525,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "だが、そこには――",
-            "enText": "But there―",
+            "enText": "That's when...",
             "nextBlock": 26,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 311021506567136179,
             "blockIdx": 25
         },
         {
             "jpName": "お調子者の青年",
-            "enName": "",
+            "enName": "Elated Young Man",
             "jpText": "うわっ、ナリタブライアンじゃん！\r\nレース見たことあるわ！　なぁ、写真撮っていい？",
-            "enText": "Wow, that's Nalitabryan! I've seen that \nrace! Hey, can I take your picture?",
+            "enText": "Whoa, it's Narita Brian! I saw you race!<n>Hey, can I take a pic?",
             "nextBlock": 27,
             "origClipLength": 184,
+            "voiceIdx": 13,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 216,
-                    "pathId": 3809904083037075993
-                },
                 {
                     "origLen": 146,
                     "pathId": -6244506174916481987
+                },
+                {
+                    "origLen": 216,
+                    "pathId": 3809904083037075993
                 }
             ],
             "pathId": -710873810796750644,
@@ -506,17 +559,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。\r\n……失せろ。",
-            "enText": "………… fuck off.",
+            "enText": "...Get lost.",
             "nextBlock": 28,
             "origClipLength": 100,
+            "voiceIdx": 14,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -6643065971214461589
-                },
                 {
                     "origLen": 112,
                     "pathId": 6572125660366613621
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -6643065971214461589
                 }
             ],
             "pathId": -3860685066673737358,
@@ -526,17 +581,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……ナリタブライアンが立っていた。\r\n声をかけた青年をにべもなく追い払い、こちらを見る。",
-            "enText": "……Naritabu Ryan was standing there. She brusquely dismissed the \nyoung man who approached her and looked at her.",
+            "enText": "Brian flat out refuses the fan and drives<n>him off. Then she glances\nover in my<n>direction.",
             "nextBlock": 29,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 114,
-                    "pathId": -5299036890691055927
-                },
                 {
                     "origLen": 20,
                     "pathId": -1732789682130577299
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -5299036890691055927
                 }
             ],
             "pathId": -5292281037418282376,
@@ -546,24 +603,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……来たか。遅いぞ。",
-            "enText": "You came to…… You're late.",
+            "enText": "Finally... Took you long enough.",
             "nextBlock": 30,
             "origClipLength": 116,
+            "voiceIdx": 15,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "1人で帰ったのかと……",
-                    "enText": "I thought you went home alone. ……",
+                    "enText": "I thought you went home by yourself.",
                     "nextBlock": 30
                 }
             ],
             "animData": [
                 {
-                    "origLen": 50,
-                    "pathId": -5138196131618178122
-                },
-                {
                     "origLen": 75,
                     "pathId": 6656581024236570805
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5138196131618178122
                 }
             ],
             "pathId": 8592114083423311695,
@@ -573,17 +632,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。暗いからな。",
-            "enText": "…… It's dark.",
+            "enText": "...Nope. 'Cause it's dark.",
             "nextBlock": 31,
             "origClipLength": 83,
+            "voiceIdx": 16,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 95,
-                    "pathId": 800188525890197883
+                    "pathId": 8721832286189909726
                 },
                 {
                     "origLen": 95,
-                    "pathId": 8721832286189909726
+                    "pathId": 800188525890197883
                 }
             ],
             "pathId": -7520894039335877436,
@@ -593,17 +654,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "帰るぞ。",
-            "enText": "Let's go home.",
+            "enText": "Let's go.",
             "nextBlock": 32,
             "origClipLength": 44,
+            "voiceIdx": 17,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 95,
-                    "pathId": 6129820964835503991
-                },
                 {
                     "origLen": 56,
                     "pathId": 8732857091494185801
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 6129820964835503991
                 }
             ],
             "pathId": 1997673750624685352,
@@ -613,29 +676,31 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "確かに夜道を1人で歩くのは危険だが、\r\n彼女がそんなことを気にするとは思えない。",
-            "enText": "Sure, it's dangerous to walk alone on the street at night, but I \ndoubt she'd care about that.",
+            "enText": "It <i>is</i> dangerous to walk the streets alone at<n>night, but I can't imagine\nher being too<n>concerned about that.",
             "nextBlock": 33,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "心配してくれたのか？",
-                    "enText": "You're worried about me?",
+                    "enText": "Were you worried about me?",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "心配してくれたの？",
-                    "enText": "You're worried about me?",
+                    "enText": "Were you worried about me?",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 102,
-                    "pathId": 8969484885793240647
-                },
-                {
                     "origLen": 20,
                     "pathId": 415559965523391893
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8969484885793240647
                 }
             ],
             "pathId": -8109698176898304979,
@@ -645,9 +710,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……いいから歩け、置いていくぞ。",
-            "enText": "…… just walk away or I'll leave you.",
+            "enText": "Just walk already. Or I'll leave you behind.",
             "nextBlock": 34,
             "origClipLength": 96,
+            "voiceIdx": 18,
+            "voiceSheetId": "041016006",
             "pathId": 2229020332232757320,
             "blockIdx": 33
         },
@@ -655,17 +722,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 35,
             "origClipLength": 45,
+            "voiceIdx": 19,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -7310980251172243131
-                },
                 {
                     "origLen": 43,
                     "pathId": -3250395096659805696
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -7310980251172243131
                 },
                 {
                     "origLen": 76,
@@ -679,17 +748,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "（……心配、か。どうなんだろうな。\r\n私が聞きたいくらいだ）",
-            "enText": "(…… worry, huh? I wonder. I'd be the one to ask)",
+            "enText": "(Worried... Was I worried? I'd actually like<n>to know.)",
             "nextBlock": 36,
             "origClipLength": 234,
+            "voiceIdx": 20,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": -1543565751541231330
-                },
                 {
                     "origLen": 246,
                     "pathId": -6669775621319184040
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -1543565751541231330
                 },
                 {
                     "origLen": 246,
@@ -703,17 +774,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "はぐれた時、私を探している\r\nトレーナーの顔が、自然と浮かんだ。",
-            "enText": "When we got separated, I naturally pictured the face of my \ntrainer looking for me.",
+            "enText": "When we got separated, I imagined my<n>trainer looking for me.",
             "nextBlock": 37,
             "origClipLength": 178,
+            "voiceIdx": 21,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 34,
-                    "pathId": -722953180695483757
+                    "pathId": 3242635136722981546
                 },
                 {
                     "origLen": 34,
-                    "pathId": 3242635136722981546
+                    "pathId": -722953180695483757
                 },
                 {
                     "origLen": 34,
@@ -727,9 +800,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "探しているのだろうと、\r\n当たり前のように思った。",
-            "enText": "I took it for granted that she was looking for them.",
+            "enText": "I didn't even consider any other possibility.",
             "nextBlock": 38,
             "origClipLength": 140,
+            "voiceIdx": 22,
+            "voiceSheetId": "041016006",
             "pathId": 7228061265211409659,
             "blockIdx": 37
         },
@@ -737,17 +812,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "そして……脚が止まった。\r\n待つことを選んでいた。",
-            "enText": "Then the…… leg stopped. I had chosen to wait.",
+            "enText": "So I just... stopped right there. I chose to<n>wait.",
             "nextBlock": 39,
             "origClipLength": 204,
+            "voiceIdx": 23,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 163,
-                    "pathId": -8436034023179445682
-                },
                 {
                     "origLen": 177,
                     "pathId": -7640824698217134212
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -8436034023179445682
                 }
             ],
             "pathId": -3556229882678440159,
@@ -757,17 +834,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "不満も苛立ちもなく……ただ、\r\nいつ来るのだろうかと、その姿を待った。",
-            "enText": "No complaints, no frustration, no…… just waiting for the figure, \nwondering when it would come.",
+            "enText": "I didn't complain or feel frustrated... I just<n>stood there patiently.",
             "nextBlock": 40,
             "origClipLength": 230,
+            "voiceIdx": 24,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 118,
-                    "pathId": 791991137021211860
-                },
                 {
                     "origLen": 21,
                     "pathId": -7258802346224873579
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 791991137021211860
                 },
                 {
                     "origLen": 226,
@@ -781,17 +860,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……懐かしさが心に滲む。",
-            "enText": "…… nostalgia blows my mind.",
+            "enText": "This feeling is kind of familiar.",
             "nextBlock": 41,
             "origClipLength": 85,
+            "voiceIdx": 25,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": 5665002261207305360
-                },
                 {
                     "origLen": 83,
                     "pathId": -5601144907312635683
+                },
+                {
+                    "origLen": 97,
+                    "pathId": 5665002261207305360
                 },
                 {
                     "origLen": 52,
@@ -805,17 +886,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "この郷愁は、なんだろう。\r\n子どもの頃を思い出すような……。",
-            "enText": "What is this nostalgia? It reminds me of my childhood. ……",
+            "enText": "Is this nostalgia? It feels like when I was a<n>kid...",
             "nextBlock": 42,
             "origClipLength": 196,
+            "voiceIdx": 26,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 158,
-                    "pathId": -660438063678149568
-                },
                 {
                     "origLen": 198,
                     "pathId": -825487436206600562
+                },
+                {
+                    "origLen": 158,
+                    "pathId": -660438063678149568
                 }
             ],
             "pathId": 7572963752150134060,
@@ -825,9 +908,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 43,
             "origClipLength": 54,
+            "voiceIdx": 27,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "ブライアン？",
@@ -837,12 +922,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 84,
-                    "pathId": 7465458722905779213
-                },
-                {
                     "origLen": 13,
                     "pathId": -3402395711497479272
+                },
+                {
+                    "origLen": 84,
+                    "pathId": 7465458722905779213
                 }
             ],
             "pathId": -8886636803313365113,
@@ -852,17 +937,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。アンタは飽きもせず、\r\nよく話しかけてくるな。",
-            "enText": "You can find me…… You never get tired of talking to me.",
+            "enText": "...You never get tired of trying to talk to<n>me, do you?",
             "nextBlock": 44,
             "origClipLength": 205,
+            "voiceIdx": 28,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -4814478181712559567
-                },
                 {
                     "origLen": 20,
                     "pathId": -6521886699335398069
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4814478181712559567
                 }
             ],
             "pathId": -7907466919606402626,
@@ -872,9 +959,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……私は大した反応は返せない。\r\n嫌になるものだろう、普通は。",
-            "enText": "…… I can't give you a great response back. It would be \ndisgusting, usually.",
+            "enText": "Even though I never say much in return.<n>Normally that'd drive a person\naway.",
             "nextBlock": 45,
             "origClipLength": 183,
+            "voiceIdx": 29,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 56,
@@ -888,13 +977,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうかも知れない。だが話しかければ、\r\nどんな時も必ず耳を傾けてくれる。それはとても――",
-            "enText": "That may be so. But if you talk to her, she always listens, no \nmatter what. That's very―",
+            "enText": "I can believe that. But whenever I say<n>something, she always listens.\nAnd<n>honestly...",
             "nextBlock": 46,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "嬉しいからね",
-                    "enText": "I'm glad you're here.",
+                    "enText": "The fact that you're willing to listen is enough.",
                     "nextBlock": 46
                 }
             ],
@@ -911,17 +1002,19 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……。おかしな奴だな、アンタは。",
-            "enText": "…… You're a funny guy, Anta.",
+            "enText": "Hmph... You must be out of your mind.",
             "nextBlock": 47,
             "origClipLength": 133,
+            "voiceIdx": 30,
+            "voiceSheetId": "041016006",
             "animData": [
-                {
-                    "origLen": 145,
-                    "pathId": -7071525882067186348
-                },
                 {
                     "origLen": 20,
                     "pathId": -5278251840581485078
+                },
+                {
+                    "origLen": 145,
+                    "pathId": -7071525882067186348
                 }
             ],
             "pathId": 2124442989057902051,
@@ -931,24 +1024,26 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "……荷物を届けるのは明日だな。\r\nじゃあな、トレーナー。",
-            "enText": "…… I'll deliver the package tomorrow. See you later, trainer.",
+            "enText": "I don't have to hand this stuff in until<n>tomorrow. Laters, Trainer.",
             "nextBlock": 48,
             "origClipLength": 160,
+            "voiceIdx": 31,
+            "voiceSheetId": "041016006",
             "choices": [
                 {
                     "jpText": "今日は、ありがとう",
-                    "enText": "Thank you for your time today.",
+                    "enText": "I had fun today.",
                     "nextBlock": 48
                 }
             ],
             "animData": [
                 {
-                    "origLen": 189,
-                    "pathId": 4197136957331482920
-                },
-                {
                     "origLen": 20,
                     "pathId": -7450296324334695810
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 4197136957331482920
                 }
             ],
             "pathId": -8055863291207583185,
@@ -958,9 +1053,11 @@
             "jpName": "ナリタブライアン",
             "enName": "Narita Brian",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 49,
             "origClipLength": 43,
+            "voiceIdx": 32,
+            "voiceSheetId": "041016006",
             "animData": [
                 {
                     "origLen": 189,
@@ -974,9 +1071,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "待っていてくれたことに、礼を言う。\r\nナリタブライアンは何も言わず、寮へと帰って行った。",
-            "enText": "I thanked her for waiting for me. Narita Bryan said nothing and \nwent back to her dormitory.",
+            "enText": "I thank her for waiting for me and she<n>heads home without another\nword.",
             "nextBlock": 50,
             "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
@@ -990,12 +1089,13 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……ナリタブライアンの\r\n不器用な優しさが垣間見えた1日だった。",
-            "enText": "It was a day of glimpses of Naritabryan's clumsy grace. ……",
+            "enText": "Awkward as it may have been, I feel glad<n>to have caught a glimpse of\nNarita Brian's<n>kind side.",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2118544491554184718,
             "blockIdx": 50
         }
-    ],
-    "modified": 1712266081
+    ]
 }

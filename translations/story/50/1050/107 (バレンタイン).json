@@ -1,20 +1,24 @@
 {
-    "version": 4,
-    "bundle": "ZUDPNF2IEWIB7APJJDJOMQRNBJWRQPBR",
+    "version": 6,
+    "bundle": "HHRBISYOHZYXKHNGWBJ6U6OMVKWYFC2R",
     "type": "story",
     "storyId": "501050107",
     "title": "バレンタイン",
+    "enTitle": "Valentine's Day",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "明日はバレンタインデー。\nせっかくなので、ナリタタイシンに\n何か贈り物をすることにした。",
-            "enText": "Tomorrow is Valentine's Day. Since it is \nValentine's Day, I decided to give something \nto Narita Taishin.",
+            "enText": "Since it's Valentine's Day tomorrow, I<n>decide to\ngive Narita Taishin a present.",
             "nextBlock": 2,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "とはいえ、タイシンは甘いの苦手だから――",
-                    "enText": "However, Taishin doesn't like sweets―",
+                    "enText": "But what should I get her since she doesn't like\ncandy?",
                     "nextBlock": 2
                 }
             ],
@@ -25,8 +29,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ビターめのチョコでコーティングされた\nビスケットを見つくろって、\nその日は帰路についた。",
-            "enText": "After looking around at the bitter \nchocolate-coated cookies, I headed \nhome that day.",
+            "enText": "I end up picking out some cookies<n>coated in\nbitter chocolate and head<n>back.",
             "nextBlock": 3,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8974245209930827456,
             "blockIdx": 2
         },
@@ -34,13 +41,30 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……ん？　それ、何？",
-            "enText": "… hmm? What's that?",
+            "enText": "Hm? What's that?",
             "nextBlock": 4,
+            "origClipLength": 58,
+            "voiceIdx": 30,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "ハッピーバレンタイン、タイシン！",
                     "enText": "Happy Valentine's Day, Taishin!",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 172,
+                    "pathId": 6184092125618176899
+                },
+                {
+                    "origLen": 165,
+                    "pathId": 5819861321628801531
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -4169001753531799026
                 }
             ],
             "pathId": 3352442579149122295,
@@ -50,13 +74,30 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "え。……あ、今日……。",
-            "enText": "Eh… Oh… today.",
+            "enText": "What? Oh... That's today?",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "voiceIdx": 76,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "忘れてた？",
                     "enText": "Did you forget?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -8805923781162570994
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -3305487381305021167
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 6141436707834081871
                 }
             ],
             "pathId": -5867070490390751195,
@@ -66,8 +107,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや、まあ……。",
-            "enText": "No, well…",
+            "enText": "No... Well, maybe. Kind of.",
             "nextBlock": 6,
+            "origClipLength": 55,
+            "voiceIdx": 79,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -3033948905670790116
+                },
+                {
+                    "origLen": 110,
+                    "pathId": 4596235064258187673
+                }
+            ],
             "pathId": -5709553460363716868,
             "blockIdx": 5
         },
@@ -75,8 +129,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "友チョコ交換、とか……やんないし、普段。",
-            "enText": "I don't usually do friend chocolate \nexchanges or…",
+            "enText": "I don't really exchange chocolate with<n>friends or\nanything.",
             "nextBlock": 7,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 5375892735675877944
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 4580188574291013576
+                }
+            ],
             "pathId": 7057308930728690993,
             "blockIdx": 6
         },
@@ -84,13 +151,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……え、それ、マジでアタシになの？",
-            "enText": "…Eh, is that for real, Atashi?",
+            "enText": "Hang on, is that seriously for me?",
             "nextBlock": 8,
+            "origClipLength": 67,
+            "voiceIdx": 26,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "もちろん！",
                     "enText": "Of course!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5602961964623941683
+                },
+                {
+                    "origLen": 113,
+                    "pathId": 2461799792697799905
                 }
             ],
             "pathId": -6568494328632787829,
@@ -100,8 +180,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……あ、そ。",
-            "enText": "… Oh, yeah.",
+            "enText": "...Huh. Okay.",
             "nextBlock": 9,
+            "origClipLength": 52,
+            "voiceIdx": 8,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": 9152187133675610346
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -1987081126160109016
+                },
+                {
+                    "origLen": 49,
+                    "pathId": 4811052673695706973
+                }
+            ],
             "pathId": 6450784447234446918,
             "blockIdx": 8
         },
@@ -109,8 +206,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "その……ありがと。",
-            "enText": "Thanks for that…",
+            "enText": "Uh... Thanks, I guess.",
             "nextBlock": 10,
+            "origClipLength": 56,
+            "voiceIdx": 13,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -7417147266201196460
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 742509588192793356
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -1465826501456778222
+                }
+            ],
             "pathId": 7600070834514405373,
             "blockIdx": 9
         },
@@ -118,8 +232,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そして、夜。\n自室でのんびりしていると――",
-            "enText": "And night. I'm relaxing in my room―",
+            "enText": "That night, while I'm relaxing in my<n>room, there's\na knock at the door.",
             "nextBlock": 11,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": 4054717466377576934
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 774879725698914812
+                }
+            ],
             "pathId": -7232118602024432704,
             "blockIdx": 10
         },
@@ -127,12 +254,15 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ちょっと。……いる？",
-            "enText": "Psst. Are you…?",
+            "enText": "Hey... You in there?",
             "nextBlock": 12,
+            "origClipLength": 58,
+            "voiceIdx": 52,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "え、タイシン！？",
-                    "enText": "Eh, Taishin!",
+                    "enText": "Taishin?!",
                     "nextBlock": 12
                 }
             ],
@@ -143,13 +273,30 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "夕飯まだだったんだ。\n……じゃ、今食べれば？",
-            "enText": "I hadn't had dinner yet. Why don't \nyou eat it now… then?",
+            "enText": "Have you had dinner yet? If not, I<n>brought you\nsome food.",
             "nextBlock": 13,
+            "origClipLength": 73,
+            "voiceIdx": 8,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "うん……うん！？",
-                    "enText": "Yeah… yeah!",
+                    "enText": "Oh, thanks... Wait, what?!",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5610627241809698260
+                },
+                {
+                    "origLen": 200,
+                    "pathId": -5514691338478569998
+                },
+                {
+                    "origLen": 177,
+                    "pathId": 483864401856081139
                 }
             ],
             "pathId": -9096354226678764056,
@@ -159,8 +306,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ナリタタイシンは、どういうわけか\r\nドライカレーの詰まった容器を\n持ってきてくれていた。",
-            "enText": "Somehow Narita Taishin had brought a \ncontainer full of dry curry.",
+            "enText": "I stare at Taishin in confusion and notice<n>that\nshe's holding a container filled with<n>a dry curry\ndish.",
             "nextBlock": 14,
+            "origClipLength": 102,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 114,
+                    "pathId": 1733428554486863989
+                },
+                {
+                    "origLen": 114,
+                    "pathId": -1630461017681235393
+                }
+            ],
             "pathId": 850979738157434873,
             "blockIdx": 13
         },
@@ -168,13 +328,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "夕飯前でお腹も空いていたので、\r\n有難くいただくことにしたのだが――",
-            "enText": "I was hungry before dinner, so I \ngratefully accepted the offer.",
+            "enText": "I haven't eaten yet, so I'm starving, and I<n>happily\naccept the food. Still...",
             "nextBlock": 15,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（なぜ急にドライカレー……！？）",
-                    "enText": "(Why the sudden dry curry…!)",
+                    "enText": "(Why'd she suddenly bring me food?!)",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 8680393317614701146
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7441810674782861624
                 }
             ],
             "pathId": -1682560941843682549,
@@ -184,13 +357,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しかも――",
-            "enText": "And―",
+            "enText": "And not only that...",
             "nextBlock": 16,
+            "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "めちゃくちゃ美味しい！？",
-                    "enText": "It's insanely delicious!",
+                    "enText": "This is really tasty!",
                     "nextBlock": 16
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": 5946425960403616688
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -3355948939525138568
                 }
             ],
             "pathId": 3871059783319989899,
@@ -200,13 +386,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……なんで意外そうに言うわけ？",
-            "enText": "… Why do you say that \nlike it's a surprise?",
+            "enText": "Why are you acting like it's some kind of<n>huge\nshock?",
             "nextBlock": 17,
+            "origClipLength": 64,
+            "voiceIdx": 20,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "料理、上手だったんだ……！",
-                    "enText": "I was a good cook…!",
+                    "enText": "Because I didn't know you were such a good\ncook!",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 3868717085612013803
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -2006568304773931548
                 }
             ],
             "pathId": 7316141956317487915,
@@ -216,8 +415,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "別に……実家が自営業で、親が忙しいから\n自分のことは自分でやってたってだけ。",
-            "enText": "Not really… My parents were \nself-employed and my parents were busy, so I \njust did my own thing.",
+            "enText": "Not really. I just learned how to cook<n>since my\nfamily runs a business. My<n>parents were too busy\nto look after me.",
             "nextBlock": 18,
+            "origClipLength": 94,
+            "voiceIdx": 19,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -3375727792517914632
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 55150222086967980
+                }
+            ],
             "pathId": 1432599302716129654,
             "blockIdx": 17
         },
@@ -225,13 +437,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "っていうか、そんな感激するものでも\nないでしょ。ドライカレーぐらい……。",
-            "enText": "I mean, it's not that impressive. It's about \nthe same as a dry curry…",
+            "enText": "You don't have to make such a big deal<n>about it.\nIt's just a dry curry...",
             "nextBlock": 19,
+            "origClipLength": 91,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "いや、本当に美味しいよ！",
-                    "enText": "No, it's really good!",
+                    "enText": "But it's really good!",
                     "nextBlock": 19
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 5881112586561201204
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8790803008145743644
                 }
             ],
             "pathId": -6812965005151721596,
@@ -241,13 +466,30 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "嘘でも誇張でもない。まろやかな甘味があり、\nコクも深く、何か特別な材料でも\n入っているのではと考えてしまうくらいで――",
-            "enText": "No lie, no exaggeration. It has a mild \nsweetness and a deep richness that makes \nyou wonder if there is some special \ningredient in it.",
+            "enText": "I'm not lying or exaggerating. The curry<n>has a\nmellow sweetness and depth to it<n>that makes me\nwonder if it has some<n>secret ingredient.",
             "nextBlock": 20,
+            "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（……ん？）",
-                    "enText": "(… hmm?)",
+                    "enText": "(Hm?)",
                     "nextBlock": 20
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 213,
+                    "pathId": -8928822507340696600
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -927860078745749972
+                },
+                {
+                    "origLen": 125,
+                    "pathId": 1021771108201774198
                 }
             ],
             "pathId": -270561986210252024,
@@ -257,8 +499,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "まあ、マズいって言われるよりは\nいいけどさ。",
-            "enText": "Well, it's better than being \ntold it's not good.",
+            "enText": "Well, I guess that's better than being<n>told it\ntastes disgusting.",
             "nextBlock": 21,
+            "origClipLength": 73,
+            "voiceIdx": 2,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 153,
+                    "pathId": -7065951650298503852
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -1561762106006291286
+                },
+                {
+                    "origLen": 140,
+                    "pathId": 1511225468870308233
+                }
+            ],
             "pathId": 6695936539422685734,
             "blockIdx": 20
         },
@@ -266,8 +525,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "じゃ……門限あるから。",
-            "enText": "Then I'll see you… \nbecause I have a curfew.",
+            "enText": "Anyway, I've got a curfew to keep. Later.",
             "nextBlock": 22,
+            "origClipLength": 59,
+            "voiceIdx": 44,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 1080188378363210575
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -6202179037160890031
+                },
+                {
+                    "origLen": 123,
+                    "pathId": 833827229320238656
+                }
+            ],
             "pathId": 7097170906938044411,
             "blockIdx": 21
         },
@@ -275,8 +551,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "逃げるように去って行ってしまった\nナリタタイシン。",
-            "enText": "Narita Taishin left as if to run away.",
+            "enText": "Narita Taishin runs off as if desperate to<n>leave.",
             "nextBlock": 23,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -6883641486736423296
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -9153136491757631469
+                }
+            ],
             "pathId": -5018422467516696279,
             "blockIdx": 22
         },
@@ -284,8 +573,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女のドライカレーの後味は、\n仄かに甘く残り続けるのだった。",
-            "enText": "The aftertaste of her dry curry \nremained faintly sweet.",
+            "enText": "The taste of the curry leaves a lingering<n>hint of\nsweetness in my mouth.",
             "nextBlock": -1,
+            "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -656446403078590783,
             "blockIdx": 23
         },
@@ -293,13 +585,30 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "お腹が減っていたのと、美味しかったのとで\r\n気づいたらすっかり平らげていた。",
-            "enText": "I was hungry, and the food was delicious. I \nfound myself completely devouring it.",
+            "enText": "I'm so hungry and the curry is so amazing<n>that I\nclean my plate before realizing it.",
             "nextBlock": 25,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ごちそうさまでした！！",
-                    "enText": "Thanks for the food!",
+                    "enText": "Thanks! That was great!",
                     "nextBlock": 25
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 25,
+                    "pathId": -1476860341364257005
+                },
+                {
+                    "origLen": 262,
+                    "pathId": -3115803714509593759
+                },
+                {
+                    "origLen": 208,
+                    "pathId": 8449980912193100018
                 }
             ],
             "pathId": 3622071902530722943,
@@ -309,8 +618,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "はいはい、お粗末さまでした。",
-            "enText": "Yes, yes, yes, lousy.",
+            "enText": "Yeah, yeah, no problem.",
             "nextBlock": 26,
+            "origClipLength": 63,
+            "voiceIdx": 49,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -6159808371138052007
+                },
+                {
+                    "origLen": 146,
+                    "pathId": -4741854722339048572
+                }
+            ],
             "pathId": -1554728683693135376,
             "blockIdx": 25
         },
@@ -318,8 +640,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そうして、ふっと沈黙が下りた後――",
-            "enText": "Then, after a huff of silence―",
+            "enText": "A brief silence hangs in the air.",
             "nextBlock": 27,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 7527189807152113605
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1628197281637036517
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -7223530682796217321
+                }
+            ],
             "pathId": 8154478378011923318,
             "blockIdx": 26
         },
@@ -327,8 +666,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……ねえ、アンタさ。",
-            "enText": "… Hey, Anta.",
+            "enText": "Say...",
             "nextBlock": 28,
+            "origClipLength": 58,
+            "voiceIdx": 54,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4332375241720334491
+                },
+                {
+                    "origLen": 69,
+                    "pathId": 2509395985886211858
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7071438534343587472
+                }
+            ],
             "pathId": -8458535527368805935,
             "blockIdx": 27
         },
@@ -336,13 +692,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "言ってたじゃん、『一生』とか。",
-            "enText": "You said it, 'for life.",
+            "enText": "You know that thing you said about me<n>believing\nin myself?",
             "nextBlock": 29,
+            "origClipLength": 64,
+            "voiceIdx": 89,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "ん？……ああ！",
-                    "enText": "Hmm?… Oh!",
+                    "enText": "Huh? Oh, yeah!",
                     "nextBlock": 29
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -7706339526568143951
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -4253341829375054935
                 }
             ],
             "pathId": -2240081415466107287,
@@ -352,8 +721,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "自分を信じられないナリタタイシンが、\n信じられるようになるまで。",
-            "enText": "Narita Taishin, who could not believe \nin herself, came to be able to \nbelieve in herself.",
+            "enText": "I once told her that I'd believe in her as<n>long as\nnecessary until she believed in<n>herself too.",
             "nextBlock": 30,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -3957201930592544958
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -3131364100209992893
+                },
+                {
+                    "origLen": 97,
+                    "pathId": -7489640803785576362
+                }
+            ],
             "pathId": -1779731869002067818,
             "blockIdx": 29
         },
@@ -361,8 +747,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "一生かかってもいいから、\r\n自分が彼女を信じる――\nそういえば、そう伝えた。",
-            "enText": "I told her that I believed in her, even if it \ntook me the rest of my life - come to think \nof it, I told her that.",
+            "enText": "And I would believe in her even if it took<n>a\nlifetime.",
             "nextBlock": 31,
+            "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 112,
+                    "pathId": -1122278200809642985
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 7836520981803367124
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 3101370220786082702
+                }
+            ],
             "pathId": 3816109597520160495,
             "blockIdx": 30
         },
@@ -370,8 +773,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……じゃあ、もしだけど。",
-            "enText": "… So, what if.",
+            "enText": "Well... Hypothetically speaking...",
             "nextBlock": 32,
+            "origClipLength": 60,
+            "voiceIdx": 157,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8960866823925422735
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7820665248371614776
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 4468082864162708177
+                }
+            ],
             "pathId": 2191956668075892664,
             "blockIdx": 31
         },
@@ -379,8 +799,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "アタシが\n『ハイ、もう信じられるようになりました』\nって言ったら――",
-            "enText": "And when I said, \"Hi, I can trust you now.\"",
+            "enText": "What if I said that I believe in myself<n>now?",
             "nextBlock": 33,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -8907124561646583302
+                },
+                {
+                    "origLen": 100,
+                    "pathId": 6230639214184647691
+                }
+            ],
             "pathId": -6604388447714132157,
             "blockIdx": 32
         },
@@ -388,13 +821,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "それって、どうなるわけ？",
-            "enText": "What does that mean?",
+            "enText": "What would you do?",
             "nextBlock": 34,
+            "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……んん？",
-                    "enText": "… hmm?",
+                    "enText": "Hmm?",
                     "nextBlock": 34
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 3869216493479830850
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -6152884340620893083
                 }
             ],
             "pathId": -6654844881996584789,
@@ -404,13 +850,26 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "アンタの役割、ハイお終い。\n……ってことに、なるわけ？",
-            "enText": "Your role is over. So you're going to…?",
+            "enText": "Would you call it quits because you've<n>done your\njob, and that's it? You're<n>gone?",
             "nextBlock": 35,
+            "origClipLength": 80,
+            "voiceIdx": 54,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "それは――",
-                    "enText": "It's―",
+                    "enText": "Well...",
                     "nextBlock": 35
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 91,
+                    "pathId": -8698947584065939790
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5742319620229421318
                 }
             ],
             "pathId": 755392845729765763,
@@ -420,8 +879,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "でも、彼女に自信が生まれたのなら、\nそれでいいんじゃないだろうか？",
-            "enText": "But if it gave her confidence, then why not?",
+            "enText": "I wouldn't say it in so many words, but I<n>guess if\nshe's gained confidence in<n>herself, then that's\nenough.",
             "nextBlock": 36,
+            "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": 1775300445365549178
+                },
+                {
+                    "origLen": 99,
+                    "pathId": -5179371078383662389
+                }
+            ],
             "pathId": 6253617573147126292,
             "blockIdx": 35
         },
@@ -429,8 +901,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……そう口にしようとしたところで、\n先にナリタタイシンが続けた。",
-            "enText": "When I was about to say so, Narita \nTaishin went on to say so.",
+            "enText": "I open my mouth to speak, but she<n>interrupts me\nbefore I can get the words<n>out.",
             "nextBlock": 37,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 2833593765158130581
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -126681480551113178
+                }
+            ],
             "pathId": -8983795450352977134,
             "blockIdx": 36
         },
@@ -438,8 +923,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いい。言うな。",
-            "enText": "No problem. Don't say it.",
+            "enText": "No, don't say anything.",
             "nextBlock": 38,
+            "origClipLength": 54,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 5710269743041411166
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3379643698387964321
+                }
+            ],
             "pathId": -2576947978157190265,
             "blockIdx": 37
         },
@@ -447,8 +945,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "今は聞かない。……聞きたくない。",
-            "enText": "Now I don't hear it. I don't \nwant to listen to…",
+            "enText": "Not yet. I don't want to hear it.",
             "nextBlock": 39,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -8852030342994702401
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -8363772797414304185
+                }
+            ],
             "pathId": -7979324412445801478,
             "blockIdx": 38
         },
@@ -456,8 +967,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "ごめん、帰る。",
-            "enText": "Sorry, I'm leaving.",
+            "enText": "Sorry. I'm going back.",
             "nextBlock": 40,
+            "origClipLength": 54,
+            "voiceIdx": 65,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 140,
+                    "pathId": -5859441440241568073
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -4316955902001633527
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3697742252485813481
+                }
+            ],
             "pathId": 5073934818988102343,
             "blockIdx": 39
         },
@@ -465,8 +993,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "逃げるように去って行ってしまった\nナリタタイシン。",
-            "enText": "Narita Taishin left as if to run away.",
+            "enText": "Narita Taishin runs off as if desperate to<n>leave.",
             "nextBlock": 41,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 5526182494514218072
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 5052343922004287129
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 4303027139245801741
+                }
+            ],
             "pathId": 7837051240647106883,
             "blockIdx": 40
         },
@@ -474,8 +1019,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女のドライカレーの後味は、\nどこかほろ苦く残り続けるのだった。",
-            "enText": "The aftertaste of her dry curry \nremained somewhat bittersweet.",
+            "enText": "The taste of the curry leaves a hint of<n>bitterness\nin my mouth.",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4120439073801913215,
             "blockIdx": 41
         }

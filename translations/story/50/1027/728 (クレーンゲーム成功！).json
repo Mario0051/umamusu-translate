@@ -1,29 +1,32 @@
 {
-    "version": 5,
-    "bundle": "BN4QHR6WMEP5727NEEUSMBYGAWX3ZRKH",
+    "version": 6,
+    "bundle": "M4RG2ZN34BAFIHJMVVCJCK6EPD65JAPC",
     "type": "story",
     "storyId": "501027728",
     "title": "クレーンゲーム成功！",
+    "enTitle": "Claw Machine: Success!",
     "text": [
         {
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "わぁ！　すごい、取れた！",
-            "enText": "Wow! Oh, my God, I got it!",
+            "enText": "Wow, amazing! You got one!",
             "nextBlock": 2,
             "origClipLength": 60,
+            "voiceIdx": 7,
+            "voiceSheetId": "051027001",
             "animData": [
                 {
                     "origLen": 105,
                     "pathId": 517897600885368875
                 },
                 {
-                    "origLen": 76,
-                    "pathId": 4523535819225125689
-                },
-                {
                     "origLen": 89,
                     "pathId": 714689862097298658
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 4523535819225125689
                 }
             ],
             "pathId": -7000162808112931897,
@@ -33,18 +36,20 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "トレーナーさん、ありがとうございます！",
-            "enText": "Thank you, trainer!",
+            "enText": "Thank you, Trainer!",
             "nextBlock": 3,
             "origClipLength": 69,
+            "voiceIdx": 142,
+            "voiceSheetId": "051027001",
             "choices": [
                 {
                     "jpText": "それほどでもない",
-                    "enText": "not worth it",
+                    "enText": "It's no big deal.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "それほどでもないよ",
-                    "enText": "Not so much.",
+                    "enText": "It's no big deal.",
                     "nextBlock": 3
                 }
             ],
@@ -54,12 +59,12 @@
                     "pathId": -7426245140290531645
                 },
                 {
-                    "origLen": 87,
-                    "pathId": -3942393335881404837
-                },
-                {
                     "origLen": 89,
                     "pathId": -4918045930732122305
+                },
+                {
+                    "origLen": 87,
+                    "pathId": -3942393335881404837
                 }
             ],
             "pathId": -1674084651181348852,
@@ -69,21 +74,23 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "そんな、謙遜しないでくださいよ！\r\nちゃんと取ってくれたじゃないですか！",
-            "enText": "Don't be so modest! You got it right!",
+            "enText": "Hey, no need to be humble! You won it<n>for me,\ndidn't you?",
             "nextBlock": 4,
             "origClipLength": 91,
+            "voiceIdx": 51,
+            "voiceSheetId": "051027001",
             "animData": [
                 {
                     "origLen": 50,
                     "pathId": -1061548722640629695
                 },
                 {
-                    "origLen": 116,
-                    "pathId": 4505205440642378070
-                },
-                {
                     "origLen": 121,
                     "pathId": 955314197550048365
+                },
+                {
+                    "origLen": 116,
+                    "pathId": 4505205440642378070
                 }
             ],
             "pathId": -4068526937081291982,
@@ -93,17 +100,19 @@
             "jpName": "メジロライアン",
             "enName": "Mejiro Ryan",
             "jpText": "あたし、とても嬉しいです！\r\nこのぬいぐるみ、ずっと大切にしますね！",
-            "enText": "I am so happy! I will treasure this stuffed \nanimal forever!",
+            "enText": "I'm really happy! I'm gonna treasure this<n>plushie\nforever.",
             "nextBlock": 5,
             "origClipLength": 89,
+            "voiceIdx": 74,
+            "voiceSheetId": "051027001",
             "animData": [
-                {
-                    "origLen": 108,
-                    "pathId": -1426188651307669292
-                },
                 {
                     "origLen": 126,
                     "pathId": -4186652896116593889
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -1426188651307669292
                 }
             ],
             "pathId": -6515780642523187022,
@@ -113,22 +122,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "――それなりの結果だった！",
-            "enText": "―a reasonable result!",
+            "enText": "That went pretty well!",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 7333611519127436146
-                },
                 {
                     "origLen": 95,
                     "pathId": -3167845161624378270
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7333611519127436146
                 }
             ],
             "pathId": 6420601374095365702,
             "blockIdx": 5
         }
-    ],
-    "modified": 1662157469
+    ]
 }

@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "23ON4YDCB5XBBXTZTIQIGOBEJGAV67WF",
+    "version": 6,
+    "bundle": "PFKKXB2A7YUVLLBSGIQURUQ3LXPG72WU",
     "type": "story",
     "storyId": "501010507",
     "title": "ファンレター",
+    "enTitle": "Fan Letter",
     "text": [
         {
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "トレーナーさ～～～～んっ！\r\nアメイジ～～～～ング！",
-            "enText": "Trainers～～～～ng! Amage ～～～～ng!",
+            "enText": "Traineeer! This is <i>amazing!</i>",
             "nextBlock": 2,
             "origClipLength": 61,
+            "voiceIdx": 56,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "どうしたの！？",
-                    "enText": "What's wrong with you!",
+                    "enText": "What happened?",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": 8777604030565657247
+                    "pathId": 1469175013264966557
                 },
                 {
                     "origLen": 72,
-                    "pathId": 1469175013264966557
+                    "pathId": 8777604030565657247
                 }
             ],
             "pathId": 3397302646290544023,
@@ -36,17 +39,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ワタシ、ファンレターをもらったんデス！\r\nレースとライブで、ハッピーになったって！",
-            "enText": "I got a fan letter! She said the race and the \nconcert made her happy!",
+            "enText": "I got me a fan letter! She said watchin'<n>my races\nand concerts made her real<n>happy!",
             "nextBlock": 3,
             "origClipLength": 71,
+            "voiceIdx": 61,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -885979782879928133
-                },
                 {
                     "origLen": 82,
                     "pathId": -5559805372973254197
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -885979782879928133
                 }
             ],
             "pathId": -606229092319403761,
@@ -56,17 +61,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "ベリーベリー・ファンタスティック！\r\n応援されるの、とっても嬉しいデス！",
-            "enText": "Berry Berry Fantastic! I'm so \nhappy to have your support!",
+            "enText": "This is some fantastic news! I'm tickled<n>pink to\nhave somebody rootin' for me!",
             "nextBlock": 4,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 20,
-                    "pathId": 4580249910186906793
-                },
                 {
                     "origLen": 79,
                     "pathId": -8960172511212910114
+                },
+                {
+                    "origLen": 20,
+                    "pathId": 4580249910186906793
                 }
             ],
             "pathId": 4396801807697722844,
@@ -76,9 +83,11 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "そうだ！　今からこの子に会いに行って、\r\nムギュってハグしちゃいまショ～！",
-            "enText": "That's right! I'm going to go see her now and \ngive her a big hug!",
+            "enText": "I know just what to do! I'm gonna mosey<n>on over\nto this fan and give 'em a big ol'<n>hug!",
             "nextBlock": 5,
             "origClipLength": 69,
+            "voiceIdx": 31,
+            "voiceSheetId": "051010001",
             "choices": [
                 {
                     "jpText": "待って待って！",
@@ -88,12 +97,12 @@
             ],
             "animData": [
                 {
-                    "origLen": 53,
-                    "pathId": 3154663642908857226
-                },
-                {
                     "origLen": 80,
                     "pathId": 3534803287650322480
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 3154663642908857226
                 }
             ],
             "pathId": 6976950113138679033,
@@ -103,17 +112,19 @@
             "jpName": "タイキシャトル",
             "enName": "Taiki Shuttle",
             "jpText": "オゥ！\r\nトレーナーさんも一緒にハグしマス～？",
-            "enText": "Oh! Trainers hugging together too～?",
+            "enText": "Oh! You wanna join me, Trainer?",
             "nextBlock": 6,
             "origClipLength": 60,
+            "voiceIdx": 26,
+            "voiceSheetId": "051010001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 5604293212379159403
-                },
                 {
                     "origLen": 71,
                     "pathId": -7035666499485090652
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 5604293212379159403
                 }
             ],
             "pathId": -7275630324893039275,
@@ -123,22 +134,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "トレーナー室から出ようとする\r\nタイキシャトルを、必死に止めたのだった。",
-            "enText": "She desperately tried to stop Taikishattle \nfrom leaving the trainer's room.",
+            "enText": "I desperately stop Taiki Shuttle before<n>she leaves.",
             "nextBlock": -1,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 79,
-                    "pathId": -9049746270455693526
+                    "pathId": -4089861852720088032
                 },
                 {
                     "origLen": 79,
-                    "pathId": -4089861852720088032
+                    "pathId": -9049746270455693526
                 }
             ],
             "pathId": 4893863440266294658,
             "blockIdx": 6
         }
-    ],
-    "modified": 1657555055
+    ]
 }

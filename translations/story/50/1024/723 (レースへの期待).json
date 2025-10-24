@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "K7M7YNS33JRRLBW5KZJ75JWVSC2IQJGS",
+    "version": 6,
+    "bundle": "MKCIE7TR2SGVSQCW67H2EKG3LEZFC6W5",
     "type": "story",
     "storyId": "501024723",
     "title": "レースへの期待",
+    "enTitle": "Race Expectations",
     "text": [
         {
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "あのさ、トレーナーちゃん。",
-            "enText": "You know what, trainer?",
+            "enText": "Hey, Trainer.",
             "nextBlock": 2,
             "origClipLength": 53,
+            "voiceIdx": 57,
+            "voiceSheetId": "051024001",
             "animData": [
                 {
                     "origLen": 64,
-                    "pathId": 9213456676423903488
+                    "pathId": -6825287218074426134
                 },
                 {
                     "origLen": 64,
-                    "pathId": -6825287218074426134
+                    "pathId": 9213456676423903488
                 }
             ],
             "pathId": 6582765816407596165,
@@ -29,24 +32,26 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "今日出走するレースなんだけど、\r\n……マヤとはじめましての子、いる？",
-            "enText": "I'm running this race today……… Maya and I are \nmeeting a girl who's nice to meet you?",
+            "enText": "Are there any racers today who I haven't<n>faced\nbefore?",
             "nextBlock": 3,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いるかも",
-                    "enText": "perhaps",
+                    "enText": "Probably.",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
-                    "origLen": 36,
-                    "pathId": 1078343530399784381
-                },
-                {
                     "origLen": 78,
                     "pathId": -2037585353300228771
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 1078343530399784381
                 }
             ],
             "pathId": 9176063560091120999,
@@ -56,17 +61,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……そっか、ならちょっと楽しみかな。",
-            "enText": "…… I see, then I guess I'm a little excited.",
+            "enText": "...I see. That makes it more interesting!",
             "nextBlock": 4,
             "origClipLength": 56,
+            "voiceIdx": 4,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 1995470062305286826
-                },
                 {
                     "origLen": 67,
                     "pathId": -5221767579571197739
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 1995470062305286826
                 }
             ],
             "pathId": 3587587568281183123,
@@ -76,17 +83,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "それにこのレースは、\r\nトレーナーちゃんがマヤのために、\n選んでくれたレースだもんね。",
-            "enText": "Besides, this race was chosen \nby the trainer for Maya.",
+            "enText": "You chose this race specifically for me,<n>right?",
             "nextBlock": 5,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 4380788344576464721
-                },
                 {
                     "origLen": 84,
                     "pathId": 5717252798431470103
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 4380788344576464721
                 }
             ],
             "pathId": 3802714760840484897,
@@ -96,22 +105,23 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "このレースならきっと……ちゃんと。\r\n……ワクワクできるよね。",
-            "enText": "I'm sure this race will…… you properly. I'm \nsure you'll be…… thrilled.",
+            "enText": "Then I'll definitely do my best. I'm<n>getting all\nexcited.",
             "nextBlock": -1,
             "origClipLength": 65,
+            "voiceIdx": 0,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 7803134759292923293
-                },
                 {
                     "origLen": 76,
                     "pathId": -199861425490699210
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 7803134759292923293
                 }
             ],
             "pathId": -8500916091332084872,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555058
+    ]
 }

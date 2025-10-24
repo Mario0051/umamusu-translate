@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "GLSHFQYF4AJNBHUAG66QHS2R2ATOYXDH",
+    "version": 6,
+    "bundle": "AOFEBD4IDSATEUOLPBCRBJZ6PDZ4KGUM",
     "type": "story",
     "storyId": "501050102",
     "title": "初詣",
+    "enTitle": "New Year's Shrine Visit",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "新年。改めてナリタタイシンを支えていく\r\n誓いを立てるため、初詣に来ていたのだが――",
-            "enText": "New Year. I had come to Hatsumode to make a \nvow to support Narita Taishin once again.",
+            "enText": "I'm visiting a shrine on the first day of<n>the new\nyear to renew my resolve to<n>support Narita\nTaishin when...",
             "nextBlock": 2,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 1853063312908135311,
             "blockIdx": 1
         },
@@ -19,25 +22,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あっっっっ！！！\r\nタイシンのトレーナーさぁぁぁーん！！",
-            "enText": "Ah! Taishin's trainer!",
+            "enText": "Ohhh! Taishin, look! It's your trainer!<n>Hiiiii!",
             "nextBlock": 3,
             "origClipLength": 81,
+            "voiceIdx": 31,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 175,
-                    "pathId": -1963125610338070708
-                },
                 {
                     "origLen": 168,
                     "pathId": -706883276003954697
                 },
                 {
-                    "origLen": 135,
-                    "pathId": 1159411948003761170
+                    "origLen": 175,
+                    "pathId": -1963125610338070708
                 },
                 {
                     "origLen": 135,
                     "pathId": -8078499191208061805
+                },
+                {
+                    "origLen": 135,
+                    "pathId": 1159411948003761170
                 }
             ],
             "pathId": 9006770329305919834,
@@ -47,37 +52,39 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "げっ……。",
-            "enText": "Geez…",
+            "enText": "Great...",
             "nextBlock": 4,
             "origClipLength": 55,
+            "voiceIdx": 29,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "タイシン！？来てたのか！",
-                    "enText": "Taishin! You're here!",
+                    "enText": "Taishin! I didn't know you'd be here.",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "タイシン！？来てたんだ！",
-                    "enText": "Taishin! You're here!",
+                    "enText": "Taishin! I didn't know you'd be here.",
                     "nextBlock": 4
                 }
             ],
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": 3501869752636602965
+                },
                 {
                     "origLen": 40,
                     "pathId": -7957343991666510741
                 },
                 {
                     "origLen": 66,
-                    "pathId": 3501869752636602965
+                    "pathId": -2614226031166903434
                 },
                 {
                     "origLen": 16,
                     "pathId": 7460194775974636786
-                },
-                {
-                    "origLen": 66,
-                    "pathId": -2614226031166903434
                 }
             ],
             "pathId": 7258136574433062571,
@@ -87,25 +94,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "人混み嫌いの彼女と、まさか初詣客で賑わう\r\n神社で会えるとは、意外だった。",
-            "enText": "I was surprised to see her, who hates crowds, \nat a shrine crowded with Hatsumode visitors.",
+            "enText": "She hates crowds, so I wasn't expecting<n>to bump\ninto her at a shrine crowded<n>with people making\ntheir first visit of the<n>year.",
             "nextBlock": 5,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 104,
-                    "pathId": 8470006794005223209
-                },
                 {
                     "origLen": 104,
                     "pathId": 9207667203495015390
                 },
                 {
                     "origLen": 104,
-                    "pathId": -4233860724124353181
+                    "pathId": 8470006794005223209
                 },
                 {
                     "origLen": 104,
                     "pathId": 511129086069893081
+                },
+                {
+                    "origLen": 104,
+                    "pathId": -4233860724124353181
                 }
             ],
             "pathId": 4698873734434704829,
@@ -115,29 +124,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや、アタシはフツーに来たく\r\nなかったんだけど……なんか、コイツらが。",
-            "enText": "No, I really didn't want to come, but \n… something, these guys.",
+            "enText": "It's not like I wanted to come, but these<n>two kept\nbugging me about it.",
             "nextBlock": 6,
             "origClipLength": 91,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": 3223409275727672984
+                    "pathId": -8428515792326817242
                 },
                 {
                     "origLen": 102,
-                    "pathId": -8428515792326817242
+                    "pathId": 3223409275727672984
                 },
                 {
                     "origLen": 50,
                     "pathId": -8215457247081160169
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 8697882616094289441
-                },
-                {
                     "origLen": 102,
                     "pathId": -8901314927806261296
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8697882616094289441
                 }
             ],
             "pathId": -2424719046035039396,
@@ -147,31 +158,33 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だってさっ！！\r\nアタシたちいよいよシニア級だよ！？",
-            "enText": "Because, you know! We are finally \nin the senior class!",
+            "enText": "Now that we're finally senior racers, we<n>couldn't\njust <i>not</i> come!",
             "nextBlock": 7,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
             "coloredText": [
                 {
                     "jpText": "シニア級",
-                    "enText": "senior class"
+                    "enText": ""
                 }
             ],
             "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -2674065666689293940
+                },
                 {
                     "origLen": 61,
                     "pathId": 967440441318736230
                 },
                 {
                     "origLen": 89,
-                    "pathId": -2674065666689293940
+                    "pathId": -2793918595381739035
                 },
                 {
                     "origLen": 36,
                     "pathId": 4984624155477575908
-                },
-                {
-                    "origLen": 89,
-                    "pathId": -2793918595381739035
                 }
             ],
             "pathId": 1871181363196342230,
@@ -181,25 +194,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "後にデビューした子たちもどんどん強くなる！\r\nけどアタシたちだって、3人で強くなるんだ！",
-            "enText": "And the later debutants just keep getting \nstronger and stronger! But we, the three of \nus, will be strong together!",
+            "enText": "The Umamusume who debuted after us<n>keep\ngetting stronger, but we're gonna<n>get stronger\ntoo!",
             "nextBlock": 8,
             "origClipLength": 102,
+            "voiceIdx": 9,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 113,
+                    "pathId": 6696115412368416837
+                },
                 {
                     "origLen": 115,
                     "pathId": 6934177175352671835
                 },
                 {
                     "origLen": 113,
-                    "pathId": 6696115412368416837
+                    "pathId": -6871649381604755833
                 },
                 {
                     "origLen": 113,
                     "pathId": -522513317334980128
-                },
-                {
-                    "origLen": 113,
-                    "pathId": -6871649381604755833
                 }
             ],
             "pathId": -1860132730500543436,
@@ -209,25 +224,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "だったら新年から燃えてかなきゃっ！！\r\nうぉぉぉおおおおおーーーーーーー！！",
-            "enText": "Then we must start burning in the New Year! \nWooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!",
+            "enText": "And to do that, we gotta get fired up<n>from the\nvery beginning of the year!<n>Wooooo!",
             "nextBlock": 9,
             "origClipLength": 94,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 7604316247325532142
+                },
                 {
                     "origLen": 67,
                     "pathId": -7570898650262067541
                 },
                 {
                     "origLen": 105,
-                    "pathId": 7604316247325532142
+                    "pathId": 2971182845427613711
                 },
                 {
                     "origLen": 105,
                     "pathId": 3527502218290905764
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 2971182845427613711
                 }
             ],
             "pathId": -2692046893552196211,
@@ -237,17 +254,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "まあチケットは常日頃から燃えている気も\r\nするが……意見自体には概ね賛成だ。",
-            "enText": "Well, I feel like tickets are always \nburning, but I generally agree with \nthe… opinion itself.",
+            "enText": "I feel as though you're always fired<n>up—but I do\nagree with you for the most<n>part.",
             "nextBlock": 10,
             "origClipLength": 94,
+            "voiceIdx": 0,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 5067023269878012235
+                },
                 {
                     "origLen": 7,
                     "pathId": 1949928453961022241
                 },
                 {
-                    "origLen": 7,
-                    "pathId": 5067023269878012235
+                    "origLen": 115,
+                    "pathId": 2608904250797693242
                 },
                 {
                     "origLen": 65,
@@ -255,15 +278,11 @@
                 },
                 {
                     "origLen": 115,
-                    "pathId": 2608904250797693242
+                    "pathId": 103381685183173772
                 },
                 {
                     "origLen": 196,
                     "pathId": -7327388626328622249
-                },
-                {
-                    "origLen": 115,
-                    "pathId": 103381685183173772
                 }
             ],
             "pathId": 8814847995096313399,
@@ -273,25 +292,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "さあ行くぞ、タイシン。\r\n……私は、君の健康祈願もするつもりだぞ？",
-            "enText": "Here we go, Taishin… I'm going to pray \nfor your health too, okay?",
+            "enText": "Let's go, Taishin. I still have to pray for<n>your good\nhealth.",
             "nextBlock": 11,
             "origClipLength": 88,
+            "voiceIdx": 91,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -8191142636294242978
+                },
                 {
                     "origLen": 99,
                     "pathId": 9222187078740539636
                 },
                 {
                     "origLen": 99,
-                    "pathId": -8191142636294242978
+                    "pathId": 6270740674216069549
                 },
                 {
                     "origLen": 49,
                     "pathId": -6426951334156232232
-                },
-                {
-                    "origLen": 99,
-                    "pathId": 6270740674216069549
                 }
             ],
             "pathId": 9036505923775022299,
@@ -301,25 +322,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……おせっかい。",
-            "enText": "… nosy.",
+            "enText": "...No one asked you to.",
             "nextBlock": 12,
             "origClipLength": 55,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 50,
-                    "pathId": -1424309549495089536
-                },
                 {
                     "origLen": 99,
                     "pathId": 2310928619662660344
                 },
                 {
-                    "origLen": 94,
-                    "pathId": 1827134202960673693
+                    "origLen": 50,
+                    "pathId": -1424309549495089536
                 },
                 {
                     "origLen": 94,
                     "pathId": 407034783498347164
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 1827134202960673693
                 }
             ],
             "pathId": -7872677473155352484,
@@ -329,25 +352,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『菊花賞』前後よりはずっとくだけた調子で\r\n3人話せている様子を、\n微笑ましく見守ったのだった。",
-            "enText": "I watched with a smile as the three of them \ntalked in a much more relaxed tone than they \nhad before and after \"Kikka-sho.",
+            "enText": "They chat more freely than when the<n>Kikuka Sho\nwas looming over them.<n>Watching the three\ninteract makes me<n>smile.",
             "nextBlock": 13,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 118,
-                    "pathId": 2862482719371616053
-                },
                 {
                     "origLen": 118,
                     "pathId": -5798769978230639606
                 },
                 {
                     "origLen": 118,
-                    "pathId": -1605025141077908665
+                    "pathId": 2862482719371616053
                 },
                 {
                     "origLen": 118,
                     "pathId": -6211492063423370703
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -1605025141077908665
                 }
             ],
             "pathId": 7928488239618571000,
@@ -357,29 +382,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "さてと、参拝は済んだが――\r\nタイシン、大丈夫か？",
-            "enText": "Well, now that we're done with the \nvisit ― Taishin, are you okay?",
+            "enText": "Now that we're done here—hm? Taishin,<n>are you\nokay?",
             "nextBlock": 14,
             "origClipLength": 77,
+            "voiceIdx": 84,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 126,
-                    "pathId": -144210153565053287
-                },
                 {
                     "origLen": 129,
                     "pathId": 1664481512296781834
+                },
+                {
+                    "origLen": 126,
+                    "pathId": -144210153565053287
                 },
                 {
                     "origLen": 166,
                     "pathId": 3747623730717170874
                 },
                 {
-                    "origLen": 133,
-                    "pathId": -428170995365992950
-                },
-                {
                     "origLen": 129,
                     "pathId": 8658129196772074491
+                },
+                {
+                    "origLen": 133,
+                    "pathId": -428170995365992950
                 }
             ],
             "pathId": -2863963641240667887,
@@ -389,17 +416,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……ギブ。気持ち悪い。無理。もう帰る。",
-            "enText": "… Gib. Disgusting. I can't. I'm leaving.",
+            "enText": "I'm out. I can't stand being here<n>anymore. I'm\ngoing home.",
             "nextBlock": 15,
             "origClipLength": 69,
+            "voiceIdx": 34,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": 2693730117027740998
+                    "pathId": 4160707518714166289
                 },
                 {
                     "origLen": 80,
-                    "pathId": 4160707518714166289
+                    "pathId": 2693730117027740998
                 },
                 {
                     "origLen": 121,
@@ -407,11 +436,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": 7193875336810308970
+                    "pathId": 8590279953012213673
                 },
                 {
                     "origLen": 80,
-                    "pathId": 8590279953012213673
+                    "pathId": 7193875336810308970
                 }
             ],
             "pathId": -4189778934825783292,
@@ -421,29 +450,31 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "えーーー！　せっかく一緒に出かけたのに！！\r\nもうちょっと一緒にいようよぉぉおおおお！！",
-            "enText": "Ehhhh! We just went out together! Let's stay \ntogether a little longer… ohhhh!",
+            "enText": "Whaaat?! But we don't get to hang out<n>that often!\nC'mon, stay with us a little<n>longer!",
             "nextBlock": 16,
             "origClipLength": 102,
+            "voiceIdx": 27,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 186,
-                    "pathId": 3761160556785726534
-                },
                 {
                     "origLen": 123,
                     "pathId": 4553360529541449187
+                },
+                {
+                    "origLen": 186,
+                    "pathId": 3761160556785726534
                 },
                 {
                     "origLen": 163,
                     "pathId": 668793308976385630
                 },
                 {
-                    "origLen": 89,
-                    "pathId": 5323101501776588782
-                },
-                {
                     "origLen": 123,
                     "pathId": 3101832121625463717
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 5323101501776588782
                 },
                 {
                     "origLen": 7,
@@ -451,11 +482,11 @@
                 },
                 {
                     "origLen": 7,
-                    "pathId": 780700515626042483
+                    "pathId": 3483840313937716818
                 },
                 {
                     "origLen": 7,
-                    "pathId": 3483840313937716818
+                    "pathId": 780700515626042483
                 }
             ],
             "pathId": -637509538545582017,
@@ -465,17 +496,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うぅっ、トレーナーさぁぁぁん……！！",
-            "enText": "Ugh, trainer!!!…!!!",
+            "enText": "Quick! You gotta help us change her<n>mind!",
             "nextBlock": 17,
             "origClipLength": 68,
+            "voiceIdx": 22,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": -3102917916493443836
-                },
                 {
                     "origLen": 79,
                     "pathId": 7697015123196293901
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -3102917916493443836
                 },
                 {
                     "origLen": 111,
@@ -483,11 +516,11 @@
                 },
                 {
                     "origLen": 79,
-                    "pathId": -5225379125127154326
+                    "pathId": -4440473544510605619
                 },
                 {
                     "origLen": 79,
-                    "pathId": -4440473544510605619
+                    "pathId": -5225379125127154326
                 }
             ],
             "pathId": -588595993383668723,
@@ -497,34 +530,36 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "話を振られてしまった……！　とはいえ\r\nこれ以上ここにいるのは本当に辛そうなので、\n移動もかねて――",
-            "enText": "I've been talked out of it…! However, it's \ngoing to be really hard for me to stay here \nany longer, so I'm going to have to move on―",
+            "enText": "She's dragging me into it! Still, Taishin<n>really does\nlook like she's in bad shape,<n>so it might be good\nto go elsewhere.",
             "nextBlock": 18,
             "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "何か美味しいもの奢るよ",
-                    "enText": "I'll buy you something delicious.",
+                    "enText": "I'll treat you to something tasty.",
                     "nextBlock": 18
                 },
                 {
                     "jpText": "いっそランニングでもしようか",
-                    "enText": "Let's go for a run.",
+                    "enText": "Why not go for a run?",
                     "nextBlock": 34
                 },
                 {
                     "jpText": "ゲーセンでも行こうか！",
-                    "enText": "Let's go to the arcade!",
+                    "enText": "How about we go to an arcade?",
                     "nextBlock": 45
                 }
             ],
             "animData": [
                 {
                     "origLen": 121,
-                    "pathId": -3930049658500077736
+                    "pathId": 1930175392247442516
                 },
                 {
                     "origLen": 121,
-                    "pathId": 1930175392247442516
+                    "pathId": -3930049658500077736
                 },
                 {
                     "origLen": 145,
@@ -532,11 +567,11 @@
                 },
                 {
                     "origLen": 121,
-                    "pathId": 8559918588784361891
+                    "pathId": -2169879698723522465
                 },
                 {
                     "origLen": 121,
-                    "pathId": -2169879698723522465
+                    "pathId": 8559918588784361891
                 }
             ],
             "pathId": -1163593429830831659,
@@ -546,37 +581,39 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "…………で。",
-            "enText": "At…",
+            "enText": "Like...",
             "nextBlock": 19,
             "origClipLength": 52,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 20,
-                    "pathId": -2702040721562665224
+                    "pathId": 9069473060712522804
                 },
                 {
                     "origLen": 20,
-                    "pathId": 9069473060712522804
+                    "pathId": -2702040721562665224
                 },
                 {
                     "origLen": 25,
                     "pathId": 2003861994726278821
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 7486922615388729610
-                },
-                {
                     "origLen": 102,
                     "pathId": -1064345835838954441
                 },
                 {
-                    "origLen": 99,
-                    "pathId": 1151170936923510118
+                    "origLen": 77,
+                    "pathId": 7486922615388729610
                 },
                 {
                     "origLen": 113,
                     "pathId": -6175780508898593764
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 1151170936923510118
                 }
             ],
             "pathId": -2848653614485641198,
@@ -586,32 +623,34 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "なんっっっっで、この店なわけ……！？\r\nアンタの趣味……！？",
-            "enText": "Why did you choose this place \n…? Your hobby…!",
+            "enText": "What in the actual hell are we doing<n>here?! Is this\nthe kinda cafe you're into?!",
             "nextBlock": 20,
             "origClipLength": 84,
+            "voiceIdx": 36,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "そういうわけでは……！",
-                    "enText": "That's not why we're here…!",
+                    "enText": "No, that's not it!",
                     "nextBlock": 20
                 }
             ],
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -1621598477503565197
+                },
                 {
                     "origLen": 57,
                     "pathId": 7875371010468169470
                 },
                 {
                     "origLen": 95,
-                    "pathId": -1621598477503565197
+                    "pathId": 5346727567908318289
                 },
                 {
                     "origLen": 95,
                     "pathId": -2859917991682679970
-                },
-                {
-                    "origLen": 95,
-                    "pathId": 5346727567908318289
                 }
             ],
             "pathId": -2600204052429125214,
@@ -621,13 +660,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ただ、どこも混んでいて、並ばずに\r\n入れそうなのがここしかなかったのだ……！",
-            "enText": "But everywhere was crowded, and this \nwas the only place I could get in without \nwaiting in line…!",
+            "enText": "It's just, this was the only place that<n>didn't have a\nline out the door!",
             "nextBlock": 21,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 182,
                     "pathId": 6104198284230177446
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1195471183968462244
                 },
                 {
                     "origLen": 76,
@@ -635,15 +680,11 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": 1195471183968462244
+                    "pathId": 8018870538211995976
                 },
                 {
                     "origLen": 105,
                     "pathId": 2018908902348562982
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 8018870538211995976
                 }
             ],
             "pathId": 4035291666322730190,
@@ -651,35 +692,37 @@
         },
         {
             "jpName": "クマ耳店員",
-            "enName": "",
+            "enName": "Bear-eared Maid",
             "jpText": "いらっしゃいくま～♪\r\nご注文お決まりでしたらお呼びくださいくま♪",
-            "enText": "Welcome bear～♪ Please call us if you decide \nwhat you want to order.",
+            "enText": "Grrr, welcome! ♪ Just give me a roar<n>when you're\nrawr-dy to order! ♪",
             "nextBlock": 22,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 145,
                     "pathId": 2492606631994434233
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 9123956538600629637
-                },
-                {
                     "origLen": 99,
                     "pathId": 6625721669165489936
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 9123956538600629637
                 },
                 {
                     "origLen": 110,
                     "pathId": -1526651501048633219
                 },
                 {
-                    "origLen": 57,
-                    "pathId": 8239147309485998837
-                },
-                {
                     "origLen": 99,
                     "pathId": -2068720962206160761
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 8239147309485998837
                 }
             ],
             "pathId": 7407146815179144006,
@@ -689,9 +732,11 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "わ、わかりました……くま……？",
-            "enText": "Wow, okay… bears…?",
+            "enText": "Rawr-ger that... I think?",
             "nextBlock": 23,
             "origClipLength": 64,
+            "voiceIdx": 82,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 113,
@@ -699,23 +744,23 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": 3508130248941074934
+                    "pathId": -6046124444179760761
                 },
                 {
                     "origLen": 75,
-                    "pathId": -6046124444179760761
+                    "pathId": 3508130248941074934
                 },
                 {
                     "origLen": 144,
                     "pathId": 2152181744821546994
                 },
                 {
-                    "origLen": 46,
-                    "pathId": 838343438305606002
-                },
-                {
                     "origLen": 75,
                     "pathId": -3266777992395499984
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 838343438305606002
                 }
             ],
             "pathId": -1808545241525977978,
@@ -725,33 +770,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……ここでは、そういう規則なのか……！？",
-            "enText": "Is that the rule here… or…!",
+            "enText": "What kind of rules do they have here?!",
             "nextBlock": 24,
             "origClipLength": 71,
+            "voiceIdx": 35,
+            "voiceSheetId": "051023001",
             "animData": [
                 {
                     "origLen": 113,
                     "pathId": -5056022519365834607
                 },
                 {
-                    "origLen": 50,
-                    "pathId": -5150497341003000173
-                },
-                {
                     "origLen": 82,
                     "pathId": -7135193522994049644
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5150497341003000173
                 },
                 {
                     "origLen": 20,
                     "pathId": 6991386385638764499
                 },
                 {
-                    "origLen": 45,
-                    "pathId": -7721882920860311121
-                },
-                {
                     "origLen": 82,
                     "pathId": -8041391313927720236
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -7721882920860311121
                 }
             ],
             "pathId": -4051881887198225634,
@@ -761,17 +808,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "アハハハハッ、面白いカフェだねぇー！！\r\nよーし、決ーめたっ！！",
-            "enText": "Hahahahahaha, that's a funny \ncafe! Okay, I've decided!",
+            "enText": "Ahahaha! This cafe's so fun! Okay, I<n>know what I\nwant!",
             "nextBlock": 25,
             "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 175,
-                    "pathId": -1331903711370818575
-                },
                 {
                     "origLen": 107,
                     "pathId": -2087250683940827170
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -1331903711370818575
                 },
                 {
                     "origLen": 113,
@@ -779,19 +828,19 @@
                 },
                 {
                     "origLen": 107,
-                    "pathId": 1072871002494999112
-                },
-                {
-                    "origLen": 107,
                     "pathId": -2762747381766661758
                 },
                 {
-                    "origLen": 7,
-                    "pathId": 5917608253388458127
+                    "origLen": 107,
+                    "pathId": 1072871002494999112
                 },
                 {
                     "origLen": 7,
                     "pathId": -4413133131980158495
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 5917608253388458127
                 }
             ],
             "pathId": 3040083135273891520,
@@ -801,21 +850,23 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "すいませーん！　くまくまパンケーキセット、\r\nお願いしますくまー！！",
-            "enText": "Excuse me! Kumakuma pancake \nset, please, Kumakuma!",
+            "enText": "Rawr! Excuse meee! I'd like a Bear-y<n>Berry\nPancake Plate, please!",
             "nextBlock": 26,
             "origClipLength": 89,
+            "voiceIdx": 156,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 136,
                     "pathId": -1606111548578934956
                 },
                 {
-                    "origLen": 94,
-                    "pathId": -2568928464813174305
-                },
-                {
                     "origLen": 100,
                     "pathId": -7204331708665162807
+                },
+                {
+                    "origLen": 94,
+                    "pathId": -2568928464813174305
                 },
                 {
                     "origLen": 113,
@@ -823,11 +874,11 @@
                 },
                 {
                     "origLen": 100,
-                    "pathId": 2638321904792163278
+                    "pathId": -6762651382587325937
                 },
                 {
                     "origLen": 100,
-                    "pathId": -6762651382587325937
+                    "pathId": 2638321904792163278
                 }
             ],
             "pathId": 5314850174451754896,
@@ -835,11 +886,13 @@
         },
         {
             "jpName": "クマ耳店員",
-            "enName": "",
+            "enName": "Bear-eared Maid",
             "jpText": "はぁ～い♪\r\nそちらの方は、どうしますくま？",
-            "enText": "Yes, yes, yes… What do you \nwant to do about your side?",
+            "enText": "Grrr-eat choice! ♪ And what would you<n>like?",
             "nextBlock": 27,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 143,
@@ -847,11 +900,11 @@
                 },
                 {
                     "origLen": 84,
-                    "pathId": -9032326285426623487
+                    "pathId": 7897902047655334588
                 },
                 {
                     "origLen": 84,
-                    "pathId": 7897902047655334588
+                    "pathId": -9032326285426623487
                 },
                 {
                     "origLen": 113,
@@ -859,11 +912,11 @@
                 },
                 {
                     "origLen": 84,
-                    "pathId": -3411464022844950170
+                    "pathId": -2877982154344918974
                 },
                 {
                     "origLen": 84,
-                    "pathId": -2877982154344918974
+                    "pathId": -3411464022844950170
                 }
             ],
             "pathId": 410107862816116188,
@@ -873,33 +926,35 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "え、あ……\r\nじゃあ、ホットレモンティーで……。",
-            "enText": "Eh, oh… Well, I'll have \na hot lemon tea…",
+            "enText": "Er... I'll just have a hot tea with lemon...",
             "nextBlock": 28,
             "origClipLength": 76,
+            "voiceIdx": 26,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 2745180492456442322
                 },
                 {
-                    "origLen": 77,
-                    "pathId": 8960130123808019255
-                },
-                {
                     "origLen": 87,
                     "pathId": -8504124661582471741
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 8960130123808019255
                 },
                 {
                     "origLen": 113,
                     "pathId": 8210384949982954486
                 },
                 {
-                    "origLen": 96,
-                    "pathId": -4653485257538893539
-                },
-                {
                     "origLen": 87,
                     "pathId": 6895679423728072735
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -4653485257538893539
                 }
             ],
             "pathId": -2152200919875197675,
@@ -907,19 +962,21 @@
         },
         {
             "jpName": "クマ耳店員",
-            "enName": "",
+            "enName": "Bear-eared Maid",
             "jpText": "くま？",
-            "enText": "A bear?",
+            "enText": "Hm? Sorry, I can bear-ly hear you.",
             "nextBlock": 29,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 59,
-                    "pathId": -3819645059660573928
+                    "pathId": 749691722795401586
                 },
                 {
                     "origLen": 59,
-                    "pathId": 749691722795401586
+                    "pathId": -3819645059660573928
                 },
                 {
                     "origLen": 113,
@@ -927,11 +984,11 @@
                 },
                 {
                     "origLen": 59,
-                    "pathId": -2818503893251018440
+                    "pathId": 4011219264338264563
                 },
                 {
                     "origLen": 59,
-                    "pathId": 4011219264338264563
+                    "pathId": -2818503893251018440
                 }
             ],
             "pathId": 7778935062994428830,
@@ -941,29 +998,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "う……。",
-            "enText": "U…",
+            "enText": "Ugh...",
             "nextBlock": 30,
             "origClipLength": 50,
+            "voiceIdx": 78,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 61,
-                    "pathId": 378348372130142706
+                    "pathId": -8957871510457938633
                 },
                 {
                     "origLen": 61,
-                    "pathId": -8957871510457938633
+                    "pathId": 378348372130142706
                 },
                 {
                     "origLen": 119,
                     "pathId": 1341541058990345124
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -6116094588802578060
-                },
-                {
                     "origLen": 61,
                     "pathId": 4653803545106645721
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6116094588802578060
                 }
             ],
             "pathId": 1973407985151645808,
@@ -973,29 +1032,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "お、お願いします……くま。",
-            "enText": "Oh, please… bear.",
+            "enText": "I-I'd like the Brewin' Bruin Lemon Tea.",
             "nextBlock": 31,
             "origClipLength": 61,
+            "voiceIdx": 39,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 72,
-                    "pathId": -3951272095105262582
+                    "pathId": -7685001196048655352
                 },
                 {
                     "origLen": 72,
-                    "pathId": -7685001196048655352
+                    "pathId": -3951272095105262582
                 },
                 {
                     "origLen": 20,
                     "pathId": -1662235028016807397
                 },
                 {
-                    "origLen": 22,
-                    "pathId": 4255893713537764201
-                },
-                {
                     "origLen": 72,
                     "pathId": 3128805272652365628
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 4255893713537764201
                 }
             ],
             "pathId": -3789385651931482754,
@@ -1003,27 +1064,29 @@
         },
         {
             "jpName": "クマ耳店員",
-            "enName": "",
+            "enName": "Bear-eared Maid",
             "jpText": "了解ですくま～♪",
-            "enText": "Roger that.",
+            "enText": "Got it, rawr! ♪",
             "nextBlock": 32,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -9028428298131387550
-                },
                 {
                     "origLen": 66,
                     "pathId": -12846004434507638
                 },
                 {
                     "origLen": 66,
-                    "pathId": -3837816866108428827
+                    "pathId": -9028428298131387550
                 },
                 {
                     "origLen": 66,
                     "pathId": -619009284642720203
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -3837816866108428827
                 }
             ],
             "pathId": -886991401907958041,
@@ -1033,25 +1096,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "くっ……！！",
-            "enText": "Damn…!",
+            "enText": "Nnngh!",
             "nextBlock": 33,
             "origClipLength": 52,
+            "voiceIdx": 4,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 109,
-                    "pathId": 7275572332966721298
-                },
                 {
                     "origLen": 87,
                     "pathId": 8396791408616651532
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 3271962445413795183
+                    "origLen": 109,
+                    "pathId": 7275572332966721298
                 },
                 {
                     "origLen": 112,
                     "pathId": 1439075811256375638
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 3271962445413795183
                 }
             ],
             "pathId": 7328903835468229949,
@@ -1061,25 +1126,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "『後で絶対蹴っ飛ばす』……\r\n視線でそう伝えられた気がしたのだった。",
-            "enText": "'I'll definitely kick your ass later.' \n… I felt like I could tell that \nby the way she looked at me.",
+            "enText": "\"...then I'm kicking that doofus to the<n>other side\nof the world!\"\nNarita Taishin's<n>words from before her debut ring\nin my<n>head...",
             "nextBlock": -1,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": 981483496293874439
+                },
                 {
                     "origLen": 100,
                     "pathId": -8061346194416049187
                 },
                 {
                     "origLen": 100,
-                    "pathId": 981483496293874439
+                    "pathId": -5207407433871092765
                 },
                 {
                     "origLen": 61,
                     "pathId": 1211991577623845448
-                },
-                {
-                    "origLen": 100,
-                    "pathId": -5207407433871092765
                 }
             ],
             "pathId": 8300586224925408279,
@@ -1089,29 +1156,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……マジで言ってる？",
-            "enText": "… Are you serious?",
+            "enText": "Are you serious?",
             "nextBlock": 35,
             "origClipLength": 58,
+            "voiceIdx": 20,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 69,
-                    "pathId": 6206310179145002704
+                    "pathId": 7509117717725572362
                 },
                 {
                     "origLen": 69,
-                    "pathId": 7509117717725572362
+                    "pathId": 6206310179145002704
                 },
                 {
                     "origLen": 20,
                     "pathId": -940301441070193814
                 },
                 {
-                    "origLen": 46,
-                    "pathId": -2684719818781034085
-                },
-                {
                     "origLen": 69,
                     "pathId": 8728483207636824415
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -2684719818781034085
                 }
             ],
             "pathId": -2241920032854847523,
@@ -1121,17 +1190,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "ははは！　正月までとは、\r\nずいぶんと熱心なことだな！",
-            "enText": "Ha-ha-ha! You've been very enthusiastic, \neven until New Year's!",
+            "enText": "Haha! On New Year's Day? I admire your<n>\nenthusiasm!",
             "nextBlock": 36,
             "origClipLength": 80,
+            "voiceIdx": 1,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 5755902463605264983
+                },
                 {
                     "origLen": 7,
                     "pathId": 5753665906048266230
                 },
                 {
-                    "origLen": 7,
-                    "pathId": 5755902463605264983
+                    "origLen": 101,
+                    "pathId": -6670132464369549707
                 },
                 {
                     "origLen": 101,
@@ -1139,15 +1214,11 @@
                 },
                 {
                     "origLen": 101,
-                    "pathId": -6670132464369549707
+                    "pathId": -9021921594569570525
                 },
                 {
                     "origLen": 141,
                     "pathId": -7583488355126002795
-                },
-                {
-                    "origLen": 101,
-                    "pathId": -9021921594569570525
                 }
             ],
             "pathId": 3166611643165351971,
@@ -1157,25 +1228,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "まあしかし、私たちらしいといえば\r\nらしいのかもしれない。",
-            "enText": "Well, maybe that's just like us.",
+            "enText": "Then again, that's a very fitting activity<n>for us to\ndo.",
             "nextBlock": 37,
             "origClipLength": 82,
+            "voiceIdx": 5,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": 3795098934825737424
+                },
                 {
                     "origLen": 70,
                     "pathId": 6161079310123378304
                 },
                 {
                     "origLen": 93,
-                    "pathId": 3795098934825737424
+                    "pathId": 1391995032379486642
                 },
                 {
                     "origLen": 40,
                     "pathId": 1113379514145831936
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 1391995032379486642
                 }
             ],
             "pathId": 4972917003472839339,
@@ -1185,25 +1258,27 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "よし、せっかくだ。気分転換の\r\nできそうな場所まで、走るとしよう。",
-            "enText": "All right, I've come to the end of the road. \nLet's go for a run to a place where we can \nget a change of scenery.",
+            "enText": "We might as well. Let's run until we find<n>\nsomewhere we can take a quiet break.",
             "nextBlock": 38,
             "origClipLength": 88,
+            "voiceIdx": 6,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 99,
+                    "pathId": -2563790486157667953
+                },
                 {
                     "origLen": 50,
                     "pathId": -6093907541270649099
                 },
                 {
                     "origLen": 99,
-                    "pathId": -2563790486157667953
+                    "pathId": 3017901649927102041
                 },
                 {
                     "origLen": 70,
                     "pathId": -4151063906883661484
-                },
-                {
-                    "origLen": 99,
-                    "pathId": 3017901649927102041
                 }
             ],
             "pathId": -2960677753770594851,
@@ -1213,33 +1288,35 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うぉおおおおおっ！\r\n初・日の・出ーーーー！！！！",
-            "enText": "Wooooooooooooo! First day outーーーCOPY00",
+            "enText": "Whoooaaa! It's the first sunrise of the<n>new\nyeaaaar!",
             "nextBlock": 39,
             "origClipLength": 77,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 20,
-                    "pathId": -2186680916785765884
-                },
                 {
                     "origLen": 20,
                     "pathId": 8613080792281051129
                 },
                 {
                     "origLen": 20,
-                    "pathId": 8799873315209395627
+                    "pathId": -2186680916785765884
                 },
                 {
                     "origLen": 20,
                     "pathId": 7980161905242982198
                 },
                 {
-                    "origLen": 62,
-                    "pathId": -4616791964550066783
+                    "origLen": 20,
+                    "pathId": 8799873315209395627
                 },
                 {
                     "origLen": 89,
                     "pathId": 4069530055025987362
+                },
+                {
+                    "origLen": 62,
+                    "pathId": -4616791964550066783
                 }
             ],
             "pathId": 2056559877236316372,
@@ -1249,25 +1326,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや、こんだけ昇りきってたら\r\n初も何もないでしょ……。",
-            "enText": "No, if you've ascended this high, there's no \nfirst time or nothing…",
+            "enText": "Yeah, if we'd been here hours ago. It's<n>practically\nnoon already.",
             "nextBlock": 40,
             "origClipLength": 63,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 172,
-                    "pathId": -6241680694251462116
-                },
                 {
                     "origLen": 168,
                     "pathId": 1401471895733386831
                 },
                 {
-                    "origLen": 114,
-                    "pathId": 4239492547983325443
+                    "origLen": 172,
+                    "pathId": -6241680694251462116
                 },
                 {
                     "origLen": 115,
                     "pathId": -3979249900441082060
+                },
+                {
+                    "origLen": 114,
+                    "pathId": 4239492547983325443
                 }
             ],
             "pathId": 6904593900258968706,
@@ -1277,25 +1356,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "にしてもここ、気持ちいいねぇーっ！！\r\nこんな場所あったんだ、知らなかった！！",
-            "enText": "But it's so nice here! I didn't know \nthere was a place like this!",
+            "enText": "But this place still feels great! I had no<n>idea it\nexisted!",
             "nextBlock": 41,
             "origClipLength": 95,
+            "voiceIdx": 2,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -748702320467819464
+                },
                 {
                     "origLen": 122,
                     "pathId": 8119547191586864143
                 },
                 {
                     "origLen": 106,
-                    "pathId": -748702320467819464
+                    "pathId": 8066027869422161370
                 },
                 {
                     "origLen": 106,
                     "pathId": 1910123187724772688
-                },
-                {
-                    "origLen": 106,
-                    "pathId": 8066027869422161370
                 }
             ],
             "pathId": 741677757294731225,
@@ -1305,33 +1386,35 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "確かに絶景だ。\r\nタイシン、君はよく来る場所なのか？",
-            "enText": "It is indeed a spectacular view. Taishin, is \nthis a place you come to often?",
+            "enText": "The view truly is fantastic. Do you come<n>here\noften, Taishin?",
             "nextBlock": 42,
             "origClipLength": 78,
+            "voiceIdx": 0,
+            "voiceSheetId": "051023001",
             "animData": [
-                {
-                    "origLen": 8,
-                    "pathId": 5104932648556534880
-                },
                 {
                     "origLen": 8,
                     "pathId": 8648941803104590025
                 },
                 {
-                    "origLen": 99,
-                    "pathId": 8769970749992181532
+                    "origLen": 8,
+                    "pathId": 5104932648556534880
                 },
                 {
                     "origLen": 132,
                     "pathId": 2052398441088548603
                 },
                 {
-                    "origLen": 127,
-                    "pathId": 6857123480737389805
+                    "origLen": 99,
+                    "pathId": 8769970749992181532
                 },
                 {
                     "origLen": 94,
                     "pathId": -1597950763997642626
+                },
+                {
+                    "origLen": 127,
+                    "pathId": 6857123480737389805
                 }
             ],
             "pathId": -9159653964326578974,
@@ -1341,13 +1424,19 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……まあ、ね。",
-            "enText": "… Well, you know.",
+            "enText": "Yeah, I guess.",
             "nextBlock": 43,
             "origClipLength": 54,
+            "voiceIdx": 79,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 60,
                     "pathId": 4519115481294800332
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 858076939778235391
                 },
                 {
                     "origLen": 50,
@@ -1355,15 +1444,11 @@
                 },
                 {
                     "origLen": 65,
-                    "pathId": 858076939778235391
+                    "pathId": -8288744115944679957
                 },
                 {
                     "origLen": 65,
                     "pathId": -6731011197818190745
-                },
-                {
-                    "origLen": 65,
-                    "pathId": -8288744115944679957
                 }
             ],
             "pathId": -400183178620632338,
@@ -1373,9 +1458,11 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あっ！！！　レース場が見える！！\r\nタイシン、ハヤヒデ、こっちこっちーーー！！",
-            "enText": "Ah! I can see the racetrack! Taishin, \nHayahide, over here, over here!",
+            "enText": "Ohhh! I can see the racecourse! Taishin,<n>\nHayahide! Over here!",
             "nextBlock": 44,
             "origClipLength": 95,
+            "voiceIdx": 31,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 98,
@@ -1383,23 +1470,23 @@
                 },
                 {
                     "origLen": 106,
-                    "pathId": 8500561601124950301
+                    "pathId": 7110999649134038744
                 },
                 {
                     "origLen": 106,
-                    "pathId": 7110999649134038744
+                    "pathId": 8500561601124950301
                 },
                 {
                     "origLen": 118,
                     "pathId": 1882436790905246937
                 },
                 {
-                    "origLen": 157,
-                    "pathId": -1813270877105395659
-                },
-                {
                     "origLen": 106,
                     "pathId": -3762646492780060965
+                },
+                {
+                    "origLen": 157,
+                    "pathId": -1813270877105395659
                 }
             ],
             "pathId": 6314224161113361455,
@@ -1409,33 +1496,35 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（……初めてだな、ここが騒がしいのは）",
-            "enText": "(… first time I've ever \nseen this place so noisy)",
+            "enText": "(I'm pretty sure this is the first time it's<n>been so\nnoisy here.)",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 6039402152104062845
                 },
                 {
-                    "origLen": 73,
-                    "pathId": -1619409777243216415
-                },
-                {
                     "origLen": 84,
                     "pathId": -2655300519285890190
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -1619409777243216415
                 },
                 {
                     "origLen": 120,
                     "pathId": -6207529566887699677
                 },
                 {
-                    "origLen": 83,
-                    "pathId": 5000104426406885321
-                },
-                {
                     "origLen": 84,
                     "pathId": -2217000349710447393
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 5000104426406885321
                 }
             ],
             "pathId": 3389238589184203661,
@@ -1445,29 +1534,31 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "あぁっ！！　それ、いいッ！！！\r\nねねねね、ゲーセンならいいよねタイシン！？",
-            "enText": "Aah! That's good! Ne, ne, ne, if it's an \narcade, it's good, right Taishin!",
+            "enText": "Oooh! That's an <i>awesome</i> idea! Hey,<n>hey, hey!\nYou like arcades, right,<n>Taishin?!",
             "nextBlock": 46,
             "origClipLength": 94,
+            "voiceIdx": 9,
+            "voiceSheetId": "051035001",
             "animData": [
-                {
-                    "origLen": 77,
-                    "pathId": -3628811684406443456
-                },
                 {
                     "origLen": 105,
                     "pathId": 1796906358401087891
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3628811684406443456
                 },
                 {
                     "origLen": 20,
                     "pathId": 6298746987736574952
                 },
                 {
-                    "origLen": 81,
-                    "pathId": 7658057835491582421
-                },
-                {
                     "origLen": 105,
                     "pathId": 699458112941385711
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 7658057835491582421
                 }
             ],
             "pathId": -7552698051789833789,
@@ -1477,29 +1568,31 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "いや……ゲームは暇潰しにやってるだけだし、\r\n別にゲーセンとか普段行かないんだけど……。",
-            "enText": "No… games are just something I do in \nmy spare time, and I don't usually go to the \narcade or anything like that…",
+            "enText": "No... I like playing games to kill time,<n>but I don't\nreally go to arcades.",
             "nextBlock": 47,
             "origClipLength": 102,
+            "voiceIdx": 50,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 113,
-                    "pathId": 3342614813440407464
+                    "pathId": 6992203872962000599
                 },
                 {
                     "origLen": 113,
-                    "pathId": 6992203872962000599
+                    "pathId": 3342614813440407464
                 },
                 {
                     "origLen": 50,
                     "pathId": -3714838282282431114
                 },
                 {
-                    "origLen": 138,
-                    "pathId": 7486006016384427199
-                },
-                {
                     "origLen": 113,
                     "pathId": 6328256067142118921
+                },
+                {
+                    "origLen": 138,
+                    "pathId": 7486006016384427199
                 }
             ],
             "pathId": 7634346565422501209,
@@ -1509,13 +1602,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ダイジィィィィン……。",
-            "enText": "Daisyyyy…",
+            "enText": "But Taishiiiiin...",
             "nextBlock": 48,
             "origClipLength": 59,
+            "voiceIdx": 17,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 103,
                     "pathId": 2439013529590686116
+                },
+                {
+                    "origLen": 70,
+                    "pathId": -4351457833781867633
                 },
                 {
                     "origLen": 28,
@@ -1523,15 +1622,11 @@
                 },
                 {
                     "origLen": 70,
-                    "pathId": -4351457833781867633
+                    "pathId": -2526789309758750022
                 },
                 {
                     "origLen": 70,
                     "pathId": -1886455449049026916
-                },
-                {
-                    "origLen": 70,
-                    "pathId": -2526789309758750022
                 }
             ],
             "pathId": -4789080695679042107,
@@ -1541,9 +1636,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……はぁ、わかったっつの。",
-            "enText": "… huh, I know what I'm talking about.",
+            "enText": "Ugh, fine.",
             "nextBlock": 49,
             "origClipLength": 61,
+            "voiceIdx": 60,
+            "voiceSheetId": "051050001",
             "animData": [
                 {
                     "origLen": 103,
@@ -1551,19 +1648,19 @@
                 },
                 {
                     "origLen": 72,
+                    "pathId": -8886081694379260963
+                },
+                {
+                    "origLen": 72,
                     "pathId": -309267280745981627
                 },
                 {
                     "origLen": 72,
-                    "pathId": -8886081694379260963
+                    "pathId": -3067046404893223619
                 },
                 {
                     "origLen": 4,
                     "pathId": -2919364443951049549
-                },
-                {
-                    "origLen": 72,
-                    "pathId": -3067046404893223619
                 }
             ],
             "pathId": -2785510645887481438,
@@ -1573,13 +1670,19 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "ホント！？　ぃいいいいやったぁーっ！！",
-            "enText": "Really? Yeah, yeah, yeah, yeah!",
+            "enText": "Really? Yaaaay!",
             "nextBlock": 50,
             "origClipLength": 69,
+            "voiceIdx": 6,
+            "voiceSheetId": "051035001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -1443876332038093834
+                },
+                {
+                    "origLen": 80,
+                    "pathId": -4522636621138701361
                 },
                 {
                     "origLen": 53,
@@ -1587,15 +1690,11 @@
                 },
                 {
                     "origLen": 80,
-                    "pathId": -4522636621138701361
+                    "pathId": 7911680358909592206
                 },
                 {
                     "origLen": 80,
                     "pathId": -3124452453349433835
-                },
-                {
-                    "origLen": 80,
-                    "pathId": 7911680358909592206
                 }
             ],
             "pathId": 3897157823319385645,
@@ -1605,17 +1704,23 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……つくづく甘いよな、君も。",
-            "enText": "… You're really sweet, you too.",
+            "enText": "You're rather indulgent today.",
             "nextBlock": 51,
             "origClipLength": 63,
+            "voiceIdx": 0,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 7,
+                    "pathId": 3989433352036146571
+                },
                 {
                     "origLen": 7,
                     "pathId": 6515136296455256352
                 },
                 {
-                    "origLen": 7,
-                    "pathId": 3989433352036146571
+                    "origLen": 84,
+                    "pathId": 836426487159775928
                 },
                 {
                     "origLen": 84,
@@ -1623,15 +1728,11 @@
                 },
                 {
                     "origLen": 84,
-                    "pathId": 836426487159775928
+                    "pathId": 5105075558854890224
                 },
                 {
                     "origLen": 108,
                     "pathId": -1254902220882082672
-                },
-                {
-                    "origLen": 84,
-                    "pathId": 5105075558854890224
                 }
             ],
             "pathId": 2479426252727321246,
@@ -1641,25 +1742,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……っさい！",
-            "enText": "…!",
+            "enText": "Shut up!",
             "nextBlock": 52,
             "origClipLength": 52,
+            "voiceIdx": 4,
+            "voiceSheetId": "051050001",
             "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -3746596654479415861
+                },
                 {
                     "origLen": 20,
                     "pathId": -5924841988521931221
                 },
                 {
                     "origLen": 63,
-                    "pathId": -3746596654479415861
+                    "pathId": 1800173567152745459
                 },
                 {
                     "origLen": 63,
                     "pathId": -5630078545723194267
-                },
-                {
-                    "origLen": 63,
-                    "pathId": 1800173567152745459
                 }
             ],
             "pathId": -5073359342584349820,
@@ -1669,33 +1772,35 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うぉおおおおおっ！！！\r\n全・力・掃・射ぁーーーーっ！！！",
-            "enText": "Whoa, whoa, whoa, whoa! All power sweep shot!",
+            "enText": "Yaaaaah! I won't let a single one of you<n>escape\nmy wrath!",
             "nextBlock": 53,
             "origClipLength": 82,
+            "voiceIdx": 10,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 132,
+                    "pathId": 1123059077115076500
+                },
                 {
                     "origLen": 141,
                     "pathId": 5177604598899828994
                 },
                 {
                     "origLen": 132,
-                    "pathId": 1123059077115076500
+                    "pathId": -4138158936152884073
                 },
                 {
                     "origLen": 115,
                     "pathId": 4987086574651894665
                 },
                 {
-                    "origLen": 132,
-                    "pathId": -4138158936152884073
+                    "origLen": 20,
+                    "pathId": -1318367227830190900
                 },
                 {
                     "origLen": 20,
                     "pathId": 1783793698020431054
-                },
-                {
-                    "origLen": 20,
-                    "pathId": -1318367227830190900
                 }
             ],
             "pathId": 7453156491415783761,
@@ -1705,25 +1810,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "バカ、雑魚にショットガンなんか使うなって！\r\nこの後デカいの来るんだから――",
-            "enText": "Don't use a shotgun on a little fish, \nyou idiot! We've got a big one coming \nin a few minutes…",
+            "enText": "Bonehead! Don't use your shotgun on<n>the\nweaklings! You need to save it for<n>the big one\ncoming after this—",
             "nextBlock": 54,
             "origClipLength": 94,
+            "voiceIdx": 16,
+            "voiceSheetId": "051050001",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 2283200639132080089
+                },
                 {
                     "origLen": 105,
                     "pathId": 6098796258657362312
                 },
                 {
                     "origLen": 105,
-                    "pathId": 2283200639132080089
+                    "pathId": 632969474808256363
                 },
                 {
                     "origLen": 52,
                     "pathId": 6413209858525950648
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 632969474808256363
                 }
             ],
             "pathId": 8973276625020572852,
@@ -1733,25 +1840,27 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うぎゃー！？！？　どうしよどうしよっ、\r\nアタシ噛みつかれてる！？\nゾンビになるのはいやだよぉおおお！！",
-            "enText": "What the hell? Oh my God, I've been bitten! I \ndon't want to be a zombie!",
+            "enText": "Gaaah! What do I do, what do I do?! It's<n>biting\nme—I don't wanna become a<n>zombiiie!",
             "nextBlock": 55,
             "origClipLength": 112,
+            "voiceIdx": 104,
+            "voiceSheetId": "051035001",
             "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 5313752429511602344
+                },
                 {
                     "origLen": 95,
                     "pathId": 9000913881933803051
                 },
                 {
                     "origLen": 123,
-                    "pathId": 5313752429511602344
+                    "pathId": -863757269826143566
                 },
                 {
                     "origLen": 123,
                     "pathId": -2026983100380357947
-                },
-                {
-                    "origLen": 123,
-                    "pathId": -863757269826143566
                 }
             ],
             "pathId": 7382103031942843774,
@@ -1761,25 +1870,27 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "くっそ……要は頭に当たれば、\r\n1発でしょっ！！",
-            "enText": "Damn it… the point is if it hits you in \nthe head, it's one shot!",
+            "enText": "Ugh... Shoot them in the head to kill<n>them\ninstantly!",
             "nextBlock": 56,
             "origClipLength": 76,
+            "voiceIdx": 64,
+            "voiceSheetId": "051050001",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": 4026219577815217794
-                },
                 {
                     "origLen": 17,
                     "pathId": 3135375840752692896
                 },
                 {
-                    "origLen": 16,
-                    "pathId": 6600874017728549706
+                    "origLen": 17,
+                    "pathId": 4026219577815217794
                 },
                 {
                     "origLen": 16,
                     "pathId": -3521336873562254825
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 6600874017728549706
                 }
             ],
             "pathId": 4712181885414094272,
@@ -1789,9 +1900,11 @@
             "jpName": "ウイニングチケット",
             "enName": "Winning Ticket",
             "jpText": "うひゃあ！？　す、すごいやタイシン……\r\n全部ヘッドショット……！！！！",
-            "enText": "Whoo-hoo! Wow, that's great Taishin… \nall headshots…！！！！",
+            "enText": "Whoa! Wow, Taishin... You're nailing<n>every one of\n'em with headshots!",
             "nextBlock": 57,
             "origClipLength": 89,
+            "voiceIdx": 115,
+            "voiceSheetId": "051035001",
             "pathId": -2268822779522761934,
             "blockIdx": 56
         },
@@ -1799,30 +1912,31 @@
             "jpName": "ビワハヤヒデ",
             "enName": "Biwa Hayahide",
             "jpText": "……楽しそうでなによりだ。",
-            "enText": "I'm glad you're enjoying…",
+            "enText": "It's nice seeing them having fun.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": 74,
+            "voiceSheetId": "051023001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 7881517674833760897
+                },
                 {
                     "origLen": 112,
                     "pathId": 2242660587996531113
                 },
                 {
                     "origLen": 72,
-                    "pathId": 7881517674833760897
+                    "pathId": -6899815975618315288
                 },
                 {
                     "origLen": 121,
                     "pathId": 8335150084343301266
-                },
-                {
-                    "origLen": 72,
-                    "pathId": -6899815975618315288
                 }
             ],
             "pathId": 4183556482083058978,
             "blockIdx": 57
         }
-    ],
-    "modified": 1662157658
+    ]
 }

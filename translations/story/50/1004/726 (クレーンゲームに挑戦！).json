@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "K6VAYASL7YWUXT27FJQHRLRPVOD3OWNL",
+    "version": 6,
+    "bundle": "SGOIRZLRSHRZO3ND7FZHY4RTS6NA77RI",
     "type": "story",
     "storyId": "501004726",
     "title": "クレーンゲームに挑戦！",
+    "enTitle": "Claw Machine!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日、\r\nマルゼンスキーと出かけた先で――",
-            "enText": "One day, I was out with Maruzensky.",
+            "enText": "One day, while out with Maruzensky...",
             "nextBlock": 2,
+            "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": 1960775325989003588
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 4782041962797500382
+                }
+            ],
             "pathId": 2824246140374394259,
             "blockIdx": 1
         },
@@ -18,8 +32,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "クレーンゲームかぁ～！\n最近流行ってるわよね。",
-            "enText": "Crane games, huh? They're all the rage\nthese days, aren't they?",
+            "enText": "Claw machines! These are so huge with<n>the kids\nright now.",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "voiceIdx": 8,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 89,
+                    "pathId": -4753228739382222225
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7680651996114359624
+                }
+            ],
             "pathId": -4604403822259662080,
             "blockIdx": 2
         },
@@ -27,8 +54,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "前は、よく遊んでたんだけど……。\nコツを掴んじゃうと、\nスリルがなくなっちゃってね！",
-            "enText": "I used to play a lot of … Once you get the\nhang of it, it's not so thrilling anymore!",
+            "enText": "I used to play them all the time... But<n>once I got\nthe hang of it, the thrill was<n>gone!",
             "nextBlock": 4,
+            "origClipLength": 99,
+            "voiceIdx": 0,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -5691865596789515560
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -5335326553651235895
+                }
+            ],
             "pathId": -7760765439881401733,
             "blockIdx": 3
         },
@@ -36,8 +76,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あー！　見て見て～！\nあのぬいぐるみかわゆい～っ！",
-            "enText": "Aah! Look, look! That stuffed\nanimal is so cute!",
+            "enText": "Oh, look over there! That plushie is <i>mad</i><n>cute!",
             "nextBlock": 5,
+            "origClipLength": 77,
+            "voiceIdx": 31,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 84,
+                    "pathId": 4409543018845484546
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -7938982579767397126
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 61992572067585513
+                }
+            ],
             "pathId": -8352212276306355536,
             "blockIdx": 4
         },
@@ -45,8 +102,25 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そこにはクレーンゲームの景品として、\nウマ娘を模したぬいぐるみが陳列してあった。",
-            "enText": "There was a stuffed animal modeled\nafter Uma Musume on display as a\nprize for a crane game.",
+            "enText": "I turn to see Umamusume plushies on<n>display as\nprizes for a claw machine.",
             "nextBlock": 6,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 5377746977996869241
+                },
+                {
+                    "origLen": 120,
+                    "pathId": 2105126375475215771
+                },
+                {
+                    "origLen": 109,
+                    "pathId": 2024559550331976250
+                }
+            ],
             "pathId": -969255105286454512,
             "blockIdx": 5
         },
@@ -54,18 +128,35 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ねえねえ、あれ、欲しいなぁ～。\nあたしに取ってくれない？",
-            "enText": "Hey, hey, I want that one.\nCan you pass it to me?",
+            "enText": "I want that one so bad! Can you get it<n>for me?",
             "nextBlock": 7,
+            "origClipLength": 81,
+            "voiceIdx": 53,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "クレーンゲーム得意なんじゃないのか？",
-                    "enText": "I thought you were good at crane games.",
+                    "enText": "Didn't you say you were good at claw\nmachines?",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "クレーンゲーム得意なんじゃないの？",
-                    "enText": "I thought you were good at crane games. ",
+                    "enText": "Didn't you say you were good at claw\nmachines?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 16,
+                    "pathId": -3543007716062698198
+                },
+                {
+                    "origLen": 120,
+                    "pathId": -5187698196598121872
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -446334589335726225
                 }
             ],
             "pathId": -4561784253264259607,
@@ -75,8 +166,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "も～トレーナー君は、\n乙女心をわかってないなぁ……。",
-            "enText": "You're a trainer, you don't\nunderstand a girl's heart…",
+            "enText": "You just don't get it, Trainer...",
             "nextBlock": 8,
+            "origClipLength": 78,
+            "voiceIdx": 21,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 546639520213578226
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7974484601038752303
+                }
+            ],
             "pathId": -1987563482165553862,
             "blockIdx": 7
         },
@@ -84,8 +188,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "も～トレーナーちゃんは、\n乙女心をわかってないなぁ……。",
-            "enText": "The trainer does not understand\nthe heart of a girl…",
+            "enText": "You just don't get it, Trainer...",
             "nextBlock": 9,
+            "origClipLength": 81,
+            "voiceIdx": 21,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -8210165671516957009
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -2440732227579415285
+                }
+            ],
             "pathId": 5611369150622579581,
             "blockIdx": 8
         },
@@ -93,8 +210,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "自分で取るのと、取ってもらうのとじゃ\n全然意味が変わってくるでしょ？",
-            "enText": "If you take it yourself or have someone\ntake it for you, it has a completely\ndifferent meaning, doesn't it?",
+            "enText": "Having someone win it for you feels<n>totally\ndifferent from winning it for<n>yourself.",
             "nextBlock": 10,
+            "origClipLength": 89,
+            "voiceIdx": 2,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": -5931914287241464657
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -179257749232787296
+                }
+            ],
             "pathId": -2050450979379536705,
             "blockIdx": 9
         },
@@ -102,8 +232,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ガンバッ！　トレーナー君！\n期待してるから♪",
-            "enText": "Come on! Trainer! I'm counting on you.",
+            "enText": "You got this, Trainer! I know you can do<n>it! ♪",
             "nextBlock": 11,
+            "origClipLength": 73,
+            "voiceIdx": 120,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 4988045706069712990
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6111712278156101725
+                }
+            ],
             "pathId": 7128619723217384376,
             "blockIdx": 10
         },
@@ -111,8 +254,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ガンバッ！　トレーナーちゃん！\n期待してるから♪",
-            "enText": "Come on! Trainer! I'm counting on you. ",
+            "enText": "You got this, Trainer! I know you can do<n>it! ♪",
             "nextBlock": 12,
+            "origClipLength": 76,
+            "voiceIdx": 120,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 120,
+                    "pathId": 39372241398374813
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6130359790899002585
+                }
+            ],
             "pathId": -7089865383014348328,
             "blockIdx": 11
         },
@@ -120,8 +276,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――このゲーム、負けられない！！",
-            "enText": "――This game, you can't lose!",
+            "enText": "There's no way I can fail now!",
             "nextBlock": -1,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": -7521262837482077268
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -481140525370099606
+                }
+            ],
             "pathId": 3155990584552265901,
             "blockIdx": 12
         }

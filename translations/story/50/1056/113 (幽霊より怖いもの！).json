@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "W744OM5T3YISYOQVDDQ6FHQ27BKRQKM5",
+    "version": 6,
+    "bundle": "3SUR2ARS2VS23462DQBTJPA4CHKNDXSO",
     "type": "story",
     "storyId": "501056113",
     "title": "幽霊より怖いもの！",
+    "enTitle": "Scarier than a Ghost!",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "迫りくるダービー。その重圧に耐え、\r\n訓練にいそしんでいた、ある夜――",
-            "enText": "The Derby was approaching. One night, \nwhile enduring the pressure of the \nrace, I was busy training…",
+            "enText": "The Derby draws closer. One night, after<n>another\nhard session of diligent<n>training...",
             "nextBlock": 2,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7635870679907311084,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ぴえええええええええっ！",
-            "enText": "Pieeeeeeee!",
+            "enText": "AIIIIIEEE!",
             "nextBlock": 3,
             "origClipLength": 52,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "pathId": -8615604101844000101,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "この声は怪鳥……じゃなくて、\r\nマチカネフクキタル！？\n急いで教室へ向かうと……。",
-            "enText": "This voice is not a monster bird…… but \nMachikanefukukkitaru! I rushed to the \nclassroom and found ……",
+            "enText": "Is that the cry of a demon-possessed<n>pigeon? No,\nit's Matikanefukukitaru! I<n>rush to the classroom to\nfind...",
             "nextBlock": 4,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5537328359595462585,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさんっ！　で、ででででっ、\r\n出ました！　出たんですっ！",
-            "enText": "Trainer! And… and… and… and… and… and… and it \ncame out! It's out!",
+            "enText": "Oh, Trainer! I-I-I-I saw it! I-it's right over<n>there!",
             "nextBlock": 5,
             "origClipLength": 66,
+            "voiceIdx": 28,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "幽霊が！？",
-                    "enText": "The ghost!",
+                    "enText": "A ghost?!",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 126,
-                    "pathId": 2789718578007195861
-                },
-                {
                     "origLen": 129,
                     "pathId": 6948125924669675261
+                },
+                {
+                    "origLen": 126,
+                    "pathId": 2789718578007195861
                 }
             ],
             "pathId": -5265901903829169353,
@@ -66,21 +75,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "いえ、それより恐ろしいものがっ！\r\nほら、見てください。壁に貼られた、\nダービー出走予定表を！",
-            "enText": "No, it's more terrifying than that! Look at \nthis. Look at the Derby schedule on the wall!",
+            "enText": "Worse! Have a look, if you dare! Right<n>there on\nthe wall, in the list of Derby<n>entrants!",
             "nextBlock": 6,
             "origClipLength": 76,
+            "voiceIdx": 31,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 94,
                     "pathId": 7968827802912973120
                 },
                 {
-                    "origLen": 59,
-                    "pathId": 5707551390813061711
-                },
-                {
                     "origLen": 87,
                     "pathId": 7417289340867167397
+                },
+                {
+                    "origLen": 59,
+                    "pathId": 5707551390813061711
                 }
             ],
             "pathId": 1376565355710887027,
@@ -90,13 +101,15 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "まさかと思った名前が書いてあるんです。\r\nほら――『サイレンススズカ』って！",
-            "enText": "It has a name on it that I didn't think was \npossible. You see―\"Silence Suzuka\"!",
+            "enText": "A name I never thought I'd see... Look, it<n>says...\n<i>Silence Suzuka!</i>",
             "nextBlock": 7,
             "origClipLength": 69,
+            "voiceIdx": 36,
+            "voiceSheetId": "051056001",
             "coloredText": [
                 {
                     "jpText": "サイレンススズカ",
-                    "enText": "Silence Suzuka"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -105,12 +118,12 @@
                     "pathId": 1276763768176932885
                 },
                 {
-                    "origLen": 35,
-                    "pathId": 2080255165602868215
-                },
-                {
                     "origLen": 80,
                     "pathId": 3865444267333204989
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 2080255165602868215
                 }
             ],
             "pathId": 6097123896695633727,
@@ -120,24 +133,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ぴええええっ、後光がまぶしくて、\r\n目を開けてられません～！",
-            "enText": "I can't keep my eyes open, \nthe halo is so blinding!",
+            "enText": "Aiiieee! Her name is so bright my eyes<n>can hardly\ntake it!",
             "nextBlock": 8,
             "origClipLength": 64,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "落ち着いて……！",
-                    "enText": "Relax, ……!",
+                    "enText": "Hey, get a grip!",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 52,
-                    "pathId": 6013084044330752516
-                },
-                {
                     "origLen": 75,
                     "pathId": -2628436166922867677
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 6013084044330752516
                 }
             ],
             "pathId": 2101185719903722711,
@@ -147,17 +162,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "は、はい～、すみません、\r\nあまりに驚いたもので。",
-            "enText": "I'm sorry, I was too surprised.",
+            "enText": "R-right... Sorry. I was just so surprised.",
             "nextBlock": 9,
             "origClipLength": 61,
+            "voiceIdx": 24,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 19122382883343998
-                },
                 {
                     "origLen": 72,
                     "pathId": -664599162002597838
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 19122382883343998
                 }
             ],
             "pathId": -8751784937396076280,
@@ -167,13 +184,15 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさん、お祈りにいきましょう！\r\nスズカさんとレースする自信が、\nこれっぽっちもありません！",
-            "enText": "Let's pray, trainers! I'm not sure I'm ready \nto race with Ms. Suzuka. I don't have the \nslightest confidence in racing Suzuka!",
+            "enText": "Trainer, let's pray together! As I am, I<n>don't have\nthe confidence to race<n>against the likes of\nSuzuka!",
             "nextBlock": 10,
             "origClipLength": 77,
+            "voiceIdx": 54,
+            "voiceSheetId": "051056001",
             "coloredText": [
                 {
                     "jpText": "スズカ",
-                    "enText": "turnip (Brassica rapa)"
+                    "enText": ""
                 }
             ],
             "animData": [
@@ -182,12 +201,12 @@
                     "pathId": -1552551162941694577
                 },
                 {
-                    "origLen": 40,
-                    "pathId": 4197410621500047587
-                },
-                {
                     "origLen": 88,
                     "pathId": 1368105658232785926
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 4197410621500047587
                 }
             ],
             "pathId": 7221058694809870688,
@@ -197,21 +216,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "にゃむにゃむにゃむ～。神よ、スズカさんの\r\n輝きから、私を守りたまえ～！",
-            "enText": "Nyamu nyamu nyamu～! O God, protect me from \nthe brilliance of Ms. Suzuka～!",
+            "enText": "O gods, hear my supplication! Grant me<n>a divine\nshield against Suzuka's piercing<n>light!",
             "nextBlock": 11,
             "origClipLength": 68,
+            "voiceIdx": 40,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 13,
                     "pathId": 7256090423870553047
                 },
                 {
-                    "origLen": 90,
-                    "pathId": 1112506007590725622
-                },
-                {
                     "origLen": 108,
                     "pathId": -2134793049427875183
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 1112506007590725622
                 }
             ],
             "pathId": -7007422347246180680,
@@ -221,17 +242,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "強すぎる力は、時に呪いとなるのです。\r\nですから、どうか……！",
-            "enText": "Too much power is sometimes \na curse. So please, ……!",
+            "enText": "Such tremendous power may wreak<n>terrible\ncurses. So, I beg of you—",
             "nextBlock": 12,
             "origClipLength": 65,
+            "voiceIdx": 39,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": -2013538645638499168
-                },
                 {
                     "origLen": 76,
                     "pathId": -1402518086773326096
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -2013538645638499168
                 }
             ],
             "pathId": -8304158100239433925,
@@ -241,31 +264,33 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……何をお願いしているの、フクキタル？",
-            "enText": "…… What are you asking for, fukkital?",
+            "enText": "What are you praying for, Fukukitaru?",
             "nextBlock": 13,
             "origClipLength": 57,
+            "voiceIdx": 30,
+            "voiceSheetId": "051002001",
             "coloredText": [
                 {
                     "jpText": "フクキタル",
-                    "enText": "fukkital"
+                    "enText": ""
                 }
             ],
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": -1844942007792234067
-                },
                 {
                     "origLen": 68,
                     "pathId": -6634868990597524730
                 },
                 {
                     "origLen": 68,
-                    "pathId": 8304026572311770748
+                    "pathId": -1844942007792234067
                 },
                 {
                     "origLen": 68,
                     "pathId": -868648533869706385
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 8304026572311770748
                 }
             ],
             "pathId": 6081096726382719587,
@@ -275,9 +300,11 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "なにって決まってるじゃないですか。\r\nアナタに飲まれないように……。",
-            "enText": "What is it? Don't let Anata drink you. ……",
+            "enText": "Isn't it obvious? I'm praying not to be<n>consumed\nby your all-powerful—",
             "nextBlock": 14,
             "origClipLength": 67,
+            "voiceIdx": 20,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 93,
@@ -285,19 +312,19 @@
                 },
                 {
                     "origLen": 78,
+                    "pathId": 8397078043708324647
+                },
+                {
+                    "origLen": 78,
                     "pathId": 784727926570640340
                 },
                 {
                     "origLen": 78,
-                    "pathId": 8397078043708324647
+                    "pathId": -4104091923972256704
                 },
                 {
                     "origLen": 118,
                     "pathId": 2399154740600363221
-                },
-                {
-                    "origLen": 78,
-                    "pathId": -4104091923972256704
                 }
             ],
             "pathId": 1659552598957468437,
@@ -307,13 +334,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "って、ぴえええええっ、スズカさん！？\r\nどうして、ここに！？　まさか私を\n消し去るためにっ？",
-            "enText": "What do you mean, pieeeeeeeeeeeeeeeeeeeeee, \nSuzuka! Why are you here? Don't tell me you \ncame here to wipe me out?",
+            "enText": "Aiiieee! Suzuka?! What are you doing<n>here?! Have\nyou come to vanquish me<n>once and for all?!",
             "nextBlock": 15,
             "origClipLength": 75,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -2470689017987151337
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -8424353824267566064
                 },
                 {
                     "origLen": 63,
@@ -321,15 +354,11 @@
                 },
                 {
                     "origLen": 86,
-                    "pathId": -8424353824267566064
+                    "pathId": 5341162638962408722
                 },
                 {
                     "origLen": 75,
                     "pathId": -5242656685573945819
-                },
-                {
-                    "origLen": 86,
-                    "pathId": 5341162638962408722
                 }
             ],
             "pathId": -2682323116834491566,
@@ -339,25 +368,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……？\r\n私もお祈りしに来ただけだけど。",
-            "enText": "……? I'm just here to pray too.",
+            "enText": "Um... I'm only here to pray, just like you.",
             "nextBlock": 16,
             "origClipLength": 58,
+            "voiceIdx": 34,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": 631841919140378244
+                },
                 {
                     "origLen": 69,
                     "pathId": 610341716878036138
                 },
                 {
                     "origLen": 69,
-                    "pathId": 631841919140378244
+                    "pathId": 2366985418751318828
                 },
                 {
                     "origLen": 26,
                     "pathId": -2812720687170789654
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 2366985418751318828
                 }
             ],
             "pathId": -6135422068511388449,
@@ -367,25 +398,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ダービーで頑張れますようにって。",
-            "enText": "She wished me good luck at the Derby.",
+            "enText": "I want to do my best in the Derby.",
             "nextBlock": 17,
             "origClipLength": 55,
+            "voiceIdx": 37,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -5723072035450772460
+                },
                 {
                     "origLen": 21,
                     "pathId": 8333082770801071408
                 },
                 {
                     "origLen": 66,
-                    "pathId": -5723072035450772460
+                    "pathId": 8947064849401622565
                 },
                 {
                     "origLen": 24,
                     "pathId": -6763157464350321441
-                },
-                {
-                    "origLen": 66,
-                    "pathId": 8947064849401622565
                 }
             ],
             "pathId": 4811266291063415659,
@@ -395,25 +428,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "頑張るって……あのスズカさんが？\r\nどうして……。",
-            "enText": "You said you're going to do your best.…… That \nSuzuka? Why ……",
+            "enText": "You want to... do your best? But why<n>would\nsomeone like you need to pray for<n>something like\nthat?",
             "nextBlock": 18,
             "origClipLength": 61,
+            "voiceIdx": 30,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": 8050175245445113017
+                },
                 {
                     "origLen": 30,
                     "pathId": -4777781030695804208
                 },
                 {
                     "origLen": 72,
-                    "pathId": 8050175245445113017
+                    "pathId": 1055704574352088498
                 },
                 {
                     "origLen": 72,
                     "pathId": -624294474684963368
-                },
-                {
-                    "origLen": 72,
-                    "pathId": 1055704574352088498
                 }
             ],
             "pathId": -7139603928795328741,
@@ -423,25 +458,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "……ダービーを前にして願うことは\r\n誰も同じだと思うけど。",
-            "enText": "I think we all have the same \nwish list before the…… derby.",
+            "enText": "I think we all feel the same way in the<n>run-up to\nthe Derby.",
             "nextBlock": 19,
             "origClipLength": 63,
+            "voiceIdx": 50,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 8140808737208746662
+                },
                 {
                     "origLen": 74,
                     "pathId": -3503294143548100723
                 },
                 {
                     "origLen": 74,
-                    "pathId": 8140808737208746662
+                    "pathId": 228457141197701358
                 },
                 {
                     "origLen": 49,
                     "pathId": 1250500448049723601
-                },
-                {
-                    "origLen": 74,
-                    "pathId": 228457141197701358
                 }
             ],
             "pathId": -2358446274664054208,
@@ -451,25 +488,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "魔物に飲まれませんように……。\r\nそれほどに特別なレースだから。",
-            "enText": "May the demons not consume you.…… \nIt's such a special race.",
+            "enText": "We don't want this monster of a race to<n>get the\nbetter of us... It's that<n>intimidating.",
             "nextBlock": 20,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 4399236864400273605
+                },
                 {
                     "origLen": 49,
                     "pathId": -432263355973373569
                 },
                 {
                     "origLen": 76,
-                    "pathId": 4399236864400273605
+                    "pathId": 2589456129802986012
                 },
                 {
                     "origLen": 60,
                     "pathId": -5554831618685963495
-                },
-                {
-                    "origLen": 76,
-                    "pathId": 2589456129802986012
                 }
             ],
             "pathId": 2798132952665485651,
@@ -479,25 +518,27 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ライバルが大きく見えるのも同じ。\r\nだから、そんな怯えなくていいんじゃない？",
-            "enText": "The same goes for rivals that look bigger. So \nyou don't have to be so frightened.",
+            "enText": "You know, it's just like when your rival<n>suddenly\nstarts to look unbeatable. But<n>there's no reason\nto panic.",
             "nextBlock": 21,
             "origClipLength": 69,
+            "voiceIdx": 70,
+            "voiceSheetId": "051002001",
             "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": -8482586147134310942
+                },
                 {
                     "origLen": 111,
                     "pathId": -3577272444579015302
                 },
                 {
                     "origLen": 80,
-                    "pathId": -8482586147134310942
+                    "pathId": 4864817233871441375
                 },
                 {
                     "origLen": 61,
                     "pathId": -8722695858069928128
-                },
-                {
-                    "origLen": 80,
-                    "pathId": 4864817233871441375
                 }
             ],
             "pathId": -9086690083697484997,
@@ -507,17 +548,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "怖いのが普通なんだから。",
-            "enText": "It's normal to be afraid.",
+            "enText": "It's only natural to be scared.",
             "nextBlock": 22,
             "origClipLength": 52,
+            "voiceIdx": 5,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 111,
-                    "pathId": 972647172256600418
-                },
                 {
                     "origLen": 63,
                     "pathId": 1287016492695948874
+                },
+                {
+                    "origLen": 111,
+                    "pathId": 972647172256600418
                 },
                 {
                     "origLen": 30,
@@ -525,11 +568,11 @@
                 },
                 {
                     "origLen": 63,
-                    "pathId": -3052654665547577516
+                    "pathId": 3305784527466255839
                 },
                 {
                     "origLen": 63,
-                    "pathId": 3305784527466255839
+                    "pathId": -3052654665547577516
                 }
             ],
             "pathId": -3155776322294278497,
@@ -539,25 +582,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "怖いのが……普通……。",
-            "enText": "The scary thing is that…… is usually ……",
+            "enText": "Being scared is... natural?",
             "nextBlock": 23,
             "origClipLength": 52,
+            "voiceIdx": 34,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 63,
+                    "pathId": -5931796919180627324
+                },
                 {
                     "origLen": 18,
                     "pathId": 49988545086399250
                 },
                 {
                     "origLen": 63,
-                    "pathId": -5931796919180627324
+                    "pathId": -191154702152177570
                 },
                 {
                     "origLen": 89,
                     "pathId": 5769045173820004835
-                },
-                {
-                    "origLen": 63,
-                    "pathId": -191154702152177570
                 }
             ],
             "pathId": 8698298722892442898,
@@ -567,25 +612,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "そっか。スズカさんですら特別じゃないん\r\nですね。だったら……。",
-            "enText": "I see. Not even Suzuka-san is \nspecial, is she? If that's the \ncase, please contact us at ……",
+            "enText": "Well, if even someone like you can get<n>scared...",
             "nextBlock": 24,
             "origClipLength": 65,
+            "voiceIdx": 9,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -350866088666491442
+                },
                 {
                     "origLen": 34,
                     "pathId": -5875351839848959155
                 },
                 {
                     "origLen": 76,
-                    "pathId": -350866088666491442
+                    "pathId": 3049379996444457001
                 },
                 {
                     "origLen": 99,
                     "pathId": -910855736732583514
-                },
-                {
-                    "origLen": 76,
-                    "pathId": 3049379996444457001
                 }
             ],
             "pathId": -2845954879942846678,
@@ -595,25 +642,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "私なんか、もっと怖くて当たり前……。\r\nなんか急に気がラクになりました。",
-            "enText": "It's no wonder I'm even scarier than I am.…… \nI suddenly feel a lot better.",
+            "enText": "It makes sense why I'd be terrified. For<n>some\nreason, I feel a little better hearing<n>that.",
             "nextBlock": 25,
             "origClipLength": 68,
+            "voiceIdx": 4,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": -1865040589460316174
+                },
                 {
                     "origLen": 28,
                     "pathId": 5594377573110088508
                 },
                 {
                     "origLen": 79,
-                    "pathId": -1865040589460316174
+                    "pathId": -2086637914625572635
                 },
                 {
                     "origLen": 89,
                     "pathId": 6184371660646713710
-                },
-                {
-                    "origLen": 79,
-                    "pathId": -2086637914625572635
                 }
             ],
             "pathId": 3938670922761988422,
@@ -623,25 +672,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ありがとうございます、スズカさんっ！",
-            "enText": "Thank you, Suzuka!",
+            "enText": "Thanks a lot, Suzuka!",
             "nextBlock": 26,
             "origClipLength": 56,
+            "voiceIdx": 13,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 4469147708283489415
+                },
                 {
                     "origLen": 44,
                     "pathId": -407566182960188213
                 },
                 {
                     "origLen": 67,
-                    "pathId": 4469147708283489415
+                    "pathId": 7752904801133522100
                 },
                 {
                     "origLen": 60,
                     "pathId": 2882960856810258458
-                },
-                {
-                    "origLen": 67,
-                    "pathId": 7752904801133522100
                 }
             ],
             "pathId": -3037474789245404403,
@@ -651,32 +702,34 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "いえ、元気になってくれたなら、よかった。",
-            "enText": "No, I'm glad you're feeling better.",
+            "enText": "I'm just happy to see that you're feeling<n>better.",
             "nextBlock": 27,
             "origClipLength": 58,
+            "voiceIdx": 2,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "2人で必勝祈願したら？",
-                    "enText": "Why don't you both pray for a win?",
+                    "enText": "Why don't you both pray for victory together?",
                     "nextBlock": 27
                 }
             ],
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -1158498634917603874
+                },
                 {
                     "origLen": 28,
                     "pathId": 5801124644898163312
                 },
                 {
                     "origLen": 69,
-                    "pathId": -1158498634917603874
+                    "pathId": 1422407736138163247
                 },
                 {
                     "origLen": 121,
                     "pathId": 152715654254860537
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 1422407736138163247
                 }
             ],
             "pathId": 3669320409348569705,
@@ -686,25 +739,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "2人で……。あっ、ありがとうございます、\r\nトレーナーさん！",
-            "enText": "Two for two…… Ah, thank you, trainer!",
+            "enText": "Together? Yeah, good idea! Thank you!",
             "nextBlock": 28,
             "origClipLength": 64,
+            "voiceIdx": 8,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -1544990741138261082
+                },
                 {
                     "origLen": 47,
                     "pathId": -8709151441597209557
                 },
                 {
                     "origLen": 75,
-                    "pathId": -1544990741138261082
+                    "pathId": 1221297411619005113
                 },
                 {
                     "origLen": 41,
                     "pathId": -1424632753160473994
-                },
-                {
-                    "origLen": 75,
-                    "pathId": 1221297411619005113
                 }
             ],
             "pathId": 710779800980308279,
@@ -714,25 +769,27 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "スズカさん！　せっかくですから並んで\r\n祈りましょう！",
-            "enText": "Ms. suzuka! Since we're here, \nlet's line up and pray!",
+            "enText": "Well Suzuka, since we're both here, we<n>may as\nwell pray together!",
             "nextBlock": 29,
             "origClipLength": 62,
+            "voiceIdx": 0,
+            "voiceSheetId": "051056001",
             "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": -5698404244360097174
+                },
                 {
                     "origLen": 39,
                     "pathId": 2089175631638853685
                 },
                 {
                     "origLen": 73,
-                    "pathId": -5698404244360097174
+                    "pathId": -266320423521095031
                 },
                 {
                     "origLen": 117,
                     "pathId": 5393433434098335492
-                },
-                {
-                    "origLen": 73,
-                    "pathId": -266320423521095031
                 }
             ],
             "pathId": -3442380864814479053,
@@ -742,25 +799,27 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "祈り終えた後、サイレンススズカは\r\n去っていった……。",
-            "enText": "After she finished praying, \nSilence Suzuka left. ……",
+            "enText": "After they finish their prayers, Silence<n>Suzuka\ntakes her leave.",
             "nextBlock": 30,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": 5481056930017304522
-                },
                 {
                     "origLen": 13,
                     "pathId": -8858525476793946882
                 },
                 {
                     "origLen": 13,
-                    "pathId": -3524593257943521442
+                    "pathId": 5481056930017304522
                 },
                 {
                     "origLen": 13,
                     "pathId": -1273052859872902729
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -3524593257943521442
                 }
             ],
             "pathId": -210634555785119062,
@@ -770,17 +829,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ふぅ、これでメデタシメデタシですね。\r\n恐れも、すっかり消えて……。",
-            "enText": "Whew, now that's a meditative experience. \nMy fears have all but disappeared \nand I can now go to ……",
+            "enText": "Phew! All's well that ends well. That's<n>quite a\nweight off my sh—",
             "nextBlock": 31,
             "origClipLength": 67,
+            "voiceIdx": 59,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -3176224657342284969
-                },
                 {
                     "origLen": 107,
                     "pathId": -4132211440119841329
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -3176224657342284969
                 }
             ],
             "pathId": -6080618880921557716,
@@ -790,17 +851,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "って、あああっ、大変！　スズカさんと\r\n一緒に祈ったら、運勢同じになっちゃうじゃ\nないですか！",
-            "enText": "Oh, my God! If I prayed with Suzuka, our \nfortunes would be the same!",
+            "enText": "Wait! Oh, no! Since we prayed together,<n>doesn't\nthat mean Suzuka will get the<n>same amount of\nluck as me?",
             "nextBlock": 32,
             "origClipLength": 75,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": 7576136191153436129
-                },
                 {
                     "origLen": 86,
                     "pathId": 3336467109890320261
+                },
+                {
+                    "origLen": 57,
+                    "pathId": 7576136191153436129
                 }
             ],
             "pathId": 3152183574197672562,
@@ -810,24 +873,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "同じ大吉だったら、実力差でスズカさんが\r\n勝っちゃいますよ～！",
-            "enText": "If they were the same Daikichi, Suzuka would \nwin by a margin of competence～!",
+            "enText": "If she has the same great blessing as me,<n>then her\nnatural ability will surely seal<n>her victory!",
             "nextBlock": 33,
             "origClipLength": 65,
+            "voiceIdx": 17,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "ど、どうしたら……！",
-                    "enText": "How can I ……!",
+                    "enText": "Oh no! What should we do?!",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": 617747021464922868
-                },
-                {
                     "origLen": 76,
                     "pathId": 5990984910307649507
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 617747021464922868
                 }
             ],
             "pathId": -4625981821916662452,
@@ -837,17 +902,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "こうなったら神様にアレを投入して\r\nもらうしかありません！",
-            "enText": "If this happens, we have no choice but to ask \nGod to throw that thing in!",
+            "enText": "We've got no choice but to ask for<n>divine\nintervention!",
             "nextBlock": 34,
             "origClipLength": 63,
+            "voiceIdx": 5,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -3336953594028914258
-                },
                 {
                     "origLen": 74,
                     "pathId": -1718008938211174721
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -3336953594028914258
                 }
             ],
             "pathId": -7927923922185575127,
@@ -857,22 +924,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "大々々々吉！　どうか私に前代未聞、\r\n空前絶後の幸運を与えたまえ～～～！！",
-            "enText": "Great, great, great luck! Please \ngrant me unprecedented and unprecedented \ngood fortune～～!",
+            "enText": "O gods, hear me! Grant me the greatest,<n>best,\nmost supremely sublime blessing<n>that Umakind\nhas known or will ever<n>know!",
             "nextBlock": -1,
             "origClipLength": 89,
+            "voiceIdx": 62,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 3434108066051939051
-                },
                 {
                     "origLen": 100,
                     "pathId": 9114569750826323908
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 3434108066051939051
                 }
             ],
             "pathId": -2345650985913716683,
             "blockIdx": 34
         }
-    ],
-    "modified": 1662157686
+    ]
 }

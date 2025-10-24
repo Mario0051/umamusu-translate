@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "Y5JP62NRFF72NLYOABCK2JRROUIME642",
+    "version": 6,
+    "bundle": "EMNFX2KKRAWSJGKI2CBHAXQXI46I7DD6",
     "type": "story",
     "storyId": "041006001",
     "title": "地方から来た怪物",
+    "enTitle": "The Ashen Beast of Kasamatsu",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "地方で華々しい成績を残し、\r\nトレセン学園に転入してきたウマ娘、オグリキャップ。",
-            "enText": "After achieving spectacular results in the provinces, Oguri Cap \nis a horse girl who has transferred to Tracen Academy.",
+            "enText": "Having made a name for herself back<n>home, Oguri Cap transfers to\nthe<n>acclaimed Tracen Academy.",
             "nextBlock": 2,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2820684821605942555,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今日、トレーニングコースで見かけた彼女は、\r\n耳の早いトレーナーたちの注目を既に集めていた……。",
-            "enText": "I saw her on a training course today and she had already caught \nthe attention of some quick-eared trainers. ……",
+            "enText": "Word of her arrival travels quickly<n>between the trainers, and they\ngather<n>around the campus training course to<n>watch her in action.",
             "nextBlock": 3,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -178189886540047274,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……ふぅ。",
-            "enText": "…… Whew.",
+            "enText": "Whew...",
             "nextBlock": 4,
             "origClipLength": 50,
+            "voiceIdx": 0,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 210,
@@ -49,17 +56,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "併走感謝するよ、オグリキャップ。\n……ふっ、ははは！",
-            "enText": "Thanks for running alongside me, Ogri-cap.…… Phew, ha ha!",
+            "enText": "Thanks for running with me, Oguri Cap.<n>Pffft, hahaha!",
             "nextBlock": 5,
             "origClipLength": 195,
+            "voiceIdx": 1,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 155,
-                    "pathId": 4122526413495145700
-                },
                 {
                     "origLen": 25,
                     "pathId": -1173988722778284549
+                },
+                {
+                    "origLen": 155,
+                    "pathId": 4122526413495145700
                 },
                 {
                     "origLen": 207,
@@ -73,21 +82,23 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……？　どうして笑うんだ？",
-            "enText": "……? Why are you laughing?",
+            "enText": "Hm? Why are you laughing?",
             "nextBlock": 6,
             "origClipLength": 107,
+            "voiceIdx": 2,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 119,
                     "pathId": -7407298653880750802
                 },
                 {
-                    "origLen": 119,
-                    "pathId": -3193644625066217257
-                },
-                {
                     "origLen": 57,
                     "pathId": -6146892441740237435
+                },
+                {
+                    "origLen": 119,
+                    "pathId": -3193644625066217257
                 }
             ],
             "pathId": 7796101337649085814,
@@ -97,25 +108,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "ああいや、気を悪くしたならすまない。ただ、あまりに実りの多い\r\n時間だったからね、つい嬉しくなってしまったんだ。",
-            "enText": "Oh no, I'm sorry if I offended you. It's just that it's been so \nproductive, I'm just happy to be here.",
+            "enText": "Ah, my apologies, I did not intend to<n>offend. It has been a long while\nsince my<n>time has been spent so productively.",
             "nextBlock": 7,
             "origClipLength": 329,
+            "voiceIdx": 3,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 341,
-                    "pathId": -2492792967198682980
-                },
                 {
                     "origLen": 20,
                     "pathId": -8325367677186850995
                 },
                 {
                     "origLen": 341,
-                    "pathId": 4487642015112409148
+                    "pathId": -2492792967198682980
                 },
                 {
                     "origLen": 341,
                     "pathId": -2725924154598001820
+                },
+                {
+                    "origLen": 341,
+                    "pathId": 4487642015112409148
                 }
             ],
             "pathId": 1001424034122815406,
@@ -125,21 +138,23 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "君が地方で残した、数々の勇猛無比な記録は私も知るところでは\r\nあったが……実際に走ってみて、この身で実感したよ。",
-            "enText": "I was aware of the many records of bravery and unparalleled \nrecord you left behind in the region, but after actually running \n…… I felt it firsthand.",
+            "enText": "I've heard many a tall tale about your<n>amazing feats racing in your\nregional<n>course, but I only now realize just how true<n>they were.",
             "nextBlock": 8,
             "origClipLength": 356,
+            "voiceIdx": 4,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 194,
                     "pathId": 6759815190959336974
                 },
                 {
-                    "origLen": 368,
-                    "pathId": -5056985306894878559
-                },
-                {
                     "origLen": 381,
                     "pathId": 252417456014611083
+                },
+                {
+                    "origLen": 368,
+                    "pathId": -5056985306894878559
                 }
             ],
             "pathId": -5020494336184530046,
@@ -149,25 +164,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "オグリキャップ――凄まじい実力者だな。\r\n君とターフの上でしのぎを削るのが、今から楽しみだ。",
-            "enText": "Oguri Cap - you are a tremendously talented horse. I'm looking \nforward to competing with you on the turf.",
+            "enText": "You are second to none, Oguri Cap. I truly<n>look forward to competing\nwith you on the<n>turf.",
             "nextBlock": 9,
             "origClipLength": 278,
+            "voiceIdx": 5,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 97,
-                    "pathId": 1692645961453954072
-                },
                 {
                     "origLen": 287,
                     "pathId": -2483325635965039536
                 },
                 {
-                    "origLen": 290,
-                    "pathId": -8569423268348696195
+                    "origLen": 97,
+                    "pathId": 1692645961453954072
                 },
                 {
                     "origLen": 381,
                     "pathId": 3246018291576191656
+                },
+                {
+                    "origLen": 290,
+                    "pathId": -8569423268348696195
                 }
             ],
             "pathId": 893129497664216339,
@@ -177,25 +194,27 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "そうか。なら、次はレースをしよう。",
-            "enText": "I see. Then let's race next time.",
+            "enText": "I see. Then how about a race next time?",
             "nextBlock": 10,
             "origClipLength": 157,
+            "voiceIdx": 6,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 169,
-                    "pathId": 3219744379304085508
-                },
                 {
                     "origLen": 281,
                     "pathId": -3310557328120157610
                 },
                 {
-                    "origLen": 60,
-                    "pathId": -6855854778220249047
+                    "origLen": 169,
+                    "pathId": 3219744379304085508
                 },
                 {
                     "origLen": 20,
                     "pathId": -3130672001925126134
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -6855854778220249047
                 }
             ],
             "pathId": 2958616780177255386,
@@ -203,19 +222,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "すごいな、あれがオグリキャップ……！　かの“皇帝”\r\nシンボリルドルフと併走して、涼しい顔をしていられるとは……。",
-            "enText": "Amazing, that's Oguri Cap. ……! How could she run alongside the \n\"Emperor\" Simboril Rudolph and look so cool? ……",
+            "enText": "Impressive. So that is the renowned Oguri<n>Cap. It's not easy keeping\nup with the<n>Emperor herself—and with such a cool<n>head too.",
             "nextBlock": 11,
             "origClipLength": 276,
+            "voiceIdx": 7,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 289,
-                    "pathId": -5373523192770733893
+                    "pathId": 5616497846399080724
                 },
                 {
                     "origLen": 289,
-                    "pathId": 5616497846399080724
+                    "pathId": -5373523192770733893
                 },
                 {
                     "origLen": 341,
@@ -229,17 +250,19 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "しかも、『レースで勝負しよう』って真っ向から\r\n言えちゃうなんて……！　よほどハートが強いのかしら……。",
-            "enText": "And to be able to say, \"Let's race for it,\" so directly. ……! I \nwonder if she has a strong heart. ……",
+            "enText": "And to so boldly challenge her to a race.<n>She must truly be confident\nin her abilities.",
             "nextBlock": 12,
             "origClipLength": 248,
+            "voiceIdx": 8,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 289,
-                    "pathId": 3547159929333166454
-                },
                 {
                     "origLen": 20,
                     "pathId": -4805948784511506217
+                },
+                {
+                    "origLen": 289,
+                    "pathId": 3547159929333166454
                 },
                 {
                     "origLen": 341,
@@ -253,17 +276,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "おっと、そろそろ定例会議の時間だな。\nでは、私はこれで。",
-            "enText": "Oops, it's time for our regular meeting. Well, I'll be off then.",
+            "enText": "Well, I must get going. There's a meet-up I<n>need to attend.",
             "nextBlock": 13,
             "origClipLength": 196,
+            "voiceIdx": 9,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 233,
-                    "pathId": -753491405207974028
-                },
                 {
                     "origLen": 20,
                     "pathId": 2967110724618452871
+                },
+                {
+                    "origLen": 233,
+                    "pathId": -753491405207974028
                 },
                 {
                     "origLen": 341,
@@ -277,9 +302,11 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "いずれまた頼むよ、オグリキャップ。",
-            "enText": "I'll ask you again eventually, Oguri Cap.",
+            "enText": "Let's do this again sometime, Oguri Cap.",
             "nextBlock": 14,
             "origClipLength": 121,
+            "voiceIdx": 10,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 102,
@@ -297,17 +324,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……さて。",
-            "enText": "…… Well.",
+            "enText": "All right, then...",
             "nextBlock": 15,
             "origClipLength": 34,
+            "voiceIdx": 11,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 341,
-                    "pathId": -4096903257854062961
-                },
                 {
                     "origLen": 41,
                     "pathId": -3149464340323151974
+                },
+                {
+                    "origLen": 341,
+                    "pathId": -4096903257854062961
                 }
             ],
             "pathId": 4448749759812697533,
@@ -315,19 +344,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "お、どこに行くんだ……？　もしかしてこれから、\r\n別の場所で秘密のトレーニングとかか……！？",
-            "enText": "Oh, where are you going ……? Maybe you're going to another secret \ntraining session at ……?",
+            "enText": "I wonder where she's headed? Perhaps<n>she's going somewhere else to\ntrain in<n>secret.",
             "nextBlock": 16,
             "origClipLength": 232,
+            "voiceIdx": 12,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 2657024922955031424
-                },
                 {
                     "origLen": 20,
                     "pathId": -7752824133610661885
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 2657024922955031424
                 }
             ],
             "pathId": -4693230488597699493,
@@ -337,9 +368,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "ひょっとして、それが速さの秘訣かしら？\nぜひ見てみたいわね！",
-            "enText": "Perhaps that's the secret to your speed? I'd love to see it!",
+            "enText": "Could that be the key to her agility? If so,<n>I most certainly need to\nwatch this secret<n>practice of hers.",
             "nextBlock": 17,
             "origClipLength": 167,
+            "voiceIdx": 13,
+            "voiceSheetId": "041006001",
             "pathId": -9071155768614669757,
             "blockIdx": 16
         },
@@ -347,9 +380,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "……あら、新人トレーナーさん、あなたもオグリが気になるの？\r\nそれじゃ、一緒に後を追ってみましょうよ！",
-            "enText": "…… Oh, new trainer, you care about Ogri \ntoo? Well then, let's follow along!",
+            "enText": "Oh? Are you also interested in seeing<n>Oguri's training? Why don't we\nall go and<n>watch her together?",
             "nextBlock": 18,
             "origClipLength": 288,
+            "voiceIdx": 14,
+            "voiceSheetId": "041006001",
             "pathId": 195837319851344042,
             "blockIdx": 17
         },
@@ -357,9 +392,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "こうして、別のトレーナーたちと共に\nオグリキャップの後を追ってみたのだが……。",
-            "enText": "Thus, I followed Oguri Cap with another group of trainers. ……",
+            "enText": "Curious to figure out where Oguri Cap was<n>headed, I decide to stick\nwith the other<n>trainers and go after her.",
             "nextBlock": 19,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7975368227258627799,
             "blockIdx": 18
         },
@@ -367,17 +404,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "む……？",
-            "enText": "む……?",
+            "enText": "...Hm?",
             "nextBlock": 20,
             "origClipLength": 31,
+            "voiceIdx": 15,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 95,
-                    "pathId": 1363792289436307325
-                },
                 {
                     "origLen": 34,
                     "pathId": -123651473366640370
+                },
+                {
+                    "origLen": 95,
+                    "pathId": 1363792289436307325
                 }
             ],
             "pathId": 3724833612684904235,
@@ -385,19 +424,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "……な、なかなかトレーニングを始めないな。",
-            "enText": "…… you don't seem to start training very often.",
+            "enText": "Is she not going to start training?",
             "nextBlock": 21,
             "origClipLength": 127,
+            "voiceIdx": 16,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 192,
-                    "pathId": 790536310252408014
-                },
                 {
                     "origLen": 20,
                     "pathId": 7410751206678023240
+                },
+                {
+                    "origLen": 192,
+                    "pathId": 790536310252408014
                 }
             ],
             "pathId": 7211146908814483486,
@@ -407,17 +448,19 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "いえ、オグリキャップのことだから、\nこの行動にだって何か意味があるのかも……！",
-            "enText": "No, it's Ogly Cap, so maybe even this \nbehavior means something. ……!",
+            "enText": "This is Oguri Cap we're talking about. I'm<n>sure there's some meaning\nbehind her<n>actions... or inaction, in this case.",
             "nextBlock": 22,
             "origClipLength": 184,
+            "voiceIdx": 17,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 8103532944019128545
-                },
                 {
                     "origLen": 21,
                     "pathId": 2918676432683318784
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 8103532944019128545
                 }
             ],
             "pathId": -3812527213295459237,
@@ -427,17 +470,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "うーん……。",
-            "enText": "Hmmm ……",
+            "enText": "Hmmm...",
             "nextBlock": 23,
             "origClipLength": 43,
+            "voiceIdx": 18,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": -2951349143117543846
-                },
                 {
                     "origLen": 52,
                     "pathId": -7350993028288965283
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -2951349143117543846
                 }
             ],
             "pathId": -5521048104837693955,
@@ -445,19 +490,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "またここに戻ってきたぞ……！？\nなんなんだ！？",
-            "enText": "We're back here again: ……! What the hell!",
+            "enText": "She's back! But why?!",
             "nextBlock": 24,
             "origClipLength": 124,
+            "voiceIdx": 19,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 181,
-                    "pathId": 314574038987782971
-                },
                 {
                     "origLen": 20,
                     "pathId": 3319778928524194382
+                },
+                {
+                    "origLen": 181,
+                    "pathId": 314574038987782971
                 }
             ],
             "pathId": -8161060747377390815,
@@ -467,9 +514,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "ちょ、ちょっと変わった子なのかしら……？",
-            "enText": "Wait, is she a little strange ……?",
+            "enText": "What a peculiar girl...",
             "nextBlock": 25,
             "origClipLength": 131,
+            "voiceIdx": 20,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 102,
@@ -483,9 +532,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "んん……？",
-            "enText": "Hmmm ……?",
+            "enText": "Hmmmmmm...",
             "nextBlock": 26,
             "origClipLength": 34,
+            "voiceIdx": 21,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 115,
@@ -497,11 +548,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "だ、ダメだ。同じ場所を4度もぐるぐる……。\r\nあの子が何を考えているのか、俺には皆目見当もつかん……。",
-            "enText": "No, no. I've been around the same spot four times…… I have no \nidea what that girl is thinking. ……",
+            "enText": "What in the world is going on in that head<n>of hers? That's the fourth\ntime she's circled<n>around the same area...",
             "nextBlock": 27,
             "origClipLength": 300,
+            "voiceIdx": 22,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 115,
@@ -515,9 +568,11 @@
             "jpName": "ベテラントレーナーA",
             "enName": "Veteran Trainer A",
             "jpText": "本当に実力者、なのよね……？\r\nまあ、また後日、様子を見に行きましょうか……。",
-            "enText": "Really competent, right ……? Well, let's check back later to see \nhow things are going. ……",
+            "enText": "Is this girl really second to none? I guess<n>we'll have to see... Let's\ncome back<n>another day.",
             "nextBlock": 28,
             "origClipLength": 281,
+            "voiceIdx": 23,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 258,
@@ -531,9 +586,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "謎の行動を繰り返すオグリキャップに困惑したようで、\r\nトレーナーたちが次々と立ち去っていく。",
-            "enText": "The trainers, seemingly bewildered by Oguri Cap's repeated \nmysterious behavior, leave one by one.",
+            "enText": "Bewildered by Oguri Cap's perplexing<n>conduct, the trainers slowly\nbegin to take<n>their leave.",
             "nextBlock": 29,
             "origClipLength": 105,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 149,
@@ -547,9 +604,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ううん……。",
-            "enText": "Nope. ……",
+            "enText": "Ummm...",
             "nextBlock": 30,
             "origClipLength": 55,
+            "voiceIdx": 24,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 115,
@@ -563,18 +622,20 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しかし、どこか困った様子にも見える\nオグリキャップのことが、つい気になって――",
-            "enText": "However, I was curious about Oguri \nCap, who looked somewhat troubled…",
+            "enText": "Worried about Oguri Cap's strange<n>behavior, I walk over to check on\nher.",
             "nextBlock": 31,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
-                    "enText": "What's going on?",
+                    "enText": "What's the matter?",
                     "nextBlock": 31
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's wrong?",
+                    "enText": "What's the matter?",
                     "nextBlock": 31
                 }
             ],
@@ -591,9 +652,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "不思議なんだ。先程から、歩いても歩いても\n同じ場所にたどり着いてしまう。",
-            "enText": "It's strange. Since a while ago, I keep walking and walking and \nending up at the same place.",
+            "enText": "I'm not sure. I keep walking and walking,<n>yet I end up at the same\nplace.",
             "nextBlock": 32,
             "origClipLength": 233,
+            "voiceIdx": 25,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 245,
@@ -607,29 +670,31 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "この学園には、まったく同じ見た目の場所が\n4ヶ所もあるのか……？",
-            "enText": "Are there four places in this academy \nthat look exactly the same ……?",
+            "enText": "Does this academy really have four<n>identical locations?",
             "nextBlock": 33,
             "origClipLength": 178,
+            "voiceIdx": 26,
+            "voiceSheetId": "041006001",
             "choices": [
                 {
                     "jpText": "……もしかして迷子になってたのか？",
-                    "enText": "…… maybe you were lost?",
+                    "enText": "Maybe you just got lost?",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "……もしかして迷子になってたの？",
-                    "enText": "…… maybe you were lost?",
+                    "enText": "Maybe you just got lost?",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 190,
-                    "pathId": 834711683244842183
-                },
-                {
                     "origLen": 182,
                     "pathId": 4831713612794417830
+                },
+                {
+                    "origLen": 190,
+                    "pathId": 834711683244842183
                 }
             ],
             "pathId": -5941883588554500827,
@@ -639,17 +704,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "迷子……ふむ、そうかもしれない。",
-            "enText": "Lost…… Hmmm, you may be right.",
+            "enText": "Lost, you say... Perhaps so.",
             "nextBlock": 34,
             "origClipLength": 157,
+            "voiceIdx": 27,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 189,
-                    "pathId": -6788418704347850679
-                },
                 {
                     "origLen": 20,
                     "pathId": -7493381715337515790
+                },
+                {
+                    "origLen": 189,
+                    "pathId": -6788418704347850679
                 }
             ],
             "pathId": -757868748658109311,
@@ -659,18 +726,20 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……ところで、キミは誰だ？\nそういえば、知らない顔だ。",
-            "enText": "…… By the way, who are you? Come to think of it, I don't know you.",
+            "enText": "Who are you, anyway? I've never seen you<n>around these parts.",
             "nextBlock": 35,
             "origClipLength": 163,
+            "voiceIdx": 28,
+            "voiceSheetId": "041006001",
             "choices": [
                 {
                     "jpText": "この学園に所属してるトレーナーだ",
-                    "enText": "I'm a trainer affiliated with this academy.",
+                    "enText": "I'm a trainer here at the Academy.",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "この学園に所属してるトレーナーだよ",
-                    "enText": "I'm a trainer affiliated with this academy.",
+                    "enText": "I'm a trainer here at the Academy.",
                     "nextBlock": 35
                 }
             ],
@@ -687,9 +756,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "学園所属のトレーナー……。\nでは、道がわかるのか？",
-            "enText": "The trainer belonging to the school…… So, do you know the way?",
+            "enText": "A trainer here... Could you show me where<n>to go?",
             "nextBlock": 36,
             "origClipLength": 180,
+            "voiceIdx": 29,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 89,
@@ -703,9 +774,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "寮に戻りたいんだ。\r\n道を教えてもらえないだろうか。",
-            "enText": "I need to get back to my dorm. Could you please show me the way?",
+            "enText": "I'm trying to get back to my dorm room. I<n>would appreciate the\nassistance.",
             "nextBlock": 37,
             "origClipLength": 133,
+            "voiceIdx": 30,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 145,
@@ -719,9 +792,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "どうやら迷子だったらしいオグリキャップに、\n寮までの道のりを教えてあげた。",
-            "enText": "I showed Oguri Cap, who was apparently \nlost, the way to the dormitory.",
+            "enText": "I give the lost Oguri directions back to her<n>dorm.",
             "nextBlock": 38,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 105,
@@ -735,17 +810,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "なるほど、わかった。感謝する。\n……では。",
-            "enText": "I see. Appreciate it. At ……",
+            "enText": "So that's where it is. Got it. Thanks for<n>your help. See ya.",
             "nextBlock": 39,
             "origClipLength": 168,
+            "voiceIdx": 31,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 179,
-                    "pathId": -3175584245395237750
-                },
                 {
                     "origLen": 42,
                     "pathId": 9052478265256271868
+                },
+                {
+                    "origLen": 179,
+                    "pathId": -3175584245395237750
                 }
             ],
             "pathId": 3840874065934472061,
@@ -755,17 +832,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "オグリキャップの背中を見送ってから、\n数分後――",
-            "enText": "A few minutes after I saw Oguri Cap's backside off…",
+            "enText": "A few minutes after seeing off Oguri Cap,<n>she reappears from a\ndifferent direction.",
             "nextBlock": 40,
             "origClipLength": 76,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 6171181665892090655
-                },
                 {
                     "origLen": 30,
                     "pathId": 8978136651838531561
+                },
+                {
+                    "origLen": 102,
+                    "pathId": 6171181665892090655
                 }
             ],
             "pathId": 8458099855715234017,
@@ -775,18 +854,20 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "な……！　さっきのトレーナーと同じ顔……？\r\nまさか、ドッペルゲンガーか……！？",
-            "enText": "What a ……! The same face as the trainer from earlier……? Don't \ntell me it's a doppelganger or ……!",
+            "enText": "Huh?! I just saw a trainer who looks exactly<n>like you! Are you some\nkinda<n>doppelganger?",
             "nextBlock": 41,
             "origClipLength": 200,
+            "voiceIdx": 32,
+            "voiceSheetId": "041006001",
             "choices": [
                 {
                     "jpText": "いや、君が元の場所に戻ってきただけだよ！",
-                    "enText": "No, you're just back where you started!",
+                    "enText": "You're just back where you started!",
                     "nextBlock": 41
                 },
                 {
                     "jpText": "いや、貴方が元の場所に戻ってきただけ！",
-                    "enText": "No, you're just back where you started!",
+                    "enText": "You're just back where you started!",
                     "nextBlock": 41
                 }
             ],
@@ -803,17 +884,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……そうなのか。\n言われてみれば、同じ景色だ。",
-            "enText": "…… I see what you mean. If you ask me, it's the same view.",
+            "enText": "...So it appears. Now that you mention it,<n>everything else is the same\ntoo.",
             "nextBlock": 42,
             "origClipLength": 183,
+            "voiceIdx": 33,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 158,
-                    "pathId": 4496366576985592736
-                },
                 {
                     "origLen": 59,
                     "pathId": -7936773000983087517
+                },
+                {
+                    "origLen": 158,
+                    "pathId": 4496366576985592736
                 }
             ],
             "pathId": 1876560367664276533,
@@ -823,17 +906,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "都会の景色を見分けるのは、難しいな。建物の間隔も狭いし、\r\n見た目も似ている……故郷にいた頃とは、まるで勝手が違うようだ。",
-            "enText": "It's hard to tell the urban landscape apart. The buildings are \nnarrowly spaced and look similar…… to those in my hometown, but \nit's as if I'm in a different world than when I was back home.",
+            "enText": "It's a challenge telling what's what in the<n>city. The buildings are all so\nclose<n>together, not to mention they look the<n>same. Things were much\nsimpler back<n>home.",
             "nextBlock": 43,
             "origClipLength": 382,
+            "voiceIdx": 34,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 311,
-                    "pathId": 4940825557772921130
-                },
                 {
                     "origLen": 20,
                     "pathId": -7976370529099034320
+                },
+                {
+                    "origLen": 311,
+                    "pathId": 4940825557772921130
                 }
             ],
             "pathId": 5050764083276417382,
@@ -843,9 +928,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "故郷だと、道を覚えるのは簡単だった。学校はトメさんの畑を\r\n右に曲がれば見える。バス停はシゲさんの大きな蔵を左だ。",
-            "enText": "Back home, it was easy to learn the way. The school can be seen \nby turning right at Tome-san's field. The bus stop is to the left \nof Shige-san's big warehouse.",
+            "enText": "I knew my way around town. Turn right at<n>Tome's field, and you could\nclearly see my<n>school. The bus stop was to the left of<n>Shige's large\nwarehouse. So easy.",
             "nextBlock": 44,
             "origClipLength": 350,
+            "voiceIdx": 35,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 211,
@@ -859,18 +946,20 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "トメさんは、よくおやつにミカンをくれた。\n……あれは美味しかった。懐かしいな。",
-            "enText": "Tome-san used to give me tangerines as a snack.…… That was \ndelicious. I miss them.",
+            "enText": "Whenever I passed by, Tome would give<n>me some mandarins to\nmunch on. They<n>were the absolute sweetest. Really takes<n>me back...",
             "nextBlock": 45,
             "origClipLength": 265,
+            "voiceIdx": 36,
+            "voiceSheetId": "041006001",
             "choices": [
                 {
                     "jpText": "……ちょっとホームシックか？",
-                    "enText": "…… a little homesick?",
+                    "enText": "Feeling homesick?",
                     "nextBlock": 45
                 },
                 {
                     "jpText": "……ちょっとホームシック？",
-                    "enText": "…… A little homesick?",
+                    "enText": "Feeling homesick?",
                     "nextBlock": 45
                 }
             ],
@@ -891,9 +980,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "恋しくなる時は、ある。\n……だが、まだ帰るわけにはいかない。",
-            "enText": "There are times when I miss it. It's …… but I can't leave yet.",
+            "enText": "Sometimes, I guess. But I can't go back just<n>yet.",
             "nextBlock": 46,
             "origClipLength": 202,
+            "voiceIdx": 37,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 213,
@@ -907,9 +998,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "トメさんも、シゲさんも、チヨさんもヨシさんも、\r\n私の活躍を祈り、中央へと送り出してくれた。",
-            "enText": "Tome, Shige, Chiyo and Yoshi all wished \nme well and sent me off to the center.",
+            "enText": "Tome, Shige, Chiyo, and Yoshi... They all<n>helped me get to\ncentral—to race with the<n>best.",
             "nextBlock": 47,
             "origClipLength": 252,
+            "voiceIdx": 38,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 224,
@@ -923,9 +1016,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "遠く離れた故郷に、\n私の勝利を応援する人々がいる。",
-            "enText": "Far away from home, there are people cheering for my victory.",
+            "enText": "Everyone back home is cheering me on.",
             "nextBlock": 48,
             "origClipLength": 159,
+            "voiceIdx": 39,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 108,
@@ -939,9 +1034,11 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "その期待に――私は、必ず応えたいんだ。",
-            "enText": "I want to live up to that expectation―I want to make sure I do.",
+            "enText": "I cannot—<i>will</i> not—let them down.",
             "nextBlock": 49,
             "origClipLength": 126,
+            "voiceIdx": 40,
+            "voiceSheetId": "041006001",
             "animData": [
                 {
                     "origLen": 82,
@@ -955,9 +1052,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そう語るオグリキャップの瞳は、\nとても真っ直ぐだった。",
-            "enText": "Oguri Cap's eyes were very straight as she said this.",
+            "enText": "Oguri Cap gazes on, finishing her little<n>speech with a fierce yet\nforlorn expression<n>across her face.",
             "nextBlock": 50,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 116,
@@ -971,17 +1070,19 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "む……そろそろ行かないと。\r\n寮はこっち、だったな？　よし、次こそ――",
-            "enText": "I have to go to…… soon. Dorms are \nthis way, right? Okay, next time―",
+            "enText": "Hm... It's about time I head back. The<n>dorm was this way, right? I'm\nsure it's this<n>way...",
             "nextBlock": 51,
             "origClipLength": 299,
+            "voiceIdx": 41,
+            "voiceSheetId": "041006001",
             "animData": [
-                {
-                    "origLen": 297,
-                    "pathId": 5514175797402857120
-                },
                 {
                     "origLen": 166,
                     "pathId": 3222701189389041122
+                },
+                {
+                    "origLen": 297,
+                    "pathId": 5514175797402857120
                 }
             ],
             "pathId": 6211606961543129675,
@@ -991,22 +1092,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……心配だったので、寮の前まで\nオグリキャップを案内してあげた。",
-            "enText": "I was worried about…… so I guided \nher to the front of the dormitory.",
+            "enText": "Concerned that Oguri Cap would spend<n>the rest of the night\nendlessly wandering<n>about the campus, I accompanied her back<n>to\nher dorm entrance.",
             "nextBlock": -1,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 285,
-                    "pathId": 7578970892578964084
-                },
                 {
                     "origLen": 98,
                     "pathId": -8816939144866449733
+                },
+                {
+                    "origLen": 285,
+                    "pathId": 7578970892578964084
                 }
             ],
             "pathId": -6959391151331588263,
             "blockIdx": 51
         }
-    ],
-    "modified": 1712266081
+    ]
 }

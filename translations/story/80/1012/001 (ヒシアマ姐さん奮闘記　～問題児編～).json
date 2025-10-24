@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "CNLG7HVZN2HATLKGCREMXJIZO5NBYG24",
+    "version": 6,
+    "bundle": "42QEDQWHJ6QAWTL2K6MW6O4VFPUJOO3Q",
     "type": "story",
     "storyId": "801012001",
     "title": "ヒシアマ姐さん奮闘記　～問題児編～",
+    "enTitle": "Hishiama's Struggles: Problem Children",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウマ娘たちの\r\nトレーニング風景を眺めていると、\nヒシアマゾンに声をかけられた。",
-            "enText": "While I was watching the Uma Musume \ntraining, I was approached by Hishi Amazon.",
+            "enText": "I'm in the middle of watching some<n>Umamusume\ntrain when Hishi Amazon<n>calls out to me.",
             "nextBlock": 2,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8025858213494101665,
             "blockIdx": 1
         },
@@ -18,18 +22,31 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "あぁ、アンタ！\r\nスカイの奴を見なかったかい？",
-            "enText": "Oh, you! Have you seen Skye?",
+            "enText": "Hey, you! Have you seen Sky?",
             "nextBlock": 3,
+            "origClipLength": 75,
+            "voiceIdx": 42,
+            "voiceSheetId": "051012001",
             "choices": [
                 {
                     "jpText": "いや、見てないけど……",
-                    "enText": "No, I haven't seen it…",
+                    "enText": "No, I haven't...",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "いえ、見てないけど……",
-                    "enText": "No, I haven't seen it…",
+                    "enText": "No, I haven't...",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": -5728662971599353821
+                },
+                {
+                    "origLen": 162,
+                    "pathId": -7684510081496585467
                 }
             ],
             "pathId": -7850700749979680724,
@@ -39,8 +56,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "そうか。\r\n……アイツまた、補習中に\n逃げ出したみたいなんだよ。",
-            "enText": "Oh, yeah… I think she's run off \nduring remedial work again.",
+            "enText": "Huh... She's gone AWOL in the middle<n>of her\nextra classes again.",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "voiceIdx": 34,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -5522978469490653174
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -356629760868559609
+                }
+            ],
             "pathId": -7132821354587036952,
             "blockIdx": 3
         },
@@ -48,8 +78,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "だから、美浦の寮長として\r\nお灸をすえてやろうと思ってね。",
-            "enText": "So, as the head of the dormitory at Miura, I \nthought I'd give her a good beating.",
+            "enText": "As the leader of Miho Dorm, I figured I<n>should\nscold her good and set her<n>straight.",
             "nextBlock": 5,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -3054968921364535528
+                },
+                {
+                    "origLen": 53,
+                    "pathId": 4738990050888681657
+                }
+            ],
             "pathId": -9083896811563721784,
             "blockIdx": 4
         },
@@ -57,18 +100,35 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "……って、いた！　スカイだ！\r\nさーて、どうやって捕まえるか。",
-            "enText": "There she is…! It's Skye! Well, \nhow do we catch her?",
+            "enText": "Hey, there she is! Now I just gotta figure<n>out how\nto nab her...",
             "nextBlock": 6,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "挟み撃ちにして捕まえよう",
-                    "enText": "We'll catch them in a pincer.",
+                    "enText": "Surround her from all sides and trap her.",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "グラウンドまで誘導しよう",
-                    "enText": "Let's lead them to the ground.",
+                    "enText": "Lure her out to the track.",
                     "nextBlock": 11
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 18,
+                    "pathId": 4076845161633912124
+                },
+                {
+                    "origLen": 96,
+                    "pathId": -6061786251520672716
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 1676434981783856371
                 }
             ],
             "pathId": 2279467827253990822,
@@ -78,8 +138,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "正面から追いかけるのではなく、挟み撃ちを\r\nした方が有効だろうと提案してみた。",
-            "enText": "I suggested that it would be more \neffective to use a pincer movement \nrather than a head-on chase.",
+            "enText": "I tell Hishi Amazon that it would be<n>more\neffective to approach her from the<n>sides rather\nthan going after her<n>head-on.",
             "nextBlock": 7,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 2940040534144867374
+                },
+                {
+                    "origLen": 88,
+                    "pathId": 1828956554073032483
+                }
+            ],
             "pathId": 6436287755491190783,
             "blockIdx": 6
         },
@@ -87,8 +160,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "そうだな。\r\n美浦寮の奴らに手伝ってもらって、\nさっさと捕まえてくるよ！",
-            "enText": "Yeah, that's right. I'll get the guys from \nthe Miura dormitory to help me get her.",
+            "enText": "You're right. I'll get some of my<n>residents to help\nme catch that slippery<n>little sucker!",
             "nextBlock": 8,
+            "origClipLength": 91,
+            "voiceIdx": 48,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3294371648380582469
+                },
+                {
+                    "origLen": 72,
+                    "pathId": 6735297055178981727
+                }
+            ],
             "pathId": -2492722242226400146,
             "blockIdx": 7
         },
@@ -96,8 +182,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "うぉぉぉぉぉーーー！！\r\nサボリはヒシアマ姐さんが許さないよ！",
-            "enText": "Oooohhh! Miss Hishiama won't \nlet you skip out!",
+            "enText": "Raaaaah! There's no slackin' off on<n>Hishiama's\nwatch!",
             "nextBlock": 9,
+            "origClipLength": 85,
+            "voiceIdx": 16,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": 8545350435067527175
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7002565899709257964
+                }
+            ],
             "pathId": -8241744219635753895,
             "blockIdx": 8
         },
@@ -105,8 +204,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "セイウンスカイは挟み撃ちも想定していた\r\nようだが、三重にも四重にも張られた\nウマ娘の包囲網に対し、ついに音を上げた。",
-            "enText": "Seiunsukai had been expecting a pincer \nattack, but she finally gave in to \nthe triple and quadruple encirclement \nof the Uma Musume.",
+            "enText": "Seiun Sky appears to have anticipated<n>the trap,\nbut she admits defeat after<n>getting boxed in by a\nmulti-layered wall<n>of Umamusume.",
             "nextBlock": 10,
+            "origClipLength": 121,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 2862682532461965492,
             "blockIdx": 9
         },
@@ -114,8 +216,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今回の件はセイウンスカイにとって\r\nお灸にもなり、ある種のトレーニングにも\nなったのではないだろうか。",
-            "enText": "It was a good opportunity for her to get \nsome training and a bit of moxibustion.",
+            "enText": "It looks like this served as not only a<n>good\npunishment for Seiun Sky, but an<n>effective\ntraining activity in its own right.",
             "nextBlock": -1,
+            "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3990029530607431532,
             "blockIdx": 10
         },
@@ -123,8 +228,21 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "セイウンスカイがコースまで逃げてくるよう\r\n誘導し、そのまま追いかけっこを続ければ、\n併走トレーニングになるだろうと話した。",
-            "enText": "She said that if she could get Seiun Sky to \nrun away to the track and continue to chase \nher, they could train together.",
+            "enText": "I suggest luring Seiun Sky to the track so<n>that\nchasing her eventually ends up as a<n>form of\ntraining through partner running.",
             "nextBlock": 12,
+            "origClipLength": 125,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 136,
+                    "pathId": -7495224225595718515
+                },
+                {
+                    "origLen": 124,
+                    "pathId": 1837402961417654916
+                }
+            ],
             "pathId": -5378482866209702416,
             "blockIdx": 11
         },
@@ -132,8 +250,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "必ずしも捕まえる必要はないってことか。\r\n……よーし、乗った！",
-            "enText": "So you don't necessarily have to \ncatch them? … Alright, I'm in!",
+            "enText": "Hm, so I don't necessarily have to catch<n>her, huh?\nAll right, I'm in!",
             "nextBlock": 13,
+            "origClipLength": 85,
+            "voiceIdx": 34,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7205213317106819766
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -7834185478866870928
+                }
+            ],
             "pathId": 6232468895545655123,
             "blockIdx": 12
         },
@@ -141,8 +272,21 @@
             "jpName": "ヒシアマゾン",
             "enName": "Hishi Amazon",
             "jpText": "くぉらぁぁぁぁ、スカイ！！\r\n待ちやがれぇぇぇ！！",
-            "enText": "Oh, my God, Skye! Wait for me, you bastard!",
+            "enText": "SKYYYYY! YOU GET BACK HERE!",
             "nextBlock": 14,
+            "origClipLength": 77,
+            "voiceIdx": 16,
+            "voiceSheetId": "051012001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -7578459269800866457
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -332483428198660351
+                }
+            ],
             "pathId": -4328454283201204862,
             "blockIdx": 13
         },
@@ -150,8 +294,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "それからしばらくヒシアマゾンたちの\r\n鬼ごっこは続き、やがて意図に気づいた\nセイウンスカイはひどく悔しがったという。",
-            "enText": "They played tag for a while, and when Seiun \nSky realised what they were up to, she was \nvery disappointed.",
+            "enText": "The two of them play cat-and-mouse for<n>a while,\nuntil Seiun Sky realizes to her<n>horror that she's\nbeen totally duped.",
             "nextBlock": -1,
+            "origClipLength": 120,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4477322151545849455,
             "blockIdx": 14
         }

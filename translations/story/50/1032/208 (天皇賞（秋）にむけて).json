@@ -1,34 +1,44 @@
 {
-    "version": 4,
-    "bundle": "3OGHRZOKNS5EBT6ELTLQLZLV4R44SGRY",
+    "version": 6,
+    "bundle": "X32URLICA2JDQ6CMNQET63EVL6LADQQM",
     "type": "story",
     "storyId": "501032208",
     "title": "天皇賞（秋）にむけて",
+    "enTitle": "Before the Tenno Sho (Autumn)",
     "text": [
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "アグネスタキオン、楽しみだな～！",
-            "enText": "Agnes Tachyon, I'm so excited for you!",
+            "enText": "I can't wait to see Agnes Tachyon!",
             "nextBlock": 2,
+            "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5381206767861149875,
             "blockIdx": 1
         },
         {
             "jpName": "観客B",
-            "enName": "Spectator B",
+            "enName": "Fan B",
             "jpText": "少し斜に構えた雰囲気なんだけど、でも\r\nそれだけじゃないっていうか……。",
-            "enText": "It's a bit oblique, but\nthat's not all…",
+            "enText": "She's an oddball, but there seems to be<n>more to\nher than meets the eye.",
             "nextBlock": 3,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2260791975686763908,
             "blockIdx": 2
         },
         {
             "jpName": "観客A",
-            "enName": "Spectator A",
+            "enName": "Fan A",
             "jpText": "うんうん。そうなんだよねぇ。\r\n私は彼女の走る姿がすごく好きで――",
-            "enText": "Yeah, yeah. That's right, isn't it? I\nreally like the way she runs.",
+            "enText": "Yeah, I totally get you. I love the way<n>she runs.",
             "nextBlock": 4,
+            "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3033493484097768546,
             "blockIdx": 3
         },
@@ -36,8 +46,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "会場には、アグネスタキオンのファンが\r\n詰めかけていた！",
-            "enText": "The place was packed with\nAgnes Tachyon fans!",
+            "enText": "The venue is full of Agnes Tachyon's<n>fans!",
             "nextBlock": 5,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 6433166111391885390,
             "blockIdx": 4
         },
@@ -45,8 +58,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "さすがは中距離王者決定戦と謳われている、\r\n『天皇賞（秋）』……。",
-            "enText": "As expected, \"Tennou-sho (Autumn)\" is\ntouted as the battle to determine the\nmiddle-distance champion…",
+            "enText": "Clearly, the autumn Tenno Sho isn't<n>hailed as the\ndefinitive medium-distance<n>race for nothing.",
             "nextBlock": 6,
+            "origClipLength": 66,
+            "voiceIdx": 9,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 144,
+                    "pathId": 93292857976167878
+                },
+                {
+                    "origLen": 136,
+                    "pathId": -2522008605648395473
+                }
+            ],
             "pathId": 8253217281929841837,
             "blockIdx": 5
         },
@@ -54,13 +80,26 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "観客席はそわそわと落ち着きなく、\r\n対してレース場はピリついている。",
-            "enText": "The spectators' seats were restless, while\nthe racetrack was tense.",
+            "enText": "In contrast to the lively stands, the<n>racecourse is\nfull of strained tension.",
             "nextBlock": 7,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "さすがに緊張する？",
-                    "enText": "Nervous, as expected?",
+                    "enText": "So, you're nervous?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -4284961400732746008
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 8228577162531979729
                 }
             ],
             "pathId": 436433695390718278,
@@ -70,8 +109,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "まさか！\r\n過度な緊張は集中力低下につながる。",
-            "enText": "No way! Excessive tension leads\nto poor concentration.",
+            "enText": "Not in the slightest! Overexcitement is<n>\ndetrimental to the ability to focus.",
             "nextBlock": 8,
+            "origClipLength": 60,
+            "voiceIdx": 0,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5424427074571819414
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -4348348758750080992
+                }
+            ],
             "pathId": -1627133300247081103,
             "blockIdx": 7
         },
@@ -79,8 +131,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "あくまでリラックス。\r\nしかし、このチャンスは活かしたい。",
-            "enText": "Just relax. But I want to make\nthe most of this opportunity.",
+            "enText": "I'm completely relaxed. But I still want<n>to get the\nmost out of this opportunity.",
             "nextBlock": 9,
+            "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": 2727299783024146743
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -8634601868216174479
+                }
+            ],
             "pathId": 5665326220333628272,
             "blockIdx": 8
         },
@@ -88,8 +153,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "今日は、随分いいところまで\r\n行けそうだしね。",
-            "enText": "I think I'm going to be in a\nmuch better place today.",
+            "enText": "I feel like I can run really well today.",
             "nextBlock": 10,
+            "origClipLength": 60,
+            "voiceIdx": 3,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": 9003205777279097618
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7039990753129507952
+                }
+            ],
             "pathId": -14188426888139432,
             "blockIdx": 9
         },
@@ -97,8 +175,21 @@
             "jpName": "アグネスタキオン",
             "enName": "Agnes Tachyon",
             "jpText": "ようやく上り詰めたんだ。\r\n今日は勝負させてもらうよ……！",
-            "enText": "I've finally made it up there. I'll let\nyou win today…!",
+            "enText": "It took a lot to get all the way here.<n>That's why\nI'm not holding anything<n>back!",
             "nextBlock": -1,
+            "origClipLength": 63,
+            "voiceIdx": 71,
+            "voiceSheetId": "051032001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -4251743932864567652
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 7672906411589091015
+                }
+            ],
             "pathId": -6384148555578676644,
             "blockIdx": 10
         }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "MSX4H3BYR4LX2DMUVILP7EZ2QMBHF4TE",
+    "version": 6,
+    "bundle": "AO3TMBUBDO5ZOVVVEGRPGXONEFIBRAZ2",
     "type": "story",
     "storyId": "501026308",
     "title": "日本ダービーの後に・2つ目の冠",
+    "enTitle": "After the Japanese Derby: The Second\\nCrown",
     "text": [
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "1着はミホノブルボン、\n1着はミホノブルボンです！",
-            "enText": "In first place is Mihono Bourbon. In first \nplace is Mihono Bourbon!",
+            "enText": "Mihono Bourbon has won first! That's<n>right,\nMihono Bourbon has taken first<n>place!",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2583274744911913927,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ウワァアアアア――！）",
-            "enText": "(Whoa, whoa, whoa! )",
+            "enText": "Wooooo!",
             "nextBlock": 3,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4257718434843561828,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "観客A",
             "enName": "Spectator A",
             "jpText": "やっぱりやるじゃないか、ミホノブルボン！\nテイオーに続いて、二冠達成かぁ！",
-            "enText": "I knew you'd do it, Mihono Bourbon! After \nTeio, it's a double crown!",
+            "enText": "I knew Mihono Bourbon had it in her!<n>She's the\nnext to get a Double Crown<n>after Tokai Teio!",
             "nextBlock": 4,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6386403945666946887,
             "blockIdx": 3
         },
@@ -39,9 +46,11 @@
             "jpName": "観客B",
             "enName": "Spectator B",
             "jpText": "でも、次は『菊花賞』ですよね。\n3000ｍ、走り切れたらいいけど……。",
-            "enText": "But the next step is \"Kikka-sho\", right? \n3000m, I hope I can run it…",
+            "enText": "But she's got the Kikuka Sho next, you<n>know. It'd\nbe great if she could pull off<n>3,000 meters, but...",
             "nextBlock": 5,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5169369675638211020,
             "blockIdx": 4
         },
@@ -49,9 +58,11 @@
             "jpName": "観客A",
             "enName": "Spectator A",
             "jpText": "バカ、俺たちのブルボンなら\nきっとやってみせるさ！",
-            "enText": "Come on, you idiot. Our Bourbon will do it!",
+            "enText": "Oh, shut it! Our Bourbon's <i>definitely</i><n>gonna take\nthat one, too!",
             "nextBlock": 6,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1166780945968245173,
             "blockIdx": 5
         },
@@ -59,29 +70,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "――マスター。オーダー完了しました……！",
-            "enText": "—Master. Your order is complete…!",
+            "enText": "Trainer, your orders have been<n>successfully\nexecuted!",
             "nextBlock": 7,
             "origClipLength": 71,
+            "voiceIdx": 56,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "よく頑張った！",
-                    "enText": "Well done!",
+                    "enText": "You were awesome!",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "よく頑張ったね！",
-                    "enText": "You did good!",
+                    "enText": "You were awesome!",
                     "nextBlock": 7
                 }
             ],
             "animData": [
                 {
                     "origLen": 98,
-                    "pathId": 1079399875848994098
+                    "pathId": -4977809137839613984
                 },
                 {
                     "origLen": 98,
-                    "pathId": -4977809137839613984
+                    "pathId": 1079399875848994098
                 }
             ],
             "pathId": 4077540663035046635,
@@ -91,17 +104,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "ありがとうございます。\n全て、マスターのご指導のお陰です。",
-            "enText": "Thank you very much. It's all thanks \nto the Master's guidance.",
+            "enText": "Thank you very much. This is all thanks<n>to your\nguidance.",
             "nextBlock": 8,
             "origClipLength": 82,
+            "voiceIdx": 13,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -4273965094029262474
-                },
                 {
                     "origLen": 93,
                     "pathId": 5687996341817322208
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -4273965094029262474
                 }
             ],
             "pathId": -1125065848005361468,
@@ -111,17 +126,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "それでは、次のオーダーを――",
-            "enText": "Now, the next order—",
+            "enText": "I await your next ord—",
             "nextBlock": 9,
             "origClipLength": 63,
+            "voiceIdx": 55,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -5424586964842117215
-                },
                 {
                     "origLen": 74,
                     "pathId": -6861067333720853604
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -5424586964842117215
                 }
             ],
             "pathId": 7235832436054408119,
@@ -131,17 +148,19 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……ブルボンさん……っ。",
-            "enText": "… Ms. Bourbon…",
+            "enText": "Bourbon...",
             "nextBlock": 10,
             "origClipLength": 60,
+            "voiceIdx": 53,
+            "voiceSheetId": "051030001",
             "animData": [
                 {
                     "origLen": 71,
-                    "pathId": -1559077099680477629
+                    "pathId": 5062470539625224064
                 },
                 {
                     "origLen": 71,
-                    "pathId": 5062470539625224064
+                    "pathId": -1559077099680477629
                 }
             ],
             "pathId": -1007084953237325253,
@@ -151,25 +170,27 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "焦点、および足元の不安定さから、\r\n疲労困憊を確認。『大丈夫』ですか？",
-            "enText": "Focus and unsteady footing confirm \nexhaustion. Are you \"okay\"?",
+            "enText": "Based on your lack of focus and unstable<n>footing,\nI have confirmed that you are<n>completely\nexhausted. Are you...<n>\"okay\"?",
             "nextBlock": 11,
             "origClipLength": 90,
+            "voiceIdx": 63,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 112,
-                    "pathId": -3599414063960315861
-                },
                 {
                     "origLen": 132,
                     "pathId": 6116537720052209739
                 },
                 {
-                    "origLen": 43,
-                    "pathId": -2620733248150860374
+                    "origLen": 112,
+                    "pathId": -3599414063960315861
                 },
                 {
                     "origLen": 87,
                     "pathId": 5737936656470886575
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -2620733248150860374
                 }
             ],
             "pathId": -8056587667250836761,
@@ -179,25 +200,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "ミホノブルボンの声が聞こえているのか\nいないのか、うわごとのように呟く。",
-            "enText": "I muttered to myself as if I could hear \nMihono Bourbon's voice or not.",
+            "enText": "Rice Shower mumbles her answer in a<n>daze,\nmaking me wonder if she really<n>heard what\nMihono Bourbon said.",
             "nextBlock": 12,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 5049347220378488386
+                },
                 {
                     "origLen": 109,
                     "pathId": 3647139788259272632
                 },
                 {
                     "origLen": 102,
-                    "pathId": 5049347220378488386
+                    "pathId": 946348045577215526
                 },
                 {
                     "origLen": 102,
                     "pathId": -3279384541797945990
-                },
-                {
-                    "origLen": 102,
-                    "pathId": 946348045577215526
                 }
             ],
             "pathId": 1694666494625077676,
@@ -207,25 +230,27 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ライス――また、\nブルボンさんに……追いつけなかった……！",
-            "enText": "Rice — also, I couldn't… catch \nup with Ms. Bourbon…!",
+            "enText": "I still... couldn't catch up...",
             "nextBlock": 13,
             "origClipLength": 82,
+            "voiceIdx": 18,
+            "voiceSheetId": "051030001",
             "animData": [
+                {
+                    "origLen": 93,
+                    "pathId": -7861386056213555221
+                },
                 {
                     "origLen": 190,
                     "pathId": -3910227310638354242
                 },
                 {
                     "origLen": 93,
-                    "pathId": -7861386056213555221
+                    "pathId": 7407001937251095794
                 },
                 {
                     "origLen": 37,
                     "pathId": 2126260113776113223
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 7407001937251095794
                 }
             ],
             "pathId": -4222077930465435747,
@@ -235,25 +260,27 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ブルボンさんは……すごい……\nだからもっともっと……がんばらなきゃ……。",
-            "enText": "Ms. Bourbon is… amazing… so I \nhave to work… harder and harder…",
+            "enText": "You're so... amazing... I have to keep...<n>working...\nharder...",
             "nextBlock": 14,
             "origClipLength": 91,
+            "voiceIdx": 71,
+            "voiceSheetId": "051030001",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": -3651478779935128250
+                },
                 {
                     "origLen": 82,
                     "pathId": 8948967311968142218
                 },
                 {
                     "origLen": 102,
-                    "pathId": -3651478779935128250
+                    "pathId": 1382511424669669276
                 },
                 {
                     "origLen": 70,
                     "pathId": 6238944416194326173
-                },
-                {
-                    "origLen": 102,
-                    "pathId": 1382511424669669276
                 }
             ],
             "pathId": -2341324659468921207,
@@ -263,25 +290,27 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "もっと……もっと……もっと……。\nライス……変わらなきゃ……。",
-            "enText": "More… more… more… Rice \n… must change…",
+            "enText": "I have to... work... even harder... I have<n>to...\nchange...",
             "nextBlock": 15,
             "origClipLength": 85,
+            "voiceIdx": 15,
+            "voiceSheetId": "051030001",
             "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -6342902314438407696
+                },
                 {
                     "origLen": 96,
                     "pathId": 5058208387188677397
                 },
                 {
                     "origLen": 96,
-                    "pathId": -6342902314438407696
+                    "pathId": -4001734629415610435
                 },
                 {
                     "origLen": 59,
                     "pathId": 4742896525750409432
-                },
-                {
-                    "origLen": 96,
-                    "pathId": -4001734629415610435
                 }
             ],
             "pathId": -2233754980053118655,
@@ -291,29 +320,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……！　ライスさん……！？",
-            "enText": "…! Ms. Rice…!",
+            "enText": "Rice?!",
             "nextBlock": 16,
             "origClipLength": 61,
+            "voiceIdx": 111,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 96,
                     "pathId": -1485448139083036043
                 },
                 {
-                    "origLen": 70,
-                    "pathId": 3100562874420528432
-                },
-                {
                     "origLen": 110,
                     "pathId": -3096792088154795617
                 },
                 {
-                    "origLen": 61,
-                    "pathId": -6849664248020251707
+                    "origLen": 70,
+                    "pathId": 3100562874420528432
                 },
                 {
                     "origLen": 61,
                     "pathId": -7721290162324020221
+                },
+                {
+                    "origLen": 61,
+                    "pathId": -6849664248020251707
                 }
             ],
             "pathId": -5438821925346604477,
@@ -323,18 +354,20 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……すぅ……すぅ……。",
-            "enText": "… soo… soo…",
+            "enText": "<i>Zzz... Zzz...</i>",
             "nextBlock": 17,
             "origClipLength": 144,
+            "voiceIdx": 40,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "寝ているだけみたいだ",
-                    "enText": "Looks like she's just sleeping.",
+                    "enText": "Looks like she fell asleep.",
                     "nextBlock": 17
                 },
                 {
                     "jpText": "寝ているだけみたい",
-                    "enText": "It's like she's just sleeping.",
+                    "enText": "Looks like she fell asleep.",
                     "nextBlock": 17
                 }
             ],
@@ -344,20 +377,20 @@
                     "pathId": 2985241040631016062
                 },
                 {
-                    "origLen": 176,
-                    "pathId": -6435690390402684225
-                },
-                {
                     "origLen": 182,
                     "pathId": -398574185069368132
                 },
                 {
-                    "origLen": 206,
-                    "pathId": 1619361215158586136
+                    "origLen": 176,
+                    "pathId": -6435690390402684225
                 },
                 {
                     "origLen": 196,
                     "pathId": 8425031453749599876
+                },
+                {
+                    "origLen": 206,
+                    "pathId": 1619361215158586136
                 }
             ],
             "pathId": -4786441349295723169,
@@ -367,29 +400,31 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 18,
             "origClipLength": 48,
+            "voiceIdx": 8,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 59,
                     "pathId": -8688595801281745466
                 },
                 {
-                    "origLen": 35,
-                    "pathId": 157456229475833855
-                },
-                {
                     "origLen": 59,
                     "pathId": -6335881390983214899
                 },
                 {
-                    "origLen": 134,
-                    "pathId": -1047837925359827962
+                    "origLen": 35,
+                    "pathId": 157456229475833855
                 },
                 {
                     "origLen": 127,
                     "pathId": -3937868228039527560
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -1047837925359827962
                 }
             ],
             "pathId": -1402457638530410961,
@@ -399,9 +434,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "その後ライスシャワーを運び、目覚めを\r\n確認してから東京レース場を後にした。",
-            "enText": "After that, I carried Rice Shower, \nmade sure I was awake, and left \nthe Tokyo Racecourse.",
+            "enText": "We bring Rice Shower somewhere safe<n>and make\nsure she's awake before we<n>leave the Tokyo\nRacecourse.",
             "nextBlock": 19,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 105,
@@ -409,19 +446,19 @@
                 },
                 {
                     "origLen": 105,
-                    "pathId": 3163668904059624464
-                },
-                {
-                    "origLen": 105,
                     "pathId": -366305077876048406
                 },
                 {
-                    "origLen": 134,
-                    "pathId": -5720068120493750061
+                    "origLen": 105,
+                    "pathId": 3163668904059624464
                 },
                 {
                     "origLen": 127,
                     "pathId": 4634695864157703256
+                },
+                {
+                    "origLen": 134,
+                    "pathId": -5720068120493750061
                 }
             ],
             "pathId": -6625743993099343923,
@@ -431,9 +468,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "……マスター。\n私は、ライスさんが理解不能です。",
-            "enText": "… Master. I do not understand \nyou, Ms. Rice.",
+            "enText": "...Trainer. I cannot understand Rice.",
             "nextBlock": 20,
             "origClipLength": 76,
+            "voiceIdx": 28,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 14,
@@ -441,27 +480,27 @@
                 },
                 {
                     "origLen": 14,
-                    "pathId": -8908147161725719574
-                },
-                {
-                    "origLen": 14,
                     "pathId": -4720807963031614241
                 },
                 {
                     "origLen": 14,
-                    "pathId": 4959100975650117637
+                    "pathId": -8908147161725719574
                 },
                 {
                     "origLen": 14,
                     "pathId": -6100871345602974607
                 },
                 {
-                    "origLen": 154,
-                    "pathId": 6554937490217267357
+                    "origLen": 14,
+                    "pathId": 4959100975650117637
                 },
                 {
                     "origLen": 116,
                     "pathId": 1568916112171441967
+                },
+                {
+                    "origLen": 154,
+                    "pathId": 6554937490217267357
                 }
             ],
             "pathId": 1174398608969694305,
@@ -471,13 +510,15 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "そもそもなぜ私に『固執』するのか。\nそして、なぜ『追いつく』というのか。",
-            "enText": "Why are you \"sticking\" to me in \nthe first place? And why do you \nwant to \"catch up\" with me?",
+            "enText": "Why is she so fixated upon me? Why<n>does she\nwish to \"catch up\" to me?",
             "nextBlock": 21,
             "origClipLength": 91,
+            "voiceIdx": 34,
+            "voiceSheetId": "051026001",
             "choices": [
                 {
                     "jpText": "『追いつく』が変？",
-                    "enText": "What's wrong with \"catching up\"?",
+                    "enText": "Do you think it's strange?",
                     "nextBlock": 21
                 }
             ],
@@ -487,12 +528,12 @@
                     "pathId": -5231989493393746119
                 },
                 {
-                    "origLen": 75,
-                    "pathId": -6320147405518347362
-                },
-                {
                     "origLen": 102,
                     "pathId": 1182878949045317000
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -6320147405518347362
                 }
             ],
             "pathId": 5063313133720466553,
@@ -502,21 +543,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "レースで得られる結果は『勝利』か『敗北』。\nライスさんはそのどちらでもなく――",
-            "enText": "The result of a race is either \"victory\" or \n\"defeat\". For Ms. Rice, it was neither.",
+            "enText": "In a race, the result is either \"victory\" or<n>\"defeat.\"\nRice, however, doesn't focus<n>on either of those\noutcomes.",
             "nextBlock": 22,
             "origClipLength": 95,
+            "voiceIdx": 81,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 978821609761813040
                 },
                 {
-                    "origLen": 163,
-                    "pathId": -177196589258112673
-                },
-                {
                     "origLen": 106,
                     "pathId": -8891448188327189407
+                },
+                {
+                    "origLen": 163,
+                    "pathId": -177196589258112673
                 }
             ],
             "pathId": -2835417958683585818,
@@ -526,17 +569,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "『追いつく』と表現しています。\r\n『追いつく』ために出走しています。",
-            "enText": "It's called \"catching up. \nI'm running to catch up.",
+            "enText": "She only expresses a desire to \"catch<n>up.\" That is\nthe reason she runs.",
             "nextBlock": 23,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 82,
-                    "pathId": 222911162294221101
-                },
                 {
                     "origLen": 100,
                     "pathId": 6046106198443363905
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 222911162294221101
                 }
             ],
             "pathId": 7611110975139511361,
@@ -546,17 +591,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "この意味、意図のソリューションが、\n私のローカルフォルダには見当たりません。",
-            "enText": "I can't find a solution to what this means or \nintends in my local folder.",
+            "enText": "My database does not have any<n>information that\ncan explain the logic<n>behind her actions.",
             "nextBlock": 24,
             "origClipLength": 94,
+            "voiceIdx": 79,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": 2089497341838029425
-                },
                 {
                     "origLen": 105,
                     "pathId": -6464029026792386961
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2089497341838029425
                 }
             ],
             "pathId": 4042246958548072141,
@@ -566,24 +613,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "レースに込める想いはそれぞれだ。\n結果が重要ではないウマ娘もいる。",
-            "enText": "Each of us has our own thoughts and \nfeelings about the race. For some, \nthe result is not important.",
+            "enText": "Every runner puts their own feelings into<n>races.\nThere are some who don't place<n>much importance\non winning.",
             "nextBlock": 25,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（その上……）",
-                    "enText": "(On that…)",
+                    "enText": "(And what's more...)",
                     "nextBlock": 25
                 }
             ],
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": 5701471726043852747
+                    "pathId": 5441211685409199533
                 },
                 {
                     "origLen": 99,
-                    "pathId": 5441211685409199533
+                    "pathId": 5701471726043852747
                 }
             ],
             "pathId": -2824107831298850603,
@@ -593,21 +642,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "感覚というのは自分で経験してようやく\n理解できるものだ。",
-            "enText": "Sensation is something that you can only \nunderstand by experiencing it for yourself.",
+            "enText": "You can only truly understand an<n>emotion after\nyou've experienced it for<n>yourself.",
             "nextBlock": 26,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 86,
                     "pathId": -8538014211976476300
                 },
                 {
-                    "origLen": 67,
-                    "pathId": 7525651347012187227
-                },
-                {
                     "origLen": 92,
                     "pathId": -1978372104879437753
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 7525651347012187227
                 }
             ],
             "pathId": -1027084809240597835,
@@ -617,13 +668,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "ただでさえ感情に疎いミホノブルボンには\nまだ、少し難しいかもしれない。",
-            "enText": "It might still be a little difficult \nfor Mihono Bourbon, who is not very \ngood with emotions.",
+            "enText": "Mihono Bourbon's grasp on emotions is<n>tenuous\nat best, so Rice Shower's<n>feelings are likely even\nharder for her to<n>comprehend.",
             "nextBlock": 27,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "いつかきっと、どちらもわかる日が来る",
-                    "enText": "One day, I'm sure, you'll understand both.",
+                    "enText": "I'm sure you'll be able to understand everything\none day.",
                     "nextBlock": 27
                 }
             ],
@@ -634,11 +687,11 @@
                 },
                 {
                     "origLen": 101,
-                    "pathId": 3588941884939465181
+                    "pathId": 7011999861738962531
                 },
                 {
                     "origLen": 101,
-                    "pathId": 7011999861738962531
+                    "pathId": 3588941884939465181
                 }
             ],
             "pathId": 372846559098735676,
@@ -648,21 +701,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "これからもライスシャワーとは\nトゥインクル・シリーズでぶつかるだろう。",
-            "enText": "I'm sure we'll be running into Rice \nShower in the Twinkle Series.",
+            "enText": "I'm certain we'll continue to face off<n>against Rice\nShower in the Twinkle<n>Series.",
             "nextBlock": 28,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -2016248800788638955
                 },
                 {
-                    "origLen": 81,
-                    "pathId": 1874866768631437191
-                },
-                {
                     "origLen": 101,
                     "pathId": -8314364794491101612
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 1874866768631437191
                 }
             ],
             "pathId": 8788963906811441027,
@@ -672,17 +727,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "焦らず、いつかその本意がわかる日を待とう。\nそう言うと――",
-            "enText": "Let's not be hasty and wait for the day when \nwe can understand her true intentions. When \nyou say that…",
+            "enText": "I tell Mihono Bourbon there's no rush.<n>She'll\nunderstand someday, so she just<n>needs to wait.",
             "nextBlock": 29,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -3170412209485605240
+                    "pathId": 4932859305010932926
                 },
                 {
                     "origLen": 93,
-                    "pathId": 4932859305010932926
+                    "pathId": -3170412209485605240
                 }
             ],
             "pathId": 6689031479066286724,
@@ -692,17 +749,19 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "なるほど……。",
-            "enText": "I see…",
+            "enText": "Understood...",
             "nextBlock": 30,
             "origClipLength": 79,
+            "voiceIdx": 38,
+            "voiceSheetId": "051026001",
             "animData": [
-                {
-                    "origLen": 13,
-                    "pathId": -2865722939875503113
-                },
                 {
                     "origLen": 90,
                     "pathId": 354390884030262041
+                },
+                {
+                    "origLen": 13,
+                    "pathId": -2865722939875503113
                 }
             ],
             "pathId": -8965680153837458441,
@@ -712,21 +771,23 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "根拠は不明ですが、マスターの\n意見ならば反映の価値があると判断。",
-            "enText": "The rationale for this is unclear, \nbut if it is the Master's opinion, \nit is worth reflecting.",
+            "enText": "The basis of your statement is unclear,<n>but if that\nis your opinion, then I<n>determine it is worth\nputting into<n>practice.",
             "nextBlock": 31,
             "origClipLength": 86,
+            "voiceIdx": 63,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 90,
                     "pathId": -7553525303960063381
                 },
                 {
-                    "origLen": 71,
-                    "pathId": 5568944771037212614
-                },
-                {
                     "origLen": 97,
                     "pathId": 840565960890343213
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 5568944771037212614
                 }
             ],
             "pathId": 7909569448499231162,
@@ -736,9 +797,11 @@
             "jpName": "ミホノブルボン",
             "enName": "Mihono Bourbon",
             "jpText": "『いつかわかる日』を待ちます。",
-            "enText": "I'll wait for the day when I know.",
+            "enText": "I will wait for the day that I understand.",
             "nextBlock": 32,
             "origClipLength": 64,
+            "voiceIdx": 37,
+            "voiceSheetId": "051026001",
             "animData": [
                 {
                     "origLen": 20,
@@ -746,11 +809,11 @@
                 },
                 {
                     "origLen": 75,
-                    "pathId": -1481942281011353681
+                    "pathId": -2059938293007180462
                 },
                 {
                     "origLen": 75,
-                    "pathId": -2059938293007180462
+                    "pathId": -1481942281011353681
                 }
             ],
             "pathId": -3734923937785569685,
@@ -760,17 +823,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "電車は静かに学園へと向かっていく。",
-            "enText": "The train was quietly heading \ntowards the school.",
+            "enText": "The train quietly moves toward the<n>academy.",
             "nextBlock": 33,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 55,
-                    "pathId": 8015449735422074734
+                    "pathId": -265011859061434490
                 },
                 {
                     "origLen": 55,
-                    "pathId": -265011859061434490
+                    "pathId": 8015449735422074734
                 }
             ],
             "pathId": 3195645447611620587,
@@ -780,12 +845,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "次はクラシック三冠、最後のレース。\n『菊花賞』だ……！",
-            "enText": "The next race is the last race of the Triple \nCrown. Kikka-sho…!",
+            "enText": "Next up is the final race in the Classic<n>Triple\nCrown—the Kikuka Sho!",
             "nextBlock": -1,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7565821437422802942,
             "blockIdx": 33
         }
-    ],
-    "modified": 1657444293
+    ]
 }

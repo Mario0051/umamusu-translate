@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "RLBUIIEJN2WPNYSNJ74GHOLFAMXBODUF",
+    "version": 6,
+    "bundle": "OKTN3XNL5667M74HXRWXYD7EK5HMTKB5",
     "type": "story",
     "storyId": "501018113",
     "title": "杖となりて",
+    "enTitle": "To Be a Scepter",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "デビュー戦を終え、エアグルーヴの\r\n次の目標を決めなければならない……。",
-            "enText": "After her debut race, Airgroove's next target \nmust be decided. ……",
+            "enText": "With her debut race behind us, it's time<n>to decide\non Air Groove's next goal.",
             "nextBlock": 2,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6510353407516279792,
             "blockIdx": 1
         },
@@ -19,13 +22,15 @@
             "jpName": "",
             "enName": "",
             "jpText": "“女帝”にふさわしいレースを選ぶの\r\nならば――",
-            "enText": "If you're going to choose a \nrace worthy of the Empress…",
+            "enText": "The most fitting race for the Empress<n>would be...",
             "nextBlock": 3,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（……『阪神ジュベナイルフィリーズ』！）",
-                    "enText": "(…… \"Hanshin Juvenile Fillies\"!)",
+                    "enText": "(The Hanshin Juvenile Fillies!)",
                     "nextBlock": 3
                 }
             ],
@@ -36,17 +41,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "『阪神JF』を制したウマ娘は、\r\nその年のジュニア級の女王とも称される。\nエアグルーヴが挑むには、最適だろう。",
-            "enText": "The winner of the Hanshin JF is also known as \nthe queen of that year's junior class. \nAirgroove would be the perfect horse to \nchallenge her.",
+            "enText": "The Umamusume who conquers the<n>Hanshin\nJuvenile Fillies is crowned as<n>the queen of the\njunior year. What race<n>could be a better fit for Air\nGroove?",
             "nextBlock": 4,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "coloredText": [
                 {
                     "jpText": "阪神JF",
-                    "enText": "Hanshin JF"
+                    "enText": ""
                 },
                 {
                     "jpText": "ジュニア級",
-                    "enText": "junior class"
+                    "enText": ""
                 }
             ],
             "pathId": -162740522948286691,
@@ -56,27 +63,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "だがエアグルーヴ自身の考えはどうだろうか？\r\nそれを確かめるべく、彼女を探すことにした。",
-            "enText": "But what about Airgroove's own thoughts? To \nfind out, we decided to look for her.",
+            "enText": "All the same, I wonder what Air Groove's<n>own\ntake is. I head out to find her and<n>ask.",
             "nextBlock": 5,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6309142213487938832,
             "blockIdx": 4
         },
         {
             "jpName": "生徒会のウマ娘",
-            "enName": "",
+            "enName": "Student Council Member",
             "jpText": "――副会長。校内備品の点検、終わりました。\r\nこちらがまとめたリストです。",
-            "enText": "―Vice President. I have finished my \ninspection of the school's equipment. Here is \nthe list I compiled.",
+            "enText": "I've finished checking the academy<n>equipment,\nVice President. Here's the<n>list I compiled.",
             "nextBlock": 6,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 106,
-                    "pathId": 7480713225070734910
+                    "pathId": 7406743652722130592
                 },
                 {
                     "origLen": 106,
-                    "pathId": 7406743652722130592
+                    "pathId": 7480713225070734910
                 }
             ],
             "pathId": -4925115736829461795,
@@ -86,17 +97,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ありがとう。\r\n後の確認は、こちらでやっておく。",
-            "enText": "Thanks. I'll do the rest of the check here.",
+            "enText": "Thank you. You can leave the remaining<n>checks\nto me.",
             "nextBlock": 7,
             "origClipLength": 60,
+            "voiceIdx": 12,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": -5983942999052599617
-                },
                 {
                     "origLen": 71,
                     "pathId": -5018772429759838874
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -5983942999052599617
                 }
             ],
             "pathId": 1290472461329520305,
@@ -106,24 +119,26 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "…………ふぅ。\r\n次は生徒会室で書類整理か――",
-            "enText": "……… Whew. Next up, paperwork in the student \ncouncil chambers―.",
+            "enText": "Phew... Next on the agenda is to sort the<n>\ndocuments in the student council office.",
             "nextBlock": 8,
             "origClipLength": 60,
+            "voiceIdx": 84,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "お疲れ様",
-                    "enText": "that's enough for today",
+                    "enText": "Looks like you're hard at work.",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 25,
-                    "pathId": 4136428288464774365
-                },
-                {
                     "origLen": 71,
                     "pathId": 2123880724575576837
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 4136428288464774365
                 }
             ],
             "pathId": -3457445855072292976,
@@ -133,17 +148,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "む――\r\nなんだ、貴様か。",
-            "enText": "Hmmm… What, it's you.",
+            "enText": "Oh, hello.",
             "nextBlock": 9,
             "origClipLength": 53,
+            "voiceIdx": 26,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 11,
-                    "pathId": 3472870112475975080
-                },
                 {
                     "origLen": 64,
                     "pathId": -7569982833290627577
+                },
+                {
+                    "origLen": 11,
+                    "pathId": 3472870112475975080
                 }
             ],
             "pathId": -4391574425587554784,
@@ -153,29 +170,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "急を要するものでなければ、後にしろ。\r\n私はこれから、生徒会室で書類整理がある。",
-            "enText": "If it's not urgent, do it later. I have some \npaperwork to do in the student council office.",
+            "enText": "Unless the matter is urgent, can you<n>leave me be?\nI need to organize some<n>documents in the student\ncouncil office.",
             "nextBlock": 10,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "なら手伝うぞ",
-                    "enText": "Then let me help you.",
+                    "enText": "I'll help you.",
                     "nextBlock": 10
                 },
                 {
                     "jpText": "なら手伝うよ",
-                    "enText": "Then let me help you.",
+                    "enText": "I'll help you.",
                     "nextBlock": 10
                 }
             ],
             "animData": [
                 {
-                    "origLen": 30,
-                    "pathId": 4117179580678364396
-                },
-                {
                     "origLen": 82,
                     "pathId": -5801008629647804254
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 4117179580678364396
                 }
             ],
             "pathId": 4973638311386977700,
@@ -185,17 +204,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "なんだと？",
-            "enText": "What the hell?",
+            "enText": "Excuse me?",
             "nextBlock": 11,
             "origClipLength": 48,
+            "voiceIdx": 20,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 6630720145210664748
-                },
                 {
                     "origLen": 59,
                     "pathId": 7176152840023756758
+                },
+                {
+                    "origLen": 21,
+                    "pathId": 6630720145210664748
                 }
             ],
             "pathId": 935301008637899653,
@@ -205,17 +226,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "今後の方針に関わる話のため、\r\nなるべく早く、かつ時間をとって話したい。\nその意図をエアグルーヴに伝えた。",
-            "enText": "Since this is a matter of future policy, we \nwould like to discuss it as soon as possible \nand take our time. I informed Airgroove of my \nintention to do so.",
+            "enText": "I want to talk to Air Groove about our<n>future\nplans as soon as possible, so I<n>decide to help her\nclear her schedule.",
             "nextBlock": 12,
             "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 90,
-                    "pathId": -2752709631379256387
+                    "pathId": -1216699951761158522
                 },
                 {
                     "origLen": 90,
-                    "pathId": -1216699951761158522
+                    "pathId": -2752709631379256387
                 }
             ],
             "pathId": -8319189922551961418,
@@ -225,17 +248,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "時間を捻出するために手伝いたい、と？\r\n……ふん。随分と言うようになったな。",
-            "enText": "You want to help me to generate time, and?…… \nHmm. You've come a long way to say that.",
+            "enText": "You want to help so that I finish up<n>quicker?\n...Heh. You're getting better at<n>this.",
             "nextBlock": 13,
             "origClipLength": 69,
+            "voiceIdx": 7,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": 5172960143223272868
-                },
                 {
                     "origLen": 80,
                     "pathId": -7432253971083061550
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 5172960143223272868
                 }
             ],
             "pathId": 1036800742460680306,
@@ -245,17 +270,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――何をしている。生徒会室に行くぞ。\r\nやるからには、徹底的に働いてもらう。",
-            "enText": "―What are you doing? We're going to the \nstudent council office. You're going to do \nit, and you're going to work your ass off.",
+            "enText": "Enough dawdling, then. Let's get to the<n>student\ncouncil office. If you insist on<n>helping, I'm going\nto work you to the<n>bone.",
             "nextBlock": 14,
             "origClipLength": 69,
+            "voiceIdx": 16,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 102,
-                    "pathId": -318517342099230502
+                    "pathId": -3068733756511289123
                 },
                 {
                     "origLen": 102,
-                    "pathId": -3068733756511289123
+                    "pathId": -318517342099230502
                 }
             ],
             "pathId": 5429355399148392224,
@@ -265,25 +292,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "おや――\r\n今日はエアグルーヴのトレーナーも一緒か。",
-            "enText": "Oh ― the Airgroove trainer is with you today?",
+            "enText": "Oh? So we have a guest. I'm sorry for not<n>being\nable to prepare some tea.",
             "nextBlock": 15,
             "origClipLength": 61,
+            "voiceIdx": 34,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 105,
-                    "pathId": 2753158230396370585
-                },
                 {
                     "origLen": 105,
                     "pathId": 8373356066381846224
                 },
                 {
-                    "origLen": 113,
-                    "pathId": -59200897776627385
+                    "origLen": 105,
+                    "pathId": 2753158230396370585
                 },
                 {
                     "origLen": 113,
                     "pathId": -262168364848470081
+                },
+                {
+                    "origLen": 113,
+                    "pathId": -59200897776627385
                 }
             ],
             "pathId": 8065429481343136662,
@@ -293,25 +322,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "本日予定していた書類整理を\r\n手伝わせたいのですが、よろしいでしょうか？",
-            "enText": "I would like you to help me with the \npaperwork I have scheduled for today, if \nthat's all right.",
+            "enText": "I brought my trainer to help with<n>organizing the\ndocuments. I assume it<n>won't be a problem?",
             "nextBlock": 16,
             "origClipLength": 68,
+            "voiceIdx": 148,
+            "voiceSheetId": "051018001",
             "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 4916341432790271783
+                },
                 {
                     "origLen": 29,
                     "pathId": -2502668656203285273
                 },
                 {
                     "origLen": 79,
-                    "pathId": 4916341432790271783
+                    "pathId": 6587066168104072427
                 },
                 {
                     "origLen": 79,
                     "pathId": 3183544984342409685
-                },
-                {
-                    "origLen": 79,
-                    "pathId": 6587066168104072427
                 }
             ],
             "pathId": 7231357905497221122,
@@ -321,25 +352,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "構わない。\r\nむしろ、ちょうど良かったよ。",
-            "enText": "No problem. Rather, it was just fine.",
+            "enText": "Of course not. The timing could not be<n>better, in\nfact.",
             "nextBlock": 17,
             "origClipLength": 58,
+            "voiceIdx": 80,
+            "voiceSheetId": "051017001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -6655784097291845210
+                },
                 {
                     "origLen": 69,
                     "pathId": -1032004594376200166
                 },
                 {
                     "origLen": 69,
-                    "pathId": -6655784097291845210
+                    "pathId": 7443380822015507878
                 },
                 {
                     "origLen": 21,
                     "pathId": -7230547415157864674
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 7443380822015507878
                 }
             ],
             "pathId": 2335528532446929295,
@@ -349,25 +382,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "何かあったのですか？",
-            "enText": "What happened?",
+            "enText": "Did something happen?",
             "nextBlock": 18,
             "origClipLength": 51,
+            "voiceIdx": 26,
+            "voiceSheetId": "051018001",
             "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -4128864240076762272
+                },
                 {
                     "origLen": 24,
                     "pathId": 3776325439167707644
                 },
                 {
                     "origLen": 62,
-                    "pathId": -4128864240076762272
+                    "pathId": 7035734804290727408
                 },
                 {
                     "origLen": 62,
                     "pathId": 1554576594873263354
-                },
-                {
-                    "origLen": 62,
-                    "pathId": 7035734804290727408
                 }
             ],
             "pathId": 5805997702489981578,
@@ -377,25 +412,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "先程、美化委員が君を探してここを訪れてね。",
-            "enText": "A few minutes ago, one of the beautification \ncommittee members came here looking for you.",
+            "enText": "A member of the groundskeeping<n>committee was\nlooking for you.",
             "nextBlock": 19,
             "origClipLength": 58,
+            "voiceIdx": 38,
+            "voiceSheetId": "051017001",
             "animData": [
+                {
+                    "origLen": 69,
+                    "pathId": -3871281197098452702
+                },
                 {
                     "origLen": 69,
                     "pathId": -7707550521235214646
                 },
                 {
                     "origLen": 69,
-                    "pathId": -3871281197098452702
+                    "pathId": 5211454256388123285
                 },
                 {
                     "origLen": 42,
                     "pathId": 172638393801799700
-                },
-                {
-                    "origLen": 69,
-                    "pathId": 5211454256388123285
                 }
             ],
             "pathId": -2284827158648716337,
@@ -405,25 +442,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "何やら急ぎの気配だった。\r\n直接話を聞きに行ってもらえないだろうか？",
-            "enText": "There was some sense of urgency. Could you go \ntalk to her directly?",
+            "enText": "She seemed quite on edge. Would you<n>mind\ntalking to her directly?",
             "nextBlock": 20,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6297782865537661941
+                },
                 {
                     "origLen": 36,
                     "pathId": 5282084684433015548
                 },
                 {
                     "origLen": 78,
-                    "pathId": 6297782865537661941
+                    "pathId": 3748499663480766083
                 },
                 {
                     "origLen": 42,
                     "pathId": -5704929966507397936
-                },
-                {
-                    "origLen": 78,
-                    "pathId": 3748499663480766083
                 }
             ],
             "pathId": -1235314708371328374,
@@ -433,25 +472,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "その間、書類整理については\r\n私と彼で受け持つとしよう。",
-            "enText": "In the meantime, she and I will take care of \nthe paperwork.",
+            "enText": "While you attend to that, I will help your<n>trainer\nwork through these documents.",
             "nextBlock": 21,
             "origClipLength": 63,
+            "voiceIdx": 80,
+            "voiceSheetId": "051017001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -8953257850390062464
+                },
                 {
                     "origLen": 74,
                     "pathId": -5107659179110862888
                 },
                 {
                     "origLen": 74,
-                    "pathId": -8953257850390062464
+                    "pathId": -5624685393299347074
                 },
                 {
                     "origLen": 36,
                     "pathId": 4774482206769111351
-                },
-                {
-                    "origLen": 74,
-                    "pathId": -5624685393299347074
                 }
             ],
             "pathId": 8454112891594132091,
@@ -461,25 +502,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "その間、書類整理については\r\n私と彼女で受け持つとしよう。",
-            "enText": "In the meantime, she and I will take care of \nthe paperwork.",
+            "enText": "While you attend to that, I will help your<n>trainer\nwork through these documents.",
             "nextBlock": 22,
             "origClipLength": 63,
+            "voiceIdx": 80,
+            "voiceSheetId": "051017001",
             "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2596488603834118503
+                },
                 {
                     "origLen": 74,
                     "pathId": -4712161405992614257
                 },
                 {
                     "origLen": 74,
-                    "pathId": -2596488603834118503
+                    "pathId": -2279060498689512196
                 },
                 {
                     "origLen": 36,
                     "pathId": 3258314995931587998
-                },
-                {
-                    "origLen": 74,
-                    "pathId": -2279060498689512196
                 }
             ],
             "pathId": -5639619239467319402,
@@ -489,25 +532,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "なるほど、そういうことでしたか……\r\n案件に心当たりはあるので、すぐ向かいます。",
-            "enText": "I see, that's what you meant.…… \nI have an idea of what the case \nis, so I'll be on my way.",
+            "enText": "I see. I think I know what the issue might<n>be. I'll\nhead out now.",
             "nextBlock": 23,
             "origClipLength": 71,
+            "voiceIdx": 8,
+            "voiceSheetId": "051018001",
             "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -6804616825794538106
+                },
                 {
                     "origLen": 44,
                     "pathId": -912136672120856792
                 },
                 {
                     "origLen": 82,
-                    "pathId": -6804616825794538106
+                    "pathId": 8824357975767179242
                 },
                 {
                     "origLen": 55,
                     "pathId": -8399438664197432846
-                },
-                {
-                    "origLen": 82,
-                    "pathId": 8824357975767179242
                 }
             ],
             "pathId": 4653681176405660235,
@@ -517,25 +562,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "それでは――",
-            "enText": "Now then…",
+            "enText": "If you'll excuse me...",
             "nextBlock": 24,
             "origClipLength": 48,
+            "voiceIdx": 147,
+            "voiceSheetId": "051018001",
             "animData": [
+                {
+                    "origLen": 59,
+                    "pathId": -8179879169005774074
+                },
                 {
                     "origLen": 17,
                     "pathId": -8046330320276678903
                 },
                 {
                     "origLen": 59,
-                    "pathId": -8179879169005774074
+                    "pathId": -1149379682675800087
                 },
                 {
                     "origLen": 59,
                     "pathId": 2582722382266476401
-                },
-                {
-                    "origLen": 59,
-                    "pathId": -1149379682675800087
                 }
             ],
             "pathId": -7800844518101028365,
@@ -545,25 +592,27 @@
             "jpName": "",
             "enName": "",
             "jpText": "……思いがけず、シンボリルドルフと\r\n2人になってしまった。",
-            "enText": "…… unexpectedly found myself alone with \nSymbol Rudolph.",
+            "enText": "In an unexpected turn of events, I'm left<n>alone\nwith Symboli Rudolf.",
             "nextBlock": 25,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": 3492439921825743001
-                },
                 {
                     "origLen": 21,
                     "pathId": -7021379359431757936
                 },
                 {
-                    "origLen": 89,
-                    "pathId": -8766276890948816711
+                    "origLen": 21,
+                    "pathId": 3492439921825743001
                 },
                 {
                     "origLen": 104,
                     "pathId": 586633454531827057
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8766276890948816711
                 }
             ],
             "pathId": -8660349582164897457,
@@ -573,17 +622,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "さて、さっそく始めるとしようか。\r\nよろしく頼むよ。",
-            "enText": "Well, let's get started. I'm looking forward \nto working with you.",
+            "enText": "Very well—shall we get started?",
             "nextBlock": 26,
             "origClipLength": 61,
+            "voiceIdx": 39,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -7614586749528047038
-                },
                 {
                     "origLen": 72,
                     "pathId": 640883945774051521
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -7614586749528047038
                 }
             ],
             "pathId": -4077419356885715025,
@@ -593,17 +644,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "……シンボリルドルフの手際が良すぎて、\r\nたくさんあったはずの書類整理は\n思っていたより早く終わってしまった。",
-            "enText": "……Symbol Rudolph was so deft that the \npaperwork, which should have been a \nlot, was done sooner than I expected. \nI was able to finish the paperwork \nearlier than I had expected.",
+            "enText": "Thanks to Symboli Rudolf's remarkably<n>deft\nhandling, we get through what<n>seemed like a\nmountain of documents<n>far quicker than I\nexpected.",
             "nextBlock": 27,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 109,
-                    "pathId": -4064835788349372511
-                },
                 {
                     "origLen": 132,
                     "pathId": -8406851579475721586
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -4064835788349372511
                 }
             ],
             "pathId": 2894118708637684607,
@@ -613,24 +666,26 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "――感謝する。おかげでエアグルーヴが\r\n戻る前に終わらせることができた。",
-            "enText": "―Thanks to you, we were able to finish before \nAirgroove returned. Thanks to you, we were \nable to finish before Airgroove returned.",
+            "enText": "You have my thanks. I'm glad we were<n>able to\nfinish before Air Groove<n>returned.",
             "nextBlock": 28,
             "origClipLength": 68,
+            "voiceIdx": 0,
+            "voiceSheetId": "051017001",
             "choices": [
                 {
                     "jpText": "こちらこそ、手伝わせてくれてありがとう",
-                    "enText": "Thanks for letting me help, too.",
+                    "enText": "Thanks for letting me help.",
                     "nextBlock": 28
                 }
             ],
             "animData": [
                 {
-                    "origLen": 30,
-                    "pathId": 1336380565302018893
-                },
-                {
                     "origLen": 79,
                     "pathId": -6702588403660462193
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 1336380565302018893
                 }
             ],
             "pathId": -1471025015583797133,
@@ -640,17 +695,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "『手伝わせてくれて』か……\r\nなるほど。君たちの関係性がうかがえる。",
-            "enText": "'Let me help you' or…… I see. It shows the \nrelationship between you guys.",
+            "enText": "\"Letting\" you help, you say? Interesting.<n>That\nspeaks volumes about your<n>relationship.",
             "nextBlock": 29,
             "origClipLength": 67,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -1245167532473339003
-                },
                 {
                     "origLen": 78,
                     "pathId": 871735135201947729
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -1245167532473339003
                 }
             ],
             "pathId": 4786693684140303890,
@@ -660,17 +717,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "そんな君にだからこそ――\r\nエアグルーヴについて、尋ねたいことがある。",
-            "enText": "That's why I want to ask you about Airgroove.",
+            "enText": "Speaking of which... There's something I<n>would\nlike to ask you regarding Air<n>Groove.",
             "nextBlock": 30,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 2672445251096598705
-                },
                 {
                     "origLen": 78,
                     "pathId": -3797716540897228194
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 2672445251096598705
                 }
             ],
             "pathId": 5294605562849986964,
@@ -680,25 +739,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "（――会長？）",
-            "enText": "（Chairman?)",
+            "enText": "(President?)",
             "nextBlock": 31,
             "origClipLength": 49,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -3320080303220921763
-                },
                 {
                     "origLen": 89,
                     "pathId": -5424192580510093474
                 },
                 {
-                    "origLen": 27,
-                    "pathId": 5879896652504964434
+                    "origLen": 89,
+                    "pathId": -3320080303220921763
                 },
                 {
                     "origLen": 27,
                     "pathId": 3010124458579820946
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 5879896652504964434
                 }
             ],
             "pathId": 8548389542656242330,
@@ -708,17 +769,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "（2人はいったい、何を話して……）",
-            "enText": "(What on earth are you two talking about? ……)",
+            "enText": "(What could those two possibly be<n>talking\nabout?)",
             "nextBlock": 32,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 5944673728093231879
-                },
                 {
                     "origLen": 67,
                     "pathId": -6958531764883331321
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 5944673728093231879
                 }
             ],
             "pathId": -1010103933072849869,
@@ -728,25 +791,27 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "……知っての通り彼女は、生徒会の業務も\r\n後輩たちの面倒を見ることも、非常に熱心だ。",
-            "enText": "As you know…… she is very enthusiastic about \nboth the work of the student council and \ntaking care of the younger students.",
+            "enText": "As you know, Air Groove works<n>passionately,\nboth in the performance of<n>her student council\nadministrative tasks<n>and also in caring for the\nyounger<n>students.",
             "nextBlock": 33,
             "origClipLength": 72,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 6315380869750087018
-                },
                 {
                     "origLen": 32,
                     "pathId": -1310528374324076454
                 },
                 {
-                    "origLen": 102,
-                    "pathId": -7512523403045505684
+                    "origLen": 32,
+                    "pathId": 6315380869750087018
                 },
                 {
                     "origLen": 102,
                     "pathId": -714341655784138968
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -7512523403045505684
                 }
             ],
             "pathId": -5091573911597168276,
@@ -756,17 +821,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "それでありながら、先日のデビュー戦を\r\n見事に走り切り、自身の成すべきことを\n怠らない。",
-            "enText": "And yet, she still managed to run her debut \nrace with flying colors, and she never fails \nto do what she needs to do.",
+            "enText": "At the same time, she performed<n>splendidly at her\ndebut and spares no<n>effort in achieving her own\ngoals.",
             "nextBlock": 34,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 57,
-                    "pathId": -176632838073730487
-                },
                 {
                     "origLen": 84,
                     "pathId": 8633437678230020907
+                },
+                {
+                    "origLen": 57,
+                    "pathId": -176632838073730487
                 }
             ],
             "pathId": 1165854530635921266,
@@ -776,17 +843,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "彼女は今後も、ウマ娘のため身を粉にしつつ、\r\n自己を律し、更なる高みを目指すのだろう。",
-            "enText": "She will continue to work hard for \nUma-Musume, while maintaining self-discipline \nand aiming for even greater heights.",
+            "enText": "I imagine that she will continue to work<n>tirelessly\nfor other Umamusume while<n>also keeping herself\ndisciplined as she<n>aims for ever greater heights.",
             "nextBlock": 35,
             "origClipLength": 73,
+            "voiceIdx": 37,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -7354431630350193329
-                },
                 {
                     "origLen": 84,
                     "pathId": 5515542881669023740
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -7354431630350193329
                 }
             ],
             "pathId": 139614073667879416,
@@ -796,17 +865,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "その道程は千辛万苦。ともすれば――\r\n道半ば、膝をつき進退両難ともなり得る。",
-            "enText": "The journey is a long and arduous one. It can \nbe a difficult journey, but it is also a \njourney of many hardships and difficulties.",
+            "enText": "It is a path paved with thorns. One in<n>which it is\nall too possible to stumble<n>along the way.",
             "nextBlock": 36,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": 655411644014008368
-                },
                 {
                     "origLen": 80,
                     "pathId": -6100012686428258122
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 655411644014008368
                 }
             ],
             "pathId": -5140665181769066797,
@@ -816,17 +887,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "……君は今、1番近くで彼女を見ている。\r\n故に問いたいこととは、こうだ。",
-            "enText": "…… you are now looking at her closest. So the \nquestion I want to ask is this.",
+            "enText": "You watch over her from a closer<n>vantage than\nanyone else. As such, I'd<n>like to ask you...",
             "nextBlock": 37,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": -4834681594893841794
-                },
                 {
                     "origLen": 79,
                     "pathId": -4178517188646384203
+                },
+                {
+                    "origLen": 31,
+                    "pathId": -4834681594893841794
                 }
             ],
             "pathId": 1231949431722368477,
@@ -836,17 +909,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "――エアグルーヴは、無理をしてはいないか？",
-            "enText": "―Airgroove is not overworked?",
+            "enText": "Is Air Groove pushing herself too hard?",
             "nextBlock": 38,
             "origClipLength": 58,
+            "voiceIdx": 70,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -3792584952691895407
-                },
                 {
                     "origLen": 69,
                     "pathId": -3180290912650535718
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -3792584952691895407
                 }
             ],
             "pathId": -4938889149759622431,
@@ -856,17 +931,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフは、\r\nこちらを真っ直ぐに見つめながら問うてくる。",
-            "enText": "Symbol Rudolph asks me a question while \nlooking straight at me.",
+            "enText": "Symboli Rudolf's query is accompanied<n>by an\nintense stare.",
             "nextBlock": 39,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 77,
-                    "pathId": -1382659678472407845
+                    "pathId": 5034297533593556830
                 },
                 {
                     "origLen": 77,
-                    "pathId": 5034297533593556830
+                    "pathId": -1382659678472407845
                 }
             ],
             "pathId": -3578629052184244715,
@@ -876,17 +953,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "それを受けて、自分の中で真っ先に\r\n思い出されたエアグルーヴの言葉は――",
-            "enText": "The first thing Airgroove said that came to \nmind for me in response to this was…",
+            "enText": "Under her gaze, I remember what Air<n>Groove said\nafter her debut...",
             "nextBlock": 40,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 79,
-                    "pathId": 3662025904707543849
+                    "pathId": 6756860879656768032
                 },
                 {
                     "origLen": 79,
-                    "pathId": 6756860879656768032
+                    "pathId": 3662025904707543849
                 }
             ],
             "pathId": -4287180642802786712,
@@ -896,25 +975,27 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "改めて言うぞ。\r\n決して気を緩めるな。そして――",
-            "enText": "I'll say it again. Never \nlet your guard down. And―",
+            "enText": "This bears repeating—don't get lax.<n>And...",
             "nextBlock": 41,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": 3198581533241121863
-                },
                 {
                     "origLen": 102,
                     "pathId": 5340344955694723034
                 },
                 {
-                    "origLen": 20,
-                    "pathId": -102245291662932495
+                    "origLen": 102,
+                    "pathId": 3198581533241121863
                 },
                 {
                     "origLen": 20,
                     "pathId": 6610198835028371657
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -102245291662932495
                 }
             ],
             "pathId": 1928983535327084962,
@@ -924,17 +1005,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "必ず、ついてこい。",
-            "enText": "Be sure to follow me.",
+            "enText": "Stay with me, no matter what.",
             "nextBlock": 42,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 7,
-                    "pathId": -4202474007068775986
-                },
                 {
                     "origLen": 61,
                     "pathId": 3210183904164830206
+                },
+                {
+                    "origLen": 7,
+                    "pathId": -4202474007068775986
                 }
             ],
             "pathId": 9123087546541319348,
@@ -944,32 +1027,34 @@
             "jpName": "",
             "enName": "",
             "jpText": "デビューを飾ったあの日、彼女はそう告げた。\r\nならば自分は、彼女のトレーナーとして――",
-            "enText": "She told me this on the day she \nmade her debut. If that is the case, \nthen I will be her trainer…",
+            "enText": "As her trainer, there is only one answer<n>to give.",
             "nextBlock": 43,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "エアグルーヴの進む道を、信じる",
-                    "enText": "I believe in the path that \nAirgroove is taking.",
+                    "enText": "I believe in the path Air Groove is walking.",
                     "nextBlock": 43
                 }
             ],
             "animData": [
                 {
                     "origLen": 19,
-                    "pathId": 3949446401236563417
-                },
-                {
-                    "origLen": 19,
                     "pathId": 7034566627622310229
                 },
                 {
-                    "origLen": 106,
-                    "pathId": -9196869536550353780
+                    "origLen": 19,
+                    "pathId": 3949446401236563417
                 },
                 {
                     "origLen": 106,
                     "pathId": -1206056604649687689
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -9196869536550353780
                 }
             ],
             "pathId": -1965536567617569446,
@@ -979,17 +1064,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "――――",
-            "enText": "――",
+            "enText": "...",
             "nextBlock": 44,
             "origClipLength": 47,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 7697389523375141938
+                    "pathId": 1055965203566885224
                 },
                 {
                     "origLen": 58,
-                    "pathId": 1055965203566885224
+                    "pathId": 7697389523375141938
                 }
             ],
             "pathId": 5233521988938981362,
@@ -999,17 +1086,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "……心堅石穿、というわけか。\r\n存外、君たちは似た者同士なのかもしれない。",
-            "enText": "…… 心堅石穿, I see what you mean. Maybe you guys \nare more alike than you think.",
+            "enText": "True strength can move mountains, as<n>they say.\nYou and Air Groove are more<n>alike than I\nrealized.",
             "nextBlock": 45,
             "origClipLength": 69,
+            "voiceIdx": 9,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 297418060497493766
-                },
                 {
                     "origLen": 80,
                     "pathId": -8001495523015716491
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 297418060497493766
                 }
             ],
             "pathId": 6635860373395030728,
@@ -1019,17 +1108,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "出過ぎた質問をしてしまったようだな。\r\n……改めて、今日はありがとう。",
-            "enText": "I guess I asked a question that came out too \nfar. ……Thanks again for your time today.",
+            "enText": "My apologies if I overstepped. Thank<n>you again\nfor your help today.",
             "nextBlock": 46,
             "origClipLength": 67,
+            "voiceIdx": 5,
+            "voiceSheetId": "051017001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 1463159979316883426
-                },
                 {
                     "origLen": 78,
                     "pathId": -9206286523209784514
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 1463159979316883426
                 }
             ],
             "pathId": -8750627690556498815,
@@ -1039,17 +1130,19 @@
             "jpName": "シンボリルドルフ",
             "enName": "Symboli Rudolf",
             "jpText": "エアグルーヴには、君がトレーナー室に\r\n先に向かったと伝えておくよ。",
-            "enText": "I'll let Airgroove know you went to the \ntrainer's office first.",
+            "enText": "I will tell Air Groove that you have<n>returned to\nyour office.",
             "nextBlock": 47,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -297894028372442845
-                },
                 {
                     "origLen": 78,
                     "pathId": -8140151772245672371
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -297894028372442845
                 }
             ],
             "pathId": 3838537478502859614,
@@ -1059,17 +1152,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "シンボリルドルフの言葉に甘え、\r\nエアグルーヴを待つために\nトレーナー室に戻って来ると――",
-            "enText": "I'll take Simbol Rudolph at her word \nand come back to the trainer's office \nto wait for Airgroove.",
+            "enText": "Just as bidden, I head back to my office<n>to wait\nfor Air Groove, only to find...",
             "nextBlock": 48,
             "origClipLength": 74,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 27,
-                    "pathId": -2774505798356133264
+                    "pathId": -4710849994708925350
                 },
                 {
                     "origLen": 27,
-                    "pathId": -4710849994708925350
+                    "pathId": -2774505798356133264
                 }
             ],
             "pathId": 7120232165785383678,
@@ -1079,18 +1174,20 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 49,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "先に来てたのか？",
-                    "enText": "You were here first?",
+                    "enText": "Oh, hey—when did you get here?",
                     "nextBlock": 49
                 },
                 {
                     "jpText": "先に来てたの？",
-                    "enText": "You were here first?",
+                    "enText": "Oh, hey—when did you get here?",
                     "nextBlock": 49
                 }
             ],
@@ -1100,12 +1197,12 @@
                     "pathId": 3944787622098572185
                 },
                 {
-                    "origLen": 18,
-                    "pathId": 117328280868204422
-                },
-                {
                     "origLen": 52,
                     "pathId": 6805249758252245250
+                },
+                {
+                    "origLen": 18,
+                    "pathId": 117328280868204422
                 }
             ],
             "pathId": -6922019339581414559,
@@ -1115,21 +1212,23 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "まあ、な。そんなことより、\r\n今後の方針についてだが――",
-            "enText": "Well, you know. But that's not the point. I'd \nlike to talk about our future plans.",
+            "enText": "That's... not important. You wished to<n>discuss our\nplans, did you not?",
             "nextBlock": 50,
             "origClipLength": 63,
+            "voiceIdx": 49,
+            "voiceSheetId": "051018001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 6729682670203197175
                 },
                 {
-                    "origLen": 38,
-                    "pathId": 5158847855323004565
-                },
-                {
                     "origLen": 74,
                     "pathId": -2088034936676650610
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 5158847855323004565
                 }
             ],
             "pathId": 6559865045970452632,
@@ -1139,17 +1238,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――『阪神JF』をとるぞ。",
-            "enText": "―I'm going to take \"Hanshin JF\".",
+            "enText": "I want to take on the Hanshin Juvenile<n>Fillies.",
             "nextBlock": 51,
             "origClipLength": 53,
+            "voiceIdx": 70,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 7,
-                    "pathId": 7237188713807329342
-                },
                 {
                     "origLen": 64,
                     "pathId": -1488117957500173215
+                },
+                {
+                    "origLen": 7,
+                    "pathId": 7237188713807329342
                 }
             ],
             "pathId": 8666277172771903756,
@@ -1159,17 +1260,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "ここで勝って……\r\nジュニア級の女王として、君臨する。",
-            "enText": "Win here and…… reign as the \nqueen of the junior class.",
+            "enText": "I'll seize victory and be queen of the<n>junior year.",
             "nextBlock": 52,
             "origClipLength": 62,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 7890893579898488693
-                },
                 {
                     "origLen": 73,
                     "pathId": -2751772107716697142
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 7890893579898488693
                 }
             ],
             "pathId": 560287230092773765,
@@ -1179,17 +1282,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "そうすれば……\r\n会長の憂いも、なくなるだろう。",
-            "enText": "Then the…… chairman's melancholy \nwould cease to exist.",
+            "enText": "If I manage that, then... the president's<n>anxieties\nwill be assuaged.",
             "nextBlock": 53,
             "origClipLength": 60,
+            "voiceIdx": 34,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 3566941117770396977
-                },
                 {
                     "origLen": 71,
                     "pathId": -3331391201093235941
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 3566941117770396977
                 }
             ],
             "pathId": 1273382327876231644,
@@ -1199,17 +1304,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "あの方に余計な心配をかけているようでは、\r\n理想の“女帝”たりえぬからな。",
-            "enText": "I can't be the ideal \"empress\" if I'm causing \nher unnecessary worry.",
+            "enText": "If she's worried about me, then that<n>means I'm not\nup to my ideal standards<n>as the Empress.",
             "nextBlock": 54,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": 3204219398169120894
-                },
                 {
                     "origLen": 80,
                     "pathId": -8365562853114336466
+                },
+                {
+                    "origLen": 30,
+                    "pathId": 3204219398169120894
                 }
             ],
             "pathId": -1462599739114847848,
@@ -1219,17 +1326,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "もしや、先程のシンボリルドルフとの話を\r\n聞いていたのだろうか。\n少しだけ、気になったが――",
-            "enText": "I wondered if she had heard my earlier \nconversation with Symbol Rudolph. I was just \na little curious, but―",
+            "enText": "I realize that Air Groove must have<n>overheard my\nconversation with Symboli<n>Rudolf.",
             "nextBlock": 55,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 86,
-                    "pathId": 5896511581747880878
+                    "pathId": 7501978289002039084
                 },
                 {
                     "origLen": 86,
-                    "pathId": 7501978289002039084
+                    "pathId": 5896511581747880878
                 }
             ],
             "pathId": 5565364571664275037,
@@ -1239,24 +1348,26 @@
             "jpName": "",
             "enName": "",
             "jpText": "悔しさに近い何かを滲ませる今の彼女に、\r\nわざわざ確かめることではない。\nトレーナーとして今すべきことは別にある。",
-            "enText": "It's not something you should bother to \nconfirm with her now, when she's exuding \nsomething akin to frustration. As a trainer, \nI have other things to do now.",
+            "enText": "But looking at the troubled expression<n>on her\nface, I feel it may not be the time<n>to pry. Right\nnow, I have to do my job as<n>her trainer.",
             "nextBlock": 56,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "自分も『阪神JF』を考えていた",
-                    "enText": "I was thinking of \"Hanshin JF\" myself.",
+                    "enText": "I was thinking the Hanshin Juvenile Fillies too.",
                     "nextBlock": 56
                 }
             ],
             "animData": [
                 {
                     "origLen": 93,
-                    "pathId": -6784095435054303306
+                    "pathId": -4291140141981677163
                 },
                 {
                     "origLen": 93,
-                    "pathId": -4291140141981677163
+                    "pathId": -6784095435054303306
                 }
             ],
             "pathId": 1249428506193324210,
@@ -1266,17 +1377,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――ふっ。\r\n貴様も、少しはわかるようになったか。",
-            "enText": "―Hmmm, you're getting the hang of it now, \naren't you? You, too, have learned to \nunderstand a little.",
+            "enText": "Heh. Looks like you understand me<n>somewhat.",
             "nextBlock": 57,
             "origClipLength": 61,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 4503085631202464422
-                },
                 {
                     "origLen": 72,
                     "pathId": 4212598176224047500
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 4503085631202464422
                 }
             ],
             "pathId": 7648986242350074068,
@@ -1286,29 +1399,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "…………。",
-            "enText": "…………",
+            "enText": "...",
             "nextBlock": 58,
             "origClipLength": 48,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "どうかしたか？",
-                    "enText": "What's wrong?",
+                    "enText": "Wh-What's up?",
                     "nextBlock": 58
                 },
                 {
                     "jpText": "どうかした？",
-                    "enText": "What's wrong?",
+                    "enText": "Wh-What's up?",
                     "nextBlock": 58
                 }
             ],
             "animData": [
                 {
-                    "origLen": 17,
-                    "pathId": -8965909161321160488
-                },
-                {
                     "origLen": 59,
                     "pathId": 8891213811716797138
+                },
+                {
+                    "origLen": 17,
+                    "pathId": -8965909161321160488
                 }
             ],
             "pathId": 842597672309786052,
@@ -1318,17 +1433,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "……今日の貴様の行いについてだが。",
-            "enText": "…… about your conduct today.",
+            "enText": "I'd like to talk about your behavior<n>today.",
             "nextBlock": 59,
             "origClipLength": 56,
+            "voiceIdx": 34,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 10,
-                    "pathId": -2220472225293980134
-                },
                 {
                     "origLen": 67,
                     "pathId": 2237580271201996794
+                },
+                {
+                    "origLen": 10,
+                    "pathId": -2220472225293980134
                 }
             ],
             "pathId": -2731803724328455426,
@@ -1338,29 +1455,31 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "まあ……それなりに助かった。\r\n一応は、感謝してやろう。",
-            "enText": "Well…… helped in its own way. In a manner of \nspeaking, let's give thanks.",
+            "enText": "You... helped me out, in your own way. I<n>suppose\nI owe you my thanks.",
             "nextBlock": 60,
             "origClipLength": 63,
+            "voiceIdx": 12,
+            "voiceSheetId": "051018001",
             "choices": [
                 {
                     "jpText": "どんどん頼ってくれ",
-                    "enText": "You can count on me.",
+                    "enText": "You can count on me anytime.",
                     "nextBlock": 60
                 },
                 {
                     "jpText": "どんどん頼ってね",
-                    "enText": "You can count on me.",
+                    "enText": "You can count on me anytime.",
                     "nextBlock": 60
                 }
             ],
             "animData": [
                 {
-                    "origLen": 25,
-                    "pathId": 7228494619293674668
-                },
-                {
                     "origLen": 74,
                     "pathId": 2456879710876486604
+                },
+                {
+                    "origLen": 25,
+                    "pathId": 7228494619293674668
                 }
             ],
             "pathId": -8831500377074431348,
@@ -1370,17 +1489,19 @@
             "jpName": "エアグルーヴ",
             "enName": "Air Groove",
             "jpText": "――ふっ。たわけが。\r\nあまり調子に乗るなよ。",
-            "enText": "―Huh. You idiot. Don't get too carried away.",
+            "enText": "Hmph. Let's not be foolish, now. You<n>might be\ngiving yourself too much<n>credit.",
             "nextBlock": 61,
             "origClipLength": 60,
+            "voiceIdx": 0,
+            "voiceSheetId": "051018001",
             "animData": [
-                {
-                    "origLen": 18,
-                    "pathId": -8909087197554077752
-                },
                 {
                     "origLen": 71,
                     "pathId": -2339880900633400371
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -8909087197554077752
                 }
             ],
             "pathId": 8039672106908642190,
@@ -1390,22 +1511,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "次の目標は、『阪神JF』に決まった！\r\n目指すは――ジュニア級の女王だ！",
-            "enText": "The next target has been set for \nthe Hanshin JF! Our goal―to become \nthe queen of the junior class!",
+            "enText": "Our next goal is to win the Hanshin<n>Juvenile\nFillies and make Air Groove the<n>queen of the\njunior year!",
             "nextBlock": -1,
             "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 18,
-                    "pathId": 6918983936256453082
+                    "pathId": 3398139556490329732
                 },
                 {
                     "origLen": 18,
-                    "pathId": 3398139556490329732
+                    "pathId": 6918983936256453082
                 }
             ],
             "pathId": 5744960127922880264,
             "blockIdx": 61
         }
-    ],
-    "modified": 1657555251
+    ]
 }

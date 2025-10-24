@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "QSE5UBCOUVAIVFTMJ7FAAMF2VYHMASYM",
+    "version": 6,
+    "bundle": "AI7OX2TSIXZFKUMCPOHU4REPYDN6S5OM",
     "type": "story",
     "storyId": "501006713",
     "title": "お大事に！",
+    "enTitle": "Get Well Soon!",
     "text": [
         {
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……この程度なら、問題ない。",
-            "enText": "… This level is not a problem.",
+            "enText": "...Don't worry, it's not <i>that</i> bad.",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "voiceIdx": 34,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -5519159776974116746
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 8965810527310556858
+                }
+            ],
             "pathId": 1471990925858888232,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "軽症にも満たないだろう。\r\n走る分も問題なさそうだ。",
-            "enText": "It's probably no more than a minor injury. I \ndon't think I'll have any problem running.",
+            "enText": "In fact, it's nothing. I can still run, no<n>problem.",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "でもちゃんと休もう",
-                    "enText": "But we should get some rest.",
+                    "enText": "You need to rest up.",
                     "nextBlock": 3
                 },
                 {
                     "jpText": "本当に？",
-                    "enText": "Really?",
+                    "enText": "Are you sure?",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 640369505290538193
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 90460798924529639
                 }
             ],
             "pathId": -1784605711946666139,
@@ -39,8 +66,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "なぜだ……？　ケガなど痛いところに、\r\nつばをつけておけば治るはずだろう？",
-            "enText": "Why…? If you put a spit on something \nthat hurts, like an injury, it \nshould heal, right?",
+            "enText": "But why? I just need to kiss it better and<n>be on my\nway.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": 20,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -6774549305475780798
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 1769816288664157161
+                }
+            ],
             "pathId": 5281850068751980643,
             "blockIdx": 3
         },
@@ -48,13 +88,26 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "故郷でもこんなもの日常茶飯事だったしな。",
-            "enText": "This kind of thing was a daily \noccurrence in my hometown.",
+            "enText": "Things like this are a part of everyday<n>life back in\nmy hometown.",
             "nextBlock": 5,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "のちのちに響くかもしれないから",
-                    "enText": "Because it might affect you later on.",
+                    "enText": "If you don't take care, it may come back to\nhaunt you later.",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 4855722786157306010
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -6149749287303579805
                 }
             ],
             "pathId": -6166208715800089935,
@@ -64,8 +117,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "む……そうか、わかった。\r\nレースに出られなくなるのは、困る。",
-            "enText": "No… Oh, okay. I can't afford \nto miss the race.",
+            "enText": "Hmph... Okay, if you insist. I wouldn't<n>wanna have\nto miss a race.",
             "nextBlock": 6,
+            "origClipLength": 65,
+            "voiceIdx": 48,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 8896424896580870070
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -5878141061903001649
+                }
+            ],
             "pathId": -5911246694462917071,
             "blockIdx": 5
         },
@@ -73,8 +139,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "手当てを終えた後、\r\nその日は休養させることにした。",
-            "enText": "After treating her, I decided \nto let her rest for the day.",
+            "enText": "After tending to her injury, I give Oguri<n>Cap the\nrest of the day off to<n>recuperate.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -4090920739314988967
+                },
+                {
+                    "origLen": 145,
+                    "pathId": 1042440571042447673
+                }
+            ],
             "pathId": -1099975154769989178,
             "blockIdx": 6
         },
@@ -82,8 +161,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "ああ。森の中で走っていた時は、\r\nこの程度のケガなど当たり前で――",
-            "enText": "Oh. When I was running in the woods, injuries \nlike this were commonplace.",
+            "enText": "Yeah. I got hurt like this all the time<n>back when I\nused to run in the woods.",
             "nextBlock": 8,
+            "origClipLength": 66,
+            "voiceIdx": 47,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 3204651757852673347
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 8915009714787998100
+                }
+            ],
             "pathId": 2178302104902957134,
             "blockIdx": 7
         },
@@ -91,18 +183,31 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……む？",
-            "enText": "… Mm?",
+            "enText": "...Ah.",
             "nextBlock": 9,
+            "origClipLength": 47,
+            "voiceIdx": 20,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "どうした？",
-                    "enText": "What's wrong?",
+                    "enText": "What is it?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's going on?",
+                    "enText": "What is it?",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -2792966830791393591
+                },
+                {
+                    "origLen": 60,
+                    "pathId": -7049324717488560362
                 }
             ],
             "pathId": 1977199585551066929,
@@ -112,8 +217,25 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "いや……やはり、痛みが少し気になるな。",
-            "enText": "No… I'm still a little concerned \nabout the pain.",
+            "enText": "Uh, well... maybe it does hurt a little,<n>now that I\nthink of it.",
             "nextBlock": 10,
+            "origClipLength": 57,
+            "voiceIdx": 50,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 1918893074817846986
+                },
+                {
+                    "origLen": 159,
+                    "pathId": 3737395240136429632
+                },
+                {
+                    "origLen": 108,
+                    "pathId": 7832721328512343458
+                }
+            ],
             "pathId": -863637003363314237,
             "blockIdx": 9
         },
@@ -121,8 +243,25 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "気にならなかったことが気になるのは、\r\n良くない兆候かもしれない。",
-            "enText": "Maybe it's a bad sign that something that \nnever bothered you is bothering you.",
+            "enText": "I didn't even notice it earlier. That's not<n>a good\nsign.",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "voiceIdx": 35,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1930594776763519456
+                },
+                {
+                    "origLen": 159,
+                    "pathId": -341093152578342594
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 6059795980733431510
+                }
+            ],
             "pathId": -7807046720630324,
             "blockIdx": 10
         },
@@ -130,8 +269,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "手当てを終えた後、\r\nその日は休養させることにした。",
-            "enText": "After treating her, I decided \nto let her rest for the day.",
+            "enText": "After tending to her injury, I give Oguri<n>Cap the\nrest of the day off to<n>recuperate.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -1619933959604654201
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 542229326954605709
+                }
+            ],
             "pathId": 1794603437116232302,
             "blockIdx": 11
         },
@@ -139,13 +291,26 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "……まあ、いま崖を飛び越えろと\r\n言われたら少し難しいが……。",
-            "enText": "… Well, if you were to ask me to \njump over a cliff right now, it \nwould be a little difficult…",
+            "enText": "If you told me to leap up onto a cliff, I<n>might\nstruggle a little, but still...",
             "nextBlock": 13,
+            "origClipLength": 65,
+            "voiceIdx": 34,
+            "voiceSheetId": "051006001",
             "choices": [
                 {
                     "jpText": "なぜ崖？",
-                    "enText": "Why the cliff?",
+                    "enText": "What kind of example is that?",
                     "nextBlock": 13
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 8534045865626776308
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 733831390389410974
                 }
             ],
             "pathId": -4198550505554017184,
@@ -155,8 +320,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "いや、昔そういう自主トレもやったんだ。\r\n違うなら、問題ない。",
-            "enText": "No, I used to do that kind of voluntary \ntraining. If not, no problem.",
+            "enText": "Oh, that's just the sort of solo training I<n>used to\ndo back in the day. As long as I<n>don't have to do\nthat, I should be okay<n>to continue.",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "voiceIdx": 50,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 8260693089216797991
+                },
+                {
+                    "origLen": 115,
+                    "pathId": 4976286666852096706
+                }
+            ],
             "pathId": 7632421790029199574,
             "blockIdx": 13
         },
@@ -164,8 +342,21 @@
             "jpName": "オグリキャップ",
             "enName": "Oguri Cap",
             "jpText": "さあ、もう1度やろう。\r\nトレーナー。",
-            "enText": "Come on, let's do it again. Trainer.",
+            "enText": "Come on. Let's give it another go.",
             "nextBlock": 15,
+            "origClipLength": 57,
+            "voiceIdx": 55,
+            "voiceSheetId": "051006001",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": 5116703909267206150
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 925948165268397518
+                }
+            ],
             "pathId": 5504182911539686382,
             "blockIdx": 14
         },
@@ -173,8 +364,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "手当てを終えた後、オグリキャップの希望で\r\nトレーニングを再開することにした。",
-            "enText": "After she was patched up, we decided to \nresume training at Oguri Cap's request.",
+            "enText": "After tending to her injury, I comply with<n>Oguri\nCap's request to resume training.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 159,
+                    "pathId": -4462578106704169642
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 713650535217632114
+                }
+            ],
             "pathId": -1433760669625191574,
             "blockIdx": 15
         }

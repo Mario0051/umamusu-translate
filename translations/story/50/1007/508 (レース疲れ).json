@@ -1,25 +1,28 @@
 {
-    "version": 5,
-    "bundle": "6XJVC3YDF27CUISBZMOJLKGAYNSIDDRY",
+    "version": 6,
+    "bundle": "X4O5HZV2S7MYHS3JGMRZQEAGRM67IIDI",
     "type": "story",
     "storyId": "501007508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ゴールドシップが、\r\nどこか元気がない様子だった。",
-            "enText": "Gold Ship looked somewhat listless.",
+            "enText": "Gold Ship seems less chipper than usual.",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 88,
-                    "pathId": -8891329745056236992
+                    "pathId": -6826393295493199692
                 },
                 {
                     "origLen": 88,
-                    "pathId": -6826393295493199692
+                    "pathId": -8891329745056236992
                 }
             ],
             "pathId": 6373884135036977754,
@@ -29,17 +32,19 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "あー……メーデーメーデー。\r\nこちらゴールドシップ。",
-            "enText": "Ah…… mayday mayday. This is Goldship.",
+            "enText": "Ugh... Mayday, mayday. This is Gold<n>Ship.",
             "nextBlock": 3,
             "origClipLength": 78,
+            "voiceIdx": 34,
+            "voiceSheetId": "051007001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 100800031617232051
-                },
                 {
                     "origLen": 89,
                     "pathId": 4119624923124016807
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 100800031617232051
                 }
             ],
             "pathId": -619807132995844871,
@@ -49,17 +54,19 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "現在、燃料切れ、燃料切れ。\r\n低燃費モードに移行する。オーバー。",
-            "enText": "Currently out of fuel, out of fuel. Shift to \nfuel-efficient mode. Over.",
+            "enText": "I am out of fuel. I repeat, I am out of<n>fuel.\nSwitching to low power mode.<n>Over.",
             "nextBlock": 4,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 76,
-                    "pathId": 376909466481323014
-                },
                 {
                     "origLen": 97,
                     "pathId": 4574327959471120074
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 376909466481323014
                 }
             ],
             "pathId": -4805738831234164863,
@@ -69,24 +76,26 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "――ぐぅ。",
-            "enText": "―guh.",
+            "enText": "<i>Zzz...</i>",
             "nextBlock": 5,
             "origClipLength": 116,
+            "voiceIdx": 40,
+            "voiceSheetId": "051007001",
             "choices": [
                 {
                     "jpText": "（立ったまま……！）",
-                    "enText": "(Stand still ……!)",
+                    "enText": "(She fell asleep standing up?!)",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 79,
-                    "pathId": 661884578334737172
-                },
-                {
                     "origLen": 127,
                     "pathId": 4094325740197160916
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 661884578334737172
                 }
             ],
             "pathId": 5261116391713613894,
@@ -96,22 +105,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "今後の活躍のためにも、\r\nレースの予定を見直す必要がありそうだ……。",
-            "enText": "We may need to rethink our race schedule for \nfuture success. ……",
+            "enText": "I should probably adjust her racing<n>schedule...",
             "nextBlock": -1,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 135,
-                    "pathId": 7329358491731846841
+                    "pathId": -7148071275018395862
                 },
                 {
                     "origLen": 135,
-                    "pathId": -7148071275018395862
+                    "pathId": 7329358491731846841
                 }
             ],
             "pathId": 8758165871529829110,
             "blockIdx": 5
         }
-    ],
-    "modified": 1657555054
+    ]
 }

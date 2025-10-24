@@ -1,29 +1,36 @@
 {
-    "version": 4,
-    "bundle": "5RIG7HI2TFPIE2DQUG3MPOXELLVMSOGG",
+    "version": 6,
+    "bundle": "SWKHMER5GLUYLM4AXSDM5SGQR2GSIQ3I",
     "type": "story",
     "storyId": "801031001",
     "title": "鬼ごっこ、なの！",
+    "enTitle": "It's a Game of Tag!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、公園にやってくると――",
-            "enText": "One day, you come to the park…",
+            "enText": "One day at the park...",
             "nextBlock": 2,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -3661869147605856405,
             "blockIdx": 1
         },
         {
             "jpName": "少女",
-            "enName": "Young Girl",
+            "enName": "Girl",
             "jpText": "ねーねー、おにーちゃん。\r\nいっしょにあそぼーよー！",
-            "enText": "Hey, little one. Let's play together!",
+            "enText": "Hi, mister! Let's play!",
             "nextBlock": 3,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "えっと……？",
-                    "enText": "Um…?",
+                    "enText": "Uh...",
                     "nextBlock": 4
                 }
             ],
@@ -32,14 +39,17 @@
         },
         {
             "jpName": "少女",
-            "enName": "Young Girl",
+            "enName": "Girl",
             "jpText": "ねーねー、おねーちゃん。\r\nいっしょにあそぼーよー！",
-            "enText": "Hey, little one. Let's play together!",
+            "enText": "Hi, miss! Let's play!",
             "nextBlock": 4,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "えっと……？",
-                    "enText": "Um…?",
+                    "enText": "Uh...",
                     "nextBlock": 4
                 }
             ],
@@ -50,8 +60,11 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "あーっ、急にごめんね……！",
-            "enText": "Aww, sorry for the rush…!",
+            "enText": "Oh, sorry about her!",
             "nextBlock": 5,
+            "origClipLength": 53,
+            "voiceIdx": 14,
+            "voiceSheetId": "051031001",
             "pathId": 2291109678878566935,
             "blockIdx": 4
         },
@@ -59,8 +72,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "この子、最近よく一緒に遊んでるんだ。\r\nお母さんのお仕事待ってるみたいで。",
-            "enText": "She's been playing with me a lot lately. \nShe's waiting for her mum to work.",
+            "enText": "Lately, I've been playing with this little<n>girl while\nshe waits for her mom to finish<n>work.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 2361564165935138914
+                },
+                {
+                    "origLen": 132,
+                    "pathId": 2344959024640677809
+                }
+            ],
             "pathId": -334764002600041439,
             "blockIdx": 5
         },
@@ -68,8 +94,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "で、今日は鬼ごっこしたいらしくて。\r\nけど2人だと物足りないし。それで～……。",
-            "enText": "And today she wants to play tag. But it's not \nenough for the two of us. So -…",
+            "enText": "She wants to play tag today, but it's not<n>very fun\nwith just two players, sooo...",
             "nextBlock": 7,
+            "origClipLength": 70,
+            "voiceIdx": 35,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -3153071864039710119
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 5563612638371256897
+                }
+            ],
             "pathId": 7683563506141966635,
             "blockIdx": 6
         },
@@ -77,13 +116,26 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "よかったら！　もしほんとーによかったら！\r\n……一緒にどうかな？",
-            "enText": "If you like! If you really want \nto! Why don't you join us…?",
+            "enText": "Would you like to join us? Only if you<n>want to, of\ncourse! Whaddya say?",
             "nextBlock": 8,
+            "origClipLength": 65,
+            "voiceIdx": 52,
+            "voiceSheetId": "051031001",
             "choices": [
                 {
                     "jpText": "いいよ",
-                    "enText": "OK.",
+                    "enText": "Sure.",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": 1341473275242253653
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -5969846166253532947
                 }
             ],
             "pathId": 1838981629407183247,
@@ -93,8 +145,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "よかった！　ありがとうなの～～っ！",
-            "enText": "Thank you! Thank you so much!",
+            "enText": "Yay! Thanks a bunch!",
             "nextBlock": 9,
+            "origClipLength": 56,
+            "voiceIdx": 12,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 4580133959085248309
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 2030427405239429430
+                }
+            ],
             "pathId": 559654341808384801,
             "blockIdx": 8
         },
@@ -102,8 +167,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "いやー、妹たちの世話で慣れてるとは言え\r\n2人きりの鬼ごっこは……難易度高くって。",
-            "enText": "Even though I'm used to taking care of my \nsisters, playing tag with just the two of us \nis… very challenging.",
+            "enText": "I mean, I'm used to looking after my<n>little sisters,\nbut even I'm not good<n>enough to pull off tag with\nonly two<n>players...",
             "nextBlock": 10,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -9088560631622132376
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 4054893639983627473
+                }
+            ],
             "pathId": 6746300439927797011,
             "blockIdx": 9
         },
@@ -111,18 +189,31 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "あ！　でも無理はしないでね？\r\nお仕事で疲れてると思うしっ。",
-            "enText": "Ah! But don't overdo it, okay? I'm sure \nyou're tired from work.",
+            "enText": "Oh, but don't feel obligated to go<n>all-out with us\nor anything! I know you're<n>probably tired from\nwork and all.",
             "nextBlock": 11,
+            "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "ゆるっと楽しむ",
-                    "enText": "Relax and enjoy",
+                    "enText": "I'll take it easy, then.",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "本気で遊ぶ！",
-                    "enText": "Play for real!",
+                    "enText": "I won't show any mercy!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -5444488167018058976
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 6985349542231734000
                 }
             ],
             "pathId": 3461836006957512047,
@@ -132,8 +223,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "ふー、お疲れ様！\r\nゆるっと鬼ごっこ、楽しかったの！",
-            "enText": "Whew, good job! We had so much \nfun playing loose tag!",
+            "enText": "Phew, great work! Who knew playing tag<n>at such\na leisurely pace would be so fun!",
             "nextBlock": 12,
+            "origClipLength": 61,
+            "voiceIdx": 59,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 121,
+                    "pathId": -2272345647088217144
+                },
+                {
+                    "origLen": 109,
+                    "pathId": -73576124603975872
+                }
+            ],
             "pathId": -5786901906827081496,
             "blockIdx": 11
         },
@@ -141,8 +245,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "ゆるっと走りながら体力温存しつつ、\r\nここぞってところでダッシュ……！",
-            "enText": "I'm going to take it easy and \nsave my energy, but I'm going \nto make a dash for it…!",
+            "enText": "I conserved a lot of energy by casually<n>jogging\nmost of the time, so it was super<n>easy to sprint at\nmy target at the very<n>last moment!",
             "nextBlock": 13,
+            "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 5108202570964668319
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -5681784588332527114
+                }
+            ],
             "pathId": -4161465917321447454,
             "blockIdx": 12
         },
@@ -150,8 +267,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "うんうんっ！\r\nいいトレーニングになった気がするの♪",
-            "enText": "Mm-hmm! I feel like I got a good workout.",
+            "enText": "Yup, yup! Y'know what? I think that<n>ended up\nbeing great training! ♪",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": 1,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 72,
+                    "pathId": -819513908797797081
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 8393595939253005185
+                }
+            ],
             "pathId": -7515209286445361573,
             "blockIdx": 13
         },
@@ -159,8 +289,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "お疲れ様～。……いやぁ、まさか\r\n子どもの体力に負けず、本気で遊ぶとは……。",
-            "enText": "Good work!… Oh no, I didn't expect \nto play as seriously as my children's \nphysical strength…",
+            "enText": "Great job! Honestly... I wasn't expecting<n>you to\nplay tag with as much enthusiasm<n>as the kid...",
             "nextBlock": 15,
+            "origClipLength": 69,
+            "voiceIdx": 21,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 162,
+                    "pathId": -3755195015531322382
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -3316127458443252274
+                }
+            ],
             "pathId": 6415113246110794080,
             "blockIdx": 14
         },
@@ -168,8 +311,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "すごいね、キミ！\r\nすっごくかっこよかったの！",
-            "enText": "That was amazing, you! You were so cool!",
+            "enText": "But I was impressed! You were so cool!",
             "nextBlock": 16,
+            "origClipLength": 60,
+            "voiceIdx": 1,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 71,
+                    "pathId": -5955319011878873607
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 8967074230809668721
+                }
+            ],
             "pathId": 6082321488092900820,
             "blockIdx": 15
         },
@@ -177,8 +333,21 @@
             "jpName": "アイネスフウジン",
             "enName": "Ines Fujin",
             "jpText": "ついつい、あたしも熱くなっちゃった♪",
-            "enText": "I'm so hot…",
+            "enText": "Even I got caught up in you guys' energy<n>and got\nall worked up! ♪",
             "nextBlock": 17,
+            "origClipLength": 56,
+            "voiceIdx": 2,
+            "voiceSheetId": "051031001",
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": 5565555166524727193
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 1212359753900592794
+                }
+            ],
             "pathId": 2944393141467367742,
             "blockIdx": 16
         },
@@ -186,8 +355,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "鬼ごっこはなかなか疲れたが……\r\n間近で見たアイネスフウジンの走りは、\nとても参考になった。",
-            "enText": "It was a tiring game of tag, but… was \nvery informative to see Ainess Fujin \nrunning so close to us.",
+            "enText": "I'm exhausted from the game of tag, but<n>seeing\nInes Fujin run up close was a very<n>educational\nexperience.",
             "nextBlock": -1,
+            "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 86,
+                    "pathId": -5264185613741954054
+                },
+                {
+                    "origLen": 86,
+                    "pathId": -4089182597869162926
+                }
+            ],
             "pathId": -7754546892355616070,
             "blockIdx": 17
         }

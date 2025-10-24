@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "2BIZYPE7D323WVELXQ6XIBUF6UC7ZSOS",
+    "version": 6,
+    "bundle": "E2SAL2J4ITI4FZW2UBHCTPQBR62XMSFI",
     "type": "story",
     "storyId": "501060500",
     "title": "名指導",
+    "enTitle": "Master Trainer",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "昼食をとりにカフェテリアへやってくると――",
-            "enText": "I come to the cafeteria for lunch.",
+            "enText": "I'm heading to the cafeteria for lunch,<n>when...",
             "nextBlock": 2,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 100,
@@ -19,19 +22,19 @@
                 },
                 {
                     "origLen": 83,
-                    "pathId": -1971659159333936787
-                },
-                {
-                    "origLen": 83,
                     "pathId": 484560385672998515
                 },
                 {
                     "origLen": 83,
-                    "pathId": 962694955552507810
+                    "pathId": -1971659159333936787
                 },
                 {
                     "origLen": 83,
                     "pathId": 6292309911476966561
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 962694955552507810
                 }
             ],
             "pathId": 6243086394178754798,
@@ -41,13 +44,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "教えて教えて！\r\nぜぇーったい、内緒にするから～～っ！",
-            "enText": "Tell me, tell me! I'll keep it to myself～!",
+            "enText": "Tell me, tell me! I'll keep it a secret,<n>promise!",
             "nextBlock": 3,
             "origClipLength": 80,
+            "voiceIdx": 39,
+            "voiceSheetId": "051024001",
             "animData": [
                 {
                     "origLen": 100,
                     "pathId": -6397231242529895977
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 7625881147115624484
                 },
                 {
                     "origLen": 63,
@@ -55,15 +64,11 @@
                 },
                 {
                     "origLen": 91,
-                    "pathId": 7625881147115624484
+                    "pathId": -65212147997919119
                 },
                 {
                     "origLen": 91,
                     "pathId": 993636903506930144
-                },
-                {
-                    "origLen": 91,
-                    "pathId": -65212147997919119
                 }
             ],
             "pathId": 5771507689674033829,
@@ -73,9 +78,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いやいや、\r\nだから聞く相手間違えてるって……。",
-            "enText": "No, no, no. That's why you're asking the \nwrong person. ……",
+            "enText": "As I said, you're asking the wrong<n>person...",
             "nextBlock": 4,
             "origClipLength": 76,
+            "voiceIdx": 21,
+            "voiceSheetId": "051060001",
             "choices": [
                 {
                     "jpText": "どうしたんだ？",
@@ -84,7 +91,7 @@
                 },
                 {
                     "jpText": "どうしたの？",
-                    "enText": "What's wrong?",
+                    "enText": "What's going on?",
                     "nextBlock": 4
                 }
             ],
@@ -94,20 +101,20 @@
                     "pathId": -950930435367091585
                 },
                 {
+                    "origLen": 87,
+                    "pathId": 6635389918336766682
+                },
+                {
                     "origLen": 32,
                     "pathId": 6692634912641782411
                 },
                 {
                     "origLen": 87,
-                    "pathId": 6635389918336766682
+                    "pathId": 7920151758618049530
                 },
                 {
                     "origLen": 42,
                     "pathId": 3578853088550066241
-                },
-                {
-                    "origLen": 87,
-                    "pathId": 7920151758618049530
                 }
             ],
             "pathId": 6632751256746258415,
@@ -117,13 +124,19 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "――あ～……いや、\r\nマヤノがわけわからんこと言っててさ。",
-            "enText": "― Ah～…… No, Mayano was talking about \nsomething I don't understand.",
+            "enText": "Ah, hey there. Nothing much, Mayano<n>here is just\nspouting nonsense...",
             "nextBlock": 5,
             "origClipLength": 82,
+            "voiceIdx": 4,
+            "voiceSheetId": "051060001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -3298708517994308380
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -3090154911647110913
                 },
                 {
                     "origLen": 56,
@@ -131,15 +144,11 @@
                 },
                 {
                     "origLen": 93,
-                    "pathId": -3090154911647110913
+                    "pathId": 245051752355725903
                 },
                 {
                     "origLen": 43,
                     "pathId": 8612529135712909985
-                },
-                {
-                    "origLen": 93,
-                    "pathId": 245051752355725903
                 }
             ],
             "pathId": -1172894284342542880,
@@ -149,25 +158,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "だってだって！　ネイチャちゃん、\r\n最近すっごいキラキラしてるんだもん！",
-            "enText": "Because, because, because! Necha, you've been \nso sparkly lately!",
+            "enText": "Am not! I'm telling you, Nature, you've<n>been sooo\ntwinkly lately!",
             "nextBlock": 6,
             "origClipLength": 91,
+            "voiceIdx": 53,
+            "voiceSheetId": "051024001",
             "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 6425963485531123838
+                },
                 {
                     "origLen": 62,
                     "pathId": 5833463716533556982
                 },
                 {
                     "origLen": 102,
-                    "pathId": 6425963485531123838
+                    "pathId": -5586308383298634815
                 },
                 {
                     "origLen": 69,
                     "pathId": -3880165464910580342
-                },
-                {
-                    "origLen": 102,
-                    "pathId": -5586308383298634815
                 }
             ],
             "pathId": -5221707321176734955,
@@ -177,25 +188,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "走り方もビューンってなったし、\r\n毎日ニコニコだし……絶対なんかあったよね！",
-            "enText": "The way she ran was a bum, and she's \nsmiling every day.…… I swear there \nwas something going on!",
+            "enText": "The way you run is so zoom-zoooom!<n>And you're\nalways smiling! Something<n>must've happened to\nyou, right?!",
             "nextBlock": 7,
             "origClipLength": 94,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": -472989745678896174
+                },
                 {
                     "origLen": 47,
                     "pathId": 5647573018223233811
                 },
                 {
                     "origLen": 105,
-                    "pathId": -472989745678896174
+                    "pathId": 9209189340114713618
                 },
                 {
                     "origLen": 69,
                     "pathId": -3901971969964248735
-                },
-                {
-                    "origLen": 105,
-                    "pathId": 9209189340114713618
                 }
             ],
             "pathId": -7794469357572553527,
@@ -205,25 +218,27 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いや……まずキラキラしてないし。\r\nなんか、上手いコト乗せられてるだけで……。",
-            "enText": "No…… it's not sparkling first. It's just \nsomething that's been put on well. ……",
+            "enText": "First of all, I'm not \"twinkly\" at all. My<n>trainer's\njust got a silver tongue...",
             "nextBlock": 8,
             "origClipLength": 95,
+            "voiceIdx": 34,
+            "voiceSheetId": "051060001",
             "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4851186951819626481
+                },
                 {
                     "origLen": 69,
                     "pathId": -2509223959991979811
                 },
                 {
                     "origLen": 106,
-                    "pathId": 4851186951819626481
+                    "pathId": 7926211019584113632
                 },
                 {
                     "origLen": 61,
                     "pathId": -5559869534626627446
-                },
-                {
-                    "origLen": 106,
-                    "pathId": 7926211019584113632
                 }
             ],
             "pathId": -6070117504399049804,
@@ -233,25 +248,27 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ほら、トレーナーさんの手腕ってやつ？\r\n思わず頑張る気になっちゃうって言うか、ね。",
-            "enText": "You know, the trainer's touch? I \nmean, you can't help but be inspired \nto work harder, you know?",
+            "enText": "You see, my trainer is so good that I<n>can't help\nfeeling motivated, even if I<n>don't want to!",
             "nextBlock": 9,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -5312033993916215521
+                },
                 {
                     "origLen": 86,
                     "pathId": -8412663690762042161
                 },
                 {
                     "origLen": 109,
-                    "pathId": -5312033993916215521
+                    "pathId": -572046102450587020
                 },
                 {
                     "origLen": 66,
                     "pathId": -855082555765196683
-                },
-                {
-                    "origLen": 109,
-                    "pathId": -572046102450587020
                 }
             ],
             "pathId": -4347781832883442678,
@@ -261,25 +278,27 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "えーそれだけー？\r\n女の子がキラキラすると言ったら～～……。",
-            "enText": "Oh, that's all you've got? When I say a girl \nsparkles ～～ ……",
+            "enText": "Hmmm. Is that reeeally it? What else<n>would make\na girl all twinkly...",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 15,
+            "voiceSheetId": "051024001",
             "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 4452995971214126208
+                },
                 {
                     "origLen": 75,
                     "pathId": -1227414958119445787
                 },
                 {
                     "origLen": 95,
-                    "pathId": 4452995971214126208
+                    "pathId": 3599432457038466918
                 },
                 {
                     "origLen": 110,
                     "pathId": -1981933404405978368
-                },
-                {
-                    "origLen": 95,
-                    "pathId": 3599432457038466918
                 }
             ],
             "pathId": 6691804466127332732,
@@ -289,9 +308,11 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "……はっ！！\r\nそ、そっか、そういうこと！？",
-            "enText": "…… Ha! I see, that's what I meant!",
+            "enText": "<i>Gasp!</i> Oh, I think I get it now!",
             "nextBlock": 11,
             "origClipLength": 73,
+            "voiceIdx": 25,
+            "voiceSheetId": "051024001",
             "choices": [
                 {
                     "jpText": "え？",
@@ -301,24 +322,24 @@
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": -4505826191201840539
-                },
-                {
                     "origLen": 84,
                     "pathId": 3995371950058994224
+                },
+                {
+                    "origLen": 48,
+                    "pathId": -4505826191201840539
                 },
                 {
                     "origLen": 98,
                     "pathId": 9035458126206955069
                 },
                 {
-                    "origLen": 56,
-                    "pathId": 9059900205760510922
-                },
-                {
                     "origLen": 84,
                     "pathId": -6630820671196226431
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 9059900205760510922
                 }
             ],
             "pathId": -5210591268229448992,
@@ -328,17 +349,19 @@
             "jpName": "マヤノトップガン",
             "enName": "Mayano Top Gun",
             "jpText": "きゃー☆　なんかドキドキしてきちゃった！\r\nマヤも2人に負けないよう、がんばるっ♪",
-            "enText": "Kyaaa☆ I'm getting nervous! I'll do my best \nso that Maya won't lose to them!",
+            "enText": "Oooh my gosh! I'm getting butterflies in<n>my\nstomach! ☆ I can't just sit here<n>watching you two\nbeing so cute<n>together! ♪",
             "nextBlock": 12,
             "origClipLength": 98,
+            "voiceIdx": 8,
+            "voiceSheetId": "051024001",
             "animData": [
-                {
-                    "origLen": 83,
-                    "pathId": -9019715259947515702
-                },
                 {
                     "origLen": 109,
                     "pathId": -1307241665255615127
+                },
+                {
+                    "origLen": 83,
+                    "pathId": -9019715259947515702
                 },
                 {
                     "origLen": 110,
@@ -346,11 +369,11 @@
                 },
                 {
                     "origLen": 109,
-                    "pathId": -273234318761252209
+                    "pathId": -1698466968502616904
                 },
                 {
                     "origLen": 109,
-                    "pathId": -1698466968502616904
+                    "pathId": -273234318761252209
                 }
             ],
             "pathId": 4237586877491861065,
@@ -360,29 +383,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "はあっ！？　ドキドキ！？\r\nちょ、なに言って――",
-            "enText": "Huh! I'm so excited! What are you talking…",
+            "enText": "Wh-what do you mean, \"being cute\"?!<n>You don't\nseriously think—",
             "nextBlock": 13,
             "origClipLength": 76,
+            "voiceIdx": 25,
+            "voiceSheetId": "051060001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 2183253612862741522
-                },
                 {
                     "origLen": 87,
                     "pathId": 6970050609059190489
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2183253612862741522
                 },
                 {
                     "origLen": 110,
                     "pathId": -4488091081829244375
                 },
                 {
-                    "origLen": 59,
-                    "pathId": -8988629224135629421
-                },
-                {
                     "origLen": 87,
                     "pathId": -6515439450745990102
+                },
+                {
+                    "origLen": 59,
+                    "pathId": -8988629224135629421
                 }
             ],
             "pathId": 1584372383830403258,
@@ -392,29 +417,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "――って、速ッ！",
-            "enText": "―That's fast!",
+            "enText": "Hey! Get back here!",
             "nextBlock": 14,
             "origClipLength": 55,
+            "voiceIdx": 27,
+            "voiceSheetId": "051060001",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 8008882037571084354
+                    "pathId": 3511229408791834567
                 },
                 {
                     "origLen": 58,
-                    "pathId": 3511229408791834567
+                    "pathId": 8008882037571084354
                 },
                 {
                     "origLen": 110,
                     "pathId": -2942204080242018294
                 },
                 {
-                    "origLen": 50,
-                    "pathId": 4703038152955148806
-                },
-                {
                     "origLen": 66,
                     "pathId": 8488507362757960699
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4703038152955148806
                 }
             ],
             "pathId": 4762461225148336930,
@@ -424,9 +451,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "待ってマヤノ！！　絶対なんか勘違いしてる！\r\n待てっての～～～！！",
-            "enText": "Wait, Mayano! You've definitely misunderstood \nsomething! Wait for me～!",
+            "enText": "Wait up, Mayano! I'm pretty sure you<n>have the\nwrong idea! Waaait!",
             "nextBlock": 15,
             "origClipLength": 88,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 75,
@@ -434,11 +463,11 @@
                 },
                 {
                     "origLen": 58,
-                    "pathId": -331081026398504412
+                    "pathId": 751794105434140221
                 },
                 {
                     "origLen": 58,
-                    "pathId": 751794105434140221
+                    "pathId": -331081026398504412
                 }
             ],
             "pathId": -1170078465515158056,
@@ -448,12 +477,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "……よくわからないが、\r\nナイスネイチャへの指導の成果は\n確実に出ているようだ！",
-            "enText": "I'm not sure about…… but it sure \nlooks like the guidance you've given \nto Nice Nature is paying off!",
+            "enText": "I don't quite understand what just<n>happened, but\nit seems like my guidance<n>is having a positive\neffect on Nice<n>Nature!",
             "nextBlock": -1,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8131398118140525865,
             "blockIdx": 15
         }
-    ],
-    "modified": 1657555267
+    ]
 }

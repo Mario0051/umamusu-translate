@@ -1,18 +1,20 @@
 {
     "version": 6,
-    "bundle": "45SILN7L6CW64GUU4J3A6TNAADRXQKB2",
+    "bundle": "26EMEEVM2U7QB6CXS6JI4Z3XG35P6ING",
     "type": "story",
     "storyId": "801001001",
     "title": "曲がり角には、気をつけます！",
+    "enTitle": "Watch Where You're Going!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、曲がり角から突然――",
-            "enText": "One day, from around the bend, suddenly—",
+            "enText": "One day, as I'm rounding a corner...",
             "nextBlock": 2,
             "origClipLength": 80,
             "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 102,
@@ -26,10 +28,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あわわわわっ、あ、危ない～！！",
-            "enText": "Aww, aww, look out!",
+            "enText": "Oh no, oh no, oh no! L-look out!",
             "nextBlock": 3,
             "origClipLength": 54,
             "voiceIdx": 25,
+            "voiceSheetId": "051001001",
             "pathId": 8252691070738450252,
             "blockIdx": 2
         },
@@ -37,18 +40,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドーンッ！！）",
-            "enText": "(Boom!)",
+            "enText": "<i>Crash!</i>",
             "nextBlock": 4,
             "origClipLength": 50,
             "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 1838128500243402487
-                },
                 {
                     "origLen": 42,
                     "pathId": 2633128690699763364
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 1838128500243402487
                 }
             ],
             "pathId": -8074717307313980398,
@@ -58,18 +62,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "本当にごめんなさい！\r\nとっても急いでたもので――",
-            "enText": "I'm so sorry! I was in such a hurry…",
+            "enText": "I'm so sorry! I was in such a huge rush<n>that I—",
             "nextBlock": 5,
             "origClipLength": 61,
             "voiceIdx": 24,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 79,
-                    "pathId": -8354110720278175203
-                },
                 {
                     "origLen": 77,
                     "pathId": -7443673425084898261
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -8354110720278175203
                 }
             ],
             "pathId": -4138905018760139802,
@@ -79,25 +84,26 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ああっ！　そうだ、約束……！",
-            "enText": "Ah! Yes, I promise…!",
+            "enText": "Ah, right! Sorry, but I made a promise,<n>so I'll be—",
             "nextBlock": 6,
             "origClipLength": 54,
             "voiceIdx": 26,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "約束？",
-                    "enText": "Promise?",
+                    "enText": "A promise?",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 38,
-                    "pathId": 4059946773921869136
-                },
-                {
                     "origLen": 65,
                     "pathId": -1053086126305738593
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 4059946773921869136
                 }
             ],
             "pathId": 8402832650086538627,
@@ -107,18 +113,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "はい、そうなんです……！",
-            "enText": "Yes, that's right…!",
+            "enText": "Yes!",
             "nextBlock": 7,
             "origClipLength": 52,
             "voiceIdx": 37,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 30,
-                    "pathId": -9164312775974259240
-                },
                 {
                     "origLen": 63,
                     "pathId": 5012239574051148313
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -9164312775974259240
                 }
             ],
             "pathId": 6393204168200270530,
@@ -128,35 +135,36 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "友だちとレースの約束してたのを\r\nすっかり忘れちゃってて……！",
-            "enText": "I totally forgot that I was supposed \nto race with a friend…!",
+            "enText": "I completely forgot that I promised to<n>race with\nmy friend, so I'm rushing over<n>there now...",
             "nextBlock": 8,
             "origClipLength": 65,
             "voiceIdx": 14,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "ここで全力を出さない方がいいぞ",
-                    "enText": "You don't want to go all out here.",
+                    "enText": "Then you should probably save that energy for\nthe race.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "ここで全力を出さない方がいいよ",
-                    "enText": "You don't want to give it your all here.",
+                    "enText": "Then you should probably save that energy for\nthe race.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "急いで行ってあげて",
-                    "enText": "Hurry up and get her there.",
+                    "enText": "You'd better hurry, then.",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 41,
-                    "pathId": 8102145968651817974
-                },
-                {
                     "origLen": 76,
                     "pathId": 5910161111001813828
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 8102145968651817974
                 }
             ],
             "pathId": -7124641600201731107,
@@ -166,35 +174,36 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "友だちとレースの約束してたのを\r\nすっかり忘れちゃってて……！",
-            "enText": "I totally forgot that I was supposed \nto race with a friend…!",
+            "enText": "I completely forgot that I promised to<n>race with\nmy friend, so I'm rushing over<n>there now...",
             "nextBlock": 9,
             "origClipLength": 65,
             "voiceIdx": 14,
+            "voiceSheetId": "051001001",
             "choices": [
                 {
                     "jpText": "ここで全力を出さない方がいいぞ",
-                    "enText": "You don't want to go all out here.",
+                    "enText": "Then you should probably save that energy for\nthe race.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "ここで全力を出さない方がいいよ",
-                    "enText": "You don't want to give it your all here.",
+                    "enText": "Then you should probably save that energy for\nthe race.",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "急いで行ってあげて",
-                    "enText": "Hurry up and get her there.",
+                    "enText": "You'd better hurry, then.",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 41,
-                    "pathId": -4175225643008607666
-                },
-                {
                     "origLen": 76,
                     "pathId": 4783176796763140201
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -4175225643008607666
                 }
             ],
             "pathId": -5187100904595542952,
@@ -204,18 +213,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "たしかに……そうかもしれませんね！",
-            "enText": "Yes… might be right!",
+            "enText": "Yeah... That's a good point!",
             "nextBlock": 10,
             "origClipLength": 56,
             "voiceIdx": 38,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 29,
-                    "pathId": -6612885753824365888
-                },
                 {
                     "origLen": 67,
                     "pathId": 7879256672608141416
+                },
+                {
+                    "origLen": 29,
+                    "pathId": -6612885753824365888
                 }
             ],
             "pathId": -7618246184148461529,
@@ -225,18 +235,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "ここで全力を出しちゃったら、\r\n本番でスタミナ切れしちゃうかも……！",
-            "enText": "If you give it your all here, you might run \nout of stamina for the show…!",
+            "enText": "If I give it my all now, I'll be out of<n>energy when\nit's time for the real race<n>with my friend!",
             "nextBlock": 11,
             "origClipLength": 67,
             "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 36,
-                    "pathId": 1205883668193702036
-                },
                 {
                     "origLen": 78,
                     "pathId": 4778921632229489138
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 1205883668193702036
                 }
             ],
             "pathId": 7479259911206626111,
@@ -246,22 +257,23 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "よーし、じゃあ廊下では、ゆっくり走って、\r\nスタミナの回復に使うことにします！",
-            "enText": "Okay, so I'm going to run slowly in the \ncorridor to regain my stamina!",
+            "enText": "All righty, I'll just jog slowly in the<n>hallway to\nrecover my strength!",
             "nextBlock": 12,
             "origClipLength": 70,
             "voiceIdx": 11,
+            "voiceSheetId": "051001001",
             "animData": [
                 {
                     "origLen": 80,
                     "pathId": -4183934314537078029
                 },
                 {
-                    "origLen": 54,
-                    "pathId": 3140931389431945482
-                },
-                {
                     "origLen": 81,
                     "pathId": -7420787953882755700
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 3140931389431945482
                 }
             ],
             "pathId": -4688899028113300529,
@@ -275,18 +287,19 @@
             "nextBlock": -1,
             "origClipLength": 56,
             "voiceIdx": 12,
+            "voiceSheetId": "051001001",
             "animData": [
                 {
                     "origLen": 17,
                     "pathId": 2975703810949183959
                 },
                 {
-                    "origLen": 48,
-                    "pathId": 2991174577249386185
-                },
-                {
                     "origLen": 67,
                     "pathId": 407613645220702666
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 2991174577249386185
                 }
             ],
             "pathId": -3505451088899855147,
@@ -296,18 +309,19 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "は、はい！　ありがとうございます！\r\nぶつかっちゃってすみませんでした！　では！",
-            "enText": "Ha, yes! Thank you so much! I'm \nsorry I bumped into you! Bye!",
+            "enText": "Got it! Thanks, and I'm sorry for crashing<n>into you!\nBye!",
             "nextBlock": 14,
             "origClipLength": 71,
             "voiceIdx": 12,
+            "voiceSheetId": "051001001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -3688163780130028238
-                },
                 {
                     "origLen": 82,
                     "pathId": 9213645173879856259
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -3688163780130028238
                 }
             ],
             "pathId": 4564067059257778221,
@@ -317,18 +331,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "スペシャルウィークは、\r\n慌てた様子で再び走りだしたのだが――",
-            "enText": "Special Week looked flustered \nand started to run again…",
+            "enText": "Special Week runs off again in a panic,<n>however...",
             "nextBlock": 15,
             "origClipLength": 65,
             "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 1451185108230449493
+                    "pathId": -5267902570010771232
                 },
                 {
                     "origLen": 58,
-                    "pathId": -5267902570010771232
+                    "pathId": 1451185108230449493
                 }
             ],
             "pathId": 6957776163641187811,
@@ -338,10 +353,11 @@
             "jpName": "スペシャルウィーク",
             "enName": "Special Week",
             "jpText": "あわわわっ！？　避けてくださーーいっ！",
-            "enText": "Aaaaah! Please avoid!",
+            "enText": "Uh-oh! Out of my waaay!",
             "nextBlock": 16,
             "origClipLength": 57,
             "voiceIdx": 31,
+            "voiceSheetId": "051001001",
             "pathId": -8189919671768325359,
             "blockIdx": 15
         },
@@ -349,13 +365,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドーンッ！！）",
-            "enText": "(Boom!)",
+            "enText": "<i>Crash!</i>",
             "nextBlock": -1,
             "origClipLength": 50,
             "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6063238291842607119,
             "blockIdx": 16
         }
-    ],
-    "modified": 1674832466
+    ]
 }

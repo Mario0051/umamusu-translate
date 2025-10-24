@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "RS5XGIAUJQO54OW2SLFJTH2S5KJNDMWM",
+    "version": 6,
+    "bundle": "674DA4OPGLDX5PPUL6CSLD2RYHNTO7FY",
     "type": "story",
     "storyId": "501056500",
     "title": "名指導",
+    "enTitle": "Master Trainer",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "とある休日。\r\n部屋でのんびりと朝食をとっていると……。",
-            "enText": "A holiday. I'm having a leisurely breakfast \nin my room. ……",
+            "enText": "I'm relaxing in my room on a day off. I'm<n>about to\neat breakfast, when...",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8872210190397480019,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ピンポンピンポーーン！！！\r\nトレーナーさん、開けてくださーーい！！",
-            "enText": "Bing bong bing bong! Trainer, \nplease open the door!",
+            "enText": "Ding-dong! Open up, Train—",
             "nextBlock": 3,
             "origClipLength": 63,
+            "voiceIdx": 56,
+            "voiceSheetId": "051056001",
             "pathId": 522747084748815013,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ドンガラガッシャーーン！！）",
-            "enText": "(Dongala gashaan!!!)",
+            "enText": "<i>Rattle! Craaaash!</i>",
             "nextBlock": 4,
             "origClipLength": 54,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3787315111956350318,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "お邪魔します！　そして――……！",
-            "enText": "Sorry to interrupt! And―……!",
+            "enText": "Okay, I'm coming in! And...",
             "nextBlock": 5,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（波乱の予感……！！）",
-                    "enText": "(A wave of excitement: ……!!!!!)",
+                    "enText": "(I've got a bad feeling about this!)",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 73,
-                    "pathId": -235638246364466494
-                },
-                {
                     "origLen": 66,
                     "pathId": 6835510500763547807
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -235638246364466494
                 }
             ],
             "pathId": -2843642152424315826,
@@ -66,24 +75,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "いつもいつも、ありがとうございますっっ！！",
-            "enText": "Thank you for everything!!!",
+            "enText": "Thank you so much for everything!",
             "nextBlock": 6,
             "origClipLength": 59,
+            "voiceIdx": 13,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "……え？",
-                    "enText": "…… What?",
+                    "enText": "Uh...",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 41,
-                    "pathId": -5876775361537719737
-                },
-                {
                     "origLen": 70,
                     "pathId": -3156636761629900395
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -5876775361537719737
                 }
             ],
             "pathId": 7317358402787557747,
@@ -93,17 +104,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさんに出会ってから、\r\nあれこれそれ……\nとにかく色々教えてもらいましたっ！",
-            "enText": "Since I met my trainer, she has taught me \nthis, that…… and a whole bunch of other stuff!",
+            "enText": "You've taught me so much since we first<n>met!\nLike... um... so many new things!",
             "nextBlock": 7,
             "origClipLength": 73,
+            "voiceIdx": 38,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 1899396260393785449
-                },
                 {
                     "origLen": 117,
                     "pathId": 3749349148572461993
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 1899396260393785449
                 }
             ],
             "pathId": -8303420386256584050,
@@ -113,17 +126,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "おかげで占いも百発百中、絶好調！\r\n走りもメキメキ強くなって、最高潮！",
-            "enText": "Thanks to this, my fortune-telling has been a \nhundred times out of a hundred, and I'm on a \nroll! My driving is getting stronger and \nstronger, and I'm at my best!",
+            "enText": "Thanks to you, my divinations are now a<n>thousand\npercent accurate! And my<n>running has only gotten\nbetter too!",
             "nextBlock": 8,
             "origClipLength": 67,
+            "voiceIdx": 2,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 1125995709847506096
-                },
                 {
                     "origLen": 78,
                     "pathId": 3834366365094418169
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 1125995709847506096
                 }
             ],
             "pathId": -3799010898809939940,
@@ -133,17 +148,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "勝利の女神さんの後ろ髪を掴むどころか、\r\n掴んで三つ編みにできちゃいそうです！",
-            "enText": "Instead of just grabbing the back of the \nVictory Goddess's hair, I think I could grab \nit and braid it!",
+            "enText": "The goddess of victory isn't just on my<n>side, she's\nthis close to being my best<n>friend too!",
             "nextBlock": 9,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": -3769165542286587689
-                },
                 {
                     "origLen": 81,
                     "pathId": 6412339590561702272
+                },
+                {
+                    "origLen": 28,
+                    "pathId": -3769165542286587689
                 }
             ],
             "pathId": -6463434796585418568,
@@ -153,21 +170,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "全てはトレーナーさんとシラオキ様のおかげ！\r\nありがたや～！　ありがたや～～！",
-            "enText": "All thanks to my trainer and Master Siraoki! \nThank you～! Thank you～!",
+            "enText": "It's all thanks to you and the great<n>Shiraoki! I give\nthanks! Oh, how grateful<n>I am!",
             "nextBlock": 10,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 98,
                     "pathId": 5676788821995193746
                 },
                 {
-                    "origLen": 19,
-                    "pathId": -4201798091231253097
-                },
-                {
                     "origLen": 81,
                     "pathId": 8599082963611221313
+                },
+                {
+                    "origLen": 19,
+                    "pathId": -4201798091231253097
                 }
             ],
             "pathId": 5174257614741016157,
@@ -177,21 +196,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "では！　夢のお告げの通り、\r\n素直な気持ちを伝えたので……帰ります！！",
-            "enText": "Well then! I'm leaving…… now that I've \nexpressed my honest feelings, just as my \ndreams told me to!",
+            "enText": "Now, I bid you adieu! I have expressed<n>my\ninnermost feelings, compelled to do<n>so as I was in\nmy dreams. Time to go<n>home!",
             "nextBlock": 11,
             "origClipLength": 67,
+            "voiceIdx": 47,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": 4907327086777633047
                 },
                 {
-                    "origLen": 51,
-                    "pathId": 3201223855563160837
-                },
-                {
                     "origLen": 78,
                     "pathId": 4554137576832543922
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 3201223855563160837
                 }
             ],
             "pathId": -7617507587158195419,
@@ -201,22 +222,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "よくわからなかったが……\r\nトレーニング指導に満足してくれて\nいるようだ……！",
-            "enText": "I wasn't sure, but they seem to be satisfied \nwith the…… training instruction ……!",
+            "enText": "I don't quite grasp what she's saying...<n>but I think\nshe's satisfied with my<n>guidance so far!",
             "nextBlock": -1,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": 8458126140021416040
+                    "pathId": -8031746182559372168
                 },
                 {
                     "origLen": 58,
-                    "pathId": -8031746182559372168
+                    "pathId": 8458126140021416040
                 }
             ],
             "pathId": 7324895970164911039,
             "blockIdx": 11
         }
-    ],
-    "modified": 1657555061
+    ]
 }

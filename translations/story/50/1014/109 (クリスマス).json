@@ -1,27 +1,32 @@
 {
-    "version": 5,
-    "bundle": "422DCVPGD75DO3WWEUVKP6SWTN5725ZA",
+    "version": 6,
+    "bundle": "NYNZW6DYTJK22XCAVGQOVRJTWHS4CGBA",
     "type": "story",
     "storyId": "501014109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "クリスマスの夜。\r\n聖夜らしからぬ悲鳴が、街に轟いた。",
-            "enText": "Christmas night. A scream, not unlike that of \na holy night, roared through the city.",
+            "enText": "One night during the holidays, a scream<n>\nunbefitting of such a season roars<n>through the\nshopping district.",
             "nextBlock": 2,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1130077055245591544,
             "blockIdx": 1
         },
         {
             "jpName": "商店街の人",
-            "enName": "Market Person",
+            "enName": "Shopping District Staff",
             "jpText": "ドロボー！　待てー！",
-            "enText": "Drobo! Wait!",
+            "enText": "Stop, thief!",
             "nextBlock": 3,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5137079208365320759,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "泥棒が出たとなると、放ってはおけない。\r\n逃げ去る人影を追いかける。と――",
-            "enText": "If a thief has been found, she cannot \nbe left alone. We chased after a \nfigure running away. And―",
+            "enText": "I can't just ignore something like that. I<n>chase\nafter the fleeing figure and find...",
             "nextBlock": 4,
             "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2621254152101664888,
             "blockIdx": 3
         },
@@ -39,24 +46,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ケ！？　トレーナーさん……。",
-            "enText": "KE! Trainers. ……",
+            "enText": "Qué?! Trainer?!",
             "nextBlock": 5,
             "origClipLength": 63,
+            "voiceIdx": 61,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "エル……",
-                    "enText": "Elle ……",
+                    "enText": "El?!",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
                     "origLen": 99,
-                    "pathId": -1563199955961942928
+                    "pathId": -7499151731563345811
                 },
                 {
                     "origLen": 99,
-                    "pathId": -7499151731563345811
+                    "pathId": -1563199955961942928
                 }
             ],
             "pathId": 5334166700200388928,
@@ -66,17 +75,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "人影の正体は、\r\n間違いなくエルコンドルパサーだった。",
-            "enText": "The shadow was definitely Elcon d'Orpasar.",
+            "enText": "The shadowy figure I was chasing turns<n>out to be\nEl Condor Pasa.",
             "nextBlock": 6,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 91,
-                    "pathId": 8640045096235283482
+                    "pathId": -8370461893079018647
                 },
                 {
                     "origLen": 91,
-                    "pathId": -8370461893079018647
+                    "pathId": 8640045096235283482
                 }
             ],
             "pathId": 1235245898532507099,
@@ -86,17 +97,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "見つかって……しまいましたか……。",
-            "enText": "Have you found it and…… it ……?",
+            "enText": "You... got me...",
             "nextBlock": 7,
             "origClipLength": 67,
+            "voiceIdx": 76,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -218843711666543034
-                },
                 {
                     "origLen": 78,
                     "pathId": 3865923615197753677
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -218843711666543034
                 }
             ],
             "pathId": 5097170276779548922,
@@ -106,17 +119,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "そう、アタシこそ正体不明、神出鬼没、\r\n聖夜の街をサンタの如く駆け抜ける――",
-            "enText": "Yes, I am the unidentified, haunting, \nSanta-like figure running through the streets \nof the city on Christmas Eve.",
+            "enText": "That's right. The mysterious figure<n>flitting\nthroughout the town like Santa<n>on this special\nnight is...",
             "nextBlock": 8,
             "origClipLength": 94,
+            "voiceIdx": 80,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 84,
-                    "pathId": -3401911077786415989
-                },
                 {
                     "origLen": 105,
                     "pathId": -8633588562877825617
+                },
+                {
+                    "origLen": 84,
+                    "pathId": -3401911077786415989
                 }
             ],
             "pathId": -1925006493463749303,
@@ -126,29 +141,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "怪盗エルコンドルパサーなのデース！",
-            "enText": "It's El Condor Pacer, the thief!",
+            "enText": "None other than me, El Condor Pasa, the<n>\nSnowfall Smuggler!",
             "nextBlock": 9,
             "origClipLength": 92,
+            "voiceIdx": 63,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "……泥棒はダメだろ？",
-                    "enText": "…… No thievery, right?",
+                    "enText": "...You know stealing is wrong, right?",
                     "nextBlock": 9
                 },
                 {
                     "jpText": "……泥棒はダメでしょ？",
-                    "enText": "…… No thievery, right?",
+                    "enText": "...You know stealing is wrong, right?",
                     "nextBlock": 9
                 }
             ],
             "animData": [
                 {
-                    "origLen": 48,
-                    "pathId": 5700988676649625524
-                },
-                {
                     "origLen": 103,
                     "pathId": -832682275956352696
+                },
+                {
+                    "origLen": 48,
+                    "pathId": 5700988676649625524
                 }
             ],
             "pathId": 864235709443600298,
@@ -158,17 +175,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ちょちょちょ！　勘違いしないでください、\r\nトレーナーさん！",
-            "enText": "Whoa, whoa, whoa! Don't get me wrong, trainer!",
+            "enText": "Wait, wait, wait! Don't get me wrong,<n>Trainer!",
             "nextBlock": 10,
             "origClipLength": 84,
+            "voiceIdx": 25,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 67,
-                    "pathId": 8777919586857102753
-                },
                 {
                     "origLen": 95,
                     "pathId": -6509327038022158668
+                },
+                {
+                    "origLen": 67,
+                    "pathId": 8777919586857102753
                 }
             ],
             "pathId": 31107898390962610,
@@ -178,17 +197,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "あー、こほん。エルは怪盗であって、\r\nドロボーではありません。",
-            "enText": "Ah, come on. Elle is a thief, not a dorobo.",
+            "enText": "Ahem. I'm the Snowfall <i>Smuggler,</i> not<n><i>thief.</i>",
             "nextBlock": 11,
             "origClipLength": 85,
+            "voiceIdx": 79,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": 2425120610501282246
-                },
                 {
                     "origLen": 96,
                     "pathId": 5802625832469401745
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 2425120610501282246
                 }
             ],
             "pathId": -8854432156478307217,
@@ -198,24 +219,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "この姿で、実は別のことを\r\nしていただけなのデス。",
-            "enText": "In this appearance, she was actually just \ndoing something else.",
+            "enText": "What I'm doin' is totally different!",
             "nextBlock": 12,
             "origClipLength": 77,
+            "voiceIdx": 84,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "別のことって？",
-                    "enText": "What other thing?",
+                    "enText": "And what <i>are</i> you doing exactly?",
                     "nextBlock": 12
                 }
             ],
             "animData": [
                 {
-                    "origLen": 40,
-                    "pathId": -2925683536837700098
-                },
-                {
                     "origLen": 88,
                     "pathId": -8037376839514517052
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -2925683536837700098
                 }
             ],
             "pathId": 9143875476036551210,
@@ -225,17 +248,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ふっふっふ、それはクリスマスの\r\nプレゼント配りデース！",
-            "enText": "Pfft, that's Christmas gift-giving!",
+            "enText": "Hehehe, I'm smuggling holiday presents<n>to\neveryone!",
             "nextBlock": 13,
             "origClipLength": 81,
+            "voiceIdx": 3,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -6945762245266071008
-                },
                 {
                     "origLen": 92,
                     "pathId": 1308505384081643760
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -6945762245266071008
                 }
             ],
             "pathId": 8072308541136100081,
@@ -245,17 +270,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルはもはや有名人！　そしてエルの国では\r\n有名人は寄付するのが当たり前！",
-            "enText": "Elle is now a celebrity! And in Elle's \ncountry, celebrities donate money!",
+            "enText": "I'm a celebrity, after all! In my country,<n>it's only\nnatural for celebrities to donate<n>gifts!",
             "nextBlock": 14,
             "origClipLength": 93,
+            "voiceIdx": 154,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 56,
-                    "pathId": 1929733024161363175
-                },
                 {
                     "origLen": 104,
                     "pathId": -4577920118139389342
+                },
+                {
+                    "origLen": 56,
+                    "pathId": 1929733024161363175
                 }
             ],
             "pathId": -160821109386708542,
@@ -265,17 +292,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "日本でも、覆面レスラーが、子どもたちに\r\nランドセルを配っていると聞きました。",
-            "enText": "I heard that masked wrestlers are handing out \nschool bags to children in Japan.",
+            "enText": "I heard that masked wrestlers in Japan<n>give\nschool bags to children too.",
             "nextBlock": 15,
             "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 85,
-                    "pathId": -1383768884595792333
-                },
                 {
                     "origLen": 106,
                     "pathId": -8483722452270662707
+                },
+                {
+                    "origLen": 85,
+                    "pathId": -1383768884595792333
                 }
             ],
             "pathId": -5661175186553222697,
@@ -285,24 +314,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "なので、こっそり子どもたちにプレゼントを\r\n届けていただけなのデース！",
-            "enText": "So I was just secretly delivering \npresents to the children!",
+            "enText": "That's why I've been secretly smuggling<n>presents\nto the kids around here!",
             "nextBlock": 16,
             "origClipLength": 90,
+            "voiceIdx": 38,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "ボランティアなら、普通にやればいいのに",
-                    "enText": "If you're volunteering, why \nnot just do it normally?",
+                    "enText": "Don't you think it'd be better to just volunteer\nlike a normal person?",
                     "nextBlock": 16
                 }
             ],
             "animData": [
                 {
-                    "origLen": 71,
-                    "pathId": 7408993223262576810
-                },
-                {
                     "origLen": 101,
                     "pathId": -3513776830938796435
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 7408993223262576810
                 }
             ],
             "pathId": -6321328267362259039,
@@ -312,24 +343,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "それが……おおっぴらにできない理由が\r\nあるのデス……。",
-            "enText": "There is a reason why it can't be…… openly ……",
+            "enText": "Well... there's a reason I can't just do it<n>out in the\nopen...",
             "nextBlock": 17,
             "origClipLength": 81,
+            "voiceIdx": 109,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "その理由とは？",
-                    "enText": "What is the reason?",
+                    "enText": "Go on...",
                     "nextBlock": 17
                 }
             ],
             "animData": [
                 {
-                    "origLen": 30,
-                    "pathId": -3756676707956751759
-                },
-                {
                     "origLen": 92,
                     "pathId": 7443001900573974485
+                },
+                {
+                    "origLen": 30,
+                    "pathId": -3756676707956751759
                 }
             ],
             "pathId": 8961056234332436395,
@@ -339,17 +372,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "それは……。\r\nその理由とは……！？",
-            "enText": "It is…… The reason for this is ……!",
+            "enText": "You see... The reason is...",
             "nextBlock": 18,
             "origClipLength": 68,
+            "voiceIdx": 157,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 58,
-                    "pathId": 336272947591151806
-                },
                 {
                     "origLen": 79,
                     "pathId": 8468670727777136487
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 336272947591151806
                 }
             ],
             "pathId": 3207510612155091216,
@@ -359,17 +394,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "怪盗は、誰にも正体を知られては\r\nならないからデェェェス！",
-            "enText": "The thief must not let anyone \nknow who she really is.",
+            "enText": "The Snowfall Smuggler can't reveal her<n>true\nidentity!",
             "nextBlock": 19,
             "origClipLength": 82,
+            "voiceIdx": 18,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": -1338091076005525465
-                },
                 {
                     "origLen": 93,
                     "pathId": -939384829628238874
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1338091076005525465
                 }
             ],
             "pathId": -796552161934428108,
@@ -379,17 +416,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "つまり……怪盗気分に\r\n浸りたいだけのようだった。",
-            "enText": "In other words, she just wanted \nto…… feel like a thief.",
+            "enText": "Basically... she just really likes<n>pretending to be\nthe \"Snowfall<n>Smuggler.\"",
             "nextBlock": 20,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 89,
-                    "pathId": -8028481853512770674
-                },
                 {
                     "origLen": 88,
                     "pathId": 3093604238987041468
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -8028481853512770674
                 }
             ],
             "pathId": 1176404586822157806,
@@ -399,17 +438,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "トレーナーさん、\r\nここはどうか、エルを見逃してっ！",
-            "enText": "Trainer, please let Elle go!",
+            "enText": "You gotta let me go, Trainer!",
             "nextBlock": 21,
             "origClipLength": 78,
+            "voiceIdx": 68,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": 6798226712927679363
-                },
                 {
                     "origLen": 89,
                     "pathId": -3563850574846640840
+                },
+                {
+                    "origLen": 71,
+                    "pathId": 6798226712927679363
                 }
             ],
             "pathId": 9111943452202343614,
@@ -419,24 +460,26 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルにはまだ、たくさんのプレゼントを\r\n届けなければならない使命があるのデス！\nデスから！",
-            "enText": "Elle still has a mission to deliver many \ngifts! Because DES!",
+            "enText": "I've still got a ton of gifts to give out!",
             "nextBlock": 22,
             "origClipLength": 103,
+            "voiceIdx": 39,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "……わかった",
-                    "enText": "…… got it.",
+                    "enText": "...Fine.",
                     "nextBlock": 22
                 }
             ],
             "animData": [
                 {
-                    "origLen": 87,
-                    "pathId": 3864246165672913546
-                },
-                {
                     "origLen": 114,
                     "pathId": -5754311489749133034
+                },
+                {
+                    "origLen": 87,
+                    "pathId": 3864246165672913546
                 }
             ],
             "pathId": -4617640293932764348,
@@ -446,29 +489,31 @@
             "jpName": "",
             "enName": "",
             "jpText": "頼まれて、黙認することにした。\r\nしかし、それでも隠密行動はよくない。",
-            "enText": "They asked me to do it, and I decided \nto keep quiet. But still, covert \naction is not a good idea.",
+            "enText": "I acquiesce to her request, but that<n>doesn't mean\nI think sneaking around is<n>a great idea.",
             "nextBlock": 23,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "せめて大人の許可は取るようにな",
-                    "enText": "At least get permission from an adult.",
+                    "enText": "At least try to get permission from their parents\nfirst.",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "せめて大人の許可は取るようにね",
-                    "enText": "Or at least get permission from an adult.",
+                    "enText": "At least try to get permission from their parents\nfirst.",
                     "nextBlock": 23
                 }
             ],
             "animData": [
                 {
                     "origLen": 101,
-                    "pathId": 1477457715860663347
+                    "pathId": 8981045382524615109
                 },
                 {
                     "origLen": 101,
-                    "pathId": 8981045382524615109
+                    "pathId": 1477457715860663347
                 }
             ],
             "pathId": -1308934229774454034,
@@ -478,17 +523,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ブエノ！　そうデスね。大人にだけ話せば、\r\n子どもの夢を壊すことはないデスし。",
-            "enText": "Bueno! Yes, that's right. If you only talk to \nadults, you won't destroy a child's dream.",
+            "enText": "Bueno! That's a good idea. If I talk to<n>their\nparents, we can keep the dream<n>alive!",
             "nextBlock": 24,
             "origClipLength": 95,
+            "voiceIdx": 142,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 74,
-                    "pathId": -1203860598786895021
-                },
                 {
                     "origLen": 106,
                     "pathId": 2761098595122071866
+                },
+                {
+                    "origLen": 74,
+                    "pathId": -1203860598786895021
                 }
             ],
             "pathId": -7995915794683849550,
@@ -498,17 +545,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "約束します、トレーナーさんっ。\r\nでは、これにて。",
-            "enText": "I promise, trainer. Well, I'll see you now.",
+            "enText": "I promise I'll do that, Trainer. And with<n>that...",
             "nextBlock": 25,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": 2364596147497359500
-                },
                 {
                     "origLen": 88,
                     "pathId": 527528025854229511
+                },
+                {
+                    "origLen": 40,
+                    "pathId": 2364596147497359500
                 }
             ],
             "pathId": 5040186631490256067,
@@ -518,17 +567,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "チャオ！",
-            "enText": "Ciao!",
+            "enText": "I'm off! Chao!",
             "nextBlock": 26,
             "origClipLength": 50,
+            "voiceIdx": 44,
+            "voiceSheetId": "051014001",
             "animData": [
                 {
                     "origLen": 58,
-                    "pathId": -2999900181434183442
+                    "pathId": -3114645841104088105
                 },
                 {
                     "origLen": 58,
-                    "pathId": -3114645841104088105
+                    "pathId": -2999900181434183442
                 }
             ],
             "pathId": -552275650100555426,
@@ -538,9 +589,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "マントを翻して、去っていく。これで\r\n健全にサンタ役ができることだろう。",
-            "enText": "She flips her cape and leaves. Now you can \nplay Santa in good health.",
+            "enText": "She flips her cloak and takes off.<n>Hopefully, this\nwill be a better way for<n>her to take on the role of\nSanta.",
             "nextBlock": 27,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1498164215418012852,
             "blockIdx": 26
         },
@@ -548,9 +601,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "と、それから、ほどなくして……。",
-            "enText": "And then, not long after, ……",
+            "enText": "Not long after...",
             "nextBlock": 28,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7709786556066028152,
             "blockIdx": 27
         },
@@ -558,9 +613,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ウー！　ピーポーピーポー！）",
-            "enText": "(Woo! Peepo peepo!)",
+            "enText": "<i>Wee woo wee woo!</i>",
             "nextBlock": 29,
             "origClipLength": 64,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 3025561966646505481,
             "blockIdx": 28
         },
@@ -568,9 +625,11 @@
             "jpName": "男の子",
             "enName": "Boy",
             "jpText": "まてー！　どろぼ～！",
-            "enText": "Wait! Dorobo～!",
+            "enText": "Stop! Thief!",
             "nextBlock": 30,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 108348085343827640,
             "blockIdx": 29
         },
@@ -578,9 +637,11 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "違うデース！\r\nエルはドロボーじゃありませーん！",
-            "enText": "No, no, no, no, no, no, no, no, no, no, no, \nno! Elle is not a slob!",
+            "enText": "I'm not a thief! You've got it all wrong!",
             "nextBlock": 31,
             "origClipLength": 76,
+            "voiceIdx": 18,
+            "voiceSheetId": "051014001",
             "pathId": -5883753653942517859,
             "blockIdx": 30
         },
@@ -588,9 +649,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "子どもに追い回される\r\nエルコンドルパサー。\n結局、泥棒扱いは変わらなかったようだ。",
-            "enText": "El Condor Pasa being chased around by a \nchild. In the end, it seems that she was \nstill treated as a thief.",
+            "enText": "El Condor Pasa is being chased by a<n>child playing\npoliceman. It seems like<n>people still think she is a\nplain old thief.",
             "nextBlock": -1,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6041673011800745159,
             "blockIdx": 31
         },
@@ -598,29 +661,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "エルにはまだ、たくさんのプレゼントを\r\n届けなければならない使命があるのデス！\nデスから！",
-            "enText": "Elle still has a mission to deliver many \ngifts! Because DES!",
+            "enText": "I've still got a ton of gifts to give out!",
             "nextBlock": 33,
             "origClipLength": 103,
+            "voiceIdx": 39,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "……やっぱりダメだ",
-                    "enText": "…… still no good.",
+                    "enText": "I really don't think it's a good idea...",
                     "nextBlock": 33
                 },
                 {
                     "jpText": "……やっぱりダメだよ",
-                    "enText": "…… still no good.",
+                    "enText": "I really don't think it's a good idea...",
                     "nextBlock": 33
                 }
             ],
             "animData": [
                 {
-                    "origLen": 90,
-                    "pathId": -6556999744598908673
-                },
-                {
                     "origLen": 114,
                     "pathId": 7422289668710378021
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -6556999744598908673
                 }
             ],
             "pathId": 8186671491709995460,
@@ -630,17 +695,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ケ？　どうしてデスか～？",
-            "enText": "Ke? Why, Desu～?",
+            "enText": "Por qué no? Why not?",
             "nextBlock": 34,
             "origClipLength": 60,
+            "voiceIdx": 61,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -6685146447912619177
-                },
                 {
                     "origLen": 71,
                     "pathId": 8600515126160660859
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -6685146447912619177
                 }
             ],
             "pathId": 7548214157108718000,
@@ -650,17 +717,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "かわりに、子どもに堂々とプレゼントを\r\n渡すように、と告げる。",
-            "enText": "Instead, she tells the child to \ngive the gift with dignity.",
+            "enText": "I tell her she should give out the gifts in<n>plain\nsight.",
             "nextBlock": 35,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 75,
-                    "pathId": -1919612977459555595
-                },
                 {
                     "origLen": 96,
                     "pathId": 7681090256942889031
+                },
+                {
+                    "origLen": 75,
+                    "pathId": -1919612977459555595
                 }
             ],
             "pathId": -8963841341088564428,
@@ -670,17 +739,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうせマスクをしているのだから、\r\n正体がバレるはずはない、と。",
-            "enText": "She thought that since she was wearing a \nmask, there was no way they would know who \nshe really was.",
+            "enText": "Her true identity will still be safe since<n>she's\nwearing a mask anyway.",
             "nextBlock": 36,
             "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 97,
-                    "pathId": 7154317482592132464
+                    "pathId": -2815167092892196421
                 },
                 {
                     "origLen": 97,
-                    "pathId": -2815167092892196421
+                    "pathId": 7154317482592132464
                 }
             ],
             "pathId": 804188179774999549,
@@ -690,17 +761,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "おおおっ、確かに！　盲点、死角、\r\nその発想に至らぬとは、エルも未熟！",
-            "enText": "Whoa, indeed! Blind spots, blind spots… Elle \nis so immature not to have thought of that!",
+            "enText": "Ooohhh, right! Duh! How did I not think<n>of that?!",
             "nextBlock": 37,
             "origClipLength": 90,
+            "voiceIdx": 31,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": -5709341625388813928
-                },
                 {
                     "origLen": 101,
                     "pathId": 5016291483171363837
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -5709341625388813928
                 }
             ],
             "pathId": 8945760177088891564,
@@ -710,17 +783,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "わかったデース！　では子どもたちを\r\n公園に集めて、プレゼントを！",
-            "enText": "All right, all right, all right, all right! \nNow gather the children in the park and give \nthem their presents!",
+            "enText": "All right! I'll give some presents out at<n>the park,\nthen!",
             "nextBlock": 38,
             "origClipLength": 88,
+            "voiceIdx": 47,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": 6377583522211035301
-                },
                 {
                     "origLen": 99,
                     "pathId": -4151591486661851273
+                },
+                {
+                    "origLen": 66,
+                    "pathId": 6377583522211035301
                 }
             ],
             "pathId": -4263158589105684899,
@@ -730,17 +805,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "（ガラーン、ガラーン！）",
-            "enText": "(Garan, garan!)",
+            "enText": "<i>Clang, clang!</i>",
             "nextBlock": 39,
             "origClipLength": 60,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -5448319641245248179
-                },
                 {
                     "origLen": 71,
                     "pathId": 1420739752691800970
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -5448319641245248179
                 }
             ],
             "pathId": -4591616459089550862,
@@ -750,17 +827,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "みんなー、そろったデスね？　クリスマスの\r\n夜に、バサッと、ズバッと、怪盗参上！",
-            "enText": "Everyone, we're all here, aren't we? On \nChristmas night, the thief arrives with a \nbang, bang, bang!",
+            "enText": "Is everyone here? Good! <i>Swish! Fwoosh!</i><n>Who's\nthat lurking in the festive<n>shadows?",
             "nextBlock": 40,
             "origClipLength": 97,
+            "voiceIdx": 91,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 128,
-                    "pathId": -5845938468991796367
-                },
                 {
                     "origLen": 138,
                     "pathId": 7012432545259506088
+                },
+                {
+                    "origLen": 128,
+                    "pathId": -5845938468991796367
                 }
             ],
             "pathId": -1865982818798496414,
@@ -770,17 +849,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "いい子には、この怪盗が、\r\nとびっきりのプレゼントでーす！",
-            "enText": "This thief is a gift for all the good kids!",
+            "enText": "It's the Snowfall Smuggler, delivering<n>the finest\npresents to all the good boys<n>and girls!",
             "nextBlock": 41,
             "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": 6561163289993328644
-                },
                 {
                     "origLen": 93,
                     "pathId": 6968633917949872981
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 6561163289993328644
                 }
             ],
             "pathId": 339628744343086677,
@@ -790,17 +871,19 @@
             "jpName": "男の子",
             "enName": "Boy",
             "jpText": "わぁ～、エルコンドルパサーだぁ！\r\nエルコンドルパサー！",
-            "enText": "Wow, it's El Condor Pacer! Elcon d'Orpasar!",
+            "enText": "Hey! It's El Condor Pasa! El Condor Pasa!",
             "nextBlock": 42,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 93,
-                    "pathId": -1769476410332176892
-                },
                 {
                     "origLen": 92,
                     "pathId": -3308636075838050673
+                },
+                {
+                    "origLen": 93,
+                    "pathId": -1769476410332176892
                 }
             ],
             "pathId": 1894514474478518102,
@@ -810,17 +893,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ち、違いますよ？　エルは怪盗で、\r\n決してエルコンドルパサーでは……！",
-            "enText": "No, no, no. Elle is a thief, \nnever El Condor Pacer. ……!",
+            "enText": "W-wait, no, I'm not! I'm the Snowfall<n>Smuggler,\nnot El Condor Pasa!",
             "nextBlock": 43,
             "origClipLength": 90,
+            "voiceIdx": 25,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 73,
-                    "pathId": -5002977146650813337
-                },
                 {
                     "origLen": 101,
                     "pathId": -4582380152476689052
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -5002977146650813337
                 }
             ],
             "pathId": 713104219485276034,
@@ -830,17 +915,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "さぁ、プレゼントを！",
-            "enText": "Come on, present!",
+            "enText": "Here's your present!",
             "nextBlock": 44,
             "origClipLength": 58,
+            "voiceIdx": 90,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -6491751174834446079
-                },
                 {
                     "origLen": 69,
                     "pathId": -6381336862603611050
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -6491751174834446079
                 }
             ],
             "pathId": 1734053983172613971,
@@ -850,17 +937,19 @@
             "jpName": "女の子",
             "enName": "Girl",
             "jpText": "プレゼントより握手して握手ー！\r\nあと、抱っこー♪",
-            "enText": "More than presents, handshakes, \nhandshakes! And hugs!",
+            "enText": "Forget the present! I wanna shake your<n>hand! And\na hug! ♪",
             "nextBlock": 45,
             "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 5416178182757646420
-                },
                 {
                     "origLen": 88,
                     "pathId": -6269144066161907110
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 5416178182757646420
                 }
             ],
             "pathId": 1505153169620565192,
@@ -870,17 +959,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ちょちょちょっ、これは予想外の展開っ！\r\n順番デス順番！",
-            "enText": "Wait, wait, this is an unexpected turn of \nevents! Order of death, order of death!",
+            "enText": "Wait, wait, wait! This isn't what I was<n>expecting!\nLine up, please!",
             "nextBlock": 46,
             "origClipLength": 81,
+            "voiceIdx": 36,
+            "voiceSheetId": "051014001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": -8137630433545812709
-                },
                 {
                     "origLen": 92,
                     "pathId": 23250509497247531
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8137630433545812709
                 }
             ],
             "pathId": 6030037071546584652,
@@ -890,17 +981,19 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "あやややや～っ！",
-            "enText": "Ayayayayayay～!",
+            "enText": "Aaaghhh!",
             "nextBlock": 47,
             "origClipLength": 55,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 66,
-                    "pathId": 3085077180562250526
+                    "pathId": 1212063555364132371
                 },
                 {
                     "origLen": 66,
-                    "pathId": 1212063555364132371
+                    "pathId": 3085077180562250526
                 }
             ],
             "pathId": -2912575257813606220,
@@ -910,12 +1003,13 @@
             "jpName": "",
             "enName": "",
             "jpText": "子どもにもみくちゃにされる\r\nエルコンドルパサー。\n物をあげるより、よほど喜ばれたようだ。",
-            "enText": "El Condor Pasa being squirmed by a child. It \nseemed to be much more appreciated than \ngiving things away.",
+            "enText": "El Condor Pasa is swarmed by children.<n>They seem\nmuch happier to see her than<n>to be getting gifts.",
             "nextBlock": -1,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 5162834555060254020,
             "blockIdx": 47
         }
-    ],
-    "modified": 1657555055
+    ]
 }

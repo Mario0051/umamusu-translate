@@ -1,32 +1,35 @@
 {
-    "version": 5,
-    "bundle": "AD3HQKTWKZESKVYOFA2MCU5SXJQC3IVD",
+    "version": 6,
+    "bundle": "ZJ2MRJMWF3QMVOIVVRX4R4LP5ZI63R54",
     "type": "story",
     "storyId": "501007729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "うわあーっ！\nアイツ、溶岩の海に落ちちまった～！！",
-            "enText": "Oh, my God! She fell into the sea of lava!",
+            "enText": "Nooo! That one fell into a sea of lava!",
             "nextBlock": 2,
             "origClipLength": 77,
+            "voiceIdx": 104,
+            "voiceSheetId": "051007001",
             "choices": [
                 {
                     "jpText": "え、そんな設定だっけ！？",
-                    "enText": "Oh, I didn't know it was set up that way!",
+                    "enText": "I didn't know the stakes were that high!",
                     "nextBlock": 2
                 }
             ],
             "animData": [
                 {
                     "origLen": 89,
-                    "pathId": -4955505447220954409
+                    "pathId": -2898403102915236499
                 },
                 {
                     "origLen": 89,
-                    "pathId": -2898403102915236499
+                    "pathId": -4955505447220954409
                 }
             ],
             "pathId": -429316717877644873,
@@ -36,13 +39,15 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "見ろよ……アイツの顔……。\n最後まで平然としてやがる……。",
-            "enText": "Look…… her face…… She's so calm to the end. ……",
+            "enText": "Did you see her face? So stoic, up until<n>the very\nend...",
             "nextBlock": 3,
             "origClipLength": 82,
+            "voiceIdx": 22,
+            "voiceSheetId": "051007001",
             "choices": [
                 {
                     "jpText": "まあ、ぬいぐるみだし……",
-                    "enText": "Well, it's a stuffed animal: ……",
+                    "enText": "Well, it is a plushie...",
                     "nextBlock": 3
                 }
             ],
@@ -52,12 +57,12 @@
                     "pathId": -5687058029870225751
                 },
                 {
-                    "origLen": 90,
-                    "pathId": 4178767431331948106
-                },
-                {
                     "origLen": 109,
                     "pathId": 2442780542318958356
+                },
+                {
+                    "origLen": 90,
+                    "pathId": 4178767431331948106
                 }
             ],
             "pathId": -8772593272170497339,
@@ -67,21 +72,23 @@
             "jpName": "ゴールドシップ",
             "enName": "Gold Ship",
             "jpText": "へへ……。生き残ったアタシたちだけでも、\n強く生きような……。",
-            "enText": "Hehe.…… Let's stay strong, even if it's just \nthe surviving Atasci. ……",
+            "enText": "Hehe... The rest of us survivors will just<n>have to\nendure and live on...",
             "nextBlock": 4,
             "origClipLength": 85,
+            "voiceIdx": 14,
+            "voiceSheetId": "051007001",
             "animData": [
                 {
                     "origLen": 16,
                     "pathId": 8570454297776246900
                 },
                 {
-                    "origLen": 80,
-                    "pathId": 5232763828358019909
-                },
-                {
                     "origLen": 108,
                     "pathId": -2053582960403367001
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 5232763828358019909
                 }
             ],
             "pathId": 5241879447057810504,
@@ -91,22 +98,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "The disappointing results can be found at ……",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 80,
-                    "pathId": 4146713322836720285
-                },
                 {
                     "origLen": 89,
                     "pathId": 2743004009131375697
+                },
+                {
+                    "origLen": 80,
+                    "pathId": 4146713322836720285
                 }
             ],
             "pathId": -6207122830296205692,
             "blockIdx": 4
         }
-    ],
-    "modified": 1657555055
+    ]
 }

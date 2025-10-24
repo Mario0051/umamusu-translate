@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "DIALY26WS46CO32OJDEDT32UERGRYQSF",
+    "version": 6,
+    "bundle": "GEHYWCGPIL27HQA2YLUFSTY57BLY34G4",
     "type": "story",
     "storyId": "501030522",
     "title": "お肌の調子が……",
+    "enTitle": "Skin Troubles",
     "text": [
         {
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "うぅ～ん……これで隠れてるかなぁ……。",
-            "enText": "Hmmm… I wonder if this is hiding…",
+            "enText": "Hmm... Maybe I can hide it with this...",
             "nextBlock": 2,
+            "origClipLength": 57,
+            "voiceIdx": 34,
+            "voiceSheetId": "051030001",
             "pathId": -6531711535120731703,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "トレーナー室に行くと、なにやら前髪を\r\nいじっているライスシャワーがいた。",
-            "enText": "When I got to the trainer's office, I found \nRice Shower tweaking her bangs.",
+            "enText": "Rice Shower is in my office fiddling with<n>her\nbangs.",
             "nextBlock": 3,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2889712240312431366,
             "blockIdx": 2
         },
@@ -27,8 +34,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あっ、お兄さま……これは……その……。",
-            "enText": "Oh, brother… this is… that…",
+            "enText": "O-oh, Big Brother... I'm just... um...",
             "nextBlock": 4,
+            "origClipLength": 57,
+            "voiceIdx": 25,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 123,
+                    "pathId": 2558614795446230936
+                },
+                {
+                    "origLen": 164,
+                    "pathId": -7606109714570609036
+                }
+            ],
             "pathId": -9018716708490339991,
             "blockIdx": 3
         },
@@ -36,8 +56,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あっ、お姉さま……これは……その……。",
-            "enText": "Oh, sister… this is … that…",
+            "enText": "O-oh, Big Sister... I'm just... um...",
             "nextBlock": 5,
+            "origClipLength": 57,
+            "voiceIdx": 25,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 130,
+                    "pathId": 9137648514016522916
+                },
+                {
+                    "origLen": 175,
+                    "pathId": 3104791689760795610
+                }
+            ],
             "pathId": 6277419485216512983,
             "blockIdx": 4
         },
@@ -45,13 +78,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "おでこにできものがあって……前髪で\r\n隠そうと……これ、隠れてるかなぁ……？",
-            "enText": "I had a boil on my forehead… I tried to hide \nit with my bangs… I wonder if it's hidden…?",
+            "enText": "I'm breaking out on my forehead, so I<n>thought...\nmaybe I could cover it with my<n>bangs.",
             "nextBlock": 6,
+            "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "大丈夫、見えないよ",
-                    "enText": "It's okay. I can't see.",
+                    "enText": "Don't worry. You can't even tell.",
                     "nextBlock": 6
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 4440279665000673644
+                },
+                {
+                    "origLen": 52,
+                    "pathId": 4958062626869786102
                 }
             ],
             "pathId": 2398674919204849614,
@@ -61,8 +107,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "お兄さまがそういうなら……。",
-            "enText": "If that's what your brother \nsays, please visit…",
+            "enText": "If you say so...",
             "nextBlock": 7,
+            "origClipLength": 54,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -3064517829750112034
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 1905921484597419448
+                }
+            ],
             "pathId": 7665628553393680021,
             "blockIdx": 6
         },
@@ -70,8 +129,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "お姉さまがそういうなら……。",
-            "enText": "If your sister says so, please go to…",
+            "enText": "If you say so...",
             "nextBlock": 8,
+            "origClipLength": 54,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": 5129670651255924808
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 3922291496352634646
+                }
+            ],
             "pathId": 2931324879117371172,
             "blockIdx": 7
         },
@@ -79,8 +151,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "納得はしてくれたが、ライスシャワーは\r\n肌荒れを気にしているようだった。",
-            "enText": "She was convinced, but Rice Shower \nseemed to be bothering her skin.",
+            "enText": "Despite that, her skin still seems to be<n>bothering\nher.",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 79,
+                    "pathId": 981316767904981197
+                },
+                {
+                    "origLen": 79,
+                    "pathId": -2106666442303397663
+                }
+            ],
             "pathId": 3696866445451291005,
             "blockIdx": 8
         }

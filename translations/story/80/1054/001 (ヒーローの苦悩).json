@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "7QX3AKQPJO2NPCKVQZ2ICTLLDOPPDXWB",
+    "version": 6,
+    "bundle": "NMHDOXAAXX3J37SLKTZMBPF5RCWLXJZF",
     "type": "story",
     "storyId": "801054001",
     "title": "ヒーローの苦悩",
+    "enTitle": "A Hero's Woes",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "ある日、広場を通りかかると……。",
-            "enText": "One day, as I was passing through \nthe square, I saw…",
+            "enText": "One day, as I'm walking by the plaza...",
             "nextBlock": 2,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4462826369054183995,
             "blockIdx": 1
         },
@@ -18,13 +22,26 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "おい、そこのオマエ！\r\nこの辺で怪人とか見てないか？",
-            "enText": "Hey, you there! Have you seen \nany monsters around here?",
+            "enText": "Halt, citizen! Have you seen any scary<n>bad guys\naround here?",
             "nextBlock": 3,
+            "origClipLength": 78,
+            "voiceIdx": 53,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "怪人……？",
-                    "enText": "The Monster…?",
+                    "enText": "Uh... bad guys?",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 7706851355921732881
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -2752347646351158952
                 }
             ],
             "pathId": -5454258181009950296,
@@ -34,8 +51,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "……その反応だと、見てないよなぁ。\r\nそうだよなー平和だしなー……はぁ。",
-            "enText": "… With that reaction, you haven't seen it, \nhave you? I know - it's peaceful… Haha.",
+            "enText": "I'll... take that as a no. So another<n>peaceful day...\n<i>Sigh...</i>",
             "nextBlock": 4,
+            "origClipLength": 91,
+            "voiceIdx": 17,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 1528536395385075398
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -7167038352628925902
+                }
+            ],
             "pathId": -3659211957698819560,
             "blockIdx": 3
         },
@@ -43,8 +73,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "聞いてくれ！　アタシは今、\r\nヒーローとしての悩みに苦しんでいる！",
-            "enText": "Listen to me! I'm struggling with the \nproblems of being a hero!",
+            "enText": "Hear me out! I'm suffering the worst<n>woes a hero\ncould feel right now!",
             "nextBlock": 5,
+            "origClipLength": 88,
+            "voiceIdx": 35,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -738293272689088276
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 8385739678132533822
+                }
+            ],
             "pathId": 4158508450304680876,
             "blockIdx": 4
         },
@@ -52,8 +95,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "もちろん、平和を愛しているし、\r\n心の底から望んでいる……。",
-            "enText": "Of course, I love peace and I want it from \nthe bottom of my heart…",
+            "enText": "I love peace, and of course I wish for it<n>from the\nbottom of my heart...",
             "nextBlock": 6,
+            "origClipLength": 84,
+            "voiceIdx": 47,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 5885200463851720054
+                },
+                {
+                    "origLen": 72,
+                    "pathId": -7381266024901298258
+                }
+            ],
             "pathId": -1054483798881337427,
             "blockIdx": 5
         },
@@ -61,8 +117,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "――だけど！　怪人とも戦いたい……！\r\nカッコよく必殺技を叫びたい！",
-            "enText": "—but! I want to fight monsters too…! I want \nto shout cool special moves!",
+            "enText": "But I also really, <i>really</i> want to fight<n>against some\nbaddies! I wanna fight<n>them and shout out my\nspecial moves<n>while I'm at it!",
             "nextBlock": 7,
+            "origClipLength": 89,
+            "voiceIdx": 4,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 3475680139464621589
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 4401956317883916370
+                }
+            ],
             "pathId": 6049040720976990407,
             "blockIdx": 6
         },
@@ -70,18 +139,31 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "ヒーローとして戦いたいんだよー！",
-            "enText": "I want to fight like a hero!",
+            "enText": "I wanna have epic battles like a real<n>hero!",
             "nextBlock": 8,
+            "origClipLength": 73,
+            "voiceIdx": 23,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "力は温存しとかないと",
-                    "enText": "We need to conserve our strength.",
+                    "enText": "You'll need to preserve your strength, then.",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "今のうちに鍛えておこう！",
-                    "enText": "Let's work out while we still can!",
+                    "enText": "Now's your chance to train!",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -459447541132561255
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -6524245804912738291
                 }
             ],
             "pathId": 3717064939981668706,
@@ -91,8 +173,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "えーそれが嫌だから悩んでるんだよー。",
-            "enText": "Eh, I don't like that, that's \nwhy I'm worried!",
+            "enText": "Awww, what? But my problem is that I<n><i>don't</i>\nwanna do that...",
             "nextBlock": 9,
+            "origClipLength": 68,
+            "voiceIdx": 51,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -8287203733534223210
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -2760732850473429181
+                }
+            ],
             "pathId": -6936377583169806018,
             "blockIdx": 8
         },
@@ -100,13 +195,26 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "アタシは、キャロットマンみたいに\r\nカッコよく戦いたいんだよー！",
-            "enText": "I want to fight like a carrot man!",
+            "enText": "I wanna look cool fighting, just like<n>Carrot\nRanger!",
             "nextBlock": 10,
+            "origClipLength": 86,
+            "voiceIdx": 19,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "キャロットマンはいつも戦ってる？",
-                    "enText": "Is the carrot man always fighting?",
+                    "enText": "And is Carrot Ranger always fighting baddies?",
                     "nextBlock": 10
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 2958101837810162172
+                },
+                {
+                    "origLen": 43,
+                    "pathId": -6303444999434894790
                 }
             ],
             "pathId": 5114429737355116491,
@@ -116,8 +224,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "そんなわけないだろ、変身中はパワーを\r\n使っちゃうから、いつもはウマ娘の姿で――",
-            "enText": "No, of course not, she uses all her powers \nwhen she's transforming, so she usually \nlooks like a horse girl.",
+            "enText": "Of course not. She'd use up all her<n>energy if she\nwas in hero mode all the<n>time, so she's normally in\nher<n>Umamusume form to—",
             "nextBlock": 11,
+            "origClipLength": 97,
+            "voiceIdx": 60,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 2880925613175226696
+                },
+                {
+                    "origLen": 79,
+                    "pathId": 8542250986187481358
+                }
+            ],
             "pathId": -3537965863172443737,
             "blockIdx": 10
         },
@@ -125,8 +246,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "……あ、そっか！",
-            "enText": "… Oh, I see!",
+            "enText": "Oh!",
             "nextBlock": 12,
+            "origClipLength": 55,
+            "voiceIdx": 31,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 1604916390573175466
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -3397317676732080533
+                }
+            ],
             "pathId": -8317820797874463419,
             "blockIdx": 11
         },
@@ -134,8 +268,25 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "力を温存しとくってのも\r\nヒーローにとっては大事なのかー。",
-            "enText": "So it's important for a hero \nto save her strength?",
+            "enText": "I guess it's pretty important for a hero to<n>preserve\nher strength too, huh!",
             "nextBlock": 13,
+            "origClipLength": 82,
+            "voiceIdx": 9,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 30,
+                    "pathId": -6150568155009490109
+                },
+                {
+                    "origLen": 118,
+                    "pathId": -7928554836630521979
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2455817749461622212
+                }
+            ],
             "pathId": 4339328454887972086,
             "blockIdx": 12
         },
@@ -143,8 +294,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "なんか勉強になったよ、ありがとなっ！",
-            "enText": "I've learnt something, thank you!",
+            "enText": "Thank you, citizen, for teaching me such<n>a\nvaluable lesson!",
             "nextBlock": -1,
+            "origClipLength": 68,
+            "voiceIdx": 13,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -2875210982847768336
+                },
+                {
+                    "origLen": 51,
+                    "pathId": 4743741458002332472
+                }
+            ],
             "pathId": -1951543113278396646,
             "blockIdx": 13
         },
@@ -152,8 +316,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "戦いに備えるってことか……？",
-            "enText": "Does that mean you're ready for battle…?",
+            "enText": "So you're saying I should prepare for<n>future\nbattles?",
             "nextBlock": 15,
+            "origClipLength": 63,
+            "voiceIdx": 34,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -2128186868903508961
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 7189459680211821593
+                }
+            ],
             "pathId": 8571761927479728225,
             "blockIdx": 14
         },
@@ -161,8 +338,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "うおぉぉぉーー！　なんか、カッコイイ！\r\nそれって修行するって事だろ？",
-            "enText": "Oooohhh! That's kind of cool! That means \nyou're going to train, right?",
+            "enText": "Raaaah! Yeah! That sounds so cool! In<n>order to\nprepare for battles, I've gotta<n>do some serious\ntraining!",
             "nextBlock": 16,
+            "origClipLength": 90,
+            "voiceIdx": 31,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -8556442492602638798
+                },
+                {
+                    "origLen": 76,
+                    "pathId": -8550532128254177855
+                }
+            ],
             "pathId": 5303314647769457058,
             "blockIdx": 15
         },
@@ -170,13 +360,26 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "崖から転がるタイヤを避けたり！\r\nおやっさんの乗る車とかけっこしたり！",
-            "enText": "Avoid the tyres that roll off the cliff! \nRunning against your father's car!",
+            "enText": "Like dodging tires careening down a<n>cliff! Or\nchasing after Pop's car!",
             "nextBlock": 17,
+            "origClipLength": 90,
+            "voiceIdx": 3,
+            "voiceSheetId": "051054001",
             "choices": [
                 {
                     "jpText": "よい子はマネしてはいけません",
-                    "enText": "Don't try this!",
+                    "enText": "Don't try this at home, kids.",
                     "nextBlock": 17
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": -7068979725103878338
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 2142471308548100350
                 }
             ],
             "pathId": -1150552577010062266,
@@ -186,8 +389,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "大丈夫、そこまではやらないって。\r\nキャロットマンも『やるな』って言ってたし！",
-            "enText": "Don't worry, she said she wouldn't go that \nfar. Even the carrot man said 'don't do it'!",
+            "enText": "Relax, I won't go to such extreme<n>lengths.\nEspecially since Carrot Ranger<n>says not to do\nanything dangerous<n>either!",
             "nextBlock": 18,
+            "origClipLength": 95,
+            "voiceIdx": 0,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 2886031618023076511
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -65154760329237782
+                }
+            ],
             "pathId": -7919316398202379841,
             "blockIdx": 17
         },
@@ -195,8 +411,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "よーし！　こんなちっぽけな悩みで\r\nうじうじしてる場合じゃないな！",
-            "enText": "All right! This is no time to dwell \non petty concerns like this!",
+            "enText": "All right! I don't have time to be<n>worrying over\nsomething so silly!",
             "nextBlock": 19,
+            "origClipLength": 88,
+            "voiceIdx": 10,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 3000952972501169979
+                },
+                {
+                    "origLen": 70,
+                    "pathId": 4177830215701548676
+                }
+            ],
             "pathId": -2996237863234749291,
             "blockIdx": 18
         },
@@ -204,8 +433,21 @@
             "jpName": "ビコーペガサス",
             "enName": "Biko Pegasus",
             "jpText": "いつ悪者が出てもいいように修行しないと！\r\nいろいろ、ありがと！",
-            "enText": "I've got to train myself so I'm always ready \nfor the bad guys! Thank you for everything!",
+            "enText": "I've gotta train so that I'm ready to take<n>on any\nwrongdoer that appears! Thanks<n>for everything!",
             "nextBlock": -1,
+            "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051054001",
+            "animData": [
+                {
+                    "origLen": 118,
+                    "pathId": 8141045643010714141
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -480857248165208351
+                }
+            ],
             "pathId": 1433406139843005636,
             "blockIdx": 19
         }

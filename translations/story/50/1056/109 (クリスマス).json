@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "U4JKYFHYIYLVWGO5TGMJPTQBQ6YPFM7N",
+    "version": 6,
+    "bundle": "6D54BJV7MMV6CSN7VB3LSMI2Q7GNHWVE",
     "type": "story",
     "storyId": "501056109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "年に1度のクリスマス。街道を風のように\r\n切りさいて、やってくる。……アレが。",
-            "enText": "Once a year, Christmas comes. It \ncomes, cutting through the streets \nlike the wind.…… that thing.",
+            "enText": "The holiday season is upon us once<n>again. It\ncomes and goes faster than a<n>runner in the\nSatsuki Sho...",
             "nextBlock": 2,
             "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7421803486212155383,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "んがっ！　誰ですか『煙突から入れ』とか\r\n無茶振りしたのは。せまい～～～！",
-            "enText": "Damn it! Who made the reckless request to \"go \nin through the chimney\"? It's so narrow～～～!",
+            "enText": "Argh! Who ever suggested that I should<n>come\nthrough the chimney? It's narrow<n>beyond belief!",
             "nextBlock": 3,
             "origClipLength": 69,
+            "voiceIdx": 25,
+            "voiceSheetId": "051056001",
             "pathId": -7461850965101602623,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "げっ、袋がつっかえた。こうなったら\r\nちょっとぐらい無理してでもっ！",
-            "enText": "The bag is stuck. I'm going to have to push a \nlittle harder than I thought!",
+            "enText": "Ugh, my bag's all caught up. This calls<n>for a bit of\npushing to make things right!",
             "nextBlock": 4,
             "origClipLength": 67,
+            "voiceIdx": 31,
+            "voiceSheetId": "051056001",
             "pathId": -4272662563728243866,
             "blockIdx": 3
         },
@@ -39,13 +46,15 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "破れたー！　でも抜けたー！",
-            "enText": "It ripped! But I'm out!",
+            "enText": "Ack, I've ripped it! But at least it's loose!",
             "nextBlock": 5,
             "origClipLength": 53,
+            "voiceIdx": 6,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "泥棒！？",
-                    "enText": "Thief!",
+                    "enText": "Burglar?!",
                     "nextBlock": 5
                 }
             ],
@@ -56,17 +65,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "うひょひょひょ、そうとも！\r\n金目のものを……。",
-            "enText": "Woo hoo hoo hoo, yeah right! \nYou can find the gold at ……",
+            "enText": "Hyuck hyuck, indeed I am! Now, hand<n>over yer\ngold!",
             "nextBlock": 6,
             "origClipLength": 65,
+            "voiceIdx": 45,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 6737809014077820898
-                },
                 {
                     "origLen": 92,
                     "pathId": 5911250447131414434
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 6737809014077820898
                 }
             ],
             "pathId": 3339967561936042072,
@@ -76,17 +87,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "って、なんでですか？　今日はクリスマス\r\nですよ？　なにを隠そう私は……。",
-            "enText": "Why? It's Christmas today. \nWhat am I hiding? I am ……",
+            "enText": "...Hold up. It's the holidays, right? No<n>point in\nhiding it now...",
             "nextBlock": 7,
             "origClipLength": 69,
+            "voiceIdx": 19,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 31,
-                    "pathId": 4658961379051528460
-                },
                 {
                     "origLen": 80,
                     "pathId": -8989146454208842606
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 4658961379051528460
                 }
             ],
             "pathId": -4812998464219148229,
@@ -96,24 +109,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "オマチカネ・サンタキタルでーす！\r\nよい子にプレゼントを届けにきましたー！",
-            "enText": "This is Omachikane Santa Kitaru! I've come to \nbring presents to good children!",
+            "enText": "I'm Mati-santa Fuku-claus! I'm here to<n>give\npresents to all the good boys and<n>girls!",
             "nextBlock": 8,
             "origClipLength": 103,
+            "voiceIdx": 62,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "ごめん。名前をもう1回",
-                    "enText": "Sorry. One more time with the name.",
+                    "enText": "I'm sorry. Can you say your name again?",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 103,
-                    "pathId": 4815733976525838339
-                },
-                {
                     "origLen": 115,
                     "pathId": 1334748319939405421
+                },
+                {
+                    "origLen": 103,
+                    "pathId": 4815733976525838339
                 }
             ],
             "pathId": -8371107606853167966,
@@ -123,17 +138,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "むがっ！　それはきついですよ～。なんか\r\n滑ったみたいになってるじゃないですか～。",
-            "enText": "Mugg! That's tough～! It's \nlike you slipped somehow!",
+            "enText": "Oof! Please, could I not? It's not like I<n>didn't say it\nright the first time...",
             "nextBlock": 9,
             "origClipLength": 71,
+            "voiceIdx": 18,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 837640980579582623
-                },
                 {
                     "origLen": 82,
                     "pathId": 9173434167641878859
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 837640980579582623
                 }
             ],
             "pathId": -2238421704261521336,
@@ -143,17 +160,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "さ、それよりプレゼントです。袋に手を\r\n入れて、好きなのを引いてください。",
-            "enText": "Now, here are the presents. Please put your \nhand in the bag and pull the one you like.",
+            "enText": "A-anyway, I have a present for you. Put<n>your hand\nin the bag and pull out<n>whatever you like.",
             "nextBlock": 10,
             "origClipLength": 69,
+            "voiceIdx": 3,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 43,
-                    "pathId": 4720756714865949254
-                },
                 {
                     "origLen": 80,
                     "pathId": -1638330813090850256
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 4720756714865949254
                 }
             ],
             "pathId": 634744512245679842,
@@ -163,17 +182,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "私のプレゼントは、くじ引き形式！\r\n出たものを差し上げますよ～？",
-            "enText": "My gift is a raffle! I'll give you what I get!",
+            "enText": "I'm giving out presents, fortune-slip<n>style! I'll give\nyou whatever you pull out,<n>all right?",
             "nextBlock": 11,
             "origClipLength": 65,
+            "voiceIdx": 0,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 23,
-                    "pathId": -6664407771395263585
-                },
                 {
                     "origLen": 76,
                     "pathId": -2399473842959581409
+                },
+                {
+                    "origLen": 23,
+                    "pathId": -6664407771395263585
                 }
             ],
             "pathId": -2914757766060952847,
@@ -183,17 +204,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "中に手を入れて、適当に引いてみると……。",
-            "enText": "If you put your hand inside and pull it in \nthe right direction, you'll find ……",
+            "enText": "I put my hand in and grab the first thing<n>I touch...",
             "nextBlock": 12,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 69,
-                    "pathId": 735956419155033788
+                    "pathId": 6421362053399404137
                 },
                 {
                     "origLen": 69,
-                    "pathId": 6421362053399404137
+                    "pathId": 735956419155033788
                 }
             ],
             "pathId": 7067387881266658932,
@@ -203,24 +226,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "おお、その紙は……！　大吉～！！\r\nおめでとうございます、大吉の人には\nその紙をまんまプレゼント！",
-            "enText": "Oh, that paper is ……! Daikichi～! \nCongratulations, you are the one with the \ngreat luck! That paper is a gift as it is!",
+            "enText": "Let's take a look... Great fortune!<n>\nCongratulations! Pulling great fortune is<n>a gift in\nitself!",
             "nextBlock": 13,
             "origClipLength": 76,
+            "voiceIdx": 8,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "…………",
-                    "enText": "………",
+                    "enText": "...",
                     "nextBlock": 13
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": -256221603065548544
-                },
-                {
                     "origLen": 87,
                     "pathId": -7438019055494769467
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -256221603065548544
                 }
             ],
             "pathId": 4785697509593265416,
@@ -230,17 +255,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "あやや、不服ですか？　しかたない\r\nですねぇ。では、これを差し上げましょう。",
-            "enText": "Aya, are you dissatisfied? I can't help it. \nThen, let me give you this.",
+            "enText": "Oh, are you not happy? Guess I'll have<n>to make\nthis right. Here, take this!",
             "nextBlock": 14,
             "origClipLength": 69,
+            "voiceIdx": 15,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 9011651302658841666
-                },
                 {
                     "origLen": 80,
                     "pathId": 3013827542637542646
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 9011651302658841666
                 }
             ],
             "pathId": -4838881798718898327,
@@ -250,17 +277,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "じゃじゃーん、箱の中身は、樹齢千年の\r\nクリスマスツリー（ミニチュア）です！",
-            "enText": "Ta-da! What's inside the box is a miniature \nChristmas tree that is 1,000 years old!",
+            "enText": "Ta-dah! Inside the box is a festive tree<n>that's a\nthousand years old! A plastic<n>replica of it,\nanyway.",
             "nextBlock": 15,
             "origClipLength": 69,
+            "voiceIdx": 27,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 60,
-                    "pathId": 2677473151913674183
-                },
                 {
                     "origLen": 80,
                     "pathId": 1849519314487881810
+                },
+                {
+                    "origLen": 60,
+                    "pathId": 2677473151913674183
                 }
             ],
             "pathId": 132888028150904505,
@@ -270,17 +299,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "これはいいものですよ。\r\nさあ、開けてみてください！",
-            "enText": "This is a good one. Go ahead, open it up!",
+            "enText": "It's a good prize. Go on, open it!",
             "nextBlock": 16,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 44,
-                    "pathId": -6826909909830955000
-                },
                 {
                     "origLen": 72,
                     "pathId": -7857582010516957197
+                },
+                {
+                    "origLen": 44,
+                    "pathId": -6826909909830955000
                 }
             ],
             "pathId": 4680866034882940670,
@@ -290,17 +321,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ラッピングをはがし、箱を開けてみると……。",
-            "enText": "Peel off the wrapping and open the box at ……",
+            "enText": "I unwrap my present and open the box...",
             "nextBlock": 17,
             "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 69,
-                    "pathId": 8992709089315882243
+                    "pathId": 830248301046325772
                 },
                 {
                     "origLen": 69,
-                    "pathId": 830248301046325772
+                    "pathId": 8992709089315882243
                 }
             ],
             "pathId": 2671414521050384136,
@@ -310,17 +343,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "って、あらら！？　頭の星がぁぁぁ！",
-            "enText": "And, oh my! The stars in my head ah!",
+            "enText": "Wait, nooo! The star at the top of the<n>treeeee!",
             "nextBlock": 18,
             "origClipLength": 56,
+            "voiceIdx": 17,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 21,
-                    "pathId": -7626185681134344748
-                },
                 {
                     "origLen": 67,
                     "pathId": 1701093463659756051
+                },
+                {
+                    "origLen": 21,
+                    "pathId": -7626185681134344748
                 }
             ],
             "pathId": -6613207302306309260,
@@ -330,17 +365,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "飾りがポッキリと折れていた。どうやら\r\nさっき引っかけた時に折れたようだ。",
-            "enText": "The ornament was snapped off. Apparently, it \nbroke when it was caught earlier.",
+            "enText": "The star has snapped right off. It<n>probably broke\nwhen she snagged it<n>inside the chimney.",
             "nextBlock": 19,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 80,
-                    "pathId": 8569586081544577951
+                    "pathId": 5896141177623912980
                 },
                 {
                     "origLen": 80,
-                    "pathId": 5896141177623912980
+                    "pathId": 8569586081544577951
                 }
             ],
             "pathId": 7652346763295034395,
@@ -350,17 +387,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ううう、すみません～。\r\nとんだドジサンタで……。",
-            "enText": "Ugh, sorry～. I'm a terrible dodgy Santa. ……",
+            "enText": "Uuugh, I can only apologize... What sort<n>of\nMati-santa am I...",
             "nextBlock": 20,
             "origClipLength": 61,
+            "voiceIdx": 22,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 27,
-                    "pathId": 7358581063328647684
-                },
                 {
                     "origLen": 72,
                     "pathId": -6516990045059021096
+                },
+                {
+                    "origLen": 27,
+                    "pathId": 7358581063328647684
                 }
             ],
             "pathId": 6434381720737446587,
@@ -370,17 +409,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "あのートレーナーさん。\r\nちょっと外へお付き合いを……。",
-            "enText": "Um, Ms. Trainer. I'd like to take you outside \nfor a minute. ……",
+            "enText": "Um, Trainer. Could you come outside<n>with me for\na moment?",
             "nextBlock": 21,
             "origClipLength": 63,
+            "voiceIdx": 57,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": -3046959624492304235
-                },
                 {
                     "origLen": 74,
                     "pathId": -1513520420627413927
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -3046959624492304235
                 }
             ],
             "pathId": -5704866723919975128,
@@ -390,17 +431,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "すみません～。文房具屋さん、\r\nノリとテープくださいー。",
-            "enText": "Excuse me. Stationer, I \nneed some glue and tape.",
+            "enText": "Excuse me! Can I get some glue and<n>tape, please?",
             "nextBlock": 22,
             "origClipLength": 63,
+            "voiceIdx": 43,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 129,
-                    "pathId": 6347898151173773836
-                },
                 {
                     "origLen": 113,
                     "pathId": 7484013076069955439
+                },
+                {
+                    "origLen": 129,
+                    "pathId": 6347898151173773836
                 }
             ],
             "pathId": 8389128564801663377,
@@ -410,17 +453,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "修復するので、しばしお待ちを。\r\nううう、なんともお恥ずかしい……。",
-            "enText": "We will repair it, so please wait a moment. \nUgh, how embarrassing. ……",
+            "enText": "Just give me a moment—I'll fix this right<n>up.\nUuugh, this is so embarrassing...",
             "nextBlock": 23,
             "origClipLength": 67,
+            "voiceIdx": 18,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 7523741591695472217
-                },
                 {
                     "origLen": 78,
                     "pathId": 1232964878571256141
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 7523741591695472217
                 }
             ],
             "pathId": -6010784956038782317,
@@ -430,29 +475,31 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "本当は、もっと聖なる感じで\r\n祝いたかったんですけど。情けなや……。",
-            "enText": "I really wanted to celebrate \nin a more holy way. Pity. ……",
+            "enText": "I really wanted today's celebrations to<n>be a little\nmore holy-feeling. This is so<n>pathetic...",
             "nextBlock": 24,
             "origClipLength": 67,
+            "voiceIdx": 24,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "別にいいよ",
-                    "enText": "I don't mind.",
+                    "enText": "I don't mind at all.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "気にしてないから",
-                    "enText": "I don't care.",
+                    "enText": "I don't mind at all.",
                     "nextBlock": 24
                 }
             ],
             "animData": [
                 {
-                    "origLen": 58,
-                    "pathId": -7427922521728465125
-                },
-                {
                     "origLen": 78,
                     "pathId": 2274610652257168089
+                },
+                {
+                    "origLen": 58,
+                    "pathId": -7427922521728465125
                 }
             ],
             "pathId": 3946506573363744772,
@@ -462,17 +509,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさん……！\r\nジーン、なんとお優しい！",
-            "enText": "Your trainer: ……! Jean, how sweet of you!",
+            "enText": "Trainer! <i>Sniff...</i> You're so kind!",
             "nextBlock": 25,
             "origClipLength": 60,
+            "voiceIdx": 22,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 33,
-                    "pathId": 2184014939106322076
-                },
                 {
                     "origLen": 71,
                     "pathId": 6741042727585012981
+                },
+                {
+                    "origLen": 33,
+                    "pathId": 2184014939106322076
                 }
             ],
             "pathId": -4811452191815770165,
@@ -482,21 +531,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "お優しいついでに、もうひとつ……。\r\n帰ったら、星くっつけるの手伝って\nくれませんか？",
-            "enText": "While you're being nice, one more thing…… \nWhen I get home, can you help me put the \nstars together?",
+            "enText": "While you're being so kind, could I ask<n>you for\nanother favor? When we get<n>back, could you help\nme stick the star<n>back on?",
             "nextBlock": 26,
             "origClipLength": 73,
+            "voiceIdx": 54,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 119,
                     "pathId": 8180570616486585862
                 },
                 {
-                    "origLen": 36,
-                    "pathId": 46199590120187423
-                },
-                {
                     "origLen": 84,
                     "pathId": -7367413268424228786
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 46199590120187423
                 }
             ],
             "pathId": 6323567249445472899,
@@ -506,21 +557,23 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ケーキ食べた後でいいので。\r\nえへへへ……。",
-            "enText": "Just after I eat the cake. Ehehehehe ……",
+            "enText": "It can wait until after we've eaten our<n>holiday\ncake, though. Hehe.",
             "nextBlock": 27,
             "origClipLength": 59,
+            "voiceIdx": 4,
+            "voiceSheetId": "051056001",
             "animData": [
                 {
                     "origLen": 20,
                     "pathId": -8077105919864436112
                 },
                 {
-                    "origLen": 22,
-                    "pathId": 891910906500536618
-                },
-                {
                     "origLen": 70,
                     "pathId": 701010773796097010
+                },
+                {
+                    "origLen": 22,
+                    "pathId": 891910906500536618
                 }
             ],
             "pathId": -1863826926859541434,
@@ -530,17 +583,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "結局、なかよく工作しながら過ごした。\r\n妙にほのぼのしたクリスマスだった。",
-            "enText": "In the end, we spent the time together \ndoing crafts. It was a strangely \nheartwarming Christmas.",
+            "enText": "Despite the tribulations, we have fun<n>trying to\nmend the tree together.<n>Strangely enough, it's\nturned out to be a<n>pretty heartwarming holiday.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 111,
-                    "pathId": 2196785643362630071
+                    "pathId": 4831726596844468863
                 },
                 {
                     "origLen": 111,
-                    "pathId": 4831726596844468863
+                    "pathId": 2196785643362630071
                 }
             ],
             "pathId": 9076856962423233199,
@@ -550,17 +605,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "こうなったら奥の手です！　ほらっ、\r\nトレーナーさん、ツリーを空にかざして\nください。",
-            "enText": "Now we have to do it the other way around! \nHere, trainer, hold the tree up to the sky.",
+            "enText": "Okay, plan B! Time to pull out my secret<n>weapon!\nCome on, Trainer, lift the tree<n>high up into the\nsky!",
             "nextBlock": 29,
             "origClipLength": 73,
+            "voiceIdx": 11,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 156,
-                    "pathId": 7558403976588501401
-                },
                 {
                     "origLen": 123,
                     "pathId": 7555145651981830496
+                },
+                {
+                    "origLen": 156,
+                    "pathId": 7558403976588501401
                 }
             ],
             "pathId": 870049036821093373,
@@ -570,24 +627,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "リアルスターが付いてるように\r\n見えませんか？　なんてロマンチックな！",
-            "enText": "Doesn't it look like it has a real star on \nit? How romantic!",
+            "enText": "Doesn't it look like there's a real star on<n>top of it\nnow? How romantic is that!",
             "nextBlock": 30,
             "origClipLength": 67,
+            "voiceIdx": 8,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "ちゃんとした星がいいな",
-                    "enText": "I like a proper star.",
+                    "enText": "I want to have a proper star on top.",
                     "nextBlock": 30
                 }
             ],
             "animData": [
                 {
                     "origLen": 26,
-                    "pathId": 3201916982076201966
+                    "pathId": -1633393135176430083
                 },
                 {
                     "origLen": 26,
-                    "pathId": -1633393135176430083
+                    "pathId": 3201916982076201966
                 }
             ],
             "pathId": 7473665190424869137,
@@ -597,17 +656,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "ガーン！　リアルスター、ダメでしたか？\r\nないロマンスをふりしぼったんですけど。",
-            "enText": "Gah! Real stars, no? I tried to pretend to \nhave a romance that I didn't have.",
+            "enText": "Ack! My little illusion wasn't good<n>enough for\nyou? I thought I really turned<n>on the charm\nthere...",
             "nextBlock": 31,
             "origClipLength": 71,
+            "voiceIdx": 17,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -6793414754590082225
-                },
                 {
                     "origLen": 113,
                     "pathId": -1272779815342665367
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -6793414754590082225
                 }
             ],
             "pathId": 8837711099965209280,
@@ -617,24 +678,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "やっぱり取れちゃった星を付けなおした方が\r\nいいですかね。とほほ……。",
-            "enText": "I guess I should reapply the star that was \nremoved. I'm not sure. ……",
+            "enText": "I guess I'd better use the star that fell<n>off, huh?\n<i>Sigh...</i>",
             "nextBlock": 32,
             "origClipLength": 67,
+            "voiceIdx": 22,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "『有馬記念』の勝ち星を飾ろう",
-                    "enText": "Let's decorate \"Arima Kinen\" \nwith a winning star!",
+                    "enText": "Why don't you use the star that you'll win at the\nArima Kinen?",
                     "nextBlock": 32
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": -6670563071654199267
-                },
-                {
                     "origLen": 78,
                     "pathId": -3599051838381503670
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -6670563071654199267
                 }
             ],
             "pathId": 7303917005656915671,
@@ -644,17 +707,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "え……？　『有馬記念』のって……\r\nこれからやるレースのですか？",
-            "enText": "What? ……? Is the \"Arimakinen\"…… for the race \nyou are going to do?",
+            "enText": "Huh? The Arima Kinen? That's still<n>coming... up...",
             "nextBlock": 33,
             "origClipLength": 65,
+            "voiceIdx": 27,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -8533861900764456483
-                },
                 {
                     "origLen": 76,
                     "pathId": -1061079303582008195
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -8533861900764456483
                 }
             ],
             "pathId": 6660553536999137431,
@@ -664,24 +729,26 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "うわっ、その手が！　参りました。\r\nなんてカッコいい。おみそれしました～。",
-            "enText": "Wow, those hands! Here I come. How cool. \nOmisoshimashimashita～!",
+            "enText": "Ah, I see what you did there! That was<n>actually\npretty cool. Seems I'm no match<n>for you.",
             "nextBlock": 34,
             "origClipLength": 69,
+            "voiceIdx": 7,
+            "voiceSheetId": "051056001",
             "choices": [
                 {
                     "jpText": "……約束してくれる？",
-                    "enText": "…… Promise me?",
+                    "enText": "Promise me you'll get that star?",
                     "nextBlock": 34
                 }
             ],
             "animData": [
                 {
-                    "origLen": 51,
-                    "pathId": -5290231145406001885
-                },
-                {
                     "origLen": 80,
                     "pathId": -5739983226563652731
+                },
+                {
+                    "origLen": 51,
+                    "pathId": -5290231145406001885
                 }
             ],
             "pathId": 3601605312123143139,
@@ -691,17 +758,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "トレーナーさん……。は、はい……\r\nなんでも……。あの～……。",
-            "enText": "Trainer…… Ha, yes…… Anything…… Um - ……",
+            "enText": "Oh, Trainer... Y-yeah, I'll do it. By the<n>way...",
             "nextBlock": 35,
             "origClipLength": 65,
+            "voiceIdx": 34,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 39,
-                    "pathId": 4562519468481464990
-                },
                 {
                     "origLen": 76,
                     "pathId": -3039017489164544737
+                },
+                {
+                    "origLen": 39,
+                    "pathId": 4562519468481464990
                 }
             ],
             "pathId": 4085723005187758127,
@@ -711,17 +780,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "今日のトレーナーさん、キメキメですね。\r\n見てるとドキドキするというか……。",
-            "enText": "Today's trainer is so snazzy. \nI'm thrilled to see it, or ……",
+            "enText": "You're dressed to impress today, huh?<n>My heart is\nracing just looking at you...",
             "nextBlock": 36,
             "origClipLength": 69,
+            "voiceIdx": 60,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": -4478616299181673230
-                },
                 {
                     "origLen": 80,
                     "pathId": -3115564280895605262
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -4478616299181673230
                 }
             ],
             "pathId": 2835166380450880551,
@@ -731,17 +802,19 @@
             "jpName": "マチカネフクキタル",
             "enName": "Matikanefukukitaru",
             "jpText": "私、マチカネハルキタルになっちゃいそう。\r\nいえ、冬ですけど。今のボケいりました？",
-            "enText": "I think I'm going to become Machikaneharu \nKitaru. No, it's winter. Did you \nneed that blur?",
+            "enText": "My face is so red, I'm about to become<n>\nMatikane-feelin'-the-heat-now. Wait,<n>we're right\nin the middle of winter. Did I<n>just flub another\njoke?",
             "nextBlock": 37,
             "origClipLength": 71,
+            "voiceIdx": 4,
+            "voiceSheetId": "051056001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -3176601625036007207
-                },
                 {
                     "origLen": 82,
                     "pathId": -2505463175364646039
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -3176601625036007207
                 }
             ],
             "pathId": -212668399565296003,
@@ -751,22 +824,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ツリーの上に飾るべき星は、まだない。\r\nその最後の星を取りにいこう。",
-            "enText": "There is still no star to be displayed on the \ntree. Let's go get that last star.",
+            "enText": "We still don't have the star we need for<n>the tree.\nIt's time to go and win it for<n>ourselves.",
             "nextBlock": -1,
             "origClipLength": 67,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 40,
-                    "pathId": -8308805951463588144
+                    "pathId": -1863706163740493919
                 },
                 {
                     "origLen": 40,
-                    "pathId": -1863706163740493919
+                    "pathId": -8308805951463588144
                 }
             ],
             "pathId": 7240412670548247546,
             "blockIdx": 37
         }
-    ],
-    "modified": 1662157685
+    ]
 }

@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "E56CD5TW7MNYCYXPDQRCS25VU6X4ETQE",
+    "version": 6,
+    "bundle": "EKW2HGWEFJPPVTKHX75GPMAFRXWX5BLC",
     "type": "story",
     "storyId": "501002712",
     "title": "不在の理由は……",
+    "enTitle": "Slacking Off",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トレーニングに来ないサイレンススズカを\r\n探していると――",
-            "enText": "She said she was looking for a Silence Suzuka \nthat wasn't coming to training.",
+            "enText": "Silence Suzuka hasn't come to today's<n>training\nsession. I decide to go search for<n>her.",
             "nextBlock": 2,
             "origClipLength": 63,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5146945748933805024,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "ううん、ううん……。",
-            "enText": "Nah, nah, nah. ……",
+            "enText": "<i>Groan...</i>",
             "nextBlock": 3,
             "origClipLength": 51,
+            "voiceIdx": 35,
+            "voiceSheetId": "051002001",
             "pathId": -3699722695950287663,
             "blockIdx": 2
         },
@@ -29,9 +34,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "……何やら唸りながら左向きに回る、\r\nサイレンススズカを見つけた。",
-            "enText": "…… found Silence Suzuka turning to the left, \nroaring something.",
+            "enText": "The long and agitated groan I hear is<n>coming from\nSilence Suzuka. I find her<n>distressed, pacing\naround in<n>counterclockwise circles.",
             "nextBlock": 4,
             "origClipLength": 66,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7619734553621374312,
             "blockIdx": 3
         },
@@ -39,29 +46,31 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "一体どうすれば――",
-            "enText": "What the hell am I supposed to―",
+            "enText": "Just <i>how</i> am I going to manage?",
             "nextBlock": 5,
             "origClipLength": 50,
+            "voiceIdx": 36,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "何してるんだ？",
-                    "enText": "What are you doing?",
+                    "enText": "What's going on?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "何してるの？",
-                    "enText": "What are you doing?",
+                    "enText": "What's going on?",
                     "nextBlock": 5
                 }
             ],
             "animData": [
                 {
-                    "origLen": 152,
-                    "pathId": -7570428254043397322
-                },
-                {
                     "origLen": 142,
                     "pathId": 7337394392332229697
+                },
+                {
+                    "origLen": 152,
+                    "pathId": -7570428254043397322
                 }
             ],
             "pathId": 1855471300137156341,
@@ -71,17 +80,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ、トレーナーさん。",
-            "enText": "Oh, trainer.",
+            "enText": "Oh, Trainer.",
             "nextBlock": 6,
             "origClipLength": 51,
+            "voiceIdx": 76,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 26,
-                    "pathId": 844209936059973575
-                },
                 {
                     "origLen": 62,
                     "pathId": 5299856712316473149
+                },
+                {
+                    "origLen": 26,
+                    "pathId": 844209936059973575
                 }
             ],
             "pathId": -3658437700929392858,
@@ -91,21 +102,23 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "明日、英単語のテストがあるんです。\r\nよく点数が低くて注意されるので……。",
-            "enText": "I have an English vocabulary test tomorrow. \nI'm often warned about low scores, so please \ncontact me at ……",
+            "enText": "I have an English test tomorrow. I've<n>been warned\nabout my poor grades<n>recently...",
             "nextBlock": 7,
             "origClipLength": 69,
+            "voiceIdx": 88,
+            "voiceSheetId": "051002001",
             "animData": [
                 {
                     "origLen": 75,
                     "pathId": 5689733610609333913
                 },
                 {
-                    "origLen": 56,
-                    "pathId": -2803081491692800703
-                },
-                {
                     "origLen": 80,
                     "pathId": -8229615589074647113
+                },
+                {
+                    "origLen": 56,
+                    "pathId": -2803081491692800703
                 }
             ],
             "pathId": -727548681730159329,
@@ -115,18 +128,20 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "どうすれば、走りながらテスト勉強を\r\nできるか考えていたんですが――",
-            "enText": "I've been trying to figure out how to study \nfor the test while running.",
+            "enText": "So, I was wondering if there was a way to<n>study\nfor the test while I run...",
             "nextBlock": 8,
             "origClipLength": 67,
+            "voiceIdx": 79,
+            "voiceSheetId": "051002001",
             "choices": [
                 {
                     "jpText": "……もう、トレーニングの時間だぞ？",
-                    "enText": "…… It's time to get your training \nin already, okay?",
+                    "enText": "You know training's already started, right?",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "……もう、トレーニングの時間だよ？",
-                    "enText": "…… It's time for training already, right?",
+                    "enText": "You know training's already started, right?",
                     "nextBlock": 8
                 }
             ],
@@ -136,12 +151,12 @@
                     "pathId": -5046260538519855164
                 },
                 {
-                    "origLen": 43,
-                    "pathId": 5711431652753319314
-                },
-                {
                     "origLen": 78,
                     "pathId": -4159378392408660474
+                },
+                {
+                    "origLen": 43,
+                    "pathId": 5711431652753319314
                 }
             ],
             "pathId": 2859059184539539557,
@@ -151,17 +166,19 @@
             "jpName": "サイレンススズカ",
             "enName": "Silence Suzuka",
             "jpText": "あ、あれっ？\r\nもうそんな時間……？",
-            "enText": "Oh, what's that? Is it that time already ……?",
+            "enText": "What? Really? Already?",
             "nextBlock": 9,
             "origClipLength": 56,
+            "voiceIdx": 30,
+            "voiceSheetId": "051002001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 4942782049039473609
-                },
                 {
                     "origLen": 67,
                     "pathId": 5818226986249725198
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 4942782049039473609
                 }
             ],
             "pathId": 3862006602105902127,
@@ -171,22 +188,23 @@
             "jpName": "",
             "enName": "",
             "jpText": "……驚いた様子のサイレンススズカに、\r\n今日は勉強を優先するように伝えた。",
-            "enText": "I told Silence Suzuka, who looked…… \nsurprised, to prioritize her studies today.",
+            "enText": "She looks genuinely surprised. I tell her<n>to\nprioritize her studies today.",
             "nextBlock": -1,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -9042184287215784291
-                },
                 {
                     "origLen": 80,
                     "pathId": 4102769143409657853
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -9042184287215784291
                 }
             ],
             "pathId": -5049438252513863577,
             "blockIdx": 9
         }
-    ],
-    "modified": 1657555054
+    ]
 }

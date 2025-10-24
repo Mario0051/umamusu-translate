@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "N7FU7V2NOPVZSSJ2NLRWZVIZRZIPSWTJ",
+    "version": 6,
+    "bundle": "XRQ5LUCOCASVC4NLIGGESJDZ3VM2IOWN",
     "type": "story",
     "storyId": "041060003",
     "title": "第3話",
+    "enTitle": "Unlike Those Stars",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "トウカイテイオーを相手取る種目別競技大会本番を\r\n控えた、ある夜のこと。自室で対策を練っていると――",
-            "enText": "I was in my room one night, just before Nice Nature was due to \nface off with Tokai Teio at the big race meeting, when…",
+            "enText": "It's evening, and I'm in my room crafting a<n>plan to help Nature beat\nTokai Teio at the<n>Tracen Meet.",
             "nextBlock": 2,
+            "origClipLength": 110,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4940403581356721358,
             "blockIdx": 1
         },
@@ -18,8 +22,25 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "こんばんはー。\n突撃！　あなたの担当ウマ娘ですよー。",
-            "enText": "Evening! That's right, it's me! Your faithful trainee!",
+            "enText": "Uma Attack! Good evening, it's your<n>beloved trainee!",
             "nextBlock": 3,
+            "origClipLength": 166,
+            "voiceIdx": 0,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -941011265123544168
+                },
+                {
+                    "origLen": 44,
+                    "pathId": 2827207324915296274
+                },
+                {
+                    "origLen": 29,
+                    "pathId": 6686297338258193792
+                }
+            ],
             "pathId": 1814295517802591546,
             "blockIdx": 2
         },
@@ -27,8 +48,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "夜分にごめんね、トレーナーさん。ちょっとトレーナー室に\r\n忘れものしちゃって。鍵、貸してくれない？",
-            "enText": "Sorry to bother you so late. I left something behind in the \ntrainers' office. I couldn't borrow the key for a sec, could I?",
+            "enText": "Sorry for coming by so late, Trainer. I<n>forgot some stuff in the trainer\noffice,<n>sooo... mind lending me the keys?",
             "nextBlock": 4,
+            "origClipLength": 240,
+            "voiceIdx": 1,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 3795661842541959796
+                },
+                {
+                    "origLen": 31,
+                    "pathId": 4983868431593716168
+                }
+            ],
             "pathId": -3681422918804409265,
             "blockIdx": 3
         },
@@ -36,18 +70,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "で、こんな夜更けにまた返しに来るってのもなんだしさ、\r\n明日はアタシが鍵開けとくから。",
-            "enText": "And I figure there's no sense in disturbing you \ntwice, so how about I hold onto it and I'll open \nup in the morning too. Sound good?",
+            "enText": "Oh yeah, it'd be a hassle to return them<n>tonight, so I'll unlock the\nroom for you<n>tomorrow.",
             "nextBlock": 5,
+            "origClipLength": 234,
+            "voiceIdx": 2,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "夜も遅いし、一緒に行こうか？",
-                    "enText": "It's really late… let me go with you at least.",
+                    "enText": "It's already late, so why don't we go together?",
                     "nextBlock": 5
                 },
                 {
                     "jpText": "夜も遅いし、一緒に行こっか？",
-                    "enText": "It's really late… let me go with you at least.",
+                    "enText": "It's already late, so why don't we go together?",
                     "nextBlock": 5
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 8806039845919624254
+                },
+                {
+                    "origLen": 74,
+                    "pathId": 3411612622375657057
                 }
             ],
             "pathId": 6743185921447156771,
@@ -57,8 +104,25 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "んっ！？　あーっと、いやその……。",
-            "enText": "Eh!? Ah… um… well, the thing is…",
+            "enText": "Huh?! Ah, um, that's...",
             "nextBlock": 6,
+            "origClipLength": 109,
+            "voiceIdx": 3,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 122,
+                    "pathId": 1984879163165826575
+                },
+                {
+                    "origLen": 254,
+                    "pathId": 249882526235309247
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -6937812012022284402
+                }
+            ],
             "pathId": -3850034849251561250,
             "blockIdx": 5
         },
@@ -66,8 +130,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "だ、大丈夫大丈夫～！　ネイチャさんを誰だと思ってるのさ、もー。\r\n守ってあげたい系女子とかじゃないじゃん？",
-            "enText": "I… it's fine, don't worry about it! Who do you \nthink you're talking to, huh? I'm not some helpless \nlittle baby lamb over here, y'know?",
+            "enText": "I-I'll be f-fine! Just who do you take me<n>for? I'm not a damsel in\ndistress, y'know?",
             "nextBlock": 7,
+            "origClipLength": 252,
+            "voiceIdx": 4,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 4666552566718427516
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -3356025833747460746
+                }
+            ],
             "pathId": -1478377802752586817,
             "blockIdx": 6
         },
@@ -75,8 +152,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ということで、ほらほら！\n早く鍵くださいなー。",
-            "enText": "So! How about you give me that key and I'll get out of your hair.",
+            "enText": "That's that, so hurry it up! Gimme the keys<n>already.",
             "nextBlock": 8,
+            "origClipLength": 120,
+            "voiceIdx": 5,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": -3876581879386541316
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 4578607262667759090
+                }
+            ],
             "pathId": -158988292985206337,
             "blockIdx": 7
         },
@@ -84,8 +174,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "なにやら様子が気にかかったが、とりあえず鍵を渡してあげた……。",
-            "enText": "Something seemed a little off, but I handed it over anyway.",
+            "enText": "I'm a little curious about the way Nature is<n>acting, but I hand the keys\nover to her<n>anyway.",
             "nextBlock": 9,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 110,
+                    "pathId": 1392024209872182320
+                },
+                {
+                    "origLen": 99,
+                    "pathId": 913004826719986958
+                }
+            ],
             "pathId": 8652325086715711094,
             "blockIdx": 8
         },
@@ -93,8 +196,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "どもどもー！\nそんじゃトレーナーさん、おやすみ～。",
-            "enText": "Much obliged. Well, I'll be off then. G'night!",
+            "enText": "My thanks! And with that, a good night to<n>you, Trainer.",
             "nextBlock": 10,
+            "origClipLength": 120,
+            "voiceIdx": 6,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -3795012896116391701
+                },
+                {
+                    "origLen": 38,
+                    "pathId": -2940804254933650826
+                }
+            ],
             "pathId": 8542396796038762011,
             "blockIdx": 9
         },
@@ -102,8 +218,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして、数時間後……。",
-            "enText": "Then, a couple of hours later…",
+            "enText": "A few hours later...",
             "nextBlock": 11,
+            "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1057944795466423626,
             "blockIdx": 10
         },
@@ -111,8 +230,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "（プルルルルル……）",
-            "enText": "(<ring ring>)",
+            "enText": "<i>R-r-r-ring!</i>",
             "nextBlock": 12,
+            "origClipLength": 58,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -80032206193387803,
             "blockIdx": 11
         },
@@ -120,8 +242,11 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "もしもし、ネイチャのトレーナーさんかい？\r\n突然すまない、栗東寮長のフジキセキだ。",
-            "enText": "Hello? Is this Nature-san's trainer? This \nis Fuji Kiseki from the Ritto dormitory.",
+            "enText": "Hello? Is this Nature's trainer? This is Fuji<n>Kiseki, dorm leader of Ritto\nDormitory,<n>speaking.",
             "nextBlock": 13,
+            "origClipLength": 241,
+            "voiceIdx": 7,
+            "voiceSheetId": "041060003",
             "pathId": -5557718219088076803,
             "blockIdx": 12
         },
@@ -129,12 +254,15 @@
             "jpName": "フジキセキ",
             "enName": "Fuji Kiseki",
             "jpText": "もう門限を1時間も過ぎたっていうのに、ネイチャがまだ部屋に\r\n戻っていなくてね。行き先について、心当たりはないかな？",
-            "enText": "It's an hour past curfew and she still isn't back yet. Do you \nhave any idea where she might be?",
+            "enText": "It's already an hour past curfew, but<n>Nature hasn't come back yet.\nWould you<n>have any ideas as to where she might be?",
             "nextBlock": 14,
+            "origClipLength": 324,
+            "voiceIdx": 8,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "……！？",
-                    "enText": "…!?",
+                    "enText": "...?!",
                     "nextBlock": 14
                 }
             ],
@@ -145,8 +273,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "大変だ……！\nとりあえずトレーナー室を見に行こう！",
-            "enText": "Uh-oh. This was bad. I rushed to the office.",
+            "enText": "There's no time to panic! First, I should<n>check the trainer's office!",
             "nextBlock": 15,
+            "origClipLength": 77,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 97190019879093117,
             "blockIdx": 14
         },
@@ -154,30 +285,39 @@
             "jpName": "",
             "enName": "",
             "jpText": "そうして、夜の学園をひた走り、\nトレーナー室前まで辿り着くと――",
-            "enText": "I ran through the dark halls of the academy, back to the \ntrainers' office. As I approached…",
+            "enText": "I run through the dimly-lit academy, finally<n>arriving in front of the\ntrainer's office.",
             "nextBlock": 16,
+            "origClipLength": 86,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8696137709762126181,
             "blockIdx": 15
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "――外をついて上がってきましたのはトウカイテイオー！\r\n最後の直線です！",
-            "enText": "…and it's Tokai Teio now, moving up on the \noutside as they enter the home straight…",
+            "enText": "Coming around from the outside is none<n>other than Tokai Teio! It's\nthe final stretch!",
             "nextBlock": 17,
+            "origClipLength": 168,
+            "voiceIdx": 9,
+            "voiceSheetId": "041060003",
             "pathId": 19085311288970476,
             "blockIdx": 16
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "先頭に躍り出ました、トウカイテイオー！　そのまま突き離して……\r\nゴールインっ！　2バ身差、トウカイテイオーの勝利です！！",
-            "enText": "And she's clear! Tokai Teio is away! But can \nshe stay away? [Commentator]: SHE CAN! Tokai \nTeio WINS! It's Tokai Teio by two lengths!",
+            "enText": "Tokai Teio leaps into the front! She breaks<n>out of the pack... and\nacross the line!<n>Winning by two whole lengths, Tokai Teio<n>takes home\nthe gold!",
             "nextBlock": 18,
+            "origClipLength": 325,
+            "voiceIdx": 10,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "（テイオーのレース映像……？）",
-                    "enText": "(One of Tokai Teio's race videos?)",
+                    "enText": "(Is that race footage of Teio?)",
                     "nextBlock": 18
                 }
             ],
@@ -188,8 +328,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "扉を開けると、そこには――トウカイテイオーのレース映像を\r\n真剣に見つめる、ナイスネイチャがいた。",
-            "enText": "I opened the door and sure enough, there was Nice \nNature, deep in concentration, watching a video \nof one of Tokai Teio's recent victories.",
+            "enText": "Opening the door, I find Nature staring<n>intently at footage of Tokai\nTeio.",
             "nextBlock": 19,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 216,
+                    "pathId": 7829198275780850269
+                },
+                {
+                    "origLen": 166,
+                    "pathId": 3413146880697194428
+                }
+            ],
             "pathId": -2459474992071567430,
             "blockIdx": 18
         },
@@ -197,8 +350,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "んあーっ、いててて……。\r\n首固まっちゃった……。",
-            "enText": "Owww, I'm getting a stiff neck doing this…",
+            "enText": "<i>Yawn...</i> O-o-ow... neck... stiff.",
             "nextBlock": 20,
+            "origClipLength": 164,
+            "voiceIdx": 11,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -8337513908379808624
+                },
+                {
+                    "origLen": 52,
+                    "pathId": -8047590530019223451
+                }
+            ],
             "pathId": -4568351160165453347,
             "blockIdx": 19
         },
@@ -206,8 +372,17 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "にしても……勝利勝利また勝利、ね。しかもなんとまー完璧な展開。\r\n終盤の位置取りとか、お手本じゃん。",
-            "enText": "But still. Wow. It's just win after win after win for this girl, \nhuh. Makes it look easy, too. Somehow she's always in the right \nplace at the right time.",
+            "enText": "Still... win after win after win. Her<n>positioning near the end there was<n>\nflawless—practically textbook.",
             "nextBlock": 21,
+            "origClipLength": 384,
+            "voiceIdx": 12,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": -3864264427994413571
+                }
+            ],
             "pathId": 8677935006313880358,
             "blockIdx": 20
         },
@@ -215,18 +390,27 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いっぺん向こうのペースになったら、\r\nもう取り戻せないって感じするなー……。はー、やだやだ。",
-            "enText": "Seems like if you let her dictate the pace, \nthat's it… you're toast. Yeesh.",
+            "enText": "Once she gets into her groove, there's no<n>stopping her... Yikes, I'm\ngetting the<n>heebie-jeebies.",
             "nextBlock": 22,
+            "origClipLength": 230,
+            "voiceIdx": 13,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "1人でテイオーの研究をしてたのか？",
-                    "enText": "Were you watching Teio's race videos by yourself this whole time?",
+                    "enText": "Are you researching Teio by yourself?",
                     "nextBlock": 22
                 },
                 {
                     "jpText": "1人でテイオーの研究をしてたの？",
-                    "enText": "Were you watching Teio's race videos by yourself this whole time?",
+                    "enText": "Are you researching Teio by yourself?",
                     "nextBlock": 22
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 42,
+                    "pathId": 3598676297874040954
                 }
             ],
             "pathId": -5653834854768343951,
@@ -236,8 +420,25 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "へ？　……って、ぉおわあああ！？",
-            "enText": "Waaah!",
+            "enText": "Huh? Wh-whooooa?!",
             "nextBlock": 23,
+            "origClipLength": 92,
+            "voiceIdx": 14,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": 6867919486344863361
+                },
+                {
+                    "origLen": 4,
+                    "pathId": 4510130040749898623
+                },
+                {
+                    "origLen": 33,
+                    "pathId": -1741564461097380575
+                }
+            ],
             "pathId": -1703117084247267655,
             "blockIdx": 22
         },
@@ -245,18 +446,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "と、トレーナーさん！\nえ、ちょ、ウソ、なんでここにっ！？",
-            "enText": "Trainer-san? W… what are you doing here!?",
+            "enText": "T-Trainer! N-no way—why're you here?!",
             "nextBlock": 24,
+            "origClipLength": 106,
+            "voiceIdx": 15,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "寮長さんから連絡をもらったんだ",
-                    "enText": "I got a phone call from Fuji Kiseki.",
+                    "enText": "I got a call from your dorm leader.",
                     "nextBlock": 24
                 },
                 {
                     "jpText": "寮長さんから連絡をもらったんだよ",
-                    "enText": "I got a phone call from Fuji Kiseki.",
+                    "enText": "I got a call from your dorm leader.",
                     "nextBlock": 24
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 2058096642548560575
+                },
+                {
+                    "origLen": 45,
+                    "pathId": -5174595255900069962
                 }
             ],
             "pathId": -8285453067275725381,
@@ -266,8 +480,25 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "フジさんから？　なんでまた……\r\nあっ、あー！　門限……！",
-            "enText": "From Fuji-san? What's she got to do with… \nAaagh! Curfew!",
+            "enText": "From Fuji?! Why did she... Ahhh! The<n>curfew!",
             "nextBlock": 25,
+            "origClipLength": 218,
+            "voiceIdx": 16,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -2058700342638190907
+                },
+                {
+                    "origLen": 76,
+                    "pathId": 6146357158772359150
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -278040702338385708
+                }
+            ],
             "pathId": -2796647860226549651,
             "blockIdx": 24
         },
@@ -275,8 +506,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ぐわー、時計気にするの忘れてた……。\nばかじゃん、もー……！",
-            "enText": "Ahh, I totally lost track of the time… ugh, I'm such an idiot!",
+            "enText": "Augh, I totally lost track of the time. Oh<n>man, that's so dumb!",
             "nextBlock": 26,
+            "origClipLength": 189,
+            "voiceIdx": 17,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 143,
+                    "pathId": -6291908636681589637
+                },
+                {
+                    "origLen": 209,
+                    "pathId": -7314295573338783796
+                }
+            ],
             "pathId": -6599892082876060390,
             "blockIdx": 25
         },
@@ -284,8 +528,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "どうやら、時間を忘れて\r\nトウカイテイオーの研究に没頭していたようだ……。",
-            "enText": "She was obviously so focused on her research \nthat she didn't realize how late it was.",
+            "enText": "Looks like she got sucked into researching<n>Tokai Teio and didn't\nrealize it was this<n>late already.",
             "nextBlock": 27,
+            "origClipLength": 93,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": 5810381114725413116
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -1049174465405972542
+                }
+            ],
             "pathId": 1309076172480467536,
             "blockIdx": 26
         },
@@ -293,18 +550,31 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "えぇっと……ウソついてごめんなさい。\n鍵、返します。寮長にも謝りまーす……。",
-            "enText": "I'm… sorry. For lying to you earlier. Here, let me give you back \nyour key. And I'll make sure I apologize for missing curfew.",
+            "enText": "Um... Sorry about lying to you earlier.<n>Here's the key. I'll go apologize\nto Fuji<n>too.",
             "nextBlock": 28,
+            "origClipLength": 259,
+            "voiceIdx": 18,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "トウカイテイオーに勝ちたいんだな",
-                    "enText": "You really want to beat Tokai Teio, don't you?",
+                    "enText": "You want to beat Tokai Teio, don't you?",
                     "nextBlock": 28
                 },
                 {
                     "jpText": "トウカイテイオーに勝ちたいんだね",
-                    "enText": "You really want to beat Tokai Teio, don't you?",
+                    "enText": "You want to beat Tokai Teio, don't you?",
                     "nextBlock": 28
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 88,
+                    "pathId": 8673577927628605786
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 4629331150744683775
                 }
             ],
             "pathId": 4361594986592768992,
@@ -314,8 +584,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "は！？　いや、アタシは……！！",
-            "enText": "What!? No…! I…",
+            "enText": "Huh?! Nah, it's not—",
             "nextBlock": 29,
+            "origClipLength": 66,
+            "voiceIdx": 19,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1929785549456106595
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3665646031493584550
+                }
+            ],
             "pathId": -4903412057410387606,
             "blockIdx": 28
         },
@@ -323,8 +606,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "っ…………違う、から。",
-            "enText": "It's… it's not that.",
+            "enText": "...It's not that simple.",
             "nextBlock": 30,
+            "origClipLength": 70,
+            "voiceIdx": 20,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": -920227303737302670
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 6440934130449830365
+                }
+            ],
             "pathId": -6032460126209476658,
             "blockIdx": 29
         },
@@ -332,8 +628,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "何度も何度も、そう言ってるじゃん。\nアタシは……そんな器じゃ、ないんだってば。",
-            "enText": "How many times do I have to say it? I can't… \nI mean… I'm just not meant to…",
+            "enText": "I told you plenty of times, haven't I?<n>That... I'm not built like the\nothers.",
             "nextBlock": 31,
+            "origClipLength": 228,
+            "voiceIdx": 21,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 135,
+                    "pathId": -4728057463181717021
+                },
+                {
+                    "origLen": 112,
+                    "pathId": -4574700403473529126
+                }
+            ],
             "pathId": 2164195201509896780,
             "blockIdx": 30
         },
@@ -341,8 +650,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "噛み締めるようにそう呟くと、\r\n彼女はゆっくりと窓辺に歩み寄り、夜空を見上げた。",
-            "enText": "She trailed off, walked over to the window, \nand looked up at the night sky.",
+            "enText": "With a hint of frustration in her tone,<n>Nature slowly walks towards the\nwindow<n>before gazing up at the night sky.",
             "nextBlock": 32,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": -7771723500946330522
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -6799118577642494902
+                }
+            ],
             "pathId": -16838718798205415,
             "blockIdx": 31
         },
@@ -350,8 +672,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "アタシはさ、一等星なんかじゃないの。そんなふうに\r\nキラキラ輝けない。みんなを照らす主人公には、なれない。",
-            "enText": "I'm not a big star. I wasn't made to shine \nlike that. To be a hero… a champion…",
+            "enText": "I'm not like those dazzling stars—I can't<n>shine like they do. I'm not the\nmain<n>character of this story.",
             "nextBlock": 33,
+            "origClipLength": 316,
+            "voiceIdx": 22,
+            "voiceSheetId": "041060003",
             "pathId": 3551301937663187731,
             "blockIdx": 32
         },
@@ -359,8 +684,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "もちろん、なれるって思ってた時期がなかったとは言わないよ？\r\nでないと、こんな学園来ないじゃん。",
-            "enText": "There was a time when I thought maybe I could. Of course there \nwas. Otherwise, I wouldn't be here.",
+            "enText": "Of course, there was a time when I thought<n>I was, y'know? I wouldn't\nhave come to<n>Tracen otherwise.",
             "nextBlock": 34,
+            "origClipLength": 244,
+            "voiceIdx": 23,
+            "voiceSheetId": "041060003",
             "pathId": 1991470823540394712,
             "blockIdx": 33
         },
@@ -368,8 +696,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "でもさ……もうアタシの記憶には、焼き付いちゃってるんだよ。",
-            "enText": "But it's burned into my memory now. That feeling of pouring out \neverything you've got and coming up short.",
+            "enText": "But now... I know the the cold, hard truth.",
             "nextBlock": 35,
+            "origClipLength": 175,
+            "voiceIdx": 24,
+            "voiceSheetId": "041060003",
             "pathId": 1966165963594841810,
             "blockIdx": 34
         },
@@ -377,8 +708,11 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "走っても走っても、絶対に届かない背中がさ。",
-            "enText": "The sight of your opponent's back… getting \nfurther and further out of reach.",
+            "enText": "No matter how fast I run, there's always<n>someone out there who's\nfaster.",
             "nextBlock": 36,
+            "origClipLength": 155,
+            "voiceIdx": 25,
+            "voiceSheetId": "041060003",
             "pathId": 8201304010533815839,
             "blockIdx": 35
         },
@@ -386,8 +720,17 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "目一杯応援されて、盛大に送り出されて。でも本物の輝きを\r\n持ってる子たちを前に、どーしようもない現実を突きつけられた。",
-            "enText": "All that support, the big send-off, everyone's hopes and \nexpectations… but being here, lining up with the real stars, with \nreal talent… I see how things are.",
+            "enText": "Everyone cheered me on—even threw me a<n>send-off fit for a queen.\nBut when I'm next<n>to real stars, there's no way I can compare<n>to their\nradiance.",
             "nextBlock": 37,
+            "origClipLength": 344,
+            "voiceIdx": 26,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 398,
+                    "pathId": -1293840816151623520
+                }
+            ],
             "pathId": -4835612338496782513,
             "blockIdx": 36
         },
@@ -395,8 +738,17 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "つまりはそういう、\r\nよくある話のよくいるモブでしかないんだよ、アタシは。",
-            "enText": "That's me. Just another background character \nwith a typical also-ran's story.",
+            "enText": "To put it simply, I'm just one of those<n>extras you see all the time in\nmovies.",
             "nextBlock": 38,
+            "origClipLength": 170,
+            "voiceIdx": 27,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 149,
+                    "pathId": -66688655203129557
+                }
+            ],
             "pathId": -5904864958596719455,
             "blockIdx": 37
         },
@@ -404,8 +756,17 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "そういうふうにしかなれないって……自分が1番、よくわかってる。",
-            "enText": "That's all I am. I understand that better than anyone.",
+            "enText": "I'm not cut out for the leading role... I<n>know that better than anyone.",
             "nextBlock": 39,
+            "origClipLength": 164,
+            "voiceIdx": 28,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 134,
+                    "pathId": 3680962514583625147
+                }
+            ],
             "pathId": 9153488498394510911,
             "blockIdx": 38
         },
@@ -413,13 +774,26 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "こんなのがさ、1着になりたいとかって全然似合わないし……\r\nみっともないでしょ？",
-            "enText": "So that's why you don't hear me talking about wanting to be first \nplace, to be a champion. Kind of pathetic, huh.",
+            "enText": "An extra like me has no business aiming for<n>first... It's pathetic, isn't\nit?",
             "nextBlock": 40,
+            "origClipLength": 201,
+            "voiceIdx": 29,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "みっともないとは思わない",
-                    "enText": "I don't think it is.",
+                    "enText": "You're not pathetic in the slightest.",
                     "nextBlock": 40
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1314017367095044367
+                },
+                {
+                    "origLen": 260,
+                    "pathId": 7994561688391910894
                 }
             ],
             "pathId": -6166328161535468487,
@@ -429,18 +803,27 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……っ。",
-            "enText": "…",
+            "enText": "...",
             "nextBlock": 41,
+            "origClipLength": 30,
+            "voiceIdx": 30,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "君が頑張る姿は、ちゃんとキラキラしてる",
-                    "enText": "You certainly put in the work like a champion.",
+                    "enText": "When you give it your all, you shine brighter\nthan any other star.",
                     "nextBlock": 41
                 },
                 {
                     "jpText": "貴方が頑張る姿は、ちゃんとキラキラしてる",
-                    "enText": "You certainly put in the work like a champion.",
+                    "enText": "When you give it your all, you shine brighter\nthan any other star.",
                     "nextBlock": 41
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 260,
+                    "pathId": -7162118217748287698
                 }
             ],
             "pathId": 7521878290764866526,
@@ -450,8 +833,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "……あ、アタシは、キラキラなんかできない。\nやめてよ、トレーナーさん。",
-            "enText": "But I'm not… I can't be a champion. C'mon, \nTrainer-san, knock it off already…!",
+            "enText": "...I-I can't shine like the others. So stop it,<n>Trainer.",
             "nextBlock": 42,
+            "origClipLength": 175,
+            "voiceIdx": 31,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -382736763773247441
+                },
+                {
+                    "origLen": 125,
+                    "pathId": -6953785639973720760
+                }
+            ],
             "pathId": -2372737748144750296,
             "blockIdx": 41
         },
@@ -459,8 +855,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ホント……やめてってば。",
-            "enText": "Really, just… give it a rest, okay?",
+            "enText": "Please... just stop.",
             "nextBlock": 43,
+            "origClipLength": 93,
+            "voiceIdx": 32,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": 4193693328005912032
+                },
+                {
+                    "origLen": 107,
+                    "pathId": -4364138555128613126
+                }
+            ],
             "pathId": -5583150811038747173,
             "blockIdx": 42
         },
@@ -468,8 +877,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "そう言いながらも、ナイスネイチャの表情は\nどこか揺れ動いているように見えた……。",
-            "enText": "She sounded sure… but the expression \non her face told a different story.",
+            "enText": "She speaks firmly, but when I look at her,<n>her eyes seem to waver.\nPerhaps my words<n>reached her?",
             "nextBlock": 44,
+            "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 117,
+                    "pathId": -6704487166923672230
+                },
+                {
+                    "origLen": 111,
+                    "pathId": -4519135071212708623
+                }
+            ],
             "pathId": 300898489498717643,
             "blockIdx": 43
         },
@@ -477,8 +899,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "その日は、ナイスネイチャを寮まで送り届け、\n一緒に寮長のフジキセキに謝罪した。",
-            "enText": "I walked her back to the dormitories, and together we apologized \nto Fuji Kiseki for breaking curfew.",
+            "enText": "After some time, we go back to Nature's<n>dorm and apologize to Fuji\nKiseki<n>together.",
             "nextBlock": 45,
+            "origClipLength": 95,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 41,
+                    "pathId": 3007421281590669257
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -8929562239411874610
+                }
+            ],
             "pathId": -6071303413316499417,
             "blockIdx": 44
         },
@@ -486,8 +921,17 @@
             "jpName": "",
             "enName": "",
             "jpText": "そして、翌日のトレーニング後――",
-            "enText": "Then, after training the next day…",
+            "enText": "The next day, after training...",
             "nextBlock": 46,
+            "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": -6246586680079405889
+                }
+            ],
             "pathId": 7949094013019414446,
             "blockIdx": 45
         },
@@ -495,8 +939,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "あのさ、トレーナーさん。\r\nこのあと、テイオーの映像観に行ってもいい？",
-            "enText": "So, um… trainer-san… is it alright if I do \na little more video research after this?",
+            "enText": "Hey, Trainer? After this, you mind if I<n>check out some Teio footage\nagain?",
             "nextBlock": 47,
+            "origClipLength": 182,
+            "voiceIdx": 33,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 21,
+                    "pathId": -3160821558757043487
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 3666354964062160976
+                }
+            ],
             "pathId": -5487708909365588580,
             "blockIdx": 46
         },
@@ -504,8 +961,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "いや、あの、誤解しないでよね？\r\nテイオー対策に燃えてるーとか、そういうんじゃないから。",
-            "enText": "Don't get any weird ideas. Like, \"ooh, she's all fired up to face \noff with Teio!\", or anything like that…",
+            "enText": "Oh, um, don't get me wrong, okay? It's not<n>because I'm super pumped\nabout facing<n>Teio. Not even close.",
             "nextBlock": 48,
+            "origClipLength": 195,
+            "voiceIdx": 34,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": 6771676414235403604
+                },
+                {
+                    "origLen": 143,
+                    "pathId": -149815073016363892
+                }
+            ],
             "pathId": -4086411479679752935,
             "blockIdx": 47
         },
@@ -513,8 +983,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ただ……その……。",
-            "enText": "But… y'know…",
+            "enText": "It's just... well...",
             "nextBlock": 49,
+            "origClipLength": 69,
+            "voiceIdx": 35,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 158,
+                    "pathId": -4916918794328742301
+                },
+                {
+                    "origLen": 83,
+                    "pathId": 3933483690567205945
+                }
+            ],
             "pathId": 874716365432025802,
             "blockIdx": 48
         },
@@ -522,13 +1005,26 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "1着を取るとか、勝利するとかは無理でも……\r\nぜ、善戦したいって気持ちぐらいは、アタシにもあるから……さ。",
-            "enText": "Even if I'm not going to win, I still want to put up a decent \nfight. You know, make it a contest, at least.",
+            "enText": "Even if first place is out of reach... even if<n>victory is impossible... I-I\nstill want to say<n>that I tried my best...",
             "nextBlock": 50,
+            "origClipLength": 284,
+            "voiceIdx": 36,
+            "voiceSheetId": "041060003",
             "choices": [
                 {
                     "jpText": "よし、やろう！",
-                    "enText": "Alright! Let's do it!",
+                    "enText": "Understood. Knock yourself out!",
                     "nextBlock": 50
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -5671541704823931536
+                },
+                {
+                    "origLen": 182,
+                    "pathId": 9001886169523848965
                 }
             ],
             "pathId": 4491207400424873486,
@@ -538,8 +1034,21 @@
             "jpName": "ナイスネイチャ",
             "enName": "Nice Nature",
             "jpText": "ん。……じゃ、行きますか。",
-            "enText": "Okay! Shall we?",
+            "enText": "Mhm. Well, let's get going!",
             "nextBlock": 51,
+            "origClipLength": 98,
+            "voiceIdx": 37,
+            "voiceSheetId": "041060003",
+            "animData": [
+                {
+                    "origLen": 36,
+                    "pathId": 6814890992837132751
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -1681998218678210123
+                }
+            ],
             "pathId": 8003806119469575964,
             "blockIdx": 50
         },
@@ -547,12 +1056,19 @@
             "jpName": "",
             "enName": "",
             "jpText": "こうして、競技大会に向け、\r\n寸暇を惜しんでトレーニングを行った……。",
-            "enText": "And so we squeezed every ounce of preparation we could into the \nfinal days before the big tournament.",
+            "enText": "And so, the two us begin dedicating every<n>waking moment to training\nfor the<n>upcoming Tracen Meet.",
             "nextBlock": -1,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 7680544538460403834
+                }
+            ],
             "pathId": 8043139108058300756,
             "blockIdx": 51
         }
-    ],
-    "humanTl": true,
-    "modified": 1673053215
+    ]
 }

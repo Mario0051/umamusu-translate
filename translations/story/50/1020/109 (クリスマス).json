@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "3W7WXOVBJFRRSBDBUMO2MZ5QB7MUF3M6",
+    "version": 6,
+    "bundle": "FO66OV6DYA3GNFRPJWRO2GM5DB5VJCHT",
     "type": "story",
     "storyId": "501020109",
     "title": "クリスマス",
+    "enTitle": "Holiday Season",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ある日のトレーニング後。\r\n溜まった業務を今夜中に片づけようと\n考えていたのだが――",
-            "enText": "One day after training. I was thinking that I \nwould finish up some business tonight.",
+            "enText": "One day after training, I think about<n>working late\nto take care of some work<n>that's piled up.\nHowever...",
             "nextBlock": 2,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7553147810504542446,
             "blockIdx": 1
         },
@@ -19,24 +22,26 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ふわぁ……。",
-            "enText": "Wow. ……",
+            "enText": "<i>Yawn...</i>",
             "nextBlock": 3,
             "origClipLength": 87,
+            "voiceIdx": 62,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "（すごく眠そう……）",
-                    "enText": "(Looks very sleepy ……)",
+                    "enText": "(She looks exhausted.)",
                     "nextBlock": 3
                 }
             ],
             "animData": [
                 {
                     "origLen": 127,
-                    "pathId": -7540428281896614974
+                    "pathId": 1746394568314741278
                 },
                 {
                     "origLen": 127,
-                    "pathId": 1746394568314741278
+                    "pathId": -7540428281896614974
                 }
             ],
             "pathId": -1463824243211981040,
@@ -46,17 +51,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "トレーナーさん……\r\n私、もう、ここから1歩も動けませ～ん……。",
-            "enText": "Trainer…… I can't take one \nmore step from here～ ……",
+            "enText": "Trainer... Aah, I can't take another step...",
             "nextBlock": 4,
             "origClipLength": 86,
+            "voiceIdx": 57,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 64,
-                    "pathId": -8783619449927472860
-                },
                 {
                     "origLen": 97,
                     "pathId": -4835456206907841375
+                },
+                {
+                    "origLen": 64,
+                    "pathId": -8783619449927472860
                 }
             ],
             "pathId": -7875031911171872072,
@@ -66,17 +73,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "トレーナー室を……\nセイちゃん仮眠スポットとしまーす……。",
-            "enText": "The trainer's room will be…… \nSei's napping spot. ……",
+            "enText": "I think I'll just... use your office for a<n>little nap...",
             "nextBlock": 5,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 69,
-                    "pathId": -9189864813794361997
-                },
                 {
                     "origLen": 93,
                     "pathId": 8862170693082617065
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -9189864813794361997
                 }
             ],
             "pathId": -3770547725622374724,
@@ -86,29 +95,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "じゃ、トレーナーさん。\nさよなら～……。",
-            "enText": "Bye, trainer. Bye～……",
+            "enText": "Buh-bye...",
             "nextBlock": 6,
             "origClipLength": 71,
+            "voiceIdx": 147,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "追い出すのか！？",
-                    "enText": "You're going to kick me out!",
+                    "enText": "You're kicking me out?!",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "追い出すの！？",
-                    "enText": "You're kicking me out!",
+                    "enText": "You're kicking me out?!",
                     "nextBlock": 6
                 }
             ],
             "animData": [
                 {
-                    "origLen": 49,
-                    "pathId": -532112142699506854
-                },
-                {
                     "origLen": 82,
                     "pathId": 7105006808672390561
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -532112142699506854
                 }
             ],
             "pathId": -1679026912600957924,
@@ -118,17 +129,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "当たり前じゃないですかぁ。\n寝顔の盗み見は、セイちゃん条例違反……。",
-            "enText": "Isn't it obvious? Stealing sleeping faces is \na violation of the Seichan ordinance. ……",
+            "enText": "Of course I am. It's against the Rules of<n>Sei for\nyou to sneak a peek at my<n>sleeping face.",
             "nextBlock": 7,
             "origClipLength": 89,
+            "voiceIdx": 21,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -4387452426517574667
-                },
                 {
                     "origLen": 100,
                     "pathId": 4378964495576796666
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -4387452426517574667
                 }
             ],
             "pathId": 5251485619419854841,
@@ -138,17 +151,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "2時間後に、\r\n起こしにきてくださ～い……。",
-            "enText": "Please come back in two \nhours to wake me up. ……",
+            "enText": "I'd like my wake-up call in two hours,<n>please.",
             "nextBlock": 8,
             "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 2419383281314629361
-                },
                 {
                     "origLen": 84,
                     "pathId": 2411922935738690458
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 2419383281314629361
                 }
             ],
             "pathId": 4143743474460008974,
@@ -158,17 +173,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "……というわけで、追い出されてしまった。\n仕方ないので、街中を見て回ることにした。\nすると――",
-            "enText": "…… so I was kicked out. I had no choice but \nto look around the city. Then―",
+            "enText": "...I end up getting kicked out. With<n>nothing else\nto do, I go for a walk<n>around town.",
             "nextBlock": 9,
             "origClipLength": 106,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 12,
-                    "pathId": 912295863694625560
+                    "pathId": -3836672016606227028
                 },
                 {
                     "origLen": 12,
-                    "pathId": -3836672016606227028
+                    "pathId": 912295863694625560
                 }
             ],
             "pathId": 3524607679387497653,
@@ -178,13 +195,15 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "街中がいつもと様変わりしていた。",
-            "enText": "The whole town had changed from the usual.",
+            "enText": "This place feels different from usual.",
             "nextBlock": 10,
             "origClipLength": 65,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "（今夜はクリスマスだった！）",
-                    "enText": "(Tonight was Christmas!)",
+                    "enText": "(Oh right, today is—oh no!)",
                     "nextBlock": 10
                 }
             ],
@@ -195,9 +214,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そこで慌ててセイウンスカイへの\nクリスマスプレゼントを見繕い、\n2時間後に学園へ戻ると――",
-            "enText": "So, I hurriedly found a Christmas present for \nthe sirens, and when I returned to the school \ntwo hours later…",
+            "enText": "In a panic, I buy a present for Seiun Sky<n>and make\nit back to campus two hours<n>later.",
             "nextBlock": 11,
             "origClipLength": 103,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 4809140803057760110,
             "blockIdx": 10
         },
@@ -205,9 +226,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "内装がいつもと様変わりしていた……！？",
-            "enText": "The interior was always different: ……!",
+            "enText": "Now my office is different too?!",
             "nextBlock": 12,
             "origClipLength": 69,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8745337460078172895,
             "blockIdx": 11
         },
@@ -215,17 +238,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "メリークリスマース☆",
-            "enText": "Merry Christmas*!",
+            "enText": "Happy holidays! ☆",
             "nextBlock": 13,
             "origClipLength": 58,
+            "voiceIdx": 135,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 32,
-                    "pathId": 5655104704530201610
-                },
                 {
                     "origLen": 69,
                     "pathId": -4516580185128467404
+                },
+                {
+                    "origLen": 32,
+                    "pathId": 5655104704530201610
                 }
             ],
             "pathId": 5989688342967785690,
@@ -235,29 +260,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "あは、びっくりした～？\r\nクリスマスサプライズ、大成功～♪",
-            "enText": "Were you surprised? The Christmas surprise \nwas a great success!",
+            "enText": "Hah, shocked you good, huh? My<n>surprise was a\nhuge success! ♪",
             "nextBlock": 14,
             "origClipLength": 82,
+            "voiceIdx": 0,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "これ、どうしたんだ！？",
-                    "enText": "What's wrong with this!",
+                    "enText": "Wh-what's going on here?!",
                     "nextBlock": 14
                 },
                 {
                     "jpText": "これ、どうしたの！？",
-                    "enText": "What's wrong with this!",
+                    "enText": "Wh-what's going on here?!",
                     "nextBlock": 14
                 }
             ],
             "animData": [
                 {
-                    "origLen": 36,
-                    "pathId": -527671799280968478
-                },
-                {
                     "origLen": 93,
                     "pathId": 1214315960016184023
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -527671799280968478
                 }
             ],
             "pathId": 8157172232036701699,
@@ -267,17 +294,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "もちろん、セイちゃんが1人で\r\nちまちまと飾りつけたんですよ～。",
-            "enText": "Of course, Sei-chan decorated \nit all by herself!",
+            "enText": "I just did a little decorating, that's all.",
             "nextBlock": 15,
             "origClipLength": 86,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -2019229140934687181
-                },
                 {
                     "origLen": 97,
                     "pathId": -3990687677412243137
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -2019229140934687181
                 }
             ],
             "pathId": -2311437181939337823,
@@ -287,17 +316,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "せっかくのクリスマスなのに、\n某トレーナーさんは\nまだお仕事しそうな気配だったし～？",
-            "enText": "It was Christmas, but a certain trainer still \nseemed to be working.",
+            "enText": "I was worried about a certain trainer<n>missing all\nthis holiday cheer due to<n>work, y'know?",
             "nextBlock": 16,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": 5068768092838994318
-                },
                 {
                     "origLen": 110,
                     "pathId": -2525215613333119866
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 5068768092838994318
                 }
             ],
             "pathId": 418395562559654203,
@@ -307,17 +338,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ていうか、そもそも\n気づいてなさそうな感じもしたし～？",
-            "enText": "I mean, it seemed like they didn't even \nnotice me in the first place.",
+            "enText": "Actually, it seemed like you didn't even<n>realize\nwhat day it was in the first place.",
             "nextBlock": 17,
             "origClipLength": 80,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -2539640903245180260
-                },
                 {
                     "origLen": 91,
                     "pathId": 2367198002255049543
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -2539640903245180260
                 }
             ],
             "pathId": -8124685141015056898,
@@ -327,17 +360,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "だから、サプライズしちゃいました☆\nてへ♪",
-            "enText": "That's why I gave you a surprise ☆ tehe♪",
+            "enText": "So I decided to surprise ya. ☆<n>Heehee. ♪",
             "nextBlock": 18,
             "origClipLength": 72,
+            "voiceIdx": 14,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 45,
-                    "pathId": 2178351409841946415
-                },
                 {
                     "origLen": 83,
                     "pathId": -777304449347248368
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 2178351409841946415
                 }
             ],
             "pathId": 5728574586983256700,
@@ -347,17 +382,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "季節ごとのイベントにもこだわるのが、\nいいトレーナーの条件ですよ？",
-            "enText": "A good trainer should also be concerned with \nseasonal events, right?",
+            "enText": "A proper trainer is supposed to bear<n>seasonal\nevents in mind, you know?",
             "nextBlock": 19,
             "origClipLength": 88,
+            "voiceIdx": 55,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 55,
-                    "pathId": -5786073528948263219
-                },
                 {
                     "origLen": 99,
                     "pathId": 3079768191539963782
+                },
+                {
+                    "origLen": 55,
+                    "pathId": -5786073528948263219
                 }
             ],
             "pathId": 6916074982635354752,
@@ -367,13 +404,15 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "なのに担当ウマ娘に気を回させるなんて、\nいけないトレーナーさんだなぁ。",
-            "enText": "But you're a bad trainer to make your \nhorsegirls pay so much attention to you.",
+            "enText": "Yet here you are, forcing your poor<n>trainee to be\nthe thoughtful one. That's<n>totally unacceptable.",
             "nextBlock": 20,
             "origClipLength": 90,
+            "voiceIdx": 17,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "ごめん、ありがとう！",
-                    "enText": "Sorry, thanks!",
+                    "enText": "Sorry, I do appreciate it!",
                     "nextBlock": 20
                 }
             ],
@@ -383,12 +422,12 @@
                     "pathId": -7548374265411232200
                 },
                 {
-                    "origLen": 68,
-                    "pathId": 3047127023795751209
-                },
-                {
                     "origLen": 101,
                     "pathId": -1084578534452270125
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 3047127023795751209
                 }
             ],
             "pathId": -3422726818655778219,
@@ -398,17 +437,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……ま、びっくりしてる顔、\r\n面白かったからいいけどね♪",
-            "enText": "…… Well, it was funny to \nsee her surprised face.",
+            "enText": "Well, I did get to see your jaw hit the<n>floor. I\nguess that makes up for it. ♪",
             "nextBlock": 21,
             "origClipLength": 81,
+            "voiceIdx": 74,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 92,
-                    "pathId": -3801482094713450882
+                    "pathId": -7571672270389471660
                 },
                 {
                     "origLen": 92,
-                    "pathId": -7571672270389471660
+                    "pathId": -3801482094713450882
                 }
             ],
             "pathId": -3647459868458834610,
@@ -418,17 +459,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "と・こ・ろ・で～……。",
-            "enText": "And… and… and… and… and… and… and… ……",
+            "enText": "Anywaaay...",
             "nextBlock": 22,
             "origClipLength": 59,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": -7061472851855143333
-                },
                 {
                     "origLen": 70,
                     "pathId": 3799672414283364690
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -7061472851855143333
                 }
             ],
             "pathId": -4737356223988120645,
@@ -438,29 +481,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "なんだか見慣れない袋を\n抱えてるみたいですけど、それって……？",
-            "enText": "It looks like you're carrying some kind of \nunfamiliar bag. Is that ……?",
+            "enText": "What's that you're holding? I've never<n>seen that\nbag before...",
             "nextBlock": 23,
             "origClipLength": 85,
+            "voiceIdx": 30,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "クリスマスプレゼントだぞ！",
-                    "enText": "It's your Christmas present!",
+                    "enText": "It's your present!",
                     "nextBlock": 23
                 },
                 {
                     "jpText": "クリスマスプレゼントだよ！",
-                    "enText": "It's a Christmas present!",
+                    "enText": "It's your present!",
                     "nextBlock": 23
                 }
             ],
             "animData": [
                 {
-                    "origLen": 69,
-                    "pathId": -7945215542319036094
-                },
-                {
                     "origLen": 96,
                     "pathId": -6383948121627353343
+                },
+                {
+                    "origLen": 69,
+                    "pathId": -7945215542319036094
                 }
             ],
             "pathId": 6885626089214097709,
@@ -470,17 +515,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "やっぱり～！",
-            "enText": "I knew it～!",
+            "enText": "I knew it!",
             "nextBlock": 24,
             "origClipLength": 58,
+            "voiceIdx": 7,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 17,
-                    "pathId": 8421166932551451158
-                },
                 {
                     "origLen": 69,
                     "pathId": 8615993251900919111
+                },
+                {
+                    "origLen": 17,
+                    "pathId": 8421166932551451158
                 }
             ],
             "pathId": 5858633387296368385,
@@ -490,17 +537,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いや～、トレーナーさんならぜーったい\n用意してくれると思ったんですよー！",
-            "enText": "Oh no, I knew my trainer would get it for me!",
+            "enText": "I really did! I knew you'd get me<n>something!",
             "nextBlock": 25,
             "origClipLength": 91,
+            "voiceIdx": 12,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 78,
-                    "pathId": -1639170121375140312
-                },
                 {
                     "origLen": 102,
                     "pathId": -3946251307261772404
+                },
+                {
+                    "origLen": 78,
+                    "pathId": -1639170121375140312
                 }
             ],
             "pathId": 7687423547846122491,
@@ -510,17 +559,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "信じて送り出してよかった☆",
-            "enText": "I'm glad I believed in them and sent them off.",
+            "enText": "I'm glad I believed in you enough to<n>boot you\noutta here. ☆",
             "nextBlock": 26,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": 5898135740090250900
-                },
                 {
                     "origLen": 72,
                     "pathId": 2916359246068391418
+                },
+                {
+                    "origLen": 35,
+                    "pathId": 5898135740090250900
                 }
             ],
             "pathId": 3317605958785097989,
@@ -530,17 +581,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ねえねえ、なにくれるんです？\nヒント、ヒントちょうだいっ！",
-            "enText": "Hey, hey, hey, what are you \ngiving me? Hint, hint!",
+            "enText": "So! What did you get me? Gimme a hint!",
             "nextBlock": 27,
             "origClipLength": 82,
+            "voiceIdx": 52,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 66,
-                    "pathId": -2760463840725393386
-                },
                 {
                     "origLen": 93,
                     "pathId": 2579416809358637930
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -2760463840725393386
                 }
             ],
             "pathId": -732108671517976243,
@@ -550,17 +603,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、しばらくクリスマスプレゼントを\n当てるクイズ大会を楽しんだ……。",
-            "enText": "After that, we enjoyed a quiz game to win \nChristmas presents for a while. ……",
+            "enText": "We have some fun playing a guessing<n>game, with\nSeiun Sky trying to figure out<n>what her present is.",
             "nextBlock": -1,
             "origClipLength": 91,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 12,
-                    "pathId": 1724851231621296914
+                    "pathId": 6721355748593730114
                 },
                 {
                     "origLen": 12,
-                    "pathId": 6721355748593730114
+                    "pathId": 1724851231621296914
                 }
             ],
             "pathId": 5732139654015102914,
@@ -570,17 +625,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "でもね、サプライズはこれだけじゃ\nないんだなー♪",
-            "enText": "But, I guess this isn't the only surprise.Â",
+            "enText": "Actually, this isn't the only surprise I<n>prepared. ♪",
             "nextBlock": 29,
             "origClipLength": 76,
+            "voiceIdx": 3,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 35,
-                    "pathId": -3635884016444959407
-                },
                 {
                     "origLen": 87,
                     "pathId": -1292773765174212003
+                },
+                {
+                    "origLen": 35,
+                    "pathId": -3635884016444959407
                 }
             ],
             "pathId": -4261461098056269364,
@@ -590,24 +647,26 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "トレーナーさん、電気消して！",
-            "enText": "Trainer, turn off the lights!",
+            "enText": "Kill the lights!",
             "nextBlock": 30,
             "origClipLength": 63,
+            "voiceIdx": 55,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "え？",
-                    "enText": "Huh?",
+                    "enText": "What?",
                     "nextBlock": 30
                 }
             ],
             "animData": [
                 {
-                    "origLen": 65,
-                    "pathId": 7495342167230426957
-                },
-                {
                     "origLen": 74,
                     "pathId": 5752670269020937806
+                },
+                {
+                    "origLen": 65,
+                    "pathId": 7495342167230426957
                 }
             ],
             "pathId": 3247921816281854342,
@@ -617,17 +676,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いいから！\n早く早く～♪",
-            "enText": "Just do it! Come on, come on, come on～♪",
+            "enText": "C'mon! Turn 'em off! ♪",
             "nextBlock": 31,
             "origClipLength": 60,
+            "voiceIdx": 91,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 47,
-                    "pathId": 8764327930425474954
-                },
                 {
                     "origLen": 71,
                     "pathId": 75294567822378251
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 8764327930425474954
                 }
             ],
             "pathId": 7418684527544222742,
@@ -637,17 +698,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ありがと。\nじゃ、いきますよ～……それっ！",
-            "enText": "Thanks. Well, here we go～…… that's it!",
+            "enText": "Thanks. Okay... here goes nothing!",
             "nextBlock": 32,
             "origClipLength": 72,
+            "voiceIdx": 11,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 102,
-                    "pathId": -486920039128421551
-                },
                 {
                     "origLen": 114,
                     "pathId": -5438288629966534741
+                },
+                {
+                    "origLen": 102,
+                    "pathId": -486920039128421551
                 }
             ],
             "pathId": -4377091896746230108,
@@ -657,17 +720,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（パチ……）",
-            "enText": "(Pachi ……)",
+            "enText": "<i>Click.</i>",
             "nextBlock": 33,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 2798591092370449984
-                },
                 {
                     "origLen": 89,
                     "pathId": -7553982141132508927
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 2798591092370449984
                 }
             ],
             "pathId": 9078053111344312634,
@@ -677,17 +742,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――天井に、壁に、床に……\n一面に広がったのは、星空だった。",
-            "enText": "―on the ceiling, on the walls, and on the \nfloor…… All over the place was a starry sky.",
+            "enText": "A sea of glittering stars appears from<n>floor to\nceiling across the entire room.",
             "nextBlock": 34,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 12,
-                    "pathId": 1085072358067757868
+                    "pathId": -7465206978644519017
                 },
                 {
                     "origLen": 12,
-                    "pathId": -7465206978644519017
+                    "pathId": 1085072358067757868
                 }
             ],
             "pathId": -3480974804643143799,
@@ -697,18 +764,20 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "改めて、メリークリスマス。\n私からのプレゼントは、この星空！",
-            "enText": "Once again, Merry Christmas. My gift to you \nis this starry sky!",
+            "enText": "Pretty festive, huh? My present to you is<n>this\nstarry night!",
             "nextBlock": 35,
             "origClipLength": 84,
+            "voiceIdx": 135,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "すごい、キレイだ……！",
-                    "enText": "Wow, that's beautiful. ……!",
+                    "enText": "Wow! It's beautiful!",
                     "nextBlock": 35
                 },
                 {
                     "jpText": "すごい、キレイ……！",
-                    "enText": "Wow, beautiful ……!",
+                    "enText": "Wow! It's beautiful!",
                     "nextBlock": 35
                 }
             ],
@@ -719,9 +788,11 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "感激するにはまだ早いよ。\n向こうを見てごらん――",
-            "enText": "It's too early to be impressed. \nLook over there―",
+            "enText": "Don't get misty-eyed on me yet! Look<n>over\nthere...",
             "nextBlock": 36,
             "origClipLength": 76,
+            "voiceIdx": 90,
+            "voiceSheetId": "051020001",
             "pathId": -6701219554382292763,
             "blockIdx": 35
         },
@@ -729,9 +800,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そう言ったセイウンスカイの示す先に、\nひときわ輝く星があった。",
-            "enText": "The star that shines brightly in the \ndirection indicated by Seiunsky was the star.",
+            "enText": "I look in the direction she's pointing to<n>see one\nstar in particular sparkling<n>conspicuously.",
             "nextBlock": 37,
             "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -2134069611407322729,
             "blockIdx": 36
         },
@@ -739,9 +812,11 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "――あれがもう1つのプレゼントさ。\r\nさあ、星を捕まえに行こう！",
-            "enText": "―That's the other present. Come on, let's go \ncatch some stars!",
+            "enText": "That's another present from me. Let's go<n>catch\nthat star!",
             "nextBlock": 38,
             "origClipLength": 86,
+            "voiceIdx": 97,
+            "voiceSheetId": "051020001",
             "pathId": 6669880384878065579,
             "blockIdx": 37
         },
@@ -749,9 +824,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "セイウンスカイに引っ張られ、\r\n光の方へ向かう。\nそして、徐々に眩さに包まれ――",
-            "enText": "Pulled by Seiunsky, we head toward the light. \nAnd gradually, we are enveloped by the dazzle…",
+            "enText": "Sky pulls me toward the light. And, as it<n>slowly\nenvelops us...",
             "nextBlock": 39,
             "origClipLength": 97,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5797856537765415696,
             "blockIdx": 38
         },
@@ -759,9 +836,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "（パチ……）",
-            "enText": "(Pachi ……)",
+            "enText": "<i>Click.</i>",
             "nextBlock": 40,
             "origClipLength": 52,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -8745180351954850410,
             "blockIdx": 39
         },
@@ -769,17 +848,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "――トレーナーさん。\n手の中を見てみて。",
-            "enText": "―Trainer. Look in your hand.",
+            "enText": "Now look in your hand.",
             "nextBlock": 41,
             "origClipLength": 71,
+            "voiceIdx": 52,
+            "voiceSheetId": "051020001",
             "animData": [
                 {
                     "origLen": 111,
-                    "pathId": 5359127026952031173
+                    "pathId": 2625759222250731464
                 },
                 {
                     "origLen": 111,
-                    "pathId": 2625759222250731464
+                    "pathId": 5359127026952031173
                 }
             ],
             "pathId": -4606809088456535781,
@@ -789,24 +870,26 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "いつの間にか握っていた手をひらく。\r\nするとそこには……。",
-            "enText": "I open my hand, which I had been holding for \nsome time. Then there is ……",
+            "enText": "I open my hand to see what's inside...",
             "nextBlock": 42,
             "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "……星？",
-                    "enText": "…… star?",
+                    "enText": "A star?",
                     "nextBlock": 42
                 }
             ],
             "animData": [
                 {
                     "origLen": 96,
-                    "pathId": -2030146946332939955
+                    "pathId": 6347491905783523323
                 },
                 {
                     "origLen": 96,
-                    "pathId": 6347491905783523323
+                    "pathId": -2030146946332939955
                 }
             ],
             "pathId": -4986754926479149319,
@@ -816,17 +899,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……の、アクリルアイス。\n捕まえたのはフェイクのお星さまでした～。",
-            "enText": "Acrylic ice cream from…… It was a fake star \nthat I caught!",
+            "enText": "Well, a fake one, but yes. It's made out<n>of acrylic.",
             "nextBlock": 43,
             "origClipLength": 88,
+            "voiceIdx": 74,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -2439113431393217203
-                },
                 {
                     "origLen": 99,
                     "pathId": -1326685066657459898
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -2439113431393217203
                 }
             ],
             "pathId": -2939162822314337685,
@@ -836,17 +921,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "いっても、セイちゃんまだ子どもなので。\r\nこれが限界でして。",
-            "enText": "But Sei-chan is still a child. \nThis is her limit.",
+            "enText": "Since I'm still just a kid, this is the most I<n>could do\nfor you.",
             "nextBlock": 44,
             "origClipLength": 84,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 46,
-                    "pathId": -5291772048605573685
-                },
                 {
                     "origLen": 95,
                     "pathId": 1086993159361155919
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -5291772048605573685
                 }
             ],
             "pathId": -2565168776584992909,
@@ -856,17 +943,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "でもその星もさ、\nなんか……いいじゃん。",
-            "enText": "But that star is also…… nice.",
+            "enText": "But the star... It's kinda nice, right?",
             "nextBlock": 45,
             "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 25,
-                    "pathId": -6110287816019048979
-                },
                 {
                     "origLen": 82,
                     "pathId": 2090965339953944156
+                },
+                {
+                    "origLen": 25,
+                    "pathId": -6110287816019048979
                 }
             ],
             "pathId": -973247088986744957,
@@ -876,17 +965,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "演出次第で、キラキラできるのでは！？\n……と、名監督スカイは気づいたわけです。",
-            "enText": "With the right direction, you could make it \nsparkle! That's what Skye, a great director, \nrealized at ……",
+            "enText": "And, being the amazing director that I<n>am,\ngetting a star to show its true shine<n>was\neasy-peasy.",
             "nextBlock": 46,
             "origClipLength": 95,
+            "voiceIdx": 38,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 68,
-                    "pathId": -8896351364241896886
-                },
                 {
                     "origLen": 106,
                     "pathId": -6854906824809938764
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8896351364241896886
                 }
             ],
             "pathId": -6643377069659883450,
@@ -896,17 +987,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……でも、えへ。\nちょっとチャチすぎましたかね。",
-            "enText": "Even…… eheh. I guess I \nwas a bit too churlish.",
+            "enText": "Hehe... Maybe it's a little too cheap.",
             "nextBlock": 47,
             "origClipLength": 76,
+            "voiceIdx": 14,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 49,
-                    "pathId": -1250501213663629993
-                },
                 {
                     "origLen": 87,
                     "pathId": -3123711305305746479
+                },
+                {
+                    "origLen": 49,
+                    "pathId": -1250501213663629993
                 }
             ],
             "pathId": -6596246882337681122,
@@ -916,17 +1009,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ネタばらしすると、室内プラネタリウムも\n人からお借りしたものだったり。",
-            "enText": "To give you an idea of what I mean, \nthe indoor planetarium was also \nborrowed from someone else.",
+            "enText": "To take you further behind the scenes, I<n>borrowed\nthis indoor planetarium from<n>someone.",
             "nextBlock": 48,
             "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 54,
-                    "pathId": -38058330702374130
-                },
                 {
                     "origLen": 101,
                     "pathId": -1883896152378386557
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -38058330702374130
                 }
             ],
             "pathId": -992588053425633347,
@@ -936,24 +1031,26 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "びっくり！　からのガックリ～。\r\n……しちゃいました？",
-            "enText": "Surprise! Gakkuri～ from Did you go to ……?",
+            "enText": "Whoops! Did I just wreck the mood?",
             "nextBlock": 49,
             "origClipLength": 80,
+            "voiceIdx": 52,
+            "voiceSheetId": "051020001",
             "choices": [
                 {
                     "jpText": "ううん、嬉しいよ",
-                    "enText": "No, I'm glad.",
+                    "enText": "Not at all—I'm really happy.",
                     "nextBlock": 49
                 }
             ],
             "animData": [
                 {
-                    "origLen": 45,
-                    "pathId": 7811881920478788755
-                },
-                {
                     "origLen": 91,
                     "pathId": -1247965708608676076
+                },
+                {
+                    "origLen": 45,
+                    "pathId": 7811881920478788755
                 }
             ],
             "pathId": 1896759061959226112,
@@ -963,29 +1060,31 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "ホント？",
-            "enText": "Really?",
+            "enText": "For real?",
             "nextBlock": 50,
             "origClipLength": 50,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "俺が知ってる中で、1番キレイな星だ",
-                    "enText": "It's the most beautiful star I know.",
+                    "enText": "This is the prettiest of all the stars I know.",
                     "nextBlock": 50
                 },
                 {
                     "jpText": "私が知ってる中で、1番キレイな星だよ",
-                    "enText": "It's the most beautiful star I know.",
+                    "enText": "This is the prettiest of all the stars I know.",
                     "nextBlock": 50
                 }
             ],
             "animData": [
                 {
-                    "origLen": 37,
-                    "pathId": 7516062257323425633
-                },
-                {
                     "origLen": 61,
                     "pathId": 6930618322455173593
+                },
+                {
+                    "origLen": 37,
+                    "pathId": 7516062257323425633
                 }
             ],
             "pathId": 2676434427284868315,
@@ -995,17 +1094,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "……へへ。",
-            "enText": "…… hehe.",
+            "enText": "...Hehe.",
             "nextBlock": 51,
             "origClipLength": 51,
+            "voiceIdx": 2,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 10,
-                    "pathId": 367855447304570976
-                },
                 {
                     "origLen": 62,
                     "pathId": 6482803571828644592
+                },
+                {
+                    "origLen": 10,
+                    "pathId": 367855447304570976
                 }
             ],
             "pathId": 2639134389335825440,
@@ -1015,17 +1116,19 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "じゃあ、今日は大成功ってことで！\nでも、いつかはさ――",
-            "enText": "Well, then, I'd call today a \nhuge success! But someday…",
+            "enText": "So I guess that means today was a huge<n>success!\nStill, one day...",
             "nextBlock": 52,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 41,
-                    "pathId": -4241081356668679590
-                },
                 {
                     "origLen": 91,
                     "pathId": -774452268217958025
+                },
+                {
+                    "origLen": 41,
+                    "pathId": -4241081356668679590
                 }
             ],
             "pathId": 7158040630558602342,
@@ -1035,22 +1138,23 @@
             "jpName": "セイウンスカイ",
             "enName": "Seiun Sky",
             "jpText": "本物の星を捕まえたいよね。\n作戦、考えておくよ♪",
-            "enText": "I'd love to catch a real star, wouldn't you? \nI'll think of a plan.",
+            "enText": "I wanna grab onto a <i>real</i> star. Don't<n>worry, I'll\ncome up with a plan. ♪",
             "nextBlock": -1,
             "origClipLength": 76,
+            "voiceIdx": 74,
+            "voiceSheetId": "051020001",
             "animData": [
-                {
-                    "origLen": 53,
-                    "pathId": -391279578979872088
-                },
                 {
                     "origLen": 87,
                     "pathId": 4563592267514970279
+                },
+                {
+                    "origLen": 53,
+                    "pathId": -391279578979872088
                 }
             ],
             "pathId": -1942857905108950220,
             "blockIdx": 52
         }
-    ],
-    "modified": 1657555252
+    ]
 }

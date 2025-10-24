@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "6R34C3KW2ACMLDFGQ3HAX5MW6LKUQJJE",
+    "version": 6,
+    "bundle": "QCMBFL3ZEKQDOMRB6OKOCUKTWJ4CG5Y2",
     "type": "story",
     "storyId": "501050508",
     "title": "レース疲れ",
+    "enTitle": "Race Fatigue",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "校門前でナリタタイシンを見かけたが、\r\nいつもより元気がない気がする。",
-            "enText": "I saw Narita Taishin in front of \nthe school gate, but she seemed \nless energetic than usual.",
+            "enText": "I spot Narita Taishin in front of the<n>academy\ngates, but she seems a little<n>deflated.",
             "nextBlock": 2,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "もしかして体調悪いのか？",
-                    "enText": "Maybe you're not feeling well?",
+                    "enText": "Feeling under the weather?",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "もしかして体調悪い？",
-                    "enText": "Maybe you're not feeling well?",
+                    "enText": "Feeling under the weather?",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8567699791185724436
+                },
+                {
+                    "origLen": 101,
+                    "pathId": -4747244834796518106
                 }
             ],
             "pathId": -3234174010881201261,
@@ -30,8 +44,25 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "……は？　誰が！",
-            "enText": "What about…? Who!",
+            "enText": "Psh! Like hell I am!",
             "nextBlock": 3,
+            "origClipLength": 55,
+            "voiceIdx": 27,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": 8305679783782438822
+                },
+                {
+                    "origLen": 66,
+                    "pathId": -7886764688650896949
+                },
+                {
+                    "origLen": 32,
+                    "pathId": -8857227181749874645
+                }
+            ],
             "pathId": 9036910236132550093,
             "blockIdx": 2
         },
@@ -39,13 +70,30 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "レースだってちゃんとこなしてるでしょ？\r\nアタシはそんなにヤワじゃない……！",
-            "enText": "You're doing well in the race, aren't you? \nI'm not that naive…!",
+            "enText": "I've been getting through my races fine,<n>so what\nare you complaining about? I'm<n>not some\nweakling!",
             "nextBlock": 4,
+            "origClipLength": 94,
+            "voiceIdx": 16,
+            "voiceSheetId": "051050001",
             "choices": [
                 {
                     "jpText": "でも……",
-                    "enText": "But…",
+                    "enText": "It's just...",
                     "nextBlock": 4
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7304506583928363912
+                },
+                {
+                    "origLen": 105,
+                    "pathId": -2312561831903160192
+                },
+                {
+                    "origLen": 105,
+                    "pathId": 1647393314936180113
                 }
             ],
             "pathId": -7165101692672629934,
@@ -55,8 +103,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "うっさい、過保護すぎ！",
-            "enText": "Ugh, too overprotective!",
+            "enText": "Shut it. I don't need you sticking your<n>nose in my\nbusiness!",
             "nextBlock": 5,
+            "origClipLength": 59,
+            "voiceIdx": 17,
+            "voiceSheetId": "051050001",
+            "animData": [
+                {
+                    "origLen": 70,
+                    "pathId": 8749996572354373004
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -8277893784268833044
+                }
+            ],
             "pathId": 8564103078719020385,
             "blockIdx": 4
         },
@@ -64,8 +125,21 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（……何やってんだろ、アタシ。\r\n疲れてイライラして、八つ当たりして）",
-            "enText": "(… What am I doing, Atashi? I'm tired, \nfrustrated, and taking it out on you.)",
+            "enText": "(What's wrong with me? I'm so tired and<n>moody,\nand I'm lashing out at everyone.)",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": -1132930966063466370
+                },
+                {
+                    "origLen": 20,
+                    "pathId": -7570958219324234187
+                }
+            ],
             "pathId": -6933944622775658175,
             "blockIdx": 5
         },
@@ -73,8 +147,11 @@
             "jpName": "ナリタタイシン",
             "enName": "Narita Taishin",
             "jpText": "（アイツの言う通り、\r\nちょっと休んだ方がいいのかな……）",
-            "enText": "(She's right, maybe I should take \nsome time off…)",
+            "enText": "(Maybe I <i>am</i> feeling down... I should rest<n>a\nlittle...)",
             "nextBlock": 7,
+            "origClipLength": 82,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -7188876164573293762,
             "blockIdx": 6
         },
@@ -82,8 +159,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後、ナリタタイシンと別れたが、\r\n去り際の後ろ姿も覇気がなかった。",
-            "enText": "After that, we parted ways with \nNarita Taishin, who was not looking \ntoo good as she left.",
+            "enText": "We part ways, but Narita Taishin is in<n>low spirits\nas she slinks off.",
             "nextBlock": 8,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6385990218729824823,
             "blockIdx": 7
         },
@@ -91,8 +171,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "もしかすると、疲れが溜まっているのかも\r\nしれない。今後のレースの予定を\n見直す必要がありそうだ。",
-            "enText": "Perhaps she is just tired. I will have to \nreevaluate my racing schedule.",
+            "enText": "Her exhaustion must be catching up to<n>her. Looks\nlike I need to rethink her race<n>schedule.",
             "nextBlock": -1,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -425208962048818747,
             "blockIdx": 8
         }

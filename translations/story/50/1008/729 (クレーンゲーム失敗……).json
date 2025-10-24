@@ -1,26 +1,40 @@
 {
-    "version": 4,
-    "bundle": "KWTYO5EJ2ISPODWQDPZUNQIEJAWMSEUU",
+    "version": 6,
+    "bundle": "P7JJ7C2KJSW6XFAROSAZNFH7GS3BIK2M",
     "type": "story",
     "storyId": "501008729",
     "title": "クレーンゲーム失敗……",
+    "enTitle": "Claw Machine: Failure...",
     "text": [
         {
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "くっそー、惜しかったぜ～。\nこのアーム軟弱すぎだろぉ……！",
-            "enText": "Damn, that was close! This \narm is too soft…!",
+            "enText": "Ughhh, that was so close. That claw is<n>way too\nweak!",
             "nextBlock": 2,
+            "origClipLength": 82,
+            "voiceIdx": 64,
+            "voiceSheetId": "051008001",
             "choices": [
                 {
                     "jpText": "ごめん……",
-                    "enText": "Sorry…",
+                    "enText": "I'm sorry...",
                     "nextBlock": 2
                 },
                 {
                     "jpText": "ごめんね……",
-                    "enText": "Sorry…",
+                    "enText": "I'm sorry...",
                     "nextBlock": 2
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 94,
+                    "pathId": 2155769612096928311
+                },
+                {
+                    "origLen": 94,
+                    "pathId": 6361029954948774625
                 }
             ],
             "pathId": 7641593770905608125,
@@ -30,8 +44,21 @@
             "jpName": "ウオッカ",
             "enName": "Vodka",
             "jpText": "あ、いやっ、マジ気にすんなって！\nこういうのは運とかもあるしよ。",
-            "enText": "Oh, no, don't worry about it! There's luck in \nthis kind of thing, you know.",
+            "enText": "Hey, don't beat yourself up about it.<n>Seriously!\nThese things are mostly luck.",
             "nextBlock": 3,
+            "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051008001",
+            "animData": [
+                {
+                    "origLen": 102,
+                    "pathId": 1400685692500895650
+                },
+                {
+                    "origLen": 50,
+                    "pathId": 5151196204581181765
+                }
+            ],
             "pathId": 6291282050568001867,
             "blockIdx": 2
         },
@@ -39,8 +66,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "残念な結果に終わった……。",
-            "enText": "A disappointing result…",
+            "enText": "Well, that was disappointing.",
             "nextBlock": -1,
+            "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 95,
+                    "pathId": 4853311743882930439
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -8627841069618704931
+                }
+            ],
             "pathId": 5158412973163638074,
             "blockIdx": 3
         }

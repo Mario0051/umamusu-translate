@@ -1,16 +1,20 @@
 {
-    "version": 4,
-    "bundle": "4WZ26BMBCI4MYRYUZKF5BXFEF3W3KSA6",
+    "version": 6,
+    "bundle": "P4C6OKXCAKZBJEOX5QRBGXSBW5R4GXSI",
     "type": "story",
     "storyId": "801014002",
     "title": "シークレット・ノート！",
+    "enTitle": "Secret Notebook!",
     "text": [
         {
             "jpName": "",
             "enName": "",
             "jpText": "休日の昼下がり。\r\n食事のために、席を探していると……。",
-            "enText": "It's late afternoon on a holiday. You are \nlooking for a seat for a meal…",
+            "enText": "I'm off today, and while I'm looking for a<n>place to\nsit and eat in the early<n>afternoon...",
             "nextBlock": 2,
+            "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -4732066036028530250,
             "blockIdx": 1
         },
@@ -18,8 +22,11 @@
             "jpName": "",
             "enName": "",
             "jpText": "気になるノートが、\r\n座席の下に落ちていた。",
-            "enText": "A note of interest was found under my seat.",
+            "enText": "I notice a curious-looking notebook<n>under one of\nthe seats.",
             "nextBlock": 3,
+            "origClipLength": 73,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 8407607295981162885,
             "blockIdx": 2
         },
@@ -27,8 +34,11 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "あーー！　見つけたデス！\r\n『エル世界最強ノートNo.4』！！！",
-            "enText": "Aaah! I found it! \"Elle's World's \nStrongest Notebook No.4\"!",
+            "enText": "Aha! Found it! El's Strongest Notebook<n>in the\nWorld—Número Cuatro!",
             "nextBlock": 4,
+            "origClipLength": 86,
+            "voiceIdx": 0,
+            "voiceSheetId": "051014001",
             "pathId": -2717779829213216817,
             "blockIdx": 3
         },
@@ -36,8 +46,25 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "よかったぁぁ～～っ！\r\nどこ探しても見つからなくて！",
-            "enText": "Oh, thank goodness! I couldn't \nfind it anywhere!",
+            "enText": "Thank goodness! I've been looking<n>everywhere for\nit!",
             "nextBlock": 5,
+            "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 50,
+                    "pathId": -8641999294660757349
+                },
+                {
+                    "origLen": 118,
+                    "pathId": 1741751662806126962
+                },
+                {
+                    "origLen": 106,
+                    "pathId": -6591861605159040487
+                }
+            ],
             "pathId": 3046723335145774072,
             "blockIdx": 4
         },
@@ -45,8 +72,25 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "やっぱり、ここでしたか～！\r\nきっと激辛ホットサンドを食べた時に……。",
-            "enText": "I knew it was here~! I'm sure you'll \nbe able to find it… when you have \na very hot sandwich.",
+            "enText": "So it was here all along, huh? I musta<n>dropped it\nwhile I was eating my super<n>ultra spicy sandwich\nearlier...",
             "nextBlock": 6,
+            "origClipLength": 90,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 20,
+                    "pathId": 7256642189894597497
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 8854849431821287166
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 4616162347118429254
+                }
+            ],
             "pathId": -1753093461001554988,
             "blockIdx": 5
         },
@@ -54,18 +98,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ブエノ！　拾ってくれて感謝デス！\r\nどれだけお礼を言っても言い足りません！",
-            "enText": "Bueno! Thanks for picking me up, Death! I \ncan't thank you enough!",
+            "enText": "Bueno! Muchas gracias for picking it up!<n>I can't\nthank you enough, no matter how<n>many\nlanguages I use!",
             "nextBlock": 7,
+            "origClipLength": 93,
+            "voiceIdx": 12,
+            "voiceSheetId": "051014001",
             "choices": [
                 {
                     "jpText": "大切なノートなんだな",
-                    "enText": "That's a very important note.",
+                    "enText": "That notebook must be really important to you.",
                     "nextBlock": 7
                 },
                 {
                     "jpText": "大切なノートなんだね",
-                    "enText": "That's a very important note.",
+                    "enText": "That notebook must be really important to you.",
                     "nextBlock": 7
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 104,
+                    "pathId": -6376150558523026583
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 3869114402079388808
                 }
             ],
             "pathId": -117162088674540916,
@@ -75,8 +132,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "はい！　パパも現役時代、こうやって\r\nノートに新しいプロレス技を\n書いてましたから！",
-            "enText": "Yes! When I was working, I used \nto write down new wrestling moves \nin a notebook like this!",
+            "enText": "Sí! When my papa was a wrestler, he<n>used to write\ndown new moves in a<n>notebook just like this!",
             "nextBlock": 8,
+            "origClipLength": 98,
+            "voiceIdx": 48,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": -848030433882879689
+                },
+                {
+                    "origLen": 73,
+                    "pathId": -6918077039776347026
+                }
+            ],
             "pathId": -269434790059327819,
             "blockIdx": 7
         },
@@ -84,8 +154,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "つまりデスね！　そのノートには、\r\nこれまでエルが見つけた走りのコツとか、\nとっておきの情報が書いてあ――",
-            "enText": "In other words, Death! In that notebook, \nyou'll find all the running tips and tricks \nthat Elle has discovered so far.",
+            "enText": "In other words, that notebook is filled<n>with all the\ntricks I've discovered for<n>running and other\nspecial info—",
             "nextBlock": 9,
+            "origClipLength": 114,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 126,
+                    "pathId": 7321401032073697283
+                },
+                {
+                    "origLen": 108,
+                    "pathId": -2531874082667647564
+                }
+            ],
             "pathId": 3389356797242325672,
             "blockIdx": 8
         },
@@ -93,8 +176,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "そうだ！　拾ってくれたお礼に、\r\nノートにある情報を1個教えてあげますデス！",
-            "enText": "That's right! As a thank you for picking it \nup, I'll give you one piece of information \nin my notebook!",
+            "enText": "Oh, I know! I'll tell ya one of the secrets<n>in this\nnotebook as my way of thanking<n>you!",
             "nextBlock": 10,
+            "origClipLength": 94,
+            "voiceIdx": 31,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 105,
+                    "pathId": 6507637052376909945
+                },
+                {
+                    "origLen": 68,
+                    "pathId": 1977121947861048142
+                }
+            ],
             "pathId": -6175095040353916633,
             "blockIdx": 9
         },
@@ -102,18 +198,31 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "イチオシは『エル流パワートレメニュー』と\r\n『晴れたレースで走るコツ』デスデス！\nさあ、どっち！？",
-            "enText": "We've got the Elle Power Training \nMenu and tips on how to run in a \nsunny race! So, which is it?",
+            "enText": "I recommend the \"El-Style Power<n>Training\nProgram\" or \"Tips for Race<n>Running on a Clear\nDay\"! What'll it be?!",
             "nextBlock": 11,
+            "origClipLength": 108,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "choices": [
                 {
                     "jpText": "エル流パワートレメニュー",
-                    "enText": "Elle's power training menu",
+                    "enText": "The El-Style Power Training Program.",
                     "nextBlock": 11
                 },
                 {
                     "jpText": "晴れたレースで走るコツ",
-                    "enText": "Tips for running in a sunny race",
+                    "enText": "Tips for Race Running on a Clear Day.",
                     "nextBlock": 14
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 119,
+                    "pathId": -4388911442693878876
+                },
+                {
+                    "origLen": 101,
+                    "pathId": 5874375233035724813
                 }
             ],
             "pathId": 5006797729599080268,
@@ -123,8 +232,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "了解しましたデェェェス！\r\nきっとパワフルになること間違いなし！",
-            "enText": "Roger that, deyes! It's \ngoing to be powerful!",
+            "enText": "Yooooou got it! Consider yourself<n>guaranteed to\nexplode with power!",
             "nextBlock": 12,
+            "origClipLength": 86,
+            "voiceIdx": 11,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 97,
+                    "pathId": 222628075132309089
+                },
+                {
+                    "origLen": 91,
+                    "pathId": 3624015302093278618
+                }
+            ],
             "pathId": 4534528131433065119,
             "blockIdx": 11
         },
@@ -132,8 +254,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ではでは、お耳を拝借！\r\nこれはエルのトップシークレットですからね！",
-            "enText": "Now then, let's hear it for you! Because \nthis is Elle's top secret!",
+            "enText": "Now lend me your ears! This is<n>confidential stuff,\ny'know!",
             "nextBlock": 13,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -679347278156141686
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 2476937708141833487
+                }
+            ],
             "pathId": 6454729049072585523,
             "blockIdx": 12
         },
@@ -141,8 +276,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "実はデスね～！\r\nごにょごにょごにょ～……。",
-            "enText": "Actually desu ne~! Gonyo gonyo gonyo~…",
+            "enText": "So this is what you gotta do! <i>Whisper,<n>whisper,\nwhisper...</i>",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": 2,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 26,
+                    "pathId": 5602421991103679244
+                },
+                {
+                    "origLen": 26,
+                    "pathId": -324787760837699298
+                }
+            ],
             "pathId": -2245811233362557931,
             "blockIdx": 13
         },
@@ -150,8 +298,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "おお！　快晴、攻勢、意外性！\r\nそれを選ぶとは、お目が高い！",
-            "enText": "Oh! Sunny, aggressive, unexpected! Well done \nfor choosing that one!",
+            "enText": "Ooh! Going for the fair-weather offense<n>tricks,\nhuh? An excellent choice, if I do<n>say so myself!",
             "nextBlock": 15,
+            "origClipLength": 85,
+            "voiceIdx": 26,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": 5749011273058145528
+                },
+                {
+                    "origLen": 68,
+                    "pathId": -8453216602747377279
+                }
+            ],
             "pathId": -1408104968053690806,
             "blockIdx": 14
         },
@@ -159,8 +320,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "ではでは、お耳を拝借！\r\nこれはエルのトップシークレットですからね！",
-            "enText": "Now then, let's hear it for you! Because \nthis is Elle's top secret!",
+            "enText": "Now lend me your ears! This is<n>confidential stuff,\ny'know!",
             "nextBlock": 16,
+            "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 100,
+                    "pathId": -8103219583592449170
+                },
+                {
+                    "origLen": 54,
+                    "pathId": -4380620094359012420
+                }
+            ],
             "pathId": 8048622213121217682,
             "blockIdx": 15
         },
@@ -168,8 +342,21 @@
             "jpName": "エルコンドルパサー",
             "enName": "El Condor Pasa",
             "jpText": "実はデスね～！\r\nごにょごにょごにょ～……。",
-            "enText": "Actually desu ne~! Gonyo gonyo gonyo~…",
+            "enText": "So this is what you gotta do! <i>Whisper,<n>whisper,\nwhisper...</i>",
             "nextBlock": -1,
+            "origClipLength": 73,
+            "voiceIdx": 2,
+            "voiceSheetId": "051014001",
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -1789664589525844206
+                },
+                {
+                    "origLen": 88,
+                    "pathId": -1431208415138094132
+                }
+            ],
             "pathId": -6230408081299492434,
             "blockIdx": 16
         }

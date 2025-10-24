@@ -1,16 +1,30 @@
 {
-    "version": 4,
-    "bundle": "3EBFANR6B4C6RNKN52RPLBMO2GYZF6CI",
+    "version": 6,
+    "bundle": "RMPAELRKJHIX7WHLKS6CR7REQZH4SRVC",
     "type": "story",
     "storyId": "501004710",
     "title": "レース敗北",
+    "enTitle": "Defeat",
     "text": [
         {
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ガビーン……。",
-            "enText": "Gabeen…",
+            "enText": "Aww, phooey...",
             "nextBlock": 2,
+            "origClipLength": 54,
+            "voiceIdx": 17,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 65,
+                    "pathId": -5683792633739263270
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -5183553533436479276
+                }
+            ],
             "pathId": -7252766367472939708,
             "blockIdx": 1
         },
@@ -18,18 +32,31 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ごめんね、トレーナー君。かっこいい姿、\n見せてあげられなかったわ……。",
-            "enText": "I'm sorry, trainer. I didn't get a chance\nto show you how cool I am at …",
+            "enText": "Sorry, Trainer. I wanted to look cool for<n>\neveryone, but I majorly failed...",
             "nextBlock": 3,
+            "origClipLength": 90,
+            "voiceIdx": 24,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "次に期待してる！",
-                    "enText": "I'll see you next!",
+                    "enText": "I'm sure you'll do great next time!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "ヘコんでてもしょうがない！",
-                    "enText": "I don't care if you're upset!",
+                    "enText": "There's no point in being bummed out!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 101,
+                    "pathId": -3556233754839442282
+                },
+                {
+                    "origLen": 89,
+                    "pathId": -3130885353905177019
                 }
             ],
             "pathId": 6799486719501349872,
@@ -39,18 +66,31 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ごめんね、トレーナーちゃん。かっこいい姿、\n見せてあげられなかったわ……。",
-            "enText": "I'm sorry, Trainer. I didn't get a chance\nto show you how cool I am at …",
+            "enText": "Sorry, Trainer. I wanted to look cool for<n>\neveryone, but I majorly failed...",
             "nextBlock": 4,
+            "origClipLength": 93,
+            "voiceIdx": 24,
+            "voiceSheetId": "051004001",
             "choices": [
                 {
                     "jpText": "次に期待してる！",
-                    "enText": "I'll see you next!",
+                    "enText": "I'm sure you'll do great next time!",
                     "nextBlock": 4
                 },
                 {
                     "jpText": "ヘコんでてもしょうがない！",
-                    "enText": "I don't care if you're upset!",
+                    "enText": "There's no point in being bummed out!",
                     "nextBlock": 8
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 106,
+                    "pathId": 4274016256079227432
+                },
+                {
+                    "origLen": 89,
+                    "pathId": 276442205228505967
                 }
             ],
             "pathId": -8450120095453407777,
@@ -60,8 +100,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……優しいのね、トレーナー君。",
-            "enText": "… You're very kind, Trainer.",
+            "enText": "You're so kind, Trainer.",
             "nextBlock": 5,
+            "origClipLength": 64,
+            "voiceIdx": 2,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 75,
+                    "pathId": 8592121438345505974
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -5884820204031720031
+                }
+            ],
             "pathId": -5057060573072510359,
             "blockIdx": 4
         },
@@ -69,8 +122,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……優しいのね、トレーナーちゃん。",
-            "enText": "… You're very kind, Trainer. ",
+            "enText": "You're so kind, Trainer.",
             "nextBlock": 6,
+            "origClipLength": 67,
+            "voiceIdx": 2,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 6449869441211509250
+                },
+                {
+                    "origLen": 39,
+                    "pathId": -8904436245689745832
+                }
+            ],
             "pathId": -367618406813426110,
             "blockIdx": 5
         },
@@ -78,8 +144,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……よしっ、それじゃマッハで帰って\nトレーニングしなくっちゃ！",
-            "enText": "… All right, then, I've got to\nget home and train at Mach!",
+            "enText": "Okay, I'm going to run home at Mach<n>five and get\nto training!",
             "nextBlock": 7,
+            "origClipLength": 85,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 96,
+                    "pathId": -7172859718853277645
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -137200850095435483
+                }
+            ],
             "pathId": -3924166450660437381,
             "blockIdx": 6
         },
@@ -87,8 +166,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "次こそ、イイトコみせたいものね！　ふふ♪",
-            "enText": "Next time, I want to show\nhim how good I am! Hmm.",
+            "enText": "Next time, I'll show everyone how great I<n>can\nreally be! Hehe! ♪",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "voiceIdx": 0,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 58,
+                    "pathId": -1228793974487919151
+                },
+                {
+                    "origLen": 58,
+                    "pathId": 7706473380803926463
+                }
+            ],
             "pathId": -7359080564862742272,
             "blockIdx": 7
         },
@@ -96,8 +188,21 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……そうよね、\nヘコんでたって速くはならないわ。",
-            "enText": "… You're right, getting down\ndoesn't make you faster.",
+            "enText": "...You're right. Moping about it won't<n>make me\nany faster.",
             "nextBlock": 9,
+            "origClipLength": 76,
+            "voiceIdx": 47,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 87,
+                    "pathId": -3101728294078543539
+                },
+                {
+                    "origLen": 54,
+                    "pathId": 8031061417442721067
+                }
+            ],
             "pathId": -2688954319539944505,
             "blockIdx": 8
         },
@@ -105,8 +210,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "だからいつまでもヘコまない！　ヘコんでも\n修理ですぐ直るタッちゃんを見習わなくちゃ！",
-            "enText": "That's why I'll never get bent! I'll\nhave to learn from you, Tacchan.",
+            "enText": "Yeah! I have to learn from Tata.<n>Sometimes she\nbreaks down, but she<n>starts right back up after\nsome<n>maintenance!",
             "nextBlock": 10,
+            "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 109,
+                    "pathId": 4129426621900016761
+                },
+                {
+                    "origLen": 110,
+                    "pathId": -1075873786648990096
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -8473037933429133357
+                }
+            ],
             "pathId": 3319942972213189815,
             "blockIdx": 9
         },
@@ -114,8 +236,25 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "よしっ、あたしの修理はこれで終わり！\n早くガソリン入れて、かっ飛ばさなきゃね！",
-            "enText": "Okay, I'm done with my repairs! Now I\njust have to get gas and get going!",
+            "enText": "Okay, I'm done with my repairs! Now I've<n>just got\nto put some gas in my tank and<n>put the pedal to\nthe metal!",
             "nextBlock": -1,
+            "origClipLength": 95,
+            "voiceIdx": 5,
+            "voiceSheetId": "051004001",
+            "animData": [
+                {
+                    "origLen": 15,
+                    "pathId": -815410306076301667
+                },
+                {
+                    "origLen": 106,
+                    "pathId": 1226432632059408340
+                },
+                {
+                    "origLen": 78,
+                    "pathId": 6940654894534082088
+                }
+            ],
             "pathId": 6842089060524851432,
             "blockIdx": 10
         }

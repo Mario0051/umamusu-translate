@@ -1,21 +1,35 @@
 {
-    "version": 4,
-    "bundle": "MU7JM4U6FPALFEH6Z3PZSICUC2LHLTFP",
+    "version": 6,
+    "bundle": "QQJDG4AYJU7U24J3YHTJNUJYQMGHIIUT",
     "type": "story",
     "storyId": "501030714",
     "title": "無茶は厳禁！",
+    "enTitle": "Don't Overdo It!",
     "text": [
         {
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "心配しないで、お兄さま……\r\nちょっとケガしちゃっただけ……痛っ。",
-            "enText": "Don't worry, big brother… I'm \njust a little hurt… Ouch.",
+            "enText": "Don't worry, Big Brother... I just hurt<n>myself a\nlittle... Ow!",
             "nextBlock": 2,
+            "origClipLength": 66,
+            "voiceIdx": 57,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "横になった方がいい",
-                    "enText": "I think you should lie down.",
+                    "enText": "You should lie down.",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -8799851855832555975
+                },
+                {
+                    "origLen": 77,
+                    "pathId": 6263915734282881422
                 }
             ],
             "pathId": 2973750167637367014,
@@ -25,13 +39,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "心配しないで、お姉さま……\r\nちょっとケガしちゃっただけ……痛っ。",
-            "enText": "Don't worry, sister… I'm just \na little hurt… Ouch.",
+            "enText": "Don't worry, Big Sister... I just hurt<n>myself a\nlittle... Ow!",
             "nextBlock": 3,
+            "origClipLength": 66,
+            "voiceIdx": 57,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "横になった方がいい",
-                    "enText": "I think you should lie down.",
+                    "enText": "You should lie down.",
                     "nextBlock": 3
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": 4003999815920838709
+                },
+                {
+                    "origLen": 77,
+                    "pathId": -4188243875718689584
                 }
             ],
             "pathId": -893742797412830572,
@@ -41,8 +68,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "大丈夫……このくらいのケガなら……\r\nライスはまだ、トレーニングできる……！",
-            "enText": "I'm fine… With this kind of injury, \n… Rice can still train…!",
+            "enText": "I'm fine. I won't let an injury like this<n>stop me from\ntraining.",
             "nextBlock": 4,
+            "origClipLength": 69,
+            "voiceIdx": 50,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 80,
+                    "pathId": 5171896190543301546
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 1925252910722222703
+                }
+            ],
             "pathId": 29788121573662677,
             "blockIdx": 3
         },
@@ -50,18 +90,31 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "だから、お兄さまは心配しないで……！",
-            "enText": "So don't worry brother…!",
+            "enText": "Don't worry!",
             "nextBlock": 5,
+            "origClipLength": 56,
+            "voiceIdx": 55,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "そういわれても心配だ……",
-                    "enText": "That being said, I am concerned…",
+                    "enText": "I can't just <i>not</i> worry about you…",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "悪化したらどうするの？",
                     "enText": "What if it gets worse?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -4310108835419342534
+                },
+                {
+                    "origLen": 36,
+                    "pathId": -7293216801377012681
                 }
             ],
             "pathId": -1323501773510933801,
@@ -71,23 +124,36 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "だから、お姉さまは心配しないで……！",
-            "enText": "So don't worry sis…!",
+            "enText": "Don't worry!",
             "nextBlock": 6,
+            "origClipLength": 56,
+            "voiceIdx": 55,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "そういわれても心配だ……",
-                    "enText": "That being said, I am concerned…",
+                    "enText": "I can't just <i>not</i> worry about you…",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "そういわれても心配……",
-                    "enText": "That being said, I'm still worried…",
+                    "enText": "I can't just <i>not</i> worry about you…",
                     "nextBlock": 6
                 },
                 {
                     "jpText": "悪化したらどうするの？",
                     "enText": "What if it gets worse?",
                     "nextBlock": 12
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -1071059578097735802
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 7451267778862820464
                 }
             ],
             "pathId": -8208361123914895922,
@@ -97,8 +163,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あ……ごめんなさい。\r\nライス、そんなつもりじゃ……。",
-            "enText": "Oh… I'm sorry. Rice, didn't mean to…",
+            "enText": "Oh... I'm sorry…",
             "nextBlock": 7,
+            "origClipLength": 62,
+            "voiceIdx": 24,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 73,
+                    "pathId": 3347494307350919625
+                },
+                {
+                    "origLen": 18,
+                    "pathId": -5434322939739075298
+                }
+            ],
             "pathId": -2080496659179936541,
             "blockIdx": 6
         },
@@ -106,13 +185,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ライスは、ただ……もっとがんばれるって\r\nお兄さまに、知って欲しかっただけで……。",
-            "enText": "Rice just wanted you to know \nthat you can do… better.",
+            "enText": "I just... wanted you to know that I can<n>keep\nworking hard.",
             "nextBlock": 8,
+            "origClipLength": 71,
+            "voiceIdx": 21,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "わかってるよ",
-                    "enText": "I know, I know.",
+                    "enText": "I know. But keeping you safe is more important.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 4653934964863494411
+                },
+                {
+                    "origLen": 46,
+                    "pathId": -8204937278915254882
                 }
             ],
             "pathId": -6109851968724667251,
@@ -122,13 +214,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "ライスは、ただ……もっとがんばれるって\r\nお姉さまに、知って欲しかっただけで……。",
-            "enText": "Rice just wanted her sister to know \nthat she could… work harder.",
+            "enText": "I just... wanted you to know that I can<n>keep\nworking hard.",
             "nextBlock": 9,
+            "origClipLength": 71,
+            "voiceIdx": 21,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "わかってるよ",
-                    "enText": "I know, I know.",
+                    "enText": "I know. But keeping you safe is more important.",
                     "nextBlock": 9
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": 427581105135342827
+                },
+                {
+                    "origLen": 46,
+                    "pathId": 3024923453444290524
                 }
             ],
             "pathId": -4517654420693863427,
@@ -138,8 +243,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "うん……ありがとう、お兄さま。\r\nじゃあライス、お休みするね……。",
-            "enText": "Yeah… Thank you, brother. Well, \nRice, is off to bed…",
+            "enText": "Oh… Thanks. In that case, I'll rest...",
             "nextBlock": 10,
+            "origClipLength": 66,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -716259691547409657
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -2932267235281339232
+                }
+            ],
             "pathId": 589356160641065538,
             "blockIdx": 9
         },
@@ -147,8 +265,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "うん……ありがとう、お姉さま。\r\nじゃあライス、お休みするね……。",
-            "enText": "Yeah… Thank you, sister. Well, \nRice, is off to bed…",
+            "enText": "Oh… Thanks. In that case, I'll rest...",
             "nextBlock": 11,
+            "origClipLength": 66,
+            "voiceIdx": 37,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 77,
+                    "pathId": -6235397332493807886
+                },
+                {
+                    "origLen": 24,
+                    "pathId": -1378387992102264567
+                }
+            ],
             "pathId": 980824692574334178,
             "blockIdx": 10
         },
@@ -156,8 +287,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ケガの治療のため休養を取ったが、\r\n思いのほかケガは重かったようで、\n完治まで時間がかかってしまった……。",
-            "enText": "I took a break to heal from my injury, but it \nseemed to be more serious than I thought, and \nit took me a while to fully recover…",
+            "enText": "Rice needs to rest for a while to heal up.<n>Her\ninjury is worse than we thought, and<n>it will take\nquite a while until she<n>completely recovers.",
             "nextBlock": -1,
+            "origClipLength": 79,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 90,
+                    "pathId": -4716889497052949697
+                },
+                {
+                    "origLen": 90,
+                    "pathId": -4945411221479299306
+                }
+            ],
             "pathId": 7476771476232295771,
             "blockIdx": 11
         },
@@ -165,8 +309,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "あう……そっか、そうだよね……。",
-            "enText": "Ah… I see… I see.",
+            "enText": "Oh... Yeah, you're right...",
             "nextBlock": 13,
+            "origClipLength": 55,
+            "voiceIdx": 66,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 66,
+                    "pathId": -8990710815344262525
+                },
+                {
+                    "origLen": 8,
+                    "pathId": -8171013503845784439
+                }
+            ],
             "pathId": -7492651709394462915,
             "blockIdx": 12
         },
@@ -174,8 +331,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "でも、横になったままでもできる\r\nトレーニングってないかな……？",
-            "enText": "But I was wondering if there is any training \nthat can be done while lying down…?",
+            "enText": "I don't suppose there's any training I can<n>do lying\ndown?",
             "nextBlock": 14,
+            "origClipLength": 65,
+            "voiceIdx": 34,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 76,
+                    "pathId": -8860488112431357014
+                },
+                {
+                    "origLen": 34,
+                    "pathId": -8279048783768688199
+                }
+            ],
             "pathId": -5905369599709176252,
             "blockIdx": 13
         },
@@ -183,13 +353,26 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "そうだ、上半身の運動くらいなら――",
-            "enText": "Yes, at least an upper body workout—",
+            "enText": "Like, maybe upper-body excer—",
             "nextBlock": 15,
+            "origClipLength": 56,
+            "voiceIdx": 31,
+            "voiceSheetId": "051030001",
             "choices": [
                 {
                     "jpText": "安静に",
-                    "enText": "At ease.",
+                    "enText": "It's fine. Just get some rest.",
                     "nextBlock": 15
+                }
+            ],
+            "animData": [
+                {
+                    "origLen": 67,
+                    "pathId": -8852174509718271600
+                },
+                {
+                    "origLen": 36,
+                    "pathId": 2668862760133003564
                 }
             ],
             "pathId": -8421876075249157198,
@@ -199,8 +382,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……はい。\r\nはぁ……どうしてライスはいつもいつも……。",
-            "enText": "… Yes. Huh… why is Rice always always always…",
+            "enText": "Okay... <i>Sigh...</i> Why do I always mess up<n>like this?",
             "nextBlock": 16,
+            "origClipLength": 63,
+            "voiceIdx": 60,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 74,
+                    "pathId": -324201888938823059
+                },
+                {
+                    "origLen": 16,
+                    "pathId": 8116758129483404609
+                }
+            ],
             "pathId": -5989243068144713044,
             "blockIdx": 15
         },
@@ -208,8 +404,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "休養は取ってくれたライスシャワーで\r\nあったが、しばらく調子は戻らなかった……。",
-            "enText": "Rice Shower took a break, but did \nnot return to form for a while…",
+            "enText": "Rice Shower gets some proper rest, but<n>it's a\nwhile before she's back to normal.",
             "nextBlock": -1,
+            "origClipLength": 71,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 82,
+                    "pathId": -9136308980791824390
+                },
+                {
+                    "origLen": 82,
+                    "pathId": 2601310276905611287
+                }
+            ],
             "pathId": -7476021421513832398,
             "blockIdx": 16
         },
@@ -217,8 +426,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "……でも、ここで止めちゃったら、\r\nこれまでのトレーニングもムダになっちゃう。",
-            "enText": "… But if I stop here, all the training I've \ndone so far will be for nothing.",
+            "enText": "But if I stop here, all the training I've<n>done until\nnow will be for nothing.",
             "nextBlock": 18,
+            "origClipLength": 70,
+            "voiceIdx": 34,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -5219152096501850395
+                },
+                {
+                    "origLen": 41,
+                    "pathId": 7927737317843754489
+                }
+            ],
             "pathId": -8700117157743730088,
             "blockIdx": 17
         },
@@ -226,8 +448,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "そんなのは……イヤ。",
-            "enText": "I don't want to… do that.",
+            "enText": "I-I don't want that.",
             "nextBlock": 19,
+            "origClipLength": 51,
+            "voiceIdx": 15,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 62,
+                    "pathId": -3949289957168679958
+                },
+                {
+                    "origLen": 23,
+                    "pathId": 8308607091506913246
+                }
+            ],
             "pathId": 9203080293332236668,
             "blockIdx": 18
         },
@@ -235,8 +470,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "だから、お兄さま……！\r\nケガが治ったら、すぐにトレーニングを……！",
-            "enText": "So, brother…! As soon as your injury is \nhealed, you need to train…!",
+            "enText": "So please! Once I'm healed, you have to<n>let me\nstart training right away!",
             "nextBlock": 20,
+            "origClipLength": 67,
+            "voiceIdx": 56,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": -952864429902989789
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -5995274271096234487
+                }
+            ],
             "pathId": -9120231561795751822,
             "blockIdx": 19
         },
@@ -244,8 +492,21 @@
             "jpName": "ライスシャワー",
             "enName": "Rice Shower",
             "jpText": "だから、お姉さま……！\r\nケガが治ったら、すぐにトレーニングを……！",
-            "enText": "So, sister…! As soon as your injury is \nhealed, you need to train…!",
+            "enText": "So please! Once I'm healed, you have to<n>let me\nstart training right away!",
             "nextBlock": 21,
+            "origClipLength": 67,
+            "voiceIdx": 56,
+            "voiceSheetId": "051030001",
+            "animData": [
+                {
+                    "origLen": 78,
+                    "pathId": 7001818284737157774
+                },
+                {
+                    "origLen": 50,
+                    "pathId": -7522531640712475026
+                }
+            ],
             "pathId": -6517799078675663049,
             "blockIdx": 20
         },
@@ -253,8 +514,21 @@
             "jpName": "",
             "enName": "",
             "jpText": "ライスシャワーのその瞳に決意を感じた。\r\n今回の件で、彼女は何かを得たようだ。",
-            "enText": "I could see the determination in Rice Shower's \neyes. She seemed to have gained something \nfrom this incident.",
+            "enText": "Rice Shower's eyes burn with<n>determination. It\nseems like she's gotten<n>something out of this\nsituation.",
             "nextBlock": -1,
+            "origClipLength": 70,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
+            "animData": [
+                {
+                    "origLen": 81,
+                    "pathId": -5409198366556618306
+                },
+                {
+                    "origLen": 81,
+                    "pathId": -2364874596658335502
+                }
+            ],
             "pathId": 1906258042253724849,
             "blockIdx": 21
         }

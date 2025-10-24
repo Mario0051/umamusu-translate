@@ -1,17 +1,20 @@
 {
-    "version": 5,
-    "bundle": "W3ZATPFPYKE4FI2GLBNDG52EEWXFTXGW",
+    "version": 6,
+    "bundle": "TQBBJHJ7DRWRI6Q75OAAELSMKBYPK6IJ",
     "type": "story",
     "storyId": "041004001",
     "title": "風の中の彼女",
+    "enTitle": "Blowing in the Breeze",
     "text": [
         {
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "ウマ娘たちがその実力をトレーナーたちに\r\nアピールする学園の一大行事、『選抜レース』",
-            "enText": "The Selection Race. One of the largest events at the academy, \nwhere horsegirls display their abilities to prospective trainers.",
+            "enText": "Students are showing off their skills to the<n>trainers at the academy's\nbig tryout race.",
             "nextBlock": 2,
             "origClipLength": 99,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -6679318748206455428,
             "blockIdx": 1
         },
@@ -19,9 +22,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "多くのウマ娘たちが懸命に走る中、余裕の表情を浮かべたまま、\r\n圧倒的な走りを見せた1人のウマ娘がいた――",
-            "enText": "Among the many eager girls trying their hardest, one ran at \ntremendous pace, all the while carrying a relaxed expression.",
+            "enText": "Though everyone is putting their heart into<n>it, one racer has no\nproblem outshining<n>them.",
             "nextBlock": 3,
             "origClipLength": 112,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 72,
@@ -35,9 +40,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "さ、まだまだ飛ばすわよ！",
-            "enText": "Let's kick it up a gear!",
+            "enText": "Now I'll really let loose!",
             "nextBlock": 4,
             "origClipLength": 132,
+            "voiceIdx": 0,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 134,
@@ -49,11 +56,13 @@
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "（ワァアアアアアー！！）",
-            "enText": "(Waaaaaaaah!)",
+            "enText": "Yeaaaah! Wooo!!",
             "nextBlock": 5,
             "origClipLength": 89,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 134,
@@ -65,11 +74,13 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "ま、マルゼンスキーさらに加速っ！　後続との差は開く一方！！\r\nもはや彼女の1人旅ですっ！！",
-            "enText": "Ma- Maruzensky speeds up further! The gap between her and the \nrest grows larger! She's running her own race!",
+            "enText": "M-Maruzensky's picking up even more<n>speed! She's leaving the pack\nbehind! No<n>one can catch up now!",
             "nextBlock": 6,
             "origClipLength": 236,
+            "voiceIdx": 1,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 263,
@@ -83,17 +94,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "はっ、はっ、はっ……。\r\nふふ、いい風吹いてるわね！",
-            "enText": "Hah, hah, hah… Mmm, the wind feels so nice!",
+            "enText": "<i>Huff, huff, huff...</i> Hehe, the wind on my<n>face feels great!",
             "nextBlock": 7,
             "origClipLength": 170,
+            "voiceIdx": 2,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 263,
-                    "pathId": -1940894267761249049
-                },
                 {
                     "origLen": 68,
                     "pathId": -7626036438017530694
+                },
+                {
+                    "origLen": 263,
+                    "pathId": -1940894267761249049
                 }
             ],
             "pathId": 7364519216601642417,
@@ -101,31 +114,33 @@
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "こ、これは……！",
-            "enText": "T- This is…!",
+            "enText": "L-look at her!",
             "nextBlock": 8,
             "origClipLength": 53,
+            "voiceIdx": 3,
+            "voiceSheetId": "041004001",
             "choices": [
                 {
                     "jpText": "（なんて素晴らしい走りだ……！）",
-                    "enText": "(What an amazing run…!)",
+                    "enText": "(What amazing running!)",
                     "nextBlock": 8
                 },
                 {
                     "jpText": "（なんて素晴らしい走り……！）",
-                    "enText": "(What a great run…!)",
+                    "enText": "(What amazing running!)",
                     "nextBlock": 8
                 }
             ],
             "animData": [
                 {
-                    "origLen": 263,
-                    "pathId": -3340244292192799006
-                },
-                {
                     "origLen": 14,
                     "pathId": 8863957063850698474
+                },
+                {
+                    "origLen": 263,
+                    "pathId": -3340244292192799006
                 }
             ],
             "pathId": -7049956277273193828,
@@ -135,9 +150,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "走る彼女は力強く、美しく、風よりも速く――",
-            "enText": "Her running form is strong, beautiful, faster than the wind—",
+            "enText": "She's strong, beautiful, and faster than the<n>wind...",
             "nextBlock": 9,
             "origClipLength": 72,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 88,
@@ -151,9 +168,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "もっと……もっと速く、イケるわっ！！",
-            "enText": "Faster… I can go faster!!",
+            "enText": "Looks like I still got more in the tank!",
             "nextBlock": 10,
             "origClipLength": 149,
+            "voiceIdx": 4,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 178,
@@ -167,9 +186,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "そしてなにより、コース上にいる誰よりも\r\n楽しく、心地よさそうに大地を蹴っていた。",
-            "enText": "And above all, she was kicking the ground with more joy and \ncomfort than anyone else on the course.",
+            "enText": "But what makes her special is that she's<n>having more fun than anyone\nelse on the<n>track.",
             "nextBlock": 11,
             "origClipLength": 98,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 123,
@@ -181,11 +202,13 @@
         },
         {
             "jpName": "実況",
-            "enName": "Commentator",
+            "enName": "Caster",
             "jpText": "ゴールインッ！　1着はマルゼンスキー！！\r\n他を一切寄せ付けない、圧倒的な走りでした！",
-            "enText": "And the race is over! Maruzensky takes first place! With an \noverwhelming run that left the others far behind!",
+            "enText": "That's it! Maruzensky takes first! She blew<n>the competition away—a\nfantastic run!",
             "nextBlock": 12,
             "origClipLength": 245,
+            "voiceIdx": 5,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 25,
@@ -197,11 +220,13 @@
         },
         {
             "jpName": "観客たち",
-            "enName": "Crowd",
+            "enName": "Spectators",
             "jpText": "（ワァァァァー……！！）",
-            "enText": "(Waaaahhhh…!!!)",
+            "enText": "Yeaaaah! Wooo!!",
             "nextBlock": 13,
             "origClipLength": 168,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -1595820721440878593,
             "blockIdx": 12
         },
@@ -209,17 +234,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふぅっ！　あー、気持ちよかったー♪\r\nもうゴールなのがもったいないくらいね。",
-            "enText": "Pheew! Aah, that felt so good—♪ I'm \nalmost sad to reach the finish.",
+            "enText": "Phew! Aaah, I feel great after that. ♪ I<n>almost wish it wasn't over so\nquick.",
             "nextBlock": 14,
             "origClipLength": 249,
+            "voiceIdx": 6,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 40,
-                    "pathId": -2231499939394282213
-                },
                 {
                     "origLen": 27,
                     "pathId": -1662842972303002306
+                },
+                {
+                    "origLen": 40,
+                    "pathId": -2231499939394282213
                 }
             ],
             "pathId": -7857569428795558424,
@@ -227,19 +254,21 @@
         },
         {
             "jpName": "後輩ウマ娘A",
-            "enName": "Junior Horsegirl A",
+            "enName": "Young Umamusume A",
             "jpText": "マルゼンスキーせんぱぁぁぁーいっ！！\r\nさすがです！　すごいです！　やばいですっ！",
-            "enText": "Maruzenskyyyy! I didn't expect anything \nless! You're amazing! You're awesome!",
+            "enText": "Maruzenkyyy! Wow! Just, wow! You were<n>great!",
             "nextBlock": 15,
             "origClipLength": 163,
+            "voiceIdx": 7,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -1904938946994775826
-                },
                 {
                     "origLen": 95,
                     "pathId": -8317920464633680085
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -1904938946994775826
                 }
             ],
             "pathId": -474421149517669906,
@@ -247,19 +276,21 @@
         },
         {
             "jpName": "後輩ウマ娘B",
-            "enName": "Junior Horsegirl B",
+            "enName": "Young Umamusume B",
             "jpText": "こ、こんなタイム、初めて見ました……！",
-            "enText": "I-I've never seen a time like this before…!",
+            "enText": "I-I've never seen such a fast time!",
             "nextBlock": 16,
             "origClipLength": 100,
+            "voiceIdx": 8,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 111,
-                    "pathId": -7359544616727746999
+                    "pathId": -9066254661881548102
                 },
                 {
                     "origLen": 111,
-                    "pathId": -9066254661881548102
+                    "pathId": -7359544616727746999
                 }
             ],
             "pathId": -8872575412327629317,
@@ -269,17 +300,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あらあらみんなー！\r\nいつも応援ありがとねー！！",
-            "enText": "Oh my, you girls! Thanks for all your support!!",
+            "enText": "Oh, hi, everyone! Aren't you sweet for<n>cheering me on!",
             "nextBlock": 17,
             "origClipLength": 165,
+            "voiceIdx": 9,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 28,
-                    "pathId": 3102551260023659877
-                },
                 {
                     "origLen": 176,
                     "pathId": -8131107968407392783
+                },
+                {
+                    "origLen": 28,
+                    "pathId": 3102551260023659877
                 },
                 {
                     "origLen": 60,
@@ -291,19 +324,21 @@
         },
         {
             "jpName": "後輩ウマ娘A",
-            "enName": "Junior Horsegirl A",
+            "enName": "Young Umamusume A",
             "jpText": "感動しましたーっ！　アタシも先輩みたいに速くなりたいです！！\r\nよければまた併走お願いしまーすっ！！",
-            "enText": "You inspire me! I want to be as fast as \nyou! Please run with me again sometime!",
+            "enText": "I cried, it was so amazing! I wanna be as<n>fast as you someday! Can we\ngo partner<n>running again soon?!",
             "nextBlock": 18,
             "origClipLength": 250,
+            "voiceIdx": 10,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 223,
-                    "pathId": -7687893344673280675
-                },
                 {
                     "origLen": 260,
                     "pathId": 1985680223245965572
+                },
+                {
+                    "origLen": 223,
+                    "pathId": -7687893344673280675
                 }
             ],
             "pathId": -2629997782153033596,
@@ -313,17 +348,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "うふふ、お安い御用よ。なんなら、この後すぐにしましょうか！\r\n走ることならいつでも大歓迎だし♪",
-            "enText": "Eheheh, sure thing! We could do it right after \nthis if you like! I'm always up for a run♪",
+            "enText": "Ahaha, that's no sweat. We could do it<n>right after this! I'm always\namped for<n>another run. ♪",
             "nextBlock": 19,
             "origClipLength": 260,
+            "voiceIdx": 11,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 148,
-                    "pathId": 2949054868901558844
-                },
                 {
                     "origLen": 274,
                     "pathId": 5398106256198358817
+                },
+                {
+                    "origLen": 148,
+                    "pathId": 2949054868901558844
                 }
             ],
             "pathId": -5154177293153999162,
@@ -331,19 +368,21 @@
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "あ、あんな大差で勝った上にあの余裕ぶり……。\r\nモノが違いすぎますね、マルゼンスキー……！",
-            "enText": "I-is she really saying that after winning by \na mile…? This girl's something else…!",
+            "enText": "Wow, a victory with a huge lead, and still<n>ready for more? You're\nsomething else,<n>Maruzensky!",
             "nextBlock": 20,
             "origClipLength": 223,
+            "voiceIdx": 12,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 175,
-                    "pathId": -341542721073538254
-                },
                 {
                     "origLen": 234,
                     "pathId": 4015009744610296809
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -341542721073538254
                 }
             ],
             "pathId": -2397766351690943177,
@@ -351,19 +390,21 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "積んでいるエンジンが違うとはまさにこのことね。\r\nだからこそ……ぜひウチにほしいわね、マルゼンスキー……！",
-            "enText": "This must be what they mean when they say she's running on a \ndifferent engine. I'd sure love to have her…!",
+            "enText": "You've got an engine like no other. So,<n>please... join my team,\nMaruzensky!",
             "nextBlock": 21,
             "origClipLength": 262,
+            "voiceIdx": 13,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 273,
-                    "pathId": 8926377346230788423
+                    "pathId": -3435651989190920851
                 },
                 {
                     "origLen": 273,
-                    "pathId": -3435651989190920851
+                    "pathId": 8926377346230788423
                 }
             ],
             "pathId": 6844168493594877244,
@@ -373,17 +414,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "さてと……って、あら？",
-            "enText": "Let's see… Oh?",
+            "enText": "Alrighty—wait, what?",
             "nextBlock": 22,
             "origClipLength": 139,
+            "voiceIdx": 14,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 65,
-                    "pathId": -7949503793033463964
-                },
                 {
                     "origLen": 20,
                     "pathId": -5272153240574448325
+                },
+                {
+                    "origLen": 65,
+                    "pathId": -7949503793033463964
                 }
             ],
             "pathId": -6909276988392323014,
@@ -393,17 +436,19 @@
             "jpName": "トレーナーたち",
             "enName": "Trainers",
             "jpText": "マルゼンスキー、キミこそうちのエースだ！\r\nマルゼンスキー、話をさせてちょうだいっ！",
-            "enText": "Maruzensky, you're the ace I've been looking for! \nMaruzensky, can I talk to you for a moment!",
+            "enText": "Maruzensky, you'll be our ace!<n>Maruzensky! Let's talk, okay?!",
             "nextBlock": 23,
             "origClipLength": 185,
+            "voiceIdx": 15,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 200,
-                    "pathId": -4937987950257617339
-                },
                 {
                     "origLen": 25,
                     "pathId": 9002444156747907301
+                },
+                {
+                    "origLen": 200,
+                    "pathId": -4937987950257617339
                 }
             ],
             "pathId": -187741440361818396,
@@ -413,9 +458,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あらら～……。",
-            "enText": "Oh dear～…",
+            "enText": "Oh goodness...",
             "nextBlock": 24,
             "origClipLength": 52,
+            "voiceIdx": 16,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 13,
@@ -429,9 +476,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "当然のごとく、選抜レースを終えた彼女の周りには、\r\n契約希望のトレーナーたちが大挙して押し寄せていた。",
-            "enText": "Naturally, after that Selection Race, she was quickly swarmed \nwith trainers looking to contract her.",
+            "enText": "After her fantastic tryout race, she's<n>surrounded by trainers all wanting\nher on<n>their team.",
             "nextBlock": 25,
             "origClipLength": 111,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 124,
@@ -445,9 +494,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "しかし――",
-            "enText": "But—",
+            "enText": "It seems she's got other ideas though...",
             "nextBlock": 26,
             "origClipLength": 51,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 62,
@@ -459,11 +510,13 @@
         },
         {
             "jpName": "新人トレーナーA",
-            "enName": "Rookie Trainer A",
+            "enName": "New Trainer A",
             "jpText": "マルゼンスキー、君なら無敗の三冠ウマ娘だって\r\n夢じゃないよ！　俺と一緒にでっかくなろう！",
-            "enText": "Maruzensky, you can be an undefeated Triple \nCrown horsegirl! Come make it big with me!",
+            "enText": "Come on, Maruzensky—a racer like you<n>could be an undefeated\nTriple Crown<n>Champion! Let's make it happen!",
             "nextBlock": 27,
             "origClipLength": 195,
+            "voiceIdx": 17,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 206,
@@ -477,17 +530,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "そうねぇ、大きいことはいいことだと思うけれど……ごめんなさい。\r\n情熱的なお誘いありがとね。",
-            "enText": "Oh my, going big sounds nice and all but… I'm sorry. \nThanks for your passionate invitation.",
+            "enText": "That certainly sounds exciting, but... I have<n>to say no. I appreciate\nyour enthusiasm<n>though.",
             "nextBlock": 28,
             "origClipLength": 301,
+            "voiceIdx": 18,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 132,
-                    "pathId": -3468039426682344301
-                },
                 {
                     "origLen": 36,
                     "pathId": -3931910804511117905
+                },
+                {
+                    "origLen": 132,
+                    "pathId": -3468039426682344301
                 }
             ],
             "pathId": 5205574973749197863,
@@ -495,11 +550,13 @@
         },
         {
             "jpName": "中堅トレーナーA",
-            "enName": "Experienced Trainer A",
+            "enName": "Skilled Trainer A",
             "jpText": "貴方はいずれ伝説のウマ娘になるわ！\r\n歴史に名を刻むお手伝いを私にさせて！！",
-            "enText": "You will be a legendary horsegirl one day! Let \nme help you make your mark on history!!",
+            "enText": "You're going to become a racing legend!<n>Let me help you write your\nname down in<n>history!",
             "nextBlock": 29,
             "origClipLength": 200,
+            "voiceIdx": 19,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 211,
@@ -513,17 +570,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あははっ、ちょっと大げさ過ぎない？\r\nそこまでの器じゃないと思うわ。ごめんね♪",
-            "enText": "Ahahah, aren't you exaggerating a little? I don't think I'm \ncapable of that much. Sorry♪",
+            "enText": "Ahaha, isn't that a bit of an exaggeration?<n>I don't think I've got <i>that</i>\nmuch potential.<n>Sorry. ♪",
             "nextBlock": 30,
             "origClipLength": 198,
+            "voiceIdx": 20,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 86,
-                    "pathId": 1117210612676510804
-                },
                 {
                     "origLen": 50,
                     "pathId": 596631843183493522
+                },
+                {
+                    "origLen": 86,
+                    "pathId": 1117210612676510804
                 }
             ],
             "pathId": 2404460096268483240,
@@ -533,9 +592,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "マルゼンスキーは何人ものトレーナーに\r\nスカウトされつつも、全て丁寧に断っていた。",
-            "enText": "No matter how many trainers approached her, \nshe politely turned them all down.",
+            "enText": "Maruzensky is approached by trainer after<n>trainer but politely refuses\nthem all.",
             "nextBlock": 31,
             "origClipLength": 100,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 174,
@@ -547,19 +608,21 @@
         },
         {
             "jpName": "後輩ウマ娘B",
-            "enName": "Junior Horsegirl B",
+            "enName": "Young Umamusume B",
             "jpText": "先輩……選抜レース前からもずーっと色んなトレーナーさんに\r\n声かけられてるのに、どうして全部断っちゃうんだろ……？",
-            "enText": "Maruzensky… She's constantly been approached \nby trainers long before the Selection Race. \nI wonder why she turns them all down…?",
+            "enText": "Hey... She's been turning down trainers left<n>and right—even since\nbefore the tryouts.<n>Why is that?",
             "nextBlock": 32,
             "origClipLength": 292,
+            "voiceIdx": 21,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 304,
-                    "pathId": -3588104227616502393
-                },
                 {
                     "origLen": 109,
                     "pathId": -3890294406001796872
+                },
+                {
+                    "origLen": 304,
+                    "pathId": -3588104227616502393
                 }
             ],
             "pathId": -2655100247490976126,
@@ -567,19 +630,21 @@
         },
         {
             "jpName": "後輩ウマ娘A",
-            "enName": "Junior Horsegirl A",
+            "enName": "Young Umamusume A",
             "jpText": "きっと先輩はさ、トレーナーさんたちより\r\nもっともーっと上を見てるんだよ！",
-            "enText": "I'm sure she has her sights set way higher \nthan even those trainers have!",
+            "enText": "I bet she's got her sights set higher than all<n>of them combined!",
             "nextBlock": 33,
             "origClipLength": 178,
+            "voiceIdx": 22,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 189,
-                    "pathId": 9173839239703176000
-                },
                 {
                     "origLen": 20,
                     "pathId": 6058608967705719164
+                },
+                {
+                    "origLen": 189,
+                    "pathId": 9173839239703176000
                 }
             ],
             "pathId": 8672350046543137851,
@@ -587,19 +652,21 @@
         },
         {
             "jpName": "後輩ウマ娘B",
-            "enName": "Junior Horsegirl B",
+            "enName": "Young Umamusume B",
             "jpText": "な、なるほど、さすが……！　早く先輩に似合うトレーナーが\r\n見つかって、大活躍してるところが見たいなぁ……。",
-            "enText": "I- I see, of course…! I can't wait to \nsee her find a trainer who suits her and take to the big stages…",
+            "enText": "Ah, you're right, of course! I hope I get to<n>see her work with a trainer\nwho deserves<n>her.",
             "nextBlock": 34,
             "origClipLength": 280,
+            "voiceIdx": 23,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 291,
-                    "pathId": -7766704161814742583
-                },
                 {
                     "origLen": 50,
                     "pathId": -3377844083494158021
+                },
+                {
+                    "origLen": 291,
+                    "pathId": -7766704161814742583
                 }
             ],
             "pathId": -7826756158631396595,
@@ -609,17 +676,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "………………。",
-            "enText": "………………",
+            "enText": "...",
             "nextBlock": 35,
             "origClipLength": 70,
+            "voiceIdx": 24,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 81,
-                    "pathId": 9153943069980214792
-                },
                 {
                     "origLen": 76,
                     "pathId": -6094158456989647417
+                },
+                {
+                    "origLen": 81,
+                    "pathId": 9153943069980214792
                 }
             ],
             "pathId": 4316669974969949784,
@@ -629,17 +698,19 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "結局その日、マルゼンスキーは誰とも契約を交わさなかった。",
-            "enText": "In the end, Maruzensky did not sign with anyone that day.",
+            "enText": "In the end, she didn't sign on with any of<n>the trainers.",
             "nextBlock": 36,
             "origClipLength": 80,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 22,
-                    "pathId": -2628442586593064384
-                },
                 {
                     "origLen": 24,
                     "pathId": -8191244024275338402
+                },
+                {
+                    "origLen": 22,
+                    "pathId": -2628442586593064384
                 }
             ],
             "pathId": -1072250314096912893,
@@ -649,9 +720,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "――それから数日後の夕方。",
-            "enText": "—One evening a few days later.",
+            "enText": "Then, on a quiet evening a few days later...",
             "nextBlock": 37,
             "origClipLength": 61,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": -5810584982781492988,
             "blockIdx": 36
         },
@@ -659,9 +732,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふぅっ……。",
-            "enText": "Pheeew…",
+            "enText": "Phew...",
             "nextBlock": 38,
             "origClipLength": 81,
+            "voiceIdx": 25,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 30,
@@ -675,9 +750,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "偶然トレーニングコースを通りかかった時、\r\n髪をなびかせ走るマルゼンスキーを見かけた。",
-            "enText": "I happened to pass by the training course when I saw \nMaruzensky running, her hair swaying in the wind.",
+            "enText": "I happen to be walking past the training<n>course when I see\nMaruzensky, her hair<n>flowing back as she runs.",
             "nextBlock": 39,
             "origClipLength": 101,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 113,
@@ -691,17 +768,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "時間……は、まだあるわね。\r\nよーし、もう1周いっちゃお♪",
-            "enText": "There's still time… Rightio, let's go another round♪",
+            "enText": "Let's see... Still time. Okay, think I'll do<n>one more lap. ♪",
             "nextBlock": 40,
             "origClipLength": 184,
+            "voiceIdx": 26,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 38,
-                    "pathId": 7612579835640811675
-                },
                 {
                     "origLen": 20,
                     "pathId": 478507347329929553
+                },
+                {
+                    "origLen": 38,
+                    "pathId": 7612579835640811675
                 }
             ],
             "pathId": 7356872515009016462,
@@ -711,9 +790,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "――それっ！！",
-            "enText": "—Hup!!",
+            "enText": "Here goes!",
             "nextBlock": 41,
             "origClipLength": 49,
+            "voiceIdx": 27,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 56,
@@ -727,9 +808,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "はっ、はっ、はっ……ふふっ！",
-            "enText": "Ha, hah, ha… Heheh!",
+            "enText": "<i>Huff, puff, huff...</i> Haha!",
             "nextBlock": 42,
             "origClipLength": 154,
+            "voiceIdx": 28,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 198,
@@ -743,9 +826,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "選抜レースの時にも感じたことが、再び胸を過る。",
-            "enText": "The same feeling I felt during the Selection \nRace came over me again.",
+            "enText": "The excitement I felt at the tryouts flutters<n>through my heart again.",
             "nextBlock": 43,
             "origClipLength": 75,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 201,
@@ -759,9 +844,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "彼女は、なんて――",
-            "enText": "How does she—",
+            "enText": "She really—",
             "nextBlock": 44,
             "origClipLength": 56,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
                 {
                     "origLen": 198,
@@ -775,9 +862,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "もっと……もっと速く……！！",
-            "enText": "Faster… faster…!!",
+            "enText": "Faster... Faster!",
             "nextBlock": 45,
             "origClipLength": 109,
+            "voiceIdx": 29,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 131,
@@ -791,9 +880,11 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "なんて楽しそうに、心地よさそうに駆けるのだろう……！",
-            "enText": "What a fun and comfortable looking way to run…!",
+            "enText": "—looks so happy on the track, like she's<n>having a blast!",
             "nextBlock": 46,
             "origClipLength": 81,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "pathId": 7590979569187666510,
             "blockIdx": 45
         },
@@ -801,9 +892,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "はぁっ、はぁっ……ふ～。\r\n満足満足♪",
-            "enText": "Hah, hahh… Pheeew～. That hits the spot♪",
+            "enText": "<i>Pant, pant...</i> Phew. Doesn't get any<n>better. ♪",
             "nextBlock": 47,
             "origClipLength": 193,
+            "voiceIdx": 30,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 59,
@@ -821,17 +914,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "っと、あら？　君は確か、\r\nこの前の選抜レース会場にいたトレーナー君……よね？",
-            "enText": "Oh, dearie me? If I remember, you're the trainer I saw at the \nSelection Race the other day… right?",
+            "enText": "Oh? Hey, you're the trainer from the other<n>day at the tryouts... Right?",
             "nextBlock": 48,
             "origClipLength": 281,
+            "voiceIdx": 31,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 227,
-                    "pathId": -944082477785015684
-                },
                 {
                     "origLen": 17,
                     "pathId": -1817437512360288939
+                },
+                {
+                    "origLen": 227,
+                    "pathId": -944082477785015684
                 }
             ],
             "pathId": 3367218182006887157,
@@ -841,17 +936,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "っと、あら？　あなたは確か、\r\nこの前の選抜レース会場にいたトレーナーさん……よね？",
-            "enText": "Oh, dearie me? If I have it well, you're the trainer I saw at the \nSelection Race the other day… right?",
+            "enText": "Oh? Hey, you're the trainer from the other<n>day at the tryouts... Right?",
             "nextBlock": 49,
             "origClipLength": 281,
+            "voiceIdx": 31,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 227,
-                    "pathId": 8314493012751857369
-                },
                 {
                     "origLen": 31,
                     "pathId": 3651403292032698743
+                },
+                {
+                    "origLen": 227,
+                    "pathId": 8314493012751857369
                 }
             ],
             "pathId": -5636781850396346092,
@@ -861,9 +958,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "もしかして、わざわざスカウトに？\r\nふふっ、仕事熱心なのねぇ。",
-            "enText": "Did you come all this way to scout me? \nHeheh, aren't you a dedicated one.",
+            "enText": "Ahhh, did you come all this way to try and<n>scout me? Hehe, that's\nsome nice<n>commitment.",
             "nextBlock": 50,
             "origClipLength": 202,
+            "voiceIdx": 32,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 154,
@@ -877,29 +976,31 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "それで、君はどんな言葉をかけてくれるの？\r\nどんな未来の栄光を、あたしの走りに見たのかしら。",
-            "enText": "So, what will I have the pleasure of hearing from \nyou? See any future glory in my running?",
+            "enText": "So, what kind of approach will you use?<n>Something like how you saw\nfuture glory in<n>my running?",
             "nextBlock": 51,
             "origClipLength": 257,
+            "voiceIdx": 33,
+            "voiceSheetId": "041004001",
             "choices": [
                 {
                     "jpText": "いや、ただ……",
-                    "enText": "No, just…",
+                    "enText": "No, I just...",
                     "nextBlock": 52
                 },
                 {
                     "jpText": "いえ、ただ……",
-                    "enText": "No, I just…",
+                    "enText": "No, I just...",
                     "nextBlock": 52
                 }
             ],
             "animData": [
                 {
-                    "origLen": 47,
-                    "pathId": 7606463238195669469
-                },
-                {
                     "origLen": 25,
                     "pathId": 6498363752456854233
+                },
+                {
+                    "origLen": 47,
+                    "pathId": 7606463238195669469
                 }
             ],
             "pathId": 135219629534659805,
@@ -909,29 +1010,31 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "それで、あなたはどんな言葉をかけてくれるの？\r\nどんな未来の栄光を、あたしの走りに見たのかしら。",
-            "enText": "So, what sort of conversation will you bless me with? Have you \nfound future glory in my running?",
+            "enText": "So, what kind of approach will you use?<n>Something like how you saw\nfuture glory in<n>my running?",
             "nextBlock": 52,
             "origClipLength": 257,
+            "voiceIdx": 33,
+            "voiceSheetId": "041004001",
             "choices": [
                 {
                     "jpText": "いや、ただ……",
-                    "enText": "No, just…",
+                    "enText": "No, I just...",
                     "nextBlock": 52
                 },
                 {
                     "jpText": "いえ、ただ……",
-                    "enText": "No, I just…",
+                    "enText": "No, I just...",
                     "nextBlock": 52
                 }
             ],
             "animData": [
                 {
-                    "origLen": 47,
-                    "pathId": -7557500030423729582
-                },
-                {
                     "origLen": 25,
                     "pathId": -7857042709760252530
+                },
+                {
+                    "origLen": 47,
+                    "pathId": -7557500030423729582
                 }
             ],
             "pathId": 41207970045561006,
@@ -941,13 +1044,15 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "……？　ただ？",
-            "enText": "…? Just?",
+            "enText": "...Just?",
             "nextBlock": 53,
             "origClipLength": 65,
+            "voiceIdx": 34,
+            "voiceSheetId": "041004001",
             "choices": [
                 {
                     "jpText": "楽しそうに走るなぁと思って見入ってたんだ",
-                    "enText": "I was just watching you run, thinking \nhow much fun you were having.",
+                    "enText": "I just thought you enjoy running like no-one\nelse does.",
                     "nextBlock": 53
                 }
             ],
@@ -964,9 +1069,11 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "えっ？　……それだけ？",
-            "enText": "Ehh? …That's all?",
+            "enText": "Oh? Just that?",
             "nextBlock": 54,
             "origClipLength": 84,
+            "voiceIdx": 35,
+            "voiceSheetId": "041004001",
             "animData": [
                 {
                     "origLen": 67,
@@ -980,17 +1087,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "あら、まあ……本当にそれだけなの？\r\nへえー……。",
-            "enText": "Oh, my… Is that really all you wanted? Hmmm…",
+            "enText": "Well, I never... That's really all? Wow...",
             "nextBlock": 55,
             "origClipLength": 205,
+            "voiceIdx": 36,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 175,
-                    "pathId": -5141683980610990718
-                },
                 {
                     "origLen": 211,
                     "pathId": 4066366883212079742
+                },
+                {
+                    "origLen": 175,
+                    "pathId": -5141683980610990718
                 }
             ],
             "pathId": -1340237245180006303,
@@ -1000,17 +1109,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふふっ！　君、なんだか変わってるのね。",
-            "enText": "Heheh! You're kind of a strange one, aren't you?",
+            "enText": "Haha! You're unusual—I'll give you that.",
             "nextBlock": 56,
             "origClipLength": 138,
+            "voiceIdx": 37,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": -3608116232337432427
-                },
                 {
                     "origLen": 20,
                     "pathId": -4540319094326363816
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -3608116232337432427
                 }
             ],
             "pathId": 6966814110247678105,
@@ -1020,17 +1131,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "ふふっ！　あなた、なんだか変わってるのね。",
-            "enText": "Heheh! You're kind of a strange one, aren't you?",
+            "enText": "Haha! You're unusual—I'll give you that.",
             "nextBlock": 57,
             "origClipLength": 138,
+            "voiceIdx": 37,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 71,
-                    "pathId": -7934761276079139885
-                },
                 {
                     "origLen": 20,
                     "pathId": -603960780978745826
+                },
+                {
+                    "origLen": 71,
+                    "pathId": -7934761276079139885
                 }
             ],
             "pathId": -8342261603970631078,
@@ -1040,17 +1153,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "じゃあ、あたしは好きに走っているから……\r\n君も、見ていたいならお好きにどうぞ？",
-            "enText": "Well, I'm have fun running… \nIf you have fun watching, be my guest?",
+            "enText": "Well, I'm going to keep on running, so...<n>you keep on watching if\nyou'd like.",
             "nextBlock": 58,
             "origClipLength": 225,
+            "voiceIdx": 38,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": -519541512710632063
-                },
                 {
                     "origLen": 56,
                     "pathId": -8811958246879188640
+                },
+                {
+                    "origLen": 63,
+                    "pathId": -519541512710632063
                 }
             ],
             "pathId": 4658260103374072911,
@@ -1060,17 +1175,19 @@
             "jpName": "マルゼンスキー",
             "enName": "Maruzensky",
             "jpText": "じゃあ、あたしは好きに走っているから……\r\nあなたも、見ていたいならお好きにどうぞ？",
-            "enText": "Well, I'm have fun running… \nIf you like watching, be my guest?",
+            "enText": "Well, I'm going to keep on running, so...<n>you keep on watching if\nyou'd like.",
             "nextBlock": 59,
             "origClipLength": 212,
+            "voiceIdx": 38,
+            "voiceSheetId": "041004001",
             "animData": [
-                {
-                    "origLen": 63,
-                    "pathId": 674779412165243707
-                },
                 {
                     "origLen": 56,
                     "pathId": -1614190059572116890
+                },
+                {
+                    "origLen": 63,
+                    "pathId": 674779412165243707
                 }
             ],
             "pathId": 5433782285500692384,
@@ -1080,23 +1197,23 @@
             "jpName": "モノローグ",
             "enName": "",
             "jpText": "その後もしばらく、恐るべき速さで、\r\nしかしながら楽しそうに駆け回る彼女を見守ったのだった……。",
-            "enText": "For a while after, I watched her run around, \nhappily, at tremendous speed…",
+            "enText": "And so I keep on watching. It's insane how<n>fast she runs, but she\nalways looks happy<n>while she does it.",
             "nextBlock": -1,
             "origClipLength": 107,
+            "voiceIdx": -1,
+            "voiceSheetId": "",
             "animData": [
-                {
-                    "origLen": 14,
-                    "pathId": 3772845960851980001
-                },
                 {
                     "origLen": 16,
                     "pathId": -5756217919983278570
+                },
+                {
+                    "origLen": 14,
+                    "pathId": 3772845960851980001
                 }
             ],
             "pathId": -2995968803671011650,
             "blockIdx": 59
         }
-    ],
-    "humanTl": true,
-    "modified": 1712266081
+    ]
 }
